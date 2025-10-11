@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 247000,
       "name": "Blushing",
       "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 155000,
       "name": "Mr. Eclectic",
       "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
@@ -1890,6 +1890,24 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "album": {
+        "name": "Silver Screens",
+        "url": "https://open.spotify.com/album/3OHp2k00Tx51yX33X2zyZw"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201896,
+      "name": "Silver Screens",
+      "url": "https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH"
     },
     {
       "album": {
@@ -2636,6 +2654,24 @@
       "duration_ms": 270680,
       "name": "Yes I'm Changing",
       "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
+    },
+    {
+      "album": {
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166983,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
     },
     {
       "album": {

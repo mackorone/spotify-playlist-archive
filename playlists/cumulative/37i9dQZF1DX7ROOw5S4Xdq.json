@@ -12331,6 +12331,24 @@
     },
     {
       "album": {
+        "name": "Deus Meu",
+        "url": "https://open.spotify.com/album/6BI3GvAIwVixejOxWO0BzR"
+      },
+      "artists": [
+        {
+          "name": "Veronica Sacer",
+          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Deus Meu",
+      "url": "https://open.spotify.com/track/6UHFh9QWJLbc9yshLS6OCS"
+    },
+    {
+      "album": {
         "name": "Deus na Minha Hist\u00f3ria",
         "url": "https://open.spotify.com/album/0AZMTlAIXhWO6j6tHStBKo"
       },
@@ -18027,8 +18045,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Lado A",
+        "url": "https://open.spotify.com/album/1VhUV32NGoLQ2kuaygzTKI"
       },
       "artists": [
         {

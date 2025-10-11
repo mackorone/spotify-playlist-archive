@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover:  Param",
+  "description": "Best of Punjabi Hip-Hop! Cover:  Navaan Sandhu",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "House Navior",
+        "url": "https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Dapper Dan",
+      "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
+    },
+    {
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF"
       },
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 213308,
       "name": "Hero (From \"Badnaam\")",
       "url": "https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV"
@@ -3252,6 +3270,24 @@
       "duration_ms": 228705,
       "name": "Levels",
       "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
+    },
+    {
+      "album": {
+        "name": "House Navior",
+        "url": "https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Levels & Graphs",
+      "url": "https://open.spotify.com/track/69AjrdgNtObkjqZEsMh15B"
     },
     {
       "album": {
@@ -4116,7 +4152,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 218531,
       "name": "NO MIDMAN",
       "url": "https://open.spotify.com/track/4vrnlcjMrRpTecEvdiuiAv"

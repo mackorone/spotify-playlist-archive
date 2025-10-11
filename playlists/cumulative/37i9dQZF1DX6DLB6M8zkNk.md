@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-114 songs - 6 hr 38 min
+115 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Pluto's Crossing: Id\. The Journey](https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P) | [Andrew Sparrow](https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N), [The Czech Film Orchestra](https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b), [Marek Valášek](https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1) | [Sparrow: Pluto's Crossing](https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8) | 2:04 | 2022-07-04 |  |
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY) | 2:31 | 2022-07-04 | 2024-04-19 |
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Brunch with Vivaldi](https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW) | 2:35 | 2022-10-07 | 2022-11-14 |
+| [Resonance](https://open.spotify.com/track/5jBvpZQRplWigmvSjMY2o4) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Jamie Duffy](https://open.spotify.com/album/7kZvHM83uaWWdoGUR8EFXP) | 3:53 | 2025-10-10 |  |
 | [Resurgam](https://open.spotify.com/track/4SsC4oX1tyBUFBSy4Gbw2l) | [Anne Dudley](https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Poldark: Music from the TV Series \(Deluxe Version\)](https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO) | 3:27 | 2022-02-14 |  |
 | [Reverie](https://open.spotify.com/track/1ZpuKQi2RmENWCy5TzgoFA) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Anna Handler](https://open.spotify.com/artist/6iIVSSyUhTWzzTKqcSRE0x) | [Reverie](https://open.spotify.com/album/2Z0tni35LysFk6jINdPMPy) | 2:58 | 2025-08-08 |  |
 | [River Waltz \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 2:22 | 2025-05-15 |  |

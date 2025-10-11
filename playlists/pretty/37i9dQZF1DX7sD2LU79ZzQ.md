@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Idgitaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,836 likes - 116 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,033 likes - 116 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/43Ed54bKecnKeq5MWhb2BC) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/3GikdpvnrtkUtfPbwzm9sy) | 3:50 |
 | 2 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
 | 3 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 |
-| 4 | [Sinaran](https://open.spotify.com/track/746zt4dF5QLp8kxI1yK6G5) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [](https://open.spotify.com/album/null) | 4:22 |
+| 4 | [Sinaran](https://open.spotify.com/track/746zt4dF5QLp8kxI1yK6G5) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Asmara Dansa](https://open.spotify.com/album/78Jt2I1kfZ5FHRAm0cRqIg) | 4:22 |
 | 5 | [Pergilah Kasih](https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Pergilah Kasih](https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv) | 4:17 |
 | 6 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 |
 | 7 | [10 Menit Untuk Selamanya](https://open.spotify.com/track/5SLVY1sGV2keqf7lnphHZU) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [10 Menit Untuk Selamanya](https://open.spotify.com/album/5cV4r5GpL0DAYk31qbzKk5) | 4:04 |

@@ -2,9 +2,9 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Sexyy Red & Rosé
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Cardi B
 
-581 songs - 1 day 3 hr 51 min
+582 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-04-10 | 2022-06-11 |
 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 | 2022-11-18 | 2023-06-24 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-09-09 | 2022-09-24 |
+| [2 Crash Outs \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2sQGacYminlTtshdBM81sx) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:48 | 2025-10-10 |  |
 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2021-10-15 | 2022-05-14 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-17 | 2024-10-12 |
 | [4,5,6](https://open.spotify.com/track/1t0vvwpJZXnZQTHV7gJl3l) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Gangsta Talk](https://open.spotify.com/album/23hGXVi3gBtKEpyvs1s2U7) | 2:31 | 2022-02-17 | 2022-03-05 |
@@ -194,7 +195,7 @@
 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 | 2025-09-12 |  |
 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 | 2022-07-29 | 2022-08-06 |
 | [Fashion Icon](https://open.spotify.com/track/69bzIFqUFyIjeFIe45jFni) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Fashion Icon](https://open.spotify.com/album/3q4wWa29EzzrMBcvxd6cos) | 2:09 | 2024-03-08 | 2024-05-25 |
-| [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-24 |  |
+| [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-24 | 2025-10-11 |
 | [Favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-05 |  |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-03-08 | 2024-11-23 |
 | [Feeling Myself](https://open.spotify.com/track/6ORDoQ6jxdfqNyqvUKDHF0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 3:57 | 2022-03-04 | 2023-09-09 |

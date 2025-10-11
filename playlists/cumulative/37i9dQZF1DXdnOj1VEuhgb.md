@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI x Modd
 
-739 songs - 1 day 9 hr 32 min
+740 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Tımarhane](https://open.spotify.com/track/0xHBeBJpUvOiNN7ZX2zAjW) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Tımarhane](https://open.spotify.com/album/7KSvOAJ6LsUdv4CKBAUdBg) | 3:50 | 2025-06-19 | 2025-06-27 |
 | [Tımarhane 2.0](https://open.spotify.com/track/2SRcCReE6Flu5d3tXh38Rl) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:13 | 2025-06-26 | 2025-07-25 |
 | [Ucubeler](https://open.spotify.com/track/0MzO6ISeqQsHCSEtyzck2m) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Ucubeler](https://open.spotify.com/album/1XWZW11ohfj9iFYwHYz6NH) | 2:03 | 2024-10-24 | 2024-11-08 |
+| [UGU GAGA](https://open.spotify.com/track/0OouuDbI6jeoYZ10DAC5KA) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [UGU GAGA](https://open.spotify.com/album/10lZetThyDHai52CoQpkMr) | 1:43 | 2025-10-10 |  |
 | [Underrated](https://open.spotify.com/track/4zO0OhG0WcOLqqYCNf1ZUy) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [TRAP ZONE](https://open.spotify.com/artist/2Rf5bF15wJxPz4LQatGKSt) | [Underrated](https://open.spotify.com/album/3312EVA6CqDfOC6Dp7vNmO) | 3:37 | 2025-03-20 | 2025-04-18 |
 | [Unuttum](https://open.spotify.com/track/2Nl2TM3WPLiiWx2YmDllsR) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Unuttum](https://open.spotify.com/album/1lDX5NhDDd9rw0gTtpR4mZ) | 1:56 | 2025-08-14 | 2025-08-29 |
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2023-01-10 | 2023-05-05 |
@@ -696,7 +697,7 @@
 | [Yangına Düşen](https://open.spotify.com/track/5klh1I4L0hAndPNCArmSBk) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Yangına Düşen](https://open.spotify.com/album/2nV7gHV6j8URFYZdIczHES) | 2:31 | 2025-09-25 | 2025-10-10 |
 | [Yanlışlarla Karşılaştım](https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Yanlışlarla Karşılaştım](https://open.spotify.com/album/4HSGfGY1KBz8xHYwSnja5K) | 2:06 | 2025-02-27 | 2025-08-23 |
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2023-01-10 | 2023-07-07 |
-| [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 | 2025-07-24 |  |
+| [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 | 2025-07-24 | 2025-10-11 |
 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 | 2023-04-27 | 2024-09-26 |
 | [Yara Bere](https://open.spotify.com/track/7JmB51xzzI6EsUaJTw90ob) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Yara Bere](https://open.spotify.com/album/2SLRC1kajw6CJifyScRn4R) | 2:18 | 2023-11-09 | 2024-01-12 |
 | [yarına kadar](https://open.spotify.com/track/6vlXoQbbKPl1uDXnTOCCZQ) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [yarına kadar](https://open.spotify.com/album/4ZIV7vS3w694ErmnJXCstl) | 2:23 | 2025-08-07 | 2025-08-29 |

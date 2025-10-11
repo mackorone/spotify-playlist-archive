@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like sad hour, with Cameron Whitcomb",
+  "description": "heartbreak feels good in a place like sad hour, with Maisie Peters",
   "name": "sad hour",
   "tracks": [
     {
@@ -8002,7 +8002,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 287500,
       "name": "I'm Glad We Met",
       "url": "https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh"
@@ -13582,7 +13582,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 282941,
       "name": "Shapeshifting on a Saturday Night - Alone in My Bedroom Version",
       "url": "https://open.spotify.com/track/72fwwIfHVFPCyzQinhKPpy"
@@ -16721,6 +16721,24 @@
     },
     {
       "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+    },
+    {
+      "album": {
         "name": "When I Hate Myself",
         "url": "https://open.spotify.com/album/2128hWtqbtGzK9HzKEGUAC"
       },
@@ -17768,6 +17786,24 @@
       "duration_ms": 221584,
       "name": "you were mine",
       "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
+    },
+    {
+      "album": {
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166983,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
     },
     {
       "album": {

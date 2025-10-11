@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26220,
+  "num_followers": 26218,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -455,30 +455,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Capriccio - Works for Violin and Piano [Digital version]",
-        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Strauss, R: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle (Arr. P\u0159\u00edhoda for Violin and Piano)",
-      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 147000,
       "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
       "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Capriccio - Works for Violin and Piano [Digital version]",
+        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Strauss, R: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle (Arr. P\u0159\u00edhoda for Violin and Piano)",
+      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -527,30 +527,6 @@
       "duration_ms": 907586,
       "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
       "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
-        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        }
-      ],
-      "duration_ms": 1070973,
-      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
-      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -611,6 +587,30 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
+        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        }
+      ],
+      "duration_ms": 1070973,
+      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
+      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -727,30 +727,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Richard Strauss",
-        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Guillaume Bellom",
-          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
-        }
-      ],
-      "duration_ms": 561213,
-      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
-      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 314533,
       "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
       "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Richard Strauss",
+        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Guillaume Bellom",
+          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        }
+      ],
+      "duration_ms": 561213,
+      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
+      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
     },
     {
       "added_at": "2025-09-15 14:00:17",

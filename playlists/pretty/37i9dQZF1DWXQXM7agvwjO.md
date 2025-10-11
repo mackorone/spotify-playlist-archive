@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: LOR \(Indonesia\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,171 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,297 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 5 | [Nowhere To Go](https://open.spotify.com/track/3LbEeEvU39ZUnIS8hauoAz) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Movie Star](https://open.spotify.com/album/3ZJiFWu51wwR9OOw8mRAWL) | 3:09 |
 | 6 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
 | 7 | [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 |
-| 8 | [Track 6](https://open.spotify.com/track/5cQe5xi5nxPbZwyz1q1DvF) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [原來我自作多情](https://open.spotify.com/track/5cQe5xi5nxPbZwyz1q1DvF) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 2:44 |
 | 9 | [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 |
 | 10 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 |
 | 11 | [No Way Now](https://open.spotify.com/track/4tliFlZ0KKMkhPHneWEZkC) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [No Way Now](https://open.spotify.com/album/51mtVHG6ArBiyWoHZPI1uo) | 5:03 |

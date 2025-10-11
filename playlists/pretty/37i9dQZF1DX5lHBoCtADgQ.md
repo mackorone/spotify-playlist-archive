@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,923 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,948 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 34 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
 | 35 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
 | 36 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
-| 37 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
-| 38 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
+| 37 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
+| 38 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
 | 39 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 |
 | 40 | [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 |
 | 41 | [Chan Kithan](https://open.spotify.com/track/3V94RK5PxcSSRCxhEWBIuQ) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Chan Kithan](https://open.spotify.com/album/34bEDfoNeAjmHWnkmPT5ky) | 3:51 |

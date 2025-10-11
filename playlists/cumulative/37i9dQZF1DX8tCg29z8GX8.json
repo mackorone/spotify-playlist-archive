@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Vth 2",
+        "url": "https://open.spotify.com/album/5BRuNa1MCmOQFc7164uNXd"
+      },
+      "artists": [
+        {
+          "name": "Omar Sterling",
+          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2utcd67JnYjlDaXQ92beai"
+    },
+    {
+      "album": {
         "name": "All On Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
       },
@@ -7046,7 +7068,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 206051,
       "name": "Kwaku Ananse",
       "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
@@ -13291,6 +13313,28 @@
     },
     {
       "album": {
+        "name": "Disturbation 2",
+        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P"
+    },
+    {
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
       },
@@ -13408,28 +13452,6 @@
       "duration_ms": 166000,
       "name": "Toxic Relationship",
       "url": "https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "date_added": "2025-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 13",
-      "url": "https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P"
     },
     {
       "album": {

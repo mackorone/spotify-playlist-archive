@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,486 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,556 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 15 | [Ya Para Qué](https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:18 |
 | 16 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 |
 | 17 | [Flaca](https://open.spotify.com/track/26JLezveasjmj1YypgUGsf) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn) | 3:24 |
-| 18 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 |
-| 19 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
+| 18 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
+| 19 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 |
 | 20 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
 | 21 | [Duelo](https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Duelo](https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy) | 2:52 |
 | 22 | [Me Da Lo Mismo](https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 4:06 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 33 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 |
 | 34 | [Pelinegra](https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pelinegra](https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK) | 3:37 |
 | 35 | [Verte Cerquita](https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 3:52 |
-| 36 | [No se me Olvida](https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No se me Olvida](https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd) | 3:07 |
-| 37 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 36 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 37 | [No se me Olvida](https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No se me Olvida](https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd) | 3:07 |
 | 38 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL) | 3:23 |
 | 39 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
 | 40 | [Sólo Tú](https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Todo Irá Bien](https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todo Irá Bien](https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP) | 3:11 |
 | 50 | [Caballero](https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:29 |
 
-Snapshot ID: `aOWpgAAAAABcDDNad6Ukwn5ya4KqsTFN`
+Snapshot ID: `aOb7AAAAAAB5cMiUELXFviqtAXyA23V4`

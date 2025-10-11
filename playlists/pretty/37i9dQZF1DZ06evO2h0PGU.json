@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 52819,
+  "num_followers": 52826,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAA78ioCAh3DpGsVOgVvgbI0",
+  "snapshot_id": "aOb7AAAAAADjUtVMr653RHT3HqtUsOgj",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 171426,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 135906,
-      "name": "Cold Light",
-      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
         "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 210066,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 135906,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
     },
     {
       "added_at": null,

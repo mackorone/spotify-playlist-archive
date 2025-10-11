@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-375 songs - 23 hr 41 min
+376 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Midnight Rebels](https://open.spotify.com/track/6RGx7EartalFdiV15QqMuu) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Midnight Rebels](https://open.spotify.com/album/3kDJa1RM5Vye2F5UpEc8uT) | 3:56 | 2024-11-21 | 2025-01-24 |
 | [Mind Of The Swarm](https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy) | [Dreamcall](https://open.spotify.com/artist/3a62EzBK7sjGhVtPOIs4r4) | [Mind Of The Swarm](https://open.spotify.com/album/2urmmNd2LEEpgurt7VfWYS) | 3:58 | 2024-08-22 | 2024-09-20 |
 | [More](https://open.spotify.com/track/3oQijSJAzZsR90SfW4tQBm) | [Ida Maria](https://open.spotify.com/artist/2MCUVoI9J8LEqtHvf3X5ln) | [More](https://open.spotify.com/album/3ujjv9SEtIifVo2EDAY8FY) | 2:48 | 2025-03-27 | 2025-10-10 |
-| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [](https://open.spotify.com/album/null) | 4:01 | 2025-10-09 |  |
+| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-09 |  |
 | [Murder in Red](https://open.spotify.com/track/6mIJJBuErDdVgyezVWcbFO) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Murder in Red](https://open.spotify.com/album/3CCweTlV8Hq7uqMiVjMHRn) | 4:49 | 2024-10-03 | 2025-04-12 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 | 2025-08-22 |
 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-18 |  |
@@ -234,7 +234,7 @@
 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 | 2024-10-24 | 2025-02-28 |
 | [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-06 | 2025-05-23 |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 | 2025-03-28 |
-| [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 | 2025-01-09 |  |
+| [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 | 2025-01-09 | 2025-10-11 |
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-06-27 | 2024-09-07 |
 | [Pain In Every Way](https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Pain In Every Way](https://open.spotify.com/album/2V5tlQoEflZEopXoFYLGnH) | 3:32 | 2024-06-27 | 2024-08-02 |
 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-19 | 2025-07-11 |
@@ -301,6 +301,7 @@
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-06 | 2024-09-27 |
 | [Take My Hand](https://open.spotify.com/track/7GHIoYHCbk6PbmWQlz578M) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Take My Hand](https://open.spotify.com/album/5gwqxGeT5yLGfG3Uy8z1KU) | 2:46 | 2024-08-22 | 2024-11-08 |
 | [Take the Power](https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dirty & Divine](https://open.spotify.com/album/0ud2bmJAS87JO2eYEqkMNr) | 2:58 | 2025-02-06 | 2025-08-29 |
+| [Tanz Der Toten](https://open.spotify.com/track/4uoxEdN95MwhF6QfvBabJP) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [Tanz Der Toten](https://open.spotify.com/album/2mJ7L2r4z88VSuHNcwuHci) | 3:06 | 2025-10-10 |  |
 | [Teenage Rebel](https://open.spotify.com/track/0i5DEAK979g2ZN8JLhQe7L) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:32 | 2024-06-27 | 2024-11-08 |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-04-24 | 2025-06-06 |
 | [The Accuser](https://open.spotify.com/track/7r5Zx79aDER2CUDrfeF9n8) | [Sparzanza](https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq) | [From Dust To Darkness](https://open.spotify.com/album/2tagO4X2aelnf3ulk7iUWW) | 3:21 | 2025-10-02 |  |

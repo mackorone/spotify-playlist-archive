@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 210705,
+  "num_followers": 210719,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABs4NyfeyJaZWi1+1CQcRer",
+  "snapshot_id": "aOb7AAAAAADRS5o6qNTkbdC/x/Fb5QqH",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198358,
-      "name": "A Death In The Family",
-      "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 122693,
       "name": "My Direction",
       "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198358,
+      "name": "A Death In The Family",
+      "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 230184,
-      "name": "The New Sensation",
-      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 230184,
+      "name": "The New Sensation",
+      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
     },
     {
       "added_at": null,

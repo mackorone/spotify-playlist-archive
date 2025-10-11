@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-283 songs - 10 hr 5 min
+284 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [betterlucknexttime](https://open.spotify.com/track/0oJzcDo14Hb9JHwLuBe3bb) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [betterlucknexttime](https://open.spotify.com/album/2HXxXNDQ3HHb2D0YBr0Cq0) | 2:53 | 2023-10-20 | 2023-11-21 |
 | [BFM \(w/ Britney Manson & kets4eki\)](https://open.spotify.com/track/5ZwMjCsprna6nM8D86dv6e) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [BFM \(w/ Britney Manson & kets4eki\)](https://open.spotify.com/album/19iAjvRqUO9NQrsO4jVMKl) | 2:28 | 2024-04-05 | 2024-05-25 |
 | [BLAME HER](https://open.spotify.com/track/5ZOGg0PbjdFRbo19tDS5NL) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt), [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6) | [BLAME HER](https://open.spotify.com/album/4xmwWx7TDOqaG5h4SxtxK3) | 1:58 | 2025-03-14 |  |
-| [BLOODBATH](https://open.spotify.com/track/30IcVPNfNfWeEqbSzQhMi6) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [BLOODBATH](https://open.spotify.com/album/6sQM9QliULfS4QOLrxK8Jk) | 2:12 | 2025-03-14 |  |
+| [BLOODBATH](https://open.spotify.com/track/30IcVPNfNfWeEqbSzQhMi6) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [BLOODBATH](https://open.spotify.com/album/6sQM9QliULfS4QOLrxK8Jk) | 2:12 | 2025-03-14 | 2025-10-11 |
 | [Blow Up!](https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Blow Up!](https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx) | 2:30 | 2023-09-08 | 2024-05-21 |
 | [BLUNT BITCHES](https://open.spotify.com/track/0bCb1xn7rZXY1FdP0RhVlr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [BLUNT BITCHES](https://open.spotify.com/album/2UhqcHM9MvbTlHQf6FdnSf) | 2:33 | 2025-10-03 |  |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2023-07-21 |  |
@@ -278,6 +278,7 @@
 | [What I Want](https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO) | [What I Want](https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q) | 3:02 | 2024-03-29 |  |
 | [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 | 2023-12-14 |  |
 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 | 2023-09-22 | 2024-05-18 |
+| [worry \- Slowed](https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [riserayss](https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib) | [worry](https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML) | 3:21 | 2025-10-10 |  |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-19 |  |
 | [XoWoah](https://open.spotify.com/track/43zAiS2UVIZ1V4tKoS7wA4) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [XoWoah](https://open.spotify.com/album/6CHQdCW2DoR2hYg8uaYlBd) | 1:37 | 2023-07-21 | 2023-07-29 |
 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/2otVGlTIMyGhIAyCcwb79v) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [XOXO \(Kisses Hugs\)](https://open.spotify.com/album/4KdsYbYINBVOGBfXOfUUJr) | 2:10 | 2024-01-12 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-560 songs - 1 day 7 hr 48 min
+561 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [E Antara](https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6) | [Puornausri D](https://open.spotify.com/artist/4CmS8ZU3EGQDw0dJ7APSsy), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [E Antara](https://open.spotify.com/album/5yFyCO1TBQ8drF3u8kOQW5) | 2:36 | 2024-01-31 | 2024-06-22 |
 | [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 | 2024-01-09 |
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 | 2023-09-30 |
+| [Eduralli Neenu](https://open.spotify.com/track/3MiD5s6E09yxgZfv09ayT0) | [Keshav Anand](https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb), [Sai Sarvesh](https://open.spotify.com/artist/0kJH0vVsNOyRSISjHfszWf) | [Eduralli Neenu](https://open.spotify.com/album/4khrp8pvpQqQjQjcmQH4Up) | 3:25 | 2025-10-10 |  |
 | [Ee Clubali Night Mubbbali](https://open.spotify.com/track/31VX5M0OGNIaKhue3OCLgv) | [Kishan Bijjur](https://open.spotify.com/artist/3S2ZrbffGmeAZgE9yIiDSF), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Ee Clubali Night Mubbbali](https://open.spotify.com/album/1VhQuh24MjgqY4rPxUm2md) | 4:39 | 2025-04-01 | 2025-09-07 |
 | [Ee Ghalige](https://open.spotify.com/track/7shQ0hDfaXvd5AKug5bNZQ) | [Suprabha B R](https://open.spotify.com/artist/1aJDIXGlfXO27HaizmQv27), [Staccato cafe](https://open.spotify.com/artist/2IPywP7nZXjsuGfohtjzVZ) | [Ee Ghalige](https://open.spotify.com/album/0jJZBPXfvt96nQhEYpP4Te) | 3:30 | 2024-11-04 | 2025-03-18 |
 | [Ee Gungalli](https://open.spotify.com/track/20FyYI3BKbdMQiWnUceUdF) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Ee Gungalli](https://open.spotify.com/album/7GNN2ddgGwGIe1KU5D0CwD) | 2:56 | 2025-09-15 |  |

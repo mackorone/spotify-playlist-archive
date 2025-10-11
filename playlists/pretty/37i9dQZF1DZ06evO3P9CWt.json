@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACtfdgQLBviFcuqMikk9QpZ",
+  "snapshot_id": "aOb7AAAAAADBtTd6MZa6eQzdcMV1nWav",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -903,18 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
       "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         }
       ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+      "duration_ms": 153423,
+      "name": "Ouro (feat. Urias)",
+      "url": "https://open.spotify.com/track/7zvGNZu33bC4jZEkXHdDZ6"
     },
     {
       "added_at": null,
@@ -983,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
       "artists": [
         {
@@ -992,29 +1012,21 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 153423,
-      "name": "Ouro (feat. Urias)",
-      "url": "https://open.spotify.com/track/7zvGNZu33bC4jZEkXHdDZ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
+          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
+        },
+        {
+          "name": "DJ Tonias",
+          "url": "https://open.spotify.com/artist/6R9FiidHLdoF8vJLIsnjub"
         }
       ],
-      "duration_ms": 174753,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/0fmoN2m4nuA4qGShcg3TuK"
+      "duration_ms": 179995,
+      "name": "Calma Amiga (feat. Anitta) - Dj RaMeMes (O DESTRUIDOR DO FUNK) & DJ Tonias Extended Mix",
+      "url": "https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

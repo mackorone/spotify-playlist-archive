@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1340383,
+  "num_followers": 1340296,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -493,38 +493,6 @@
       "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172786,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "It's Fine",
-        "url": "https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R"
-      },
-      "artists": [
-        {
-          "name": "Junes",
-          "url": "https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "It's Fine",
-      "url": "https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "SAYA",
@@ -543,18 +511,34 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+        "name": "It's Fine",
+        "url": "https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Junes",
+          "url": "https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv"
         }
       ],
-      "duration_ms": 270826,
-      "name": "You Noticed",
-      "url": "https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX"
+      "duration_ms": 240266,
+      "name": "It's Fine",
+      "url": "https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 172786,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -571,6 +555,22 @@
       "duration_ms": 199357,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "You Noticed",
+      "url": "https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -919,6 +919,26 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Olive Tree",
         "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 175636,
       "name": "Ama said",
       "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1219,18 +1203,34 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Emily and Me",
-        "url": "https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY"
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 252453,
-      "name": "Emily and Me",
-      "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 171901,
+      "name": "Fade Into A Dream",
+      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+        "name": "Emily and Me",
+        "url": "https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 171901,
-      "name": "Fade Into A Dream",
-      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
+      "duration_ms": 252453,
+      "name": "Emily and Me",
+      "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "cut! (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 128164,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Save My Heart",
         "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 291538,
       "name": "I Know A Place - Acoustic",
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "steal my soul",
-        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 141320,
-      "name": "steal my soul",
-      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1611,6 +1595,38 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "steal my soul",
+        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 141320,
+      "name": "steal my soul",
+      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "swimming in pity",
         "url": "https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 176973,
       "name": "swimming in pity",
       "url": "https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "In This Room - EP",
-        "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
-      },
-      "artists": [
-        {
-          "name": "Ryan McMullan",
-          "url": "https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "In This Room",
-      "url": "https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp"
     }
   ],
   "unique_name": "Easy",

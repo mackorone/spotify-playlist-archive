@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,636 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,643 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 49 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
 | 50 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 |
 | 51 | [Just Don't Want To Be Lonely](https://open.spotify.com/track/15moIwvRD6cUWrDUIB6tJo) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Reachin' Back](https://open.spotify.com/album/1ECSHlpISo7TsVMsbEdiuT) | 4:04 |
-| 52 | [Every Generation \- Remastered](https://open.spotify.com/track/2bWAUmHpvGMkMkHYjrCEhe) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Every Generation \(Remastered\)](https://open.spotify.com/album/55KJaaqlGFmdHysAekitOY) | 5:49 |
-| 53 | [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 |
+| 52 | [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 |
+| 53 | [Every Generation \- Remastered](https://open.spotify.com/track/2bWAUmHpvGMkMkHYjrCEhe) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Every Generation \(Remastered\)](https://open.spotify.com/album/55KJaaqlGFmdHysAekitOY) | 5:49 |
 | 54 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
 | 55 | [I Can't See Myself Leaving You](https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:01 |
 | 56 | [Midnight Love Affair](https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:34 |

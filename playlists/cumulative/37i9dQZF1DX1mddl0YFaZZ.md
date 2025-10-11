@@ -4,7 +4,7 @@
 
 > Que comience la fiesta.
 
-81 songs - 5 hr 50 min
+82 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [La Loba](https://open.spotify.com/track/0T0UiFcWu7Up3jjtcZwQ5p) | [Miriam y Las Chicas](https://open.spotify.com/artist/4Y4lp6GSau5wrFp5otreG9) | [Nueva Vida](https://open.spotify.com/album/2l9A7QT8GhT6VxF1y8OsMn) | 4:20 | 2023-09-22 | 2024-04-19 |
 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 | 2023-09-22 |  |
 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 | 2023-09-22 | 2024-04-19 |
-| [La Ultima Vez](https://open.spotify.com/track/1SUxJZSudxSyzbRvCWKkrp) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Prueba](https://open.spotify.com/album/7ugP0PYeR513RDLnzIaJVE) | 4:18 | 2023-09-22 |  |
+| [La Ultima Vez](https://open.spotify.com/track/1SUxJZSudxSyzbRvCWKkrp) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Prueba](https://open.spotify.com/album/7ugP0PYeR513RDLnzIaJVE) | 4:18 | 2023-09-22 | 2025-10-11 |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2023-09-22 |  |
 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 | 2023-09-22 |  |
 | [Latinos](https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Latinos](https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP) | 5:29 | 2023-09-22 |  |
@@ -69,6 +69,7 @@
 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 | 2023-09-22 |  |
 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 | 2023-09-22 |  |
 | [Ojalá Que Llueva Café](https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:13 | 2023-09-22 | 2024-04-19 |
+| [OTLP](https://open.spotify.com/track/2I0sc3YbC9UdiWGiQ40AST) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [Momentos](https://open.spotify.com/album/05mwN2Yt9c7xo96FkuvjG3) | 2:18 | 2025-10-10 |  |
 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 | 2023-09-22 |  |
 | [Para Darte Mi Vida \(with Milly Quezada\)](https://open.spotify.com/track/1SrTKJtKmtJtAoGYCaSnl1) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 3:46 | 2023-09-22 | 2024-08-04 |
 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 | 2023-09-22 |  |

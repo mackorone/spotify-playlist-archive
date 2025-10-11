@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,401 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,397 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 23 | [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 |
 | 24 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
 | 25 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
-| 26 | [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 |
-| 27 | [A Dança \- Ao Vivo](https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Dança \(Ao Vivo\)](https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg) | 4:03 |
+| 26 | [A Dança \- Ao Vivo](https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Dança \(Ao Vivo\)](https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg) | 4:03 |
+| 27 | [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 |
 | 28 | [\#TETAS](https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [\#TETAS](https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq) | 2:29 |
 | 29 | [AO TEU LADO](https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:11 |
 | 30 | [DEMORO A DORMIR](https://open.spotify.com/track/2jT4BeLP0YxXXleJijuPsq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:53 |

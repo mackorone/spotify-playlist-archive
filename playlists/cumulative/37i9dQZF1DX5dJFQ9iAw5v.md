@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-122 songs - 10 hr 23 min
+123 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 | 2022-09-09 | 2025-09-13 |
 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 | 2025-04-14 | 2025-10-10 |
 | [Desde El Corazon](https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7) | [Mensajes Secretos](https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g) | 6:04 | 2022-08-12 | 2025-08-02 |
+| [Diez Fotos Viejas\-Pieza 1](https://open.spotify.com/track/1np704HUCoilDckrl6dqUa) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Facundo Ferreira](https://open.spotify.com/artist/2xDy01Qvws5b7M7iAEYkLH) | [Un Rezo](https://open.spotify.com/album/74E3AY31laalZd0YeWS8OE) | 2:00 | 2025-04-14 |  |
 | [Disco Inferno](https://open.spotify.com/track/62WJX6nry2MWBZ2ns4tGg1) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 5:14 | 2022-08-12 |  |
-| [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 | 2025-03-28 |  |
+| [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 | 2025-03-28 | 2025-10-11 |
 | [Doña Cha Cha](https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ), [Carlos Michelini](https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [Marcelo Mayor](https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV), [Ezequiel "Chino" Piazza](https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6), [Beto Merino](https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT) | [Afropuertas](https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp) | 6:02 | 2022-08-12 |  |
 | [El Dia que me Quieras](https://open.spotify.com/track/1SwDFyCldGRSvsdqiMTp3I) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 3:20 | 2022-08-12 | 2023-11-04 |
 | [El Dia que me Quieras](https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU) | 3:20 | 2023-10-26 | 2024-04-19 |

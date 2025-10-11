@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-714 songs - 1 day 10 hr 1 min
+715 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Dil Vadda](https://open.spotify.com/track/6yvKn1YtSndOeVmD9FxUvG) | [Harsh Ghotra](https://open.spotify.com/artist/0VJyYibVbklwXW7vUweaCU), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV) | [Dil Vadda](https://open.spotify.com/album/0mAU3kbR9BgGE8SHx8yIri) | 3:08 | 2024-09-30 | 2024-11-15 |
 | [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo), [Nayaab](https://open.spotify.com/artist/4OQJHolpu0nucmMZHVIv5H) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 | 2025-02-06 | 2025-02-21 |
 | [Dior](https://open.spotify.com/track/0DoyE2iuXrUjrHr9cLqCmp) | [Harpreet Kalewal](https://open.spotify.com/artist/2nT4wsPEIZH3ONWnv5VvxQ) | [Dior](https://open.spotify.com/album/2bEjkwncDxc9oZCpbZ1Km8) | 2:29 | 2023-10-06 | 2023-10-27 |
+| [Dirty Money](https://open.spotify.com/track/1QKPpDuQ9UPHfKuZusKWrp) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Dirty Money](https://open.spotify.com/album/1WCLB1lfJxn8c4rbHbgkGP) | 2:46 | 2025-10-10 |  |
 | [Distance](https://open.spotify.com/track/4FYTPNiMWiY72Kvo1JKDt6) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP) | [Distance](https://open.spotify.com/album/0fVMSMACe6VFfutsNwIwAa) | 2:23 | 2023-07-20 | 2023-07-25 |
 | [DND](https://open.spotify.com/track/2jPpmBisn0pKsFyW6mGrIV) | [Param Randhawa](https://open.spotify.com/artist/02Flt7lbv2EfSMdVv3w1yM) | [DND](https://open.spotify.com/album/5c1etI5pvcQtIfurcfFPWa) | 2:10 | 2023-10-04 | 2023-10-18 |
 | [Do or Die](https://open.spotify.com/track/6X5NGQQTHJ1nnbWx3mv5mv) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Do or Die](https://open.spotify.com/album/7IhBM442YmiKjUZTH0iTpr) | 2:13 | 2023-08-23 | 2025-01-24 |
@@ -447,7 +448,7 @@
 | [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 | 2023-08-23 | 2024-04-12 |
 | [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 | 2023-06-09 | 2023-10-10 |
 | [Naal Te Khilaaf](https://open.spotify.com/track/2ekzpv3xcC4LGoK7xMIyDB) | [Yeah Cheif](https://open.spotify.com/artist/53ck2MWfzBjUNv3lFa3WEW), [Dollar Sidhu](https://open.spotify.com/artist/47m5PyNllVV5mnuIHj0HbN), [Ranveer Sidhu](https://open.spotify.com/artist/15q3PtMBtWriJ43h8pBhfV) | [Naal Te Khilaaf](https://open.spotify.com/album/09ojkod7xnluA6S19IGHbP) | 2:34 | 2025-07-11 | 2025-07-29 |
-| [Naam Honey Singh](https://open.spotify.com/track/0ZvXfqcFXDNZJ54zMvoOd0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:37 | 2025-09-26 |  |
+| [Naam Honey Singh](https://open.spotify.com/track/0ZvXfqcFXDNZJ54zMvoOd0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:37 | 2025-09-26 | 2025-10-11 |
 | [Naam Jatt Da](https://open.spotify.com/track/6TjqQuqXmXOfHIsCcYvBaI) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Naam Jatt Da](https://open.spotify.com/album/0wG8O5Y2b4UHAHgyQ6EJKl) | 2:08 | 2023-03-29 | 2023-04-21 |
 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2023-03-29 | 2025-02-27 |
 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 | 2023-06-30 | 2024-04-19 |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,777 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,786 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [When You Know You Know](https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th) | 2:57 |
 | 2 | [Smokin’ Gun](https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Smokin' Gun](https://open.spotify.com/album/5rbRTLNHTrjEYrwD2iMDFF) | 2:59 |
 | 3 | [Taillight This Town](https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Taillight This Town](https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH) | 3:06 |
 | 4 | [Life's Waiting On Me](https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Life's Waiting On Me](https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP) | 3:09 |
 | 5 | [Hearts Don't Break](https://open.spotify.com/track/4MK4jsFbuW2yjAZGxLpIdb) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8), [Antonio Larosa](https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX) | [Hearts Don't Break](https://open.spotify.com/album/3CqFzCygjaA2cnaKdp4NSB) | 3:13 |
 | 6 | [Somebody To Love](https://open.spotify.com/track/5pMqKMKf7v6XZYG8yNTDTQ) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Somebody To Love](https://open.spotify.com/album/5MfLJ1KUO0Q1vVvFpbxqYz) | 3:07 |
-| 7 | [Fire Child](https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [](https://open.spotify.com/album/null) | 3:07 |
+| 7 | [Fire Child](https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [Fire Child](https://open.spotify.com/album/3owKjqyBwMUl4a47gVWRDT) | 3:07 |
 | 8 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
 | 9 | [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 |
 | 10 | [Scared Of Getting Sober](https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:30 |

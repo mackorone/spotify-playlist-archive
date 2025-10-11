@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,462 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,466 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 13 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 |
 | 14 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
 | 15 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
-| 16 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
-| 17 | [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 |
+| 16 | [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 |
+| 17 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 18 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 19 | [How can I love the heartbreak, you're the one I love](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 4:50 |
 | 20 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Stuck In The Middle](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 50 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 |
 | 51 | [Get To You](https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [KING THE LAND \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU) | 3:27 |
 | 52 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 |
-| 53 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 |
-| 54 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
+| 53 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
+| 54 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 |
 | 55 | [I\`m Firefly](https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I\`m Firefly](https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT) | 3:35 |
 | 56 | [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 |
 | 57 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 |

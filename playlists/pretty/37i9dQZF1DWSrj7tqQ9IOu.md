@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Saint Stacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,128 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,118 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 8 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
 | 9 | [Nuits bleues](https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Nuits bleues](https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H) | 2:42 |
 | 10 | [Une jolie fille](https://open.spotify.com/track/64syxbGEBZBe81dKa3sydi) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Une jolie fille](https://open.spotify.com/album/05MrCtQiVEhSwx3lLn3B5z) | 3:08 |
-| 11 | [Track 4](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 |
 | 12 | [LES PASSANTES](https://open.spotify.com/track/3dk69hKEv7q7UeEV3EJPoL) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [LES PASSANTES](https://open.spotify.com/album/2aU96UF1YXLJ9cBdRp2U1T) | 4:00 |
 | 13 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 |
 | 14 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |

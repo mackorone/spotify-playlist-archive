@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,402 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,399 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 19 | [Als Je Alles Weet](https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 4:11 |
 | 20 | [Amor, Amor, Amor](https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:46 |
 | 21 | [De Nacht Is M'n Leven](https://open.spotify.com/track/4mvIRuhH0DNbObyjCddEFI) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:23 |
-| 22 | [Zomer](https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:38 |
-| 23 | [Dat Ene Moment](https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 4:17 |
+| 22 | [Dat Ene Moment](https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 4:17 |
+| 23 | [Zomer](https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:38 |
 | 24 | [Diep In Mijn Hart](https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:47 |
 | 25 | [Bedankt Mijn Vriend](https://open.spotify.com/track/2f8rXpUhlKYsK1zUnHeSJj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 3:17 |
 | 26 | ['n Vriend](https://open.spotify.com/track/08uynYGHmW0iPtuiQkrQM5) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 49 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1nfhJk2pQuGFCw4c1Tbqvq) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:33 |
 | 50 | [Droomland \- Live](https://open.spotify.com/track/5lqvbixZHS30HYud97yhF6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:26 |
 
-Snapshot ID: `aOWpgAAAAAD/rj+74uVrLuIbGzDDtpJf`
+Snapshot ID: `aOb7AAAAAACsgbvqanyclwwssW+UPf1I`

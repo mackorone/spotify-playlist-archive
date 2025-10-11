@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,711 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,720 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 38 | [Home "La La La"](https://open.spotify.com/track/56ftzomXxvahAqZlFcBsaO) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Home "La La La"](https://open.spotify.com/album/1vfFaZBZz6lKMfeU6cMPDT) | 3:27 |
 | 39 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 40 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
-| 41 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
-| 42 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 41 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 42 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 43 | [לחוש את האור](https://open.spotify.com/track/4hr4NNBxDsyjo4RwQQ5Rz8) | [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM), [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7) | [לחוש את האור](https://open.spotify.com/album/3sQ17Eb8DLEgAuZVu54P3R) | 3:45 |
 | 44 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
 | 45 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |

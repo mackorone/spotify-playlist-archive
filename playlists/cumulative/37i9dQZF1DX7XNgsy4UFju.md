@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: Babygirl
 
-2,555 songs - 6 day 6 hr 37 min
+2,556 songs - 6 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,6 +1299,7 @@
 | [Life As It Comes](https://open.spotify.com/track/4t8LId4jMs76b41wETklvD) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Life As It Comes](https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I) | 4:19 | 2021-12-31 | 2022-01-22 |
 | [Life Is A Desert](https://open.spotify.com/track/6Weei9h2mW2SzdaSwfVu6S) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Life Is A Desert](https://open.spotify.com/album/3K3CcFHXnic69E9YRdFHEo) | 3:42 | 2025-07-18 | 2025-09-19 |
 | [Life is Not](https://open.spotify.com/track/0FRdchHg3MSDf9wUPp1ZdD) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Life is Not](https://open.spotify.com/album/1sQpkX1lNUGWrV0b4kxaKk) | 3:59 | 2021-12-31 | 2022-01-15 |
+| [Life Worth Living](https://open.spotify.com/track/0wxJLjVMexJmIhPXlvQSbg) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Life Worth Living](https://open.spotify.com/album/7mqs5WLQEuZDuCgmEtcjUd) | 2:40 | 2025-10-10 |  |
 | [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 | 2023-01-27 | 2023-04-29 |
 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 | 2023-09-22 | 2023-10-14 |
 | [Light](https://open.spotify.com/track/6t7ssvIwRyThKBiI9xi85q) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Light](https://open.spotify.com/album/3Y3SK2ySrRdlYccBgHyCki) | 2:51 | 2024-03-22 | 2024-04-06 |
@@ -2104,7 +2105,7 @@
 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 | 2022-07-22 | 2022-11-05 |
 | [Sushi in Wyoming](https://open.spotify.com/track/0Cl6j6DgLeGhnyI1FR7eY6) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Le Soir](https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge) | 2:52 | 2023-08-25 | 2023-10-07 |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-20 | 2024-01-13 |
-| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [](https://open.spotify.com/album/null) | 4:11 | 2025-10-10 |  |
+| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-10-10 |  |
 | [Sway](https://open.spotify.com/track/4AMMsjbf5fr3p5DAUfYpwg) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Derealised](https://open.spotify.com/album/2N2D3TzH9vw0kUu4UOpezT) | 4:45 | 2023-01-20 | 2023-04-22 |
 | [SWEAT](https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [SWEAT](https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7) | 3:33 | 2025-05-23 | 2025-08-15 |
 | [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 | 2024-03-08 | 2024-04-19 |

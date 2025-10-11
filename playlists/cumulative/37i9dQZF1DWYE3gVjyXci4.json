@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Cycle Breaker Pt. I",
+        "url": "https://open.spotify.com/album/2eBkMJQxyCz85SWW3HJIsw"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Cycle Breaker",
+      "url": "https://open.spotify.com/track/3lwKje10iLBmpzD18HHuBM"
+    },
+    {
+      "album": {
         "name": "don\u2019t miss me",
         "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 201694,
       "name": "Favourite Ex",
       "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 224349,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
@@ -742,6 +760,24 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220564,
+      "name": "Ruin The Friendship",
+      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
     },
     {
       "album": {

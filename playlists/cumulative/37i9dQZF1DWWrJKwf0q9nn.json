@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
+    },
+    {
+      "album": {
         "name": "After You (feat. FAANGS)",
         "url": "https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU"
       },
@@ -505,8 +523,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/6eajHlYaTp76YHTkZoyIZF"
       },
       "artists": [
         {
@@ -4835,6 +4853,28 @@
     },
     {
       "album": {
+        "name": "No Signal",
+        "url": "https://open.spotify.com/album/70xZauwZvwVCXGjKNVlbTq"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "ROWN",
+          "url": "https://open.spotify.com/artist/4WZfWEaVAJg0Sil7Ju7iea"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/2vVVyryBx99KGMNd4pFZcA"
+    },
+    {
+      "album": {
         "name": "nobody (make me feel)",
         "url": "https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ"
       },
@@ -7161,8 +7201,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Highly Rogue",
+        "url": "https://open.spotify.com/album/13GBaRgu5EYW0MslqoJUrd"
       },
       "artists": [
         {

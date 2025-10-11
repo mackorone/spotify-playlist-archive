@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: cosmosy)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: BABYMONSTER)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 196013,
       "name": "BLUE!",
       "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 140241,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 137000,
       "name": "GOD",
       "url": "https://open.spotify.com/track/6Ev2eykd1Iv7ihZp1bnNSQ"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
@@ -6556,7 +6556,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
@@ -7404,7 +7404,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
@@ -7628,7 +7628,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -8216,7 +8216,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 194013,
       "name": "SHOTTY",
       "url": "https://open.spotify.com/track/2gtCPs64x3zHmPN4oMCaVC"
@@ -8656,7 +8656,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 157120,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
@@ -9056,7 +9056,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 172000,
       "name": "THRILLER",
       "url": "https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B"
@@ -9424,7 +9424,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
@@ -9828,6 +9828,24 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+    },
+    {
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
     },
     {
       "album": {

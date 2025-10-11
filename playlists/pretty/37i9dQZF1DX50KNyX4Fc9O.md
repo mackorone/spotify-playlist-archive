@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: RIIKI REID
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,113 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,116 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/5OMvBo5dBvNVDnGDuSDpsr) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Race Against My Heartbeat](https://open.spotify.com/track/5OMvBo5dBvNVDnGDuSDpsr) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Drench](https://open.spotify.com/album/7iO6ONbfPWRfJ7fjgbcsai) | 3:22 |
 | 2 | [Only One Laughing](https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Only One Laughing](https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw) | 4:09 |
 | 3 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 4 | [Eraser](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Some Kind of Alchemy](https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3) | 3:29 |
-| 5 | [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [](https://open.spotify.com/album/null) | 2:48 |
+| 5 | [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:48 |
 | 6 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 7 | [Hotness!!!](https://open.spotify.com/track/0bUIvOKt3GFM6MnAfwraEa) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Hotness!!!](https://open.spotify.com/album/3BPNkCBaNKLmnfsHXoLfYF) | 2:36 |
 | 8 | [Blue Moon](https://open.spotify.com/track/20R5YwjmKubeva79prlvJq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:02 |
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 10 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 |
 | 11 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 12 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
-| 13 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 |
-| 14 | [The Art of Falling First](https://open.spotify.com/track/6wfTmPRIqLGSgCPc9fQyTV) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [](https://open.spotify.com/album/null) | 2:54 |
+| 13 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
+| 14 | [The Art of Falling First](https://open.spotify.com/track/6wfTmPRIqLGSgCPc9fQyTV) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [The Art of Falling First](https://open.spotify.com/album/3FJQmvF9KwRMVbrIaxq2ms) | 2:54 |
 | 15 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
 | 16 | [Heart on Fire](https://open.spotify.com/track/76k6Av4PyMxrMvbY9NHQUU) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Afterglow](https://open.spotify.com/album/49Eh0Oixu9Sfo43ujAY1sk) | 3:13 |
 | 17 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 18 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
 | 19 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 |
-| 20 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [](https://open.spotify.com/album/null) | 2:59 |
+| 20 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
 | 21 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 |
 | 22 | [Fascination in the Dark](https://open.spotify.com/track/4UOKLBw6ZR5xpR9jaG2NUV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Fascination in the Dark](https://open.spotify.com/album/06dDIGf4YZHacClBo9RRIj) | 2:55 |
 | 23 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |

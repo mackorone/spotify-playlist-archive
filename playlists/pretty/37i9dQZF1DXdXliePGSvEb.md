@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,118 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,127 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 19 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 20 | [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 |
 | 21 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
-| 22 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
-| 23 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
+| 22 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
+| 23 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
 | 24 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 |
 | 25 | [tell me](https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [tell me \(K edit\)](https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr) | 2:43 |
 | 26 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 37 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 |
 | 38 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
 | 39 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 |
-| 40 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
-| 41 | [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 |
+| 40 | [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 |
+| 41 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 42 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
 | 43 | [Buss It](https://open.spotify.com/track/26rXcfZulgs5227R79sOqu) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Papa Nugs](https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP), [Blapps Posse](https://open.spotify.com/artist/4ujfjA8RexRRCcQ58gDg4T) | [Buss It](https://open.spotify.com/album/4opq6N2izzr27gixiWWfcF) | 4:48 |
 | 44 | [Pulgueiro Baile](https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Pulgueiro Baile](https://open.spotify.com/album/0vmsUk7bKO8Kg0oh30Ghsz) | 3:21 |

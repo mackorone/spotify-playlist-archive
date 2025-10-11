@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Allday
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,889 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,912 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Up](https://open.spotify.com/track/14jQipq7mtV2HCpdOQlHyE) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Get Up](https://open.spotify.com/album/2y0qzTAPB22qOzsby37Wx3) | 1:58 |
-| 2 | [Track 10](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Legacy in Motion](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Legacy In Motion](https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj) | 3:16 |
 | 3 | [Up & Stuck](https://open.spotify.com/track/3BcKy00Bn0Dg289aRxyaE2) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Up & Stuck](https://open.spotify.com/album/5OPVh7jvp6aLaJT2qx40vn) | 2:43 |
 | 4 | [over the moon](https://open.spotify.com/track/2eVT8qI1xiFmGQ4MBbAojj) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [over the moon](https://open.spotify.com/album/6lUMqAJBAdTsW4RUFeXcDR) | 2:12 |
-| 5 | [RUNNING LOW \(feat\. Pardyalone\)](https://open.spotify.com/track/6O34FlFOlnWpBtp1rtaiy2) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [](https://open.spotify.com/album/null) | 2:57 |
+| 5 | [RUNNING LOW \(feat\. Pardyalone\)](https://open.spotify.com/track/6O34FlFOlnWpBtp1rtaiy2) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [DJANDJAY](https://open.spotify.com/album/6VOlu6p7XLE21tX9eoK2CD) | 2:57 |
 | 6 | [DNA](https://open.spotify.com/track/0BVK3omgiXbmEcZAmOdMMX) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [DNA](https://open.spotify.com/album/7AVd1zduZg4xjtVxNxxAbb) | 3:34 |
 | 7 | [Maroubra Villain \(feat\. Hellcat Speedracer\)](https://open.spotify.com/track/1bDwBMX4ssdrvWOmTi63Xz) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Maroubra Villain \(feat\. Hellcat Speedracer\)](https://open.spotify.com/album/1LjmAF05GIS7CBzTAsZWs7) | 3:04 |
 | 8 | [Lost For Words](https://open.spotify.com/track/4H9YOgkf9tWbOWgyHT8pWf) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Lost For Words](https://open.spotify.com/album/2Xp7aMi4BihxB4ypHhDOAJ) | 3:25 |

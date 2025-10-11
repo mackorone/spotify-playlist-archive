@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAD4k8JqH1dRDDr8uCTLawS8",
+  "snapshot_id": "aOb7AAAAAACj9Wb1eJjUoy5JutJ38zjT",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Fuga del Jefe",
-      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Adelante",
         "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 155730,
       "name": "Estas Ganas de Tomar",
       "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "La Fuga del Jefe",
+      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 193190,
-      "name": "La Vida del Changuito",
-      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eso Es La Riqueza",
         "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174693,
       "name": "Eso Es La Riqueza",
       "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "La Vida del Changuito",
+      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
     },
     {
       "added_at": null,
@@ -951,18 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "Luz De Dia",
+        "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Ele-Eme",
+          "url": "https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR"
         }
       ],
-      "duration_ms": 166917,
-      "name": "Ya No Se Olvidarte",
-      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
+      "duration_ms": 197421,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

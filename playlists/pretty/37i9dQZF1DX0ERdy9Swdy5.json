@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 781652,
+  "num_followers": 781747,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 446333,
-      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "No Lo Voy a Olvidar",
-        "url": "https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg"
+        "name": "Serie Cinco Estrellas",
+        "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
       },
       "artists": [
         {
-          "name": "Brenda K. Starr",
-          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 279200,
-      "name": "Si Me Preguntan Por Ti",
-      "url": "https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ"
+      "duration_ms": 288226,
+      "name": "O Ella O Yo",
+      "url": "https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Serie Cinco Estrellas",
-        "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
+        "name": "No Lo Voy a Olvidar",
+        "url": "https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Brenda K. Starr",
+          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
         }
       ],
-      "duration_ms": 288226,
-      "name": "O Ella O Yo",
-      "url": "https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla"
+      "duration_ms": 279200,
+      "name": "Si Me Preguntan Por Ti",
+      "url": "https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ"
     },
     {
       "added_at": "2024-07-12 19:20:44",

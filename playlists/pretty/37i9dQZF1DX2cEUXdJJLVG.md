@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,670 likes - 117 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,658 likes - 117 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 |
-| 2 | [BE REAL \(Feat\. Life on Planets\)](https://open.spotify.com/track/0qJvLgSgaET429BhotCqVU) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [](https://open.spotify.com/album/null) | 3:31 |
+| 2 | [BE REAL \(Feat\. Life on Planets\)](https://open.spotify.com/track/0qJvLgSgaET429BhotCqVU) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Arriving Home Elsewhere](https://open.spotify.com/album/1UUvVbMhwZbh8sk9E5NAQ5) | 3:31 |
 | 3 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 4 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 |
 | 5 | [Catch Onto This Feeling](https://open.spotify.com/track/2ZmAHiwROLEZedDPrXpWoi) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Catch Onto This Feeling](https://open.spotify.com/album/2YKlSVsLrYlNpRwElQeCPc) | 5:26 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 21 | [She Said House](https://open.spotify.com/track/1gdU5esJvG2QqvOAuWvm3e) | [Shabi](https://open.spotify.com/artist/5rGlP49zcapuK6wZayPfYj) | [On My Mind EP](https://open.spotify.com/album/7iVBzpsC4t8usztG0SCdd5) | 5:56 |
 | 22 | [Sunshine](https://open.spotify.com/track/7zkRbkeXRq1i8ldQt5Zwsk) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Sunshine](https://open.spotify.com/album/0AVlwvNZRfTBKuSYFWpsHE) | 3:00 |
 | 23 | [Lucky \(Song 7\)](https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lucky \(Song 7\)](https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa) | 3:51 |
-| 24 | [Dreams \(Feat\. Liv East\)](https://open.spotify.com/track/493yCzySuxjGgmPF8OxOvq) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [](https://open.spotify.com/album/null) | 2:26 |
+| 24 | [Dreams \(Feat\. Liv East\)](https://open.spotify.com/track/493yCzySuxjGgmPF8OxOvq) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Arriving Home Elsewhere](https://open.spotify.com/album/1UUvVbMhwZbh8sk9E5NAQ5) | 2:26 |
 | 25 | [Answer](https://open.spotify.com/track/4RHSOhJYoftx7lLglL74Rm) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Hard Work EP](https://open.spotify.com/album/4Hd7GPsHrEs18SL70She2c) | 3:05 |
 | 26 | [Green and Gold \- Delfonic Rework](https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 4:01 |
 | 27 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 |

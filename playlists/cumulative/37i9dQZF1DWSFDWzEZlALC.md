@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Aaron, Zartmann
 
-1,450 songs - 2 day 20 hr 15 min
+1,450 songs - 2 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [durchdenwind](https://open.spotify.com/track/2yy0N8goZoobfBbuf4i5vz) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [durchdenwind](https://open.spotify.com/album/50xPqyF5JFIXRUkWRgQNpp) | 2:01 | 2025-07-24 | 2025-09-05 |
 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 | 2025-06-05 | 2025-08-23 |
 | [Dünya](https://open.spotify.com/track/7jI2dBQDgD00pYz6eTP7iD) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Dünya](https://open.spotify.com/album/7ljoJZvyV5EFoLgprpkf2e) | 2:56 | 2025-02-13 | 2025-02-15 |
+| [E\-Scooter](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Knutschen & Boxen](https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9) | 3:33 | 2025-10-09 |  |
 | [eBay](https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [eBay](https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU) | 2:22 | 2024-03-07 | 2024-03-29 |
 | [Echo](https://open.spotify.com/track/38kyUaEzbBm3dv86WYORjS) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [Echo](https://open.spotify.com/album/2Wp9NXUnTguV7JwX7NR8gO) | 2:40 | 2025-06-26 | 2025-07-29 |
 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 | 2024-07-18 | 2024-11-08 |
@@ -810,6 +811,7 @@
 | [Luftschloss](https://open.spotify.com/track/1NJ1BkSyT0PAcbCPOQmtmJ) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Erinnerst du dich](https://open.spotify.com/album/6HGoY1yJ9SvuXzbZz5k037) | 2:30 | 2025-09-04 |  |
 | [Lungenflügel](https://open.spotify.com/track/6toQ6T0tXZm6XZy1dKHrEF) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Lungenflügel](https://open.spotify.com/album/5bPifu17qFz3j91MKxMh3t) | 2:38 | 2024-01-18 | 2024-02-09 |
 | [Lärm](https://open.spotify.com/track/1oBy3oAxgmTcWLKS8AAWKK) | [Yosho](https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT) | [Lärm](https://open.spotify.com/album/4PESfTl0glEhMTtEYFRAHy) | 1:38 | 2024-04-25 | 2024-05-17 |
+| [Mach Was Ich Will](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [ALLE MEINE FREUNDE SIND TRÄUMER](https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj) | 2:34 | 2025-10-09 |  |
 | [machs für dich allein](https://open.spotify.com/track/0RkKUD6Q8l15P4DAwnRean) | [Rex](https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY) | [machs für dich allein](https://open.spotify.com/album/2C7krwXT3vlw4tnvILV0Yo) | 2:11 | 2025-05-29 | 2025-08-09 |
 | [Mailand](https://open.spotify.com/track/6yL8yqfzMPooUhF6PHe81x) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Mailand](https://open.spotify.com/album/22LFqHs3L8xqDRzK53B6XT) | 1:48 | 2025-09-04 |  |
 | [mama](https://open.spotify.com/track/3KC5rxlfJZIb4VCSqqPEHu) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [mama](https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz) | 3:07 | 2023-11-16 | 2024-01-26 |
@@ -1133,6 +1135,7 @@
 | [Softpower](https://open.spotify.com/track/3B5oJyOZEX8AQTmPchvunh) | [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG) | [Softpower](https://open.spotify.com/album/33ZTgCDONFEhukeh0NMWKc) | 4:02 | 2023-06-15 | 2023-07-07 |
 | [SOLANGE DAS NOCH GEHT](https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [F\*CK you](https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH) | 2:21 | 2023-10-19 | 2023-11-10 |
 | [solitude](https://open.spotify.com/track/1uGkQ3pJ2IjaQiLF5c7Yh5) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [solitude](https://open.spotify.com/album/4yFUrh1XARnDIKlk1jjWuD) | 2:37 | 2024-09-12 | 2024-09-27 |
+| [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 | 2025-10-09 |  |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 | 2023-07-13 | 2023-09-29 |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 | 2023-07-20 |
 | [Sommer macht melancholisch](https://open.spotify.com/track/0u716Qk5hYqmj74KxHmk1E) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Sommer macht melancholisch](https://open.spotify.com/album/4ho4Hqv3CbFMMAxqFJPlx1) | 3:22 | 2025-02-06 | 2025-05-30 |
@@ -1228,9 +1231,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 11](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
-| [Track 13](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
-| [Track 3](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

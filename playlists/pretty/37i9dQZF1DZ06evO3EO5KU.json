@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 163768,
+  "num_followers": 163785,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAADHaWO1JWikfL7acGPbvhE",
+  "snapshot_id": "aOb7AAAAAAA/N55hNeeuLCPY2i8H7L8c",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Cu\u00e9ntame Tus Penas",
+      "url": "https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
         "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
       },
@@ -443,22 +463,6 @@
       "duration_ms": 282349,
       "name": "Me Llamas - En Vivo",
       "url": "https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Suerte",
-        "url": "https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Un Mentado Ariel",
-      "url": "https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW"
       },
       "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Cu\u00e9ntame Tus Penas",
-      "url": "https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0"
+      "duration_ms": 196231,
+      "name": "Un Mentado Ariel",
+      "url": "https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Plebe del Rancho",
-        "url": "https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 207415,
-      "name": "El Plebe del Rancho",
-      "url": "https://open.spotify.com/track/2WrtMLBOcdUr3BmHBaCUly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Cuerdas y Recuerdos (En Vivo)",
         "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
       },
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
+        "name": "El Plebe del Rancho",
+        "url": "https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Tres Botellas",
-      "url": "https://open.spotify.com/track/03mFB2ot7uqND6aBYhwZBM"
+      "duration_ms": 207415,
+      "name": "El Plebe del Rancho",
+      "url": "https://open.spotify.com/track/2WrtMLBOcdUr3BmHBaCUly"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 169295,
       "name": "Buscamos Lo Mismo",
       "url": "https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/03mFB2ot7uqND6aBYhwZBM"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "El G\u00fcero Colorado",
-      "url": "https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Doble R (En Vivo)",
         "url": "https://open.spotify.com/album/1Pjv6zg2wfdSyv3YJEzHDt"
       },
@@ -679,22 +663,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toro Encartado (En Vivo)",
-        "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
       },
       "artists": [
         {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "El G\u00fcero Colorado",
+      "url": "https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duren",
+        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 218771,
-      "name": "Toro Encartado - En Vivo",
-      "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
+      "duration_ms": 190423,
+      "name": "Duren",
+      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toro Encartado (En Vivo)",
+        "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 218771,
+      "name": "Toro Encartado - En Vivo",
+      "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naci\u00f3 Pa' Leyenda",
         "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 201174,
       "name": "En Un D\u00eda Como Hoy",
       "url": "https://open.spotify.com/track/47iMaBA9XSFD6SUqhzzOOy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duren",
-        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "Duren",
-      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 244517,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soltaron Al Diablo",
         "url": "https://open.spotify.com/album/5XC8F978hjLimag6EtQlIY"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 138123,
       "name": "Soltaron Al Diablo",
       "url": "https://open.spotify.com/track/6RkNnXYuEUI0pBdNJOi0gF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 244517,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16"
     }
   ],
   "unique_name": "This Is Los Plebes del Rancho de Ariel Camacho",

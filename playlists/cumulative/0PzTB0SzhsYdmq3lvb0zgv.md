@@ -4,7 +4,7 @@
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-317 songs - 17 hr 35 min
+320 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,11 +120,13 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2025-08-22 |  |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-07-18 |  |
 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-07-18 |  |
+| [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-10 |  |
 | [Hooked On The Line](https://open.spotify.com/track/5J9JzqFuIo8cjybuELMN6l) | [Beth Morris](https://open.spotify.com/artist/2jnpUtu70dLxZHgoFM7isS) | [Hooked On The Line](https://open.spotify.com/album/1eFwYR6JQPfzqH98w6HYfZ) | 3:18 | 2025-08-22 |  |
 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-07-18 |  |
 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 | 2025-08-08 | 2025-08-23 |
 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 | 2025-07-18 |  |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2025-07-18 | 2025-08-23 |
+| [I Have More Than One Soul](https://open.spotify.com/track/6DRsEEfVaxSLl0dSduAe9n) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [I Have More Than One Soul](https://open.spotify.com/album/7aFCzVzORXoqdhp2y5oIjY) | 3:02 | 2025-10-10 |  |
 | [I HAVEN'T SAID ENOUGH](https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:19 | 2025-07-18 | 2025-08-23 |
 | [I Know You](https://open.spotify.com/track/0OuLFrAKfXw2e3jRdN7pQI) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 2:40 | 2025-07-18 | 2025-08-23 |
 | [I Love You For Me](https://open.spotify.com/track/2UAFvTh5iLGX9Ahfnp2VaE) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:49 | 2025-09-12 |  |
@@ -146,6 +148,7 @@
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 | 2025-08-23 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-18 |  |
 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2025-07-18 |  |
+| [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 | 2025-10-10 |  |
 | [Late night last train](https://open.spotify.com/track/7h5OcrKoUbpfO1LNSRuOVr) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Late Night Last Train](https://open.spotify.com/album/4hMTeb5UxPdRFVjviOrg5V) | 3:59 | 2025-07-18 | 2025-08-23 |
 | [Lay Down On Me](https://open.spotify.com/track/3qZIF010lATVWGSGcZKkH6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Burn The Right Things Down \(Deluxe\)](https://open.spotify.com/album/3QtagtvBHIemERfuVdUqKS) | 3:02 | 2025-07-18 |  |
 | [Learn To Love \(with Dean Lewis\)](https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Learn To Love \(with Dean Lewis\)](https://open.spotify.com/album/2S3BmpJnHH9YthFFyNmv3e) | 3:33 | 2025-07-30 | 2025-08-23 |

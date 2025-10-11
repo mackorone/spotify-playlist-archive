@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: 에스쿱스X민규 \(SEVENTEEN\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: BamBam\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-759 songs - 1 day 17 hr 25 min
+762 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-19 | 2024-04-30 |
 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 | 2021-12-08 | 2022-07-28 |
 | [A to Z](https://open.spotify.com/track/7qBGxGuUIQaYwm8gCVeab8) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [A to Z \(BANG YEDAM X Lulu\-lala Friends\)](https://open.spotify.com/album/4AJjxuKTdg7FfrnPmANcM4) | 2:30 | 2025-09-09 | 2025-09-17 |
+| [A Youth of One Day](https://open.spotify.com/track/6uQa1IB4yqT15TsCVc6Ucr) | [STEAL HEART CLUB](https://open.spotify.com/artist/7pxiQtuIBhM9BjigTPAHOh) | [A Youth of One Day](https://open.spotify.com/album/4LA1azXGY7X8VjShRNQ5F6) | 3:46 | 2025-10-10 |  |
 | [Adore you](https://open.spotify.com/track/7rrVR9VrztRH93MqvUIUau) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Adore you](https://open.spotify.com/album/2QFxk3swmGzWN0R2NZ8QNK) | 3:56 | 2022-03-30 | 2022-06-12 |
 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 | 2022-03-22 | 2022-04-24 |
 | [After Midnight](https://open.spotify.com/track/35ylkTvU4CWnQVrYqsp2VQ) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [SWITCH ON](https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr) | 3:10 | 2022-01-17 | 2022-07-25 |
@@ -133,7 +134,7 @@
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-12 |  |
 | [CEREMONY](https://open.spotify.com/track/7EdgizR99xZh1EpngDaSBi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/4v9IBMLeDDviC5A4UGA4p6) | 2:44 | 2025-08-22 | 2025-09-10 |
 | [Chained Up](https://open.spotify.com/track/0fp7yXkUbwmM8ML6sWu6HW) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Chained Up](https://open.spotify.com/album/0xV4AYgTAeT6JzGuXmki91) | 3:12 | 2022-04-04 | 2022-04-10 |
-| [CHAN\-RAN](https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:01 | 2025-09-17 |  |
+| [CHAN\-RAN](https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:01 | 2025-09-17 | 2025-10-11 |
 | [Chance](https://open.spotify.com/track/2DfoKySsCsAABuPSgEbzcb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lord of Heroes OST Part 1](https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve) | 3:43 | 2022-03-22 | 2022-04-15 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-13 | 2025-04-22 |
 | [Cheeky](https://open.spotify.com/track/5zAMY2u5sRYyd8wLjlbTep) | [ENOi](https://open.spotify.com/artist/7nZr0bruX5BKXqb8LSe2U3) | [RED IN THE APPLE](https://open.spotify.com/album/26wrEDX1YtBq40f5wEtyeM) | 3:09 | 2022-03-30 | 2022-04-19 |
@@ -444,6 +445,7 @@
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2022-01-17 | 2022-06-01 |
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-12 | 2022-04-04 |
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-03-22 | 2022-05-14 |
+| [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-10 |  |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
 | [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 | 2023-10-24 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 | 2024-10-26 |
@@ -647,7 +649,7 @@
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-04-26 | 2023-06-02 |
 | [Tag Tag Tag](https://open.spotify.com/track/6HMR9w1ORta3CXI9r4ptpE) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-CHILL](https://open.spotify.com/album/0SQHVWNdrujtaHAodFG99C) | 3:05 | 2022-03-30 | 2022-04-19 |
 | [TAKE A SHOT](https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [TAKE A SHOT](https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha) | 2:28 | 2025-09-17 | 2025-09-30 |
-| [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |
+| [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 | 2025-10-11 |
 | [TAKEOVER](https://open.spotify.com/track/2wW53eqOu1AG50Uwi5c3D8) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [SILENCE SYNDROME](https://open.spotify.com/album/2Z00o0quhfUOA9HY57Msb8) | 3:08 | 2025-04-14 | 2025-05-20 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-29 | 2024-02-22 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-08 | 2023-10-26 |
@@ -731,7 +733,7 @@
 | [White](https://open.spotify.com/track/4RUF7vLA3KutJHfQ1eGWuA) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'White'](https://open.spotify.com/album/1YYdEA6ykYQ0dpXrqj7tWP) | 4:05 | 2022-03-22 | 2022-04-16 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-22 |  |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-03 |
-| [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-22 |  |
+| [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-22 | 2025-10-11 |
 | [Why](https://open.spotify.com/track/3oU6Hc7STlMBNR6Ty1m1G8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [GO LIVE](https://open.spotify.com/album/6N8KkgIpU1T3tenkJxHxk3) | 3:20 | 2022-03-22 | 2022-04-21 |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-12-08 | 2022-07-28 |
 | [Wild Heart](https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [CONTINUE?](https://open.spotify.com/album/38naOKNOPofTwerOOejf2N) | 2:59 | 2023-06-15 | 2023-06-30 |
@@ -741,6 +743,7 @@
 | [With Us](https://open.spotify.com/track/7JxGvCpgu60COzVsmavYv9) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5hJ1mbfea5r20mjtT6oHON) | 4:17 | 2022-03-22 | 2022-04-21 |
 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 | 2023-04-30 | 2023-05-10 |
 | [WONDER YOU](https://open.spotify.com/track/1zn7W0MAMQSo0bZeY4jyyq) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 8th EP Album GO Chapter 1 : GO Together](https://open.spotify.com/album/5dhQSeZvL4WtRwi4CaQBb6) | 3:17 | 2025-09-09 | 2025-09-14 |
+| [WONDERING](https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:48 | 2025-10-10 |  |
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2021-12-08 | 2023-04-22 |
 | [Woo Woo](https://open.spotify.com/track/7GemKTNrhp4Fs9GErgWIE9) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [SPECIAL GIFT \[Woo Woo\]](https://open.spotify.com/album/0t5Rqa89XrQu11AWnoCJoU) | 3:38 | 2023-01-06 | 2023-01-10 |
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-07-01 | 2025-07-22 |

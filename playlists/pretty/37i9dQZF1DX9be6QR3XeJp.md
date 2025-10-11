@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Ama Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,862 likes - 257 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,862 likes - 257 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 |
 | 2 | [Wicked & Crisp](https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Wicked & Crisp](https://open.spotify.com/album/6gOj7SCGjeLMSfK3g6aNtf) | 2:59 |
 | 3 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
 | 4 | [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [It's A Funny Thing](https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH) | 3:06 |

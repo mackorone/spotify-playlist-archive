@@ -1,28 +1,36 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Lewis Capaldi",
-  "num_followers": 942729,
+  "description": "Recent hits and new songs from your fave artists. Cover: Teddy Swims, David Guetta and Tones & I",
+  "num_followers": 942774,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKP3tUY0LNkMCOKWmC+3NgopVBDs",
+  "snapshot_id": "AAAAABUBtDgEA3YXb3sArfDfteLmiFTb",
   "tracks": [
     {
-      "added_at": "2025-09-24 04:40:51",
+      "added_at": "2025-10-10 04:00:48",
       "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -41,20 +49,52 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-10-03 04:00:34",
+      "added_at": "2025-10-10 04:00:48",
       "album": {
-        "name": "Melodies (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c"
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 157054,
-      "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
+      "duration_ms": 179304,
+      "name": "Work On Me",
+      "url": "https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw"
+    },
+    {
+      "added_at": "2025-03-21 04:01:01",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2025-09-24 04:40:51",
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2025-08-08 04:00:36",
@@ -75,6 +115,62 @@
       "duration_ms": 179240,
       "name": "Hell At Night (feat. Ella Langley)",
       "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2025-10-03 04:00:34",
+      "album": {
+        "name": "Melodies (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 157054,
+      "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 159527,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
     },
     {
       "added_at": "2025-10-03 04:00:34",
@@ -129,6 +225,22 @@
       "url": "https://open.spotify.com/track/4AZXFgbU85BZMQxzb1yUgh"
     },
     {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Leave It Beautiful",
+        "url": "https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Leave It Beautiful",
+      "url": "https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7"
+    },
+    {
       "added_at": "2025-09-26 04:00:21",
       "album": {
         "name": "Stay (If You Wanna Dance)",
@@ -161,6 +273,38 @@
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
+      "added_at": "2025-08-29 04:00:39",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
+    },
+    {
       "added_at": "2025-09-26 04:00:21",
       "album": {
         "name": "Vie",
@@ -175,6 +319,22 @@
       "duration_ms": 201173,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
     },
     {
       "added_at": "2025-08-22 04:00:34",
@@ -215,6 +375,22 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
+    },
+    {
+      "added_at": "2025-08-08 04:00:36",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 202161,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
     },
     {
       "added_at": "2025-09-26 04:00:21",
@@ -321,6 +497,22 @@
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+    },
+    {
       "added_at": "2025-10-03 04:00:34",
       "album": {
         "name": "The Life of a Showgirl",
@@ -385,6 +577,22 @@
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
     },
     {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Beautiful Lonely",
+        "url": "https://open.spotify.com/album/4F0zRXXNkL04ezmYpg4HkJ"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 259010,
+      "name": "Beautiful Lonely",
+      "url": "https://open.spotify.com/track/7d1GkHK3r8USzEQzhDvVJp"
+    },
+    {
       "added_at": "2025-09-24 04:40:51",
       "album": {
         "name": "No Heartbreak's Killed Me Yet",
@@ -399,6 +607,22 @@
       "duration_ms": 157420,
       "name": "No Heartbreak's Killed Me Yet",
       "url": "https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "The Light For Days",
+        "url": "https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Heaven (Butterflies)",
+      "url": "https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje"
     },
     {
       "added_at": "2025-10-03 04:00:34",
@@ -481,6 +705,22 @@
       "url": "https://open.spotify.com/track/0ursRLysptMwTmlYstjoIp"
     },
     {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Blind in Love",
+        "url": "https://open.spotify.com/album/4XFHV45wr4tm0HldVDCTKQ"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Blind in Love",
+      "url": "https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y"
+    },
+    {
       "added_at": "2025-09-24 04:40:51",
       "album": {
         "name": "Something Beautiful (Deluxe)",
@@ -503,42 +743,6 @@
       "duration_ms": 229458,
       "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
-    },
-    {
-      "added_at": "2025-09-24 04:40:51",
-      "album": {
-        "name": "folding chairs on the moon",
-        "url": "https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "folding chairs on the moon",
-      "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
-    },
-    {
-      "added_at": "2025-09-24 04:40:51",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/5zWogd3YFW9oUU2fQHZdWQ"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 138710,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/0POZcZCXYeUF7fC4EnRlVp"
     },
     {
       "added_at": "2025-09-24 04:40:51",
@@ -603,6 +807,22 @@
       "duration_ms": 167527,
       "name": "Like It Like That",
       "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2025-09-12 04:00:23",
@@ -705,6 +925,22 @@
       "url": "https://open.spotify.com/track/59OyzdGVIeOeBA8xdi867o"
     },
     {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
+    },
+    {
       "added_at": "2025-09-26 04:00:21",
       "album": {
         "name": "Emerald",
@@ -767,22 +1003,6 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
-    },
-    {
-      "added_at": "2025-10-03 04:00:34",
-      "album": {
-        "name": "Divine Feelings",
-        "url": "https://open.spotify.com/album/2YD4FkNkZJ2S2TfuFSUWpd"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Fascination in the Dark",
-      "url": "https://open.spotify.com/track/6Cy8EdzL8BpIjLa2CZqjQK"
     },
     {
       "added_at": "2025-09-05 04:00:20",
@@ -949,54 +1169,6 @@
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
-      "added_at": "2025-08-29 04:00:39",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "New Heart",
-        "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 184481,
-      "name": "New Heart",
-      "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
-    },
-    {
-      "added_at": "2025-08-08 04:00:36",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 202161,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
-    },
-    {
       "added_at": "2025-09-05 04:00:20",
       "album": {
         "name": "Handsome",
@@ -1027,62 +1199,6 @@
       "duration_ms": 199696,
       "name": "Love In Reverse",
       "url": "https://open.spotify.com/track/0UFRS2HsHHTzzyu0gFp7hB"
-    },
-    {
-      "added_at": "2025-08-22 04:00:34",
-      "album": {
-        "name": "Make A Baby (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/5hyF0NmMQ8GnVsndZjkYID"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 177064,
-      "name": "Make A Baby (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/7DrMUeCJ5lgfcxhBdb4mV1"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-08-22 04:00:34",
-      "album": {
-        "name": "Turned Into Missing You (feat. Avery Anna)",
-        "url": "https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 219741,
-      "name": "Turned Into Missing You (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I"
     },
     {
       "added_at": "2025-02-14 05:00:39",
@@ -1125,22 +1241,6 @@
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
     },
     {
-      "added_at": "2025-07-18 04:00:31",
-      "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
-    },
-    {
       "added_at": "2025-08-22 04:00:34",
       "album": {
         "name": "Halcyon",
@@ -1155,38 +1255,6 @@
       "duration_ms": 179671,
       "name": "21",
       "url": "https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE"
-    },
-    {
-      "added_at": "2025-08-29 04:00:39",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2025-06-06 04:00:08",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2025-08-22 04:00:34",
@@ -1251,38 +1319,6 @@
     {
       "added_at": "2025-08-08 04:00:36",
       "album": {
-        "name": "Know You Naked",
-        "url": "https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 205304,
-      "name": "Know You Naked",
-      "url": "https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE"
-    },
-    {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
-        "name": "ENOUGH.",
-        "url": "https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF"
-      },
-      "artists": [
-        {
-          "name": "SNACKTIME",
-          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
-        }
-      ],
-      "duration_ms": 228808,
-      "name": "ENOUGH.",
-      "url": "https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF"
-    },
-    {
-      "added_at": "2025-08-08 04:00:36",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
@@ -1295,22 +1331,6 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "Everywhere I Went, Led Me to Where I Didn't Want to Be",
-        "url": "https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 210317,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI"
     },
     {
       "added_at": "2025-07-18 04:00:31",
@@ -1327,22 +1347,6 @@
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
-    },
-    {
-      "added_at": "2025-05-09 04:00:01",
-      "album": {
-        "name": "Dawn of a Misfit",
-        "url": "https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Olusola",
-          "url": "https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Hallelujah (I Don't Think About You)",
-      "url": "https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9"
     },
     {
       "added_at": "2025-08-15 04:00:29",

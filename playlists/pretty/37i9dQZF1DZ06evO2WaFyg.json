@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 262214,
+  "num_followers": 262258,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC37vu7jx7eFCMZKUq542Ur",
+  "snapshot_id": "aOb7AAAAAAAZXj29B7Ua1v1rgGzUQgMS",
   "tracks": [
     {
       "added_at": null,
@@ -375,46 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Yuck (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money On Money (feat. Future)",
-        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Money On Money (feat. Future)",
-      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -435,6 +395,26 @@
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money On Money (feat. Future)",
+        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Money On Money (feat. Future)",
+      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
       "added_at": null,
@@ -463,6 +443,26 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Yuck (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Pardon My Back (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Pardon My Back (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Ski",
-      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 188440,
       "name": "Slam the Door",
       "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Ski",
+      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 218596,
-      "name": "Droppin Jewels",
-      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 366592,
       "name": "SKITZO (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 218596,
+      "name": "Droppin Jewels",
+      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
     },
     {
       "added_at": null,

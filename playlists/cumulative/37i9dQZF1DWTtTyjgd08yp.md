@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-235 songs - 15 hr 50 min
+236 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Stretch Your Eyes \- Radio Edit](https://open.spotify.com/track/70CsIJHC2gv7k8xusbrgP3) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Radio Edit\)](https://open.spotify.com/album/6IRBOkrZRuiEodDGpMyMiK) | 4:07 | 2021-10-08 |  |
 | [Swan](https://open.spotify.com/track/2w41QwYoVEYjlR0GLa6puZ) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 5:28 | 2021-10-08 | 2023-03-04 |
 | [Swan](https://open.spotify.com/track/7BI3sWF1edzH4iyK0xbZ7l) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Waiting On The Fire](https://open.spotify.com/album/2W8rP0hqjDIL5yWeWXklyt) | 5:28 | 2021-10-08 | 2022-07-29 |
+| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-10-10 |  |
 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 | 2021-10-08 |  |
 | [Switch It On, Switch It Off](https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Switch It On, Switch It Off](https://open.spotify.com/album/0OcNRlzQwvWmGQ7DKHuLja) | 3:57 | 2023-05-19 |  |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: panicbaby
 
-2,992 songs - 5 day 19 hr 37 min
+2,992 songs - 5 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2343,6 +2343,7 @@
 | [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-07-14 | 2022-07-26 |
 | [Something to Believe In](https://open.spotify.com/track/5J40E1eRcEKaN8xl3Ba0D5) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Something to Believe In](https://open.spotify.com/album/3DtIKSufhSQbpChyHq4Ygf) | 2:22 | 2025-02-27 | 2025-03-21 |
 | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a) | 2:22 | 2025-08-28 | 2025-09-12 |
+| [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 | 2025-10-09 |  |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 | 2023-07-17 | 2023-08-30 |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 | 2023-07-20 |
 | [Sommer macht melancholisch](https://open.spotify.com/track/0u716Qk5hYqmj74KxHmk1E) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Sommer macht melancholisch](https://open.spotify.com/album/4ho4Hqv3CbFMMAxqFJPlx1) | 3:22 | 2025-02-06 | 2025-02-28 |
@@ -2582,7 +2583,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 13](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |

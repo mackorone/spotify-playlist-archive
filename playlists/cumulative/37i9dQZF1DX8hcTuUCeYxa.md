@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: BROCKHOFF
 
-2,052 songs - 4 day 22 hr 11 min
+2,053 songs - 4 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1339,7 +1339,7 @@
 | [Overload](https://open.spotify.com/track/2twiiCo720VGBEMcGdJ6Iw) | [Culk](https://open.spotify.com/artist/5IjUMI9yd5rHBglgX8Ye4z) | [Overload](https://open.spotify.com/album/2o8RIxulch9QxKZ6T24QAL) | 3:41 | 2024-09-19 | 2024-10-18 |
 | [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 | 2024-08-01 | 2024-08-30 |
 | [Oyster Beds](https://open.spotify.com/track/59HjwstLsJRTHFku9kmDIB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Oyster Beds](https://open.spotify.com/album/0AYFSRHcPQkXwoHIJxA3N3) | 2:09 | 2024-08-22 | 2024-09-13 |
-| [Palace Gates](https://open.spotify.com/track/4APUhJbHa4xffgzeqJ0Pk0) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [](https://open.spotify.com/album/null) | 3:52 | 2025-10-09 |  |
+| [Palace Gates](https://open.spotify.com/track/4APUhJbHa4xffgzeqJ0Pk0) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Greetings from Soulgaria](https://open.spotify.com/album/6mumXQxWuSwND46CIR6hY6) | 3:52 | 2025-10-09 |  |
 | [Papa fuhr immer einen großen LKW](https://open.spotify.com/track/0GarlbLc23o4vN9xHOmgxq) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Papa fuhr immer einen großen LKW](https://open.spotify.com/album/5dZuNRQBCFmjAwXLPXUgES) | 4:17 | 2025-10-09 |  |
 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 | 2025-05-29 | 2025-06-20 |
 | [Paper Plane](https://open.spotify.com/track/0q5yzhWq2WMhxblQaijc2y) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Paper Plane](https://open.spotify.com/album/0l0vDNT9ImouM8v5rv50d7) | 3:35 | 2025-03-27 | 2025-04-25 |
@@ -1680,7 +1680,7 @@
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-28 | 2024-07-19 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |
 | [Swamp Dream \#3](https://open.spotify.com/track/1FIA1xt2eYznjHnQaqQdKA) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Swamp Dream \#3](https://open.spotify.com/album/22DkUZFRY0EV5npieYC7CC) | 4:29 | 2025-01-09 | 2025-01-24 |
-| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [](https://open.spotify.com/album/null) | 4:11 | 2025-10-09 |  |
+| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-10-09 |  |
 | [sweet heart](https://open.spotify.com/track/44PaL2Ttjz5ZJSzRGFaqWA) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [what we are](https://open.spotify.com/album/3Ql8S9InptqOYlkxWyydqz) | 2:36 | 2025-03-20 | 2025-04-18 |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-17 | 2024-11-15 |
 | [Sweetest Heart](https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Sweetest Heart](https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL) | 3:16 | 2025-02-06 | 2025-02-21 |
@@ -1813,6 +1813,7 @@
 | [Through It All](https://open.spotify.com/track/7iIKRkh2JzmmCWUZN0e1MX) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3HgGrAgKN3qP5aVeJ39huC) | 3:54 | 2025-03-06 | 2025-03-14 |
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-04-10 | 2025-05-02 |
 | [Tie Me to The Train Tracks](https://open.spotify.com/track/5U2jDH2ubCVpNtjSmSfjRZ) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY), [Alex Walton](https://open.spotify.com/artist/67pLmA3GVpK4P0bq11rQqa) | [Tie Me to The Train Tracks](https://open.spotify.com/album/3AbzpH7LBaKi6QF2itTQxA) | 3:03 | 2024-10-24 | 2024-11-08 |
+| [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-09 |  |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-05 | 2024-10-04 |
 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 |  |
 | [Time & Space](https://open.spotify.com/track/5fqwMwWhhEAItiut6iTKzx) | [Mr Koo](https://open.spotify.com/artist/63Jj7uHeJZ9ygXaesiq6MF) | [Time & Space](https://open.spotify.com/album/6KxvrCKfCr4C8GSeOiNOhb) | 3:17 | 2024-06-28 | 2024-07-19 |

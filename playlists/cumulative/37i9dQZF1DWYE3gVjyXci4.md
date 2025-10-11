@@ -4,7 +4,7 @@
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-52 songs - 3 hr 14 min
+54 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,10 @@
 | [Castle in Hollywood](https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:33 | 2025-08-22 |  |
 | [Clean](https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 4:31 | 2025-08-18 |  |
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-08-18 |  |
+| [Cycle Breaker](https://open.spotify.com/track/3lwKje10iLBmpzD18HHuBM) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker Pt\. I](https://open.spotify.com/album/2eBkMJQxyCz85SWW3HJIsw) | 2:50 | 2025-10-10 |  |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2025-08-18 |  |
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-08-18 |  |
-| [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2025-08-18 |  |
+| [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2025-08-18 | 2025-10-11 |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2025-08-18 | 2025-08-23 |
 | [First Love / Late Spring](https://open.spotify.com/track/1Ac5BDsGUMQ3tsW2vnc52x) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/472GvzwE3EZ0i2EEaly5mX) | 4:38 | 2025-08-18 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2025-08-18 |  |
@@ -45,9 +46,10 @@
 | [One Less Lonely Girl](https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:49 | 2025-08-18 |  |
 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 | 2025-08-18 |  |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-19 |  |
-| [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2025-08-18 |  |
+| [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2025-08-18 | 2025-10-11 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:54 | 2025-08-18 |  |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2025-08-18 |  |
+| [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-10 |  |
 | [Same Mouth](https://open.spotify.com/track/54kKXHfDyylaMcVJQOIjKp) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [That Could Be Me](https://open.spotify.com/album/2zzGDctvygFHOKpEQBS3MN) | 2:36 | 2025-08-18 |  |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2025-08-18 |  |
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-18 |  |

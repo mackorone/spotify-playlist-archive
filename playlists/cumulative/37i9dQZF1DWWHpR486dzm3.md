@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa helmi marleena.
 
-1,016 songs - 2 day 13 hr 14 min
+1,017 songs - 2 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Ave Maria](https://open.spotify.com/track/3l3UuH4ejozFrmNMsD0rD8) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [Interface](https://open.spotify.com/album/6eCWHqQich1xj8hIRR10J6) | 4:14 | 2025-10-09 |  |
 | [Baby \(I'm In Love With You\)](https://open.spotify.com/track/78FOWOC7tpGBbYoSHuFgS2) | [KIUSA](https://open.spotify.com/artist/2N7OIXYrPcGpA7WSff1suv) | [Baby \(I'm In Love With You\)](https://open.spotify.com/album/4VcBaCd7Z0FNHQq9CFChkE) | 2:42 | 2025-02-13 | 2025-02-28 |
 | [Baklava](https://open.spotify.com/track/0dvPcmgumakiPH0Ii07yVg) | [Muuan mies](https://open.spotify.com/artist/1FdyxaqE1PaJxVeyWFSRLy) | [Baklava](https://open.spotify.com/album/3l5fHQX7dnqchFGRi3smR1) | 3:15 | 2025-09-11 | 2025-10-03 |
+| [Banaani](https://open.spotify.com/track/5O0SsVNcG9reYbjV7zFUct) | [Julia Rautamaa](https://open.spotify.com/artist/1kAErRhMWVl7zBde4SSfZO) | [Banaani](https://open.spotify.com/album/6kNEj3km6tDwCI7XZZgVvs) | 3:13 | 2025-10-10 |  |
 | [Basement](https://open.spotify.com/track/5QsXBQEAnBm061R1KxNIqF) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [IV](https://open.spotify.com/album/5rz3Ke8X06MZ68kh1iCAKJ) | 5:39 | 2025-03-20 | 2025-05-16 |
 | [Beatlesin viisaat sanat \(feat\. Stepa\)](https://open.spotify.com/track/04I5hHhPApgHG3fX0ypXbd) | [Mary Ann Hawkins](https://open.spotify.com/artist/3jfyjffOh8c7nSzKLIa64C), [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu) | [Beatlesin viisaat sanat \(feat\. Stepa\)](https://open.spotify.com/album/3Vx7yDH87xCk970B7T3Ik1) | 2:10 | 2024-09-05 | 2024-09-27 |
 | [Beaujolais](https://open.spotify.com/track/0sLKm2eouN9LvAEtB29bS3) | [Recoilette](https://open.spotify.com/artist/7g82MN5MUQyrbZBw2mBjvS) | [The Black Window](https://open.spotify.com/album/1P7IinPTYt88XxiciNfFjf) | 3:45 | 2024-10-24 | 2024-11-15 |
@@ -116,7 +117,7 @@
 | [Cranes](https://open.spotify.com/track/2wTAVFvJD5Lu7RjR9B3tXr) | [Ada Aik](https://open.spotify.com/artist/5dZ31Ks9aZoFZ2CWF9mkRT) | [Cranes](https://open.spotify.com/album/20z5K4FEmvXJT6jMID5n2x) | 5:38 | 2025-03-27 | 2025-04-11 |
 | [Cray Cray](https://open.spotify.com/track/21aZ0rxNLbh50x0srJTAx7) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Cray Cray](https://open.spotify.com/album/4t5jMtlXpE1l0dx410QagB) | 4:11 | 2024-08-01 | 2024-09-06 |
 | [Darkness and Light](https://open.spotify.com/track/2ZtwYZ8gsNfhdXt5EUQP19) | [Honey Crisp](https://open.spotify.com/artist/1tk7aANlL5yiOLqajatBHV) | [Yesteryears](https://open.spotify.com/album/4Vli2m5qM8lYGCIYWK4JtR) | 3:24 | 2025-02-13 | 2025-04-18 |
-| [Delusional On Sunset Blvd](https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [The Voices Are Coming Back](https://open.spotify.com/album/32NlaUNMyhDmt4tb9LNexc) | 3:34 | 2025-08-28 |  |
+| [Delusional On Sunset Blvd](https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [The Voices Are Coming Back](https://open.spotify.com/album/32NlaUNMyhDmt4tb9LNexc) | 3:34 | 2025-08-28 | 2025-10-11 |
 | [Dialogi](https://open.spotify.com/track/5RU8B1BqzuMbGs6hFsuecQ) | [AkDK](https://open.spotify.com/artist/6WGt9hU7LwYQ3wkKxrzPRi) | [Toinen Näytös](https://open.spotify.com/album/6L7JBoeuSEqzXCXk2oLPqH) | 3:34 | 2024-10-03 | 2024-11-22 |
 | [Diamond](https://open.spotify.com/track/0GqRI02xFG27DtgbO8tOrb) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Diamond](https://open.spotify.com/album/6XtxwJB1f2CM4q6OZOnMtQ) | 3:25 | 2025-01-31 | 2025-02-28 |
 | [Dirty Kitchenette](https://open.spotify.com/track/668BUZOrlzlY0XvxQY9SXw) | [Cleaning Women](https://open.spotify.com/artist/3XcAa2ZXXbAIlE2cly9ydx) | [Washer](https://open.spotify.com/album/7w5z7sLZpQ2OAAbHBwE80o) | 4:08 | 2025-10-02 |  |

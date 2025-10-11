@@ -1465,8 +1465,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Forever Undone (Extended Edition)",
+        "url": "https://open.spotify.com/album/7AiQDgEIVUB5x27i82ZQJt"
       },
       "artists": [
         {
@@ -2871,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "Creatures of Chaos (feat. Tyler Connolly of Theory of a Deadman)",
+        "url": "https://open.spotify.com/album/0k3uzU6fHFYok6YZsIxAaL"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        },
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Creatures of Chaos (feat. Tyler Connolly of Theory of a Deadman)",
+      "url": "https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv"
+    },
+    {
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/01trdvkD4nBBmPKxmcuSSY"
       },
@@ -3576,7 +3598,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 210573,
       "name": "Don\u2019t Let Me Down",
       "url": "https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK"
@@ -8798,7 +8820,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 198977,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
@@ -11855,28 +11877,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        },
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv"
-    },
-    {
-      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8"
       },
@@ -12987,8 +12987,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
       "artists": [
         {

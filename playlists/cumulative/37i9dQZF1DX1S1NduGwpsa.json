@@ -7811,6 +7811,24 @@
     },
     {
       "album": {
+        "name": "La Sultane",
+        "url": "https://open.spotify.com/album/101obPeJsCnoAOhx0ZlleK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Manoukian",
+          "url": "https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Joydance",
+      "url": "https://open.spotify.com/track/6rv22k06Q8G2z6azJJAt3K"
+    },
+    {
+      "album": {
         "name": "JUKE JOINT",
         "url": "https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt"
       },
@@ -11505,8 +11523,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Keys To The City Volume One",
+        "url": "https://open.spotify.com/album/32GpVPWX3xM7wvTDoNugiU"
       },
       "artists": [
         {
@@ -15822,24 +15840,6 @@
       "duration_ms": 166124,
       "name": "Top Hat, White Tie and Tails - Live",
       "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Manoukian",
-          "url": "https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6rv22k06Q8G2z6azJJAt3K"
     },
     {
       "album": {

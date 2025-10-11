@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Jamal Roberts and Jonathan McReynolds
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Pastor Mike Jr.
 
-720 songs - 2 day 13 hr 33 min
+721 songs - 2 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Amen](https://open.spotify.com/track/0wMYjUmXR2psuSRvPjvMfe) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Amen](https://open.spotify.com/album/2cSLZPsMDTB6fpYTlnS3AY) | 3:08 | 2025-02-07 | 2025-06-07 |
 | [Amén \(with Kirk Franklin\)](https://open.spotify.com/track/45Ni3jzatASbwFJFBAHiM9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Amén \(with Kirk Franklin\)](https://open.spotify.com/album/5AXZRreDc5jDfq1OFldEZL) | 4:37 | 2022-02-18 | 2022-08-06 |
 | [Ancient of Days](https://open.spotify.com/track/2CayDarEZXuUv64Vz9kwKR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Aaron Lindsey](https://open.spotify.com/artist/4V6jbtRhAeabsaTqDjESUm), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Unscripted: Ancient of Days](https://open.spotify.com/album/5HmxlruhmQc4yEgszaqUqI) | 5:00 | 2022-02-18 | 2022-11-26 |
+| [Ancient of Days / Open The Eyes of My Heart](https://open.spotify.com/track/5raJDXm9vxANe0D8jnaU3E) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ancient of Days / Open The Eyes of My Heart](https://open.spotify.com/album/1BHj7yaoikzkb4Xz6YtAp6) | 5:36 | 2025-10-10 |  |
 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 | 2022-02-18 | 2023-01-14 |
 | [Anything but Fail](https://open.spotify.com/track/7cMMCxWyC4NQUI31lg8yVr) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [Anything but Fail](https://open.spotify.com/album/6vuieclSb9Y1FmxgUuTAVI) | 4:17 | 2022-04-08 | 2022-04-29 |
 | [Anyway \- Live](https://open.spotify.com/track/3klr7dov2vjJyjbakp7iDc) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Pastor Kim Burrell](https://open.spotify.com/artist/68czRHT7ESRhXEWjOlTnQ7) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 8:23 | 2022-09-16 | 2023-12-24 |
@@ -360,7 +361,7 @@
 | [Just Us](https://open.spotify.com/track/4tFrt3KFlSj1kDKXTJNbtJ) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Just Us](https://open.spotify.com/album/1IiFcfPQXkOinuNhejlk3d) | 6:02 | 2022-04-15 | 2022-07-16 |
 | [Just Wait](https://open.spotify.com/track/2qOa65FUnswmASEOUYH5Md) | [Frankie Taylor](https://open.spotify.com/artist/6ZCnFIxKGRkycYEnh87ZfL), [Xavier Campbell](https://open.spotify.com/artist/2vkjExCubHTppeNUT9re9m) | [Just Wait](https://open.spotify.com/album/7xL4QnvTljOVNaXW2z2p5Q) | 7:30 | 2025-04-11 | 2025-09-27 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-03-11 | 2023-01-28 |
-| [Keep Me](https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Keep Me](https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5) | 3:40 | 2025-02-07 |  |
+| [Keep Me](https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Keep Me](https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5) | 3:40 | 2025-02-07 | 2025-10-11 |
 | [Keep the Faith](https://open.spotify.com/track/2ouHya3DC2qlOGEKGKw1wN) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [UVOP](https://open.spotify.com/artist/4ikSvK8PtLxf7u0h8qNJhU) | [Keep the Faith](https://open.spotify.com/album/2p1cLjD1DfDCrAzoR8qCOh) | 2:43 | 2023-03-03 | 2023-04-09 |
 | [Keeper Of My Soul](https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Keeper Of My Soul](https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1) | 3:48 | 2023-03-31 | 2024-05-18 |
 | [Kid Again \- Live](https://open.spotify.com/track/1WyD5o3WVDlAhzAPFKgczc) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kid Again \(Live\)](https://open.spotify.com/album/2qBkpQX29A5SOboW73izN7) | 7:26 | 2025-08-08 | 2025-08-30 |

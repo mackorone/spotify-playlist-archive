@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 183762,
       "name": "Adue\u00f1arme",
       "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 187458,
       "name": "ciego de amor",
       "url": "https://open.spotify.com/track/1CWVrqC009wYNnVd4kIX1F"
@@ -7117,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3ykqbtsGsYmJIjGl5A4LQB"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223375,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6EQneQgA94K3UQ8rRgghsl"
+    },
+    {
+      "album": {
         "name": "Enero",
         "url": "https://open.spotify.com/album/6k0uGn4xDTNckdU9EDQ11y"
       },
@@ -8173,6 +8191,24 @@
     },
     {
       "album": {
+        "name": "Tal Vez Un Dia",
+        "url": "https://open.spotify.com/album/3a7tJRjnVhATC6NWkfODJv"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154772,
+      "name": "Tal Vez Un Dia",
+      "url": "https://open.spotify.com/track/4z5xAWrPpjbf4b5XzEBapX"
+    },
+    {
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/0VVBEKAI3GHTim1prz7ZMS"
       },
@@ -8394,7 +8430,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
@@ -9382,6 +9418,24 @@
       "duration_ms": 158293,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/2mw2HxgWWgI5SktIxNO43z"
+    },
+    {
+      "album": {
+        "name": "Va Pa' Largo",
+        "url": "https://open.spotify.com/album/1zedRAmOvIjof8CUNCNFog"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163050,
+      "name": "Va Pa' Largo",
+      "url": "https://open.spotify.com/track/5hUUPFyteR0Fdiewtwj3EP"
     },
     {
       "album": {

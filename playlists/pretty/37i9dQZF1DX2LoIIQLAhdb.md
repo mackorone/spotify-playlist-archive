@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,481 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,565 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 9 | [BPM](https://open.spotify.com/track/35y5UFEPUZ6jTwGV6e160l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BPM](https://open.spotify.com/album/6QGicMRG9TIxpTqmkRWCvu) | 3:19 |
 | 10 | [Aléatoire](https://open.spotify.com/track/3bJMgoBmqRGFr8LCUqtBBz) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 2:38 |
 | 11 | [1h55](https://open.spotify.com/track/36kPlvgOwqbdMqMyeioRJN) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 3:47 |
-| 12 | [To The Moon](https://open.spotify.com/track/0TDkJWfz5t1smyD9cGeoV8) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [](https://open.spotify.com/album/null) | 2:20 |
+| 12 | [To The Moon](https://open.spotify.com/track/0TDkJWfz5t1smyD9cGeoV8) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Story Time \(Prelude\)](https://open.spotify.com/album/3XCZt6uNpVtTJKlqvcBU0A) | 2:20 |
 | 13 | [I.L.Y](https://open.spotify.com/track/17Lm73gZfp5A5Dk1ZOTzBI) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [I.L.Y](https://open.spotify.com/album/4Wb9L50cvod37wFyTsruxS) | 2:35 |
 | 14 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 |
 | 15 | [Body Language](https://open.spotify.com/track/2RjeaLCkaAfxfKZFoLJRB5) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [Body Language](https://open.spotify.com/album/1emz5zZGrwexpAKUH7urFw) | 2:19 |

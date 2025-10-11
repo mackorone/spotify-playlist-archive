@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,540 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,543 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 75 | [127 Hrs in Bed](https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Dog Show](https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0) | 1:57 |
 | 76 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 |
 | 77 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 |
-| 78 | [Every Night](https://open.spotify.com/track/0pIlQ3zmWCCiv0KUwbsW3b) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:32 |
-| 79 | [Superstar](https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Superstar](https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS) | 4:50 |
+| 78 | [Superstar](https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Superstar](https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS) | 4:50 |
+| 79 | [Every Night](https://open.spotify.com/track/0pIlQ3zmWCCiv0KUwbsW3b) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:32 |
 | 80 | [Deadstream \- Rostam Version](https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Deadstream \(Rostam Version\)](https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK) | 3:16 |
 | 81 | [FARAWAY199X/TAPE 2](https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [RUBBER](https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC) | 3:04 |
 | 82 | [USA](https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 2:23 |

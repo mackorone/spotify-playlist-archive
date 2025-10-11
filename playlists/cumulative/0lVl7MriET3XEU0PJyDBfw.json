@@ -6357,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "Vol. 033",
+        "url": "https://open.spotify.com/album/2WW1VAiueQghfBS4d2BplU"
+      },
+      "artists": [
+        {
+          "name": "Shane Harjes",
+          "url": "https://open.spotify.com/artist/2kOdEBV4n3GmfLC1nwb9Az"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141736,
+      "name": "Goin' Fast",
+      "url": "https://open.spotify.com/track/4N0PgV1TApHFNw6i0qNMBb"
+    },
+    {
+      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/11FlM6yXmeslRHFuxjb4pu"
       },

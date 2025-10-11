@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Witch Fever
 
-639 songs - 1 day 14 hr 20 min
+641 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 | 2025-06-06 |  |
 | [E.V.I.L.](https://open.spotify.com/track/0kUgbL0dardbBDzeD4nXzU) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [E.V.I.L.](https://open.spotify.com/album/2axYCY96RLFOZS7v2zOzHz) | 3:32 | 2025-06-06 | 2025-09-12 |
 | [Easier To Die](https://open.spotify.com/track/2Bo0CcIbDjQBnltFtxmUT9) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Easier To Die](https://open.spotify.com/album/15pqle05tggYZBUOBHz4PK) | 2:19 | 2025-09-01 | 2025-09-12 |
+| [Echoes](https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Echoes](https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV) | 4:29 | 2025-10-10 |  |
 | [Ego \(Maniac\)](https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Shadowlight](https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4) | 3:37 | 2024-11-08 | 2025-09-12 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-10-13 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-05 |  |
@@ -399,7 +400,7 @@
 | [Neurotic](https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [What I'll Leave Behind](https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b) | 3:06 | 2024-09-20 | 2025-09-12 |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 | 2022-11-10 | 2023-07-26 |
 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 | 2022-11-10 | 2023-03-03 |
-| [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 |  |
+| [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 | 2025-10-11 |
 | [NEW! Christianity](https://open.spotify.com/track/2h48pUPKbkXCH0z2BqgUyQ) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [NEW! Christianity](https://open.spotify.com/album/2n6M7s3zRVBCYKCYnmUO04) | 2:33 | 2024-09-20 | 2025-09-12 |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-11-10 | 2023-07-26 |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2022-11-10 | 2023-02-08 |
@@ -418,7 +419,7 @@
 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 | 2023-04-21 | 2024-02-17 |
 | [Orbit](https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:32 | 2023-07-25 | 2024-01-27 |
 | [Out Of My Reach](https://open.spotify.com/track/52V8PYxelw5uo1HWlaccFM) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [You Heartbreaker, You](https://open.spotify.com/album/7tr3cQyR38oOHQzIVwZ3IY) | 3:31 | 2025-09-01 | 2025-09-12 |
-| [Out Of Style](https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4), [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Out Of Style](https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1) | 3:25 | 2024-05-30 |  |
+| [Out Of Style](https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4), [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Out Of Style](https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1) | 3:25 | 2024-05-30 | 2025-10-11 |
 | [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 | 2023-06-01 | 2023-06-09 |
 | [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-01 | 2023-06-08 |
 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 | 2023-12-01 | 2025-09-12 |
@@ -549,6 +550,7 @@
 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 | 2023-12-08 | 2024-04-12 |
 | [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-10 | 2025-09-12 |
 | [The Knife](https://open.spotify.com/track/60v2KRbfgMFVzFVbbVzzUC) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:51 | 2025-08-11 | 2025-09-12 |
+| [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 |  |
 | [The Love You Want](https://open.spotify.com/track/4lVVewXw4g8hB7sldQyJiL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:23 | 2023-03-03 | 2023-03-25 |
 | [The Mirror](https://open.spotify.com/track/0635umlrKge8mAyC3bhDh4) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [The Mirror](https://open.spotify.com/album/7bwYqda70nBp9i4n3R0Vuj) | 3:01 | 2024-05-23 | 2025-09-12 |
 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 | 2024-08-09 | 2025-09-14 |

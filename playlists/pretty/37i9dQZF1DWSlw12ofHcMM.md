@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,576 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,612 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 38 | [Beach Seduction \(feat\. Leah Wellbaum\)](https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Leah Wellbaum](https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp) | [The Major Minor Collective \(Bonus Track Edition\)](https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j) | 4:16 |
 | 39 | [Be](https://open.spotify.com/track/7hfi4ZTfV7akmGINh6qYCF) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:49 |
 | 40 | [Avalanche](https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM), [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Avalanche](https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR) | 3:24 |
-| 41 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
-| 42 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
+| 41 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
+| 42 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
 | 43 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
 | 44 | [Rocky](https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Love and the Death of Damnation](https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW) | 3:57 |
 | 45 | [Midnight Hour](https://open.spotify.com/track/4qkRbAJLkfwFGlwfRc1Emx) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:17 |

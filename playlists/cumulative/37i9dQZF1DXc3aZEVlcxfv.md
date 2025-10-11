@@ -4,11 +4,12 @@
 
 > I am blessed!
 
-417 songs - 1 day 4 hr 9 min
+418 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-10-03 |  |
+| [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-10-03 | 2025-10-11 |
+| [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 | 2025-10-10 |  |
 | [ABBA](https://open.spotify.com/track/3Ax7llYlSKhJwxd9kjspeX) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [ABBA](https://open.spotify.com/album/3JZ54vFyyjJfEufP9Xvsmt) | 2:39 | 2025-10-03 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2024-09-27 |  |
 | [Again](https://open.spotify.com/track/3dasDAxhQpUu7OPQL1tOye) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Again](https://open.spotify.com/album/0dXEeBNXzUCMCrCdFfbe3P) | 2:51 | 2025-06-20 | 2025-07-11 |
@@ -170,9 +171,9 @@
 | [Guide Your Way](https://open.spotify.com/track/4jku393QzOX63vjChnYcnP) | [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [JT Bulinda](https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM) | [Guide Your Way](https://open.spotify.com/album/0iceg2XyY5ydkaxLyQqFYC) | 5:09 | 2024-12-27 | 2025-03-21 |
 | [Halle](https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Halle](https://open.spotify.com/album/6iMag6WolYLTNHYU2P8Mle) | 2:31 | 2024-11-01 | 2025-02-07 |
 | [Hallee Hallee](https://open.spotify.com/track/0RDjQE3FpiG4u0GmoQzJZM) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [T.S.T \(Deluxe Version\)](https://open.spotify.com/album/6Z9sSZdcLxPuMu2NMKICSW) | 2:38 | 2024-09-30 | 2025-02-28 |
-| [Hallelujah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Hallelujah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 | 2025-10-10 |  |
 | [Hallelujah is My Song](https://open.spotify.com/track/3NcaY6Gxj7xZVzackhIOnF) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5) | [Hallelujah Is My Song](https://open.spotify.com/album/7C1mTzcL6XwiBzdnyNYcyh) | 2:24 | 2025-10-10 |  |
 | [Halleluyah](https://open.spotify.com/track/2h8yRl1LvFqM1CpbdUJhQN) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Halleluyah](https://open.spotify.com/album/4Bupyny8rQ2FhN9BBVvted) | 2:57 | 2025-09-05 |  |
+| [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 | 2025-10-10 |  |
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 | 2025-05-02 |
 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-09-27 | 2025-02-28 |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-09-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Biffy Clyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,534 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,496 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 25 | [Butterflies](https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Butterflies](https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5) | 3:09 |
 | 26 | [Glory](https://open.spotify.com/track/4cwjsl7zxbj8sCz6rSly3V) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Glory](https://open.spotify.com/album/0s97eei2v75miDeZOeexxF) | 3:42 |
 | 27 | [Truth](https://open.spotify.com/track/3qO1aPC7smPGfQbjeoZ4JI) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Truth](https://open.spotify.com/album/4f3jEJKv6TbICkY6qpmuRT) | 3:12 |
-| 28 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [](https://open.spotify.com/album/null) | 3:07 |
+| 28 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 |
 | 29 | [Hold Onto Me](https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Hold Onto Me](https://open.spotify.com/album/5uCj1UeRtqhqk5fQ4UHhyV) | 3:09 |
 | 30 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |
 | 31 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 38 | [Company Hunting](https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Company Hunting](https://open.spotify.com/album/3RfMYoc6ypAt7N5kmHhn2u) | 2:52 |
 | 39 | [SAFE](https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [SAFE](https://open.spotify.com/album/0FyUHoVMe1FqC7kV79CIMC) | 4:46 |
 | 40 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
-| 41 | [Heavy News](https://open.spotify.com/track/32Jbn1IXeii4UTgYleslgA) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [](https://open.spotify.com/album/null) | 4:24 |
+| 41 | [Heavy News](https://open.spotify.com/track/32Jbn1IXeii4UTgYleslgA) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lovin’ You](https://open.spotify.com/album/3fijEGcrAekKI671fBSQqq) | 4:24 |
 | 42 | [Automatic](https://open.spotify.com/track/3UMbZWBBN0CSjPHqgaQItA) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Automatic](https://open.spotify.com/album/6uBBKFcKNdrq0fUw0T7Eny) | 2:31 |
 | 43 | [trainers](https://open.spotify.com/track/23vLeNNP8fSyjyW8E7ruLg) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [rl stine](https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ) | 2:45 |
 | 44 | [MOTHER](https://open.spotify.com/track/6TR3ctxDFwD7B2Xwn5FpyR) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [MOTHER](https://open.spotify.com/album/3gfOzIpfrHh2e8F3BAQvu4) | 4:05 |

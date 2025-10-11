@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,860 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,878 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 38 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
 | 39 | [معلش مكتوبلك](https://open.spotify.com/track/59BzI9IjNp5eiWATzksB45) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [معلش مكتوبلك](https://open.spotify.com/album/0fZm1zZXnYLz7j7LSkSqPD) | 1:04 |
 | 40 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
-| 41 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |
-| 42 | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE) | [Mohamed Medhat](https://open.spotify.com/artist/32VKNJoqx0a4twZTxkGsqb) | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/album/32RhHdlioLX6LBOcuGPGNu) | 3:09 |
+| 41 | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE) | [Mohamed Medhat](https://open.spotify.com/artist/32VKNJoqx0a4twZTxkGsqb) | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/album/32RhHdlioLX6LBOcuGPGNu) | 3:09 |
+| 42 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |
 | 43 | [Ya Tera \(Layali Roxy\)](https://open.spotify.com/track/5ozjNHwkgoOIiG5A8DnSjr) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Ya Tera \(Layali Roxy\)](https://open.spotify.com/album/1bGIK1NPbWjuU8IRxJHMVP) | 3:10 |
 | 44 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
 | 45 | [La Tan7any](https://open.spotify.com/track/393392okucnMl3eU4B8vFq) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [La Tan7any](https://open.spotify.com/album/6qa6WEhxG9m1DjGBQFBNuM) | 4:04 |

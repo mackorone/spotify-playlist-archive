@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12432,
+  "num_followers": 12433,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABb5j1ni409gqKW44bptHa1",
+  "snapshot_id": "aOb7AAAAAADFFEKZtlA3lDDnWDtLD3hU",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 174424,
-      "name": "111",
-      "url": "https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 173482,
       "name": "so into you - Spotify Singles",
       "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 174424,
+      "name": "111",
+      "url": "https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newly",
-        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 177828,
-      "name": "Newly",
-      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Truths And A Lie",
         "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 133440,
       "name": "Two Truths And A Lie",
       "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "added_at": null,

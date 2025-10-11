@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 76725,
+  "num_followers": 76752,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "La Nueva Cumbia del Pueblo",
         "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 191920,
       "name": "Sufriendo por Tu Amor",
       "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "TEQUILA Y RON",
+        "url": "https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 160512,
+      "name": "Tequila Y Ron",
+      "url": "https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "La Nueva Cumbia del Pueblo",
         "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 215693,
       "name": "El Aguacero",
       "url": "https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "TEQUILA Y RON",
-        "url": "https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 160512,
-      "name": "Tequila Y Ron",
-      "url": "https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Una D\u00e9cada de \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "En 3d y a Todo Color",
         "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 223085,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Una D\u00e9cada de \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+        }
+      ],
+      "duration_ms": 264672,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Mil Cantinas",
-      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Hecho y Derecho",
         "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 208640,
       "name": "Con Quien Te Olvido",
       "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Mil Cantinas",
+      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        },
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Ni Que Fueras la Mas Buena",
+      "url": "https://open.spotify.com/track/69CiCaacgCf6S6GBMIgpm0"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
         "url": "https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 493347,
       "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
       "url": "https://open.spotify.com/track/3TnTaLEn3NxgjGGrxoMXZE"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        },
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 186513,
-      "name": "Ni Que Fueras la Mas Buena",
-      "url": "https://open.spotify.com/track/69CiCaacgCf6S6GBMIgpm0"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 328974,
       "name": "Ahora por unas monedas",
       "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Golero Emparamao",
         "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 268324,
       "name": "Golero Emparamao",
       "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Por Andar de Patas Negras",
-        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Por Andar de Patas Negras",
-      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Alex y el Clan Azabache",
         "url": "https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 180708,
       "name": "S\u00e1cale Leche a la Vaca",
       "url": "https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Por Andar de Patas Negras",
+        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Por Andar de Patas Negras",
+      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
     },
     {
       "added_at": "2025-09-18 20:11:00",

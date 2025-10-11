@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-102 songs - 6 hr 17 min
+105 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,14 @@
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2021-02-17 |  |
 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 | 2021-02-17 |  |
 | [Barely Alive](https://open.spotify.com/track/2RESEfP5xCZFWl4BSIHpQC) | [The Jompson Brothers](https://open.spotify.com/artist/4eNW2w49yCMLXeOwAOWF9b) | [The Jompson Brothers](https://open.spotify.com/album/79XjqMCEOc1VJzgQCipw5F) | 4:50 | 2021-02-17 |  |
+| [Beautiful Lonely](https://open.spotify.com/track/7d1GkHK3r8USzEQzhDvVJp) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Beautiful Lonely](https://open.spotify.com/album/4F0zRXXNkL04ezmYpg4HkJ) | 4:19 | 2025-10-10 |  |
 | [Bouquet Of Roses](https://open.spotify.com/track/7oI3Fv5ODSXjG9za7fiV9W) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [B.W\. Goes C.W.](https://open.spotify.com/album/19y16Sf0U5Hx3KLjHQPE4H) | 2:45 | 2021-02-17 |  |
 | [Bright Direction \(You’re a Dark Star Now\)](https://open.spotify.com/track/1uUQSqOtwBUWuyyNYmlQxi) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 4:24 | 2021-02-17 | 2024-04-19 |
 | [Bright Direction \(You’re a Dark Star Now\)](https://open.spotify.com/track/6TX6ERqjxAFMaRGMmbdhXs) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 4:24 | 2021-02-17 |  |
 | [Call to Arms](https://open.spotify.com/track/4m1opmaYT9zk5OP7IHUb9R) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 5:29 | 2021-02-17 |  |
 | [Can I Get An Amen](https://open.spotify.com/track/39ZUVhgF5E50RrhRkCJ624) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Can I Get An Amen](https://open.spotify.com/album/4OmvWg51rJgDgypXntUR4N) | 3:40 | 2024-09-20 |  |
 | [Can't Nobody Love You](https://open.spotify.com/track/1ovGm2RHnWlTmbbtIxd2f8) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Rock 'N Soul](https://open.spotify.com/album/152R8N9N0ACnWPNOBIO4M8) | 2:33 | 2021-02-17 |  |
+| [Cocoon](https://open.spotify.com/track/6J5Emc1JlaT7FEntdkKcYW) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Cocoon](https://open.spotify.com/album/4rlqCscxj5jvxpf5EMGP8f) | 3:52 | 2025-10-10 |  |
 | [Cry](https://open.spotify.com/track/3wxJXJsgEr1hBV4ej5sUCY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/0KcAmKDwqxuKpL8o3jEyva) | 2:48 | 2023-05-26 | 2024-04-19 |
 | [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 | 2022-08-26 |  |
 | [Darkest Hour \(Helene Edit\)](https://open.spotify.com/track/3M7Cq1R8cylsGzNEb6QBMU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Darkest Hour \(Helene Edit\)](https://open.spotify.com/album/4YjKFvfdAqVgxMib41MUP3) | 4:07 | 2024-10-04 |  |
@@ -98,6 +100,7 @@
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2024-09-06 |  |
 | [This Old Heart of Mine](https://open.spotify.com/track/1oXYR4dnOflrGiDsrJTFvR) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [The Complete Atlantic Recordings](https://open.spotify.com/album/0dGOGeicMH03GiAzQiMluv) | 4:32 | 2021-02-17 |  |
 | [Two Cold Nights in Buffalo](https://open.spotify.com/track/3laocUVwRZd4sZu1c0tZ2W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:28 | 2021-02-17 |  |
+| [Two Trains \(feat\. Marcus King\)](https://open.spotify.com/track/23cBxlsY43hiuiLwXn5Xkn) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Two Trains \(feat\. Marcus King\)](https://open.spotify.com/album/41GVN5tLVfbmMjqa7JhC94) | 3:35 | 2025-10-10 |  |
 | [Walking On The Edge](https://open.spotify.com/track/3K6poepPfveodD8NQq1R0X) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Walking On The Edge](https://open.spotify.com/album/4nT3ippvZML5sJlOzsD3ht) | 4:27 | 2025-07-18 |  |
 | [Warm and Tender Love \- Single Version](https://open.spotify.com/track/0t2f3sMcWoqHDSRM4oj8hH) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Best of Percy Sledge](https://open.spotify.com/album/1Nyr1yLuCndptRRMZ0wmlP) | 3:21 | 2021-02-17 |  |
 | [Way Down](https://open.spotify.com/track/5yidfuDlmErOA4KAYBokdS) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/3nyn814gTrjxbSbbEtqkBU) | 2:45 | 2021-02-17 |  |

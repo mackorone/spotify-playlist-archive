@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,342 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,412 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 3 | [Deixa Alagar / Jeitinho Manhoso / Só Depois / Perdeu Pra Cerveja / Pensa Bem \- Ao Vivo](https://open.spotify.com/track/27aTUX3NP9Zhpmk31XtwkM) | [Cantor Aguiar](https://open.spotify.com/artist/09skVi8xWyExY1MS1SMQu6), [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q) | [Deixa Alagar / Jeitinho Manhoso / Só Depois / Perdeu Pra Cerveja / Pensa Bem \(Ao Vivo\)](https://open.spotify.com/album/0uH8YgPJFOahKPtZIFB4QH) | 7:35 |
 | 4 | [Para / Ponto Fraco / Pra Você Acreditar \- Ao Vivo](https://open.spotify.com/track/6vYRMUhHARgeCdb8nfGBDA) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Na Voz Dos Criadores \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1RD6SeObip0eNK4ja0Os3C) | 4:19 |
 | 5 | [Instinto / Dá seu Jeito / Vou Desligar \- Ao Vivo feat\. Gamadinho](https://open.spotify.com/track/6TrG01VFPHwLS1i43GGhEY) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Instinto / Dá seu Jeito / Vou Desligar \(Ao Vivo feat\. Gamadinho\)](https://open.spotify.com/album/4nEiSWh52QNqP38bP8cugq) | 5:30 |
-| 6 | [Pra Não pensar em Você / Ela é Demais / Dormi na Praça / Só Pensando em Você \- Ao Vivo](https://open.spotify.com/track/4z1sfZeDgQXvih2UhXyiQ0) | [Nossa Galera](https://open.spotify.com/artist/29UB7qJmmqTB1baPqIWaYY) | [](https://open.spotify.com/album/null) | 6:46 |
+| 6 | [Pra Não pensar em Você / Ela é Demais / Dormi na Praça / Só Pensando em Você \- Ao Vivo](https://open.spotify.com/track/4z1sfZeDgQXvih2UhXyiQ0) | [Nossa Galera](https://open.spotify.com/artist/29UB7qJmmqTB1baPqIWaYY) | [Ainda Bem Que Sou da Galera \(Ao Vivo\)](https://open.spotify.com/album/3w5IBSllMF1kgWhghsLBj1) | 6:46 |
 | 7 | [Até Que Durou / Sinto Sua Falta / Complicado \- Ao Vivo](https://open.spotify.com/track/2fS8SSOaXn87MFRBWUb6ZA) | [Vitor Madu](https://open.spotify.com/artist/3B4mkGca0wrXDACZkPtJP1), [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Até Que Durou / Sinto Sua Falta / Complicado \(Ao Vivo\)](https://open.spotify.com/album/1CIelLwoTAOnJSqF67QWfX) | 5:16 |
 | 8 | [Me Assume ou Me Esquece / Jogo do Amor / por Favor \- Ao Vivo](https://open.spotify.com/track/1G7Udp2bR4gPLegwzZOJvA) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Imagina pra Namorar, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6ZAYENlzAFLh2Yt7d6cxyk) | 5:13 |
 | 9 | [Eu Te Amo / Pra Gente Se Encontrar De Novo / Conversa Fiada \- Ao Vivo](https://open.spotify.com/track/38w6vzuBHBAZyMqf96qQyc) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [paGGodin2 \(Ao Vivo\)](https://open.spotify.com/album/4HPFev0OdiI2DvEyzjEWDC) | 4:46 |

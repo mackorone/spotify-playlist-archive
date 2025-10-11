@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,558 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,566 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 61 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
 | 62 | [Line](https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Lonely](https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603) | 3:54 |
 | 63 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
-| 64 | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 |
-| 65 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
+| 64 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
+| 65 | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 |
 | 66 | [You always \- Digging Club Seoul Ver.](https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Onstage Digging Club Seoul Part.05](https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d) | 4:54 |
 | 67 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 |
 | 68 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 |
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 70 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 71 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 |
 | 72 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
-| 73 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 |
-| 74 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
+| 73 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
+| 74 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 |
 | 75 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
-| 76 | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/track/3TuC6O1f6Ivb9UMnzlNmpn) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/album/4K8Otb0E6r4xA9ju6iaL0C) | 3:28 |
-| 77 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
+| 76 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
+| 77 | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/track/3TuC6O1f6Ivb9UMnzlNmpn) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/album/4K8Otb0E6r4xA9ju6iaL0C) | 3:28 |
 | 78 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 |
 | 79 | [What′re you doing tonight?](https://open.spotify.com/track/7yNjqinAMvuduSc5q99ePd) | [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [What're you doing tonight? \(Minyoung X Blooming project\)](https://open.spotify.com/album/4mcCilXiRvmf5z78w06NyU) | 3:11 |
 | 80 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 |
 | 100 | [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 |
 
-Snapshot ID: `AAAAABBsN2l6WJImj00V8IdCfY9sjKTg`
+Snapshot ID: `AAAAAPfKMN3DZ+/Tj7B3j1V83msI1wAU`

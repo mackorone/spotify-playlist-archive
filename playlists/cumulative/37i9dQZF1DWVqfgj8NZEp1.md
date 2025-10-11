@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-340 songs - 1 day 6 hr 57 min
+341 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Ask Me Now](https://open.spotify.com/track/0Qm0L18LAmHX7Pza1iMBul) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Ask Me Now](https://open.spotify.com/album/77LSpK2AcfgsWmHdHmZWCj) | 5:39 | 2024-09-27 |  |
 | [At Dawning](https://open.spotify.com/track/4JKre2anIXOgrSjvUbqISI) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [At Dawning](https://open.spotify.com/album/05rJBiIt8xuNSjKFLnGPye) | 5:43 | 2021-10-08 | 2022-02-18 |
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2020-10-09 | 2022-02-18 |
+| [Autumn In New York](https://open.spotify.com/track/0HO7e0ehTVAHNc6PqEJyKj) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Rune Fog\-Nielsen](https://open.spotify.com/artist/1JD8w4EbJ1vtpNnDkmT6go), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Autumn In New York](https://open.spotify.com/album/4kBPcCfU1CqHDM3qYiYSq1) | 4:33 | 2025-10-10 |  |
 | [Autumn Leaves](https://open.spotify.com/track/1yxqapSnGJNmQ8FHADcSVI) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Autumn Leaves](https://open.spotify.com/album/1gIVyFaljdStoDQob5insz) | 5:30 | 2025-03-28 |  |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2020-10-09 | 2022-09-27 |
 | [Balkis](https://open.spotify.com/track/50r8xQYk7Gyo4N9mnguBWJ) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Sylvain Beuf](https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [ASTA 2](https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo) | 2:29 | 2023-03-02 |  |
@@ -186,7 +187,7 @@
 | [Melancholia](https://open.spotify.com/track/2drDXmNLJUcNyrnpq9XVl0) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 3:50 | 2022-06-30 | 2024-04-19 |
 | [Melody At Night](https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [Melody At Night](https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl) | 4:31 | 2025-02-21 | 2025-05-24 |
 | [Memory Lane](https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Memory Lane](https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x) | 3:46 | 2025-07-18 |  |
-| [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 | 2022-02-11 |  |
+| [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 | 2022-02-11 | 2025-10-11 |
 | [Misty](https://open.spotify.com/track/24GGpPxMdDvCpy9vTmDc6U) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:32 | 2022-06-30 | 2024-04-19 |
 | [Misty](https://open.spotify.com/track/1W9s9CKbU4c7ZOniOScWWQ) | [Jumaane Smith](https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8) | [Misty](https://open.spotify.com/album/08nlPE9Zz8uLqrG3yMRdwX) | 5:51 | 2024-10-11 |  |
 | [Misty \- Remastered 2020](https://open.spotify.com/track/2yiISACbYnL2hApy1ffKKs) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Gemini \(Octave Remastered Series\)](https://open.spotify.com/album/41sYqKPEygmvQrLXKpzWJU) | 2:47 | 2020-10-09 |  |

@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 186000,
       "name": "Mesera",
       "url": "https://open.spotify.com/track/1JcdHRYBUbD0nHVSispJVp"
@@ -4329,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149026,
+      "name": "Paria",
+      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
+    },
+    {
+      "album": {
         "name": "Parison",
         "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
       },
@@ -4608,6 +4626,24 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "album": {
+        "name": "Pvta Luna",
+        "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Pvta Luna",
+      "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
     },
     {
       "album": {
@@ -5648,6 +5684,32 @@
       "duration_ms": 209531,
       "name": "TENGO SED",
       "url": "https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs"
+    },
+    {
+      "album": {
+        "name": "The Manifesto (feat. Trueno and Proof)",
+        "url": "https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439125,
+      "name": "The Manifesto (feat. Trueno and Proof)",
+      "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60853,
+  "num_followers": 60851,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 166706,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -623,30 +623,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "Blame It On You",
         "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 218948,
       "name": "Broken & Beautiful",
       "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 148459,
       "name": "Connection",
       "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "Fallin\u2019 (Adrenaline)",
-        "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 216504,
-      "name": "Fallin\u2019 (Adrenaline)",
-      "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 199506,
       "name": "heart won't let me",
       "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "Fallin\u2019 (Adrenaline)",
+        "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 216504,
+      "name": "Fallin\u2019 (Adrenaline)",
+      "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "White Horses",
-        "url": "https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "White Horses",
-      "url": "https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "White Horses",
+        "url": "https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91"
     },
     {
       "added_at": "2025-10-06 04:35:50",

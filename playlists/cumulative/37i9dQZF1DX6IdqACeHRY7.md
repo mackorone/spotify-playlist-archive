@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-449 songs - 1 day 1 hr 44 min
+450 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 | 2021-12-09 | 2025-10-08 |
 | [Headlights \- Stripped](https://open.spotify.com/track/2UR59nPBdyLoaAbNH6s8Fr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Headlights \- Stripped](https://open.spotify.com/album/4FaDm4Z8zGSoE1TLItfs2J) | 4:00 | 2021-05-22 | 2021-05-28 |
 | [Heartbeat](https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Inner Critic's Choice Awards](https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr) | 3:55 | 2024-01-12 | 2025-05-24 |
-| [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 | 2020-10-06\* |  |
+| [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 | 2020-10-06\* | 2025-10-11 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-24 | 2022-09-10 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-05-24 | 2022-09-10 |
 | [Heaven Can Wait](https://open.spotify.com/track/6q8YtmvckE9yOtfQ9W6WUP) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ), [Robin Stjernberg](https://open.spotify.com/artist/126TYnp3S2nOpqyaeF2YBh) | [Heaven Can Wait](https://open.spotify.com/album/0aznVHfopBc9a6iVwIWvmx) | 4:20 | 2020-10-06\* | 2022-07-29 |
@@ -354,6 +354,7 @@
 | [Svag](https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu) | 3:11 | 2020-10-06\* | 2024-04-19 |
 | [Svag](https://open.spotify.com/track/5SY5BWTxbDqFouuAdelFV9) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Svag](https://open.spotify.com/album/1ziSjnoTBS1nSkBouFNjGU) | 3:11 | 2020-11-07 | 2022-07-29 |
 | [Sweet Dreams](https://open.spotify.com/track/6hqx1Oj9DH1BgpI6qAq0Na) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Sweet Dreams](https://open.spotify.com/album/3dhpBPlbKR49YxwfmhyKGk) | 3:44 | 2020-10-06\* | 2022-07-29 |
+| [Tabt Noget](https://open.spotify.com/track/4f7b2nMVkhM58F6nSnQTDZ) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27), [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [EGO](https://open.spotify.com/album/4KZGnVN2Uner3QBMC0Tfoc) | 3:28 | 2025-10-07 |  |
 | [Take My Place](https://open.spotify.com/track/33PRIjrec1CC8MrsqVOiMH) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Take My Place](https://open.spotify.com/album/7AyM2lFkSzOW8CmIODTm45) | 4:14 | 2021-01-21 | 2022-07-20 |
 | [Take You Home](https://open.spotify.com/track/6V7dNVUExZ1z1TCHYxLrHg) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Take You Home](https://open.spotify.com/album/235t3rItvh7FSrtI2SuEUG) | 3:13 | 2020-10-20 | 2022-07-29 |
 | [Tell Me in the Morning](https://open.spotify.com/track/5OdtwysZszMXcujVwscqeo) | [FOURS](https://open.spotify.com/artist/2O96kas7AXED9RLiOWvrpY) | [Tell Me in the Morning](https://open.spotify.com/album/7l2LeqaDZcQr4A8EvkXSQm) | 3:37 | 2021-05-23 | 2022-07-18 |

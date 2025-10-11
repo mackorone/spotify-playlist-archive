@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Honey Dijon",
+  "description": "House music lives here. United under one roof, featuring SIDEPIECE",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 225250,
       "name": "Bad Habit - Cl\u00fcb De Combat Remix",
       "url": "https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D"
@@ -5823,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6uumoA4cGhqPScdve9d0Ml"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2vKywwP4hnuJgUwAqDG8mJ"
+    },
+    {
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -8799,7 +8817,7 @@
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179771,
+      "duration_ms": 179770,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
     },

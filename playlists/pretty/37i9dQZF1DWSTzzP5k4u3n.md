@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,497 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,504 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [](https://open.spotify.com/album/null) | 4:06 |
+| 1 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 |
 | 2 | [Antaisin kai mitä vaan](https://open.spotify.com/track/0AK1wJhv8vXOBE5N8O91ph) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Antaisin kai mitä vaan](https://open.spotify.com/album/4MyCJBMDANQX1qrwvqbTXz) | 3:08 |
 | 3 | [Ei vielä](https://open.spotify.com/track/1xyVk2IqrvRmSrnf44NEoQ) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Ei vielä](https://open.spotify.com/album/5vcZIYiuiHY8zoOIL0r8bi) | 3:15 |
 | 4 | [Yksinäiset sudet](https://open.spotify.com/track/7iPGcbfCfguRhFidCaL6mL) | [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Yksinäiset sudet](https://open.spotify.com/album/0R18mLNTbCQNIokk70VTWB) | 3:06 |
-| 5 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 |
-| 6 | [Ikipuut](https://open.spotify.com/track/1PcPem1EN5DY6jDO2fq7pI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Ikipuut](https://open.spotify.com/album/3FPM3ZGoZZrVkj1hhq8yX4) | 3:13 |
+| 5 | [Lähetään menee](https://open.spotify.com/track/2BJXx4y4aHREIIC2Z3h1UI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Odotin näpyä, tuli laaka](https://open.spotify.com/album/1UeNJBQIxRGIjfb9zS24E6) | 3:43 |
+| 6 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 |
 | 7 | [Hyppää Kyytiin Hani](https://open.spotify.com/track/2QJuMP3BEl9edMN4FwqQbW) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Hyppää Kyytiin Hani](https://open.spotify.com/album/7tMr43LqPAe2FGlG6Gem9I) | 3:01 |
 | 8 | [Domino](https://open.spotify.com/track/4yObsIr4sNWathGTbjU3Sz) | [51koodia](https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs) | [Domino](https://open.spotify.com/album/7shkFNgtHy5uZtDGLxxntQ) | 3:22 |
 | 9 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Uni](https://open.spotify.com/track/528qaRmD1cLOMA0ZEjul1w) | [Taiminen](https://open.spotify.com/artist/55P4ZXc5mKxkhty6fqYPIx) | [Uni](https://open.spotify.com/album/7c8nunEbnOjtK6p5pRyXRJ) | 3:42 |
 | 80 | [Uudestaan](https://open.spotify.com/track/2ab2Mm6924CLFQVmzXKdSd) | [Henrik Väki](https://open.spotify.com/artist/18dZ7EjXgJUCcfas2Sy0zX) | [Uudestaan](https://open.spotify.com/album/6Veva1N2QC7T3pwkHnMS7W) | 2:34 |
 
-Snapshot ID: `AAAAAC5Mn5JpbwxzgbFqq+r1f69SnsQZ`
+Snapshot ID: `AAAAALhjQUrNliKP9CwMSK9XVCuv7LA5`

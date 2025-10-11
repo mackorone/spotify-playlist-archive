@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,426 songs - 9 day 21 hr 9 min
+4,427 songs - 9 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-08-06 | 2024-09-07 |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2024-04-14 | 2024-04-16 |
 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 | 2024-01-23 | 2024-01-28 |
-| [Black Out Days \(Stay Away\)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Out Days \(Stay Away\)](https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC) | 2:52 | 2025-09-02 |  |
+| [Black Out Days \(Stay Away\)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Out Days \(Stay Away\)](https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC) | 2:52 | 2025-09-02 | 2025-10-11 |
 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 | 2025-07-27 | 2025-07-29 |
 | [Black Sabbath \- 2014 Remaster](https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 6:18 | 2025-07-26 | 2025-07-31 |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2023-11-30 | 2023-12-06 |
@@ -508,6 +508,7 @@
 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2023-11-21 | 2023-11-29 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 2:59 | 2025-04-05 | 2025-04-09 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-03-18 | 2025-04-05 |
+| [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2025-10-10 |  |
 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 | 2022-09-27 | 2022-10-02 |
 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-27 | 2025-06-04 |
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 | 2025-02-11 | 2025-02-16 |

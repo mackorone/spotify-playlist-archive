@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,974 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,983 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 14 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 |
 | 15 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
 | 16 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 |
-| 17 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
-| 18 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
+| 17 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
+| 18 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
 | 19 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
 | 20 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
 | 21 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |

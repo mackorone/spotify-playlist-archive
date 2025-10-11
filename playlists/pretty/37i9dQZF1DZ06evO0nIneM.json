@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92112,
+  "num_followers": 92118,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC/ccKqzpuKoQS/DTC5ex6s",
+  "snapshot_id": "aOb7AAAAAABIp9A/JOvR9r/vbhfqaxaB",
   "tracks": [
     {
       "added_at": null,
@@ -394,15 +394,11 @@
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
         }
       ],
-      "duration_ms": 249253,
-      "name": "Wereld Van Verschil (feat. Typhoon)",
-      "url": "https://open.spotify.com/track/1iAWatZzKkLOEarFBs8Fmt"
+      "duration_ms": 250506,
+      "name": "Over De Dam",
+      "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
     },
     {
       "added_at": null,
@@ -462,11 +458,15 @@
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
         }
       ],
-      "duration_ms": 250506,
-      "name": "Over De Dam",
-      "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
+      "duration_ms": 249253,
+      "name": "Wereld Van Verschil (feat. Typhoon)",
+      "url": "https://open.spotify.com/track/1iAWatZzKkLOEarFBs8Fmt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-929 songs - 2 day 13 hr 33 min
+931 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 | 2024-07-22 |  |
 | [Natural Vaudou](https://open.spotify.com/track/7F5taDAEzGYIcKA6mYNlCs) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:41 | 2024-01-18 | 2024-10-26 |
 | [Necessary](https://open.spotify.com/track/1oAmBK4NtTlQQHVdTNPl6y) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [90059](https://open.spotify.com/album/1fsvlnonD95p6VTEdQ7zJn) | 3:20 | 2022-07-26 |  |
+| [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 | 2025-10-10 |  |
 | [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 | 2025-06-18 |  |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2022-10-22 |  |
 | [New Jeans](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 1:48 | 2024-02-23 | 2024-03-28 |
@@ -579,6 +580,7 @@
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-10-24 |  |
 | [Oncle Jazz](https://open.spotify.com/track/204t5SErksNRHRhU52g5JF) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 0:57 | 2023-08-19 | 2023-08-28 |
 | [One More Chance \- 2018 Remaster](https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually \(2018 Remaster\)](https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j) | 5:31 | 2023-08-04 | 2024-01-22 |
+| [One Tiny Flower](https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 6:20 | 2025-10-10 |  |
 | [Only If](https://open.spotify.com/track/7wNAM0qzErN5Dr9uV6B3fW) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 1:40 | 2023-11-08 |  |
 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 | 2025-03-29 |  |
 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 | 2024-02-24 |  |

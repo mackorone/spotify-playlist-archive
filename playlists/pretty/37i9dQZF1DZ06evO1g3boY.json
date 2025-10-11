@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173283,
+  "num_followers": 173278,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAACrmNZtsLFbjLRkfhL2epM",
+  "snapshot_id": "aOb7AAAAAABN/BTewETgadwtRfGn7M2a",
   "tracks": [
     {
       "added_at": null,
@@ -1059,26 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 180448,
-      "name": "Melhor Rem\u00e9dio",
-      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -1119,6 +1099,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -1143,38 +1143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dai a Cesar o Que \u00c9 de Cesar",
-        "url": "https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH"
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
       "artists": [
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
-        },
-        {
-          "name": "Felipe Artioli",
-          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
-        },
-        {
-          "name": "NAVE",
-          "url": "https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Antes Que a Bala Perdida Me Ache",
-      "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
+      "duration_ms": 305213,
+      "name": "9nha / Eu Gosto Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
     }
   ],
   "unique_name": "This Is Emicida",

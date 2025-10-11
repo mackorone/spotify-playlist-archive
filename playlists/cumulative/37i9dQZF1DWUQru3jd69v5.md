@@ -4,7 +4,7 @@
 
 > Young Hash in cover della playlist con il futuro del rap italiano 📈
 
-2,045 songs - 3 day 14 hr 48 min
+2,045 songs - 3 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1794,6 +1794,7 @@
 | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/track/1GCg104cXQ0pZoOrCOhYeH) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/album/3itzxUx7HhUTPxQSFDoKVp) | 2:19 | 2024-09-12 | 2024-10-09 |
 | [SU](https://open.spotify.com/track/0rbTMQFQ75navxpTApBH5k) | [02TM](https://open.spotify.com/artist/06NQEu9vplp1ULkwqntmql), [BADBARBIE](https://open.spotify.com/artist/07lEiWUltCyMRRg0vM8PX5), [Dubrazil](https://open.spotify.com/artist/28V3nUGPnKHa6qLFLBVxf0), [Koja](https://open.spotify.com/artist/5pUnfJhZsHapPMB4wBfp5m), [Renis](https://open.spotify.com/artist/21zPO2MZlfEQrRXceiuqM3), [keyoshin](https://open.spotify.com/artist/5ACZ8fVWkiMbK7DT7ugOm3) | [02TM / SU](https://open.spotify.com/album/0bJycjkJQ4JveyBw65oWRO) | 2:29 | 2025-10-09 |  |
 | [Su di me](https://open.spotify.com/track/0Ut5lEss1YgPFRaRwOkUuu) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD) | [Su di me](https://open.spotify.com/album/3hXW8t8cPYQ4y73mjmZd1Y) | 2:09 | 2023-11-09 | 2023-11-23 |
+| [Su di me](https://open.spotify.com/track/0XW8AhKWldGov2ZBu4nCtx) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [St4r from the North 2](https://open.spotify.com/album/32HHw5fRiHXKMG9TUb75MW) | 2:18 | 2025-10-09 |  |
 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 | 2023-09-07 | 2023-12-15 |
 | [SUCA](https://open.spotify.com/track/2RsiWaoL4v2EEADLGkgIk9) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [SCUSATE IL RITARDO](https://open.spotify.com/album/1434ACkYCAphEJZF2Dljwt) | 2:57 | 2024-09-12 | 2024-10-08 |
 | [Suicide Doors](https://open.spotify.com/track/3S0CGNd6V6XzHlQcbZlgiQ) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Suicide Doors](https://open.spotify.com/album/5PCxicUXAOi4M3OUtmslVa) | 2:24 | 2025-05-29 | 2025-06-20 |
@@ -1878,7 +1879,6 @@
 | [Towro Industria 2](https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria 2](https://open.spotify.com/album/4qKL8ayTp3YmbAQyXKiseN) | 3:29 | 2023-04-06 | 2023-04-28 |
 | [TOXIC](https://open.spotify.com/track/1iqptdxYyCRi0Gwik6sH9L) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [EMOTIONAL DAMAGE](https://open.spotify.com/album/0KogfLFbZ5o4DackervXzB) | 2:49 | 2023-05-11 | 2023-05-26 |
 | [TR\*P](https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [TR\*P](https://open.spotify.com/album/2GNB3C5SBcUYn0ylMX4M5b) | 2:32 | 2024-02-22 | 2024-03-08 |
-| [Track 3](https://open.spotify.com/track/0XW8AhKWldGov2ZBu4nCtx) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-24 | 2024-11-22 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-13 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2023-03-03 |

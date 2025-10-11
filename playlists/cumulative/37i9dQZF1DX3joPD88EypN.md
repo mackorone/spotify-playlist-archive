@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-183 songs - 16 hr 11 min
+184 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Blodspredikan](https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP) | [Håvard Stubø Quartet](https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd) | [Kautokeino Undercover](https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB) | 6:28 | 2022-06-01 | 2025-03-05 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Breathe](https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Breathe](https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB) | 2:58 | 2024-01-26 | 2024-07-18 |
-| [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 | 2022-06-01 |  |
+| [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 | 2022-06-01 | 2025-10-11 |
 | [Caring](https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Caring](https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd) | 6:09 | 2022-06-01 | 2023-09-16 |
 | [Children's Day \- Small Group Version](https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44) | [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Anton Eger](https://open.spotify.com/artist/3Tlbv3PR6Xxton3Yp5dSZF) | [Children's Day](https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot) | 6:55 | 2022-06-01 | 2025-03-08 |
 | [Cinematic](https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Cinematic](https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2) | 8:07 | 2023-12-07 |  |
@@ -168,6 +168,7 @@
 | [The Second Page \- Live](https://open.spotify.com/track/0snWsjgZL15nWMrwbwrRMg) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [The Second Page](https://open.spotify.com/album/5nim98Rxz0gRh2QYNJ4krK) | 6:10 | 2022-06-01 | 2022-07-29 |
 | [The Second Page \- Live](https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Live in Gothenburg](https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW) | 6:10 | 2022-06-01 | 2024-04-19 |
 | [The Void](https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 6:32 | 2022-06-01 |  |
+| [They Stumble, They Walk](https://open.spotify.com/track/30eGGGgp1cvr9ykTOuoCl9) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [They Stumble, They Walk](https://open.spotify.com/album/2TXnk46cVsBsbmbrdZ7dMy) | 4:25 | 2025-09-26 |  |
 | [tide](https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [tide](https://open.spotify.com/album/2PI9rOUfbuuN7FoQWlAuzG) | 4:02 | 2022-06-01 |  |
 | [Time of Water](https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Time of Water](https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP) | 4:32 | 2022-06-01 | 2023-09-16 |
 | [Treet Og Veien](https://open.spotify.com/track/1eCJf38Cy49DsaRgvkyu1y) | [Steinar Nickelsen](https://open.spotify.com/artist/5bGEYuI5woxePf3Nqd74k6), [Vigleik Storaas](https://open.spotify.com/artist/7lDE36judogNbn12iCXQce), [Håkon Mjåset Johansen](https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I) | [Excess Luggage](https://open.spotify.com/album/5COZM2FDMFws02RwUpIyDA) | 5:44 | 2022-06-01 | 2023-09-01 |

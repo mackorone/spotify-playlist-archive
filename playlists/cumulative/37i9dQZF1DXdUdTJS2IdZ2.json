@@ -5573,7 +5573,7 @@
     },
     {
       "album": {
-        "name": "Global Tamilian Freestyle",
+        "name": "Global Tamilan Freestyle",
         "url": "https://open.spotify.com/album/0NI3zrixFJD4ePFIztY4P1"
       },
       "artists": [
@@ -5586,7 +5586,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148531,
-      "name": "Global Tamilian Freestyle",
+      "name": "Global Tamilan Freestyle",
       "url": "https://open.spotify.com/track/7ilIGxCaYa0zT6TvVrQojv"
     },
     {
@@ -14265,6 +14265,24 @@
     },
     {
       "album": {
+        "name": "all the words left unsaid",
+        "url": "https://open.spotify.com/album/5mpjZnDu3UCeVIO4sG5x0r"
+      },
+      "artists": [
+        {
+          "name": "Xander Wee",
+          "url": "https://open.spotify.com/artist/1kNFXCDQKIGsr4a5YNVVlc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sunsets and Silhouettes",
+      "url": "https://open.spotify.com/track/3snJnZVA5Df9KclpGq2HrK"
+    },
+    {
+      "album": {
         "name": "Sunshine Street (feat. Raizel)",
         "url": "https://open.spotify.com/album/53luUd9XVKpVpeSLKtZSRI"
       },
@@ -14890,6 +14908,36 @@
       "duration_ms": 243345,
       "name": "The Dwelling",
       "url": "https://open.spotify.com/track/2FhxLJF7hQnnVv6jIJg5bB"
+    },
+    {
+      "album": {
+        "name": "first light",
+        "url": "https://open.spotify.com/album/2Xszy3tyIDXRU7GfO1oS0U"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        },
+        {
+          "name": "isaacprease",
+          "url": "https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN"
+        },
+        {
+          "name": "rae",
+          "url": "https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x"
+        },
+        {
+          "name": "tylo",
+          "url": "https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204438,
+      "name": "the end of us",
+      "url": "https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf"
     },
     {
       "album": {
@@ -15852,36 +15900,6 @@
       "duration_ms": 210285,
       "name": "Town",
       "url": "https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "quiet morning",
-          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
-        },
-        {
-          "name": "isaacprease",
-          "url": "https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN"
-        },
-        {
-          "name": "rae",
-          "url": "https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x"
-        },
-        {
-          "name": "tylo",
-          "url": "https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf"
     },
     {
       "album": {

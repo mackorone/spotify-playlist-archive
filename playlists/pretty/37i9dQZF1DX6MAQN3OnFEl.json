@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 579977,
+  "num_followers": 580182,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "(You Drive Me) Crazy",
+      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 240866,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "(You Drive Me) Crazy",
-      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
     },
     {
       "added_at": "2024-07-12 21:13:59",

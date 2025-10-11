@@ -1,29 +1,13 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24439,
+  "num_followers": 24449,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAA6jJF8/4PS3bU6ZgELiaiW",
+  "snapshot_id": "aOb7AAAAAABCsVq+W0/Hh3Q9VoG6umrd",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Trip Around the Sun",
-        "url": "https://open.spotify.com/album/0VbwQNe0djQ6n5I1cKtPX8"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 166810,
-      "name": "Last Trip Around the Sun",
-      "url": "https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c"
-    },
     {
       "added_at": null,
       "album": {
@@ -371,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Trip Around the Sun",
+        "url": "https://open.spotify.com/album/0VbwQNe0djQ6n5I1cKtPX8"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 166810,
+      "name": "Last Trip Around the Sun",
+      "url": "https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 190308,
       "name": "Shine - Solo Piano Version",
       "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
     },
     {
       "added_at": null,

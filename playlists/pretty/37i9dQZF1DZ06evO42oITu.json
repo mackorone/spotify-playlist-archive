@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 371901,
+  "num_followers": 371916,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACXT6M6YyyffJ9y5+TocsX8",
+  "snapshot_id": "aOb7AAAAAAC8qrlAn9ifowD8Ved/2rXl",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Before You Accuse Me",
+      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Before You Accuse Me",
-      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concert For George (Live)",
-        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 357104,
-      "name": "While My Guitar Gently Weeps - Live",
-      "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 219960,
       "name": "Key to the Highway",
       "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 357104,
+      "name": "While My Guitar Gently Weeps - Live",
+      "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 298280,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 298280,
-      "name": "Let It Grow",
-      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (Bonus Track)",
-        "url": "https://open.spotify.com/album/7a1B2i6XL0aPrjN6sP3jWc"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/1bBVXIuMPZhdC3ICJQdJsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 147853,
       "name": "Cajun Moon",
       "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 283280,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
     },
     {
       "added_at": null,
@@ -803,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 283280,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pilgrim",
         "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 442133,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever (Bonus Track)",
+        "url": "https://open.spotify.com/album/7a1B2i6XL0aPrjN6sP3jWc"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/1bBVXIuMPZhdC3ICJQdJsw"
     },
     {
       "added_at": null,

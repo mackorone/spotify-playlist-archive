@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,145 songs - 3 day 11 hr 31 min
+1,147 songs - 3 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Bring It On](https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Bring It On](https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8) | 3:08 | 2021-12-17 | 2022-07-02 |
 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 | 2022-07-08 | 2024-04-19 |
 | [Bring The Rain](https://open.spotify.com/track/0YnWl0ibjnyZFN164rkDLX) | [Surrender The Crown](https://open.spotify.com/artist/4sJsIehq82zwyZXrE4ItMR) | [Ready For A War EP](https://open.spotify.com/album/14DNHX332nSwQFg2hyCPBQ) | 3:26 | 2022-03-22 | 2022-04-18 |
+| [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 | 2025-10-10 |  |
 | [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 | 2022-07-08 | 2024-04-19 |
 | [Broken Cog](https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/1AS4JyVjjOgILIZ7TyhOKZ) | 5:35 | 2022-04-01 | 2022-07-13 |
 | [Brother of the Storm](https://open.spotify.com/track/16xgTpD2IK6HNxnYOhuAGn) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Brother of the Storm](https://open.spotify.com/album/3lLA3FMglcgPttcLCUEUuU) | 3:15 | 2021-12-17 | 2022-07-25 |
@@ -198,7 +199,7 @@
 | [Crimson Skies](https://open.spotify.com/track/0Jj1US4hB3vCZrgN8rHvRh) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 4:09 | 2022-11-18 | 2024-04-19 |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 | 2022-08-30 |
 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 | 2025-01-31 |  |
-| [Crossing Over](https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Bring Out Your Dead](https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf) | 4:02 | 2024-04-05 |  |
+| [Crossing Over](https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Bring Out Your Dead](https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf) | 4:02 | 2024-04-05 | 2025-10-11 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
 | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 | 2025-09-12 |  |
 | [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
@@ -704,7 +705,7 @@
 | [Outer Dimensions](https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Outer Dimensions](https://open.spotify.com/album/1g2CRYugkE60cBxB2WSOLi) | 3:05 | 2023-12-06 | 2024-05-03 |
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-07-08 | 2022-07-22 |
 | [Overdrive](https://open.spotify.com/track/2J9bFFDcOBsoNmK4dUHATi) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [The Dark Horse](https://open.spotify.com/album/2ewSfOHchEXg7nr4SzWUra) | 3:56 | 2024-01-26 | 2024-05-19 |
-| [Overthrone](https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine \(Deluxe Version\)](https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow) | 3:39 | 2023-12-06 |  |
+| [Overthrone](https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine \(Deluxe Version\)](https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow) | 3:39 | 2023-12-06 | 2025-10-11 |
 | [Oxygen](https://open.spotify.com/track/0ncGg1FsXkT3VDEjC229IU) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Oxygen](https://open.spotify.com/album/28zqInXXqTsVDImavH3zyT) | 3:45 | 2024-11-04 | 2025-03-29 |
 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 | 2022-02-11 |  |
 | [Paint the Sky with Blood](https://open.spotify.com/track/7j0DSyekwDBBkAesbD5bzH) | [Bodom After Midnight](https://open.spotify.com/artist/1pK4DWtAsZ6KSlIPwijXvG) | [Paint the Sky with Blood](https://open.spotify.com/album/6TMCI01byEtKKnGZHuzFUe) | 4:26 | 2021-12-17 | 2022-07-29 |
@@ -920,6 +921,7 @@
 | [Take the World](https://open.spotify.com/track/4ZpMNbTPXI9sOPv0mIPY7K) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Take the World](https://open.spotify.com/album/3zc9s6GMTNjZhTfIxvkT5x) | 2:48 | 2022-04-01 | 2022-04-17 |
 | [Taniwha \(feat\. Randy Blythe\)](https://open.spotify.com/track/0NMjS1FNduEm9SK2hwiP1x) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Te Rā](https://open.spotify.com/album/2H7YgFo7y9Jy0H8kI2XieO) | 4:48 | 2025-04-25 |  |
 | [Taniwha \(feat\. Randy Blythe\)](https://open.spotify.com/track/3FKmAybKmHrRHbLOBQ0hDx) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm), [Randy Blythe](https://open.spotify.com/artist/3ATfxPE7daw3thpYsevlBc) | [Taniwha](https://open.spotify.com/album/1CFDsqaT9pVqUqMFtm2Ari) | 4:48 | 2025-03-28 | 2025-04-26 |
+| [Tanz Der Toten](https://open.spotify.com/track/4uoxEdN95MwhF6QfvBabJP) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [Tanz Der Toten](https://open.spotify.com/album/2mJ7L2r4z88VSuHNcwuHci) | 3:06 | 2025-10-10 |  |
 | [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 |  |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 | 2023-03-11 |

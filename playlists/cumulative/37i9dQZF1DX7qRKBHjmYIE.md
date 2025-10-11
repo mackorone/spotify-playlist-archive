@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline & Amaia.
 
-930 songs - 2 day 2 hr 6 min
+931 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Ay Dime](https://open.spotify.com/track/3czgClSrkQjmsGC66mHmBg) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Ay Dime](https://open.spotify.com/album/76XcPqWLY9frBI4eI7sTc2) | 3:07 | 2022-01-28 | 2022-06-04 |
 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 | 2024-05-31 | 2025-05-10 |
 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 | 2023-08-25 | 2023-09-30 |
-| [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 | 2025-07-25 |  |
+| [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 | 2025-07-25 | 2025-10-11 |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 | 2024-05-11 |
 | [Baby Yono](https://open.spotify.com/track/67ufd0DrI5R9qYI0SNo7rd) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4), [rjmussic](https://open.spotify.com/artist/3U29U4vS0c2LtFLMufpJ9j) | [Disco 9](https://open.spotify.com/album/0cMCxMu4d6sjPND40Jr2l6) | 2:22 | 2024-05-10 | 2024-09-21 |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-22 | 2023-02-03 |
@@ -670,6 +670,7 @@
 | [PIKI](https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [PIKI](https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ) | 4:19 | 2025-08-22 |  |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-12-02 | 2022-01-29 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-02-02 | 2023-02-17 |
+| [PIRRI](https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [PIRRI](https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB) | 3:12 | 2025-10-10 |  |
 | [PLAYA PRIVADA](https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:37 | 2022-04-08 | 2023-02-17 |
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-15 | 2024-05-11 |
 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 | 2021-12-02 | 2022-01-25 |

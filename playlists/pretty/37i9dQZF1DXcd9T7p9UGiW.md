@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: lojay
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,352 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,377 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Body](https://open.spotify.com/track/1pYBqDdkq9tpzYWuYilAn4) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [](https://open.spotify.com/album/null) | 2:35 |
+| 1 | [Body](https://open.spotify.com/track/1pYBqDdkq9tpzYWuYilAn4) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:35 |
 | 2 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 3 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 4 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 37 | [Paranoid \(feat\. Fridayy\)](https://open.spotify.com/track/6axRsq4QvWQOyKfPfzgMCc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:32 |
 | 38 | [Wave](https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:25 |
 | 39 | [stuck](https://open.spotify.com/track/5wQnUxc80XE7AViyMYF78n) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [stuck](https://open.spotify.com/album/5wPCgdQ5KH1qM6CGAWtiJ3) | 2:51 |
-| 40 | [Fallen](https://open.spotify.com/track/1BAEgoevzYy6VtPMUlKPFN) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [](https://open.spotify.com/album/null) | 2:50 |
+| 40 | [Fallen](https://open.spotify.com/track/1BAEgoevzYy6VtPMUlKPFN) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Atonement](https://open.spotify.com/album/1UZpFYWfMkGkrk04P5rTSJ) | 2:50 |
 | 41 | [Tempted](https://open.spotify.com/track/2Q7bBeinlWqc83qNoRnrM2) | [Track Starr](https://open.spotify.com/artist/2Wfuyv9WQvoXDTUV74dFA3), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Tempted](https://open.spotify.com/album/3RTz78b9ZEdHJF78oJknYJ) | 2:46 |
 | 42 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 43 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 |

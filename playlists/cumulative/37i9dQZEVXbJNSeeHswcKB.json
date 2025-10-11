@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1JyRpP8m5n45JGpMelt5Yk"
+    },
+    {
+      "album": {
         "name": "APPELLE TA COPINE",
         "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
       },
@@ -15794,7 +15812,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 181534,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3vGd1heFoUuFGvKvl0SdW3"
@@ -23086,7 +23104,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -26875,6 +26893,28 @@
     },
     {
       "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "PARISIENNE",
+      "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
+    },
+    {
+      "album": {
         "name": "PARISIENNE",
         "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
       },
@@ -26912,7 +26952,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/5gvvdf0mk5nL5Gu9h5cUTX"
@@ -39428,7 +39468,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 216333,
       "name": "Ya Ya Yippee",
       "url": "https://open.spotify.com/track/3G8OK4ldaOsIqN2eeVNP7u"

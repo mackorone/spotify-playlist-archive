@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhinesh Nagarajan
 
-706 songs - 1 day 17 hr 28 min
+708 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Ikkiren](https://open.spotify.com/track/2Iz1hlf6vhOIWsqCMwLQ2N) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Ikkiren](https://open.spotify.com/album/0QIdn4yd0WU3uy3gtU3O4F) | 4:21 | 2022-11-24 | 2023-03-08 |
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-06-23 | 2025-03-05 |
 | [Ilavarasi](https://open.spotify.com/track/4nOHICVDNdqyMIbQjOJ8hF) | [Jecin George](https://open.spotify.com/artist/5UcUhUt9RK09Wyy3twh7rN), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Ilavarasi](https://open.spotify.com/album/0DGVvdz7xqrMJ9mB59NJJh) | 3:48 | 2023-03-10 | 2023-04-01 |
+| [Illai Illai](https://open.spotify.com/track/39GXOnXzJDNIz96XRoOltR) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1), [Lokesh Sambath Kumar](https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv) | [Illai Illai](https://open.spotify.com/album/1UZcV7bCzck2xgS5QILn9p) | 3:33 | 2025-10-10 |  |
 | [Imaigalo](https://open.spotify.com/track/5LRODMeAbWjHEItSRLGZ3b) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Imaigalo](https://open.spotify.com/album/3hujPUBf31Y80dprCKF5gj) | 2:45 | 2023-04-03 | 2025-02-11 |
 | [Imaye \- From "Think Specials"](https://open.spotify.com/track/0Ung8cwAINVSXcIcSkZLIF) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Imaye \(From "Think Specials"\)](https://open.spotify.com/album/56m9UEPRLqXL6dMJJPtU3l) | 3:30 | 2022-09-23 | 2023-02-28 |
 | [In Her Wish](https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT) | [Ajayy K](https://open.spotify.com/artist/1PgASqMDJgiJA5incZF56n) | [In Her Wish](https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk) | 2:27 | 2024-12-05 | 2025-01-22 |
@@ -446,6 +447,7 @@
 | [Oh Azhagae, Pt\. 1](https://open.spotify.com/track/2YY7HsQbmERN99mfnUsrGA) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Buffoon Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/00Ex3gBXLz8v0gXHlmIaJH) | 4:18 | 2023-03-22 | 2023-04-01 |
 | [Oh Kanmaniye](https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C) | [Dhayanesh Kumar R](https://open.spotify.com/artist/3RMR9E25rkqAVcYdaheO3f), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Padmaja Sreeenivasan](https://open.spotify.com/artist/2SVKMYeIcn3iTeKmI1cJpD) | [Oh Kanmaniye](https://open.spotify.com/album/4ChiG4kmBCXR6LWbX1ig6p) | 3:35 | 2025-01-30 | 2025-08-11 |
 | [Oh Maane](https://open.spotify.com/track/5zq8sYIf71unFfTEbdw3kL) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Oh Maane](https://open.spotify.com/album/1Kx1hAJqJ49iK85Osl6aJE) | 5:28 | 2023-02-10 | 2024-11-26 |
+| [Oh Maname](https://open.spotify.com/track/6Ucqq4GbNq7AOaPryxwRo1) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Oh Maname](https://open.spotify.com/album/09XMViCQAJWB4qNQ1iUwLB) | 3:50 | 2025-10-10 |  |
 | [Ok Kanmani](https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX) | [Sudharshan Senthilkumar](https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp) | [Ok Kanmani](https://open.spotify.com/album/7hPZ3wh5SLRbrZdBpXgctu) | 4:25 | 2022-08-11 | 2022-11-25 |
 | [Okay](https://open.spotify.com/track/56fZS9eCVLNGrc4s9ebbz8) | [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Dharshu Prakash](https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb) | [Okay](https://open.spotify.com/album/5kWUG5S49XZIyY2875fL1i) | 3:40 | 2024-05-03 | 2024-08-20 |
 | [Olalai \- From 'Atti Culture'](https://open.spotify.com/track/2nbjJxiBedH58K9Os9Duef) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Olalai \(From 'Atti Culture'\)](https://open.spotify.com/album/10GVrPFNC9zO4TyMskrYrf) | 3:05 | 2024-06-21 |  |

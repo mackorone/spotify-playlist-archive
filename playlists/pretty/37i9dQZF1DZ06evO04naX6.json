@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 173602,
+  "num_followers": 173615,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABXiClAmzWTbFgbEUDNi62t",
+  "snapshot_id": "aOb7AAAAAAC0Nkj/g2kGgalz349i3DUK",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Unica - Remix",
+      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonita (Remix)",
         "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
       },
@@ -883,34 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Unica - Remix",
-      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Underdog - El Subestimado",
         "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
       },
@@ -927,6 +927,30 @@
       "duration_ms": 184480,
       "name": "Cuando Baila Reggaeton",
       "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/61SktdmRAfMcOEv4eQBqwf"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Porsche Carrera",
+      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
     },
     {
       "added_at": null,
@@ -967,30 +991,6 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/61SktdmRAfMcOEv4eQBqwf"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Porsche Carrera",
-      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
     },
     {
       "added_at": null,

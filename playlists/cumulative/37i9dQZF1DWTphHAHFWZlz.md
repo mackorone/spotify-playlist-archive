@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
+> Nuevo sonido, misma actitud.<br/>📷 Little Boogie
 
-294 songs - 16 hr 50 min
+296 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bondi](https://open.spotify.com/track/2DxwhvccoBibFxHHHJ8jVd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Cuentito](https://open.spotify.com/album/7AvIdnQjY3mjZ8NexvRruR) | 3:29 | 2022-07-19 | 2023-05-20 |
 | [BUENÍSIMO](https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [BUENÍSIMO](https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB) | 2:30 | 2025-02-28 |  |
 | [BUITRES](https://open.spotify.com/track/2cIf0QMDPd9aimLylQqCZ8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:09 | 2023-05-19 |  |
+| [bullicio](https://open.spotify.com/track/7oNUA3utHJTE82X0Vbu5uv) | [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [bullicio](https://open.spotify.com/album/1w9DzWFN05bRtNUNeREAId) | 2:24 | 2025-10-10 |  |
 | [Burbuja Loca](https://open.spotify.com/track/1CXKwOnD3ijncZIgV9DaWg) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Burbuja Loca](https://open.spotify.com/album/2ggx4yXZYKVp21lz16hO33) | 2:56 | 2022-06-29 | 2022-07-20 |
 | [CACHETAZO](https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [MARTTEIN](https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv) | 1:59 | 2024-10-04 |  |
 | [Canción de Flora](https://open.spotify.com/track/4wE4VCSYSNJEjCjr4jGIiB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Canción de Flora](https://open.spotify.com/album/7cVg7x1aVZYh0qP7oB1Lxw) | 3:49 | 2022-06-29 | 2022-07-20 |
@@ -214,6 +215,7 @@
 | [No Quiero Salir](https://open.spotify.com/track/0Z9EiIeAxn26L0lTVOn1aH) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [No Quiero Salir](https://open.spotify.com/album/2XYNPtHlKeJTxPAmyIbkmq) | 2:18 | 2022-06-29 | 2023-05-20 |
 | [No Te Desvistas](https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY) | [Simón Abentin](https://open.spotify.com/artist/3Zs1HOnF2dqmc60qkEziol) | [Tocable, Adorable](https://open.spotify.com/album/3blcyiycMdmmomf37A0SoP) | 2:13 | 2022-06-29 | 2022-07-20 |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2022-10-28 | 2023-05-20 |
+| [OKUPAS](https://open.spotify.com/track/1JFOzm5blyqrenJCWaUDQs) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/2sV73ALGXBEAXy2uxHJctQ) | 2:44 | 2025-10-10 |  |
 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-05-19 | 2024-05-11 |
 | [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 | 2022-11-13 |
 | [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 | 2022-08-19 | 2023-05-20 |

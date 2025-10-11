@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-421 songs - 1 day 4 hr 34 min
+422 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Take What I Give You](https://open.spotify.com/track/5r0Uzh5oDKnDXvUcS3jddR) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Take What I Give You](https://open.spotify.com/album/71FlfORnC093PndBdjcHvF) | 3:28 | 2025-02-20 | 2025-03-22 |
 | [Tastes Like Freedom \- Carista Remix](https://open.spotify.com/track/6g6KLTBmnhBgW77yjuybp3) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Carista](https://open.spotify.com/artist/7HbRQEEsvAKurr1v8YjwzZ) | [Tastes Like Freedom: Remixed](https://open.spotify.com/album/3ptgEd1eqt661mb8uCunB1) | 4:54 | 2021-11-24 | 2022-07-29 |
 | [Tensoon](https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Tensoon](https://open.spotify.com/album/5rmVFzFZ2rwZDwrVg5HVfj) | 3:57 | 2025-05-16 | 2025-08-29 |
+| [THE ANTI RUMINATION ANTHEM](https://open.spotify.com/track/2lfXz7R4RNrWvmFPaQycM7) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [All The Way Up / THE ANTI RUMINATION ANTHEM](https://open.spotify.com/album/4sYquV8XpzvdsJXSE9VzyG) | 3:12 | 2025-10-02 |  |
 | [The Distance](https://open.spotify.com/track/1RonSMfR2Ob1qzmbKG1GQV) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/1p49Nh0LEC1jE6VJwuPm4x) | 4:51 | 2021-11-24 | 2022-07-29 |
 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 | 2023-11-17 | 2024-04-19 |
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2022-06-20 | 2023-09-26 |
@@ -401,7 +402,7 @@
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-07-03 | 2025-10-04 |
 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 | 2024-10-25 |  |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2022-06-20 | 2024-04-05 |
-| [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2025-01-30 |  |
+| [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2025-01-30 | 2025-10-11 |
 | [Unknowable](https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Unknowable](https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343) | 3:03 | 2025-05-16 |  |
 | [Up and Out](https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:40 | 2021-11-24 | 2022-07-27 |
 | [Ur <3](https://open.spotify.com/track/0hx4xTylyRQFNFFnVUJydy) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/3WVQ7KA54YAxv7fQ5pfFE2) | 3:43 | 2021-11-24 | 2022-07-29 |

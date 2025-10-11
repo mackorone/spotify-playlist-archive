@@ -4,7 +4,7 @@
 
 > Bien Argento 📸 Mir Nicolas
 
-412 songs - 20 hr 32 min
+413 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [CICATRICES \(Live Session\)](https://open.spotify.com/track/0T9dqvswDkVqD5CeCUvJcT) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Live Session Vol 1](https://open.spotify.com/album/1fbQrdbmFVRDMD6JTyTabO) | 4:15 | 2025-03-28 |  |
 | [Clandestino](https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Sebastián Peralta](https://open.spotify.com/artist/7fWhk7L57o8lKa8KxI8Beq) | [Clandestino](https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx) | 2:46 | 2024-03-01 | 2024-09-14 |
 | [Club](https://open.spotify.com/track/39G6VuL4uMc4RkTmTWmGvr) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Faus.](https://open.spotify.com/artist/3523bfC8fO4mikSjfpLccw) | [TR3S](https://open.spotify.com/album/3AiilnB66vqE98WBFReKeT) | 2:59 | 2025-03-28 | 2025-05-07 |
+| [CLUB](https://open.spotify.com/track/1W8JDElnuw1vXVCRfGjLF9) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [CLUB](https://open.spotify.com/album/61rDCsfNSpkzliwuMA0Iox) | 1:36 | 2025-10-10 |  |
 | [Con Billetes](https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 4:21 | 2023-01-27 | 2023-07-22 |
 | [CON LOS MISMOS](https://open.spotify.com/track/3lXdO6RGfIQpz4R1sibZxo) | [Cafun](https://open.spotify.com/artist/64QCc45M21l22dpQWHQjME), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [DE CAMINO A IRÉ](https://open.spotify.com/album/2IYGR63qSrFBf5dR4LojwW) | 2:39 | 2025-09-12 |  |
 | [Con Vos](https://open.spotify.com/track/0CHUTfMOOri04WUYwtDQu7) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Cofran Olima](https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967) | [Con Vos](https://open.spotify.com/album/6pR3IOwXOTHDjblmJm5MGx) | 3:04 | 2025-01-24 |  |

@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> emory on the cover bc we can't get this song out of our heads!!!
+> hannah frances on the cover 🍃
 
-631 songs - 1 day 13 hr 58 min
+638 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Appalachian Home](https://open.spotify.com/track/3quYBZwVDuYLvqqVkBEnYq) | [barrett](https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY) | [Appalachian Home](https://open.spotify.com/album/5ipoFhyyjEjSE12KR5fkW7) | 3:00 | 2025-04-25 | 2025-08-09 |
 | [Apples](https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Apples](https://open.spotify.com/album/2VmOnJT6VkmkfB3erQ4Jv6) | 3:42 | 2025-08-08 |  |
 | [Arm Candy](https://open.spotify.com/track/0VVCkk2cH6Kshcm9Gyq0Qh) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Heaven Is In You](https://open.spotify.com/album/3RFcjCbs1S6JkZgNADIT8l) | 2:56 | 2025-02-28 | 2025-08-09 |
+| [Arms](https://open.spotify.com/track/55B2G4Q8Sw26OXrosCpFZC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Arms](https://open.spotify.com/album/4dVYpBDtKxZbwX38XrHSaJ) | 3:49 | 2025-10-10 |  |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-21 | 2025-09-27 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-25 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2024-08-01 | 2024-09-07 |
@@ -68,6 +69,7 @@
 | [Born To](https://open.spotify.com/track/3krLzrgWMoKzcyi0hZQ2F4) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Born To](https://open.spotify.com/album/7HrCHq421CdAnnRgrs2SoF) | 2:52 | 2025-08-29 |  |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-17 | 2025-05-31 |
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-10 | 2024-08-31 |
+| [Break The Jaw](https://open.spotify.com/track/5J9Y2roWzvClVvb39fHMiW) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Break The Jaw](https://open.spotify.com/album/2khFgwnRjBab1uWRBVGI9H) | 4:07 | 2025-10-10 |  |
 | [Breathing](https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Breathing](https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV) | 4:07 | 2025-01-10 | 2025-07-19 |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-10-06 | 2024-10-05 |
 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 | 2024-01-14 | 2024-04-06 |
@@ -278,6 +280,7 @@
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2023-10-06 | 2024-03-02 |
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2024-10-11 | 2025-05-31 |
 | [I'm Not Them](https://open.spotify.com/track/1iBZ54hEvr2EYk44MgfD7X) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [A Kiss Dressed His Cheek](https://open.spotify.com/album/4ISEjw1cFwyVH6MQWudJ4s) | 2:03 | 2025-02-07 | 2025-08-09 |
+| [If I go](https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Body Break](https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi) | 3:35 | 2025-10-10 |  |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-10-06 | 2024-03-23 |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-04-19 |
 | [If someone's gonna love you](https://open.spotify.com/track/7bfIjbeRDDOvIC5q1ULIPs) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Handwriting Practice No\. 1](https://open.spotify.com/album/4D3EjnEEuZrJfBidHIC3c2) | 3:37 | 2025-05-16 |  |
@@ -293,6 +296,7 @@
 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 | 2025-03-14 | 2025-09-20 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-09-07 |
 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 | 2024-08-09 | 2024-09-14 |
+| [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 | 2025-10-10 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2023-10-06 | 2024-04-13 |
 | [jacob killed a cat](https://open.spotify.com/track/3nE26bDb6bnowMRyo6qGsa) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:45 | 2023-10-06 | 2023-12-09 |
 | [jesus song \(county line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [jesus song \(county line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 | 2024-01-26 | 2024-02-17 |
@@ -551,12 +555,15 @@
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-06 | 2024-06-01 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-19 | 2024-04-27 |
 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-11 | 2025-08-23 |
+| [The Space Between](https://open.spotify.com/track/6pdbsf3L7iqDwqRe6VNHeu) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz), [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [The Space Between](https://open.spotify.com/album/73BxuAtQLUMR30pRPN535y) | 5:47 | 2025-10-10 |  |
 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 | 2024-02-23 | 2024-04-06 |
 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-19 | 2025-03-13 |
+| [The Way Love Goes](https://open.spotify.com/track/1o9KFXJkF6jBpIvd4rthsi) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 1:56 | 2025-10-10 |  |
 | [the way that i am](https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [the way that i am](https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y) | 2:57 | 2024-10-16 | 2025-02-01 |
 | [there they go](https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [there they go](https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF) | 2:13 | 2023-10-20 | 2024-03-16 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-11 | 2025-09-13 |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-18 | 2024-12-07 |
+| [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-10 |  |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-10-06 | 2024-05-25 |
 | [Timeline](https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 5:32 | 2024-05-17 | 2025-03-13 |
 | [tiny things](https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [tiny things](https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB) | 2:30 | 2023-10-06 | 2024-03-30 |

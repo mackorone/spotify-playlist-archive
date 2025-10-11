@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u70ba\u4f55\u653e\u68c4 \u70ba\u4f55\u61f7\u7591 \u5225\u592a\u5feb \u5c07\u6211\u63a8\u958b\u3002",
-  "num_followers": 185932,
+  "num_followers": 185935,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPn7VbQoqSOA/1tXMq1VZJGzD3Ug",
+  "snapshot_id": "AAAAAHIXUZ9F4lKvT2oxHkxI/lfB1hVE",
   "tracks": [
     {
       "added_at": "2025-02-03 08:01:17",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u6211\u8981\u5feb\u6a02 (Deluxe Version)",
         "url": "https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM"
       },
@@ -159,18 +175,18 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+        "name": "\u5979\u8aaa",
+        "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
       },
       "artists": [
         {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
         }
       ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+      "duration_ms": 318499,
+      "name": "\u5979\u8aaa",
+      "url": "https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -187,22 +203,6 @@
       "duration_ms": 233360,
       "name": "\u731c\u4e0d\u900f",
       "url": "https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u5979\u8aaa",
-        "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 318499,
-      "name": "\u5979\u8aaa",
-      "url": "https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 299346,
-      "name": "\u5931\u843d\u6c99\u6d32",
-      "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 237000,
       "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 299346,
+      "name": "\u5931\u843d\u6c99\u6d32",
+      "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
     },
     {
       "added_at": "2025-02-03 08:01:17",

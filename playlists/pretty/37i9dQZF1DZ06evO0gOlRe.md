@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,380 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,388 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 41 | [Let Me Hate You](https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Let Me Hate You](https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk) | 3:16 |
 | 42 | [Pressure](https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:28 |
 | 43 | [Shady](https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:49 |
-| 44 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 |
-| 45 | [Different People](https://open.spotify.com/track/12PFQS7zeWYMJoN9DT2ceE) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE) | 2:54 |
+| 44 | [Different People](https://open.spotify.com/track/12PFQS7zeWYMJoN9DT2ceE) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE) | 2:54 |
+| 45 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 |
 | 46 | [Be Sad](https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:48 |
 | 47 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 | 48 | [STOP & GO](https://open.spotify.com/track/2kpPludPmHagO06IiRChtM) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [STOP & GO](https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x) | 2:51 |
 
-Snapshot ID: `aOWpgAAAAADAHnI7Yh3UXLnn8Y4f5Esv`
+Snapshot ID: `aOb7AAAAAADsEUO5n7Kgz7E1mKFLTT5L`

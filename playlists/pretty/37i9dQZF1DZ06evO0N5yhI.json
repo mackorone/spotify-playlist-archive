@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 138698,
+  "num_followers": 138725,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABLlfddC6gEWsa4mssbveZi",
+  "snapshot_id": "aOb7AAAAAADdP6FLFDDS2fj+e8eMwSIc",
   "tracks": [
     {
       "added_at": null,
@@ -699,30 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Oblivion Community Center",
-        "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
-      },
-      "artists": [
-        {
-          "name": "Better Oblivion Community Center",
-          "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
-        },
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Dylan Thomas",
-      "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Oblivion Community Center",
+        "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
+      },
+      "artists": [
+        {
+          "name": "Better Oblivion Community Center",
+          "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
+        },
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Dylan Thomas",
+      "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
     },
     {
       "added_at": null,

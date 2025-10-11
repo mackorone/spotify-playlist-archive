@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,015 likes - 1,099 songs - 2 day 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,012 likes - 1,099 songs - 2 day 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 196 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 |
 | 197 | [Until The End Of Time](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 |
 | 198 | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
-| 199 | [Satsa \- Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [inomi](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa \- Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
+| 199 | [Satsa \- Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa \- Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
 | 200 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
 | 201 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
 | 202 | [Horas y Horas \- Spotify Singles](https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Spotify Singles](https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV) | 3:53 |

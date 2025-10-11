@@ -1,13 +1,33 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney. Lilo & Stitch, Moana 2, Encanto y mucho m\u00e1s!",
-  "num_followers": 201841,
+  "num_followers": 201876,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGaYZ9N2WrboFW6bmEOkKYmYtisR",
+  "snapshot_id": "AAAAAOzR0QbxS/0ZfaK98aIn+nvFp70i",
   "tracks": [
+    {
+      "added_at": "2025-10-10 16:40:57",
+      "album": {
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
     {
       "added_at": "2025-05-12 14:29:55",
       "album": {

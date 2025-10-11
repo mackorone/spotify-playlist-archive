@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 30591,
+  "num_followers": 30638,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACmSExrxS10Jeeb0rYBsgD/",
+  "snapshot_id": "aOb7AAAAAAB3Zufzi+vWI/7E+sfhI1aH",
   "tracks": [
     {
       "added_at": null,
@@ -308,21 +308,13 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 185806,
-      "name": "VOLVER",
-      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+      "duration_ms": 197626,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
     },
     {
       "added_at": null,
@@ -404,13 +396,21 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
     },
     {
       "added_at": null,

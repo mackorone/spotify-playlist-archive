@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Margane
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,882 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,897 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 34 | [Beira Mar](https://open.spotify.com/track/2vSrzsRvhzbGWYOkxIWLLS) | [Kena Womo](https://open.spotify.com/artist/5JPkhMe4HSbem77Rg11nKL) | [Beira Mar](https://open.spotify.com/album/6qMPw8PlpW2ttcvlCUlDWU) | 3:05 |
 | 35 | [CORPS A CORPS PIANO \- Acoustique](https://open.spotify.com/track/0ZmW26H9HdfEx16iMDMIB6) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Toulou](https://open.spotify.com/artist/0X7QlcVMGgyXyNJ6IGaZWG) | [PIANO AT HOME \(ACOUSTIQUE\)](https://open.spotify.com/album/6Qqa4iQJdR7MlrdJxcGTr9) | 4:36 |
 | 36 | [FOLIE](https://open.spotify.com/track/5cK2OUsnaThmFpUKfnyHEA) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [CUXI BOY PART II \(Réédition\)](https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr) | 3:06 |
-| 37 | [LE MAL EST FAIT…](https://open.spotify.com/track/6edUyzq4ff49OkijuHIupg) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BRUTAL](https://open.spotify.com/album/2k8Qn3Ca2Aef5Hwr8eRFhw) | 2:18 |
+| 37 | [LE MAL EST FAIT...](https://open.spotify.com/track/6edUyzq4ff49OkijuHIupg) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BRUTAL](https://open.spotify.com/album/2k8Qn3Ca2Aef5Hwr8eRFhw) | 2:18 |
 | 38 | [Solo](https://open.spotify.com/track/0zGobzcqAdUjh0GWpXGbLm) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Solo](https://open.spotify.com/album/3quqai6VrVYJVLspnwcPfW) | 2:41 |
 | 39 | [L'autre banc](https://open.spotify.com/track/5TYXR5pjwW7Wekp7Oz4hww) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [L'autre banc](https://open.spotify.com/album/2HOkQvn7726si97gcq1ONe) | 2:49 |
 | 40 | [Lettre à l'Univers](https://open.spotify.com/track/0wqwl5GYK5KLHWqzjgM0sb) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 5:57 |

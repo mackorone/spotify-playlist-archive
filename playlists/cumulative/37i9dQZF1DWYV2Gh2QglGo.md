@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Sully Burrows
 
-440 songs - 23 hr 31 min
+440 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Feels Like Forever](https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Feels Like Forever](https://open.spotify.com/album/1O59CVuNp3WHcV7lgRnoHm) | 3:12 | 2025-09-19 |  |
 | [Fight With You](https://open.spotify.com/track/6hdvMIbkpxWN6owrVTdEEY) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ), [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Fight With You](https://open.spotify.com/album/2uBOm5O2NwBmtIlPLTxXTI) | 3:22 | 2025-07-18 | 2025-10-10 |
 | [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 | 2024-06-28 | 2024-07-13 |
-| [Fire Child](https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [](https://open.spotify.com/album/null) | 3:07 | 2025-10-10 |  |
+| [Fire Child](https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [Fire Child](https://open.spotify.com/album/3owKjqyBwMUl4a47gVWRDT) | 3:07 | 2025-10-10 |  |
 | [First Love](https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [First Love](https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L) | 3:07 | 2025-03-15 | 2025-07-12 |
 | [First Time Living \(feat\. Gretchen Wilson\)](https://open.spotify.com/track/66FOOSahleI3umPHkmHaIg) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [First Time Living \(feat\. Gretchen Wilson\)](https://open.spotify.com/album/1k4U4X9b44JBgMxzoe9Ht4) | 3:05 | 2025-02-07 | 2025-04-11 |
 | [Five Beers From Now](https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Five Beers From Now](https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP) | 3:03 | 2024-08-23 | 2025-03-15 |
@@ -392,7 +392,6 @@
 | [Tomorrow](https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Tomorrow](https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex) | 4:27 | 2024-11-29 | 2025-02-01 |
 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 | 2025-04-11 | 2025-05-10 |
 | [too hot to be sad](https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 2:44 | 2024-06-28 | 2024-09-07 |
-| [Track 4](https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 | 2024-07-27 |
 | [Turn Me Loose](https://open.spotify.com/track/2bELkN51EnzYWk3XwSZ4zq) | [Antonio Larosa](https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX) | [Turn Me Loose](https://open.spotify.com/album/1cm5u4hC20fwbLpUBYGzcF) | 3:17 | 2025-08-01 |  |
 | [Turn My Lover Loose](https://open.spotify.com/track/5gNKywykgKB0J7mTeqsHBC) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [Another Farewell](https://open.spotify.com/album/5biKiugsTG1Fakjsfivdc4) | 4:27 | 2025-02-07 | 2025-04-19 |
@@ -420,6 +419,7 @@
 | [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 | 2024-10-18 | 2025-01-11 |
 | [When It's Time To Go](https://open.spotify.com/track/1q7nRL9I1IBNSISTb2XzBC) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [When It's Time To Go](https://open.spotify.com/album/5VlTqDwubs3t00Qk8cCSU9) | 2:57 | 2025-09-05 |  |
 | [When the Devil Whispers](https://open.spotify.com/track/5rPwVC9h7mdEedFMSFtGll) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4) | [When the Devil Whispers](https://open.spotify.com/album/47yT7Cfou0P0sRijHD3jFF) | 3:28 | 2025-08-22 | 2025-10-10 |
+| [When You Know You Know](https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th) | 2:57 | 2025-10-10 |  |
 | [Where the Lost Get Found](https://open.spotify.com/track/6N0J1xsDmfcdXpRdWc9v3L) | [Wes Mack](https://open.spotify.com/artist/0FMBtqD2Z6zyzL6f5FJbHX) | [Where the Lost Get Found](https://open.spotify.com/album/3H9kaGrPLYE5oQ1G2aYcM7) | 3:04 | 2025-08-01 |  |
 | [Whether You Love Me or Not](https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Whether You Love Me or Not](https://open.spotify.com/album/6BsAYtZi9spVp8zw2JF5Ue) | 3:28 | 2024-06-28 | 2024-07-13 |
 | [Whiskey Bottle](https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Whiskey Bottle](https://open.spotify.com/album/4oBfh4vaQsqsizHoX0uP4e) | 2:58 | 2024-06-28 | 2024-09-14 |

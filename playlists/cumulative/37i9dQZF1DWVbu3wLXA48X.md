@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Oklou, FKA Twigs
 
-2,426 songs - 6 day 1 hr 52 min
+2,427 songs - 6 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2144,6 +2144,7 @@
 | [Throw It In The Fire](https://open.spotify.com/track/6R8Y7KP9l1wmD5TLnXIrDJ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [But I'll Wait For You](https://open.spotify.com/album/7xf10YYeWq7g1sdqCD36Qv) | 3:50 | 2024-04-19 | 2024-05-24 |
 | [Thunder Fever](https://open.spotify.com/track/22uorZHWp6U89kCJugaqiR) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Thunder Fever](https://open.spotify.com/album/5d92PvDER2GJql4x86vkwk) | 3:09 | 2022-02-24 | 2022-04-01 |
 | [Tides](https://open.spotify.com/track/3XDKK2CE57XBGbEGMv611V) | [The Analog Girl](https://open.spotify.com/artist/4PK6Yoxg2Ba8C2KQbysQkM) | [Equinox](https://open.spotify.com/album/3sWHNFi7sSHSMWMdr6MUGr) | 3:53 | 2024-09-27 | 2024-11-09 |
+| [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-09 |  |
 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 | 2023-07-16 | 2023-08-12 |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-13 | 2024-10-05 |
 | [Time](https://open.spotify.com/track/2FAxWiqIE47p9czJVjZgKK) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Time](https://open.spotify.com/album/2pdYsKYgbec10dN03hesel) | 3:01 | 2025-06-13 | 2025-09-05 |

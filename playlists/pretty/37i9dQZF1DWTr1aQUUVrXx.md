@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,455 likes - 205 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,493 likes - 205 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

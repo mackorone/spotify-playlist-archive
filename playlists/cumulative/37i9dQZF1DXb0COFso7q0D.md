@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> La playlist oficial de <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/"> Belicofest </a> \- Elevando a la Música Mexicana\. Cover: Jasiel Nuñez
+> La playlist oficial de <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/"> Belicofest </a> \- Elevando a la Música Mexicana\. Cover: Peso Pluma
 
-982 songs - 2 day 2 hr 45 min
+983 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 | 2023-04-07 | 2023-05-06 |
 | [Te Quiero](https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:51 | 2022-07-01 | 2022-10-29 |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-02-17 | 2023-04-01 |
+| [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 | 2025-10-10 |  |
 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESDE MI HABITACIÓN](https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE) | 3:45 | 2024-06-14 | 2024-07-13 |
 | [TENDIDO](https://open.spotify.com/track/6coFuGT9MX2iptViTbMiU1) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TENDIDO](https://open.spotify.com/album/46i4abJlERWTOoySWensFT) | 2:44 | 2023-12-08 | 2024-05-25 |
 | [Tengo Claro](https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tengo Claro](https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr) | 3:11 | 2024-08-02 | 2024-11-23 |

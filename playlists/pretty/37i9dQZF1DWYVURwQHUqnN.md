@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Naza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,709 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,768 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 15 | [Margiela II](https://open.spotify.com/track/3HbGZpDMKmkJG5ypX6n5UT) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8) | [Margiela II](https://open.spotify.com/album/4e6zt1cxWDOQy2ZkY6SBOd) | 2:39 |
 | 16 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 |
 | 17 | [Terrain](https://open.spotify.com/track/3yLPYSbBd4aFGFYcazyzJZ) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Terrain](https://open.spotify.com/album/1wtuEji0aUk9FjSPFytFEo) | 2:42 |
-| 18 | [MOULA SOLITUDE](https://open.spotify.com/track/3kvIHD7EIlMQ86X3w7kW0Y) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [](https://open.spotify.com/album/null) | 3:15 |
+| 18 | [MOULA SOLITUDE](https://open.spotify.com/track/3kvIHD7EIlMQ86X3w7kW0Y) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 3:15 |
 | 19 | [C'est Fort](https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est Fort](https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS) | 2:39 |
 | 20 | [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 |
 | 21 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |

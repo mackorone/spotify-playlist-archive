@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-79 songs - 7 hr 19 min
+80 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [El Todopoderoso](https://open.spotify.com/track/0fgfI2A3U4rz9cEaWKVskV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante De Los Cantantes](https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8) | 4:20 | 2025-10-10 |  |
 | [El Todopoderoso](https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 4:22 | 2022-09-09 | 2025-10-10 |
 | [Ella Mintió](https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 4:46 | 2022-09-08 |  |
-| [Emborrachame De Amor](https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:00 | 2022-09-08 |  |
+| [Emborrachame De Amor](https://open.spotify.com/track/0XDMdFi1onaxibiQKz7slG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:00 | 2025-10-11 |  |
+| [Emborrachame De Amor](https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:00 | 2022-09-08 | 2025-10-11 |
 | [Escarcha](https://open.spotify.com/track/7JcCOSGvzdSJwBe3R1hwKe) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Salsa Hits Nyc, Vol\. 1](https://open.spotify.com/album/3rHhHCN4x6Yk9km8YpasIv) | 6:04 | 2022-09-08 | 2025-06-13 |
 | [Escarcha](https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 6:32 | 2022-09-08 |  |
 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 | 2022-09-08 |  |

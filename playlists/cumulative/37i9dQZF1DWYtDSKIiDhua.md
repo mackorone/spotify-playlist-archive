@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Khalid
 
-1,405 songs - 3 day 2 hr 57 min
+1,405 songs - 3 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,7 +807,7 @@
 | [My Soles Worn Out](https://open.spotify.com/track/6gMGYMp9S0sjNoCoFy3nsJ) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [My Soles Worn Out](https://open.spotify.com/album/3LC5izvPoH4ZpQo2K05u6r) | 3:27 | 2023-06-15 | 2023-06-23 |
 | [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 | 2025-02-13 | 2025-06-07 |
 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/638o7Aaf8sENHW1febUFZE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/4UEbK9a5Q9Robib0y0kzBF) | 3:14 | 2024-10-24 | 2024-11-01 |
-| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-09 |  |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-09 |  |
 | [NANIMONO](https://open.spotify.com/track/71piqHMTaaVbYWEWuaCk32) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [NANIMONO](https://open.spotify.com/album/3p1A4cDKrymxq8rThTl6Vz) | 3:38 | 2023-08-10 | 2023-08-18 |
 | [Naughty](https://open.spotify.com/track/64UxpSQSCPXgNjkmVXA8oD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Naughty](https://open.spotify.com/album/1U5o6AzFRMRrFQG6AtLwx2) | 2:45 | 2023-05-18 | 2023-06-09 |
 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-06 | 2025-04-25 |
@@ -1258,7 +1258,7 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 8](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
+| [TRACKSTAR](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [BLONDE & BLUE](https://open.spotify.com/album/28o56S8zvYByZDg6MjGN9c) | 3:12 | 2025-10-09 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-01 | 2025-08-15 |

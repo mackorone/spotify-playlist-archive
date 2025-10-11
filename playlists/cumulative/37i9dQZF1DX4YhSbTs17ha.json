@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Manuel Turizo y Yami Safdie en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Ricky Martin y Carin Leon en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -5143,6 +5143,28 @@
     },
     {
       "album": {
+        "name": "Empieza a Vivir",
+        "url": "https://open.spotify.com/album/6UXExPEPXjiDx1z4kYnkQs"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Empieza a Vivir",
+      "url": "https://open.spotify.com/track/7nujEO1rGckUl5dM1Lqz0w"
+    },
+    {
+      "album": {
         "name": "Lo Que Nos Falt\u00f3 Decir",
         "url": "https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB"
       },
@@ -6384,7 +6406,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 225197,
       "name": "Heterocrom\u00eda",
       "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
@@ -10380,7 +10402,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 225594,
       "name": "No Es Igual",
       "url": "https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx"
@@ -12425,6 +12447,24 @@
     },
     {
       "album": {
+        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
+        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189620,
+      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
+      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
+    },
+    {
+      "album": {
         "name": "Querida Yo",
         "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
       },
@@ -12506,6 +12546,24 @@
       "duration_ms": 203213,
       "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
       "url": "https://open.spotify.com/track/3WQhuJnlOTV9RiDZx2tDFF"
+    },
+    {
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Qui\u00e9n Pensar\u00eda",
+      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "album": {
@@ -12670,6 +12728,24 @@
       "duration_ms": 193258,
       "name": "Qu\u00e9date Beb\u00e9",
       "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
+    },
+    {
+      "album": {
+        "name": "Discontrol",
+        "url": "https://open.spotify.com/album/3qQJdKeqMz3JjhWXH3S9Fx"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155562,
+      "name": "Ramo Buch\u00f3n",
+      "url": "https://open.spotify.com/track/2ZnLqrPjiN6Y9MAdPgauLX"
     },
     {
       "album": {
@@ -12958,7 +13034,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 163754,
       "name": "Sabina",
       "url": "https://open.spotify.com/track/0w6y5vRjqb7z990fBYqxSK"
@@ -13293,6 +13369,24 @@
     },
     {
       "album": {
+        "name": "Si Ma\u00f1ana Es Nunca",
+        "url": "https://open.spotify.com/album/0LNTyjwZBwAhLYQRXRy96P"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174262,
+      "name": "Si Ma\u00f1ana Es Nunca",
+      "url": "https://open.spotify.com/track/4cc53mi0SGFyEdc4iR6Tfe"
+    },
+    {
+      "album": {
         "name": "Si Me Dieras Tu Amor",
         "url": "https://open.spotify.com/album/7ms8ncYuSw5AX9sKDYqJnN"
       },
@@ -13366,7 +13460,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 274696,
       "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
@@ -13734,7 +13828,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -15409,6 +15503,24 @@
     },
     {
       "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159062,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"
+    },
+    {
+      "album": {
         "name": "Una Noche Sin Pensar",
         "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
       },
@@ -15804,7 +15916,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 180749,
       "name": "Volver\u00eda",
       "url": "https://open.spotify.com/track/7Fh6jDbjjoyELGdlHjfLKl"

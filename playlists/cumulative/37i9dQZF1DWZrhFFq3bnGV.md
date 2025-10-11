@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: The Skuy
 
-269 songs - 18 hr 42 min
+270 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 | 2023-08-18 |
 | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK), [Desmond Amos](https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI) | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO) | 3:11 | 2025-03-20 |  |
 | [Harus Bahagia](https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Harus Bahagia](https://open.spotify.com/album/733Hrl429wfieKxjF6Dclk) | 2:48 | 2025-06-05 |  |
+| [Have A Nice Day](https://open.spotify.com/track/2ioFniiBnm3HeMji8iHBx7) | [Eddy Syakroni](https://open.spotify.com/artist/0Wr9S2380PfX0wC3OTmTmX) | [Fearless](https://open.spotify.com/album/1S4NVEP5rW8KI2PoRQ4oQi) | 3:41 | 2025-10-10 |  |
 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 | 2023-10-06 | 2025-09-26 |
 | [Healing Wounds](https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Adhika "Coki" Himawan](https://open.spotify.com/artist/33KNou9zac9O5y2J1wuJXa) | [Healing Wounds](https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re) | 3:28 | 2022-09-02 | 2023-08-25 |
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 | 2023-03-04 |

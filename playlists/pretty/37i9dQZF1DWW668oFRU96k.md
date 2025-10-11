@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: MORTEN x 洛天依 x Terry Zhong
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,529 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,536 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [Open Your Heart](https://open.spotify.com/track/5M9QrXynpQIzRUyW7ewChS) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Open Your Heart](https://open.spotify.com/album/3hPwSJrdp06ARs8P3nwdKy) | 2:54 |
 | 3 | [NOW'S A GOOD TIME TO BE](https://open.spotify.com/track/7zB9xMRm8QlJebJZturu4Y) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [NOW'S A GOOD TIME TO BE](https://open.spotify.com/album/3dHHEEK4oIXNXF6xx6mxNh) | 2:27 |
 | 4 | [Slide \(feat\. Majeeed\)](https://open.spotify.com/track/2ljc0gxnKWUlRfTb11Qd3V) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Slide \(feat\. Majeeed\)](https://open.spotify.com/album/5XnVp54la7llfk4bXAk7e2) | 2:45 |
-| 5 | [Illegal + Anitta](https://open.spotify.com/track/3RxyxKUWxP3jJjfRd5ozr6) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [](https://open.spotify.com/album/null) | 2:29 |
+| 5 | [Illegal + Anitta](https://open.spotify.com/track/3RxyxKUWxP3jJjfRd5ozr6) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:29 |
 | 6 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 |
 | 7 | [Starry Eyed Surprise](https://open.spotify.com/track/3aWmrNmz5vn2qj864CpFkm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO) | [Starry Eyed Surprise](https://open.spotify.com/album/6LxeSyeNHN43FcXrI2P0P1) | 2:19 |
 | 8 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 |

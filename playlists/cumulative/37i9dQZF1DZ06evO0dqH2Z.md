@@ -4,10 +4,11 @@
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 44 min
+76 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Berlin \(feat\. Tigers Jaw\)](https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV), [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Cocaine & Lexapro / Berlin](https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77) | 3:06 | 2025-10-11 |  |
 | [Between Your Band and the Other Band](https://open.spotify.com/track/3l0Q2p2Ynz5Mfm4y3BnZAi) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 4:41 | 2022-09-16 |  |
 | [Body Language](https://open.spotify.com/track/6BpZV5puLFApc0SGYV1rSq) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:36 | 2022-09-24 | 2022-10-09 |
 | [Bullet](https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:35 | 2022-09-16 |  |

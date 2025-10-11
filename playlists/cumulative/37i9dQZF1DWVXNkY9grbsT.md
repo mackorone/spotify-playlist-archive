@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-558 songs - 1 day 22 hr 35 min
+559 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [there is always a girl with a secret](https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [there is always a girl with a secret](https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s) | 5:16 | 2021-12-26 | 2023-02-02 |
 | [there is always a girl with a secret](https://open.spotify.com/track/68bglGQxvjP58FZS6dKFef) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [absent origin](https://open.spotify.com/album/1hHf59kF4xPtSZUwvaPeGI) | 5:16 | 2023-01-20 | 2023-08-12 |
 | [Through The Glass](https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [The Night](https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q) | 2:42 | 2025-01-14 |  |
+| [Timelapse](https://open.spotify.com/track/3VfQoHA8p4aMcdHlyiTmRQ) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Albadas \(Dawn Songs\)](https://open.spotify.com/album/1pY3KKSEQZCBSp6PSdaJ5z) | 4:36 | 2025-10-10 |  |
 | [Tintswalo](https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE) | [Ad Harmonium](https://open.spotify.com/artist/1g7VyJCBjTqlrvaUwvvlJl) | [Tintswalo / Falling](https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV) | 3:29 | 2025-04-18 |  |
 | [To Remove](https://open.spotify.com/track/1rEgVCkWErTR0FWjGwLGXI) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Quiet in a World Full of Noise](https://open.spotify.com/album/731xzbAjZ9q07B0rEssiwu) | 2:31 | 2025-01-14 | 2025-06-21 |
 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Together Is A Beautiful Place To Be \(Nala Sinephro Remix\)](https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr) | 2:27 | 2021-12-26 | 2023-08-12 |
@@ -522,7 +523,7 @@
 | [Untitled 2](https://open.spotify.com/track/5n9ml1SgCn0CLLYoHr7RlI) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Untitled 2](https://open.spotify.com/album/7to5FqMorIUPoGe1Dpla1G) | 3:10 | 2021-12-26 | 2022-07-28 |
 | [Valley Candle](https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [Patrick Shiroishi](https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2) | [Wants a Diamond Pivot Bright](https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC) | 2:57 | 2021-12-26 | 2023-08-12 |
 | [Valleys and Peaks](https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [My Heart, My Beloved](https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa) | 4:22 | 2025-05-12 |  |
-| [VCDB](https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Undulations and Aberrations](https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg) | 6:53 | 2023-07-13 |  |
+| [VCDB](https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Undulations and Aberrations](https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg) | 6:53 | 2023-07-13 | 2025-10-11 |
 | [Vernal Fall](https://open.spotify.com/track/2HKX28kTIoBXpnjOJHhcst) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:43 | 2025-03-14 | 2025-05-13 |
 | [Vespera](https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Vespera](https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj) | 6:01 | 2021-12-26 | 2023-08-12 |
 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 | 2024-06-28 |  |

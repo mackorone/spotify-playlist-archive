@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,209 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,219 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 4 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 |
 | 5 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
 | 6 | [Coffee \(Don't Read Signs\)](https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Coffee \(Don't Read Signs\)](https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh) | 2:41 |
-| 7 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
-| 8 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 |
+| 7 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 |
+| 8 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 9 | [My Heart](https://open.spotify.com/track/1CqcGbXZrpJJygqUM8PW05) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:52 |
 | 10 | [You, The World Vs Me](https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:03 |
 | 11 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 36 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
 | 37 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
 | 38 | [Fall In Love \[Remix\] \(feat\. JayO & Odeal\)](https://open.spotify.com/track/4TesJtMLVtyHb9Xk0km8bG) | [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Fall In Love \[Remix\] \(feat\. JayO & Odeal\)](https://open.spotify.com/album/244Z5c1N9pxNszkKkNWcyQ) | 3:06 |
-| 39 | [Kainji Dam](https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Kainji Dam](https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF) | 2:54 |
-| 40 | [Azure](https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Out the Blue](https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE) | 3:29 |
+| 39 | [Azure](https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Out the Blue](https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE) | 3:29 |
+| 40 | [Kainji Dam](https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Kainji Dam](https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF) | 2:54 |
 | 41 | [Composure 2](https://open.spotify.com/track/4y3bKF7WJdpJc5Xp1dsYDB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 3:04 |
 | 42 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
 | 43 | [On & On](https://open.spotify.com/track/4cHS3iwBUgwxvqxmXJLF2M) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/1IMJ0uxEzNCCRAA1F25DZu) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 49 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
 | 50 | [Na You](https://open.spotify.com/track/2X61NkgiKmrZz1c2WHSieA) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Marzi](https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY) | [Na You](https://open.spotify.com/album/4wV1PM9TN583HAak6iCIQX) | 3:30 |
 
-Snapshot ID: `aOWpgAAAAACDsfecUKUu8ivQegKD3IS3`
+Snapshot ID: `aOb7AAAAAACZtCyhiaa1nWRxQbtg506R`

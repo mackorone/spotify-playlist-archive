@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2728,
+  "num_followers": 2730,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACyTSAMZXeAcF/6B4eo6JxZ",
+  "snapshot_id": "aOb7AAAAAABjmPlXlnjF74/1LYnju2sb",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 291706,
       "name": "M\u00f3\u00f0ir",
       "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Battlefield 2042 (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 152413,
       "name": "Battlefield 2042",
       "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -560,9 +544,25 @@
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
         }
       ],
-      "duration_ms": 83315,
-      "name": "The Universal End",
-      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+      "duration_ms": 154932,
+      "name": "Remembrance of the Past",
+      "url": "https://open.spotify.com/track/09kl55xpjRoPksMrDEVWrs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
     },
     {
       "added_at": null,
@@ -607,6 +607,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        }
+      ],
+      "duration_ms": 83315,
+      "name": "The Universal End",
+      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saman",
         "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
@@ -619,6 +647,38 @@
       "duration_ms": 82800,
       "name": "Fr\u00e1",
       "url": "https://open.spotify.com/track/2x8UMSNqldUMSMYdqGIc8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 114647,
+      "name": "Dealing With Destruction",
+      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
     },
     {
       "added_at": null,
@@ -651,22 +711,6 @@
       "duration_ms": 155374,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 114647,
-      "name": "Dealing With Destruction",
-      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
     },
     {
       "added_at": null,
@@ -707,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 152240,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
+      "duration_ms": 216706,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
     },
     {
       "added_at": null,
@@ -759,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
+      "duration_ms": 169504,
+      "name": "It's Showtime",
+      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
     },
     {
       "added_at": null,
@@ -811,50 +855,6 @@
       "duration_ms": 215520,
       "name": "Ser\u00eda",
       "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 169504,
-      "name": "It's Showtime",
-      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last And First Men",
-        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
-      },
-      "artists": [
-        {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Robert Aiki Aubrey Lowe",
-          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Remembrance of the Past",
-      "url": "https://open.spotify.com/track/09kl55xpjRoPksMrDEVWrs"
     },
     {
       "added_at": null,
@@ -904,45 +904,21 @@
           "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
         },
         {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
           "name": "Amedeo",
           "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
         },
         {
-          "name": "David Thor",
-          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
-        },
-        {
-          "name": "\u00d3l\u00f6f Arnalds",
-          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Unbend",
-      "url": "https://open.spotify.com/track/4cjjnCODVdpC294SaHZKhg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         },
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+          "name": "David Thor",
+          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
+      "duration_ms": 185000,
+      "name": "Without Memory",
+      "url": "https://open.spotify.com/track/38Bp7BIwyGfJBOkN5AlUoR"
     },
     {
       "added_at": null,
@@ -967,6 +943,26 @@
       "duration_ms": 91134,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/4nU57Z89NrwqOjx3pNyeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
     },
     {
       "added_at": null,
@@ -1000,21 +996,41 @@
           "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
         },
         {
-          "name": "Amedeo",
-          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
-        },
-        {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         },
         {
+          "name": "Amedeo",
+          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
+        },
+        {
           "name": "David Thor",
           "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
+        },
+        {
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Without Memory",
-      "url": "https://open.spotify.com/track/38Bp7BIwyGfJBOkN5AlUoR"
+      "duration_ms": 231160,
+      "name": "Unbend",
+      "url": "https://open.spotify.com/track/4cjjnCODVdpC294SaHZKhg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 135080,
+      "name": "Gulf Of Somalia",
+      "url": "https://open.spotify.com/track/3NfNWSxgGqzmiRKmldWonA"
     },
     {
       "added_at": null,
@@ -1035,22 +1051,6 @@
       "duration_ms": 99613,
       "name": "Cana",
       "url": "https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 135080,
-      "name": "Gulf Of Somalia",
-      "url": "https://open.spotify.com/track/3NfNWSxgGqzmiRKmldWonA"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

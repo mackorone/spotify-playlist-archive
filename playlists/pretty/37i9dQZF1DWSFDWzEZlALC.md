@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Aaron, Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,176 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,441 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 13](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [](https://open.spotify.com/album/null) | 0:00 |
-| 2 | [Track 3](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [](https://open.spotify.com/album/null) | 0:00 |
-| 3 | [Track 11](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 |
+| 2 | [E\-Scooter](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Knutschen & Boxen](https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9) | 3:33 |
+| 3 | [Mach Was Ich Will](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [ALLE MEINE FREUNDE SIND TRÄUMER](https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj) | 2:34 |
 | 4 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 |
 | 5 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:21 |
 | 6 | [Benz](https://open.spotify.com/track/2myW2Gi0RmNBQ1nEUmgzDL) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Benz](https://open.spotify.com/album/0NTquXrtnzUP8poB33iDsh) | 2:36 |

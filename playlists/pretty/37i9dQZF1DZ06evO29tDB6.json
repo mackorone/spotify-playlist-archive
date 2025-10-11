@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 142968,
+  "num_followers": 142979,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABdq9Q+IUk7YjuXprq7lTO8",
+  "snapshot_id": "aOb7AAAAAABqu6+0Amua30y21+N/hVsA",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 347493,
+      "name": "Mente roquera",
+      "url": "https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Triste Canci\u00f3n",
         "url": "https://open.spotify.com/album/4r9CNUedkwlMyy5taK7HN1"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 215866,
       "name": "Triste Canci\u00f3n",
       "url": "https://open.spotify.com/track/0D3BtbSUocYBsqK2UiXzYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 347493,
-      "name": "Mente roquera",
-      "url": "https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Perro negro - Live",
-      "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+      "duration_ms": 246786,
+      "name": "Perro negro - Live",
+      "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+      "duration_ms": 170026,
+      "name": "El hablador",
+      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 170026,
-      "name": "El hablador",
-      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Hoyos en la bolsa",
-      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
     },
     {
       "added_at": null,

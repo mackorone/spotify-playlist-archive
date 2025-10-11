@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo",
-  "num_followers": 184767,
+  "num_followers": 184802,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -392,7 +392,7 @@
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -448,7 +448,7 @@
           "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -459,22 +459,6 @@
       "duration_ms": 326028,
       "name": "Amor \u00c1gape",
       "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g"
-      },
-      "artists": [
-        {
-          "name": "Insanou",
-          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
-        }
-      ],
-      "duration_ms": 205034,
-      "name": "Renascer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -499,6 +483,22 @@
       "duration_ms": 144489,
       "name": "Crises",
       "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g"
+      },
+      "artists": [
+        {
+          "name": "Insanou",
+          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
+        }
+      ],
+      "duration_ms": 205034,
+      "name": "Renascer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Renuncio o Meu Eu",
-        "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 190408,
-      "name": "Renuncio o Meu Eu",
-      "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
         "name": "Trindade Ac\u00fastico 1",
         "url": "https://open.spotify.com/album/41e3rvy3lc0jq7HYXcik9w"
       },
@@ -648,7 +628,7 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -663,6 +643,26 @@
       "duration_ms": 250000,
       "name": "Trindade Ac\u00fastico 1",
       "url": "https://open.spotify.com/track/5s4nzKjZMJqchuZypeLuuE"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Renuncio o Meu Eu",
+        "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 190408,
+      "name": "Renuncio o Meu Eu",
+      "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -723,30 +723,6 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Ren\u00fancia",
-        "url": "https://open.spotify.com/album/05tp0ebY7qDi7mgkjYLAMI"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "TRDD",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Ren\u00fancia",
-      "url": "https://open.spotify.com/track/70osJyLLdz5XgDcDuxgjbm"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
         "name": "Boas Novas",
         "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 126077,
       "name": "Boas Novas",
       "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Ren\u00fancia",
+        "url": "https://open.spotify.com/album/05tp0ebY7qDi7mgkjYLAMI"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Ren\u00fancia",
+      "url": "https://open.spotify.com/track/70osJyLLdz5XgDcDuxgjbm"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -848,7 +848,7 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -880,7 +880,7 @@
           "url": "https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -936,7 +936,7 @@
           "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -976,7 +976,7 @@
           "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "B\u00edblia no Jeans",
+        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
+      },
+      "artists": [
+        {
+          "name": "Kinho",
+          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "B\u00edblia no Jeans",
+      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 156937,
       "name": "Firme",
       "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "B\u00edblia no Jeans",
-        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
-      },
-      "artists": [
-        {
-          "name": "Kinho",
-          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
-        },
-        {
-          "name": "TRDD",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "B\u00edblia no Jeans",
-      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1084,7 +1084,7 @@
           "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1104,7 +1104,7 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1132,7 +1132,7 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1175,26 +1175,26 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
       },
       "artists": [
         {
-          "name": "EMID\u00ca",
-          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
         },
         {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 158677,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1212,7 +1212,7 @@
           "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1232,7 +1232,7 @@
           "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1247,26 +1247,26 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
       },
       "artists": [
         {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+          "name": "EMID\u00ca",
+          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
         },
         {
-          "name": "TRDD",
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
+      "duration_ms": 158677,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1284,7 +1284,7 @@
           "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1312,7 +1312,7 @@
           "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1336,7 +1336,7 @@
           "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1380,7 +1380,7 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1400,7 +1400,7 @@
           "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1424,7 +1424,7 @@
           "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1448,7 +1448,7 @@
           "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1488,29 +1488,13 @@
           "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
       "duration_ms": 169090,
       "name": "Por Onde C Andar",
       "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Virando a Mesa",
-        "url": "https://open.spotify.com/album/3E6Q7ZiXB4ePizpzrDD9Xe"
-      },
-      "artists": [
-        {
-          "name": "JRG",
-          "url": "https://open.spotify.com/artist/7t2zE1KqB8wblkI2E5Cl5E"
-        }
-      ],
-      "duration_ms": 168221,
-      "name": "Virando a Mesa",
-      "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1531,6 +1515,22 @@
       "duration_ms": 131440,
       "name": "Procurado",
       "url": "https://open.spotify.com/track/1jzVlewAE5vmxe0bimYaWP"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Virando a Mesa",
+        "url": "https://open.spotify.com/album/3E6Q7ZiXB4ePizpzrDD9Xe"
+      },
+      "artists": [
+        {
+          "name": "JRG",
+          "url": "https://open.spotify.com/artist/7t2zE1KqB8wblkI2E5Cl5E"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Virando a Mesa",
+      "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1576,7 +1576,7 @@
           "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
         },
         {
-          "name": "TRDD",
+          "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],

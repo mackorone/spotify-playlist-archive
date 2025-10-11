@@ -3847,6 +3847,28 @@
     },
     {
       "album": {
+        "name": "Joya (Radio)",
+        "url": "https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243555,
+      "name": "Joya - Radio",
+      "url": "https://open.spotify.com/track/0PLOJqAilpgcdxBlRCvcek"
+    },
+    {
+      "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 681754,
+  "num_followers": 682499,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Right Back Where We Started From",
         "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 192266,
       "name": "Right Back Where We Started From",
       "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "Shake Your Groove Thing",
-      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
       },
@@ -1609,20 +1593,20 @@
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Raspberries",
-        "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
       "artists": [
         {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 205346,
-      "name": "Go All The Way",
-      "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
+      "duration_ms": 346133,
+      "name": "Shake Your Groove Thing",
+      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1639,6 +1623,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Raspberries",
+        "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
+      },
+      "artists": [
+        {
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Go All The Way",
+      "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1769,22 +1769,6 @@
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
       "added_at": "2022-08-11 07:51:07",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1803,6 +1787,22 @@
       "duration_ms": 179573,
       "name": "We Go Together - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
+      },
+      "artists": [
+        {
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 209906,
       "name": "You See The Trouble With Me",
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "The Tears Of A Clown",
-      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 224933,
       "name": "The Bitch Is Back - Remastered 1995",
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2257,22 +2257,6 @@
       "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I Love The Way You Love",
@@ -2291,18 +2275,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Book Of Dreams",
-        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2319,6 +2303,22 @@
       "duration_ms": 193573,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Book Of Dreams",
+        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2385,22 +2385,6 @@
       "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "Go West - Original Version 1979",
-      "url": "https://open.spotify.com/track/0SdfUMRHhcjxrMv5d9V1UP"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Hitsville USA, The Motown Collection 1972-1992",
@@ -2415,6 +2399,22 @@
       "duration_ms": 214066,
       "name": "Heaven Must Have Sent You",
       "url": "https://open.spotify.com/track/4KBLF8z7Hv7RIHjetaTCfD"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Go West - Original Version 1979",
+      "url": "https://open.spotify.com/track/0SdfUMRHhcjxrMv5d9V1UP"
     },
     {
       "added_at": "2021-09-08 13:31:49",

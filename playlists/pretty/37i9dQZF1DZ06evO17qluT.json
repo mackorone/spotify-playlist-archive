@@ -1,65 +1,13 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 90413,
+  "num_followers": 90476,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABRjWy2WY2tUGqrUAhvdTNH",
+  "snapshot_id": "aOb7AAAAAACbcC4PwexNr19ZRHWnU1sF",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poesia Ac\u00fastica",
-        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 682816,
-      "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
-    },
     {
       "added_at": null,
       "album": {
@@ -400,13 +348,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+          "name": "FYE",
+          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 153898,
-      "name": "Am\u00e9m, Am\u00e9m",
-      "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
+      "duration_ms": 265311,
+      "name": "Te Devo Nada",
+      "url": "https://open.spotify.com/track/3XOjmBsIytUuXfqP73E1qK"
     },
     {
       "added_at": null,
@@ -496,21 +452,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "FYE",
-          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
         }
       ],
-      "duration_ms": 265311,
-      "name": "Te Devo Nada",
-      "url": "https://open.spotify.com/track/3XOjmBsIytUuXfqP73E1qK"
+      "duration_ms": 153898,
+      "name": "Am\u00e9m, Am\u00e9m",
+      "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
     },
     {
       "added_at": null,
@@ -531,6 +479,58 @@
       "duration_ms": 194478,
       "name": "Amores, V\u00edcios e Obsess\u00f5es",
       "url": "https://open.spotify.com/track/7DFIPUWRKwOB8RWky8ELq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 682816,
+      "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
     },
     {
       "added_at": null,
@@ -563,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 220218,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -591,30 +615,6 @@
       "duration_ms": 201190,
       "name": "Dispiei",
       "url": "https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 220218,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
     },
     {
       "added_at": null,

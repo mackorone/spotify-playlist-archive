@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 370180,
+  "num_followers": 370218,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADZyTuFUwZ8P3+zTOANgdT7",
+  "snapshot_id": "aOb7AAAAAACblazDar8ZrougiKCce06Y",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 278117,
-      "name": "Sauce Boy Freestyle 6",
-      "url": "https://open.spotify.com/track/3Tt3STuqbeJYcesvtDi9uI"
+      "duration_ms": 195668,
+      "name": "Luego",
+      "url": "https://open.spotify.com/track/3W2SsN3C5LNq4sI8YT3UOn"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 195668,
-      "name": "Luego",
-      "url": "https://open.spotify.com/track/3W2SsN3C5LNq4sI8YT3UOn"
+      "duration_ms": 278117,
+      "name": "Sauce Boy Freestyle 6",
+      "url": "https://open.spotify.com/track/3Tt3STuqbeJYcesvtDi9uI"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Tu Ritmo",
+      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Tu Ritmo",
-      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
     },
     {
       "added_at": null,

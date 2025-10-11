@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Emre Fel
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,272 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,251 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 2 | [Nereye Kadar](https://open.spotify.com/track/5Xil6P4sBspMCpHdL2Ysuj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Nereye Kadar](https://open.spotify.com/album/2rt2ohV5pqvqMmbKItLnqW) | 3:21 |
 | 3 | [Ah Yoluna!](https://open.spotify.com/track/38DG2RKEcGgpxG5YANVP5G) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Ah Yoluna!](https://open.spotify.com/album/5PmuMgHnAPqx9ozpGWfTTX) | 3:12 |
 | 4 | [Karşında Bi' Gör Beni](https://open.spotify.com/track/1tcRt75bmrIXLP51SJ2ASf) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Karşında Bi' Gör Beni](https://open.spotify.com/album/6Xtjyb2qbXBPL8ZtuJFXpS) | 3:27 |
-| 5 | [Endüstri](https://open.spotify.com/track/5wAVtzMUPLY6WG8CPDiaRO) | [Cemiyette Pişiyorum](https://open.spotify.com/artist/2XmnmKZOUs81vZir5GrkfC) | [](https://open.spotify.com/album/null) | 3:52 |
+| 5 | [Endüstri](https://open.spotify.com/track/5wAVtzMUPLY6WG8CPDiaRO) | [Cemiyette Pişiyorum](https://open.spotify.com/artist/2XmnmKZOUs81vZir5GrkfC) | [ENDÜSTRİ](https://open.spotify.com/album/0vIU5tbxDBuosN9LzsN3wd) | 3:52 |
 | 6 | [Güzel Bir Son](https://open.spotify.com/track/4l6iXB0L6s2AxEFN5J5QxG) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Güzel Bir Son](https://open.spotify.com/album/588q6UnVEra8ZtZFQkUaDx) | 3:23 |
 | 7 | [Ver Allahım Ver \(feat\. Bilge Kösebalaban\)](https://open.spotify.com/track/0AXD1P4OqTDUxdZZvuaHwZ) | [Yakup](https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR), [Bilge Kösebalaban](https://open.spotify.com/artist/5OSHR2J6NQfF9pGa1LaS97) | [Ver Allahım Ver \(feat\. Bilge Kösebalaban\)](https://open.spotify.com/album/13d9yUeYiVQtxxXSt3J4cS) | 3:54 |
 | 8 | [Hangimiz](https://open.spotify.com/track/0rLPlJ0n5XhZg8Pl7PfgfH) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Hangimiz](https://open.spotify.com/album/4eneLXmFN068pLVzLdRO50) | 4:03 |
-| 9 | [Yağmur](https://open.spotify.com/track/15YEezJrUC1p2hxsQqA7Ax) | [Encam Potkal](https://open.spotify.com/artist/6zK6M3kgmZryq0YaKFoD36) | [](https://open.spotify.com/album/null) | 3:24 |
-| 10 | [Yerle Bir](https://open.spotify.com/track/6v25scAyV9Oa8UAOEBHJoy) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Yerle Bir](https://open.spotify.com/album/6MUXybLvD5ojhNU9u9g4Y6) | 4:08 |
+| 9 | [Yağmur](https://open.spotify.com/track/15YEezJrUC1p2hxsQqA7Ax) | [Encam Potkal](https://open.spotify.com/artist/6zK6M3kgmZryq0YaKFoD36) | [Rüzgar](https://open.spotify.com/album/6RbrdvBDe8lwQWqNXgz26f) | 3:24 |
+| 10 | [YERLE BİR](https://open.spotify.com/track/6v25scAyV9Oa8UAOEBHJoy) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [YERLE BİR](https://open.spotify.com/album/6MUXybLvD5ojhNU9u9g4Y6) | 4:08 |
 | 11 | [SATAN](https://open.spotify.com/track/5LXXUjrRhLylQLuAx9ccaG) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [SATAN](https://open.spotify.com/album/28jc0TlMPDCrqJj7acosDp) | 2:44 |
 | 12 | [Duvarlar](https://open.spotify.com/track/660U9VVaCSbE8PYdF8FsmR) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Duvarlar](https://open.spotify.com/album/33YQppkV10iVdvLZWzFjNl) | 3:25 |
 | 13 | [Kırılganlar Kralı](https://open.spotify.com/track/57XB0pyXePbFjjib7XPyAK) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Kırılganlar Kralı](https://open.spotify.com/album/3CNAaNhc77TwLtJY2EC10N) | 4:51 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 19 | [Ağlarım](https://open.spotify.com/track/0sivjRViVnHtsUBrPPlS2U) | [Fırat Uyulur](https://open.spotify.com/artist/4GkYuMQivqQ7rsb4T5cawo) | [Ağlarım](https://open.spotify.com/album/5YhlQD3JXJvowPiHTfmW5Q) | 3:18 |
 | 20 | [Çok mu Zor](https://open.spotify.com/track/5PQvQbzGsRPruXt61rbTDi) | [Elektro Hafiz](https://open.spotify.com/artist/4Q9yGZQsMETYOq7TJnFlkA) | [Çok mu Zor](https://open.spotify.com/album/0GY1vOaYLFcass68yzCRpQ) | 3:31 |
 | 21 | [Birden Düşerim Aklına](https://open.spotify.com/track/6fggbh8quUFD6str5U6Bha) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Birden Düşerim Aklına](https://open.spotify.com/album/4yMBP4vhvDO37tVF0HoyGp) | 2:49 |
-| 22 | [Tanrının Gördüğü Düş](https://open.spotify.com/track/5bqKDTKEPj7ZsMeSTBPjyK) | [Olta](https://open.spotify.com/artist/680YvZG9FNhyGQ1Xroz5n5), [Ne Münasebet](https://open.spotify.com/artist/0o1e7do0L1EuVhXt4jcsOZ) | [](https://open.spotify.com/album/null) | 1:59 |
+| 22 | [Tanrının Gördüğü Düş](https://open.spotify.com/track/5bqKDTKEPj7ZsMeSTBPjyK) | [Olta](https://open.spotify.com/artist/680YvZG9FNhyGQ1Xroz5n5), [Ne Münasebet](https://open.spotify.com/artist/0o1e7do0L1EuVhXt4jcsOZ) | [Olta 18](https://open.spotify.com/album/1Eb8ESAENp69oNqMNTIfPf) | 1:59 |
 | 23 | [Gittin Başkasına](https://open.spotify.com/track/7cTER02DmrJHMqzhnGH2xI) | [Enes Bozyiğit](https://open.spotify.com/artist/4DZcvcGzGw0PQNStkNXT0a) | [Gittin Başkasına](https://open.spotify.com/album/10ARpTUFld2ynqx9kmsyPy) | 3:43 |
 | 24 | [Arkadaşlarım](https://open.spotify.com/track/4KGa6TQY60Qd71okSCibLE) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Arkadaşlarım](https://open.spotify.com/album/5VXmU7aVKHk8qX7ahM1Trk) | 2:26 |
 | 25 | [Hala Seviyorum](https://open.spotify.com/track/2AOO8y1U8yQ1R0AZJ3yrGr) | [Emre Dönmez](https://open.spotify.com/artist/0l1SkNuZtTebIGNna4PeCJ) | [Hala Seviyorum](https://open.spotify.com/album/4e40UgGKShBhTlmNL3pK7a) | 2:59 |

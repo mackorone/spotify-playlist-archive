@@ -1237,6 +1237,32 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        },
+        {
+          "name": "Alna",
+          "url": "https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB"
+    },
+    {
+      "album": {
         "name": "Say It Like You Feel It",
         "url": "https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b"
       },

@@ -2477,6 +2477,28 @@
     },
     {
       "album": {
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/50OXmxn98cY9zes3YjBmhU"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/0IL834uY2E4iRjGHl7wWio"
+    },
+    {
+      "album": {
         "name": "Fuji",
         "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
@@ -2492,7 +2514,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 163826,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"

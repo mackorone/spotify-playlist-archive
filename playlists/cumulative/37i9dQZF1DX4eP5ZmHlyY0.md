@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-744 songs - 1 day 16 hr 52 min
+746 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [BFX](https://open.spotify.com/track/5Pp1hO78VmkTenjTtmRryl) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BFX](https://open.spotify.com/album/6jkV59Memx1CaFLE7dd1vQ) | 3:50 | 2025-08-28 | 2025-09-16 |
 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1wPgCPMdqb1YA7tyE079xd) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-17 |  |
 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-10-01 | 2025-03-07 |
+| [Black Flame](https://open.spotify.com/track/15xZH2mWpiJuUfdyKzmfN5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/5KPZPRjJgWTCAUgE8b4EkL) | 3:29 | 2025-10-10 |  |
 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-17 |
 | [BLAST](https://open.spotify.com/track/7CIaSfRtvvFZw7W8x4PqBl) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BLAST](https://open.spotify.com/album/4F8jUoMpJyqtpqZI4atNHQ) | 2:37 | 2025-06-17 | 2025-06-20 |
 | [Blast Off](https://open.spotify.com/track/0vvOYAukZ2VD49ey01FJHY) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [lIve](https://open.spotify.com/album/0E9mMgD3URkyjhP0UHBChk) | 3:37 | 2024-09-03 | 2024-09-25 |
@@ -138,7 +139,7 @@
 | [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-24 | 2025-07-23 |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-06 | 2025-04-25 |
 | [Dance With Me](https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:04 | 2025-09-25 |  |
-| [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 | 2025-09-12 |  |
+| [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 | 2025-09-12 | 2025-10-11 |
 | [DANGER](https://open.spotify.com/track/5HBKNY11WYdJUY4iKXHzG1) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [DANGER](https://open.spotify.com/album/3KJBbTH6HJ80waDYtLYvDb) | 2:31 | 2025-08-18 |  |
 | [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-06 | 2025-04-21 |
 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 | 2024-01-03 |
@@ -327,7 +328,7 @@
 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 | 2024-02-06 | 2024-05-13 |
 | [Lemon Candy](https://open.spotify.com/track/5UfQcGBcUKjWrxl8p4mclk) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HITCHHIKER \(Special Edition\)](https://open.spotify.com/album/7jraMr9F0Qj67bQ085lNvS) | 3:07 | 2024-05-28 | 2024-10-11 |
 | [Lemon Drop](https://open.spotify.com/track/0mTBjqI2rG7Tv8nVzdj3gH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/2KEjfNac9Fmnq1elvjR6DA) | 2:59 | 2025-06-13 | 2025-09-22 |
-| [Lemonade](https://open.spotify.com/track/1DcQF23V9BaAUufunxz0G5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4r37jJb40Y8tVuFXayxK0v) | 3:41 | 2025-08-19 |  |
+| [Lemonade](https://open.spotify.com/track/1DcQF23V9BaAUufunxz0G5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4r37jJb40Y8tVuFXayxK0v) | 3:41 | 2025-08-19 | 2025-10-11 |
 | [Lesson Ⅱ](https://open.spotify.com/track/5VAZjE3mpt7Y2Hi5L7YVmH) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Lesson Ⅱ](https://open.spotify.com/album/05vnwKKGA1YDgzUijgJmGs) | 3:24 | 2023-11-23 | 2024-02-14 |
 | [Let Me Kiss U](https://open.spotify.com/track/1XrmJHvtsx7eHBFkU9fF4n) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [Let Me Kiss U](https://open.spotify.com/album/6YNinPRBgr1TH73hJgycRj) | 2:28 | 2024-07-30 | 2024-09-04 |
 | [Let's Dance](https://open.spotify.com/track/3Ha8dfi47Gh5LSXE1751Yy) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Let's Dance](https://open.spotify.com/album/6kv8kVpO3Cc75wQdlKzoYM) | 2:59 | 2025-09-09 | 2025-09-17 |
@@ -650,6 +651,7 @@
 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 | 2024-10-16 | 2025-02-24 |
 | [Wonder Woman](https://open.spotify.com/track/63Z1plOzb8d2Ke0ypFkz2g) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Wonder Woman](https://open.spotify.com/album/4HPznSYTy5MTam9Ug4dHoS) | 2:38 | 2025-02-18 | 2025-05-09 |
 | [WONDER YOU](https://open.spotify.com/track/1zn7W0MAMQSo0bZeY4jyyq) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 8th EP Album GO Chapter 1 : GO Together](https://open.spotify.com/album/5dhQSeZvL4WtRwi4CaQBb6) | 3:17 | 2025-09-08 |  |
+| [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-10 |  |
 | [Would You Like One?](https://open.spotify.com/track/4Fo6du4dMMqN72B3c9Dfea) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Would You Like One?](https://open.spotify.com/album/58FTaiaiSiLosIevaONenR) | 3:13 | 2025-06-02 | 2025-06-04 |
 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 | 2024-10-01 | 2025-03-07 |
 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 | 2024-01-19 | 2024-03-17 |

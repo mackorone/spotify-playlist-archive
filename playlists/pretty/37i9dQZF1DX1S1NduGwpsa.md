@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,834 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,859 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [India Song](https://open.spotify.com/track/2zuVI1rFrQDJ0PVFSB5AGM) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [India Song](https://open.spotify.com/album/2wCmaGcKB1qoZXxx0xkjPh) | 3:27 |
-| 2 | [Track 2](https://open.spotify.com/track/6rv22k06Q8G2z6azJJAt3K) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Joydance](https://open.spotify.com/track/6rv22k06Q8G2z6azJJAt3K) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [La Sultane](https://open.spotify.com/album/101obPeJsCnoAOhx0ZlleK) | 3:58 |
 | 3 | [Angel Eyes](https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Angel Eyes](https://open.spotify.com/album/5xEQG4xagkE1zCBIHcG9CO) | 4:46 |
 | 4 | [PAS ENCORE](https://open.spotify.com/track/1mA8nmjxcmhRERaA7NZAqt) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [PAS ENCORE](https://open.spotify.com/album/4BdYjqlfixvlZzjzfHISXp) | 7:11 |
 | 5 | [Angel Dust \- Kyoto Jazz Massive Remix](https://open.spotify.com/track/777KS3sCp5SkizGM5LmXOA) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Angel Dust \(Kyoto Jazz Massive Remix\)](https://open.spotify.com/album/7l0akwxsMSIswvEX8hSSIy) | 5:00 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 13 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
 | 14 | [Bibimbop](https://open.spotify.com/track/0eRg65r2d4t5kNslt2MnJ0) | [Rémi Panossian Trio](https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh) | [88888888](https://open.spotify.com/album/4WwttsAd1YugSde7LufoHO) | 4:07 |
 | 15 | [Via Con Me](https://open.spotify.com/track/2GKBhGWcWyBqH0DO6GUvsl) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088) | [ITALIA](https://open.spotify.com/album/1Epbj3Z3J921lJmKhetc6n) | 4:11 |
-| 16 | [Over \(feat\. Yebba\)](https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [](https://open.spotify.com/album/null) | 5:01 |
+| 16 | [Over \(feat\. Yebba\)](https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Keys To The City Volume One](https://open.spotify.com/album/32GpVPWX3xM7wvTDoNugiU) | 5:01 |
 | 17 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Roulette](https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME) | 3:28 |
 | 18 | [Chocolate Cake](https://open.spotify.com/track/21JRlKHYNqMCFAqKz0jHw9) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Chocolate Cake](https://open.spotify.com/album/4mqzEHlMf6M57hLljYszhQ) | 3:43 |
 | 19 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [Open Up Your Senses](https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako) | 4:15 |

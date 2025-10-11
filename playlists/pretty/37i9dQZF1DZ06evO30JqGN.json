@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 135304,
+  "num_followers": 135322,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC5OcLeT7KG/clSlzUBWl4N",
+  "snapshot_id": "aOb7AAAAAACRuEBfjRAO8Pw91EEkhQ9v",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 237814,
-      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -415,6 +395,22 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 109413,
+      "name": "BP",
+      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
     },
     {
       "added_at": null,
@@ -455,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 237814,
+      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -464,29 +480,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 109413,
-      "name": "BP",
-      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) [hehe look y'all I made it longer]",
-        "url": "https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 173294,
-      "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer",
-      "url": "https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny"
+      "duration_ms": 88186,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
     },
     {
       "added_at": null,
@@ -531,42 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) [hehe look y'all I made it longer]",
+        "url": "https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2"
       },
       "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 88186,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely For You",
-        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
-      "url": "https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5"
+      "duration_ms": 173294,
+      "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer",
+      "url": "https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny"
     },
     {
       "added_at": null,
@@ -591,6 +567,30 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
+      "url": "https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CLEAR",
+        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 104438,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 182373,
       "name": "SWV (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLEAR",
-        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 104438,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CLEAR",
+        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs About U",
         "url": "https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 180023,
       "name": "Songs About U",
       "url": "https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLEAR",
-        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL"
     }
   ],
   "unique_name": "This Is Summer Walker",

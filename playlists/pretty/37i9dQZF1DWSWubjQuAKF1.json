@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Przebi\u015bniegi",
-  "num_followers": 24213,
+  "num_followers": 24260,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
+        "name": "to nie ten stan",
+        "url": "https://open.spotify.com/album/3MfOLXNdSTPvup7EW9qQy6"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 111701,
+      "name": "to nie ten stan",
+      "url": "https://open.spotify.com/track/209gXdHjcXRxDxtGNALJLp"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
         "name": "Wyjmij mnie",
         "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 148000,
       "name": "wolniej!",
       "url": "https://open.spotify.com/track/1DPShtZe2ocPeVX77GPC1f"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
-        "name": "to nie ten stan",
-        "url": "https://open.spotify.com/album/3MfOLXNdSTPvup7EW9qQy6"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 111701,
-      "name": "to nie ten stan",
-      "url": "https://open.spotify.com/track/209gXdHjcXRxDxtGNALJLp"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
+        "name": "Czas",
+        "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
+      },
+      "artists": [
+        {
+          "name": "Filip Max",
+          "url": "https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
         "name": "UV",
         "url": "https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 179656,
       "name": "UV",
       "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
-        "name": "Czas",
-        "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
-      },
-      "artists": [
-        {
-          "name": "Filip Max",
-          "url": "https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5"
-        }
-      ],
-      "duration_ms": 126187,
-      "name": "Czas",
-      "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "Berek",
-        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
-      },
-      "artists": [
-        {
-          "name": "Odet",
-          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Berek",
-      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "Boisz si\u0119",
         "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 181052,
       "name": "Boisz si\u0119",
       "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "Berek",
+        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Berek",
+      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "3 miesi\u0105ce",
-        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "3 miesi\u0105ce",
-      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 232733,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "3 miesi\u0105ce",
+        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "3 miesi\u0105ce",
+      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "Bez siebie",
-        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+        "name": "\u017cyczenie",
+        "url": "https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3"
       },
       "artists": [
         {
-          "name": "Ola Olszewska",
-          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
         }
       ],
-      "duration_ms": 178741,
-      "name": "Bez siebie",
-      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
+      "duration_ms": 283068,
+      "name": "\u017cyczenie",
+      "url": "https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "\u017cyczenie",
-        "url": "https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3"
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
       },
       "artists": [
         {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
         }
       ],
-      "duration_ms": 283068,
-      "name": "\u017cyczenie",
-      "url": "https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf"
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 164951,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "ernest",
         "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 263500,
       "name": "ernest",
       "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 164951,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "5 minutes",
-        "url": "https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20"
+        "name": "Jagodowe papierosy",
+        "url": "https://open.spotify.com/album/1zf7MhDe4XMEj1EXkSEnWP"
       },
       "artists": [
         {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        },
-        {
-          "name": "Pola",
-          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
         }
       ],
-      "duration_ms": 220689,
-      "name": "Charms in bracelet",
-      "url": "https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww"
+      "duration_ms": 185454,
+      "name": "Jagodowe papierosy",
+      "url": "https://open.spotify.com/track/104SMUTvIYqCMRJJlShAlu"
     }
   ],
   "unique_name": "up next",

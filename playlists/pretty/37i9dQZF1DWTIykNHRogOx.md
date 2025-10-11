@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Zaho de Sagazan
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,735 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,805 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 5 | [Le nom des fleurs](https://open.spotify.com/track/3aTMleeOHwd89RFAJzkQsW) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Le nom des fleurs](https://open.spotify.com/album/2HsikV99a1wKHnzWrObeSm) | 3:25 |
 | 6 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 |
 | 7 | [Aux enfants de demain](https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Aux enfants de demain](https://open.spotify.com/album/1u4Nqs64gvChknGAcpsq0F) | 3:44 |
-| 8 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [](https://open.spotify.com/album/null) | 2:52 |
+| 8 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO) | 2:52 |
 | 9 | [j'aime pas les goodbye](https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [j'aime pas les goodbye](https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs) | 2:03 |
 | 10 | [Les passantes](https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les passantes](https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg) | 3:02 |
 | 11 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 13 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
 | 14 | [Regarder passer les trains](https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Regarder passer les trains](https://open.spotify.com/album/1j5ehAXMc9wjpDuUWneVpt) | 4:13 |
 | 15 | [Ça va](https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Ça va](https://open.spotify.com/album/28H5Pp4wCwxWkGv15589Nl) | 3:14 |
-| 16 | [Capitaine](https://open.spotify.com/track/6mZ6Of7cY36EhX8ILqT4rj) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [](https://open.spotify.com/album/null) | 3:27 |
+| 16 | [Capitaine](https://open.spotify.com/track/6mZ6Of7cY36EhX8ILqT4rj) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [MAISON](https://open.spotify.com/album/5j63ceC6p3VDR86pjCLdbL) | 3:27 |
 | 17 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
 | 18 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
 | 19 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 |

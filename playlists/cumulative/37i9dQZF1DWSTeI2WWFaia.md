@@ -2,7 +2,7 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
 855 songs - 1 day 21 hr 47 min
 

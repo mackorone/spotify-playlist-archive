@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 176616,
       "name": "Affection",
       "url": "https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd"
+    },
+    {
+      "album": {
+        "name": "After Now",
+        "url": "https://open.spotify.com/album/5NWfJorhlgrbRGNY4iArF6"
+      },
+      "artists": [
+        {
+          "name": "Colton Jefferson",
+          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168684,
+      "name": "After Now",
+      "url": "https://open.spotify.com/track/1KldnOsIz3TRh7Z1sqwsob"
     },
     {
       "album": {
@@ -182,6 +200,24 @@
       "duration_ms": 151842,
       "name": "Amanu",
       "url": "https://open.spotify.com/track/0LqrjMezXMjVl1vNzPHXdl"
+    },
+    {
+      "album": {
+        "name": "Amour",
+        "url": "https://open.spotify.com/album/6sAnmQzjKqAN0nJmobdUra"
+      },
+      "artists": [
+        {
+          "name": "Meladonica",
+          "url": "https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Amour",
+      "url": "https://open.spotify.com/track/5vAZSctNrlHsbR3vsGEzE7"
     },
     {
       "album": {
@@ -657,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Breeze In",
+        "url": "https://open.spotify.com/album/01tHyBDEnJHuylMZPNAgmr"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebl Isol\u00e9e",
+          "url": "https://open.spotify.com/artist/7BiXGun6Yv7YNJZKflQtOh"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151375,
+      "name": "Breeze In",
+      "url": "https://open.spotify.com/track/4lST80M4KeO6N6GDNwkHNL"
+    },
+    {
+      "album": {
         "name": "Brooklyn Caf\u00e9",
         "url": "https://open.spotify.com/album/2NVjMTfZNEdr0Ov2QW0ox8"
       },
@@ -708,6 +762,24 @@
       "duration_ms": 160984,
       "name": "Cala Pada",
       "url": "https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq"
+    },
+    {
+      "album": {
+        "name": "Cala Saladeta",
+        "url": "https://open.spotify.com/album/5g7NQfq2cBJ7ALxfK7uP4L"
+      },
+      "artists": [
+        {
+          "name": "Pat Jr",
+          "url": "https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Cala Saladeta",
+      "url": "https://open.spotify.com/track/7Bl7qs9t21lZZ1Lmhvk7zV"
     },
     {
       "album": {
@@ -780,6 +852,60 @@
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "album": {
+        "name": "Carefree Joy",
+        "url": "https://open.spotify.com/album/1rPRPTkogCTM3O6Sfrguaj"
+      },
+      "artists": [
+        {
+          "name": "Hans Blu",
+          "url": "https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Carefree Joy",
+      "url": "https://open.spotify.com/track/1Cv7lw7oj2ukAQcM6KdBXe"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/5BiVfsPrJsBnaPZ6CcXf0W"
+      },
+      "artists": [
+        {
+          "name": "Sombra Azul",
+          "url": "https://open.spotify.com/artist/4EYXyORAJ8gvI1cZVeSEoc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118974,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6TsSQyvSxxtaYs55mqaMfS"
+    },
+    {
+      "album": {
+        "name": "Castaways",
+        "url": "https://open.spotify.com/album/4kTubpXD22hzjdSFDfVW22"
+      },
+      "artists": [
+        {
+          "name": "Oldofredi",
+          "url": "https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/4fWYsfoI6rCaapX2HxxQ8k"
     },
     {
       "album": {
@@ -938,7 +1064,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 206857,
       "name": "Cloud Number Five",
       "url": "https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C"
@@ -1143,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Dance Away",
+        "url": "https://open.spotify.com/album/09dzbwhRPx2z9ALdtrvoSS"
+      },
+      "artists": [
+        {
+          "name": "Elliot Horizon",
+          "url": "https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139419,
+      "name": "Dance Away",
+      "url": "https://open.spotify.com/track/24FIZQ1pSVcRjaRKIfGAEl"
+    },
+    {
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/4cySKoxWRjnNHKn2BBDpoH"
       },
@@ -1288,7 +1432,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 149464,
       "name": "Deseable",
       "url": "https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP"
@@ -1583,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3mP4shP5J6XyKZ6hNa2P68"
+      },
+      "artists": [
+        {
+          "name": "Palm Club",
+          "url": "https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2JwPIR9Nwq20Iu68py74Cm"
+    },
+    {
+      "album": {
         "name": "Falling Water",
         "url": "https://open.spotify.com/album/4Ui3N4ZsgYmcgn1ayip1uF"
       },
@@ -1634,6 +1796,24 @@
       "duration_ms": 185568,
       "name": "Feeling Pumped",
       "url": "https://open.spotify.com/track/51dnECT2u80lmbUuL4tEKg"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5OY0C5fluViOqncP9xkPD2"
+      },
+      "artists": [
+        {
+          "name": "Rayo del Sol",
+          "url": "https://open.spotify.com/artist/5tiQHiU8wfer1sBZAR0sPe"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/3DCKgFXixINdzGfEBpjnlh"
     },
     {
       "album": {
@@ -2015,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/4zbq01zpqHuThfDGTfJlad"
+      },
+      "artists": [
+        {
+          "name": "Mare",
+          "url": "https://open.spotify.com/artist/37VYyGD4iL6inSd3jluhV8"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/3Dz35wzOYoerHc0cv4t0kW"
+    },
+    {
+      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/5ozdhQJTvuTV0QlmgbEwUD"
       },
@@ -2156,6 +2354,24 @@
       "duration_ms": 150508,
       "name": "Hardly Wait",
       "url": "https://open.spotify.com/track/5cuSFXp5chjDCwBWXhwGKu"
+    },
+    {
+      "album": {
+        "name": "Havasu",
+        "url": "https://open.spotify.com/album/2HbWwh6VBB5SfvZPxbBDFi"
+      },
+      "artists": [
+        {
+          "name": "Navagio",
+          "url": "https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150521,
+      "name": "Havasu",
+      "url": "https://open.spotify.com/track/1cWCTWQT2xcy6TgleN390V"
     },
     {
       "album": {
@@ -2411,6 +2627,60 @@
     },
     {
       "album": {
+        "name": "In His Image",
+        "url": "https://open.spotify.com/album/7LreptOnQaKQrBiWdf1GNY"
+      },
+      "artists": [
+        {
+          "name": "IANCU",
+          "url": "https://open.spotify.com/artist/7lj0Y1P2gqTIru3ERk8HtU"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "In His Image",
+      "url": "https://open.spotify.com/track/2tbC45aa2SKmSIjv3N4fOF"
+    },
+    {
+      "album": {
+        "name": "In Malibou",
+        "url": "https://open.spotify.com/album/24ON5TRd8Ena6BV6SjeEUi"
+      },
+      "artists": [
+        {
+          "name": "Palm Club",
+          "url": "https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114690,
+      "name": "In Malibou",
+      "url": "https://open.spotify.com/track/2dStS2mIBqQqcUE1b3WG5W"
+    },
+    {
+      "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/3s1umIQLT8iJrkyxQZQ1Es"
+      },
+      "artists": [
+        {
+          "name": "Lazy Driver",
+          "url": "https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150590,
+      "name": "In The Loop",
+      "url": "https://open.spotify.com/track/7MVU0vvS4wTvCRHpuHWQPd"
+    },
+    {
+      "album": {
         "name": "Isla de es Vedr\u00e1",
         "url": "https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz"
       },
@@ -2660,6 +2930,24 @@
       "duration_ms": 252521,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/2hsNk82MZiHUyJnaUZJb84"
+    },
+    {
+      "album": {
+        "name": "Late Hour Glow",
+        "url": "https://open.spotify.com/album/75z4IFCG84XzP9sAp3GqJF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Silhouette",
+          "url": "https://open.spotify.com/artist/2LWa52RmMEwEQF5q2EvjxL"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Late Hour Glow",
+      "url": "https://open.spotify.com/track/1WwWOiZJeUpE3YFC8k6h7x"
     },
     {
       "album": {
@@ -3023,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Mercurial Dreams",
+        "url": "https://open.spotify.com/album/15P8z2NPOLILExCawRMQHN"
+      },
+      "artists": [
+        {
+          "name": "P. Skies",
+          "url": "https://open.spotify.com/artist/6V944kD67F7RRBgNsGVKWf"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139683,
+      "name": "Mercurial Dreams",
+      "url": "https://open.spotify.com/track/0IyXX3MMRSRq0aoqQZeVQ4"
+    },
+    {
+      "album": {
         "name": "Midnight Disco",
         "url": "https://open.spotify.com/album/1h2qp1P2w6GIQnJYxOFpBK"
       },
@@ -3344,7 +3650,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 144056,
       "name": "Nibe",
       "url": "https://open.spotify.com/track/5DaU8KzFj36sr75eX09gUl"
@@ -3776,7 +4082,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 171395,
       "name": "Peachess",
       "url": "https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT"
@@ -3848,7 +4154,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 134237,
       "name": "Play My Heart - Instrumental Dub",
       "url": "https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp"
@@ -4472,7 +4778,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 176785,
       "name": "SoHo",
       "url": "https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR"
@@ -4598,7 +4904,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 125727,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/0zinWIi33Y0HY9FzAjoQP7"
@@ -4750,6 +5056,24 @@
       "duration_ms": 141160,
       "name": "Strong Loop",
       "url": "https://open.spotify.com/track/2ZEstObcEPL43DIDk57NI9"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/1VF99WZSkbKEmUzl0fXbyA"
+      },
+      "artists": [
+        {
+          "name": "Meladonica",
+          "url": "https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/6bbtgpa2WIzFYj4v1aUZyM"
     },
     {
       "album": {
@@ -5002,6 +5326,24 @@
       "duration_ms": 139826,
       "name": "Sunset salvation",
       "url": "https://open.spotify.com/track/7ae2WJYDu2YqksU6Bi2yCO"
+    },
+    {
+      "album": {
+        "name": "Sunshine Dance",
+        "url": "https://open.spotify.com/album/2rm4qnsPiUIenrpLzrQt06"
+      },
+      "artists": [
+        {
+          "name": "A & C",
+          "url": "https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147166,
+      "name": "Sunshine Dance",
+      "url": "https://open.spotify.com/track/52D3PnojEgC52Cvn2HK1MA"
     },
     {
       "album": {
@@ -5265,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "To Go",
+        "url": "https://open.spotify.com/album/1Ok0RqARVPDQAQDQgQRGNO"
+      },
+      "artists": [
+        {
+          "name": "kuki",
+          "url": "https://open.spotify.com/artist/4rruOFsptZo8QKLFQrRCeV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "To Go",
+      "url": "https://open.spotify.com/track/45zqUCGJKi34gf7J5rvil9"
+    },
+    {
+      "album": {
         "name": "Tokyo Nights",
         "url": "https://open.spotify.com/album/5tDeMaVYGQr0JOj4wffYNT"
       },
@@ -5276,7 +5636,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 183731,
       "name": "Tokyo Nights",
       "url": "https://open.spotify.com/track/5txysze9nL710gd1YGo0E9"
@@ -5298,6 +5658,24 @@
       "duration_ms": 196539,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/3r7tFrel575DehLHsxjb5B"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5yoabdMFhwofYRHXSk7SSC"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152105,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2y69Kb0l8f3Md6iw9vwtVk"
     },
     {
       "album": {
@@ -5442,7 +5820,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 165974,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3qoeejFjklhpwwZBWYMV6k"
@@ -5630,6 +6008,24 @@
       "duration_ms": 340645,
       "name": "Water",
       "url": "https://open.spotify.com/track/6CD5nbE9zvNOdJbnwfQyVM"
+    },
+    {
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/1r0pSBwT42RzxnXze5k2Yw"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148983,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6zDYPtnYFcuUTmW7YwLan0"
     },
     {
       "album": {

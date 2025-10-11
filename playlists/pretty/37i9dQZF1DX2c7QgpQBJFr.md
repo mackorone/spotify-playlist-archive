@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  \(quello sotto al cappuccio è prima stanza a destra\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,993 likes - 109 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,012 likes - 109 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 3 | [Maledetto Ti Amo](https://open.spotify.com/track/2R2J0hUuHHJiMoenqhoaV2) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:49 |
 | 4 | [Miss Oklahoma](https://open.spotify.com/track/59j1Z2zL2sKR492wdFFLqi) | [Simonetta](https://open.spotify.com/artist/0Au89T7jKeOnhX5xXbvzm1), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Miss Oklahoma](https://open.spotify.com/album/6T6oXrGH6zE9WVf6N5wfga) | 2:59 |
 | 5 | [Mai \(feat\. Gaia\)](https://open.spotify.com/track/5IO3qAvRiUlnKjC2oI0vec) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:39 |
-| 6 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [](https://open.spotify.com/album/null) | 2:48 |
+| 6 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [quando nessuno ci vede](https://open.spotify.com/album/7b5L66twDwW0ESfwpFtho8) | 2:48 |
 | 7 | [La grande città \(feat\. Willie Peyote\)](https://open.spotify.com/track/4LBB8W61nVd5m983tTBG6h) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [La grande città \(feat\. Willie Peyote\)](https://open.spotify.com/album/7htd9ewI1uMq44rgIlEM0n) | 3:24 |
 | 8 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
 | 9 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
 | 10 | [Impossibile](https://open.spotify.com/track/0wdacellVNck0ukTn7aUh2) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Impossibile](https://open.spotify.com/album/5Fa1eainlT3WLze98FsaGk) | 3:29 |
 | 11 | [Mondo Fiorito](https://open.spotify.com/track/4N8drGsZx0X0vMyqgpE8GI) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Mondo Fiorito / Figli](https://open.spotify.com/album/61LlDLOsyCKvph4asP7kwt) | 2:33 |
-| 12 | [Tudo Bem](https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [](https://open.spotify.com/album/null) | 3:18 |
+| 12 | [Tudo Bem](https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [GRINGO Vol.2](https://open.spotify.com/album/3OJQKGBkbT1docNpiIdzqj) | 3:18 |
 | 13 | [Foglie](https://open.spotify.com/track/6wHHPfc7OpJUezPA41NzJB) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Foglie](https://open.spotify.com/album/3XNhvMKBitSlalrgmmGKuJ) | 2:59 |
 | 14 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 |
 | 15 | [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 |

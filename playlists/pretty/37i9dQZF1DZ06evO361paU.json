@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 288640,
+  "num_followers": 288664,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADu8JwcMhlqTZ6QGubIjCSQ",
+  "snapshot_id": "aOb7AAAAAAAlbzg5OkqcQg/R0bQ0HYfP",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superlove",
         "url": "https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 327378,
-      "name": "TK421",
-      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lenny",
         "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 217533,
       "name": "Dig In",
       "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circus (Deluxe)",
-        "url": "https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Is It Me, Is It You",
-      "url": "https://open.spotify.com/track/69IRcCUIKG2CecXMGJd057"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus (Deluxe)",
+        "url": "https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Is It Me, Is It You",
+      "url": "https://open.spotify.com/track/69IRcCUIKG2CecXMGJd057"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "Eleutheria",
-      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 382722,
       "name": "New York City",
       "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "Eleutheria",
+      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride (Edit)",
         "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220310,
       "name": "Ride (Edit)",
       "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
     },
     {
       "added_at": null,

@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Robert Randolph
+> The best of modern blues rock\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,576 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,716 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 |
-| 2 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 |
-| 3 | [Burn It To The Ground](https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Burn It To The Ground](https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l) | 3:04 |
-| 4 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
-| 5 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
-| 6 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
-| 7 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 |
-| 8 | [Old Time Low](https://open.spotify.com/track/4yZH8DuH7X5ohvSB1VZG80) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Old Time Low](https://open.spotify.com/album/2WwdQXv8fzMzXOE2DdxIKf) | 3:00 |
-| 9 | [Borrow My Boots](https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Grace Bowers](https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [Borrow My Boots](https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1) | 2:40 |
-| 10 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
-| 11 | [Nowheresville](https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B) | [RMB](https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh) | [Nowheresville](https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE) | 4:30 |
-| 12 | [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 |
+| 1 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 |
+| 2 | [I Need The Fire](https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4) | [Hollow Souls](https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO) | 3:12 |
+| 3 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 |
+| 4 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 |
+| 5 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
+| 6 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
+| 7 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
+| 8 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 |
+| 9 | [Old Time Low](https://open.spotify.com/track/4yZH8DuH7X5ohvSB1VZG80) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Old Time Low](https://open.spotify.com/album/2WwdQXv8fzMzXOE2DdxIKf) | 3:00 |
+| 10 | [Borrow My Boots](https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Grace Bowers](https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [Borrow My Boots](https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1) | 2:40 |
+| 11 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
+| 12 | [Nowheresville](https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B) | [RMB](https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh) | [Nowheresville](https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE) | 4:30 |
 | 13 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/3qLBc5htEe4QgGvHYglyTU), [Tyler Banks](https://open.spotify.com/artist/3mDFJuPmEsbNhzkR7yyJkZ) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
 | 14 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 |
 | 15 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAADNq/6JyG6BQn/o14zhz5opb/lIt`
+Snapshot ID: `AAAAAIIr38Jbdfhf4apRTNmSZuZWPBrX`

@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 189200,
       "name": "Dark Void - Sullivan King Remix",
       "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/5tSYDNfmWr4dt5JGUYrgTk"
@@ -5017,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4igvCxUMOHlR2TUz5WWsfU"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3kyslSkaBiNvo70J0gcK6P"
+    },
+    {
+      "album": {
         "name": "How To Kill A God",
         "url": "https://open.spotify.com/album/4MsOsP1gBDNgR5KfdeZETH"
       },
@@ -5240,6 +5262,28 @@
       "duration_ms": 167812,
       "name": "I'm Losing Myself",
       "url": "https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS"
+    },
+    {
+      "album": {
+        "name": "FOREVER PART ONE",
+        "url": "https://open.spotify.com/album/2bXaWCdUz5Hm1ue2Zg9lAJ"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "I'm Not Holy - Radio Edit",
+      "url": "https://open.spotify.com/track/0YXLBeFiIN51J8VgnAjx9V"
     },
     {
       "album": {

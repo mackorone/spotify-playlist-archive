@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 
 > for wandering through nature's playground 🏔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,784 likes - 151 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,835 likes - 151 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 | 150 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
 | 151 | [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 |
 
-Snapshot ID: `AAAAAHtTSmVO5kP7nmt7O3vyN8Sqc08n`
+Snapshot ID: `AAAAACtDNZezriea1t4v9GY8EHX4EG+7`

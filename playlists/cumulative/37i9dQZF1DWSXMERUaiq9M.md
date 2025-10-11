@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-566 songs - 1 day 10 hr 55 min
+567 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Mission Impossible III](https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 3:28 | 2024-12-28 | 2025-01-07 |
 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 | 2023-03-25 |  |
 | [Moonlight \- Rave Edit](https://open.spotify.com/track/2CpRpE4bXlpT1B7vwKsxKa) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight \(Rave Edit\)](https://open.spotify.com/album/2efgNZbcsAf9eYJ8hwXSJM) | 2:33 | 2024-02-02 | 2024-03-07 |
+| [Mosquito](https://open.spotify.com/track/6d2nejXrpfVWHQzW98yD0t) | [Trancemaster Krause](https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw), [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP) | [Mosquito](https://open.spotify.com/album/6aBNX4wPwzHsViRArT61yb) | 3:37 | 2025-10-10 |  |
 | [MOVE IT](https://open.spotify.com/track/6cONtKwkzZM9dXjRn9KxHh) | [Ollie Lishman](https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0) | [WATCH YO STEP](https://open.spotify.com/album/6tl4o9o6XIIXwz95fGYRLQ) | 4:58 | 2024-12-28 | 2025-01-07 |
 | [Move My Body \(feat\. Lucy Dye\)](https://open.spotify.com/track/26xw61UppTKPySjw3RLvx6) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Move My Body \(feat\. Lucy Dye\)](https://open.spotify.com/album/4BAyc37k3eWHs93aMT21XA) | 2:47 | 2024-07-25 | 2025-01-07 |
 | [Move Your Feet](https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Move Your Feet](https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM) | 2:52 | 2024-10-10 | 2024-11-12 |
@@ -466,7 +467,7 @@
 | [Speed It Up \- Dr\. Bounce Remix](https://open.spotify.com/track/5YvroUTBozNzShCKeKYJ4E) | [Club Caviar](https://open.spotify.com/artist/2EN1Wc5No2OeL4exPJDIMe), [Dr\. Bounce](https://open.spotify.com/artist/6NRGNESxIzWCPdGMndqtKD) | [Speed It Up](https://open.spotify.com/album/2bqWGEEx5y9LN8vB2gLNg0) | 7:32 | 2024-12-28 | 2025-01-07 |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |
 | [Spin](https://open.spotify.com/track/0moGfmv7r22hx3nsU6yMf9) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Spin](https://open.spotify.com/album/4Ubxfr5wdZBzcm57wy2cgU) | 3:27 | 2025-07-17 | 2025-07-25 |
-| [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 | 2025-05-22 |  |
+| [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 | 2025-05-22 | 2025-10-11 |
 | [Stay \- Ely Oaks Version](https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay \(Ely Oaks Version\)](https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl) | 2:39 | 2025-07-10 |  |
 | [Stay High](https://open.spotify.com/track/2PXRDrNnbgoNvSRt9LxB8G) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44014](https://open.spotify.com/album/7e6XaF4E1KEgSBpKmsqOW3) | 4:31 | 2025-05-15 | 2025-05-23 |
 | [Stereoscopic](https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Stereoscopic](https://open.spotify.com/album/6Z5OBUXv1C51O9aVVU5tM4) | 4:36 | 2023-09-21 | 2023-09-30 |

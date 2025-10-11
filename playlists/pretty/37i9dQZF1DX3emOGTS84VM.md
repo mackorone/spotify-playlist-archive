@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,374 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,375 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

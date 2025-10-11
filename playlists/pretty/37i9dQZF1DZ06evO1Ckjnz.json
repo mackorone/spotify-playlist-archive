@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19960,
+  "num_followers": 19961,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABCP6RNX1F22OV3xspX0YQv",
+  "snapshot_id": "aOb7AAAAAAAlIWW6HdEccYsUM7hkfmvO",
   "tracks": [
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 111733,
-      "name": "SON OF A GUN",
-      "url": "https://open.spotify.com/track/0WEttQnuVB3wntMV6HvXV4"
+      "duration_ms": 162000,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 162000,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
+      "duration_ms": 111733,
+      "name": "SON OF A GUN",
+      "url": "https://open.spotify.com/track/0WEttQnuVB3wntMV6HvXV4"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arintintin",
         "url": "https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T"
       },
@@ -299,38 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/51ZdiAjVcjhGGHO83nyYwv"
+      "duration_ms": 196576,
+      "name": "Pop (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL"
     },
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 196576,
-      "name": "Pop (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL"
+      "duration_ms": 213133,
+      "name": "Jungle - Rico Nasty Remix",
+      "url": "https://open.spotify.com/track/51ZdiAjVcjhGGHO83nyYwv"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IPHONE",
         "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158663,
       "name": "IPHONE",
       "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136829,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Is Better",
         "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
       },
@@ -823,6 +807,42 @@
       "duration_ms": 155657,
       "name": "High Heels (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136829,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        }
+      ],
+      "duration_ms": 140346,
+      "name": "Hatin",
+      "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
     },
     {
       "added_at": null,
@@ -847,22 +867,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+        "name": "my way (w/ Rico Nasty & Kanii)",
+        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
       },
       "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         },
         {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 140346,
-      "name": "Hatin",
-      "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
+      "duration_ms": 177782,
+      "name": "my way (w/ Rico Nasty & Kanii)",
+      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
     },
     {
       "added_at": null,
@@ -907,30 +931,6 @@
       "duration_ms": 178236,
       "name": "FMU",
       "url": "https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "my way (w/ Rico Nasty & Kanii)",
-        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 177782,
-      "name": "my way (w/ Rico Nasty & Kanii)",
-      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
     },
     {
       "added_at": null,

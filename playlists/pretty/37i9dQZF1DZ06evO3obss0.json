@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 141022,
+  "num_followers": 141411,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC83DCdaEM6xjpXDtzHtz3q",
+  "snapshot_id": "aOb7AAAAAAAtDklE307TMFLGxgYJtDjs",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
       },
       "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
     },
     {
       "added_at": null,
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
       "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 261176,
-      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": null,

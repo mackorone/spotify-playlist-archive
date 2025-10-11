@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,706 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,710 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 |
 | 50 | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU) | 3:02 |
 
-Snapshot ID: `aOWpgAAAAADYJotg6NSekcPaRcsp/Gz3`
+Snapshot ID: `aOb7AAAAAABtyEHs4ZHmZWepYg8iZY7F`

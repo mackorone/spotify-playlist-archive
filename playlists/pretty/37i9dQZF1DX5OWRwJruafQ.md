@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,276 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,347 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 7 | [Better Days](https://open.spotify.com/track/722EMijhPURSaH6awFFjqw) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Immortal](https://open.spotify.com/album/6lp0wgZp5lRwSaICc4k6Yk) | 3:19 |
 | 8 | [I'ma Do My Thiiing](https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 |
 | 9 | [Levels & Graphs](https://open.spotify.com/track/69AjrdgNtObkjqZEsMh15B) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 4:22 |
-| 10 | [Gucci](https://open.spotify.com/track/6T2LGY1fvM0LEYBwGSJjck) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Gucci](https://open.spotify.com/album/1wbG53gNKmWaY0qI0v6vTi) | 2:59 |
+| 10 | [Dirty Money](https://open.spotify.com/track/1QKPpDuQ9UPHfKuZusKWrp) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Dirty Money](https://open.spotify.com/album/1WCLB1lfJxn8c4rbHbgkGP) | 2:46 |
 | 11 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
-| 12 | [Naam Honey Singh](https://open.spotify.com/track/0ZvXfqcFXDNZJ54zMvoOd0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:37 |
-| 13 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
+| 12 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
+| 13 | [Gucci](https://open.spotify.com/track/6T2LGY1fvM0LEYBwGSJjck) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Gucci](https://open.spotify.com/album/1wbG53gNKmWaY0qI0v6vTi) | 2:59 |
 | 14 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 |
 | 15 | [THE BOYS](https://open.spotify.com/track/0PgYdkNH6IIz3TSFN0l6kr) | [Yuvan](https://open.spotify.com/artist/2gFzNJG4d7qAEh3z8E5qdt), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ), [Arry Gill](https://open.spotify.com/artist/1hg8fQzDGoyIy1RTv5snn0) | [FINESSE](https://open.spotify.com/album/6oBAnFwaf3fxRYXBauL9Hi) | 2:13 |
 | 16 | [ON SIGHT](https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [ON SIGHT](https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 |
 | 100 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 
-Snapshot ID: `AAAAADRn6rIuVmkvW5V/vtEE5BkR1Qkk`
+Snapshot ID: `AAAAAJ/AkPPahYt3V3s2RiI4I1TKW3ss`

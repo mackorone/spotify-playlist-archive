@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯  Kannessa ibe.
 
-1,021 songs - 2 day 0 hr 30 min
+1,021 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Liikkuu Juttuu](https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO) | [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o) | [Liikkuu Juttuu](https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36) | 3:03 | 2023-11-23 | 2023-12-08 |
 | [LIKSA](https://open.spotify.com/track/5C7Nlv95wXAplxDxfAWaX9) | [BALOBOIZ](https://open.spotify.com/artist/08VZsyOGm9AsqIuICGVvdo) | [LIKSA](https://open.spotify.com/album/16wiTOUI4vJGcNFv2b2fes) | 2:38 | 2024-04-18 | 2024-05-03 |
 | [LITTY FREESTYLE](https://open.spotify.com/track/0iKUV5r3kZ4t6wsyIrrJ3o) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf) | [BACK ON MY BULLSHIT](https://open.spotify.com/album/3DoQtoXfFEulEtJIR6zWLI) | 2:32 | 2024-05-30 | 2024-07-02 |
+| [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 | 2025-10-09 |  |
 | [Lomastyge](https://open.spotify.com/track/3ZK7smGZ5ecyz9loKv5pFD) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR) | [Lomastyge](https://open.spotify.com/album/4JT9fPrnpmRL1cOYtbKowM) | 2:42 | 2025-06-19 | 2025-07-04 |
 | [Lopputulos](https://open.spotify.com/track/6AWKC64ZQBu4EqCem2d4YJ) | [Rono](https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4) | [Lopputulos](https://open.spotify.com/album/3ASrCtCOjEoX7g5clS9WA4) | 2:14 | 2024-02-22 | 2024-03-08 |
 | [Lotos](https://open.spotify.com/track/1XVSWIxUHRfiG5kk5rsa2S) | [Chebaleba](https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Jivefunk](https://open.spotify.com/artist/5z8wjGd1fnvewcoj9XFCox) | [Lotos](https://open.spotify.com/album/62sn1QfUsrtFzR9A8KUO3F) | 3:32 | 2024-08-29 | 2024-09-13 |
@@ -898,7 +899,6 @@
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 |  |
 | [TOXIC B \(pidämustkii\)](https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [CAKE](https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h) | 2:58 | 2024-01-11 | 2024-02-23 |
 | [Toxic Mami](https://open.spotify.com/track/1TtJce46FJzvOEYQPRywyd) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Toxic Mami](https://open.spotify.com/album/1pHANfdHmhxpzUZDJ3X48L) | 2:24 | 2024-05-16 | 2024-07-02 |
-| [Track 3](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tragedian Lyhyt Oppimäärä](https://open.spotify.com/track/6Vr8roAlaX2xFBV3juRJ5S) | [Pijall](https://open.spotify.com/artist/0CfkmCl2XN2IWxYcMzPMlq) | [MINNESOTA](https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW) | 3:42 | 2023-10-05 | 2023-10-20 |
 | [TRAP PRINSESSA](https://open.spotify.com/track/7ubxbH63j6aRQYZq00Of9Z) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [TRAP PRINSESSA](https://open.spotify.com/album/3Drp0KbEo6fBW8fKenUuM8) | 2:50 | 2025-08-28 | 2025-09-13 |
 | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/track/3ru8ZqaLhygUIXQ9lXtqfK) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6), [Louhi](https://open.spotify.com/artist/4hixqE8xjQRUmqgNTRtwYk) | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/album/3sdWeACOIdDc2meu2TiEU5) | 2:33 | 2024-04-18 | 2024-05-03 |

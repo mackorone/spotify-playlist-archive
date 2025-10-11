@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Madison Beer",
+  "description": "The hottest new pop with all the drops. Cover: Rose Gray",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "album": {
+        "name": "17 Minutes",
+        "url": "https://open.spotify.com/album/5XOBPLGrdDli5UqcDAd1Ns"
+      },
+      "artists": [
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "17 Minutes",
+      "url": "https://open.spotify.com/track/0cOXzXwc7y4TIwpLnD8c7x"
     },
     {
       "album": {
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 195995,
       "name": "April",
       "url": "https://open.spotify.com/track/2g4WU3DW5CtHRohxMWw2wH"
@@ -3448,6 +3466,28 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/5syPeO4pBjC3rVT6a0UUgC"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173713,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/4qJcJb00xhkdZdljKIoLJn"
     },
     {
       "album": {
@@ -7885,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/1rm0JfiJMC4VDQ00KuSPRQ"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/4oLDxpj955zfClXYIEFR1p"
+    },
+    {
+      "album": {
         "name": "Does It Even",
         "url": "https://open.spotify.com/album/5nzHJJutjwPOKVYZFVDDUv"
       },
@@ -9972,7 +10030,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 181586,
       "name": "Fast",
       "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
@@ -10522,7 +10580,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 182880,
       "name": "Find A Way (feat. Suli Breaks & Dido)",
       "url": "https://open.spotify.com/track/417Er1nznZoYE8Kw7CFXy1"
@@ -10746,7 +10804,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 287266,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5ZQNoHS5dOGWjIhoXKW7Zt"
@@ -11702,7 +11760,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 178615,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/6MAOz21OJgWz7FAe7TgdVP"
@@ -17517,6 +17575,24 @@
     },
     {
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139390,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk"
+    },
+    {
+      "album": {
         "name": "Kiss Me Better",
         "url": "https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy"
       },
@@ -19216,6 +19292,24 @@
       "duration_ms": 203609,
       "name": "Lost Without You (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
+    },
+    {
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214913,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT"
     },
     {
       "album": {
@@ -24846,7 +24940,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 170880,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4pPCQATIQCESmDKMBItP9V"
@@ -25794,6 +25888,24 @@
       "duration_ms": 161829,
       "name": "Push The Tempo",
       "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
+    },
+    {
+      "album": {
+        "name": "Put You On",
+        "url": "https://open.spotify.com/album/3oBhcdWQyHe5KCmN99S6hN"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "Put You On",
+      "url": "https://open.spotify.com/track/2GnrpZHEaI6WMK9paGLYEK"
     },
     {
       "album": {
@@ -30994,7 +31106,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 156896,
       "name": "SUPERSONIC",
       "url": "https://open.spotify.com/track/3xaw7lWf3dmYsl7RZ8iMDn"
@@ -36660,6 +36772,24 @@
       "duration_ms": 167274,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/7Bx0oBgnEfVR2bCs6Aul0X"
+    },
+    {
+      "album": {
+        "name": "Worth Your Summer",
+        "url": "https://open.spotify.com/album/7LyqReHSOXbiUVwg1Qp52j"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Worth Your Summer",
+      "url": "https://open.spotify.com/track/2XrzeucK3QId09Ct0rUBEt"
     },
     {
       "album": {

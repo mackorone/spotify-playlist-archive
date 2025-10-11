@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 52050,
+  "num_followers": 52067,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABuYWc/n31K8NOICDexTmGu",
+  "snapshot_id": "aOb7AAAAAACvk3+23kpx85X8hkOeXk1z",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ten\u00eda Due\u00f1o",
+        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "Ten\u00eda Due\u00f1o",
+      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 181816,
       "name": "Hola Mi Amor (Version Banda)",
       "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ten\u00eda Due\u00f1o",
-        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 183941,
-      "name": "Ten\u00eda Due\u00f1o",
-      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
+      "duration_ms": 186746,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Contigo Me Gusta",
-      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-418 songs - 1 day 16 hr 50 min
+419 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Isolation \- Live](https://open.spotify.com/track/1NcrEGbi81aFmZ3z4I7s4x) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [ASW Trax Vol\. 1](https://open.spotify.com/album/5nqgzTouLgCVoth2XtQvjS) | 6:16 | 2025-01-24 | 2025-03-14 |
 | [IYNDUB01 \- Live](https://open.spotify.com/track/0KyJUcEKfEUQc9ZcdgSFz1) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [IYNDUB01 \(Live\)](https://open.spotify.com/album/1OpZE687r6OAVxzVlislII) | 7:57 | 2023-08-03 | 2023-12-16 |
 | [I’ll Take You feat Xander](https://open.spotify.com/track/5fQyVGsvWKUJ2OUUt3fcsj) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Xander](https://open.spotify.com/artist/4uqX6ORyUQSdtqgcc8lr1w) | [In My Mind](https://open.spotify.com/album/3s1mUrfpGAY2kFoBC08tFk) | 3:59 | 2022-08-15 | 2023-02-14 |
+| [Joya \- Radio](https://open.spotify.com/track/0PLOJqAilpgcdxBlRCvcek) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [Joya \(Radio\)](https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2) | 4:03 | 2025-10-10 |  |
 | [Keep the Pressure On](https://open.spotify.com/track/4LPfMqurTNTpdGl7OULJvW) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:16 | 2023-02-13 | 2023-08-04 |
 | [Kings for a Minute](https://open.spotify.com/track/48vViz3bvmyrZ1Q7gbdhfj) | [Digital Afrika](https://open.spotify.com/artist/2FtoiNNAAX9Xd2UJwQ9Esw), [Cazeaux Oslo](https://open.spotify.com/artist/3XhzCFOjlvffLbfKwbZlzq) | [ASW Trax Vol\. 1](https://open.spotify.com/album/5nqgzTouLgCVoth2XtQvjS) | 5:46 | 2025-01-24 | 2025-03-14 |
 | [Kontrol](https://open.spotify.com/track/5ts3NZta32JBTsMZiYT4qq) | [Hybrasil](https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI) | [Kontrol EP](https://open.spotify.com/album/0t8jdQT2gZ9PtOuUv5OwAq) | 5:46 | 2025-04-30 |  |

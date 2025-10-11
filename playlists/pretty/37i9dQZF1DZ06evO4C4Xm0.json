@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 46581,
+  "num_followers": 46590,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC/yzRMwPXxlAnLUB9gsd5k",
+  "snapshot_id": "aOb7AAAAAADMkvJ2UB2zWjmkheJBtWVL",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 261560,
-      "name": "Lost In The Humming Air - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
+      "duration_ms": 270280,
+      "name": "Under Stars - 2005 Mix",
+      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
       "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 270280,
-      "name": "Under Stars - 2005 Mix",
-      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
+      "duration_ms": 261560,
+      "name": "Lost In The Humming Air - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
     },
     {
       "added_at": null,

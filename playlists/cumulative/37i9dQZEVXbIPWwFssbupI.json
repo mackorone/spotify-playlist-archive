@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 198974,
       "name": "5 bleus",
       "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
@@ -2070,10 +2070,32 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 186000,
       "name": "AIR FORCE BLANCHE",
       "url": "https://open.spotify.com/track/4aywLDyEvQdIICQdd9rzKA"
+    },
+    {
+      "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "AIR FORCE BLANCHE",
+      "url": "https://open.spotify.com/track/4mDpnv3WoBynj16hsjGihU"
     },
     {
       "album": {
@@ -3408,10 +3430,28 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 180923,
       "name": "APPELLE TA COPINE",
       "url": "https://open.spotify.com/track/0fidOo48Icjrh6JztQ3cHb"
+    },
+    {
+      "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1JyRpP8m5n45JGpMelt5Yk"
     },
     {
       "album": {
@@ -14576,7 +14616,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3"
@@ -34359,6 +34399,28 @@
     },
     {
       "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "PARISIENNE",
+      "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
+    },
+    {
+      "album": {
         "name": "PARISIENNE",
         "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
       },
@@ -34396,7 +34458,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/5gvvdf0mk5nL5Gu9h5cUTX"
@@ -35932,7 +35994,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -36792,7 +36854,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,493 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,523 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 81 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 |
 | 82 | [Trust In You](https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 3:31 |
 | 83 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
-| 84 | [My Hope Is In You](https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe](https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn) | 4:14 |
+| 84 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 85 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 |
-| 86 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
+| 86 | [My Hope Is In You](https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe](https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn) | 4:14 |
 | 87 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
-| 88 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
-| 89 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
-| 90 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
+| 88 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
+| 89 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
+| 90 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
 | 91 | [Forever Reign \- Live](https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Jad Gillies](https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 5:43 |
 | 92 | [Move](https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Generous Mr\. Lovewell](https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0) | 2:58 |
 | 93 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |

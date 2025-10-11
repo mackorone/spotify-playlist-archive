@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 924621,
+  "num_followers": 924782,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Songs to Learn & Sing",
         "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 190525,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
       "added_at": "2021-10-15 04:04:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,348 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,377 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 8 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 |
 | 9 | [Störd](https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Störd](https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV) | 2:53 |
 | 10 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 |
-| 11 | [Backspegeln](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 |
+| 11 | [Backspegeln \- Radio Edit](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 |
 | 12 | [The Ambition](https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:34 |
 | 13 | [Mitt hjärta av guld](https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Mitt hjärta av guld](https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i) | 2:50 |
 | 14 | [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 |
@@ -44,27 +44,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 34 | [Josephine](https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Josephine](https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx) | 2:15 |
 | 35 | [Andarna](https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Andarna](https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY) | 3:46 |
 | 36 | [RING MIG 112!!?](https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [RING MIG 112!!?](https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt) | 2:56 |
-| 37 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 |
-| 38 | [SOS](https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOS](https://open.spotify.com/album/6YSni14WiEq5mIihve4u3V) | 1:51 |
+| 37 | [SOS](https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOS](https://open.spotify.com/album/6YSni14WiEq5mIihve4u3V) | 1:51 |
+| 38 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 |
 | 39 | [Blåljus](https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Blåljus](https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF) | 3:27 |
 | 40 | [Men du](https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Men du](https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P) | 3:07 |
 | 41 | [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 |
-| 42 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
-| 43 | [Från & med nu](https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:25 |
+| 42 | [Från & med nu](https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:25 |
+| 43 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
 | 44 | [Han vill ha dig](https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Han vill ha dig](https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a) | 3:28 |
 | 45 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
 | 46 | [Damned](https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Damned](https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn) | 2:34 |
 | 47 | [Ain’t The Feeling](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feeling](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 |
-| 48 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 |
-| 49 | [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 |
+| 48 | [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 |
+| 49 | [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 |
 | 50 | [Solros](https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Solros](https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT) | 2:41 |
-| 51 | [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 |
+| 51 | [Svårt](https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Svårt](https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9) | 2:59 |
 | 52 | [02:30](https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [02:30](https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja) | 3:37 |
-| 53 | [Svårt](https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Svårt](https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9) | 2:59 |
+| 53 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 |
 | 54 | [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 |
 | 55 | [Jag måste välja](https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Jag måste välja](https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE) | 3:15 |
-| 56 | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3) | 2:52 |
-| 57 | [Grön hatt](https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Grön hatt](https://open.spotify.com/album/1PzD5BBmOQVFFJWhVI1XGm) | 3:02 |
+| 56 | [Grön hatt](https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Grön hatt](https://open.spotify.com/album/1PzD5BBmOQVFFJWhVI1XGm) | 3:02 |
+| 57 | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3) | 2:52 |
 | 58 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
 | 59 | [Madame](https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Madame](https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf) | 2:14 |
 | 60 | [Dina fula skor](https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dina fula skor](https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX) | 2:18 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 70 | [Freedom](https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Freedom](https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn) | 3:14 |
 | 71 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
 | 72 | [IN YOUR BLUE](https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [4Eternity](https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1) | 2:16 |
-| 73 | [Lova & Skriv](https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Lova & Skriv](https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T) | 2:59 |
-| 74 | [Gatorna i Borås](https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [Gatorna i Borås](https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV) | 2:44 |
+| 73 | [Gatorna i Borås](https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [Gatorna i Borås](https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV) | 2:44 |
+| 74 | [Lova & Skriv](https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Lova & Skriv](https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T) | 2:59 |
 | 75 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 |
 | 76 | [So Fine](https://open.spotify.com/track/3FRjmy9LaX2H9gWAf2gKVy) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [Overseas Infinity Pt\. 1](https://open.spotify.com/album/7tNsMF0fcgNL4OgvSVmc9u) | 3:01 |
 | 77 | [Hennessy](https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hennessy](https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1) | 2:20 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 81 | [Slutat bry mig](https://open.spotify.com/track/23EKxveViwvrcoWTfCyuwa) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Slutat bry mig](https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370) | 2:47 |
 | 82 | [Glas](https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Glas](https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U) | 2:52 |
 | 83 | [Tiderna i Solna](https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW) | [Tiderna i Solna](https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu) | 2:18 |
-| 84 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 |
+| 84 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 |
 | 85 | [Dansa med mig själv](https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Dansa med mig själv](https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn) | 2:07 |
-| 86 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 |
-| 87 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 |
-| 88 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 |
-| 89 | [MAJOR CONTEST](https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MAJOR CONTEST](https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP) | 3:07 |
+| 86 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 |
+| 87 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 |
+| 88 | [MAJOR CONTEST](https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MAJOR CONTEST](https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP) | 3:07 |
+| 89 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 |
 | 90 | [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 |
 
 Snapshot ID: `AAAAACN+ZRETtvhV/lGhh4Nhn6TK8Tdx`

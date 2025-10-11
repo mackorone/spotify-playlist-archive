@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,353 songs - 3 day 6 hr 48 min
+1,355 songs - 3 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [0.1秒後的世界](https://open.spotify.com/track/6HOzptW6b05V4AFp3nBOCf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [0.1秒後的世界](https://open.spotify.com/album/4OzlVA1SKFZCmsXgCALaft) | 4:41 | 2024-10-23 | 2024-11-03 |
 | [1 TO 13](https://open.spotify.com/track/5UpOKgvHCp0HkXDgxmWM7F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 2:37 | 2024-10-15 | 2024-10-18 |
 | [12](https://open.spotify.com/track/4pSSP0w8orZuCZJcxgugGT) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [12](https://open.spotify.com/album/5Ijo5yPwsUqTqkheob9y7u) | 3:21 | 2021-12-23 | 2022-04-06 |
+| [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD) | 2:29 | 2025-10-10 |  |
 | [1973 Trail \(feat\. Gigi Cheung\) \- Remix](https://open.spotify.com/track/5moDU8oOdByOJhZfT0UjQ3) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [1973 Trail \(feat\. Gigi Cheung\) \[Remix\]](https://open.spotify.com/album/3znLBmeILQtq7RYZ6uGFIV) | 3:10 | 2022-07-10 | 2022-07-16 |
 | [1973的舞會](https://open.spotify.com/track/77VQioAN4XNTQHRCY1bBmu) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [1973的舞會](https://open.spotify.com/album/0rQvDSqY1lKYtYRN5OjtJK) | 3:27 | 2023-03-18 | 2023-04-26 |
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-06-04 | 2022-07-08 |
@@ -74,7 +75,7 @@
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-05-28 | 2022-06-01 |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-08 | 2023-07-11 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-06-01 | 2025-08-24 |
-| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 |  |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 | 2025-10-11 |
 | [Background](https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:55 | 2025-05-17 | 2025-10-02 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-19 |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-06 | 2025-06-09 |
@@ -1191,7 +1192,7 @@
 | [流離者的海](https://open.spotify.com/track/4ZyOwXlKGOU1hhRaP2wlqu) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [流離者的海](https://open.spotify.com/album/2mCCfFrHnm4YWsS8z5Nh6A) | 3:02 | 2023-09-16 | 2023-09-30 |
 | [浪漫殺死巨蟹座](https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [浪漫殺死巨蟹座](https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw) | 4:04 | 2023-07-22 | 2025-05-14 |
 | [浮床](https://open.spotify.com/track/3gOTUuIDMbBYECtnPadsxY) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [浮床](https://open.spotify.com/album/0HjgPj2BylDhJNRGN6OqUq) | 3:33 | 2023-09-15 | 2023-12-02 |
-| [深閨](https://open.spotify.com/track/5ZzOLLmvp31DU4D5vsFA0u) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [深閨](https://open.spotify.com/album/3PLVk9y6O6AGlzQ72rltZx) | 4:22 | 2025-08-15 |  |
+| [深閨](https://open.spotify.com/track/5ZzOLLmvp31DU4D5vsFA0u) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [深閨](https://open.spotify.com/album/3PLVk9y6O6AGlzQ72rltZx) | 4:22 | 2025-08-15 | 2025-10-11 |
 | [深閨](https://open.spotify.com/track/6apc6NX2mDQ59mortxddQQ) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [深閨](https://open.spotify.com/album/2KCTK4HgfH3dOaWiA7tTB9) | 4:22 | 2024-04-18 | 2025-08-09 |
 | [深閨 feat\. Kelly Chen 陳慧琳](https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [深閨 feat\. Kelly Chen 陳慧琳](https://open.spotify.com/album/3OSRx8acDQauCZ3ef1SbBo) | 4:22 | 2024-06-13 | 2024-11-03 |
 | [漸漸我們](https://open.spotify.com/track/4CMTigUypmopzPdO3a8h0D) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [漸漸我們](https://open.spotify.com/album/1urrWCvkMQkFgKCrUFRUx9) | 4:21 | 2024-08-15 | 2025-01-28 |
@@ -1243,6 +1244,7 @@
 | [神愛世人 \- 合唱版](https://open.spotify.com/track/7fZMcJdrloGMKJiyDGG2mr) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB), [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [神愛世人 \(合唱版\)](https://open.spotify.com/album/2zXYGTqk6U1Z4WbvbuGGcj) | 3:59 | 2024-12-07 | 2024-12-09 |
 | [神的不在場證明](https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [神的不在場證明](https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD) | 4:32 | 2023-09-27 | 2024-03-31 |
 | [神隊友](https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [神隊友](https://open.spotify.com/album/5kvb0Qz63Spmtv4Yw58clb) | 3:01 | 2021-07-19 | 2022-11-09 |
+| [秋葉緣](https://open.spotify.com/track/6ezwlV61fxmjBHXsX7QBQZ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [秋葉緣](https://open.spotify.com/album/1Nd5YtwMgVXPIYjwu1mApe) | 3:04 | 2025-10-10 |  |
 | [空無之地](https://open.spotify.com/track/2DL4gdIataq0FWEreuh8LP) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [空無之地](https://open.spotify.com/album/3yyM5sZcSABXrfRSsANFdi) | 4:12 | 2025-08-22 | 2025-08-25 |
 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 | 2021-07-02 | 2021-11-16 |
 | [窮人的薔薇](https://open.spotify.com/track/0mOa18v5rXhg8CRTPQIe3u) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [窮人的薔薇](https://open.spotify.com/album/4F8549onRnd1d5tYwT8qmT) | 5:18 | 2023-01-13 | 2024-03-12 |

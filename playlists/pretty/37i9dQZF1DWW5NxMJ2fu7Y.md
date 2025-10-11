@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,719 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,757 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 15 | [Doberwoman](https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS) | 2:58 |
 | 16 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 |
 | 17 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 |
-| 18 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
-| 19 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 |
-| 20 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 |
+| 18 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 |
+| 19 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 20 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 |
 | 21 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 | 22 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
 | 23 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |

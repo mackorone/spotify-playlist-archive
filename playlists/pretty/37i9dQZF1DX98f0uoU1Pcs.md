@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,565 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,574 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 27 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 |
 | 28 | [Old Scratch Blues](https://open.spotify.com/track/5Vi4wnQLLs4zZSpnngTbEE) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:31 |
 | 29 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
-| 30 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC) | 3:50 |
-| 31 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 30 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 31 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC) | 3:50 |
 | 32 | [Man with Hands and Ankles Bound](https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:18 |
 | 33 | [Lifesaver](https://open.spotify.com/track/4CS1lpezkGnq1n29dxGYdv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [weirdthrob](https://open.spotify.com/album/00nDteGUHi1oH7xLb9txsD) | 5:04 |
 | 34 | [Ready To Go](https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [77 \(Pt\. 1\)](https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk) | 3:05 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 54 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 |
 | 55 | [Crashing Highs](https://open.spotify.com/track/7aeDHsVnCToDJIV5fLalnZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/1h98ixZPZWOAAp29e0cZoU) | 3:01 |
 | 56 | [Be A Big Girl](https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be A Big Girl](https://open.spotify.com/album/3M48990TSLoCplWuNssAAs) | 2:50 |
-| 57 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
-| 58 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
+| 57 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
+| 58 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 59 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 |
 | 60 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 61 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 63 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
 | 64 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 |
 | 65 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
-| 66 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
-| 67 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
+| 66 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
+| 67 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
 | 68 | [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 |
 | 69 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 | 70 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 76 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 |
 | 77 | [King](https://open.spotify.com/track/1zQvjaJSLOe4ApyRkrjnPW) | [Dikembe](https://open.spotify.com/artist/4VZU5Lb3hP2j1bOpZ2JdKi) | [King](https://open.spotify.com/album/0CMmcZsDgKLdxMJ1IqRA5h) | 3:41 |
 | 78 | [Used To Be Your Girlfriend](https://open.spotify.com/track/0GwLnJlGKzhNHF7SzQnvOg) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Used To Be Your Girlfriend](https://open.spotify.com/album/1DmjTFdOH7owc0tnL2Z0Tk) | 3:26 |
-| 79 | [Drawbacks](https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Drawbacks](https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp) | 4:08 |
-| 80 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |
+| 79 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |
+| 80 | [Drawbacks](https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Drawbacks](https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp) | 4:08 |
 | 81 | [Half Plastic](https://open.spotify.com/track/2XZPLnlSOXe3MRlUeVidFg) | [Ganser](https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE) | [Animal Hospital](https://open.spotify.com/album/2PuvBLMJmFLZsgmH7OviQm) | 2:51 |
 | 82 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
 | 83 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 89 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 90 | [Broadcast](https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Unreal](https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri) | 4:18 |
 | 91 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
-| 92 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
-| 93 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
+| 92 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
+| 93 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
 | 94 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 | 95 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
 | 96 | [Blue Kite](https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 6:11 |

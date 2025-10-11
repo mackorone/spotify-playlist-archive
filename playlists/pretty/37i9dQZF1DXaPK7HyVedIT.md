@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,771 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,870 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fake or Real](https://open.spotify.com/track/7teyMstIgVdA92qpoh8NOV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Fake or Real](https://open.spotify.com/album/566AkJJCDFDowXYySUxcs5) | 3:04 |
 | 2 | [Midnight Dancers](https://open.spotify.com/track/0N7zOoqZ3ggwplnLtaRvf4) | [Afonso Caravaggio](https://open.spotify.com/artist/5DlbjExugVUqa7ZTNMxsWx), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [The Caterings](https://open.spotify.com/artist/3pivpIiybXSIc1Zabp72Lb) | [Alcohol](https://open.spotify.com/album/50MTJgvO3s9vJeWMy4iEpU) | 5:08 |
 | 3 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 |
-| 4 | [Noises + Mochakk](https://open.spotify.com/track/5HJXM2QwgNVWRABiBn9rk9) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [](https://open.spotify.com/album/null) | 6:31 |
+| 4 | [Noises + Mochakk](https://open.spotify.com/track/5HJXM2QwgNVWRABiBn9rk9) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 6:31 |
 | 5 | [Acalma O Peito](https://open.spotify.com/track/0lzbbbYjoshWXMpLwwzmsp) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT), [Analu \(BR\)](https://open.spotify.com/artist/7eL1mVS0252oWwJTXb74EI) | [Acalma O Peito](https://open.spotify.com/album/3WeqVSazlxTMMmaoVNUDUo) | 3:56 |
 | 6 | [Escape the Reality](https://open.spotify.com/track/0pf7q3G9iDXoLeny4bGmSy) | [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN) | [Escape the Reality](https://open.spotify.com/album/2W0kyn2XsgnP9isFIyK5EF) | 3:24 |
 | 7 | [Dance In The Dark \- Rework](https://open.spotify.com/track/22D1AudKTwzeG4boHAWztD) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Reworks, Vol\. 1](https://open.spotify.com/album/5ZglwVuk04JOxy3kPbqpJH) | 5:22 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 18 | [The Future](https://open.spotify.com/track/4x5L7DSgqbXGqsH9E6z4oj) | [KASINO](https://open.spotify.com/artist/3YgQf7LVQtRKQAuCZuZv3M) | [The Future](https://open.spotify.com/album/5fkIvGjRIyohLX90ftsimB) | 2:49 |
 | 19 | [Te Quiero \(Jade\)](https://open.spotify.com/track/6l5mFr90VRhjAWkfRZruZK) | [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Te Quiero \(Jade\)](https://open.spotify.com/album/0Oo86aS9DO20McMBrxwUN0) | 3:20 |
 | 20 | [F.R.E.A.K.Y](https://open.spotify.com/track/0To5G039l2KjdA7F2dBKCI) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [LOOP THEORY](https://open.spotify.com/album/6MgV1t2vabAgRgD4Asdlwe) | 2:48 |
-| 21 | [Stars + DJ Caio Prince + Adame DJ](https://open.spotify.com/track/42vnMLzLaaTmHE2wiHS8ta) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [DJ Caio Prince](https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM), [Adame DJ](https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy) | [](https://open.spotify.com/album/null) | 2:47 |
+| 21 | [Stars + DJ Caio Prince + Adame DJ](https://open.spotify.com/track/42vnMLzLaaTmHE2wiHS8ta) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [DJ Caio Prince](https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM), [Adame DJ](https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:47 |
 | 22 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 |
 | 23 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 |
 | 24 | [Missed Call](https://open.spotify.com/track/1Hf7IrRd4vpfARg7iCIorY) | [Zatto](https://open.spotify.com/artist/7FPd0OFezqEvp5L0FJtcHN), [Chemical Disco](https://open.spotify.com/artist/4maPOgU5vs4qwlVrd5Q5Ha) | [Missed Call](https://open.spotify.com/album/7dsbBBWNAGq0MM0wlUAxi5) | 3:34 |

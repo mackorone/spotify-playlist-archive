@@ -8561,6 +8561,36 @@
     },
     {
       "album": {
+        "name": "DISIMULA",
+        "url": "https://open.spotify.com/album/6MqIEcfgmzFJ9kwfBmXyqm"
+      },
+      "artists": [
+        {
+          "name": "BASSYY",
+          "url": "https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b"
+        },
+        {
+          "name": "YOSE",
+          "url": "https://open.spotify.com/artist/2Xs2Rk0gfiJezccRO0zQFL"
+        },
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Mvchoo23",
+          "url": "https://open.spotify.com/artist/7qVTIQYjCnpu6ohojfpf3t"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205048,
+      "name": "DISIMULA",
+      "url": "https://open.spotify.com/track/4vkPlCLqt5rjfS1qhCcr51"
+    },
+    {
+      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
       },
@@ -8666,7 +8696,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 214376,
       "name": "DON",
       "url": "https://open.spotify.com/track/1EUfTmQQ4cdhRXrqrfdIo8"
@@ -16099,6 +16129,28 @@
     },
     {
       "album": {
+        "name": "LA DESPEDIDA DE FREED",
+        "url": "https://open.spotify.com/album/1Yl4fPyCzIgeZMBeywQjrX"
+      },
+      "artists": [
+        {
+          "name": "Franco Giugno",
+          "url": "https://open.spotify.com/artist/3DUJLgWQuLPshquQMIxFhx"
+        },
+        {
+          "name": "Pollo Ramos",
+          "url": "https://open.spotify.com/artist/2HqOx2uXFhno4euEfCnlu6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103095,
+      "name": "LA DESPEDIDA DE FREED",
+      "url": "https://open.spotify.com/track/4iM5RtPKbDB6ikeFjHZMR3"
+    },
+    {
+      "album": {
         "name": "La Despedida Vs Freed From Desire (Tech Remix)",
         "url": "https://open.spotify.com/album/0MlnQVAYl0QDDIofeAUtb6"
       },
@@ -16698,7 +16750,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 168810,
       "name": "La Tale\u00f1ita",
       "url": "https://open.spotify.com/track/7dZ7YMXiKcwApzGZFnvrmY"
@@ -31595,6 +31647,28 @@
     },
     {
       "album": {
+        "name": "Te Lo Doy (Remix)",
+        "url": "https://open.spotify.com/album/1p0JT3sW1hHskib8BC9lER"
+      },
+      "artists": [
+        {
+          "name": "Pollo Ramos",
+          "url": "https://open.spotify.com/artist/3nH3DJG26vvE6iupQtbjys"
+        },
+        {
+          "name": "Matias Arena",
+          "url": "https://open.spotify.com/artist/3DWEr6cNp88qDtfvAYrhvL"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140087,
+      "name": "Te Lo Doy - Remix",
+      "url": "https://open.spotify.com/track/7cRSsZ2iM0AtWSPPYu1LZy"
+    },
+    {
+      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -33648,7 +33722,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 99893,
       "name": "Tumedice <3 (salas)",
       "url": "https://open.spotify.com/track/4KDZa2tzUhSSzAmbaQPcIS"
@@ -35436,7 +35510,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -36830,7 +36904,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "ZUM ZUM ZUM",
       "url": "https://open.spotify.com/track/7E8j4HhfIWbwLsspjHlR6R"

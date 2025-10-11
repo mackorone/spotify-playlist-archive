@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-375 songs - 20 hr 14 min
+376 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Airplane](https://open.spotify.com/track/45GRs2YmGzTKp2MmafqCjG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:34 | 2022-03-18 |  |
 | [Airplane](https://open.spotify.com/track/74nVZpjqAjZvuOWmu3I6o5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:34 | 2022-03-18 | 2024-04-19 |
 | [Alien \(HAN\)](https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:19 | 2022-12-21 |  |
+| [All I Want Is You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Would You Marry Me?, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC) | 3:12 | 2025-10-10 |  |
 | [ALL IN](https://open.spotify.com/track/1bIbXKrXRxfNh1l9a9lN2Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/4A9lWTDR5cObUYfO2IzK8c) | 3:07 | 2022-03-18 |  |
 | [ALL IN \(Korean Ver.\)](https://open.spotify.com/track/3bT5zY5OCspnWmGU8TbxGi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN \(Korean Ver.\)](https://open.spotify.com/album/5oBnkeTJ8LqIPhvA2MMFQU) | 3:04 | 2022-03-18 | 2024-04-19 |
 | [ALL IN \(Korean Ver.\)](https://open.spotify.com/track/6MNO35c8EUdXs1Zs4gD974) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN \(Korean Ver.\)](https://open.spotify.com/album/37vY3scs4ymxAWDoMIUUT5) | 3:04 | 2022-03-18 |  |

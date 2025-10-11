@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Cocaine & Lexapro / Berlin",
+        "url": "https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        },
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186135,
+      "name": "Berlin (feat. Tigers Jaw)",
+      "url": "https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N"
+    },
+    {
+      "album": {
         "name": "Tigers Jaw",
         "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },

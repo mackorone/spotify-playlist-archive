@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,805 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,816 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 27 | [Willem](https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1) | [Willem Duyn](https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c) | [Wat Maakt Dat Nou Uit](https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R) | 3:34 |
 | 28 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
 | 29 | [De Liefde Van De Man Gaat Door De Maag \(Worstjes Op M'n Borstjes\)](https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 3:20 |
-| 30 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
-| 31 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
+| 30 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
+| 31 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
 | 32 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
 | 33 | [Ik Zie Een Ster](https://open.spotify.com/track/36ZnMUDoSrGUV8moDcilOF) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 2:56 |
 | 34 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 50 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
 | 51 | [Vrede](https://open.spotify.com/track/0qBq2UVJI7sK0GUUWxFq5U) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Ben Cramer](https://open.spotify.com/album/3GwA2mE5gogR1bXJP9EVvf) | 2:56 |
 | 52 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
-| 53 | [Johanna](https://open.spotify.com/track/4oHur64TnY5PQF68POh7F0) | [Henk Elsink](https://open.spotify.com/artist/7peMTGosIMq2ZGgWLmAuQW), [Hugh Den Ouden](https://open.spotify.com/artist/5EfEtw0gEFfuiCQRbDFOr5) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 5:58 |
-| 54 | [Wacht Op Mij, Mona Lisa](https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S) | [Het Radi Ensemble](https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd) | [Het Beste van Het Radi Ensemble](https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh) | 3:13 |
+| 53 | [Wacht Op Mij, Mona Lisa](https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S) | [Het Radi Ensemble](https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd) | [Het Beste van Het Radi Ensemble](https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh) | 3:13 |
+| 54 | [Johanna](https://open.spotify.com/track/4oHur64TnY5PQF68POh7F0) | [Henk Elsink](https://open.spotify.com/artist/7peMTGosIMq2ZGgWLmAuQW), [Hugh Den Ouden](https://open.spotify.com/artist/5EfEtw0gEFfuiCQRbDFOr5) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 5:58 |
 | 55 | [Veronica 538](https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq), [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [De Singles](https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2) | 4:55 |
 | 56 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
 | 57 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |

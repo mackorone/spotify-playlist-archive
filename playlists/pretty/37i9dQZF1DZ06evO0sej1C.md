@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,821 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,835 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 10 | [Borracha De Amor](https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr) | 3:39 |
 | 11 | [Click Clack](https://open.spotify.com/track/2eXJ0qw234K9GoVpCJtHTI) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5J6yw3q654jeHP8nrhuZvM) | 2:58 |
 | 12 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 |
-| 13 | [No Puedo Olvidarte](https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx) | 3:45 |
-| 14 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
+| 13 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
+| 14 | [No Puedo Olvidarte](https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx) | 3:45 |
 | 15 | [No Me Dijeron](https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Me Dijeron](https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb) | 3:07 |
 | 16 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
 | 17 | [Terremoto](https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa) | 3:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 45 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
 | 46 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
 | 47 | [Cheque En Blanco](https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Cheque En Blanco](https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8) | 2:47 |
-| 48 | [Tú](https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tú](https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA) | 2:58 |
-| 49 | [⁠ ⁠⁠La Luz](https://open.spotify.com/track/25pDTDC3mcCHVEXwNICGDQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Mañana Será Otro Día](https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS) | 3:33 |
+| 48 | [⁠ ⁠⁠La Luz](https://open.spotify.com/track/25pDTDC3mcCHVEXwNICGDQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Mañana Será Otro Día](https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS) | 3:33 |
+| 49 | [Tú](https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tú](https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA) | 2:58 |
 | 50 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
 
-Snapshot ID: `aOWpgAAAAAAyHW3b/aVPoEOmvPhDEW/8`
+Snapshot ID: `aOb7AAAAAACsvzMHeg6+adsOdG6tNzq0`

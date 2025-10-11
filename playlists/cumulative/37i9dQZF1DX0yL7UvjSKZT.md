@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: The Creekers
 
-508 songs - 1 day 7 hr 25 min
+512 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 | 2022-03-04 | 2025-02-15 |
 | [Kalamazoo](https://open.spotify.com/track/2UAlL898aPpEM265wnWV3Q) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [How It All Goes Down](https://open.spotify.com/album/0DhpnbqiSrzKDJ2Wk5MkHp) | 5:53 | 2021-10-01 | 2022-07-29 |
 | [Kalamazoo](https://open.spotify.com/track/5PJDK2nTkv1AETAh9LSXSL) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [How It All Goes Down](https://open.spotify.com/album/20bd13dm6VyvLpBh3vpuLH) | 5:53 | 2022-07-22 | 2023-06-03 |
+| [Kentucky Coal](https://open.spotify.com/track/0ZQ2fqJPZyav7YGdK0iTIg) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20), [Matt Heckler](https://open.spotify.com/artist/7MQnLNR8rK2hzQbFRPhlkE) | [Kentucky Coal / Cry You A River](https://open.spotify.com/album/54rgt7teDBsr0sv3l0vUcw) | 4:25 | 2025-10-10 |  |
 | [Kessler](https://open.spotify.com/track/08mJobF7P3KjQvEDgZ6uRq) | [Moonlight Mile](https://open.spotify.com/artist/7ax4yYo9LU1BlwOIama074) | [Kessler](https://open.spotify.com/album/4Uu2Wvme4SHshmWmQrYj0m) | 3:31 | 2023-11-24 | 2024-08-31 |
 | [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 | 2022-10-08 |
 | [Killjoy](https://open.spotify.com/track/6cBVVOLuuCWXh9H9Q47pYF) | [Sarah Gross](https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p) | [Killjoy](https://open.spotify.com/album/6CoCJcLjQnNvjYAv485Pec) | 3:57 | 2023-10-20 | 2025-02-15 |
@@ -369,6 +370,7 @@
 | [Sleepy Time](https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S) | [Hotspur Johnny](https://open.spotify.com/artist/0mqmWeOf4VWEOPNtDUsMx1) | [Hotspur Johnny](https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB) | 3:29 | 2023-08-11 |  |
 | [Small Town Scandal \(Bluegrass Version\)](https://open.spotify.com/track/48TliGToigYGdZiqKSrcMF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 4:00 | 2025-02-28 |  |
 | [Small Towns \(Are Smaller for Girls\)](https://open.spotify.com/track/5kOTn1SJ6cYZflxDX3ujaU) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc) | 3:05 | 2024-04-12 |  |
+| [Smell the Rose](https://open.spotify.com/track/2QfNlp82e742oe5HFyZhTG) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Smell the Rose](https://open.spotify.com/album/5eO2RJaMeBEmn4oCsFdnmx) | 4:01 | 2025-10-10 |  |
 | [Smoke](https://open.spotify.com/track/5phyocQUvFInRtHBHZLl8F) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [Smoke](https://open.spotify.com/album/5LK9FIIcTQ7mcNq9HoeSzL) | 3:02 | 2024-08-16 |  |
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2023-05-15 | 2024-04-19 |
 | [Smokin' Strings \(feat\. Billy Strings\)](https://open.spotify.com/track/14vh1j0LpAbxUgj3WBuGQd) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/34eGLPiujwVWqOY4y7ywMU) | 7:09 | 2024-04-12 | 2025-02-15 |
@@ -442,6 +444,7 @@
 | [The Tide](https://open.spotify.com/track/6rXDs0kr2sbSnGMjmHb4s4) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/70KRJLwEXK6ZDGecwM92xb) | 4:18 | 2023-12-15 | 2024-04-19 |
 | [The Unfinished Path](https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE) | [Jeff Picker](https://open.spotify.com/artist/3RrojqFzLBxlTfW6QQVtN1) | [The Unfinished Path](https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG) | 4:10 | 2022-10-07 | 2024-08-31 |
 | [The Wild Rover](https://open.spotify.com/track/7sOpVL4t47XZnP8k6KQuFL) | [JigJam](https://open.spotify.com/artist/24LC0mLoDVkqekpxeQczZP) | [The Wild Rover](https://open.spotify.com/album/1ulObVDgDeAgLz50qjgJvI) | 3:10 | 2024-07-13 | 2025-02-15 |
+| [The Wizard](https://open.spotify.com/track/6v9l9QG7fX9sLSp6TV15f2) | [Meels](https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq) | [The Wizard](https://open.spotify.com/album/2XLqAXUU15crZazgTfL2jJ) | 2:29 | 2025-10-10 |  |
 | [There is a Time](https://open.spotify.com/track/0pFM9wvRLxLnu8N0qoAFSr) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [There is a Time](https://open.spotify.com/album/6OJ9Y4NFTVi8H2FIN2bivG) | 3:45 | 2023-06-16 | 2025-02-15 |
 | [This Time, Last Week](https://open.spotify.com/track/7Hth94P5JfHnyKNRhhN7sH) | [Sprig of That](https://open.spotify.com/artist/53VgTWcTeCcxwCYDS7voMa) | [This Time, Last Week](https://open.spotify.com/album/5CH6yP1XBrLDhIyVvq73o9) | 4:41 | 2023-02-10 | 2024-03-09 |
 | [Three By Three](https://open.spotify.com/track/7xEQvXKOQepPgVbw9UV57M) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Three By Three](https://open.spotify.com/album/7dEkDi7U2MZXTV7a606fDM) | 3:50 | 2023-04-28 | 2024-02-24 |
@@ -458,6 +461,7 @@
 | [Tucson](https://open.spotify.com/track/2p9za39w0aVoLWGfVr7enK) | [St\. Beaufort](https://open.spotify.com/artist/0xzQcilTb96Drs3GMMKwVU) | [Tucson](https://open.spotify.com/album/48s7GtXLDRdarhXNmvzhT8) | 3:29 | 2022-04-01 | 2023-07-22 |
 | [Twilight Anesthesia](https://open.spotify.com/track/2AvqmzWt3qEkmrOs9vcG7V) | [Don Julin](https://open.spotify.com/artist/7fqbIY3YTlJvcXw1jmWb14) | [Twilight Anesthesia](https://open.spotify.com/album/7FblpfNbUrOSsNuNL5NUbA) | 4:03 | 2024-07-13 |  |
 | [Unhurried](https://open.spotify.com/track/0uGY93shNywFnDavxcuj53) | [Rachel Stevener](https://open.spotify.com/artist/6Pes4qkdbvkqjDpGv1W1zs) | [Unhurried](https://open.spotify.com/album/3NNNcR5XuIoETEEdvOzdRC) | 3:59 | 2021-12-03 | 2024-02-24 |
+| [Unknown Legend \(with The Travelin' McCourys\)](https://open.spotify.com/track/3iE5gZUcK2TQ7GpXoPskpl) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Unknown Legend \(with The Travelin' McCourys\)](https://open.spotify.com/album/1KCCQLwrwYfyZqUtuvgytg) | 3:28 | 2025-10-10 |  |
 | [Until Im Grey](https://open.spotify.com/track/3IdtVVOVZZMuVeDuMmfdxn) | [Brett Gordon Lloyd](https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK) | [Until Im Grey](https://open.spotify.com/album/7DQZcGwFxkS1WmKI0H1NgW) | 4:32 | 2022-04-01 | 2022-07-29 |
 | [Until Im Grey](https://open.spotify.com/track/31wdXEGbC6aPycv8pid4BW) | [Brett Gordon Lloyd](https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK) | [Until Im Grey](https://open.spotify.com/album/0NjKBUQUzLqgaZunXHl0lg) | 4:32 | 2022-07-22 | 2022-10-01 |
 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 | 2021-10-01 | 2023-06-03 |

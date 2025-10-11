@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 70892,
+  "num_followers": 70930,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 274945,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "Where Are You?",
-      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "This Bitter Earth",
         "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 290119,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        },
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 227867,
-      "name": "Why Should I Care?",
-      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 270986,
       "name": "What Of Your Eyes",
       "url": "https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        },
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 227867,
+      "name": "Why Should I Care?",
+      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
+      },
+      "artists": [
+        {
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "In the Space Between Our Souls",
+        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Saga",
+          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
+        }
+      ],
+      "duration_ms": 413916,
+      "name": "In the Space Between Our Souls",
+      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/7nnqCmDX4RMB54ANQFXfu1"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 212866,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "In the Space Between Our Souls",
-        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Saga",
-          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
-        }
-      ],
-      "duration_ms": 413916,
-      "name": "In the Space Between Our Souls",
-      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "It Ends Now",
-        "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
-      },
-      "artists": [
-        {
-          "name": "Hannes Bennich",
-          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
-        },
-        {
-          "name": "Helen Salim",
-          "url": "https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI"
-        }
-      ],
-      "duration_ms": 363893,
-      "name": "It Ends Now",
-      "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 281480,
       "name": "By The Time I Get To Phoenix",
       "url": "https://open.spotify.com/track/5gOZnszNJ6dwPxkqsFrQoS"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "It Ends Now",
+        "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bennich",
+          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
+        },
+        {
+          "name": "Helen Salim",
+          "url": "https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI"
+        }
+      ],
+      "duration_ms": 363893,
+      "name": "It Ends Now",
+      "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Nice Work If You Can Get It",
-        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
-      },
-      "artists": [
-        {
-          "name": "Kristina Ray",
-          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "Nice Work If You Can Get It",
+        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Ray",
+          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 263452,
+      "name": "All in Love is Fair",
+      "url": "https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 275371,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "Clique",
-        "url": "https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 263452,
-      "name": "All in Love is Fair",
-      "url": "https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "April Fooled Me",
-        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "April Fooled Me",
-      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 253226,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "April Fooled Me",
+        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "April Fooled Me",
+      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Out Of The Dark \u2013 The Film Noir Project",
-        "url": "https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G"
-      },
-      "artists": [
-        {
-          "name": "Melissa Errico",
-          "url": "https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l"
-        }
-      ],
-      "duration_ms": 349238,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "Blue Toy",
         "url": "https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 211754,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/4s4tbZEEwajYebvutrSmcm"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "Out Of The Dark \u2013 The Film Noir Project",
+        "url": "https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G"
+      },
+      "artists": [
+        {
+          "name": "Melissa Errico",
+          "url": "https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l"
+        }
+      ],
+      "duration_ms": 349238,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N"
     },
     {
       "added_at": "2025-05-02 07:57:08",

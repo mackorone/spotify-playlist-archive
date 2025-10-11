@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Sexyy Red & Ros\u00e9",
+  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Cardi B",
   "name": "BBE",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 187107,
       "name": "2 Be Loved (Am I Ready)",
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+    },
+    {
+      "album": {
+        "name": "PLUTO WORLD",
+        "url": "https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168766,
+      "name": "2 Crash Outs (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/2sQGacYminlTtshdBM81sx"
     },
     {
       "album": {
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 141057,
       "name": "Fat Juicy & Wet",
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"

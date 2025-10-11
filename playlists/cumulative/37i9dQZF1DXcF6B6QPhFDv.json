@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: Upchuck",
+  "description": "Rock never dies. Cover: Turnstile",
   "name": "MARROW",
   "tracks": [
     {
@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Back Of My Hand",
+        "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206385,
+      "name": "Back Of My Hand",
+      "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
+    },
+    {
+      "album": {
         "name": "Backseat Banton",
         "url": "https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg"
       },
@@ -1516,6 +1534,28 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU"
+    },
+    {
+      "album": {
+        "name": "Beat A B!tch Up",
+        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Beat A B!tch Up",
+      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
     },
     {
       "album": {
@@ -1736,6 +1776,24 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
+    },
+    {
+      "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "BIRDS",
+      "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
     },
     {
       "album": {
@@ -2475,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148663,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
+    },
+    {
+      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -2846,7 +2922,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 180469,
       "name": "Cherry Picker",
       "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
@@ -7928,7 +8004,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 227156,
       "name": "In the Name of the Father",
       "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
@@ -13222,7 +13298,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 175693,
       "name": "Radioactive Dreams",
       "url": "https://open.spotify.com/track/4av7jI8GRkkmstLsviD63M"
@@ -18374,7 +18450,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 159160,
       "name": "Ur A Rat",
       "url": "https://open.spotify.com/track/63n0N10n1XYQTMCka3yqtE"

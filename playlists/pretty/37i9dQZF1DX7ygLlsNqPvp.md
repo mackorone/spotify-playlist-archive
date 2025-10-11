@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,753 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,787 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 6 | [AGYEIWAA](https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [AGYEIWAA](https://open.spotify.com/album/4dhGN9UWrhHHR0DhhxfZKo) | 3:31 |
 | 7 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 |
 | 8 | [OH HOW](https://open.spotify.com/track/0APdb44ONhoc4cEV5ZfLyu) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [OH HOW](https://open.spotify.com/album/66cyRHCZZYq6FkSh7YGmcF) | 3:08 |
-| 9 | [Track 8](https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [DND \(feat\. Sarkodie\)](https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 2:43 |
 | 10 | [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 |
 | 11 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
 | 12 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 |

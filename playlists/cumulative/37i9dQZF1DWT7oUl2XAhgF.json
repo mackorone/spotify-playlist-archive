@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 180996,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl"
@@ -6145,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "Never Love",
+        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210203,
+      "name": "Never Love",
+      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
+    },
+    {
+      "album": {
         "name": "No Longer Mine",
         "url": "https://open.spotify.com/album/6alneeeLcSYWZyu293RloI"
       },
@@ -7704,7 +7722,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 173112,
       "name": "Send It Back",
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
@@ -9228,6 +9246,28 @@
       "duration_ms": 197000,
       "name": "Tied To You",
       "url": "https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a"
+    },
+    {
+      "album": {
+        "name": "Tired of Missing You",
+        "url": "https://open.spotify.com/album/6Te4NGNMAiYFJNfeYEEeEq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        },
+        {
+          "name": "Jeremy Page",
+          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215880,
+      "name": "Tired of Missing You - Radio Edit",
+      "url": "https://open.spotify.com/track/0exhPe2ST90UidadzvLeiT"
     },
     {
       "album": {

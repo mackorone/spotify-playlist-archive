@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,580 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,584 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 43 | [Liên Khúc Mưa Nửa Đêm \- Ai Cho Tôi Tình Yêu](https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Nguyên Lê](https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:35 |
 | 44 | [Liên khúc Rừng lá thay chưa \- Xót xa](https://open.spotify.com/track/1NSLS4CGmu5TIfVHcmAbwd) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP), [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Kể Chuyện Trong Đêm \(The Best of Tuấn Vũ\)](https://open.spotify.com/album/3UJ08r34zlYbhqD8DpMAMP) | 5:11 |
 | 45 | [Đò chiều](https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi) | [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc), [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap) | [Trúc Phương \- Ông Hoàng Của Dòng Nhạc Bolero](https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx) | 5:05 |
-| 46 | [Chuyện hợp tan](https://open.spotify.com/track/2tgGVELrUJO3gH3ziP2yCx) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Thôi Thế Thì Chia Tay \(Asia 243\)](https://open.spotify.com/album/5wsEpJOncQKqXIPdVcRnDr) | 4:40 |
+| 46 | [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 |
 | 47 | [Tau Dem Nam Cu](https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 4:45 |
-| 48 | [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 |
+| 48 | [Chuyện hợp tan](https://open.spotify.com/track/2tgGVELrUJO3gH3ziP2yCx) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Thôi Thế Thì Chia Tay \(Asia 243\)](https://open.spotify.com/album/5wsEpJOncQKqXIPdVcRnDr) | 4:40 |
 | 49 | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 6:41 |
 | 50 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6GNpeqpRmnw1vd7Qwikxur) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:18 |
 

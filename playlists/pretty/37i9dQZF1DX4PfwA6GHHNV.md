@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,090 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,094 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 53 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
 | 54 | [Me Conta](https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Me Conta](https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs) | 3:16 |
 | 55 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |
-| 56 | [Quem Me Guia](https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq) | [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Quem Me Guia](https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq) | 2:29 |
-| 57 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
+| 56 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
+| 57 | [Quem Me Guia](https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq) | [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Quem Me Guia](https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq) | 2:29 |
 | 58 | [RELACIONAMENTO SOLO](https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80) | [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [6ta](https://open.spotify.com/artist/1gUxxusVwo7SHvLBVytGWj), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [RELACIONAMENTO SOLO](https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o) | 2:35 |
 | 59 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 60 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |

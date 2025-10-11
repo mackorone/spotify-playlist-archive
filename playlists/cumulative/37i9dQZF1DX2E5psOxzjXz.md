@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Zara Madani
+> Explore Pakistan's thriving independent scene 🔥 Cover: Hasan Raheem
 
-409 songs - 22 hr 34 min
+412 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aarzu](https://open.spotify.com/track/3RHLsLxErxhjH1zcJmyChw) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm) | [Aarzu](https://open.spotify.com/album/2tkM38XBxvUecZ518C5Fcl) | 2:17 | 2025-05-18 |  |
 | [Abhi Tak](https://open.spotify.com/track/1S6zgfG3t26ZdN96Omtlvd) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Abhi Tak](https://open.spotify.com/album/1N8LQYss19wZRoKUn6QINq) | 3:23 | 2025-10-03 |  |
 | [Ada](https://open.spotify.com/track/2RhOnBpaQ2kqxQiAy2uTmK) | [Alymdr](https://open.spotify.com/artist/5txRSR5ocSveUKY5iwltVD), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Ada](https://open.spotify.com/album/38y0FIgiIT380iEKyIJnud) | 2:31 | 2025-02-26 | 2025-09-10 |
+| [Adakaari](https://open.spotify.com/track/1ghcBmONc0nN8iKrCVizmg) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:50 | 2025-10-10 |  |
 | [Aik Wari](https://open.spotify.com/track/6ggtQbeuq1Um7z6SZkUJJf) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd) | [Aik Wari](https://open.spotify.com/album/1S9V8lyotEqXyVK0fNVOHU) | 2:40 | 2022-01-22 | 2023-04-09 |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2021-12-06 |  |
 | [Aisay Na Ho](https://open.spotify.com/track/4ghuW0zry2LLslvo0ebRZu) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Rao Hamza Hayat](https://open.spotify.com/artist/0YQJy2b0LcnIvrlinmh5Fs) | [Aisay Na Ho](https://open.spotify.com/album/1jSH5P3rJtckYwVrxv2BFK) | 3:12 | 2025-01-17 | 2025-02-27 |
@@ -259,6 +260,7 @@
 | [Nakhre](https://open.spotify.com/track/2hmg6kxG5C2SwaHb0mqqbt) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8), [Road Runner](https://open.spotify.com/artist/0lR8BD5lSNtTjQvggwyqE6), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Nakhre](https://open.spotify.com/album/6gL7uV8ikgeIX8TCV1oQjU) | 2:46 | 2023-11-02 | 2024-04-20 |
 | [Naraaz](https://open.spotify.com/track/5R5reIUDThok64YH1LAelH) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naraaz](https://open.spotify.com/album/42h4XY1DBc1sBM8mrvjqU0) | 3:40 | 2025-08-08 |  |
 | [Naraaz \- ft\. Fatima Khan, E.t Lone & Zahra Paracha](https://open.spotify.com/track/4GutOo3yby1CgYARF8WkVK) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Fatima Khan](https://open.spotify.com/artist/1by9q5I9gcwqYHX93a9WlD), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K), [E.t Lone](https://open.spotify.com/artist/3yLnzeXNaquKBMLBe4oSnK) | [Woh Hai Kahaan](https://open.spotify.com/album/02T1FufJa9tsuQy8MAxpKB) | 4:25 | 2021-12-06 | 2023-04-09 |
+| [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp), [Dharamveer Manglaani](https://open.spotify.com/artist/2Spk5c2VWJXkag2XVplVHg) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 | 2025-10-10 |  |
 | [Nazaaray](https://open.spotify.com/track/4jP0DfL4IVjBRK7gUHgfF1) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Nazaaray](https://open.spotify.com/album/6pjXTRX6j7AjHPv9NW610L) | 2:25 | 2025-05-01 | 2025-06-07 |
 | [Niyat\-e\-Shauq](https://open.spotify.com/track/0LqbNetpERqAwILDNpyuT9) | [Rehan Hashmi](https://open.spotify.com/artist/0a0uJilGKuNgp0gonbPDJS) | [Niyat\-e\-Shauq](https://open.spotify.com/album/0QhRcKn4DOqPavhyCHPYf9) | 4:25 | 2025-05-26 | 2025-06-30 |
 | [No Roses](https://open.spotify.com/track/5IGUQ0DfmXTp3kVJJxST5I) | [Big Mood](https://open.spotify.com/artist/49gX0zm1ncUuXsCz1Ug8u1), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW) | [No Roses](https://open.spotify.com/album/2rjTrNWnpYGVchCRKmoMF5) | 3:23 | 2021-12-06 | 2022-03-05 |
@@ -350,6 +352,7 @@
 | [Soul Jamming](https://open.spotify.com/track/3EiKsRlYzkI3IbnojcXeca) | [Waqas](https://open.spotify.com/artist/3bnpn31sQbuTzqdBscYqyL) | [Soul Jamming](https://open.spotify.com/album/3SyF9HHdvEm2jYgk2KvljG) | 2:36 | 2021-12-06 | 2022-06-17 |
 | [Soye Nahi](https://open.spotify.com/track/7Gb2D6V5xP5LAO5h5D9yQZ) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Mirande Shah](https://open.spotify.com/artist/6S0dJ9xk7KnOPgxYRjUycw) | [Bench \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Sx7jAkfJsvtAnLTjEEGQP) | 3:57 | 2021-12-06 | 2022-03-05 |
 | [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 | 2023-06-06 | 2023-08-01 |
+| [Stay Mine](https://open.spotify.com/track/5a0PL0Z6D99HftfFXzr8uW) | [Aleey Khan](https://open.spotify.com/artist/1HZ0mVN4XPkHe0dk8Vp4Ou), [Breath](https://open.spotify.com/artist/4QosHuU1pLZ6XGiK7XLhkH) | [Stay Mine](https://open.spotify.com/album/23IAHItiHEgf8viWKvfBkl) | 2:50 | 2025-10-10 |  |
 | [Stay With Me](https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Stay With Me](https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8) | 2:29 | 2024-08-09 | 2025-01-17 |
 | [Sub Theek Hai](https://open.spotify.com/track/2q0amZ8WgDGN7xBOBG7Dl6) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq) | [Sub Theek Hai](https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF) | 2:23 | 2024-02-16 | 2024-04-13 |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2022-11-30 |  |

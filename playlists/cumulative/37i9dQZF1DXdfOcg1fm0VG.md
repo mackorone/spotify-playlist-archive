@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-197 songs - 11 hr 16 min
+199 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Astro](https://open.spotify.com/track/54JLst9pXCA0BeBLcLe018) | [Kenneth C M Young](https://open.spotify.com/artist/0dGaEL3mjJlsHo0663gZjE) | [ASTRO BOT \(Original Soundtrack\)](https://open.spotify.com/album/0TrNstPaeRP0BI4Q5qCclZ) | 4:19 | 2024-10-07 | 2025-04-29 |
 | [Aurora](https://open.spotify.com/track/2jd20t5nkaFrEbTPJNXDzi) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 7:21 | 2021-12-15 |  |
 | [Awakening](https://open.spotify.com/track/5rH5Z27SXGNkSZ0L5WZRBz) | [Knut Avenstroup Haugen](https://open.spotify.com/artist/5tGhfbvLZoyaM8GwORmL2k), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Dune: Awakening \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi) | 1:36 | 2025-06-27 |  |
+| [Battlefield 6 Main Theme \- From "Battlefield 6"](https://open.spotify.com/track/5VleeWGSWkxdZ2tEZibpGs) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Battlefield 6 Main Theme \(From "Battlefield 6"\)](https://open.spotify.com/album/5ZHTmpz9ZAEb9DafmpcuIZ) | 4:10 | 2025-10-10 |  |
 | [Beyond the Dawn](https://open.spotify.com/track/2fSXpnPjqPuRfp1xxm4G3R) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz), [Tales of Series Sound Team](https://open.spotify.com/artist/7AkMAVMGgyXoVJel1lgVO4), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Tales of Arise \- Beyond the Dawn \(Original Game Soundtrack\)](https://open.spotify.com/album/1YQXfr59bJSE9bvdi4jy1m) | 1:37 | 2023-11-30 |  |
 | [Beyond the Dawn](https://open.spotify.com/track/1alyWxibSGkmwbwZYy9Hhe) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz), [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF ARISE \- Beyond the Dawn Original Soundtrack](https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY) | 1:37 | 2023-11-30 | 2024-04-19 |
 | [Bloodhunt Main Theme](https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf) | 2:57 | 2022-08-19 |  |
@@ -170,6 +171,7 @@
 | [The Fallen Brother](https://open.spotify.com/track/1Y0LhaqOcaUFxF3VBGD9Qy) | [Gerard Marino](https://open.spotify.com/artist/7xZsnJ0ry5xKWJg0AjP9rC) | [God of War: Ghost of Sparta \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5yN2kJh22LtZVn55wVMH7h) | 1:16 | 2024-10-07 | 2025-05-15 |
 | [The Final Battle](https://open.spotify.com/track/1nspl7hBhdl6W6GQzbn3V1) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Game Soundtrack\)](https://open.spotify.com/album/2gCFzRRO5acruR4y4QhIuI) | 4:58 | 2023-11-30 |  |
 | [The Final Battle](https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:58 | 2022-09-09 | 2024-04-19 |
+| [The Fine Art of Theft \- Original Game Soundtrack](https://open.spotify.com/track/3FS1epkZFMvA4N7mAEym92) | [Sea of Thieves](https://open.spotify.com/artist/5zbAdSKQiTetVoHnbHvsDg) | [The Fine Art of Theft \(Original Game Soundtrack\)](https://open.spotify.com/album/0iql0LiUHSstgQZH2Z3myg) | 2:00 | 2025-10-10 |  |
 | [The First Hunter](https://open.spotify.com/track/33eoaqosKfgXYHd6HyYmPh) | [SIE Sound Team](https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376) | [Bloodborne Original Soundtrack](https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL) | 5:11 | 2022-05-24 |  |
 | [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 | 2021-12-15 | 2022-04-20 |
 | [The Great Circle](https://open.spotify.com/track/4HhoYdEsI9r7eqTjOTkL08) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Indiana Jones and the Great Circle \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4JtrVfBk94Sc7fhuafVNQT) | 5:07 | 2025-07-29 |  |

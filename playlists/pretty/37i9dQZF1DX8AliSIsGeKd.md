@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Einmusik, Delta Vaults
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,448 likes - 90 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,722 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Back to Life](https://open.spotify.com/track/618FzUfSjLLq1Eo2JwRrjQ) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Delta Vaults](https://open.spotify.com/artist/0PDSaYCvDaf0LGdTr7BANU) | [](https://open.spotify.com/album/null) | 3:42 |
+| 1 | [Back to Life](https://open.spotify.com/track/618FzUfSjLLq1Eo2JwRrjQ) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Delta Vaults](https://open.spotify.com/artist/0PDSaYCvDaf0LGdTr7BANU) | [Back to Life](https://open.spotify.com/album/6eajHlYaTp76YHTkZoyIZF) | 3:42 |
 | 2 | [Shadowhunter](https://open.spotify.com/track/4tHn6QejaihmLyXMImG1Yw) | [AAD \(DE\)](https://open.spotify.com/artist/1iQt6buljlclV4Xgiyamfm), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Shadowhunter](https://open.spotify.com/album/19z7g312B1vbTbm9KMdSvH) | 3:48 |
 | 3 | [Keep On Dancing](https://open.spotify.com/track/4WhFTF15cdbBYZj3VYlRtx) | [SOLECO](https://open.spotify.com/artist/7JX7i8Tb9zle1j3Qm5Mb5w), [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq) | [Keep on Dancing](https://open.spotify.com/album/08Z9rCbKzd2OHSk82Dj7di) | 3:15 |
 | 4 | [One of Those Nights](https://open.spotify.com/track/05aHYi6IGXm9Bd8K48hY92) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [One of Those Nights](https://open.spotify.com/album/3eRVT870XZOgwnSSY6glpT) | 6:58 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 |
 | 10 | [Tunnel](https://open.spotify.com/track/1N3c8o6XsssPgC96skGswi) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Tunnel](https://open.spotify.com/album/1aisL5wadnb8YU8b8wwLaO) | 5:59 |
 | 11 | [Teardrop](https://open.spotify.com/track/5Va5bw06JZxkdhVBXnjo6X) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Teardrop](https://open.spotify.com/album/21Bmu3h6ta2AMaWnlQDEG0) | 3:11 |
-| 12 | [CRONITIS BOY](https://open.spotify.com/track/1aYNfc9R7AZuWvSqUO5TWt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [](https://open.spotify.com/album/null) | 4:10 |
+| 12 | [CRONITIS BOY](https://open.spotify.com/track/1aYNfc9R7AZuWvSqUO5TWt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [THE ESSENCE](https://open.spotify.com/album/0F4VMwBs6WyLR8YVyZysJp) | 4:10 |
 | 13 | [BOOM](https://open.spotify.com/track/21CxzoOcC0m38xpbAAWqMb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [John Cala](https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP) | [BOOM](https://open.spotify.com/album/5mUSCfo5iSpon9FYA1G0ZE) | 2:50 |
 | 14 | [Body Language \- Helsloot Remix](https://open.spotify.com/track/0WQTLlKKMFAY7CIX31PM1g) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Body Language \(Helsloot Remix\)](https://open.spotify.com/album/6B143VfkEusntn6ipu1Em5) | 3:28 |
 | 15 | [Disaster](https://open.spotify.com/track/1FYjPnjB3UIvYhqzu6GQ34) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Calypso](https://open.spotify.com/album/17AvOWY8xK0sCEaZr4GGH3) | 6:31 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 25 | [Just the Beginning](https://open.spotify.com/track/64RAxjqkZeJcSlWabCzCst) | [Diego Infanzon](https://open.spotify.com/artist/0FftQDGCw3QAW32UH6z4TA) | [Just the Beginning EP](https://open.spotify.com/album/4411r3vzG10JDEHXMX0lCH) | 4:04 |
 | 26 | [Surrender](https://open.spotify.com/track/0vw6eFkyf05ISsQ8Xqle9X) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Denis Naidanow](https://open.spotify.com/artist/6bpaXj4NWQQcITuNAxz2Hk) | [Surrender](https://open.spotify.com/album/4l3aJeSaAB2B2d22rJ7jP3) | 5:35 |
 | 27 | [Tease](https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [Tease](https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx) | 3:03 |
-| 28 | [My Vision](https://open.spotify.com/track/1YilvTg4IheM3Ai0AGldrN) | [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW) | [](https://open.spotify.com/album/null) | 3:21 |
+| 28 | [My Vision](https://open.spotify.com/track/1YilvTg4IheM3Ai0AGldrN) | [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW) | [My Vision](https://open.spotify.com/album/0kGqyOfyO9Lync7Mek9mSm) | 3:21 |
 | 29 | [Houdini](https://open.spotify.com/track/3z6qAZhh7Ej6vzCRsQR252) | [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0) | [Houdini](https://open.spotify.com/album/5fWMURDhgYk0DAuxEf7746) | 5:00 |
 | 30 | [Pink Elephant](https://open.spotify.com/track/1wY4jPCjS7BUxOhINroyUC) | [Always on Acid](https://open.spotify.com/artist/3hP6JTmI988Z4SKo66nwpp) | [Pink Elephant](https://open.spotify.com/album/5m5lzVumf48pMmEIGyR3Wf) | 4:52 |
 | 31 | [DREAMING ON](https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [DREAMING ON](https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN) | 3:50 |

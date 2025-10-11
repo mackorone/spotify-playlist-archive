@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Blas\u00e9",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 165680,
       "name": "A\u00efe a\u00efe a\u00efe",
       "url": "https://open.spotify.com/track/0nKbGOZWRHmgsEKo4tX6ZK"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 147907,
       "name": "Coups de soleil",
       "url": "https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX"
@@ -1502,6 +1502,24 @@
       "duration_ms": 193981,
       "name": "Docteur",
       "url": "https://open.spotify.com/track/5K39u8ZMvdLM0ca37Cig8S"
+    },
+    {
+      "album": {
+        "name": "Double d'amour",
+        "url": "https://open.spotify.com/album/23ixV4QI4HNkbR9yXC7b1i"
+      },
+      "artists": [
+        {
+          "name": "Sans Lactose",
+          "url": "https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167819,
+      "name": "Double d'amour",
+      "url": "https://open.spotify.com/track/4MV20WxnAF2PkykkQgvADb"
     },
     {
       "album": {
@@ -1819,6 +1837,46 @@
     },
     {
       "album": {
+        "name": "Fakdap",
+        "url": "https://open.spotify.com/album/5UF9JJt7dcJ7VXcYuZWdg5"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Fakdap",
+      "url": "https://open.spotify.com/track/6wDge0SaNwWR4FlLEfOxnM"
+    },
+    {
+      "album": {
+        "name": "Fallait pas nous inviter",
+        "url": "https://open.spotify.com/album/0A6uj8p3OaEdTQn5Uw68L0"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        },
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "Fallait pas nous inviter",
+      "url": "https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt"
+    },
+    {
+      "album": {
         "name": "Feet",
         "url": "https://open.spotify.com/album/67ng9BqYRD1F3Wo9QEYaTu"
       },
@@ -2050,6 +2108,24 @@
       "duration_ms": 160853,
       "name": "h4rdr0ck3r",
       "url": "https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t"
+    },
+    {
+      "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/2zuRI4MJgvQulgZUkdnwBJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/6yY37qebXqwV4IsgNn0ARw"
     },
     {
       "album": {
@@ -2551,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "JE NE SERAI JAMAIS.",
+        "url": "https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246186,
+      "name": "JE NE SERAI JAMAIS.",
+      "url": "https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK"
+    },
+    {
+      "album": {
         "name": "Je ne t'aime plus",
         "url": "https://open.spotify.com/album/3l1h7gTn3FrwUBIjwwpR6J"
       },
@@ -2854,7 +2948,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 148160,
       "name": "KLONBUSTER",
       "url": "https://open.spotify.com/track/5cFstIKnqoQjrjykhT4BlO"
@@ -3359,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "T\u00c7P\u00c7!",
+        "url": "https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "LES FRAMBOISES",
+      "url": "https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF"
+    },
+    {
+      "album": {
         "name": "Les gar\u00e7ons",
         "url": "https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK"
       },
@@ -3392,6 +3504,24 @@
       "duration_ms": 221493,
       "name": "Les gar\u00e7ons",
       "url": "https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6"
+    },
+    {
+      "album": {
+        "name": "Les gar\u00e7ons et les filles",
+        "url": "https://open.spotify.com/album/7rSK2XjJX1ShoiaBhhbNlk"
+      },
+      "artists": [
+        {
+          "name": "St Graal",
+          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Les gar\u00e7ons et les filles",
+      "url": "https://open.spotify.com/track/2QeDqkNlNlT3pVd8nAVyrE"
     },
     {
       "album": {
@@ -3568,7 +3698,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 242196,
       "name": "Maisons vides",
       "url": "https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB"
@@ -3824,7 +3954,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 133953,
       "name": "MOURIR POUR MIEUX RENAITRE",
       "url": "https://open.spotify.com/track/5Lg3qeO2tE4mgADlzDsn6t"
@@ -5706,7 +5836,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 165731,
       "name": "territoire perdu",
       "url": "https://open.spotify.com/track/2TEDJWogdPCJWfq6I8jNdW"
@@ -6358,7 +6488,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 218151,
       "name": "\u00e0 travers les buildings",
       "url": "https://open.spotify.com/track/30Vjkb3uguTKxSuXu9jVWb"

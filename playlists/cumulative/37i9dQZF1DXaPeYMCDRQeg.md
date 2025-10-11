@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-416 songs - 1 day 2 hr 16 min
+417 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [SMALL TOWN FAME](https://open.spotify.com/track/1YHQQFtKqFSFrqL4cNvstU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:28 | 2025-02-14 | 2025-05-03 |
 | [Smoke Break \(feat\. Future\)](https://open.spotify.com/track/1Uq3IOIy1CUlHUgP6vWpum) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:46 | 2024-06-15 | 2024-07-27 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-10 |  |
+| [So Good \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/0gONRJOWQweCnE5KaQkRnQ) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:46 | 2025-10-10 |  |
 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 | 2024-01-31 |  |
 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 | 2021-12-15 |  |
 | [Solid \(feat\. Blxst & Kehlani\)](https://open.spotify.com/track/1XhaUSmhANVIRtDvs7p2UP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:15 | 2024-12-17 | 2025-04-16 |

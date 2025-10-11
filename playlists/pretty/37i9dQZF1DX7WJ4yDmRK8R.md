@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Panteon Rococo en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,519 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,511 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 67 | [The Slash](https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [The Slash](https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr) | 4:01 |
 | 68 | [Im gonna come back to Brixton](https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Forever](https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF) | 4:20 |
 | 69 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 |
-| 70 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |
-| 71 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
+| 70 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
+| 71 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |
 | 72 | [Doormat](https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 2:25 |
 | 73 | [Ruby Cumulous](https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | [Gemini, Her Majesty](https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF) | 4:51 |
 | 74 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 79 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
 | 80 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 |
 | 81 | [Cold in the City](https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City](https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z) | 3:26 |
-| 82 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
-| 83 | [Losing Touch](https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp) | [Codename Colin](https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB) | [Escape from Everything](https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy) | 3:41 |
+| 82 | [Losing Touch](https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp) | [Codename Colin](https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB) | [Escape from Everything](https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy) | 3:41 |
+| 83 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
 | 84 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 85 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 86 | [Skinhead](https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Godfather Of Ska Anthology](https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp) | 4:40 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 89 | [Hello Again](https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA) | [South Central Skankers](https://open.spotify.com/artist/5aehZQpUqnfjIkjRogoRiq) | [Once Upon a Time](https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm) | 2:44 |
 | 90 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
 | 91 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
-| 92 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
-| 93 | [Fat Randy](https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:03 |
+| 92 | [Fat Randy](https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:03 |
+| 93 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
 | 94 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
 | 95 | [Desert Rose](https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Desert Rose](https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5) | 4:00 |
 | 96 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |

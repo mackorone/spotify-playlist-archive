@@ -2,9 +2,9 @@
 
 ### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
 
-> House music lives here\. United under one roof, featuring Honey Dijon
+> House music lives here\. United under one roof, featuring SIDEPIECE
 
-1,293 songs - 3 day 2 hr 36 min
+1,294 songs - 3 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-01-04 | 2025-09-20 |
 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-16 | 2023-07-08 |
 | [BAD FOR YOU](https://open.spotify.com/track/23YknLzYKxnC0OpWu5x64Z) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [BAD FOR YOU](https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H) | 2:22 | 2025-01-10 | 2025-05-26 |
-| [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 | 2025-05-30 |  |
+| [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 | 2025-05-30 | 2025-10-11 |
 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 | 2025-04-04 | 2025-09-03 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 | 2025-03-22 |
 | [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 | 2025-04-25 |  |
@@ -283,6 +283,7 @@
 | [Desire](https://open.spotify.com/track/49Rqh9WqG8DEYoEy7S9nCi) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Desire](https://open.spotify.com/album/3zQnkJeSzLCa0vrWCN9QgQ) | 3:00 | 2025-08-29 | 2025-08-31 |
 | [Devotion](https://open.spotify.com/track/5FTR583VgLzb56v5LVPCGS) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Devotion](https://open.spotify.com/album/0m2DXHBYLnTphwShdcaAt1) | 3:27 | 2021-03-27\* | 2021-04-10 |
 | [Die Hard](https://open.spotify.com/track/1wDrVNnmrB4S46lvJ3WXPK) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 4:25 | 2021-12-12 | 2022-07-28 |
+| [Diet Coke](https://open.spotify.com/track/2vKywwP4hnuJgUwAqDG8mJ) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/6uumoA4cGhqPScdve9d0Ml) | 2:35 | 2025-10-10 |  |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-10 | 2024-06-22 |
 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-06-06 |  |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-11-15 | 2025-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,929 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,935 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 7 | [Lifetime Lover](https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:50 |
 | 8 | [No Other Love](https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Monterey or Bust, Vol\. 2](https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM) | 3:13 |
 | 9 | [Every Little Thing \(feat\. Fiji\)](https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:38 |
-| 10 | [Let Me Love You](https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 3:28 |
+| 10 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 |
 | 11 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 |
-| 12 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 |
+| 12 | [Let Me Love You](https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 3:28 |
 | 13 | [Let's Get It On](https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Indigenous Life](https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2) | 3:47 |
 | 14 | [See Her Again](https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [See Her Again \- Single](https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV) | 3:09 |
 | 15 | [Here I Am \(with Fiji\)](https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:33 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 28 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
 | 29 | [Uma](https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Uma](https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg) | 3:22 |
 | 30 | [Long Way Home \(with J Boog & Iyaz\) \- Island Kartel Version](https://open.spotify.com/track/3z4QVE99lov7iwDzaBEFlV) | [DMP](https://open.spotify.com/artist/7pNbAaBrIRKErypLJiIrQ4), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Long Way Home \(with J Boog & Iyaz\) \[Island Kartel Version\]](https://open.spotify.com/album/1Ar612oi661zHzRbwL8jB4) | 3:42 |
-| 31 | [So Far Gone](https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:25 |
-| 32 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
+| 31 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
+| 32 | [So Far Gone](https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:25 |
 | 33 | [Coldest Zone](https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8) | [Bost & Bim](https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hustlin' Riddim](https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap) | 3:13 |
 | 34 | [Wana](https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Freddy Leone](https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih) | [Wana](https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc) | 3:58 |
-| 35 | [Police and Thieves](https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:37 |
-| 36 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
+| 35 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
+| 36 | [Police and Thieves](https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:37 |
 | 37 | [Hawaiian Pakalolo](https://open.spotify.com/track/33wJTyMde69nSAreVisHlk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:01 |
 | 38 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
 | 39 | [Raggamuffin](https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [CELEBRATION](https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [She Give Me Lovin'](https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:08 |
 | 50 | [Love's Close Around](https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:43 |
 
-Snapshot ID: `aOWpgAAAAABL8bfbeoQsNv7lrXsuIzyR`
+Snapshot ID: `aOb7AAAAAAA3i90YAYaAj9x30bXwFHKV`

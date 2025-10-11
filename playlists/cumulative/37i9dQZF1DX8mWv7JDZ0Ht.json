@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Mariana Nolasco",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Pe Lu, Magi",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -5148,6 +5148,24 @@
       "duration_ms": 145395,
       "name": "Doce - Ao Vivo",
       "url": "https://open.spotify.com/track/7ybk5hOq9uGrMMw3ICXzey"
+    },
+    {
+      "album": {
+        "name": "Doce Feito Caramelo",
+        "url": "https://open.spotify.com/album/5CsrNWDoLS1aD2EzQqJwll"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166390,
+      "name": "Doce Feito Caramelo",
+      "url": "https://open.spotify.com/track/1w8UpTJKWx6PD00ODGsqEb"
     },
     {
       "album": {
@@ -14230,7 +14248,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 240207,
       "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
       "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
@@ -15816,6 +15834,28 @@
       "duration_ms": 129600,
       "name": "vai e vem",
       "url": "https://open.spotify.com/track/1nuC5t3OBnMLZCmvzf7oxK"
+    },
+    {
+      "album": {
+        "name": "Vai que",
+        "url": "https://open.spotify.com/album/0RSAW1GYdgpW08YGovBkE6"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187222,
+      "name": "Vai que",
+      "url": "https://open.spotify.com/track/6g3nsZdsjyrsLNf1JdOf9x"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 43 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 43 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 42 | [Too Much](https://open.spotify.com/track/1dqav7nwo6Y7Vpx1ypHCOA) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:06 |
 | 43 | [fallin](https://open.spotify.com/track/7ioPcSn8Egs0zasmMlV75J) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [fallin](https://open.spotify.com/album/2DxAqjiMArz5OH7qCKrfVg) | 3:18 |
 
-Snapshot ID: `Ab+bsgAAAACRUgH6l5S5MXrC0xOPgwRC`
+Snapshot ID: `Ab+hZgAAAACNskgQl/tEO+w/aQjvOPHz`

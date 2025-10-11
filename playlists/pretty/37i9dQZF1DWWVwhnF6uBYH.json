@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 672412,
+  "num_followers": 672887,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
       "artists": [
         {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -367,22 +371,18 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
         }
       ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
-        "name": "Formula One",
-        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Formula One",
-      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
+        "name": "Formula One",
+        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Formula One",
+      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1299,6 +1299,26 @@
       "duration_ms": 153269,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
+        "name": "SANTAL 33",
+        "url": "https://open.spotify.com/album/0shplQLEuJb5ycfUS7Ngli"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 190303,
+      "name": "SANTAL 33",
+      "url": "https://open.spotify.com/track/3VpJtbVmm4GN0UIb4WqNF9"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -1323,26 +1343,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
-        "name": "SANTAL 33",
-        "url": "https://open.spotify.com/album/0shplQLEuJb5ycfUS7Ngli"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 190303,
-      "name": "SANTAL 33",
-      "url": "https://open.spotify.com/track/3VpJtbVmm4GN0UIb4WqNF9"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -1743,6 +1743,42 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
+        "name": "TRR TAC TAC",
+        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "TRR TAC TAC",
+      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 271859,
+      "name": "El AV",
+      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
         "name": "Mis Compas Vol. 1",
         "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
@@ -1759,6 +1795,22 @@
       "duration_ms": 177900,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
+        "name": "Cybertruck",
+        "url": "https://open.spotify.com/album/5r8Q3voOr2xmFGL3OQQoz7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 156288,
+      "name": "Cybertruck",
+      "url": "https://open.spotify.com/track/6BXkvfeSdmipX0jjx5785v"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -1783,58 +1835,6 @@
     {
       "added_at": "2025-09-12 00:21:14",
       "album": {
-        "name": "Cybertruck",
-        "url": "https://open.spotify.com/album/5r8Q3voOr2xmFGL3OQQoz7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 156288,
-      "name": "Cybertruck",
-      "url": "https://open.spotify.com/track/6BXkvfeSdmipX0jjx5785v"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 271859,
-      "name": "El AV",
-      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
-        "name": "TRR TAC TAC",
-        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "TRR TAC TAC",
-      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
         "name": "LA 701",
         "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
       },
@@ -1851,6 +1851,26 @@
       "duration_ms": 164482,
       "name": "LA 701",
       "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
+    },
+    {
+      "added_at": "2025-09-12 00:21:14",
+      "album": {
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2025-09-12 00:21:14",
@@ -1887,26 +1907,6 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
-    },
-    {
-      "added_at": "2025-09-12 00:21:14",
-      "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2025-09-12 00:21:14",

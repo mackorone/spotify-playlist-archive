@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-140 songs - 8 hr 30 min
+142 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2025-07-18 |  |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-07-18 |  |
 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 | 2025-07-25 | 2025-08-13 |
-| [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 |  |
+| [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 | 2025-10-11 |
 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 | 2025-07-18 |  |
 | [Caviar](https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Beat Tape III](https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot) | 2:33 | 2025-10-02 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
@@ -88,7 +88,7 @@
 | [Moonlit](https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Moonlit](https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC) | 3:41 | 2025-07-25 |  |
 | [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 | 2025-08-21 | 2025-08-23 |
 | [Move on Up](https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS) | [The Dynamics](https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn) | [Disco Reggae](https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx) | 4:52 | 2025-07-18 |  |
-| [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-21 |  |
+| [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-21 | 2025-10-11 |
 | [My Melody](https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [My Melody](https://open.spotify.com/album/37eHr1dawqnSS0BBLS7tfY) | 4:38 | 2025-09-25 |  |
 | [My Mind Is For Sale](https://open.spotify.com/track/4zohK59ouRruiqESaTcOZW) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:59 | 2025-07-18 | 2025-07-26 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-07-18 | 2025-07-26 |
@@ -108,6 +108,7 @@
 | [Save a Little Love for Me](https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Forward](https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC) | 3:32 | 2025-07-18 |  |
 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 | 2025-07-18 |  |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2025-07-18 |  |
+| [Silver Screens](https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Silver Screens](https://open.spotify.com/album/3OHp2k00Tx51yX33X2zyZw) | 3:21 | 2025-10-10 |  |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-07-18 | 2025-07-26 |
 | [So Be So Mine](https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [So Be So Mine](https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q) | 2:54 | 2025-09-25 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 | 2025-07-18 |  |
@@ -147,6 +148,7 @@
 | [Willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 | 2025-07-25 |  |
 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-07-18 |  |
 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 | 2025-07-18 |  |
+| [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-10 |  |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-07-18 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

@@ -6125,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218159,
+      "name": "Lohik\u00e4\u00e4rme",
+      "url": "https://open.spotify.com/track/1aYzlHJla01Kam316YVADh"
+    },
+    {
+      "album": {
         "name": "Lokki",
         "url": "https://open.spotify.com/album/3xLEdhF7cZ8FHYIwul0w0V"
       },
@@ -12601,24 +12619,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1aYzlHJla01Kam316YVADh"
-    },
-    {
-      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -13737,8 +13737,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Voiko enkelitkin eksy\u00e4",
+        "url": "https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N"
       },
       "artists": [
         {

@@ -3633,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Cry For You (2025)",
+        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Cry For You (2025)",
+      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
+    },
+    {
+      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -6764,7 +6782,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 215229,
       "name": "Give Me A Dub",
       "url": "https://open.spotify.com/track/6FkQzlk7Z5n6wcq1FCa3Cr"
@@ -14483,6 +14501,32 @@
     },
     {
       "album": {
+        "name": "Rome Is Burning",
+        "url": "https://open.spotify.com/album/1NLu2Z6RpN0eh7jAchy0tK"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        },
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231300,
+      "name": "Rome Is Burning",
+      "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
+    },
+    {
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -18346,7 +18390,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 209500,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/770l1fTtBNY6xqdUlkTJDW"

@@ -23,6 +23,64 @@
     },
     {
       "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105400,
+      "name": "+44",
+      "url": "https://open.spotify.com/track/3QLmHiMCBXMLmIRl6r9387"
+    },
+    {
+      "album": {
+        "name": "moo",
+        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179865,
+      "name": "17 more years",
+      "url": "https://open.spotify.com/track/4SufhLApaUrU9rrvWfWD5v"
+    },
+    {
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125074,
+      "name": "2 PEOPLE (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/03gFKrwfhi6SsO66tQKULE"
+    },
+    {
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/74VyEIWzUs1Nm838tlm9jq"
       },
@@ -72,6 +130,24 @@
       "duration_ms": 200933,
       "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
       "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
+    },
+    {
+      "album": {
+        "name": "Still Shinin",
+        "url": "https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140416,
+      "name": "act xiv: twerksongggg",
+      "url": "https://open.spotify.com/track/4ICz9E2PB4GE2RwkFBHlGj"
     },
     {
       "album": {
@@ -556,7 +632,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 143661,
       "name": "COLD",
       "url": "https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g"
@@ -1394,7 +1470,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 135459,
       "name": "JHOLIDAY",
       "url": "https://open.spotify.com/track/0shLGCfcai77W6i896MY1P"
@@ -2344,7 +2420,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 149707,
       "name": "Slizzy Flow",
       "url": "https://open.spotify.com/track/4bb24qJy1jwBwvHCe6bOyA"
@@ -2668,7 +2744,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 149306,
       "name": "The Method",
       "url": "https://open.spotify.com/track/34d0q4ltS3Lx6JAEHHKPRn"

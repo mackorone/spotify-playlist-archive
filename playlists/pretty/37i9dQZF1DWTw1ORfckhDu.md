@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,397 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,407 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
 | 2 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
 | 3 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
 | 4 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 |

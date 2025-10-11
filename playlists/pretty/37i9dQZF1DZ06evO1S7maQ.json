@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 653482,
+  "num_followers": 653533,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABVvAI+QogxBjkAZZxWx9Q1",
+  "snapshot_id": "aOb7AAAAAAAi8wGFtTuj7RcZyufuhimt",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, White and Jersey / Hollow Man (with Bruce Springsteen)",
-        "url": "https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0"
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
       "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 293219,
-      "name": "Hollow Man (with Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/4C4DYyYoCob3UwqCJAgg8f"
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+        "name": "Red, White and Jersey / Hollow Man (with Bruce Springsteen)",
+        "url": "https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0"
       },
       "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+      "duration_ms": 293219,
+      "name": "Hollow Man (with Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/4C4DYyYoCob3UwqCJAgg8f"
     },
     {
       "added_at": null,

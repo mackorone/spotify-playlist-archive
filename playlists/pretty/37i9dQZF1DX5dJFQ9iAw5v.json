@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33421,
+  "num_followers": 33418,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Acto 2",
+        "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
+      },
+      "artists": [
+        {
+          "name": "Fabio Cadore",
+          "url": "https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 353220,
+      "name": "Mi Elemento",
+      "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "L\u00fadico",
         "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
       },
@@ -359,26 +379,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Acto 2",
-        "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
-      },
-      "artists": [
-        {
-          "name": "Fabio Cadore",
-          "url": "https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 353220,
-      "name": "Mi Elemento",
-      "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 395117,
       "name": "Chacafrik",
       "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 220532,
-      "name": "Lago de Forma Mia",
-      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -439,22 +423,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
       "artists": [
         {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
         }
       ],
-      "duration_ms": 350062,
-      "name": "Last Happy Hour (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
+      "duration_ms": 220532,
+      "name": "Lago de Forma Mia",
+      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -471,6 +451,26 @@
       "duration_ms": 402265,
       "name": "Primavera Porte\u00f1a",
       "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+        }
+      ],
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -536,25 +552,9 @@
           "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
         }
       ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+      "duration_ms": 350062,
+      "name": "Last Happy Hour (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Danza",
         "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 280635,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "El Reino del Rev\u00e9s",
         "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 216099,
       "name": "El Reino del Rev\u00e9s",
       "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -983,6 +983,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Mezcalero",
+        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
+      },
+      "artists": [
+        {
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+        },
+        {
+          "name": "Mart\u00edn Telechanski",
+          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Mezcalero",
+      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
@@ -1015,22 +1035,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Mezcalero",
-        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
+        "name": "Milonga Del Fin Del Mundo",
+        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
       },
       "artists": [
         {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        },
-        {
-          "name": "Mart\u00edn Telechanski",
-          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Mezcalero",
-      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
+      "duration_ms": 324720,
+      "name": "Milonga Del Fin Del Mundo",
+      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1107,38 +1123,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Milonga Del Fin Del Mundo",
-        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 324720,
-      "name": "Milonga Del Fin Del Mundo",
-      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
-      },
-      "artists": [
-        {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "En el fondo del mar",
         "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 286373,
       "name": "Titi",
       "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+      },
+      "artists": [
+        {
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 405604,
-      "name": "La Novena",
-      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Minimal",
         "url": "https://open.spotify.com/album/5ivhkDkDIU3jwZYuNTuDxL"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 395600,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/4Y37i8v2MD4mxRcaM28fti"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 405604,
+      "name": "La Novena",
+      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Sexto VI",
-        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
+        "name": "Un Rezo",
+        "url": "https://open.spotify.com/album/74E3AY31laalZd0YeWS8OE"
       },
       "artists": [
         {
@@ -1416,13 +1416,13 @@
           "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
         },
         {
-          "name": "Valentin Reiners",
-          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
+          "name": "Facundo Ferreira",
+          "url": "https://open.spotify.com/artist/2xDy01Qvws5b7M7iAEYkLH"
         }
       ],
-      "duration_ms": 193711,
-      "name": "Dos Verdades en Una Botella",
-      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
+      "duration_ms": 120327,
+      "name": "Diez Fotos Viejas-Pieza 1",
+      "url": "https://open.spotify.com/track/1np704HUCoilDckrl6dqUa"
     }
   ],
   "unique_name": "Jazz Argentino",

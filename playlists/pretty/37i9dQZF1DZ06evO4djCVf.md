@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,523 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,537 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 40 | [Voor Het Leven Voor Elkaar \- Uit Liefde Voor Muziek](https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:53 |
 | 41 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 
-Snapshot ID: `aOWpgAAAAAAWPNd0XamXCHOsR0eKjDwy`
+Snapshot ID: `aOb7AAAAAACIKZQWQAlMt11Kj07Yfcam`

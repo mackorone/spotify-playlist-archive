@@ -1507,6 +1507,40 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/74HNHfB066STy568ETJsPl"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113230,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
+    },
+    {
+      "album": {
         "name": "The Drifters Girl (World Premiere Cast, recorded at Abbey Road Studios)",
         "url": "https://open.spotify.com/album/2N0o5p3a8dD9sn51IVJI3O"
       },
@@ -2416,7 +2450,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 175113,
       "name": "Loser, Baby",
       "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"

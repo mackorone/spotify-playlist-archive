@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: Aerosmith & YUNGBLUD
 
-475 songs - 1 day 3 hr 44 min
+475 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 | 2025-03-20 | 2025-05-30 |
 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 | 2025-08-14 |  |
 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 | 2024-10-03 | 2025-03-21 |
+| [Higher](https://open.spotify.com/track/6PSOiV7Kb6x9MXSCnjExjk) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Longing](https://open.spotify.com/album/4MDM4dRocyfz1ufgaslgYK) | 3:10 | 2025-10-09 |  |
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-06-20 | 2024-11-15 |
 | [Hold Onto Me](https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Hold Onto Me](https://open.spotify.com/album/5uCj1UeRtqhqk5fQ4UHhyV) | 3:09 | 2025-09-11 |  |
 | [Holding On](https://open.spotify.com/track/6b1rteUzofKjQVnPN3Lv6N) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Holding On](https://open.spotify.com/album/4QtFGNKcYlWPqlN9uYz7A4) | 3:37 | 2024-06-27 | 2024-08-16 |
@@ -434,7 +435,6 @@
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-22 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-11-15 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-10-02 |  |
-| [Track 5](https://open.spotify.com/track/6PSOiV7Kb6x9MXSCnjExjk) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 | 2025-09-25 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-17 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-23 | 2024-10-11 |

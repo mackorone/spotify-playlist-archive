@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-124 songs - 5 hr 56 min
+125 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cruella De Vil \- Original Version](https://open.spotify.com/track/0PQ8MsAxETdEW3LigpDujI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Disneymania 6](https://open.spotify.com/album/4wbsqx9AwCeNFzT3PjikMb) | 3:21 | 2022-10-07 |  |
 | [Disney Junior Trick or Treats \- From "Disney Junior Music: Trick or Treats"](https://open.spotify.com/track/4y7dTEcqzOdEQ34jL2ZT3p) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Trick or Treats \(From "Disney Junior Music: Trick or Treats"\)](https://open.spotify.com/album/01qOWAh3HwvcuRqUawzq78) | 2:32 | 2022-10-07 | 2023-09-23 |
 | [Evil \- From "Descendants: Wicked World"](https://open.spotify.com/track/3nTKwGHyLEqTirEft8iLnf) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Evil \(From "Descendants: Wicked World"\)](https://open.spotify.com/album/7slol9JmBa9l1qIenr4Kmg) | 2:53 | 2022-10-07 |  |
+| [Fangfoot Stomp](https://open.spotify.com/track/0Tu5K0m0s0g1kmUHqWZ5Ra) | [Kenzi Richardson](https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Vampirina: Teenage Vampire \(Original Soundtrack\)](https://open.spotify.com/album/3mjTGHbB3IkoetM7eVLoNO) | 2:06 | 2025-10-10 |  |
 | [Fired Up](https://open.spotify.com/track/4f6rhvJnkH35dl2nRzx1FV) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 3:32 | 2023-09-05 |  |
 | [Friends on the Other Side](https://open.spotify.com/track/14mNTV7rsvzkVfBmRepX1X) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 3:34 | 2022-10-07 |  |
 | [Game of Death \- From "Frankenweenie"/Score](https://open.spotify.com/track/6SCuftUwyxKG7OwfzHX5WO) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Frankenweenie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0dmu8w9avy1mol3wXyL4zg) | 2:20 | 2022-10-07 |  |

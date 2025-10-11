@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-709 songs - 1 day 18 hr 12 min
+710 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [Never Not Love You](https://open.spotify.com/track/1WteuqfEN6UvvD4xhUcjPN) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Never Not Love You](https://open.spotify.com/album/4NIJHKsSsCxgDXLjOL3ymb) | 3:20 | 2024-09-06 | 2025-03-15 |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2021-12-17 | 2022-01-08 |
-| [Not That Strong](https://open.spotify.com/track/6KXedLg5MW4iai1LfIpQ7l) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Not That Strong](https://open.spotify.com/album/0kamKN35wU4CLJGJCeOhhQ) | 3:34 | 2024-08-30 |  |
+| [Not That Strong](https://open.spotify.com/track/6KXedLg5MW4iai1LfIpQ7l) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Not That Strong](https://open.spotify.com/album/0kamKN35wU4CLJGJCeOhhQ) | 3:34 | 2024-08-30 | 2025-10-11 |
 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 | 2024-05-10 |  |
 | [Nothin' to Lose \(But the Lonely\)](https://open.spotify.com/track/3l8h1ZFp7HRYFEDnVvmJUC) | [Texwestus](https://open.spotify.com/artist/4DQpyVVZCzvcELZZR4jASN) | [Nothing to Lose](https://open.spotify.com/album/2fIeS90l8Ksy21cQ9l1yWc) | 3:44 | 2021-12-17 | 2022-07-14 |
 | [Nothing But Love Songs](https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Nothing But Love Songs](https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK) | 3:45 | 2022-07-29 | 2022-10-25 |
@@ -586,6 +586,7 @@
 | [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 | 2023-05-12 | 2023-07-01 |
 | [The Barn](https://open.spotify.com/track/6BDXxo7jytTFl9xNcT2OBs) | [Colby Lee Swift](https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49) | [The Barn](https://open.spotify.com/album/7rG5sX9pivGGmMow6FCgwC) | 3:48 | 2025-01-31 | 2025-03-21 |
 | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/track/45MoxFBIjAlirx31fIHn5m) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/album/79bCpLfoIWQe5PMsQSEpVf) | 3:23 | 2023-03-10 | 2023-06-17 |
+| [The Chair](https://open.spotify.com/track/5i74TSFhkAla3RRMiE7vuQ) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [The Chair](https://open.spotify.com/album/6r8XKL8A1fARjiXxcSifNm) | 2:50 | 2025-10-10 |  |
 | [The Difference](https://open.spotify.com/track/3uNWpnSPJzkQ1lUHeYj30d) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Everything Is Different](https://open.spotify.com/album/2EnjX1v8kTq3Nq07xyngpb) | 3:35 | 2023-05-26 | 2023-09-09 |
 | [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 | 2023-04-01 | 2024-05-18 |
 | [The Girl I Was](https://open.spotify.com/track/7gtrZllO63cTGVeFsy8da0) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/2T16hAVVFc1j9YzSjaBdcs) | 3:38 | 2023-12-15 | 2024-04-19 |

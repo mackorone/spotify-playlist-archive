@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,139 songs - 2 day 13 hr 20 min
+1,140 songs - 2 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Deewana](https://open.spotify.com/track/5z2FuFQrJ9xot9VGaJveS0) | [Erickk](https://open.spotify.com/artist/4qyIy5aNiSnuQRCNog8QYP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Deewana](https://open.spotify.com/album/3JdqmLK5m6yMVmiJa9WYrX) | 2:50 | 2022-02-10 | 2022-02-19 |
 | [Deewana](https://open.spotify.com/track/7pHbdBHrGCmGNibnTpvIeq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 3:13 | 2022-03-08 | 2022-04-06 |
 | [Deewana Tera](https://open.spotify.com/track/3mC4STcsop9M0ZPAeC02Y1) | [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM), [Sharry Nexus](https://open.spotify.com/artist/6IBgPtPR61L7ICdiuuT5EC) | [Deewana Tera](https://open.spotify.com/album/0S6JAaVDWXbcUVcxZ6UN5C) | 2:31 | 2025-03-09 | 2025-03-13 |
-| [Deewane](https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:26 | 2025-09-19 |  |
+| [Deewane](https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:26 | 2025-09-19 | 2025-10-11 |
 | [Deewane Ho Gaye](https://open.spotify.com/track/06WgWDkgJbC6IqViz5ogHg) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [First Draft](https://open.spotify.com/album/5d0bHiEe4CFci3cfkZQNCp) | 3:04 | 2022-09-21 | 2022-12-16 |
 | [Definitely \(Laazmi\)](https://open.spotify.com/track/6NYV682wtWwgb0QTsRTJ1F) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Definitely \(Laazmi\)](https://open.spotify.com/album/1JwCaeRWcDiRiCQTfEDgdS) | 2:35 | 2022-07-27 | 2022-08-18 |
 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 | 2024-05-15 | 2024-08-28 |
@@ -1123,6 +1123,7 @@
 | [WITH You](https://open.spotify.com/track/6f0bUz9NXrQ61Zj7mNutEN) | [DEV GILL](https://open.spotify.com/artist/6331JW7GefIgr9l5I5MTQa) | [WITH You](https://open.spotify.com/album/2HS0rhqXNMLejezBYGEKpR) | 3:30 | 2022-08-18 | 2022-09-01 |
 | [With You](https://open.spotify.com/track/2TgqSZcQ5TcLjY3RfDXToN) | [Jagga](https://open.spotify.com/artist/3TTFDy5p5Rteao6nYE3RFW) | [With You](https://open.spotify.com/album/5e5dx5c2zFUcwfggzQQdFr) | 2:02 | 2024-03-27 | 2024-06-01 |
 | [With You](https://open.spotify.com/track/4yITU6ac7XXzgvKyLAYGUR) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [With You](https://open.spotify.com/album/5Oy6JCgYwrlj1mkZzRtWfA) | 2:36 | 2022-07-13 | 2022-08-18 |
+| [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 | 2025-10-10 |  |
 | [Without U](https://open.spotify.com/track/0oEBeTmgy3hjMywboDf0RN) | [Ansh](https://open.spotify.com/artist/0oYzVP9t0bgLv5zCBrCTqJ), [Faraz](https://open.spotify.com/artist/5v97XScMyk02FNVZhHX2TR) | [Without U](https://open.spotify.com/album/2DInPZDP1R1ZTQh7iRA7TC) | 2:25 | 2022-12-15 | 2023-01-28 |
 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 | 2022-09-21 |  |
 | [Yaad \- From The Album "ikigai"](https://open.spotify.com/track/24fcOo0Mif4IoYAMx3bFp4) | [Harman Mann](https://open.spotify.com/artist/1XcqQJdOdlJjwNVKRMHUWu), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Yaad](https://open.spotify.com/album/2BwQgV96oAfQv9o8IJeLp6) | 2:26 | 2022-02-04 | 2022-02-12 |

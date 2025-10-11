@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Max Dean at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,765 likes - 108 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,847 likes - 108 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 |
-| 2 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects \(DJ Mix\)](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
+| 2 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
 | 3 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 |
 | 4 | [Euro Flow](https://open.spotify.com/track/0QgE29v3AaacwaB1OHRUYK) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Euro Flow](https://open.spotify.com/album/0696fKl0CDhd2LXLPtNMB8) | 3:05 |
 | 5 | [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 |

@@ -953,6 +953,32 @@
     },
     {
       "album": {
+        "name": "The Manifesto (feat. Trueno and Proof)",
+        "url": "https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439125,
+      "name": "The Manifesto (feat. Trueno and Proof)",
+      "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
+    },
+    {
+      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },

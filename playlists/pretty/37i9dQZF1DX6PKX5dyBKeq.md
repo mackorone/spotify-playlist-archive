@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Skepta, Finessekid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397,689 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397,722 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 15 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 16 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
 | 17 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
-| 18 | [GRIME 2.0](https://open.spotify.com/track/1OGK6i258hee6esLcnPeMK) | [Yizzy](https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Yisrael Parkins](https://open.spotify.com/artist/5HdEv2GoDhPZcs1kYjltrN) | [GRIME 2.0](https://open.spotify.com/album/7vlcu9jss42K2mzHTfBzU8) | 2:42 |
+| 18 | [GRIME 2.0](https://open.spotify.com/track/1OGK6i258hee6esLcnPeMK) | [Yizzy](https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [GRIME 2.0](https://open.spotify.com/album/7vlcu9jss42K2mzHTfBzU8) | 2:42 |
 | 19 | [They're called 110s](https://open.spotify.com/track/06b2WlXuMqfEj5TwQpo4Hy) | [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [They're called 110s](https://open.spotify.com/album/25PnSVScAJN9rUre0XUN2O) | 2:44 |
 | 20 | [1942](https://open.spotify.com/track/52kfQoyVkYz1advJIwgsWC) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [1942](https://open.spotify.com/album/4PP4Ch7eYmvU59hvw3KXyq) | 2:49 |
 | 21 | [No More Parties](https://open.spotify.com/track/6P8puAbUcThxrytcSreWMo) | [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [No More Parties](https://open.spotify.com/album/5L1mjP8PNBW7xQym5qjSWZ) | 2:30 |

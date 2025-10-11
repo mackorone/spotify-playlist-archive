@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "CLUB",
+        "url": "https://open.spotify.com/album/61rDCsfNSpkzliwuMA0Iox"
+      },
+      "artists": [
+        {
+          "name": "Lil Whigga",
+          "url": "https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "CLUB",
+      "url": "https://open.spotify.com/track/1W8JDElnuw1vXVCRfGjLF9"
+    },
+    {
+      "album": {
         "name": "El Hombre Hace Planes, Dios Se R\u00ede",
         "url": "https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP"
       },

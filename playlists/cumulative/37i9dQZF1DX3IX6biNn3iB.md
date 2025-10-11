@@ -4,7 +4,7 @@
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-62 songs - 3 hr 12 min
+64 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 | 2024-09-13 | 2025-10-09 |
 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 | 2024-09-13 |  |
 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 | 2025-09-25 |  |
+| [CENTROAMERICANA](https://open.spotify.com/track/4uXWstWV7YxeoG0kx1Axlr) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [CENTROAMERICANA](https://open.spotify.com/album/5kOrfCiHuYXveMaWRUWuiD) | 2:55 | 2025-10-10 |  |
 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-09-13 |  |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-09-13 |  |
 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-13 | 2025-09-16 |
@@ -40,6 +41,7 @@
 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/5FJBIe3cG4y9uUaIxuP4vH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:49 | 2024-09-13 |  |
 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 | 2024-09-13 |  |
 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 | 2024-09-13 |  |
+| [No Traigo Nada](https://open.spotify.com/track/1GgLqlcjGGK1T2uIs3HqHT) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Domingo \(Se Acabo\)](https://open.spotify.com/album/69dA624gWeHvJqQrMSdnF0) | 2:44 | 2025-10-10 |  |
 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 | 2024-09-13 | 2025-09-16 |
 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 | 2024-09-13 |  |
 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Sablo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 | 2024-09-13 |  |
@@ -48,12 +50,12 @@
 | [Para Ti](https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:09 | 2025-09-15 |  |
 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 | 2024-09-13 |  |
 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 | 2024-09-13 |  |
-| [Ponte Las Pilas](https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Ponte Las Pilas](https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg) | 2:52 | 2025-09-15 |  |
+| [Ponte Las Pilas](https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Ponte Las Pilas](https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg) | 2:52 | 2025-09-15 | 2025-10-11 |
 | [Que Sabía Yo](https://open.spotify.com/track/7cCNt7UqSaujQ1FgcJSBgU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Que Sabía Yo](https://open.spotify.com/album/5ACUZ50VXiQ5hvDpMtNMMn) | 2:49 | 2024-09-13 | 2025-09-29 |
 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 | 2024-10-02 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2024-09-13 |  |
 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 | 2024-09-13 | 2025-09-13 |
-| [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 | 2024-09-13 |  |
+| [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 | 2024-09-13 | 2025-10-11 |
 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 | 2024-09-13 |  |
 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 | 2024-09-13 |  |
 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 | 2024-09-13 |  |

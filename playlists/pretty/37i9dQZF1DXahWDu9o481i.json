@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Geese",
-  "num_followers": 44442,
+  "num_followers": 45306,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 178358,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Pvta Luna",
         "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 178358,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -243,26 +243,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "La Tirana",
-        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 244059,
-      "name": "La Tirana",
-      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "La Tirana",
+        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 244059,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Call For You",
-      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 248229,
       "name": "Husbands",
       "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
+        "name": "Dej\u00e1ndolo Pasar",
+        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 179112,
+      "name": "Dej\u00e1ndolo Pasar",
+      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
         "name": "Matches & Gasoline",
         "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Dej\u00e1ndolo Pasar",
-        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 179112,
-      "name": "Dej\u00e1ndolo Pasar",
-      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
+      "duration_ms": 214026,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -479,22 +495,6 @@
       "duration_ms": 226522,
       "name": "Burn The River",
       "url": "https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
         "name": "Uh Oh",
         "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+        "name": "INFANCIA MAL CALIBRADA",
+        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
       },
       "artists": [
         {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+      "duration_ms": 187605,
+      "name": "Quieres Autodestruirte Conmigo?",
+      "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -595,22 +611,6 @@
       "duration_ms": 269047,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
-        "name": "INFANCIA MAL CALIBRADA",
-        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "Quieres Autodestruirte Conmigo?",
-      "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Wolf Alice - Spotify Live Room",
-        "url": "https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 238729,
-      "name": "Play It Out (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Disco Life",
         "url": "https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 212459,
       "name": "Disco Life",
       "url": "https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "Wolf Alice - Spotify Live Room",
+        "url": "https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 238729,
+      "name": "Play It Out (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        }
-      ],
-      "duration_ms": 244781,
-      "name": "Exit Vendor",
-      "url": "https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "U-Turn",
         "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 206628,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        }
+      ],
+      "duration_ms": 244781,
+      "name": "Exit Vendor",
+      "url": "https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP"
     },
     {
       "added_at": "2025-09-30 19:00:25",

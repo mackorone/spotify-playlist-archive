@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Tanmaya Bhatnagar\n",
+  "description": "Hindi hai, Indie hai! Cover- When Chai Met Toast\n",
   "name": "hIndies",
   "tracks": [
     {
@@ -288,6 +288,24 @@
       "duration_ms": 222096,
       "name": "Baaraat",
       "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
+    },
+    {
+      "album": {
+        "name": "Baaton",
+        "url": "https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125231,
+      "name": "Baaton",
+      "url": "https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK"
     },
     {
       "album": {
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 195148,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6"

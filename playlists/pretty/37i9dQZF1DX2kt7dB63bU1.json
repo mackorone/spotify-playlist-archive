@@ -1,13 +1,33 @@
 {
   "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 161113,
+  "num_followers": 161132,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACL2zOyXqWI8N/dFZIlbqqoPYBJE",
+  "snapshot_id": "AAAAAEviNHk/YIzf5rBmFbh1iVUNeYqo",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:18",
+      "album": {
+        "name": "In The Slow Lane",
+        "url": "https://open.spotify.com/album/78BxuOxltovqhD0qXQhXkK"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 287620,
+      "name": "In The Slow Lane",
+      "url": "https://open.spotify.com/track/3WVpOydbLHu7ln6Bk2EQTd"
+    },
     {
       "added_at": "2025-10-03 04:00:38",
       "album": {
@@ -43,6 +63,34 @@
       "duration_ms": 260066,
       "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
       "url": "https://open.spotify.com/track/3szDBSwPivM4Q29HNwSTAO"
+    },
+    {
+      "added_at": "2025-10-10 04:00:18",
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/4m4PdoGeXSukoI50zUlbOu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 308082,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/5KFe3NMgHSHLGZ6bYhP7iE"
     },
     {
       "added_at": "2025-09-26 04:00:27",
@@ -697,38 +745,6 @@
       "url": "https://open.spotify.com/track/0k8gvD8Yob7fa2qSsamsFi"
     },
     {
-      "added_at": "2025-04-11 04:00:16",
-      "album": {
-        "name": "Flight",
-        "url": "https://open.spotify.com/album/7KAiZo7lUBRHLPa306jvoh"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 167953,
-      "name": "Flight",
-      "url": "https://open.spotify.com/track/2j3QZ7Zrdoq59PMUncaYI5"
-    },
-    {
       "added_at": "2025-04-25 04:00:40",
       "album": {
         "name": "Make It Another Old Fashioned, Please",
@@ -883,26 +899,6 @@
       "duration_ms": 175070,
       "name": "Cold Cold Rain",
       "url": "https://open.spotify.com/track/1YybV3nGg1XrwKoM2PN1Oy"
-    },
-    {
-      "added_at": "2025-02-28 05:00:30",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/5vaxC58sbSyUBcb2lIcJpL"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 442715,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/0yxvhBHYlnbswQtcO2gpY6"
     },
     {
       "added_at": "2025-01-10 05:00:08",

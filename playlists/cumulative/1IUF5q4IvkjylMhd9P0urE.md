@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-875 songs - 2 day 1 hr 57 min
+876 songs - 2 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,6 +846,7 @@
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2023-10-18 | 2023-12-08 |
 | [Warzone](https://open.spotify.com/track/7jp0r1LbhhmZOsaS4pC6Xa) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Londra](https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq) | 3:11 | 2024-12-09 | 2025-06-26 |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-09-16 | 2022-11-09 |
+| [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tyson](https://open.spotify.com/artist/7vgtFAsr1Cf9NX4qq64bVs) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 | 2025-10-10 |  |
 | [waterlily](https://open.spotify.com/track/3kgbM2ilSP8JxbHQDO8wwB) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [waterlily](https://open.spotify.com/album/25APX9pNrfSn5KpcCOtoFO) | 4:28 | 2023-01-18 | 2023-04-14 |
 | [WDYM](https://open.spotify.com/track/0MreAL2qbqIQfw5HqOjFvj) | [Wax](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Hunger or Greed](https://open.spotify.com/album/4Qi79Rj1PWS09nmO2X5Dl4) | 3:04 | 2022-09-16 | 2022-11-09 |
 | [WE ALL IN GOD’S PUM](https://open.spotify.com/track/6ZbzmrCnjz4U2e8HQrURWn) | [Brbko](https://open.spotify.com/artist/1RjSCvuRvWdXcsUMSVv5Tf) | [WE ALL IN GOD’S PUM](https://open.spotify.com/album/0YFWA4X5dJOld6hcxQQkz8) | 2:37 | 2025-06-25 |  |

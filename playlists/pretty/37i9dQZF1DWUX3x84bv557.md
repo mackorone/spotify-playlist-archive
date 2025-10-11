@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Froukje & S10
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,249 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,288 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 12 | [Ren Lenny Ren](https://open.spotify.com/track/2aqotKVn9O0Igy9DJFA5rU) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Aflevering 5 \- Acda en de Munnik\)](https://open.spotify.com/album/1Cpvv9jivG5mN8ro87NtmM) | 3:06 |
 | 13 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 |
 | 14 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
-| 15 | [Track 1](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [Basis](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Basis](https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R) | 2:54 |
 | 16 | [Niemand Kan Blijven](https://open.spotify.com/track/0mtgMC6QSzemU5fTImXU6R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Bente\)](https://open.spotify.com/album/2oR3Tc7y4IwkG7SgymbRUd) | 3:30 |
 | 17 | [Noodrem](https://open.spotify.com/track/5NM9cd1PYAg9tmMapkRDuz) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Noodrem](https://open.spotify.com/album/5wM4vPPqTJ51nUrOH4kLxu) | 3:27 |
 | 18 | [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 |

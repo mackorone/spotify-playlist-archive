@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: King Promise & Mr Eazi
 
-558 songs - 1 day 4 hr 48 min
+558 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,10 +508,10 @@
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-03 | 2025-08-30 |
 | [Tobinco](https://open.spotify.com/track/32FnB6UFAo9RC1DoP2KfDp) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Tobinco](https://open.spotify.com/album/03Oxk0R8ECMuzePW0kT4PT) | 3:00 | 2025-01-31 | 2025-07-25 |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-12 | 2023-09-15 |
+| [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 |  |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2024-11-08 |  |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-11-04 | 2023-08-18 |
-| [Track 13](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 | 2024-10-26 |
 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2024-02-03 |
 | [unconditional](https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Unconditional](https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX) | 2:51 | 2025-07-11 |  |

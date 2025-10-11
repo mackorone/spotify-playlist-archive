@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,665 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,688 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 41 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 |
 | 42 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
 
-Snapshot ID: `aOWpgAAAAAAkDty83iV6r1bjoBdewHCs`
+Snapshot ID: `aOb7AAAAAAA2Cl27p7fomOhBKy/Q8Avz`

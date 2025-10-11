@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 575837,
+  "num_followers": 575842,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-10-09 22:15:12",
       "album": {
-        "name": "evermore (deluxe version)",
-        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "it\u2019s time to go - bonus track",
-      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
-    },
-    {
-      "added_at": "2025-10-09 22:15:12",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2025-10-09 22:15:12",
+      "album": {
+        "name": "evermore (deluxe version)",
+        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "it\u2019s time to go - bonus track",
+      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
     },
     {
       "added_at": "2025-10-09 22:15:12",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-10-09 22:15:12",
       "album": {
-        "name": "I'm the One (Acoustic)",
-        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
-      },
-      "artists": [
-        {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "I'm the One - Acoustic",
-      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
-    },
-    {
-      "added_at": "2025-10-09 22:15:12",
-      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 216933,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2025-10-09 22:15:12",
+      "album": {
+        "name": "I'm the One (Acoustic)",
+        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
+      },
+      "artists": [
+        {
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "I'm the One - Acoustic",
+      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
     },
     {
       "added_at": "2025-10-09 22:15:12",

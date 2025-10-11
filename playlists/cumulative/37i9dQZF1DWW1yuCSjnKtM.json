@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Accept",
+        "url": "https://open.spotify.com/album/3101yyhhqSwOtf1qqXbh5Q"
+      },
+      "artists": [
+        {
+          "name": "Dead Calm",
+          "url": "https://open.spotify.com/artist/7yCgnDZZr7OOX8ynOixymX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/6yR4gnNVG4RZQjmouHNmb2"
+    },
+    {
+      "album": {
         "name": "The Singer & The Song",
         "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
       },
@@ -7545,6 +7563,28 @@
     },
     {
       "album": {
+        "name": "SWAT",
+        "url": "https://open.spotify.com/album/2dZ0APHp9odDMxKUTxIPQh"
+      },
+      "artists": [
+        {
+          "name": "overtonight throwaways",
+          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
+        },
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105437,
+      "name": "mirrors demo",
+      "url": "https://open.spotify.com/track/3LDEJgX75Dh0HzEDtQY7lv"
+    },
+    {
+      "album": {
         "name": "Miss Me Too",
         "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
       },
@@ -9888,7 +9928,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
@@ -12786,7 +12826,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 194093,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"

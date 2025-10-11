@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Great Lake Swimmers
 
-1,372 songs - 3 day 10 hr 38 min
+1,372 songs - 3 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 | 2025-09-04 |  |
 | [For the Sake of Comedy](https://open.spotify.com/track/7m34UcmXaQzdpOUl71WUsR) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [For the Sake of Comedy](https://open.spotify.com/album/3N3HmTL9LTCRHzB7T2rUKu) | 3:36 | 2023-03-10 | 2023-04-01 |
 | [For You](https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [For You](https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8) | 3:37 | 2024-02-23 | 2024-06-29 |
-| [For You To Come Around](https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [](https://open.spotify.com/album/null) | 3:50 | 2025-10-10 |  |
+| [For You To Come Around](https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Caught Light](https://open.spotify.com/album/0JnBkAx6y0lyBcJ8WSSzOI) | 3:50 | 2025-10-10 |  |
 | [For Your Love](https://open.spotify.com/track/1AxQ9u0qem2iAAZ4YO22MC) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [For Your Love](https://open.spotify.com/album/3cFKjTXNJSGL7TBQWenR4z) | 3:25 | 2025-08-01 | 2025-10-03 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 | 2024-06-29 |
 | [Forever Ain't Long Enough](https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving \(The Cost of Growing Up\)](https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c) | 3:13 | 2025-07-24 | 2025-09-19 |
@@ -513,6 +513,7 @@
 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 | 2025-04-04 | 2025-08-02 |
 | [Heavy Metal](https://open.spotify.com/track/2SZJnE7Nkpa8QAt1zaR3oN) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Heavy Metal](https://open.spotify.com/album/4G7yVSLs4kpHia3Sa8HoJB) | 3:55 | 2025-09-19 |  |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-05-13 | 2022-06-04 |
+| [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 | 2025-10-10 |  |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-13 | 2022-06-18 |
 | [Helium](https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/7tJSsud0MYEnWmD7fSd3BE) | 3:49 | 2023-02-10 | 2023-04-30 |
 | [Helium](https://open.spotify.com/track/2uvDjPwNsu94t8ATG0yia1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:49 | 2023-04-28 | 2023-07-15 |
@@ -694,7 +695,7 @@
 | [Light in Me](https://open.spotify.com/track/26a0XK6phpV2mCZ6LlMFFy) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Light in Me](https://open.spotify.com/album/7Dvwbd49vsYVL1oPezhsDp) | 2:52 | 2022-12-09 | 2023-05-06 |
 | [Lightning](https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Lightning](https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk) | 3:15 | 2023-07-14 | 2023-07-29 |
 | [Lights Fall](https://open.spotify.com/track/1yLaPtDfQCTIjk25yB6Ag5) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Lights Fall](https://open.spotify.com/album/0hhOLemQcGDMIY7RX63AwX) | 3:25 | 2023-01-20 | 2023-02-18 |
-| [Like Me](https://open.spotify.com/track/6P8IIwWWumTQxfSrY5Ybv7) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [](https://open.spotify.com/album/null) | 3:23 | 2025-10-10 |  |
+| [Like Me](https://open.spotify.com/track/6P8IIwWWumTQxfSrY5Ybv7) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Clumps](https://open.spotify.com/album/0U5U2xrZOzdw49udoA00xg) | 3:23 | 2025-10-10 |  |
 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 | 2025-08-15 | 2025-10-10 |
 | [linen sheets](https://open.spotify.com/track/3cH7orNQpFSkAGhKXCPAA4) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [linen sheets](https://open.spotify.com/album/7LUPvYPDvlj3fGzT5FQzNo) | 2:54 | 2023-02-03 | 2023-04-09 |
 | [Listen2me](https://open.spotify.com/track/1xdms5iZAK3cUGB4pSrU5y) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Listen2me](https://open.spotify.com/album/4GmCtWI0Qc8rO0dIJktM92) | 2:43 | 2025-03-28 | 2025-04-26 |
@@ -1234,7 +1235,6 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 | 2023-10-28 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 | 2023-09-09 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
-| [Track 6](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 | 2024-07-26 | 2025-01-18 |
 | [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |

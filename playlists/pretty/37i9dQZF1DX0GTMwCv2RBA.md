@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,421 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,420 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 197 | [Walking on Air](https://open.spotify.com/track/0MeIQlWZIDJeRlOgRuYJsU) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Superman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA) | 1:34 |
 | 198 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 4:06 |
 
-Snapshot ID: `AAAAAJDPbimOqAa3GijcgByUri3mf2rs`
+Snapshot ID: `AAAAAPsPF+cSMAPxbdVEID1SuUXiHvW+`

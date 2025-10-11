@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
@@ -3521,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh"
       },
@@ -6598,7 +6620,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 213341,
       "name": "Ipanema (Cafun\u00e9)",
       "url": "https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc"
@@ -7790,7 +7812,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
@@ -8044,6 +8066,24 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "album": {
@@ -9296,7 +9336,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
@@ -9798,7 +9838,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
@@ -9842,7 +9882,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 283137,
       "name": "Portion Control",
       "url": "https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa"
@@ -10598,7 +10638,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 177840,
       "name": "She Waits",
       "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
@@ -11732,7 +11772,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 246761,
       "name": "Summer Sweat",
       "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
@@ -12388,7 +12428,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 250085,
       "name": "Technicolor Dream",
       "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
@@ -13064,7 +13104,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"

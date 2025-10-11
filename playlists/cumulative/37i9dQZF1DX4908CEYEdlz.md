@@ -4,7 +4,7 @@
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Lamb of God
 
-386 songs - 23 hr 37 min
+387 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Necropolítica](https://open.spotify.com/track/2FZv8F3Ube9AuNLAKuQHEa) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [Necropolítica](https://open.spotify.com/album/4n4ekWzCySjCr6gWH0LJtR) | 2:31 | 2022-04-29 | 2022-05-07 |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/album/7C0499YNyKXYczyKagdhip) | 3:17 | 2022-02-18 | 2024-10-26 |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 | 2022-07-01 | 2024-04-19 |
+| [Never Fading Light](https://open.spotify.com/track/5aX1uAVmcZKp7Q2hfilmW4) | [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Never Fading Light](https://open.spotify.com/album/0mRChZDbdFBY6Fhba3PRQX) | 3:33 | 2025-10-10 |  |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-07-01 | 2022-08-27 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-07-29 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-21 | 2023-01-28 |

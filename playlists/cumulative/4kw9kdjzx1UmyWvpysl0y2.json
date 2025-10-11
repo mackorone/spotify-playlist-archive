@@ -14797,6 +14797,32 @@
     },
     {
       "album": {
+        "name": "Palm Of Your Hand",
+        "url": "https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Palm Of Your Hand",
+      "url": "https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK"
       },

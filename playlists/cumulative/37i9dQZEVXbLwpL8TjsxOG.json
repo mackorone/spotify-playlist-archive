@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "168.5 (feat. Billy Choi)",
+        "url": "https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        },
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149943,
+      "name": "168.5 (feat. Billy Choi)",
+      "url": "https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3"
+    },
+    {
+      "album": {
         "name": "1973 Trail (feat. Gigi Cheung) [Remix]",
         "url": "https://open.spotify.com/album/3znLBmeILQtq7RYZ6uGFIV"
       },
@@ -1268,7 +1290,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -22302,7 +22324,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 262105,
       "name": "\u6df1\u95a8",
       "url": "https://open.spotify.com/track/5ZzOLLmvp31DU4D5vsFA0u"
@@ -23276,6 +23298,24 @@
       "duration_ms": 181628,
       "name": "\u795e\u968a\u53cb",
       "url": "https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc"
+    },
+    {
+      "album": {
+        "name": "\u79cb\u8449\u7de3",
+        "url": "https://open.spotify.com/album/1Nd5YtwMgVXPIYjwu1mApe"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "\u79cb\u8449\u7de3",
+      "url": "https://open.spotify.com/track/6ezwlV61fxmjBHXsX7QBQZ"
     },
     {
       "album": {

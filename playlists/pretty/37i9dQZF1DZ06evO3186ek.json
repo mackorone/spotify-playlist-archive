@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 162386,
+  "num_followers": 162404,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADtqTP0uGHQHVJRSFSwX20E",
+  "snapshot_id": "aOb7AAAAAADk+XUGlMj5tpVoi43myxLs",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/0ByWNVCBtL6Kry8FCJNs07"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 150038,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0c28bKYkEvgSv2ykftbZVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Name of Jesus (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o"
       },
@@ -447,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/0ByWNVCBtL6Kry8FCJNs07"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 150038,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/0c28bKYkEvgSv2ykftbZVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need Help",
         "url": "https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2"
       },
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth)",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 509977,
+      "name": "Talking To Jesus (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     },
     {
       "added_at": null,
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+      "duration_ms": 515232,
+      "name": "Mercy (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
     },
     {
       "added_at": null,
@@ -756,37 +756,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 515232,
-      "name": "Mercy (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jubilee: Juneteenth Edition",
-        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 299509,
-      "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
-      "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
       "added_at": null,
@@ -811,6 +787,30 @@
       "duration_ms": 590857,
       "name": "God Problems (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 299509,
+      "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Majesty Rose",
+          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
+        }
+      ],
+      "duration_ms": 629316,
+      "name": "You Keep on Getting Better (feat. Majesty Rose)",
+      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 360451,
       "name": "Jireh (feat. Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Majesty Rose",
-          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
-        }
-      ],
-      "duration_ms": 629316,
-      "name": "You Keep on Getting Better (feat. Majesty Rose)",
-      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
     },
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -991,54 +1011,6 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 563067,
-      "name": "Take Me Back (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
-        }
-      ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
     },
     {
       "added_at": null,
@@ -1071,6 +1043,34 @@
       "duration_ms": 225768,
       "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
       "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Haloo Helsinki!
 
-769 songs - 1 day 14 hr 23 min
+769 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 | 2025-04-03 | 2025-04-25 |
 | [Likimain](https://open.spotify.com/track/06Och6N7wbkTVb5RbdAafl) | [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Likimain](https://open.spotify.com/album/1wQRmzwKNg6nDCnD0HjqPT) | 2:49 | 2024-09-19 | 2024-10-04 |
 | [Liukumäki \(feat\. HUGO\)](https://open.spotify.com/track/788uopZnSSWR0PvY4ozUSr) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Kippis](https://open.spotify.com/album/7fheOWyVoVXcazgxtTF6xr) | 3:14 | 2025-09-26 |  |
+| [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 | 2025-10-09 |  |
 | [Lokki](https://open.spotify.com/track/6Zv5jnFzy5HFBlURKwRkCv) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Lokki](https://open.spotify.com/album/3xLEdhF7cZ8FHYIwul0w0V) | 3:04 | 2025-06-12 | 2025-08-15 |
 | [Londinu](https://open.spotify.com/track/4P6xTWgQs9WLdgbKn5ROCl) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Londinu](https://open.spotify.com/album/7Jk5jF2sGCpkgIPsmD9Kxb) | 3:11 | 2025-02-06 | 2025-03-07 |
 | [Lootusasentoon \(feat\. Technicolour\)](https://open.spotify.com/track/3ws3Ex1CMBslURkPtz7ZxK) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Lootusasentoon \(feat\. Technicolour\)](https://open.spotify.com/album/0xqK23l3eRP7p3cyYRkCwb) | 2:29 | 2025-06-12 | 2025-06-27 |
@@ -656,7 +657,6 @@
 | [Tommi \(seksipommi\)](https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Tommi \(seksipommi\)](https://open.spotify.com/album/5I6OiKKrslEEJiEewYBN9G) | 2:24 | 2025-03-06 | 2025-06-13 |
 | [Torille \(Amanda\)](https://open.spotify.com/track/7BI1mKphWiIELK1izr31r0) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Antero Mertaranta](https://open.spotify.com/artist/7k2IjAXssqab7nw3oAR4IH) | [Torille \(Amanda\)](https://open.spotify.com/album/2cYtXm4hUWOnyPYZrPl635) | 3:14 | 2025-04-24 | 2025-05-09 |
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-26 |  |
-| [Track 3](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-27 |
@@ -714,7 +714,7 @@
 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 | 2025-03-27 | 2025-07-04 |
 | [Vapaus on suuri vankila \- Vain elämää kausi 16](https://open.spotify.com/track/55DSeUtrzQTXlBLCTdgWy3) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Vapaus on suuri vankila \(Vain elämää kausi 16\)](https://open.spotify.com/album/3a2NdIRAr6UDAwfCjitBhi) | 2:42 | 2025-09-26 | 2025-10-03 |
 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 | 2025-04-24 | 2025-06-13 |
-| [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [](https://open.spotify.com/album/null) | 4:06 | 2025-10-09 |  |
+| [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 | 2025-10-09 |  |
 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 | 2025-09-18 | 2025-10-10 |
 | [Velkaa](https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Velkaa](https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH) | 3:25 | 2024-07-02 | 2024-09-13 |
 | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/1JcLdVOMosBedEtjG2C4xx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/1sxFu3D0Ftmr5NPiKfVIzd) | 3:26 | 2025-04-24 | 2025-06-13 |

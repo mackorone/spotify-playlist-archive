@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,401 likes - 139 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,385 likes - 139 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 4 | [Fall in love](https://open.spotify.com/track/3UF5eebbLooD8OAKFqu1hO) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 2:47 |
 | 5 | [Mama](https://open.spotify.com/track/4ZxtZdrci2m0gODoRIbVzc) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Mama](https://open.spotify.com/album/4b6z4aF15XG89yRgmfkgcI) | 2:01 |
 | 6 | [Säkerhet](https://open.spotify.com/track/1oqftNDvC9Jyp7ieMER9Gk) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Säkerhet](https://open.spotify.com/album/7xVt3KOOuXTwrrulftN94u) | 2:02 |
-| 7 | [FÖRMÖGEN](https://open.spotify.com/track/489JZzt932PYur1NmiKO5k) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [FÖRMÖGEN](https://open.spotify.com/album/3JJAUJOKWY7kgr6hCCgZId) | 2:23 |
+| 7 | [FÖRMÖGEN](https://open.spotify.com/track/489JZzt932PYur1NmiKO5k) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri), [LOV3](https://open.spotify.com/artist/7D89Mv21KIr3aLpjjL87qc) | [FÖRMÖGEN](https://open.spotify.com/album/3JJAUJOKWY7kgr6hCCgZId) | 2:23 |
 | 8 | [Afterlove](https://open.spotify.com/track/5XaN8E7tWye1DLFd64sPPT) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 1:56 |
 | 9 | [Company](https://open.spotify.com/track/0I9cramjRY1fpCA4DMh7nO) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Company](https://open.spotify.com/album/2KZIwIytMJJS07thxsHtZw) | 2:24 |
 | 10 | [Like Me](https://open.spotify.com/track/5CUPWlYqRnEgC3h5a0qw3l) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Lélé](https://open.spotify.com/artist/71awvpNTodNScyQQYMELrl), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Like Me](https://open.spotify.com/album/1srvlevZZsU35tVwqTKst3) | 2:36 |

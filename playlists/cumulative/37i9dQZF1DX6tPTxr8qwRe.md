@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Eileen Alister
+> Dark, hard hitting pop\. Cover: SKAAR
 
-1,000 songs - 1 day 22 hr 9 min
+1,005 songs - 1 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-17 | 2023-08-19 |
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2022-04-08 | 2022-07-09 |
 | [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 | 2025-05-30 | 2025-08-16 |
+| [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-10 |  |
 | [beautiful girls \(get the ugliest world\)](https://open.spotify.com/track/1Uc5BvsiKVuuz0ArDutZTC) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [beautiful girls \(get the ugliest world\)](https://open.spotify.com/album/1KEZGBWPqUjUQPmuAwWaol) | 2:29 | 2024-08-23 | 2025-01-25 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-22 | 2022-11-19 |
 | [Bedroom](https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:53 | 2023-10-20 | 2023-11-11 |
@@ -261,6 +262,7 @@
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 | 2023-10-21 |
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 | 2023-07-29 |
 | [Double Yellow](https://open.spotify.com/track/62w0Jrsug4dvHCDlrsGTEs) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Double Yellow](https://open.spotify.com/album/0wvNBeErYuMsy9NcdVDJM5) | 2:44 | 2025-04-11 | 2025-07-19 |
+| [Drama At The Disco](https://open.spotify.com/track/45ozmsRUaG5TFVDRu5OFlY) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Drama At The Disco](https://open.spotify.com/album/5d3XKHPGdddWfI92v5H8Q7) | 3:27 | 2025-10-10 |  |
 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
@@ -561,6 +563,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-10-19 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 | 2025-06-27 |  |
+| [M.I.A](https://open.spotify.com/track/21XWPwkGwWKApy7ZulxyA8) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE ...THE FULL STORY](https://open.spotify.com/album/58CJbaeD01H30Zmn7JBJh4) | 2:25 | 2025-10-10 |  |
 | [made you cry](https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [made you cry](https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY) | 2:40 | 2025-04-11 | 2025-07-05 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-10-29 |
 | [MAGIC](https://open.spotify.com/track/4DtvQH0FFDHAqHrM8tTS5s) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER \(Deluxe\)](https://open.spotify.com/album/41KBxe5xPK4LvoivmxhP5T) | 3:33 | 2024-02-02 | 2024-04-27 |
@@ -584,6 +587,7 @@
 | [Mean Girls](https://open.spotify.com/track/2ZpBIOupyST17KoZB3A2FX) | [Caleigh](https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1) | [Mean Girls](https://open.spotify.com/album/65njqIK7i22Nx4ltLuJG9D) | 3:02 | 2024-01-05 | 2024-04-27 |
 | [Mean Girls](https://open.spotify.com/track/1ACbgqWv4OYTqd3BBYVLVF) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Mean Girls](https://open.spotify.com/album/0L0C2pdLE0gfdtXdivLbWd) | 2:21 | 2022-02-25 | 2022-05-20 |
 | [MEAT](https://open.spotify.com/track/4Fkff1QX26a62nDGv7LT7x) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [MEAT \(Feat\. Hey Violet\)](https://open.spotify.com/album/6qHHpIg6uPKdVcMCVBaTMb) | 2:26 | 2024-08-30 | 2025-01-25 |
+| [Medicine](https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Medicine](https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e) | 3:49 | 2025-10-10 |  |
 | [Megan Fox](https://open.spotify.com/track/3qboOCxreAR56KwFV8Zc7S) | [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Megan Fox](https://open.spotify.com/album/5aONnhSehA4r9V6BeCeC3C) | 2:04 | 2022-04-08 | 2022-05-07 |
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-09-23 | 2023-02-04 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-15 | 2022-10-08 |
@@ -946,6 +950,7 @@
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-21 | 2022-04-23 |
 | [Wasting Away](https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Wasting Away](https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g) | 2:44 | 2023-08-04 | 2023-09-09 |
 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 | 2023-04-21 | 2023-08-19 |
+| [Waterfalls](https://open.spotify.com/track/7uutv2dzY248zl2O2ngiie) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Waterfalls](https://open.spotify.com/album/79puQ9pjgehPNzZlHvTEqw) | 2:24 | 2025-10-10 |  |
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-04-29 | 2022-05-20 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-14 | 2022-03-18 |
 | [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-05-10 | 2024-08-10 |

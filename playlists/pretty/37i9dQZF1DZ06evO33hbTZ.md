@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,718 likes - 44 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,721 likes - 44 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 6 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 |
 | 7 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
 | 8 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr) | 8:40 |
-| 9 | [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 |
-| 10 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 |
+| 9 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 |
+| 10 | [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 |
 | 11 | [Yahweh Will Manifest Himself](https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:07 |
 | 12 | [Thank You](https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Thank You](https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh) | 4:40 |
 | 13 | [Take it All \- Live](https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr) | 10:21 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 16 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 |
 | 17 | [I Will Worship](https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 5:04 |
 | 18 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
-| 19 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
-| 20 | [Fall in Love](https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Fall in Love](https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL) | 3:18 |
+| 19 | [Fall in Love](https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Fall in Love](https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL) | 3:18 |
+| 20 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 21 | [2Cor 5:7](https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:16 |
 | 22 | [JOY](https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [JOY](https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol) | 3:02 |
 | 23 | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr) | 21:10 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 31 | [INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.](https://open.spotify.com/track/2GmLWssF8dy7u4qfVB4JzB) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.](https://open.spotify.com/album/5T3tv3McENIhPWczy2jDVb) | 40:52 |
 | 32 | [Water](https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:10 |
 | 33 | [Let Your Name be Glorified Worship Medley](https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Let Your Name be Glorified Worship Medley](https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV) | 17:26 |
-| 34 | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn) | 3:24 |
-| 35 | [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 |
+| 34 | [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 |
+| 35 | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn) | 3:24 |
 | 36 | [Uwese](https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 37 | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q) | 41:49 |
 | 38 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 43 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
 | 44 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `aOWpgAAAAAAGUAwhnn4NB6oP5Hi7vHyC`
+Snapshot ID: `aOb7AAAAAADzzWtY+8qDv+L6F1kOnDxa`

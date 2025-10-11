@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks via ZA. Cover: Teagan",
-  "num_followers": 5213,
+  "num_followers": 5210,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-09-05 08:33:35",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 192043,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
-    },
-    {
-      "added_at": "2025-09-05 08:33:35",
-      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
@@ -979,22 +963,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2025-09-05 08:33:35",
-      "album": {
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 156582,
-      "name": "Sorry I'm Here For Someone Else",
-      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
       "added_at": "2025-09-05 08:33:35",
@@ -1019,6 +987,38 @@
     {
       "added_at": "2025-09-05 08:33:35",
       "album": {
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    },
+    {
+      "added_at": "2025-09-05 08:33:35",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
+    },
+    {
+      "added_at": "2025-09-05 08:33:35",
+      "album": {
         "name": "Fame is a Gun",
         "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
       },
@@ -1031,26 +1031,6 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
-    },
-    {
-      "added_at": "2025-09-05 08:33:35",
-      "album": {
-        "name": "Drive (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Drive (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
     },
     {
       "added_at": "2025-09-05 08:33:35",
@@ -1111,6 +1091,26 @@
     {
       "added_at": "2025-09-05 08:33:35",
       "album": {
+        "name": "Drive (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 187396,
+      "name": "Drive (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
+    },
+    {
+      "added_at": "2025-09-05 08:33:35",
+      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
-    },
-    {
-      "added_at": "2025-09-05 08:33:35",
-      "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-09-05 08:33:35",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2025-09-05 08:33:35",
       "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+    },
+    {
+      "added_at": "2025-09-05 08:33:35",
+      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-05 08:33:35",
       "album": {
-        "name": "HEARTS SOLD SEPARATELY",
-        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 198394,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J"
-    },
-    {
-      "added_at": "2025-09-05 08:33:35",
-      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 232597,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
+    },
+    {
+      "added_at": "2025-09-05 08:33:35",
+      "album": {
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 198394,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J"
     },
     {
       "added_at": "2025-09-05 08:33:35",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-09-05 08:33:35",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 202161,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
-    },
-    {
-      "added_at": "2025-09-05 08:33:35",
-      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 260778,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
+    },
+    {
+      "added_at": "2025-09-05 08:33:35",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 202161,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
     },
     {
       "added_at": "2025-09-05 08:33:35",

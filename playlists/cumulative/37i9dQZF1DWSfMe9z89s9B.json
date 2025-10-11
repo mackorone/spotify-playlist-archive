@@ -4305,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "CAOS",
+      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
+    },
+    {
+      "album": {
         "name": "Capsize",
         "url": "https://open.spotify.com/album/4QQne7ganDme4lL42s1tjX"
       },
@@ -6642,6 +6660,28 @@
       "duration_ms": 191515,
       "name": "DEEP IN YOUR SOUL",
       "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
+    },
+    {
+      "album": {
+        "name": "defense",
+        "url": "https://open.spotify.com/album/7dNvLHi6sa0ZtmLELioBwL"
+      },
+      "artists": [
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "Nami",
+          "url": "https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156553,
+      "name": "defense",
+      "url": "https://open.spotify.com/track/2MkdXmDy3LEp8zDiElupWp"
     },
     {
       "album": {
@@ -21052,7 +21092,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 136918,
       "name": "scrabble",
       "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
@@ -28096,7 +28136,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 205139,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"

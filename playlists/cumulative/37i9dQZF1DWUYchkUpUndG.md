@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Sunmisola Agbebi
 
-6,421 songs - 19 day 14 hr 33 min
+6,422 songs - 19 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [3RD KWEKU](https://open.spotify.com/track/0iPxXojB3OhAGOQdXUoH1D) | [SovT Music](https://open.spotify.com/artist/29eB4DKTb6yyUJ0G6vZC6e), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [3RD KWEKU](https://open.spotify.com/album/0swvE7OCc5rCFEDHDGReVf) | 1:58 | 2025-01-31 | 2025-02-07 |
 | [4 Jesus](https://open.spotify.com/track/34z5pel1NqF22Xt0HkmZoF) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [4 Jesus](https://open.spotify.com/album/1M3Uj8t7ImkwhUMQNR5TcL) | 2:34 | 2023-07-14 | 2023-07-28 |
 | [4 Life](https://open.spotify.com/track/0AlabmZBtb0V1xpV6AJVpa) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [4 Life](https://open.spotify.com/album/0rd6V4JcuexbpydaGxQrds) | 2:30 | 2024-06-28 | 2024-07-12 |
-| [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-08-29 |  |
+| [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-08-29 | 2025-10-11 |
+| [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 | 2025-10-10 |  |
 | [4 U](https://open.spotify.com/track/3VZgoY5YNcYqVwZ11YPd7b) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [4 U](https://open.spotify.com/album/4oH8gUilfwyHx48xdKVMK0) | 2:27 | 2024-06-14 | 2024-06-28 |
 | [4am Dreams](https://open.spotify.com/track/62HPDI0b55RMLYWFoCvtnG) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [4am Dreams](https://open.spotify.com/album/3gVtpQqxmrybvvPHTeOckZ) | 2:56 | 2023-09-01 | 2023-09-15 |
 | [4Ever](https://open.spotify.com/track/49hlDjT97voNNL2mhAMjZY) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [4Ever](https://open.spotify.com/album/3hgMfdd8mt6nKxFaBZF1MS) | 3:00 | 2025-03-07 | 2025-03-21 |
@@ -2083,7 +2084,6 @@
 | [Hallelujah](https://open.spotify.com/track/40UuVTiL79xb2ZO9k7QGFt) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Hallelujah](https://open.spotify.com/album/0GHGEfnrr1M7PiNLehYyK6) | 4:29 | 2023-12-15 | 2023-12-30 |
 | [Hallelujah](https://open.spotify.com/track/0VauDFQHUNkyGYJavmuehl) | [PYEFA](https://open.spotify.com/artist/5Wl6nDhxskbjh0ZNV4JUsK), [Ola K](https://open.spotify.com/artist/3TvMpa1bEX7SaHLrPhey4z) | [Hallelujah](https://open.spotify.com/album/3UHZt6GEiSusAmlntm8DZL) | 3:01 | 2024-08-16 | 2024-08-30 |
 | [Hallelujah](https://open.spotify.com/track/1jQR49T5QNk72eGuVEdieo) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Hallelujah](https://open.spotify.com/album/6sSDyDiBjKlutOu40jQ4e2) | 3:20 | 2025-04-18 | 2025-05-02 |
-| [Hallelujah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Hallelujah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 | 2025-10-10 |  |
 | [Hallelujah](https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Hallelujah](https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR) | 4:16 | 2025-05-30 | 2025-06-13 |
 | [Hallelujah](https://open.spotify.com/track/4QVJLYkvi2iBefoSDKM0Ss) | [Tasha Nyambe](https://open.spotify.com/artist/0A6uQjI0DBadBN1XWsWtkm), [Mwansa Nguni](https://open.spotify.com/artist/2ZP6hica42ebvFPBMdcD78) | [Hallelujah](https://open.spotify.com/album/0KYMPqaFW93VfOTHu8sDHd) | 3:12 | 2024-02-02 | 2024-02-16 |
 | [Hallelujah](https://open.spotify.com/track/6pXorO2CZafIRSeVazMMV3) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Jesus is Here, Jaga Is Here](https://open.spotify.com/album/0h5i3MPwttSdQ2p559tCfK) | 4:47 | 2023-10-06 | 2023-10-20 |
@@ -2119,6 +2119,7 @@
 | [Halleluyah](https://open.spotify.com/track/1vriV8g7fEjyU9JbVNQQSx) | [IsholaBeatz](https://open.spotify.com/artist/2fSqVIuSWiBbenBGde4KlW) | [Halleluyah](https://open.spotify.com/album/5gRav842VXrIc5hUVD6qG7) | 1:26 | 2025-06-13 | 2025-06-20 |
 | [Halleluyah](https://open.spotify.com/track/4PbxaKWEFqJ7ipntKLUPh3) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Ola'sage](https://open.spotify.com/artist/7sOMk7p7RRSkNw7nBSitlH), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [14:6](https://open.spotify.com/album/42OzMezEOhj6PQeEx0gLhv) | 3:08 | 2025-04-25 | 2025-05-09 |
 | [Halleluyah](https://open.spotify.com/track/2h8yRl1LvFqM1CpbdUJhQN) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Halleluyah](https://open.spotify.com/album/4Bupyny8rQ2FhN9BBVvted) | 2:57 | 2025-09-05 | 2025-09-19 |
+| [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 | 2025-10-10 |  |
 | [HALLELUYAH](https://open.spotify.com/track/3eKgaziUMXDDKY2GnFQDkW) | [Tymo Classic](https://open.spotify.com/artist/5elvWGCkaWw5Gx7n2akPND), [DJ Samtop](https://open.spotify.com/artist/1QO8Ftp8j6Tlo9PJiB73Mi) | [HALLELUYAH](https://open.spotify.com/album/4IfTJjbB7vjbL5btqih92i) | 3:51 | 2025-07-25 | 2025-08-08 |
 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 | 2025-01-24 |
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-03-07 | 2025-03-14 |

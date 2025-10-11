@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204384,
+      "name": "Mi Coraz\u00f3n de Miel",
+      "url": "https://open.spotify.com/track/6WGpwvtVYk9Zl29EVk7VYw"
+    },
+    {
+      "album": {
         "name": "Repetir\u00eda Todo",
         "url": "https://open.spotify.com/album/2oSfjx5ip4jvV52NTmu9jW"
       },
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 191381,
       "name": "Ojos de Fuego",
       "url": "https://open.spotify.com/track/1aRh3XyBcKOv9UlvNXq3Qn"

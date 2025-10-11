@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 ### [Novità Indie Italiano](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> Tutte le migliori nuove uscite indie sono qui 👀 Cover: Caleydo e Bassi Maestro
+> Tutte le migliori nuove uscite indie sono qui 👀 Cover: Caleydo, Bassi Maestro e Willie Peyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,198 likes - 130 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,208 likes - 130 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 2 | [La notte](https://open.spotify.com/track/1ORx3yuGZUW1FjowRyVztF) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 2:45 |
 | 3 | [Niente di particolare](https://open.spotify.com/track/3azkH8zt6JVM0ckeww7r3i) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Niente di particolare](https://open.spotify.com/album/6Aw1yTEFMFyLOhQGAMCvKk) | 2:54 |
 | 4 | [dimmi che provi quello che provo io](https://open.spotify.com/track/6tPRT7hwN2L8eQ45iSjafJ) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [dimmi che provi quello che provo io](https://open.spotify.com/album/2VqcRDHt4Eqv0pGTuU37fg) | 2:21 |
-| 5 | [Tudo Bem](https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [](https://open.spotify.com/album/null) | 3:18 |
+| 5 | [Tudo Bem](https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [GRINGO Vol.2](https://open.spotify.com/album/3OJQKGBkbT1docNpiIdzqj) | 3:18 |
 | 6 | [Occhi diamanti \(feat\. Joan Thiele\)](https://open.spotify.com/track/7r63nk6dEDZzZZ5BUoDcup) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 3:58 |
 | 7 | [Foglie](https://open.spotify.com/track/6wHHPfc7OpJUezPA41NzJB) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Foglie](https://open.spotify.com/album/3XNhvMKBitSlalrgmmGKuJ) | 2:59 |
 | 8 | [Paradiso](https://open.spotify.com/track/1APwnXntnMEakvngEmepiL) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [Paradiso](https://open.spotify.com/album/2oU2zgrbm8TDGrpf1at9VV) | 3:13 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 129 | [San Pietro](https://open.spotify.com/track/5T10FcKGLXNdpH85umZO3B) | [Chiara Massimo](https://open.spotify.com/artist/6u1V8vY2LNWw7dqzgug6Mb) | [San Pietro](https://open.spotify.com/album/4QSTmtW68GaeBIcbHMj17X) | 2:57 |
 | 130 | [Triste come me](https://open.spotify.com/track/0KNbxAHfiv0btk8vSKxfEg) | [okaynevada](https://open.spotify.com/artist/5wb7dUe10caX4uCMTJocXr) | [Triste come me](https://open.spotify.com/album/2dTl5VbSnPmQwL2fHpbUcd) | 3:18 |
 
-Snapshot ID: `AAAAADJJUfLf3N2wAGbIDlHAX8xVcpFm`
+Snapshot ID: `AAAAAMHJzpMPTsv4ljFT9/shzNoOKJwb`

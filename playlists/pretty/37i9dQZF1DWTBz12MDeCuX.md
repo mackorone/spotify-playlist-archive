@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: panicbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,475 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,414 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 15 | [Tote Tauben](https://open.spotify.com/track/7BOJBPrU9jqnnSp0BWKZjd) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Tote Tauben](https://open.spotify.com/album/7HjoMQO97amTk567SDbls1) | 2:46 |
 | 16 | [Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273) | 4:44 |
 | 17 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 |
-| 18 | [Track 13](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 |
 | 19 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 20 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 21 | [ANGST>LIEBE](https://open.spotify.com/track/6KiPf8zHwaBK7VMHZZ1ReL) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [ANGST>LIEBE](https://open.spotify.com/album/6MXxm5A1n2rI3n0sGBrnF3) | 2:59 |

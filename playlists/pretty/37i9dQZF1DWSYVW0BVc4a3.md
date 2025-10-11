@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Mochakk always brings the vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,024 likes - 233 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,031 likes - 233 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

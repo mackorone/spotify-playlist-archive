@@ -2894,6 +2894,24 @@
     {
       "album": {
         "name": "Sa Wakas",
+        "url": "https://open.spotify.com/album/2gJJfKzy0fHjhy8AR8lhym"
+      },
+      "artists": [
+        {
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs"
+    },
+    {
+      "album": {
+        "name": "Sa Wakas",
         "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
       },
       "artists": [
@@ -4090,6 +4108,28 @@
       "duration_ms": 215507,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
+    },
+    {
+      "album": {
+        "name": "II: The second",
+        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197031,
+      "name": "Di Nakakasawa",
+      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
     },
     {
       "album": {
@@ -7088,7 +7128,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 245760,
       "name": "Higa",
       "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
@@ -7342,7 +7382,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 181534,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3vGd1heFoUuFGvKvl0SdW3"
@@ -16936,7 +16976,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
@@ -17152,7 +17192,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 206181,
       "name": "TAKE ALL THE LOVE",
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"

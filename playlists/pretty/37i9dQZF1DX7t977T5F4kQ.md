@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: King Promise & Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,419 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,457 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 19 | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz) | 2:36 |
 | 20 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 |
 | 21 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |
-| 22 | [Track 13](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [](https://open.spotify.com/album/null) | 0:00 |
+| 22 | [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 |
 | 23 | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB) | 2:39 |
 | 24 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
 | 25 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |

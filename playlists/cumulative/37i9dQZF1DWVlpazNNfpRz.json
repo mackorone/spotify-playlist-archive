@@ -987,6 +987,32 @@
     },
     {
       "album": {
+        "name": "Guarache",
+        "url": "https://open.spotify.com/album/03KzwjYmgotka0h2MgTUgn"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "John Eric",
+          "url": "https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2"
+        },
+        {
+          "name": "Santiago Berrio",
+          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Guarache",
+      "url": "https://open.spotify.com/track/3oRYhRtz5lkFkS9wV7loNf"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -2196,7 +2222,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 364120,
       "name": "Sexo To Me",
       "url": "https://open.spotify.com/track/0br9B7u3NeGJMZ2Rjo0y9b"

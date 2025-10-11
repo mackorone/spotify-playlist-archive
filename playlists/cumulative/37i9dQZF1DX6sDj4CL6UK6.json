@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Jeremiah de Rozario",
+  "description": "English songs from Indian artists\nCover: Tejas",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -120,6 +120,28 @@
       "duration_ms": 160441,
       "name": "A Dog Chasing Its Own Tail",
       "url": "https://open.spotify.com/track/4DfmnGTcqwD5C7VtNY9AtX"
+    },
+    {
+      "album": {
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
     },
     {
       "album": {
@@ -1745,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/5FnUbJZVzRkSe9T3ihqXp0"
+      },
+      "artists": [
+        {
+          "name": "Soha",
+          "url": "https://open.spotify.com/artist/2957japSpMpQX5G9LPjcNN"
+        },
+        {
+          "name": "TRVR",
+          "url": "https://open.spotify.com/artist/6yfMXDFlsExGxvnoIDwSd4"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/296zmG27fZG8PwW7D5nFTC"
+    },
+    {
+      "album": {
         "name": "Exotic",
         "url": "https://open.spotify.com/album/3Pftudxj48b9EUkaAvMLcs"
       },
@@ -2278,7 +2322,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 261221,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6SjFc8iaehM0920mfYsq9X"
@@ -3136,7 +3180,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 147000,
       "name": "Jhumka Sway",
       "url": "https://open.spotify.com/track/77fGt0wEVkxLLDkyIsWmON"
@@ -3386,6 +3430,28 @@
       "duration_ms": 158138,
       "name": "lethal",
       "url": "https://open.spotify.com/track/12qmluxUw80kMqzzhIDFyA"
+    },
+    {
+      "album": {
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Anoushka Maskey",
+          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO"
     },
     {
       "album": {
@@ -3802,7 +3868,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 157000,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/1Jy45gh8aaf0897QjJ6dgn"
@@ -5560,7 +5626,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 254369,
       "name": "Southern Belle - Acoustic",
       "url": "https://open.spotify.com/track/1iLWmCAeUi4qUrFeqBxtcO"

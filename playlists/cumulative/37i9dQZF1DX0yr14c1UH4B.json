@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Do It For Love",
+        "url": "https://open.spotify.com/album/1Wm5OADQdG3aOBE4gPkWGr"
+      },
+      "artists": [
+        {
+          "name": "Jack Savoretti",
+          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203899,
+      "name": "Do It For Love",
+      "url": "https://open.spotify.com/track/4IOm65mqo67t7F3q7RuzMT"
+    },
+    {
+      "album": {
         "name": "Do you believe in magic?",
         "url": "https://open.spotify.com/album/0Y4V4inBQMudeeTrWVbq0n"
       },
@@ -3993,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Monsters & Masochists",
+        "url": "https://open.spotify.com/album/2cDX1sQV74yNWFnV7w7sZi"
+      },
+      "artists": [
+        {
+          "name": "Empara Mi",
+          "url": "https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221621,
+      "name": "Hurt Like Me",
+      "url": "https://open.spotify.com/track/2CpzvsiCLqqXoDNdVUuMNz"
+    },
+    {
+      "album": {
         "name": "The Epilogue (Deluxe)",
         "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
       },
@@ -4426,7 +4462,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 222782,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/03qAI5HA2LS4Bm8SGpTp1X"
@@ -9361,42 +9397,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Empara Mi",
-          "url": "https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/2CpzvsiCLqqXoDNdVUuMNz"
-    },
-    {
-      "album": {
         "name": "Gumshoe",
         "url": "https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo"
       },
@@ -9556,6 +9556,24 @@
       "duration_ms": 241888,
       "name": "Unexplainable",
       "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+    },
+    {
+      "album": {
+        "name": "Avenoir",
+        "url": "https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137471,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf"
     },
     {
       "album": {
@@ -10059,8 +10077,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
       },
       "artists": [
         {
@@ -10341,8 +10359,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "if you need me, i'm a few missed calls away",
+        "url": "https://open.spotify.com/album/6nShMxkB15RxG2dwZrXXCw"
       },
       "artists": [
         {
@@ -10431,8 +10449,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG"
       },
       "artists": [
         {

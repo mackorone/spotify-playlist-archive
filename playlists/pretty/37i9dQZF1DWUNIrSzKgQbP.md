@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Falling leaves and cozy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,968 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,932 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 99 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 |
 | 100 | [Wolves](https://open.spotify.com/track/6lxpYkleuqypeBPl7ji3ov) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016 \(With Commentary\)](https://open.spotify.com/album/2QH0Lf3W5bhCyl0VvyXBDm) | 3:57 |
 
-Snapshot ID: `AAAAAIB6amWkw5Jc/mz0t2lLYDBYHlh9`
+Snapshot ID: `AAAAAJrEVhVdDODvhebXgN59Eq2vUrol`

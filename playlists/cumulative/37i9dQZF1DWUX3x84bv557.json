@@ -2449,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Basis",
+        "url": "https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174494,
+      "name": "Basis",
+      "url": "https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv"
+    },
+    {
+      "album": {
         "name": "Sliden EP",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
@@ -17250,24 +17268,6 @@
       "duration_ms": 162259,
       "name": "Toxisch",
       "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv"
     },
     {
       "album": {

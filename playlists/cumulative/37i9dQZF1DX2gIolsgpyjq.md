@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Spawner
 
-1,358 songs - 2 day 23 hr 28 min
+1,358 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [if only](https://open.spotify.com/track/5DyEyqD8pK3S3BPS2coEgK) | [Susanne Lykke](https://open.spotify.com/artist/6Y2MuJm11w0ZOKLSoh6RxE) | [if only](https://open.spotify.com/album/6lNo9p76JE8Jwx6zQJbOU1) | 3:22 | 2025-04-24 | 2025-05-30 |
 | [If We Couldn't...](https://open.spotify.com/track/1KIGr7Coq2YzGOziONnLW3) | [The Code](https://open.spotify.com/artist/21eeOqX01yzH3M9nSyYJ1S), [Elle Kaye](https://open.spotify.com/artist/5MZ57ozy0Tm21nDsnDUTqa) | [If We Couldn't...](https://open.spotify.com/album/4U42bGudyuoKFkDJTWmwab) | 5:05 | 2025-02-13 | 2025-03-14 |
 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-01-02 | 2025-03-14 |
+| [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 | 2025-10-09 |  |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-04-10 | 2025-07-04 |
 | [immune](https://open.spotify.com/track/7ewa8T2zvdEMWSFG7cLl3E) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [immune](https://open.spotify.com/album/7JB4xISNGadReKJYxSy69x) | 2:15 | 2024-02-08 | 2024-03-01 |
 | [Imperfect '99](https://open.spotify.com/track/4cgBiNTYIku5vTs0VVYnUR) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Imperfect '99](https://open.spotify.com/album/1igfsyZaUupb7OzfIXnZfa) | 3:07 | 2025-05-22 | 2025-06-27 |
@@ -792,7 +793,7 @@
 | [More To Life](https://open.spotify.com/track/2V0IwUfEQaDvVYlUAsz3nk) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [More To Life](https://open.spotify.com/album/1qyll2DNY9P9C0JWw8hyCn) | 2:48 | 2025-08-14 |  |
 | [more...](https://open.spotify.com/track/4Bz5jTH8PGXqX3h65umPMs) | [pelleklund](https://open.spotify.com/artist/6Es6ICW5sEgL7nOnWam1ep) | [more...](https://open.spotify.com/album/2CVF1esPFMTwExeyxYkfhD) | 2:25 | 2025-03-27 | 2025-04-25 |
 | [Motherfuckers](https://open.spotify.com/track/4tEqDWkqsRwNENDVzhcpDg) | [Felix Winter](https://open.spotify.com/artist/4Pe8JUhq5pYVzfcENcWDbE), [Nics](https://open.spotify.com/artist/07ytb9i51rY4KzNd7m72aR) | [Motherfuckers](https://open.spotify.com/album/7rf3RxVEJA1dStHBpORkNY) | 3:48 | 2025-03-13 | 2025-04-04 |
-| [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [](https://open.spotify.com/album/null) | 4:17 | 2025-10-09 |  |
+| [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Space Sicks Basics](https://open.spotify.com/album/5mXdLAugxAMyV8fQafUiyT) | 4:17 | 2025-10-09 |  |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 |  |
 | [Ms\. Karma](https://open.spotify.com/track/1QZauBpNTCMFOnHUkKgNsu) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Ms\. Karma](https://open.spotify.com/album/0wt0zazV5kSNgb7jDrmnAg) | 2:26 | 2025-01-02 | 2025-02-07 |
 | [Musicality](https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/59enWNqQlZKbTD1oQ74dtY) | 2:18 | 2025-06-12 | 2025-08-08 |
@@ -1229,7 +1230,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 6](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |
 | [Tropicana Thunder](https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9) | [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG), [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl) | [Västertorp](https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT) | 7:30 | 2024-04-04 | 2024-05-03 |

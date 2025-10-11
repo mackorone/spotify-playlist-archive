@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Ne\u00f3n",
+        "url": "https://open.spotify.com/album/3Oj7ZfcspGSWW7VDrp2xvz"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "Adicto a T\u00fa Piel",
+      "url": "https://open.spotify.com/track/1uO3St8kIH8qq7I941FmCG"
+    },
+    {
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
       },
@@ -936,7 +954,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 205333,
       "name": "C\u00f3mo Duele",
       "url": "https://open.spotify.com/track/02tk974QEHBfTQq80Lpn7d"

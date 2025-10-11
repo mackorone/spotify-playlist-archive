@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Spawner
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,851 likes - 109 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,864 likes - 109 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Respawn](https://open.spotify.com/track/0JqIiFQR0qkoYRcunwKgjw) | [Spawner](https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK) | [Air Is Getting Stranger](https://open.spotify.com/album/6HySVgcKpNxWPO4gNeGIy6) | 3:09 |
 | 2 | [I Want Back The Money](https://open.spotify.com/track/07XFxGlZCPgmFhKH7v9dwq) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [I Want Back The Money](https://open.spotify.com/album/2n3lUh44rLPniOkyYw2Cvc) | 2:48 |
 | 3 | [Fantasy \(feat\. Quiet Light\)](https://open.spotify.com/track/05CNzSWoeewEVtr7gdf0Gg) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Fantasy \(feat\. Quiet Light\)](https://open.spotify.com/album/5kEvOqYjONAOd9t8PqawHV) | 1:52 |
-| 4 | [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [](https://open.spotify.com/album/null) | 4:17 |
-| 5 | [Track 6](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Space Sicks Basics](https://open.spotify.com/album/5mXdLAugxAMyV8fQafUiyT) | 4:17 |
+| 5 | [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 |
 | 6 | [Take Me To The Altar](https://open.spotify.com/track/5wXG16j2RKCLN5QBTJdY8z) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take Me To The Altar](https://open.spotify.com/album/5XFYYQxyC5Rb5vtFGxhJVn) | 2:36 |
 | 7 | [Sticks & Stones](https://open.spotify.com/track/4MoGYY5lvYOQEnvTlNlA3N) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [Sticks & Stones](https://open.spotify.com/album/0jL0YQX8DqIOfAvseBVezR) | 3:21 |
 | 8 | [shakebrain](https://open.spotify.com/track/4nTqfzTcoKwDtr3BxGMw7m) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [shakebrain](https://open.spotify.com/album/3XKnrK605bResv68F7BtbT) | 3:03 |

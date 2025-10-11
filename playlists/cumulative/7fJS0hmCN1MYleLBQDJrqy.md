@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-88 songs - 3 hr 50 min
+89 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2025-07-18 |  |
 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 | 2025-07-18 |  |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2025-07-18 | 2025-09-27 |
+| [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 | 2025-10-10 |  |
 | [Koning](https://open.spotify.com/track/5edpUbDaaTQdGt8uyWNLSP) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Koning](https://open.spotify.com/album/0xATFfVzfsP8sz3PoyJPgS) | 1:58 | 2025-07-18 |  |
 | [Last 2 Leave](https://open.spotify.com/track/5lfuQ9C0UOnmH4tRXrDjIK) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Last 2 Leave](https://open.spotify.com/album/1nOD3LXVd8jdPN7qGsxEmU) | 2:05 | 2025-09-12 |  |
 | [Lotje](https://open.spotify.com/track/7KJ021unkPr4E8Z8waQ5L7) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1) | 2:46 | 2025-07-18 |  |
@@ -75,7 +76,7 @@
 | [Online Shoppen](https://open.spotify.com/track/0bVWXDuA0mWeQNmCwKAD2n) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN) | [Online Shoppen](https://open.spotify.com/album/46Xn4GJt5bKXRX5Gc5javf) | 2:50 | 2025-07-18 |  |
 | [Over Datum](https://open.spotify.com/track/4KCbrGjAVjAN6ZmvHtcDtX) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:31 | 2025-07-18 |  |
 | [Papa's Geld](https://open.spotify.com/track/0zwazASa657BlcIcx8lYyk) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Papa's Geld](https://open.spotify.com/album/13YCIl3X503L1zASNd0JiN) | 2:00 | 2025-07-18 |  |
-| [Proost](https://open.spotify.com/track/0KfKG23F2eWsq3iJazXYvS) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:27 | 2025-07-18 |  |
+| [Proost](https://open.spotify.com/track/0KfKG23F2eWsq3iJazXYvS) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:27 | 2025-07-18 | 2025-10-11 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2025-07-18 |  |
 | [Sex](https://open.spotify.com/track/670BOglfzTjyvst3GdN0Gy) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:51 | 2025-07-18 | 2025-09-20 |
 | [Sex in the City](https://open.spotify.com/track/7bxxHkeLFIk3WBj94Z9niI) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Sex in the City](https://open.spotify.com/album/72i7yPDGMaGxct2xFMtKXW) | 1:56 | 2025-07-18 |  |

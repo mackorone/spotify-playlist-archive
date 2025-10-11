@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-423 songs - 1 day 1 hr 5 min
+426 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [In the Summertime](https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU) | [Arkansauce](https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl) | [In the Summertime](https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO) | 4:55 | 2024-08-02 | 2024-12-07 |
 | [Into the Wild](https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Into the Wild](https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6) | 4:14 | 2024-08-02 | 2024-12-07 |
 | [Is It True](https://open.spotify.com/track/7CRFPKyKc2MTIvVERlEtGT) | [Sideline](https://open.spotify.com/artist/3A5JW6yJ1Qh1pwGcTIlImf) | [Is It True](https://open.spotify.com/album/50RrpsRDiRdiSXEgtZ4TPR) | 2:24 | 2024-09-13 | 2024-12-14 |
+| [Is Now The Time](https://open.spotify.com/track/3GpRe4Op4t0KZsITUITC1d) | [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Is Now The Time](https://open.spotify.com/album/36Ms3T44JNYvqL8gSQkZSQ) | 2:38 | 2025-10-10 |  |
 | [It's Alive](https://open.spotify.com/track/39jCXgc3bJziag2bsjk9eo) | [Gangstagrass](https://open.spotify.com/artist/1VKDHdy3cj1YP4zmWwyOL3) | [The Blackest Thing on the Menu](https://open.spotify.com/album/0QSJf6HZhBk5AO5aaMIh62) | 3:24 | 2024-06-28 | 2024-08-24 |
 | [Jackson, TN](https://open.spotify.com/track/6nVcvQFtnGxhdgp2Zn0JWD) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm) | [Jackson, TN](https://open.spotify.com/album/7fiM5q7mAYHM3ooKqZpZoQ) | 3:18 | 2024-12-20 |  |
 | [Jericho](https://open.spotify.com/track/1W6z6wXtnt5BAqls5Sr2kG) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Jericho](https://open.spotify.com/album/6eWuSVCbW2xtKCoVwi8fmF) | 4:19 | 2024-06-28 | 2024-10-05 |
@@ -247,6 +248,7 @@
 | [Make Me Stay or Make Me Go](https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Make Me Stay or Make Me Go](https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN) | 3:11 | 2024-11-12 | 2025-02-15 |
 | [Man Of Manzanita](https://open.spotify.com/track/730cnP4SGK3fofTiP1BNAz) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Mark Schatz](https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6) | [Man Of Manzanita](https://open.spotify.com/album/4EamkJirQe61Lx1XkCcal5) | 4:45 | 2024-12-20 |  |
 | [Mandolin Spring](https://open.spotify.com/track/2P63JDVaKXwLyD5OoDPxrI) | [MVI \(Mark Vickness Interconnected\)](https://open.spotify.com/artist/0ihY73aDoJkEkEkhnyRt0r), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE) | [Mandolin Spring](https://open.spotify.com/album/4Ze4CqMrUWIze2m6hJeWK4) | 3:30 | 2024-11-01 | 2025-02-15 |
+| [Maple On The Hill](https://open.spotify.com/track/6agmhgRRCFWtGxiGCcBIok) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Maple On The Hill](https://open.spotify.com/album/7KH22LJE7alySBEaWZCNfl) | 3:35 | 2025-10-10 |  |
 | [Marching Jaybird](https://open.spotify.com/track/3yOrx7D904HceomXuCW3g0) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Justin Robinson](https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw) | [Marching Jaybird](https://open.spotify.com/album/6eK4LSeYDklT6nMOcAb4LN) | 2:17 | 2025-03-07 | 2025-04-19 |
 | [Marry Jane](https://open.spotify.com/track/1uClRHXNyVe6rW8oRhZFEK) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Marry Jane](https://open.spotify.com/album/7G0BjpkTSipUxuYUL3vwSJ) | 2:25 | 2024-12-06 |  |
 | [Me and Mr\. Howard](https://open.spotify.com/track/3ppm6qSHpRJShMKkV72H0T) | [Daryl Mosley](https://open.spotify.com/artist/4lhbxcWd1PoTfAD1wjhKVq) | [Me and Mr\. Howard](https://open.spotify.com/album/2NRAx94TiV4HaNQHZDHvkn) | 3:07 | 2024-10-04 | 2025-01-11 |
@@ -400,6 +402,7 @@
 | [Ugly Man's Wife](https://open.spotify.com/track/3TbaIvwrMrUd9GbtJ3hktc) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Ugly Man's Wife](https://open.spotify.com/album/5j5BXE39Qxxe3NFub41d7R) | 2:55 | 2024-06-28 | 2024-08-03 |
 | [Uncertain Times](https://open.spotify.com/track/08x0AYzvLufpYzZJy2383R) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Uncertain Times](https://open.spotify.com/album/27k7z1B0twbxJwZbrnJ74M) | 2:43 | 2024-08-09 | 2024-12-07 |
 | [Unearned Wisdom](https://open.spotify.com/track/6Y93qWBxWjlMHxAEbWWpDs) | [Alejandro Preschel](https://open.spotify.com/artist/3CC195URpYwajMy2YYOIIP) | [Unearned Wisdom](https://open.spotify.com/album/6ZUlHrO2WH7kxNqXc6SCt9) | 2:49 | 2024-12-20 |  |
+| [Unknown Legend \(with The Travelin' McCourys\)](https://open.spotify.com/track/3iE5gZUcK2TQ7GpXoPskpl) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Unknown Legend \(with The Travelin' McCourys\)](https://open.spotify.com/album/1KCCQLwrwYfyZqUtuvgytg) | 3:28 | 2025-10-10 |  |
 | [Vagabond's Lament](https://open.spotify.com/track/73lDxxD5yOfopOVE1sNH4c) | [Buffalo Wabs & the Price Hill Hustle](https://open.spotify.com/artist/4bVIBJHmQxWrvBZOrea5p5) | [Vagabond's Lament](https://open.spotify.com/album/4B3Po5bH2nk9Kcq4YlDw49) | 3:37 | 2024-10-04 | 2025-01-11 |
 | [Valley Flower](https://open.spotify.com/track/23w4l3oAw9kMY2ZQiE4xpI) | [Valley Flower](https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew) | [Valley Flower](https://open.spotify.com/album/7MDJNxfHTfilPJ0528J656) | 4:50 | 2024-07-26 | 2024-12-07 |
 | [Wagon Wheel](https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Wagon Wheel](https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l) | 7:13 | 2024-07-26 | 2024-08-24 |

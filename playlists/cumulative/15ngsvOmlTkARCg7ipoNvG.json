@@ -6317,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Changing Seasons",
+        "url": "https://open.spotify.com/album/1ehhp0Mh5RiQgMcNhJxZt1"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60528,
+      "name": "Changing Seasons",
+      "url": "https://open.spotify.com/track/1o9RxtDp51iEEJ0UE3YWTG"
+    },
+    {
+      "album": {
         "name": "Soft Strings",
         "url": "https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Sishii
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,055 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,110 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 44 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 |
 | 45 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
 | 46 | [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 |
-| 47 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
-| 48 | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 |
+| 47 | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 |
+| 48 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 49 | [me u & pride](https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 3:19 |
 | 50 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
 

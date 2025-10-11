@@ -4,7 +4,7 @@
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 41 min
+69 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Vida Loca](https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 4:06 | 2025-03-13 |  |
 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 | 2024-01-29 | 2025-03-13 |
 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 | 2024-01-29 |  |
-| [Yo Soy del Golfo](https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 2:40 | 2025-03-30 |  |
+| [Yo Soy del Golfo](https://open.spotify.com/track/1HVE8VfDWqjQpcSxrDeJgE) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Somos Leyenda](https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D) | 2:40 | 2025-10-11 |  |
+| [Yo Soy del Golfo](https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 2:40 | 2025-03-30 | 2025-10-11 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

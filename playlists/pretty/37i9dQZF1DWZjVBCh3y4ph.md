@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Lycinaïs Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,173 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,198 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Attirée](https://open.spotify.com/track/28Akbk8oelX946pkI8SOPq) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [](https://open.spotify.com/album/null) | 2:58 |
+| 1 | [Attirée](https://open.spotify.com/track/28Akbk8oelX946pkI8SOPq) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Story Time \(Prelude\)](https://open.spotify.com/album/3XCZt6uNpVtTJKlqvcBU0A) | 2:58 |
 | 2 | [Contre moi \- Zouk](https://open.spotify.com/track/5Ob4zfzPIZwUeNbgLk2VJb) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [GTLOV'](https://open.spotify.com/album/4OP6XaJijvSSrRhQPYbUkV) | 3:02 |
 | 3 | [À genoux](https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [À genoux](https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1) | 3:35 |
 | 4 | [M'en Aller](https://open.spotify.com/track/4yMKFwzdBXs7sH9zvOVeAA) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [M'en Aller](https://open.spotify.com/album/2I84m5gBW8jck2PEHrkIn9) | 2:28 |

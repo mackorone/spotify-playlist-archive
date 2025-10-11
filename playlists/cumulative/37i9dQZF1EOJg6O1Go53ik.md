@@ -27,7 +27,7 @@
 | [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:58 | 2020-11-27 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:39 | 2020-11-27 |  |
 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 | 2020-11-27 |  |
-| [What's Most Important with Michael Bublé](https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K) | [Self\-Helpless](https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG) | [Self\-Helpless](https://open.spotify.com/album/331TJ7eQKg2gHmAk7AU4XG) | 31:07 | 2020-11-27 |  |
+| [What's Most Important with Michael Bublé](https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K) | [Self\-Helpless](https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG) | [Self\-Helpless](https://open.spotify.com/album/331TJ7eQKg2gHmAk7AU4XG) | 30:37 | 2020-11-27 |  |
 | [Why We’re Still Listening to the Beatles’ ‘Sgt\. Pepper’](https://open.spotify.com/episode/31fwCZJrpDvcHOWsrOJZrE) | [Popcast](https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp) | [Popcast](https://open.spotify.com/album/3ugDIELXIU7erW5Xp49tWp) | 30:26 | 2020-11-27 |  |
 
 \*This playlist was first scraped on 2022-10-30. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202521,
+  "num_followers": 202544,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAVHow66UfDKlJRFUOZpABx",
+  "snapshot_id": "aOb7AAAAAAAGx9taMfdOHP8N/AngeJ6E",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
       "artists": [
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 258158,
-      "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
+      "duration_ms": 154250,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
     },
     {
       "added_at": null,
@@ -871,18 +863,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },
       "artists": [
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 154250,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+      "duration_ms": 258158,
+      "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
     },
     {
       "added_at": null,

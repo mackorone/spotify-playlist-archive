@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Alicia Keys Tokyo Solo Show in 2025",
+        "url": "https://open.spotify.com/album/0fzco3Tc9pfzx0FDpLlEJV"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/77xMtm3bTqLVN6FiJurLFv"
+    },
+    {
+      "album": {
         "name": "Girl on Fire (Remixes) - EP",
         "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 224920,
       "name": "Girl on Fire",
       "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"

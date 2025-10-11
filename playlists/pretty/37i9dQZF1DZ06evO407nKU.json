@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55054,
+  "num_followers": 55083,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC6ZKNrkoYoZmreEGhSsJJY",
+  "snapshot_id": "aOb7AAAAAAD5Be4sJbSN6IC3jMBDXmGA",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Me Voy O Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/3SVQlmPakKoEPIesi3JSsn"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "O Me Voy O Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/34hnVfPdIKq09lnPUVD588"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estas Perdida",
         "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
       },
@@ -327,18 +343,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Me Voy O Te Vas (En Vivo)",
-        "url": "https://open.spotify.com/album/3SVQlmPakKoEPIesi3JSsn"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/1MxOELHpth8E33rUByRI37"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
         }
       ],
-      "duration_ms": 237013,
-      "name": "O Me Voy O Te Vas (En Vivo)",
-      "url": "https://open.spotify.com/track/34hnVfPdIKq09lnPUVD588"
+      "duration_ms": 235798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8"
     },
     {
       "added_at": null,
@@ -387,30 +411,6 @@
       "duration_ms": 167299,
       "name": "Parrandero (feat. Grupo Recluta, Perdidos De Sinaloa, Banda Cuisillos, Los Nuevos Ilegales, La Decima Banda & Banda Los Coyulitos) - Remix",
       "url": "https://open.spotify.com/track/56uGm0jqTWGwHnoNRUWKs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/1MxOELHpth8E33rUByRI37"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 235798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8"
     },
     {
       "added_at": null,
@@ -651,6 +651,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Llores Mas Mis Recuerdos",
+        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
+        }
+      ],
+      "duration_ms": 282671,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
@@ -683,30 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Llores Mas Mis Recuerdos",
-        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 282671,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Duele Menos",
         "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 259628,
+      "name": "Nomas Este Rey",
+      "url": "https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 259628,
-      "name": "Nomas Este Rey",
-      "url": "https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Me Ag\u00fcit\u00f3",
         "url": "https://open.spotify.com/album/51YMAnkG9rMuNXXejqCFNB"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142849,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ranchito",
         "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 142849,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
     },
     {
       "added_at": null,

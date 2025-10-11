@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,589 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,602 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

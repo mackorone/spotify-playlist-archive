@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 23 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 |
 | 24 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
 | 25 | [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 |
-| 26 | [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 |
-| 27 | [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 |
-| 28 | [Christmas Night in Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night in Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 |
+| 26 | [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 |
+| 27 | [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 |
+| 28 | [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 |
 | 29 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 |
 | 30 | [Silver Bells](https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silver Bells](https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi) | 3:12 |
 | 31 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 |
-| 32 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
-| 33 | [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 |
+| 32 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
+| 33 | [Christmas Night in Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night in Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 |
 | 34 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 |
 | 35 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
 | 36 | [the holly & the ivy / auld lang syne](https://open.spotify.com/track/4HhjADXiJjP3514TU1jJ5r) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [the holly & the ivy / auld lang syne](https://open.spotify.com/album/3BIX6o5wrs2QaslFp8mMJv) | 2:54 |
-| 37 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
+| 37 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
 | 38 | [Where Are You Christmas](https://open.spotify.com/track/4Scdu8OfiVukJrULMZkuzZ) | [Cinema Sessions](https://open.spotify.com/artist/7lhCySmCIsq2J7JeNm7RWO) | [Mistletoe](https://open.spotify.com/album/0xEZWNEhKaDHa9zE5L6FGw) | 2:56 |
 | 39 | [Maybe This Christmas](https://open.spotify.com/track/2IVAb8cpiiv4CSSdfyWITW) | [Nightjewels](https://open.spotify.com/artist/6KVQ8BAUSzjs1hobrOPsbf) | [Maybe This Christmas](https://open.spotify.com/album/1HbufX8DCL5dNm7aZ2B1fl) | 2:03 |
 | 40 | [Little Saint Nick](https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Acoustic Christmas](https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN) | 3:11 |

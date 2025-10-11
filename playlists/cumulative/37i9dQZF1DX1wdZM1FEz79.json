@@ -9925,6 +9925,24 @@
     },
     {
       "album": {
+        "name": "Waves of Us",
+        "url": "https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS"
+      },
+      "artists": [
+        {
+          "name": "JeongSaebyeok",
+          "url": "https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Waves of Us",
+      "url": "https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp"
+    },
+    {
+      "album": {
         "name": "T_wo, First",
         "url": "https://open.spotify.com/album/2VTq68lUwuwceZbQdrPj6V"
       },

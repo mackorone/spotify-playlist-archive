@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 168495,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8"
@@ -5862,7 +5862,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 150857,
       "name": "Goons",
       "url": "https://open.spotify.com/track/25P31QyaHp71BqA3jhxAb2"
@@ -15877,6 +15877,24 @@
     },
     {
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/5RDgutPm4enhI9puKI0nkU"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/0EeBmLAtkmLsFiQ8kaPwLI"
+    },
+    {
+      "album": {
         "name": "DUBS EP",
         "url": "https://open.spotify.com/album/227Am9ZcZbUYeECl4eVrxN"
       },
@@ -16388,6 +16406,24 @@
       "duration_ms": 251571,
       "name": "Wriggle",
       "url": "https://open.spotify.com/track/3EW5sNOYG0NoiYDYBX3GTD"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/3NuYc7rRCXUFo4BzebN674"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3z25bFqHfuV6KY0aFNvZ96"
     },
     {
       "album": {

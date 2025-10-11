@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-417 songs - 21 hr 36 min
+418 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-01 | 2023-08-11 |
 | [Blank](https://open.spotify.com/track/7wyPZ9mcIFdpAmQvQDBTGG) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [NCS: The Best of 2015](https://open.spotify.com/album/4Ue5oyDHfbP9tsbtACJIgc) | 5:02 | 2023-08-10 |  |
 | [Blinded](https://open.spotify.com/track/0C09yZphEj0Kx9pLfHJpBt) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I), [Kosta](https://open.spotify.com/artist/40k9IAVwwWbO8xJWDd5sEL), [Theo Hoarau](https://open.spotify.com/artist/3RJfkLWApjGnsWi7KW2k1Q) | [Blinded](https://open.spotify.com/album/2K4DUoBzKyX38Nm3qtX5qn) | 3:29 | 2023-08-10 |  |
+| [Blindfold](https://open.spotify.com/track/0TQ8XBBc0O4UnHhZYSBIYM) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Blindfold](https://open.spotify.com/album/0pgJb5sPzK6k3ZdF5ZQfYY) | 3:28 | 2025-10-10 |  |
 | [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 | 2022-10-16 |
 | [blu](https://open.spotify.com/track/0UmTv1JVIm9vNhadCw4NrR) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [blu](https://open.spotify.com/album/4yczkllNRAfDQKofIveoZD) | 1:15 | 2024-09-24 |  |
 | [Bonfire](https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Bonfire](https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl) | 2:27 | 2022-12-22 | 2023-08-11 |

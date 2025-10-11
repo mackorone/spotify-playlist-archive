@@ -1,13 +1,93 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: The Kid LAROI",
-  "num_followers": 1306759,
+  "description": "Discover your favorite new chill pop songs. Cover: Thomas Day",
+  "num_followers": 1306705,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKX38s/prAw3ZewbEWpEqsZBWHYc",
+  "snapshot_id": "AAAAAIVkILf/jG68Z6O+zoaEchATOtyT",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:46",
+      "album": {
+        "name": "kids",
+        "url": "https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "pollen",
+      "url": "https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp"
+    },
+    {
+      "added_at": "2025-10-10 04:00:46",
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Pretty Idea",
+      "url": "https://open.spotify.com/track/2dm9ovqfua9wQFsepLvugc"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+    },
+    {
+      "added_at": "2025-07-11 04:00:31",
+      "album": {
+        "name": "Motel 6",
+        "url": "https://open.spotify.com/album/5nP4Z6tvYijPGKGCHBoggS"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/48UjTuQXKI2h99PstOiTQY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:38",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
     {
       "added_at": "2025-09-19 04:00:30",
       "album": {
@@ -47,22 +127,6 @@
       "duration_ms": 179817,
       "name": "A COLD PLAY",
       "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
-    },
-    {
-      "added_at": "2025-02-07 05:00:38",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "added_at": "2025-08-08 04:00:54",
@@ -111,38 +175,6 @@
       "duration_ms": 193627,
       "name": "halfwaythru",
       "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
-    },
-    {
-      "added_at": "2025-09-12 04:00:25",
-      "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2025-07-11 04:00:31",
-      "album": {
-        "name": "Motel 6",
-        "url": "https://open.spotify.com/album/5nP4Z6tvYijPGKGCHBoggS"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Motel 6",
-      "url": "https://open.spotify.com/track/48UjTuQXKI2h99PstOiTQY"
     },
     {
       "added_at": "2025-09-05 04:00:27",

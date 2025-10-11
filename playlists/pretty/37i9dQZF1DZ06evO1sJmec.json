@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2074625,
+  "num_followers": 2074869,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC1JWxPOv2ax9Rm/smylv9R",
+  "snapshot_id": "aOb7AAAAAACw6HRwkG/BpXFHNffl4Kju",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 496626,
-      "name": "Disposable Heroes",
-      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 496626,
+      "name": "Disposable Heroes",
+      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "The Thing That Should Not Be",
-      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "The Thing That Should Not Be",
+      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
     },
     {
       "added_at": null,

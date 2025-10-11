@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-847 songs - 2 day 7 hr 23 min
+849 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 | 2023-05-17 |
 | [Bhuta](https://open.spotify.com/track/3n5KOTr85y3NOdDPmMIFD9) | [Sabasonik](https://open.spotify.com/artist/1bJVUQC8Ag7LR15xEJS45G) | [Taala / Bhuta](https://open.spotify.com/album/4hDqxbvHFRRTGPQFFmI6Wi) | 3:52 | 2022-02-17 | 2022-07-30 |
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
-| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-15 |  |
+| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-15 | 2025-10-11 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
 | [Big Sound](https://open.spotify.com/track/6dlCxzq1BmPXFLArScNz2i) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/2fsd0lJ3k6Fig0x8eulNnB) | 4:39 | 2022-07-08 | 2023-01-14 |
 | [birds on \[tatooine\]](https://open.spotify.com/track/6alu8VrEPElH37Br4AViEg) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [The Great Migration of Memory](https://open.spotify.com/album/0P0egdkQPXPxkbv57Hu94R) | 1:16 | 2024-05-10 | 2024-09-14 |
@@ -305,7 +305,7 @@
 | [Gom Jabbar](https://open.spotify.com/track/0TQV90JKk7IyHcjI29TKo3) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Gom Jabbar](https://open.spotify.com/album/6djHuRoajtBmvj8hNCzQUi) | 2:44 | 2024-12-13 |  |
 | [Good Day](https://open.spotify.com/track/16EHRzGqzzhNTiUpMx5r8n) | [Maddman](https://open.spotify.com/artist/7GCPF7s0Ud25ptkmIAKpqQ) | [Good Day](https://open.spotify.com/album/4CvS5NDYdK1wLZUN7MJQja) | 6:24 | 2022-02-17 | 2022-04-09 |
 | [Goodfella](https://open.spotify.com/track/0XGcSFfyc2NYxVOEOJu2l9) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Goodfella](https://open.spotify.com/album/0k4R6MfemjcCUxwnldFsex) | 3:15 | 2024-10-25 | 2024-12-14 |
-| [Goons](https://open.spotify.com/track/25P31QyaHp71BqA3jhxAb2) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq) | [Goons](https://open.spotify.com/album/7vf6ZFzqAhOMH35zVNVt5r) | 2:30 | 2024-11-05 |  |
+| [Goons](https://open.spotify.com/track/25P31QyaHp71BqA3jhxAb2) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq) | [Goons](https://open.spotify.com/album/7vf6ZFzqAhOMH35zVNVt5r) | 2:30 | 2024-11-05 | 2025-10-11 |
 | [GOOP](https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 2:40 | 2024-07-19 | 2024-12-04 |
 | [gopher it](https://open.spotify.com/track/2YvxcEGBNgi1p4H3VDR0cy) | [um..](https://open.spotify.com/artist/4aTmeAJQIHvOYEpc5KxJ8x) | [gopher it](https://open.spotify.com/album/5kKegDHRlOi8UJjoSehl51) | 3:18 | 2022-07-01 | 2023-07-15 |
 | [Gossip](https://open.spotify.com/track/2A7hEzjx2RO87ct4aQTkoh) | [Fake Two Piece](https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya), [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Core Shift](https://open.spotify.com/album/6BtCYbdzZTmmIWhOAPL4zA) | 4:06 | 2025-07-18 | 2025-09-21 |
@@ -816,6 +816,7 @@
 | [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-08-18 |
 | [Wasn't Easy](https://open.spotify.com/track/29V749bQtSemlnoxkAw0s7) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Wasn't Easy](https://open.spotify.com/album/3gSyJl6ePgCXAPNG8TIA7t) | 4:56 | 2025-08-29 | 2025-09-28 |
 | [wassup](https://open.spotify.com/track/73iD1rBBjPjQvFOFe2fM21) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [wassup](https://open.spotify.com/album/4D4Xqyr5rLNnzK14GvGTeu) | 2:43 | 2024-03-22 | 2024-06-10 |
+| [Watch Me](https://open.spotify.com/track/0EeBmLAtkmLsFiQ8kaPwLI) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Watch Me](https://open.spotify.com/album/5RDgutPm4enhI9puKI0nkU) | 2:51 | 2025-10-10 |  |
 | [Watchin You](https://open.spotify.com/track/384AyogTeYanSZeLzBptzd) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [DUBS EP](https://open.spotify.com/album/227Am9ZcZbUYeECl4eVrxN) | 3:41 | 2025-03-21 | 2025-06-07 |
 | [Watching From A Distance](https://open.spotify.com/track/7fP6evA1EQzB1tpfbPk9ml) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [Watching From A Distance](https://open.spotify.com/album/0W7MdF4x84CqjlHC3RiyIq) | 2:33 | 2022-02-17 | 2023-04-27 |
 | [Wayfinder](https://open.spotify.com/track/0eF5ikLUTvBdk57XEHeN6d) | [11th Hour](https://open.spotify.com/artist/2KizYftxFxLHLqsudT07bf) | [DUPLOC ARTILLERY 2](https://open.spotify.com/album/0L6Su3tiDmxYfsOtCCT48c) | 4:12 | 2024-12-03 | 2025-06-14 |
@@ -841,6 +842,7 @@
 | [WOOK ROCKET \(feat\. Pure Powers\)](https://open.spotify.com/track/3N3eXQOxjuy4rJ7tikzTkj) | [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW), [Pure Powers](https://open.spotify.com/artist/1FTPyh2jjCHfhzqYQGFeyL) | [WOOK ROCKET \(feat\. Pure Powers\)](https://open.spotify.com/album/3H6ow1calZHgOW2etgcCsM) | 2:57 | 2024-03-01 | 2024-03-15 |
 | [Words \- Vocal Mix](https://open.spotify.com/track/1RTowRTwyaC86M9ga49PYB) | [Bukkha](https://open.spotify.com/artist/7ADHSBDZKBUoay9s2qXfBA), [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Dutchie](https://open.spotify.com/artist/4hDECVsh9KRPgQj19SGULJ) | [Words](https://open.spotify.com/album/1BTfoWfbTvpqidb7VpaIo3) | 4:33 | 2022-02-17 | 2022-10-01 |
 | [Wriggle](https://open.spotify.com/track/3EW5sNOYG0NoiYDYBX3GTD) | [Wraz.](https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D) | [Wriggle](https://open.spotify.com/album/1HmkK4okglpviZ4NssumLI) | 4:11 | 2023-03-17 | 2024-02-24 |
+| [WTF](https://open.spotify.com/track/3z25bFqHfuV6KY0aFNvZ96) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [WTF](https://open.spotify.com/album/3NuYc7rRCXUFo4BzebN674) | 2:39 | 2025-10-10 |  |
 | [WTFU](https://open.spotify.com/track/4V0nYc4KQw6ud222mciukE) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [WTFU](https://open.spotify.com/album/6C2bIp2f3DOnage51tKmjE) | 2:53 | 2025-10-03 |  |
 | [WYAWYS](https://open.spotify.com/track/2jgOUCCJMqX3p3Fo40KsOC) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [WYAWYS](https://open.spotify.com/album/2yH8u1jhW55ZkJhlx1eZOO) | 2:50 | 2025-03-14 |  |
 | [Yellow & Grey \- VIP](https://open.spotify.com/track/07NxznfndybP6d9qABtAwD) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [DUPPLATES Vol\. 2](https://open.spotify.com/album/3du86awsODuMWqseXq6IIz) | 4:26 | 2022-02-17 | 2022-07-29 |

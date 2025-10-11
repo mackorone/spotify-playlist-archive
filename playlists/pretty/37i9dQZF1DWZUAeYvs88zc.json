@@ -1,13 +1,45 @@
 {
   "description": "For all of us dancing on our own. chloe moriondo on the cover.",
-  "num_followers": 599749,
+  "num_followers": 599719,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3TZgl52uKmSagyWeIIMyeqrE3n",
+  "snapshot_id": "AAAAAHw1QPcK76h18F5qRoEKDIZBL84G",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:27",
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2025-05-27 03:38:46",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
     {
       "added_at": "2025-09-12 04:00:31",
       "album": {
@@ -61,6 +93,26 @@
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
     },
     {
+      "added_at": "2025-10-10 04:00:27",
+      "album": {
+        "name": "viscus (feat. FKA twigs)",
+        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 220534,
+      "name": "viscus (feat. FKA twigs)",
+      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
+    },
+    {
       "added_at": "2025-09-16 12:34:53",
       "album": {
         "name": "Make Me Cry",
@@ -93,20 +145,36 @@
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
-      "added_at": "2025-09-16 12:29:20",
+      "added_at": "2025-10-10 04:00:27",
       "album": {
-        "name": "<3DISC",
-        "url": "https://open.spotify.com/album/2e8TXWKQI9xiplPC7q359b"
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
       },
       "artists": [
         {
-          "name": "Ericka Jane",
-          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
         }
       ],
-      "duration_ms": 160516,
-      "name": "HEARTDISC",
-      "url": "https://open.spotify.com/track/6TrZ2TUIerD5UA5r6dysUg"
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
+    },
+    {
+      "added_at": "2025-10-10 23:53:41",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O"
     },
     {
       "added_at": "2025-07-18 04:31:38",
@@ -189,6 +257,22 @@
       "url": "https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts"
     },
     {
+      "added_at": "2025-09-16 12:29:20",
+      "album": {
+        "name": "<3DISC",
+        "url": "https://open.spotify.com/album/2e8TXWKQI9xiplPC7q359b"
+      },
+      "artists": [
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "duration_ms": 160516,
+      "name": "HEARTDISC",
+      "url": "https://open.spotify.com/track/6TrZ2TUIerD5UA5r6dysUg"
+    },
+    {
       "added_at": "2025-05-27 03:38:46",
       "album": {
         "name": "Lovers",
@@ -267,22 +351,6 @@
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8"
-    },
-    {
-      "added_at": "2025-07-04 04:00:37",
-      "album": {
-        "name": "Up In Flames (The Wayland)",
-        "url": "https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Up In Flames (The Wayland)",
-      "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -387,22 +455,6 @@
     {
       "added_at": "2025-05-27 03:38:46",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2025-05-27 03:38:46",
-      "album": {
         "name": "What Was That",
         "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
       },
@@ -463,22 +515,6 @@
       "duration_ms": 178010,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ"
-    },
-    {
-      "added_at": "2025-05-27 03:38:46",
-      "album": {
-        "name": "Drop Dead",
-        "url": "https://open.spotify.com/album/7FizCLR1TgCRilxzEgoqEi"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 161389,
-      "name": "Drop Dead",
-      "url": "https://open.spotify.com/track/4Ms82sYhimBer12aieJDmJ"
     },
     {
       "added_at": "2025-05-27 03:38:46",
@@ -771,22 +807,6 @@
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
-    },
-    {
-      "added_at": "2025-05-27 03:38:46",
-      "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2025-05-27 03:38:46",
@@ -1579,22 +1599,6 @@
       "duration_ms": 147713,
       "name": "rubberband",
       "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
-    },
-    {
-      "added_at": "2025-05-27 03:38:46",
-      "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215507,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
     },
     {
       "added_at": "2025-05-27 03:38:46",

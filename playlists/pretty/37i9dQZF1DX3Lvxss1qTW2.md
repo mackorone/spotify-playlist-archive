@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,829 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,932 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Escaladizzy II](https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Escaladizzy II](https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu) | 3:33 |
-| 2 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [](https://open.spotify.com/album/null) | 3:07 |
+| 2 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 3 | [Dead Flowers](https://open.spotify.com/track/3GWRi1nidQuwXcoP3zB7u9) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Dead Flowers](https://open.spotify.com/album/5UnD4luhw0cDGhPvQabsnJ) | 3:01 |
 | 4 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 5 | [How Do You?](https://open.spotify.com/track/1ByWHNLTkPtzImR5jUjvQ2) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [How Do You?](https://open.spotify.com/album/7fLcgyXSupsaclb9IwC736) | 3:30 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 14 | [Bring You Home](https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 2:28 |
 | 15 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |
 | 16 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
-| 17 | [Hello](https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Hello](https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH) | 2:35 |
+| 17 | [Hello Hello](https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Hello Hello](https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH) | 2:35 |
 | 18 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 |
 | 19 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
 | 20 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,556 likes - 175 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,555 likes - 175 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 66 | [Cry](https://open.spotify.com/track/0CqGCpNdOktUrsTUEkWozV) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:19 |
 | 67 | [Coattails](https://open.spotify.com/track/66uZIZ8Nz5OIuHUoLZK6X3) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:15 |
 | 68 | [One More \(feat\. MØ\)](https://open.spotify.com/track/4ey8OIWXyetxSGjschFf2i) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:27 |
-| 69 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
-| 70 | [No Better](https://open.spotify.com/track/1cSO94kRdktvh9zbndRhFX) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [No Better](https://open.spotify.com/album/22YruYAHSJb8TxSmk1PBKn) | 2:50 |
+| 69 | [No Better](https://open.spotify.com/track/1cSO94kRdktvh9zbndRhFX) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [No Better](https://open.spotify.com/album/22YruYAHSJb8TxSmk1PBKn) | 2:50 |
+| 70 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
 | 71 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 |
 | 72 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
 | 73 | [Sister](https://open.spotify.com/track/3zx6dcYuKX7sYrI1TaDf4y) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 3:25 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 115 | [Cool On Fire](https://open.spotify.com/track/3WifWW4VeNDQewWTRqGYCr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:33 |
 | 116 | [Apartment Song](https://open.spotify.com/track/0h6ymtVt32j6qKZzzMs8aV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:41 |
 | 117 | [Moment](https://open.spotify.com/track/1FbZA1NUgt5VwTcLF2VlDw) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:13 |
-| 118 | [High](https://open.spotify.com/track/7oNh0H3emjOKRpouhUxRdp) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:41 |
-| 119 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
+| 118 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
+| 119 | [High](https://open.spotify.com/track/7oNh0H3emjOKRpouhUxRdp) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:41 |
 | 120 | [Taunting The Cat](https://open.spotify.com/track/3giDeoZ22HmFOLPJXzT6va) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 2:09 |
 | 121 | [Late Night Drive](https://open.spotify.com/track/2M6x4V5ckoyyrtUsrhOFi8) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Aerial Love](https://open.spotify.com/album/3D2NCHaFWyCnQy6eNwErtt) | 3:05 |
 | 122 | [My Only \- Australian Version](https://open.spotify.com/track/01VFBMQLUpPQNToSqz2eIW) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:32 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab+bqAAAAAAT9ZjLgCH7K/MjjT6mvMoh`
+Snapshot ID: `Ab+hcAAAAACULO7437F21zCQFp4A6m5K`

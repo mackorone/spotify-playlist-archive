@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-689 songs - 2 day 4 hr 25 min
+690 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Damages](https://open.spotify.com/track/6XIY8qidGkzWwgcEBQLXam) | [Polarization](https://open.spotify.com/artist/0b24PjWEp3d9m60dzvGeLZ) | [Chasing the Light](https://open.spotify.com/album/7qRvq7Vc5sjM7ESzbYvmzp) | 4:21 | 2022-07-13 | 2022-07-30 |
 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 | 2023-07-17 | 2024-02-24 |
 | [Damnation Flame](https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:33 | 2024-02-23 | 2024-04-16 |
-| [Dance Till We Sink](https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm) | [A Wildheart's Tale](https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb) | [Dance Till We Sink](https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt) | 2:58 | 2024-09-20 |  |
+| [Dance Till We Sink](https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm) | [A Wildheart's Tale](https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb) | [Dance Till We Sink](https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt) | 2:58 | 2024-09-20 | 2025-10-11 |
 | [Dance with the Devil](https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g) | 3:54 | 2024-09-20 | 2025-08-16 |
 | [Dancing with the Dead](https://open.spotify.com/track/7KOCjpEPpWhjUQwMhewWy6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Dancing with the Dead](https://open.spotify.com/album/5mAAQ7KTPsJrny2toIFtn8) | 4:05 | 2021-06-25 | 2022-04-02 |
 | [Dangerous Game](https://open.spotify.com/track/3mCaLSxcSFATJ9jArxm3be) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ), [Henk Poort](https://open.spotify.com/artist/119M7XQ8yohqLeHrIik6vi) | [Dangerous Game](https://open.spotify.com/album/64HaMN4s0RNSjdBILXv2VX) | 3:22 | 2021-06-11 | 2022-02-11 |
@@ -198,7 +198,7 @@
 | [Eternity \- 2025 Remaster](https://open.spotify.com/track/7bqFVDJNQYZ0H8YOuijESK) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [Eternity \(2025 Remaster\)](https://open.spotify.com/album/4DB7BKts42j2zGW4yBRTzU) | 5:42 | 2025-07-25 | 2025-09-26 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-11-13 | 2022-07-01 |
 | [Event Horizon](https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1) | [New Horizon](https://open.spotify.com/artist/2Tx9qvXQEMGM4wIRald5uk) | [Event Horizon](https://open.spotify.com/album/4tcpxAECnvzKmINKJ44UYY) | 4:13 | 2022-02-11 | 2023-05-17 |
-| [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 | 2023-03-24 | 2025-10-10 |
+| [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 | 2023-03-24 |  |
 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 | 2021-11-27 | 2022-01-08 |
 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 | 2021-12-11 |  |
 | [Faith Focus Finish](https://open.spotify.com/track/2fNGUCVzfeVIzMtW2SQBPj) | [Van Canto](https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL) | [Faith Focus Finish](https://open.spotify.com/album/4fWvKXqfeN03SzCsYtadbf) | 4:57 | 2021-06-04 | 2022-01-22 |
@@ -534,6 +534,7 @@
 | [Steelbound](https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI) | 4:26 | 2025-06-06 |  |
 | [Stella](https://open.spotify.com/track/0DQGUWXp8KxxbONNsXPrHN) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Stella](https://open.spotify.com/album/6H7RPwA2D0XRSgQwjgK1Ai) | 5:27 | 2022-07-13 | 2022-07-29 |
 | [Stomp the Haunted Crown](https://open.spotify.com/track/4YUAcUPZzIZPO47NA3P5ZJ) | [Pomegranate Tiger](https://open.spotify.com/artist/30T39voTL4EiHKGNE0mQxO) | [Boundless](https://open.spotify.com/album/0PPEx5fIfCQesfyebojcvH) | 5:56 | 2022-07-13 | 2022-07-30 |
+| [Stone by Stone](https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS) | [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [Stone by Stone](https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj) | 3:46 | 2025-10-10 |  |
 | [Storm](https://open.spotify.com/track/7j5qDqtGGMZ8aFNsOX43A8) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Renaissance](https://open.spotify.com/album/1Ki56K82avE7nTkZEyVIE7) | 3:29 | 2022-07-13 | 2022-07-30 |
 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2022-08-19 |  |
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2022-07-13 | 2022-07-30 |
@@ -663,7 +664,7 @@
 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 | 2024-02-05 |  |
 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 | 2024-04-15 |  |
 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 | 2023-07-17 | 2025-01-13 |
-| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 |  |
+| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 | 2025-10-11 |
 | [We Stand United](https://open.spotify.com/track/36LRne9ykUjTPUAo64xGU5) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Stand United](https://open.spotify.com/album/5hcGB5bNE81iLGZM8srQka) | 4:42 | 2025-09-05 |  |
 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 | 2023-05-19 | 2024-04-19 |
 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 | 2022-01-14 | 2023-12-18 |

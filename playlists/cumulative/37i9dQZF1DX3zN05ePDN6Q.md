@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Torya
 
-712 songs - 1 day 13 hr 6 min
+712 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Mandamento$ Malokeiro$](https://open.spotify.com/track/6c4euWNEt5BEyVHv7B1UGp) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 3:43 | 2024-07-12 | 2025-06-07 |
 | [Manifesto](https://open.spotify.com/track/5PBICNRqKfYvwGjohxTOoB) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3), [2d intocável](https://open.spotify.com/artist/2ga6XcQvryAea4RIYQu9FI) | [Rastros em Lapsos](https://open.spotify.com/album/0FiTKqWJrdzQnGmzMCvw1u) | 3:01 | 2022-11-25 | 2023-04-09 |
 | [Manilha](https://open.spotify.com/track/28gQLRZiGQH5yT5MCq9EE3) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS) | [Manilha](https://open.spotify.com/album/7n5tR0WRKwux0NdBOQSZxw) | 3:05 | 2025-10-10 |  |
+| [Mantendo o Rap Vivo](https://open.spotify.com/track/3vHMSG73aeez3UskO1u9N9) | [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE), [Matéria Prima](https://open.spotify.com/artist/2xi4Hm3GjDdOvxTVQ9Mz2d) | [Mantendo o Rap Vivo](https://open.spotify.com/album/3WebALOc8UFg3H69hV0Rp2) | 2:40 | 2025-10-10 |  |
 | [Marcas e Cicatrizes](https://open.spotify.com/track/4myL1zIgBFFTz4V2UliSqW) | [Brasileiro](https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4) | [Marcas e Cicatrizes](https://open.spotify.com/album/5vl0K6L48dog6SwpKrqrZx) | 3:18 | 2024-11-08 | 2024-11-30 |
 | [Margem](https://open.spotify.com/track/5yo7JXGV8wjHbXRrufcz9R) | [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [Garoto Oceano](https://open.spotify.com/album/3aIlFTEGEnKQAaTSPHKmA4) | 3:12 | 2024-11-08 | 2024-11-23 |
 | [Marginais Boombap 4](https://open.spotify.com/track/034zxdscs9SoonpNUtl5kG) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Marginais Boombap 4](https://open.spotify.com/album/00ZnCZQO2b2dZJiXpnScK0) | 3:30 | 2025-09-05 |  |
@@ -648,7 +649,6 @@
 | [Time](https://open.spotify.com/track/61Aw3yZH92IyGyfIhkcAO8) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Rodrigo Chiocki](https://open.spotify.com/artist/2ewT5YmiSeNwAqDW929zz0) | [Time](https://open.spotify.com/album/2Po13cWqzgBohlQ4qGjnG7) | 2:47 | 2023-03-17 | 2023-04-15 |
 | [Toc Toc Toc](https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:10 | 2025-09-19 |  |
 | [TOCA Q TOCA](https://open.spotify.com/track/0RMYaqYY0xcaFB8aRlUXe6) | [Georgia](https://open.spotify.com/artist/5zf64lwDr9ZoKtCw2b3Mdd) | [TOCA Q TOCA](https://open.spotify.com/album/12TzmJhXTw2qvRnag3WYVM) | 3:24 | 2024-07-05 | 2024-07-13 |
-| [Track 7](https://open.spotify.com/track/3vHMSG73aeez3UskO1u9N9) | [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE), [Matéria Prima](https://open.spotify.com/artist/2xi4Hm3GjDdOvxTVQ9Mz2d) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Trajadx De Fé](https://open.spotify.com/track/5Z2T7gQOkNbU2aLuNakksa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV) | [Alone](https://open.spotify.com/album/51ysxwMH0PQRS180bFxiMx) | 2:08 | 2022-03-18 | 2022-04-09 |
 | [Trilha](https://open.spotify.com/track/4c4tHsfQCbRNV756hV3e46) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Trilha](https://open.spotify.com/album/6LNq7whBmKdA35guSWUWtw) | 1:07 | 2023-08-11 | 2023-09-30 |
 | [Trânsito da Cidade](https://open.spotify.com/track/4pQgLONw1HQMxJ6apIyJK1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Trânsito da Cidade](https://open.spotify.com/album/0ar4UsexhJOYDjoSJmusy7) | 2:40 | 2022-03-25 | 2022-07-29 |

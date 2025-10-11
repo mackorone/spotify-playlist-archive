@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Lojay
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,022 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,381 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [](https://open.spotify.com/album/null) | 3:07 |
+| 1 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 2 | [Casanova](https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Casanova](https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx) | 2:15 |
 | 3 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/1w4skI13FluHsfYl3PRwe0) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Dis\-moi que tu m'aimes](https://open.spotify.com/album/44ISjJnF6PHHoCnq9ytZbk) | 2:32 |
 | 4 | [BIG TIME \(feat\. Wizkid\)](https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 3:26 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 11 | [Believe](https://open.spotify.com/track/16ilarx3v35s8fwqrIp01v) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Believe](https://open.spotify.com/album/7w4K2sfwhVBFGfmJAiQJf2) | 2:48 |
 | 12 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 13 | [LE MONDE EST À NOUS](https://open.spotify.com/track/2wQcGUV3Tfz9mMlNuVrjfo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [LE MONDE EST À NOUS](https://open.spotify.com/album/3tlXVWWuJAUlXwNl6JVysL) | 3:21 |
-| 14 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 |
+| 14 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 |
 | 15 | [Fan de Toi](https://open.spotify.com/track/27H1sOZnjTLtBtBx6XV03f) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Fan De Toi](https://open.spotify.com/album/5sQFJeYf84nfIhL8Mpn1aH) | 2:43 |
 | 16 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 |
 | 17 | [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 |

@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\.  Malcriada en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Reyno en Portada.
 
-727 songs - 1 day 19 hr 9 min
+732 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 | 2021-12-17 | 2024-09-28 |
 | [Grita](https://open.spotify.com/track/6DRiKwFSREKl2ADoV18Rp3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Grita](https://open.spotify.com/album/4fzH9IuG8ytX1TmWDfYr7i) | 3:26 | 2024-10-18 | 2025-03-15 |
 | [Guíame Que No Soy Yo](https://open.spotify.com/track/5HrFg5equln8liFUkXiN61) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Guíame Que No Soy Yo](https://open.spotify.com/album/6EFxJyYpL0hF6lYPQJyoNx) | 2:31 | 2023-03-31 | 2023-04-09 |
+| [Halloween II](https://open.spotify.com/track/0ygAzclwMfvkQeqcdY0jD7) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [GRILLED CHEESE DELUXE](https://open.spotify.com/album/5wjtyr36SeI9ZaDNmKWu8j) | 2:31 | 2025-10-10 |  |
 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 | 2022-11-25 | 2023-06-03 |
 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 | 2021-12-17 | 2022-07-23 |
 | [HASTA SIEMPRE](https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [HASTA SIEMPRE](https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l) | 3:08 | 2021-12-17 | 2024-08-10 |
@@ -391,6 +392,7 @@
 | [Lxs Vampirxs](https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Lxs Vampirxs](https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy) | 2:29 | 2023-11-17 | 2024-01-13 |
 | [Mabel](https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [yo también les tengo miedo](https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN) | 2:48 | 2025-09-26 |  |
 | [Mal Negocio](https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Mal Negocio](https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn) | 3:22 | 2023-11-10 | 2023-12-02 |
+| [Mala Prensa](https://open.spotify.com/track/0TjWln3dlSMwbB0gvHxlaU) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Hecho En Tiempos De Paz](https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo) | 3:24 | 2025-10-10 |  |
 | [Malas Ideas](https://open.spotify.com/track/7Mi5GYaOmlw0Z4rGyaBIJv) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Maurizio Terracina](https://open.spotify.com/artist/1eZ0H2ylC40ZOUkjc2Zlx1) | [Malas Ideas](https://open.spotify.com/album/6yq5IgZoSAOYxUNjqryIul) | 3:35 | 2025-05-16 | 2025-08-30 |
 | [Maldita Distancia](https://open.spotify.com/track/7rlR1LQdbbuC1xBc4BQORX) | [ZEEVA](https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Maldita Distancia](https://open.spotify.com/album/6t0ekozwgWaDY23S9wum8v) | 2:35 | 2025-08-22 |  |
 | [Maldito](https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT), [Bulberizer](https://open.spotify.com/artist/1EfQ2xkvSqlF2e86zK0xQc) | [Bulberizer / Bulbo Raquídeo](https://open.spotify.com/album/6cD7ZctaLWVlsN8eUfxEmD) | 3:12 | 2024-03-29 | 2024-07-27 |
@@ -506,9 +508,11 @@
 | [Nuevos comienzos](https://open.spotify.com/track/3cEb05tA25tgAe95qbOfpY) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Nuevos comienzos](https://open.spotify.com/album/1pkrbDDAw4zBjrBiu7G4UA) | 3:33 | 2025-01-17 | 2025-08-23 |
 | [nunca he aprendido a soltar](https://open.spotify.com/track/2u0oPp1ctq1m4ojQKt6Whb) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [nunca he aprendido a soltar](https://open.spotify.com/album/15HxFTwGLR6PB3PKPQj84d) | 3:28 | 2025-07-04 |  |
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2021-12-17 | 2024-06-22 |
+| [Nunca Quise Irme](https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [Nunca Quise Irme](https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0) | 3:28 | 2025-10-10 |  |
 | [Nunca Se Apaga \- Remaster 2022](https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Fuiste Bueno \(Remaster 2022\)](https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy) | 2:41 | 2023-06-30 | 2024-04-27 |
 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 | 2022-04-20 | 2023-09-23 |
 | [Náufrago](https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 4:10 | 2021-12-17 | 2024-07-19 |
+| [Nómada](https://open.spotify.com/track/7BAopsEfBOaFt4NenCLYQT) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Nómada](https://open.spotify.com/album/7wUz1ZZ3VrixMtw8G2mCud) | 3:55 | 2025-10-10 |  |
 | [Obsesión \- Alternate Version](https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:07 | 2024-10-25 | 2024-11-02 |
 | [Odio la Prepa](https://open.spotify.com/track/23MIUBh3IYTeWk76uL2XEh) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Odio la Prepa](https://open.spotify.com/album/0rgkiz47JbMVPhYyjPyG9s) | 1:12 | 2022-07-01 | 2022-07-06 |
 | [Ojalá](https://open.spotify.com/track/2NuWsgQzctA8yBIgAgRVjD) | [The Crab Apples](https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ) | [Ojalá](https://open.spotify.com/album/5wj95nBNFeK1y2CsT2cCr5) | 2:32 | 2024-05-10 | 2025-02-08 |
@@ -559,6 +563,7 @@
 | [Quiero Más De Ti](https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [Quiero Más De Ti](https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG) | 2:51 | 2025-08-29 | 2025-09-27 |
 | [Quiero Ver Todo Arder \(Claaaro, todxs son pendejxs menos tú\)](https://open.spotify.com/track/3uUxkzOIEZC2NcdOyDRqxY) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN), [Tim Picchetti](https://open.spotify.com/artist/7c3k9kUFXmsCzzTvCwli0b) | [Quiero Ver Todo Arder \(Claaaro, todxs son pendejxs menos tú\)](https://open.spotify.com/album/3KRt8TsHViYZbHqZNLybvD) | 3:03 | 2024-09-27 | 2024-10-19 |
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-12-17 | 2024-07-19 |
+| [Quién Pensaría](https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ) | 3:32 | 2025-10-10 |  |
 | [Qué Linda](https://open.spotify.com/track/6aIihWCXDxues6MiGrM3rX) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Qué Linda](https://open.spotify.com/album/5ld8B0HseNBSGQiJyDAON5) | 2:45 | 2024-04-19 | 2025-02-01 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-06 | 2024-09-14 |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 | 2023-06-24 |

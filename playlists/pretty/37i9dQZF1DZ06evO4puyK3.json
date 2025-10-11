@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166082,
+  "num_followers": 166081,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC2qwOxj0WpJr4XfVy7b7x5",
+  "snapshot_id": "aOb7AAAAAABmchmoJlMLrX2yUIJtjbSC",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "MIL GRAU",
+      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Presente do C\u00e9u",
         "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 253932,
       "name": "Presente do C\u00e9u",
       "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALEGORIA",
-        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "MIL GRAU",
-      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,072 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,170 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 36 | [Plata o Plomo \(feat\. Eugenia León\)](https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:35 |
 | 37 | [Los Gritos del Iconoclasta](https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El Manual de la Otredad](https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je) | 3:31 |
 | 38 | [Neza No\. 1](https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0) | [Sociedad Café](https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR) | [Rap Latino](https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz) | 4:33 |
-| 39 | [Margarito](https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR) | [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw) | [Margarito No Cometio Delito](https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z) | 3:05 |
-| 40 | [Hoy No Circulo](https://open.spotify.com/track/3UHc064XWh0sTWoMmDTBeu) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [DFMXVG](https://open.spotify.com/album/35UZzg3KUxH3HAEyp3F3OU) | 2:49 |
+| 39 | [Hoy No Circulo](https://open.spotify.com/track/3UHc064XWh0sTWoMmDTBeu) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [DFMXVG](https://open.spotify.com/album/35UZzg3KUxH3HAEyp3F3OU) | 2:49 |
+| 40 | [Margarito](https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR) | [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw) | [Margarito No Cometio Delito](https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z) | 3:05 |
 | 41 | [Camaleones \- Remasterizado](https://open.spotify.com/track/4miCCObbx713lWPnTAZXHh) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m) | [Camaleones \(Remasterizado\)](https://open.spotify.com/album/3qbeaGHvshA1NZDv0slOpj) | 2:33 |
 | 42 | [Alquimista \(Bonus Track\)](https://open.spotify.com/track/20BppOrfwiJmWfg1wEfjw8) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Libre](https://open.spotify.com/album/5HfSAaF786Ib99EJZs3zls) | 2:54 |
 | 43 | [Rompe con To'](https://open.spotify.com/track/5LBLIFUeUUUq9Rf4r5ekAU) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [Rompe con To'](https://open.spotify.com/album/25Q6BFGBSIBd4G5PZT1JIL) | 2:59 |
 | 44 | [Éxtasis \(feat\. Cartel de Santa\)](https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Así Soy Yo](https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ) | 4:49 |
-| 45 | [Si Señor](https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv) | 4:13 |
+| 45 | [Comprendes, Mendes?](https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2) | 3:35 |
 | 46 | [Rucón](https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T) | 2:48 |
 | 47 | [El Diablo Anda Suelto](https://open.spotify.com/track/2vfp3rtorzJs4l9nhrP0e1) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df) | 6:21 |
 | 48 | [Pesao \(feat\. Cartel de Santa & Millonario\)](https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp) | 3:28 |
 | 49 | [Anda Y Ve](https://open.spotify.com/track/2pfJsufl4kJ0kMT5C1nlwj) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Los Aguacates De Jilquilpan](https://open.spotify.com/album/6po3epE8ZFBQed9W8IKMke) | 4:52 |
-| 50 | [Comprendes, Mendes?](https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2) | 3:35 |
+| 50 | [Si Señor](https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv) | 4:13 |
 
 Snapshot ID: `AAAAAAU4aoG9Wzd8ShfVAk9lVEfnzoF7`

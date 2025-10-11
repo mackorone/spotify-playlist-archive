@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 33 | [Our Eternal Sky](https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 4:41 |
 | 34 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 |
 | 35 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 |
-| 36 | [Webbing](https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 2:56 |
-| 37 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 |
-| 38 | [New Life Emerging](https://open.spotify.com/track/45CJPXqDv076QqtdKiKo50) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:04 |
+| 36 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 |
+| 37 | [Webbing](https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 2:56 |
+| 38 | [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 |
 | 39 | [First Of Many](https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:24 |
-| 40 | [Keep Talking](https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:44 |
-| 41 | [Ophelia](https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:52 |
+| 40 | [Ophelia](https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:52 |
+| 41 | [Keep Talking](https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:44 |
 | 42 | [The Shallow Seas](https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:51 |
 | 43 | [This Was A Beautiful Dream](https://open.spotify.com/track/5xb8ABDPvuMKvv6facxQsJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:48 |
 | 44 | [Heads of State](https://open.spotify.com/track/3Njp6CLh7QFtb4MAXvnlEg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Heads of State \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s) | 4:11 |
 | 45 | [To Lose Himself in Vengeance](https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 7:01 |
-| 46 | [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 |
+| 46 | [New Life Emerging](https://open.spotify.com/track/45CJPXqDv076QqtdKiKo50) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:04 |
 | 47 | [A Good Choice](https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:43 |
 | 48 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
 | 49 | [A Three Percent Chance](https://open.spotify.com/track/19B8Y8wE7yE0OFJhbfAQdz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:49 |
-| 50 | [Out of the Emptiness](https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 5:13 |
+| 50 | [Beneath the Waves](https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:50 |
 
-Snapshot ID: `aOWpgAAAAAAw5S9Tv6IwAg+B/J4shyIE`
+Snapshot ID: `aOb7AAAAAADusjiTDUg4uab1YJzdNfs4`

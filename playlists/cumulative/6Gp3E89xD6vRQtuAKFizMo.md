@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-504 songs - 1 day 0 hr 12 min
+507 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Gasoline](https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Gasoline](https://open.spotify.com/album/5HE9gH7CjPGyIT7MNKJhKW) | 2:26 | 2025-06-27 |  |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-05-06 | 2022-12-03 |
 | [Get Back The Love](https://open.spotify.com/track/5r3cmZRUupy2DSX8mhs2cE) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Get Back The Love](https://open.spotify.com/album/6H5H3AwjsUGUvcAEp9NLI6) | 2:59 | 2024-04-05 | 2025-04-27 |
+| [Get Down](https://open.spotify.com/track/1wh7uKnNRSOz7Nx9h5Uf3C) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/5fczgOy0aMutPK9HOM8m5r) | 3:30 | 2025-10-10 |  |
 | [Get Enough](https://open.spotify.com/track/2aoPKmzdIyqF0FRre5vbQw) | [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN), [Zachary Fremont](https://open.spotify.com/artist/6JJ1tvU9cAQcIN0WoLOXkD) | [Get Enough](https://open.spotify.com/album/6OmjrHo4m4D1rgozy2reTa) | 3:10 | 2024-09-13 | 2025-04-27 |
 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:11 | 2024-02-09 | 2025-04-27 |
 | [Getting Started](https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Getting Started](https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN) | 1:58 | 2024-03-01 | 2025-04-27 |
@@ -394,6 +395,7 @@
 | [Risk It All](https://open.spotify.com/track/0qBbNqx3rvEk1xWRJhjkKg) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [Talii](https://open.spotify.com/artist/4l3RqT4ysMcYdjdPEig59L) | [Risk It All](https://open.spotify.com/album/6cezTTWEQ31JR8wtFiLH9y) | 2:49 | 2023-11-22 | 2025-04-27 |
 | [Rock It](https://open.spotify.com/track/5SfyxpDz7e7YcmVbZHn8OK) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Rock It](https://open.spotify.com/album/0Va6IqwgpkDhMjHgZzt2qq) | 2:20 | 2024-07-19 | 2025-04-27 |
 | [Rock With Me](https://open.spotify.com/track/56FkxnPVpjnQCt4xB6xXde) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Rock With Me](https://open.spotify.com/album/2lHdq3xNGuKIE3KDVEOxNK) | 2:21 | 2023-11-22 | 2025-04-27 |
+| [Running](https://open.spotify.com/track/0AV1eWrh1x86FFnVDJ4BZD) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Running](https://open.spotify.com/album/2dOQ99k30Tolva3vPZ4jEB) | 3:13 | 2025-10-10 |  |
 | [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-22 | 2025-04-27 |
 | [SAFE](https://open.spotify.com/track/1An0fvGIjjMDFGoebz2GI9) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [God Bless The Trap House](https://open.spotify.com/album/3gGdE5OzZ8qUPGSXf0OzZ7) | 2:11 | 2023-08-09 | 2023-12-14 |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |
@@ -402,6 +404,7 @@
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 | 2025-04-27 |
 | [Set Me Free](https://open.spotify.com/track/0Or3Fgzkwg05zx0X83BG9V) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Set Me Free](https://open.spotify.com/album/2IZk3TgT9Q6T5oXkbN6Yn2) | 2:29 | 2025-08-01 |  |
+| [Shake That](https://open.spotify.com/track/0cTYUYY7eLjfVAH6pxmfWm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Get Down / Shake That](https://open.spotify.com/album/5fczgOy0aMutPK9HOM8m5r) | 2:06 | 2025-10-10 |  |
 | [She Calls Me Love \- Steve Aoki Remix](https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Chama De Amor / She Calls Me Love](https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b) | 2:52 | 2024-03-22 | 2025-04-27 |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 | 2025-04-27 |
 | [SHEEESH \- Emorfik Remix](https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA), [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:41 | 2023-07-28 | 2025-04-27 |

@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-373 songs - 21 hr 0 min
+374 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Baby Blue](https://open.spotify.com/track/74GoxOdXs5RbnT3XJPTvW2) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:58 | 2024-06-10 | 2024-06-22 |
 | [Baby Blue Shades](https://open.spotify.com/track/2bCFAFxw6uLRu3Mk1jF9E0) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 3:40 | 2022-04-26 | 2023-03-15 |
 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-04-21 | 2025-09-03 |
+| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-10 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-24 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-21 |  |
 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 | 2024-06-07 |  |
@@ -293,7 +294,7 @@
 | [She Came Down From The Stars](https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [She Came Down From The Stars](https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x) | 3:36 | 2021-03-24 | 2022-07-29 |
 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 | 2021-03-24 |  |
 | [Sideways](https://open.spotify.com/track/6px1FfIdneq0y2XfftUA63) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Sideways](https://open.spotify.com/album/7FxOERsHarglNCX0fp88qP) | 3:07 | 2025-09-19 |  |
-| [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/1r3ZtE2w3l6KMEoAVpt6Fn) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:26 | 2023-03-14 |  |
+| [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/1r3ZtE2w3l6KMEoAVpt6Fn) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:26 | 2023-03-14 | 2025-10-11 |
 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 | 2021-03-24 |  |
 | [Skate](https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:53 | 2022-10-07 | 2022-11-13 |
 | [Skate](https://open.spotify.com/track/3CU1EgZ6iZyEioUJd85Rjb) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Skate / Big Shot / Play Along](https://open.spotify.com/album/5K9pA1ilpoUuGCkLdy6D6n) | 2:53 | 2022-04-26 | 2022-07-29 |

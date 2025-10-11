@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy music. Cover: Witch Fever",
-  "num_followers": 499121,
+  "num_followers": 499089,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWd3qlYhYbepdvk9ZoAApsdL99W",
+  "snapshot_id": "AAAAAJEBB2BDIwebfi6YrTi80QSPN+lB",
   "tracks": [
     {
       "added_at": "2025-10-03 16:03:25",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Destroy Me",
-        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Destroy Me",
-      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "can u see me in the dark?",
         "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 209986,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "milk of the madonna",
-        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -451,18 +451,34 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Bloodlust",
-        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+        "name": "milk of the madonna",
+        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
       },
       "artists": [
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 209986,
-      "name": "Bloodlust",
-      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -503,22 +519,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Tipping Point",
-        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268828,
-      "name": "Tipping Point",
-      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "from me to u (feat. Poppy)",
         "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 204526,
       "name": "from me to u (feat. Poppy)",
       "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 215517,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -651,18 +667,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
       "artists": [
         {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 215517,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -703,46 +723,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "CONCRETE JUNGLE [THE OST]",
-        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 235092,
-      "name": "ANYTHING > HUMAN",
-      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
       },
@@ -775,22 +755,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Unshatter",
-        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -807,6 +771,42 @@
       "duration_ms": 260625,
       "name": "a bulleT w/ my namE On (feat. Underoath)",
       "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -915,6 +915,38 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Bury Me With My Screams",
+        "url": "https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 316634,
+      "name": "Bury Me With My Screams",
+      "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
+    },
+    {
+      "added_at": "2025-10-10 12:52:53",
+      "album": {
+        "name": "The Laugh Track",
+        "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 195434,
+      "name": "The Laugh Track",
+      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "Slipknot (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO"
       },
@@ -931,18 +963,18 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Bury Me With My Screams",
-        "url": "https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1"
+        "name": "Bleeders",
+        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 316634,
-      "name": "Bury Me With My Screams",
-      "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
+      "duration_ms": 274320,
+      "name": "Bleeders",
+      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -963,22 +995,6 @@
       "duration_ms": 274098,
       "name": "V.A.N",
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Bleeders",
-        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Bleeders",
-      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "I Don't Belong Here",
+        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Hereditary",
+      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "Cellophane",
         "url": "https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn"
       },
@@ -1059,22 +1091,6 @@
       "duration_ms": 198072,
       "name": "Cellophane",
       "url": "https://open.spotify.com/track/5yIkrjh4x9S4gLB43uIZMx"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1099,34 +1115,18 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Dominate",
-        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
         }
       ],
-      "duration_ms": 194773,
-      "name": "Dominate",
-      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "I Don't Belong Here",
-        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Hereditary",
-      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+      "duration_ms": 190000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Keep Me Fed",
-        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 179717,
-      "name": "Six Feet Deep",
-      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
+      "duration_ms": 194773,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 179717,
+      "name": "Six Feet Deep",
+      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -1195,6 +1211,22 @@
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1231,18 +1263,18 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32"
+        "name": "VIBE COP",
+        "url": "https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh"
+      "duration_ms": 173012,
+      "name": "VIBE COP",
+      "url": "https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1275,22 +1307,6 @@
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "VIBE COP",
-        "url": "https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 173012,
-      "name": "VIBE COP",
-      "url": "https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Perfect Soul",
-        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "Perfect Soul",
-      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "Angels Calling",
         "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
       },
@@ -1391,6 +1391,38 @@
       "duration_ms": 175186,
       "name": "Angels Calling",
       "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
+    },
+    {
+      "added_at": "2025-10-10 12:52:53",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 269031,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1427,22 +1459,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "The Father of Make Believe",
-        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 256028,
-      "name": "Goodbye, Sunshine",
-      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "The Void",
         "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
       },
@@ -1455,6 +1471,22 @@
       "duration_ms": 171034,
       "name": "The Void",
       "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "The Father of Make Believe",
+        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 256028,
+      "name": "Goodbye, Sunshine",
+      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1475,22 +1507,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Albatross",
-        "url": "https://open.spotify.com/album/6356xgpTuIF4p5oWdQ0jSR"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "Albatross",
-      "url": "https://open.spotify.com/track/0UtLADPcthTHNsdkKXTJCL"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "Fight Like A Girl (feat. K.Flay)",
         "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
       },
@@ -1507,6 +1523,22 @@
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Albatross",
+        "url": "https://open.spotify.com/album/6356xgpTuIF4p5oWdQ0jSR"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "Albatross",
+      "url": "https://open.spotify.com/track/0UtLADPcthTHNsdkKXTJCL"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 281052,
-      "name": "Too Close / Too Late",
-      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "Holding On / The Dark Glow",
         "url": "https://open.spotify.com/album/6DLUWbSqeAndqEcJ1Da24o"
       },
@@ -1623,6 +1639,22 @@
       "duration_ms": 215013,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/5ESDRSXZD5k3UCBQAcffij"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1643,22 +1675,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
@@ -1671,26 +1687,6 @@
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Out Of Style",
-        "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        },
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 205897,
-      "name": "Out Of Style",
-      "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
     }
   ],
   "unique_name": "The Pit",

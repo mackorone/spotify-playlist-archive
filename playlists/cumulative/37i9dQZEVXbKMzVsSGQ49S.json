@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 149091,
       "name": "ACELERA - SUPER SLOWED",
       "url": "https://open.spotify.com/track/49nqRvcKnutkIA0OiMHwTF"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 163699,
       "name": "Actually Romantic",
       "url": "https://open.spotify.com/track/6ZSxG2QvGmwXbTfn7iDq7a"
@@ -22852,7 +22852,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 146853,
       "name": "Hvar ertu n\u00fa?",
       "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
@@ -24412,7 +24412,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 203541,
       "name": "Iceguys 4 Life",
       "url": "https://open.spotify.com/track/7tTltZO8XJpUiWIntmJNLi"
@@ -29078,7 +29078,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -37409,6 +37409,28 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -40392,7 +40414,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 220564,
       "name": "Ruin The Friendship",
       "url": "https://open.spotify.com/track/34xxPZWbEyg5iDKEBqdsBZ"
@@ -43341,6 +43363,28 @@
     },
     {
       "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/0svpqT9bqFwowdcBGEFn2l"
+      },
+      "artists": [
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
+        },
+        {
+          "name": "Young Nazareth",
+          "url": "https://open.spotify.com/artist/18dU5cileMWztRvdqcQph3"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200084,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/1PYx94hPvg3UTvhnf3VMWk"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
       },
@@ -43630,7 +43674,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -54584,7 +54628,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/3Qeh4z08FfDBRfQMfDv83f"

@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Panter B\u00e9lico en portada.",
-  "num_followers": 1052973,
+  "num_followers": 1053027,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
         "name": "La Mejor De Todas",
         "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
         "name": "Mitad Y Mitad",
         "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
       },
@@ -799,22 +779,6 @@
       "duration_ms": 241906,
       "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
       "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -835,6 +799,42 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
+        "name": "El Seis",
+        "url": "https://open.spotify.com/album/4McH8wum4UQ96c5MIDZA1K"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 165482,
+      "name": "Tu Me Gustas",
+      "url": "https://open.spotify.com/track/00AkbbC4StYgfXzEBAljxD"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
         "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 246131,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
-        "name": "El Traje Naranja",
-        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 192435,
-      "name": "Siempre a Tu Lado",
-      "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
+        "name": "El Traje Naranja",
+        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 192435,
+      "name": "Siempre a Tu Lado",
+      "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 159517,
       "name": "Alguien Mejor",
       "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
-        "name": "El Seis",
-        "url": "https://open.spotify.com/album/4McH8wum4UQ96c5MIDZA1K"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "Tu Me Gustas",
-      "url": "https://open.spotify.com/track/00AkbbC4StYgfXzEBAljxD"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio",
-      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 191893,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
     },
     {
       "added_at": "2025-08-29 06:00:12",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2025-08-29 06:00:12",
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
+    },
+    {
+      "added_at": "2025-08-29 06:00:12",
+      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 163230,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl"
-    },
-    {
-      "added_at": "2025-08-29 06:00:12",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
-      },
-      "artists": [
-        {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
-        }
-      ],
-      "duration_ms": 188471,
-      "name": "365",
-      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
     },
     {
       "added_at": "2025-08-29 06:00:12",

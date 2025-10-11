@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover: Lojay
 
-487 songs - 1 day 1 hr 35 min
+488 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Attention](https://open.spotify.com/track/3oGfbYnzJUhU2rAWA2iLq9) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Top Rhythmic Hits](https://open.spotify.com/album/2fNyP0y4lZKQYeYunnYr4H) | 3:00 | 2022-06-08 | 2022-11-13 |
 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 | 2021-01-27 | 2022-05-06 |
 | [Away](https://open.spotify.com/track/2USojCYNliZskHMDUV1bcC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Pitch6lack](https://open.spotify.com/artist/2HJA55YaDvYLmD0fpdB2EP) | [The Men, The Boys and Your Guy](https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg) | 2:36 | 2025-09-26 |  |
+| [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 | 2025-10-10 |  |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-01-12 | 2023-03-31 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-11-15 | 2023-04-21 |
 | [Back 2 Ya](https://open.spotify.com/track/737wrM4gGWNlkQZRLQz541) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/3RxSYVzGWrUTxMXQKfdJyo) | 3:39 | 2022-06-03 | 2022-07-08 |
@@ -289,7 +290,7 @@
 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-10 | 2025-05-30 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2024-06-14 |
 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 | 2023-04-20 | 2024-03-22 |
-| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [](https://open.spotify.com/album/null) | 3:07 | 2025-10-10 |  |
+| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 |  |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-09-22 |
 | [MEMORIES \(feat\. Ir Sais\)](https://open.spotify.com/track/0x4XJlRaDsOMkIjzvXCFLz) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [UP & RUNNIN6](https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2) | 2:45 | 2024-10-25 | 2025-03-29 |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2025-01-25 |
@@ -494,6 +495,6 @@
 | [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 | 2025-09-16 |
 | [Your Matter](https://open.spotify.com/track/14c9HXha95gFZVJiEgRIZ0) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Matter](https://open.spotify.com/album/0iqTeEgr6priRCUW7kmKhj) | 3:11 | 2024-05-16 | 2025-08-30 |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2025-02-14 |
-| [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 | 2024-06-21 |  |
+| [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 | 2024-06-21 | 2025-10-11 |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

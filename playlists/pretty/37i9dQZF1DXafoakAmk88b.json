@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: John Glacier",
-  "num_followers": 57561,
+  "num_followers": 57554,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "You're Bleeding Everywhere",
+      "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 186666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "You're Bleeding Everywhere",
-      "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
     },
     {
       "added_at": "2025-06-13 18:04:13",

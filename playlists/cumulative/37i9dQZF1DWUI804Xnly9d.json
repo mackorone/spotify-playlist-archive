@@ -2223,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Dekha Hi Nahi",
+        "url": "https://open.spotify.com/album/2kTV9Zqt7jn65GRaE6nX6K"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        },
+        {
+          "name": "Sanchi",
+          "url": "https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236384,
+      "name": "Dekha Hi Nahi",
+      "url": "https://open.spotify.com/track/5GcVuKV12CryRih9BDiXBk"
+    },
+    {
+      "album": {
         "name": "Industry2",
         "url": "https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I"
       },
@@ -6698,7 +6720,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 242840,
       "name": "maan ja mere yaar",
       "url": "https://open.spotify.com/track/6LefrCinotAljkJzLBcloP"

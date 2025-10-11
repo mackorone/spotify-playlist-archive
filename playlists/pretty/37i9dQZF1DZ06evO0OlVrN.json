@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7903,
+  "num_followers": 7905,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABQgl92vvDNkRw56wtpseB3",
+  "snapshot_id": "aOb7AAAAAAAcXTtmOuZxE05GuaHP1yzJ",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 184052,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
+      "duration_ms": 181533,
+      "name": "Me Ca\u00edste Del Cielo",
+      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
     },
     {
       "added_at": null,
@@ -300,29 +300,25 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Me Ca\u00edste Del Cielo",
-      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
+      "duration_ms": 184052,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "15 Clasicas De Leyenda",
-        "url": "https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze"
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
       },
       "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Me Cai De La Nube",
-      "url": "https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE"
+      "duration_ms": 177826,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
     },
     {
       "added_at": null,
@@ -383,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Talism\u00e1n",
-        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
+        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
       "artists": [
         {
@@ -392,25 +388,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
+      "duration_ms": 170370,
+      "name": "Sin Decirte Lo Que Siento",
+      "url": "https://open.spotify.com/track/077CY7BZBTMECCD4RaAwc0"
     },
     {
       "added_at": null,
@@ -431,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 170370,
-      "name": "Sin Decirte Lo Que Siento",
-      "url": "https://open.spotify.com/track/077CY7BZBTMECCD4RaAwc0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos Del Norte En Vivo (Live)",
         "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
@@ -459,6 +423,42 @@
       "duration_ms": 158666,
       "name": "Prieta Mojina - Live",
       "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Talism\u00e1n",
+        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 113606,
-      "name": "Mi Talism\u00e1n",
-      "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
+      "duration_ms": 169240,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Llorar por Amor",
-        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 169240,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -675,6 +659,30 @@
       "duration_ms": 184424,
       "name": "Capullito de Rosa",
       "url": "https://open.spotify.com/track/0kZORMFZARYAScvlFfkz3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Tu Desconfianza",
+      "url": "https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB"
     },
     {
       "added_at": null,
@@ -711,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
-        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
-        {
-          "name": "Ram\u00f3n Ayala",
-          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
-        },
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Tu Desconfianza",
-      "url": "https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 188630,
-      "name": "Ni los Pleitos",
-      "url": "https://open.spotify.com/track/4LB4xxzRzPdYbfdsEsBUOg"
+      "duration_ms": 113606,
+      "name": "Mi Talism\u00e1n",
+      "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 150920,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 134699,
       "name": "All\u00e1 en el Baile Grande",
       "url": "https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 188630,
+      "name": "Ni los Pleitos",
+      "url": "https://open.spotify.com/track/4LB4xxzRzPdYbfdsEsBUOg"
     },
     {
       "added_at": null,
@@ -799,38 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 140329,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 150920,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
         "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 173466,
       "name": "Mujer de Cabaret",
       "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 140329,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

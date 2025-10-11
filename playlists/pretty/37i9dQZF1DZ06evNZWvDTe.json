@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13288,
+  "num_followers": 13292,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADRgOgVlWrZweSrw8J/iW4I",
+  "snapshot_id": "aOb7AAAAAAAxvgyU1h7mmvpw+D75td2V",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 210442,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jamz",
         "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 220952,
       "name": "Country Side",
       "url": "https://open.spotify.com/track/567DMZPOOlODWvhW9ElmWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 210442,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
     },
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        }
-      ],
-      "duration_ms": 203077,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 129427,
       "name": "COLD",
       "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "duration_ms": 203077,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
       "artists": [
         {
@@ -508,13 +508,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 267660,
-      "name": "Lucky (feat. Rudeboy)",
-      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
     },
     {
       "added_at": null,
@@ -563,8 +563,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
       "artists": [
         {
@@ -572,13 +592,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
+      "duration_ms": 267660,
+      "name": "Lucky (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 191719,
-      "name": "Anadwo (feat. King Promise)",
-      "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 316421,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Anadwo (feat. King Promise)",
+      "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Not The Tape, Sorry 4 The Wait II",
-        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 205578,
       "name": "Mewu (feat. Akwaboah)",
       "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Not The Tape, Sorry 4 The Wait II",
+        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
     },
     {
       "added_at": null,
@@ -943,18 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+        "name": "Who Da Man",
+        "url": "https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+      "duration_ms": 178573,
+      "name": "Who Da Man",
+      "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
     },
     {
       "added_at": null,
@@ -975,22 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Da Man",
-        "url": "https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Who Da Man",
-      "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
     },
     {
       "added_at": null,

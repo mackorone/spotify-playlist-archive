@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Diogo Piçarra, Bandidos do Cante
 
-334 songs - 17 hr 39 min
+334 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,10 +320,9 @@
 | [Teus Beijos](https://open.spotify.com/track/46RHN6flgxqHoCiAMxIkB0) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Teus Beijos](https://open.spotify.com/album/301Vzal6xfXKeBxSHpP8mR) | 3:08 | 2025-03-07 | 2025-10-03 |
 | [Tiginni](https://open.spotify.com/track/2mRcL3BrPlfg0ZQjzzSkiZ) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tiginni](https://open.spotify.com/album/7I02ugloMHnwmg5pN2vn6t) | 2:50 | 2024-09-12 | 2024-09-17 |
 | [Tiques de Rico](https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Tiques de Rico](https://open.spotify.com/album/3077eqHhvWjs1OoudI0gxn) | 3:37 | 2025-06-26 |  |
-| [Track 6](https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tristeza](https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:58 | 2025-03-14 | 2025-04-04 |
 | [Tu Amor](https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor](https://open.spotify.com/album/2IqpqWDTt6n9oLHboUZkaB) | 3:53 | 2024-06-27 | 2024-07-19 |
-| [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [](https://open.spotify.com/album/null) | 3:23 | 2025-10-09 |  |
+| [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [D≡Z](https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne) | 3:23 | 2025-10-09 |  |
 | [Tu na Tua](https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Tu na Tua](https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO) | 2:48 | 2025-05-08 |  |
 | [Tu És Capaz](https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tu És Capaz](https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz) | 2:53 | 2024-08-15 | 2025-02-07 |
 | [Txi Amo](https://open.spotify.com/track/3PI0HRdiHb0r60w44bmO8Z) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Lado B](https://open.spotify.com/album/780bbZiIrlRxajxdAq4mci) | 3:03 | 2025-04-10 | 2025-05-16 |
@@ -333,6 +332,7 @@
 | [VAMPIROS](https://open.spotify.com/track/4Jlh1A7Lv28qVk08mLcdf5) | [Peculiar](https://open.spotify.com/artist/6m3yCxyoE4000Nd18hdEaC) | [VAMPIROS](https://open.spotify.com/album/2KC9XbtziG5bLOEViQAKXF) | 3:08 | 2025-04-24 | 2025-05-09 |
 | [Vem Cá](https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Vem Cá](https://open.spotify.com/album/4adzp1LS9pbLRNMv3SUKxO) | 2:53 | 2025-01-10 | 2025-03-28 |
 | [Verdade](https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Verdade](https://open.spotify.com/album/0X5dtxwXxNbiv4qfi6uhWN) | 3:07 | 2025-05-15 |  |
+| [Viagem](https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [A Viagem](https://open.spotify.com/album/4IVB1cL3uZrOxyaMLsQzcR) | 3:09 | 2025-10-09 |  |
 | [Vive o dia](https://open.spotify.com/track/5lcjHPZUhIPUdunrIAMpy4) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Vive o dia](https://open.spotify.com/album/1kaPrridSNurOrrWWoeDaF) | 2:48 | 2025-07-17 | 2025-10-03 |
 | [Voodoo](https://open.spotify.com/track/68yhcmU3r77QhazsBlqAeJ) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe) | [Voodoo](https://open.spotify.com/album/5zX8JqjFZxbFuLLylDwlt9) | 2:52 | 2025-05-08 | 2025-08-15 |
 | [Vou continuar](https://open.spotify.com/track/7I83T3YEHN1IbToCu3btAQ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:39 | 2025-05-02 |  |

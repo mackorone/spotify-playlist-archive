@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Joyce Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,366 likes - 125 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,439 likes - 125 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 2 | [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 |
 | 3 | [Authority Problem](https://open.spotify.com/track/2XuL4t7E924ECEFi62cxau) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Authority Problem](https://open.spotify.com/album/5ieOe9EmdqhocZtZDiED4d) | 2:21 |
 | 4 | [MISS HER](https://open.spotify.com/track/6KdhOOGA2jiinTxZ9bUio4) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [MISS HER](https://open.spotify.com/album/5iyhaKuooHHV4O3BBi5z53) | 2:08 |
-| 5 | [Silly Girl](https://open.spotify.com/track/4KGbev1jHTTsI9uu53BwnO) | [Tunnel Vision](https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [](https://open.spotify.com/album/null) | 2:30 |
+| 5 | [Silly Girl](https://open.spotify.com/track/4KGbev1jHTTsI9uu53BwnO) | [Tunnel Vision](https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Operation Irie](https://open.spotify.com/album/22QVQvRRDw7WnGQXAq6LfN) | 2:30 |
 | 6 | [GHOST TOWN](https://open.spotify.com/track/2L0GKmQTI4N1NGe21pDKiy) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [GHOST TOWN](https://open.spotify.com/album/6DWOaQBsWnfUVScMfMuaCd) | 3:27 |
 | 7 | [Smoke and Mirrors](https://open.spotify.com/track/4QOuHxYvh0KQJpQM27T3Gv) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Smoke and Mirrors](https://open.spotify.com/album/6BbuSFBPMxA2U9XqCxptL1) | 3:06 |
 | 8 | [I Know](https://open.spotify.com/track/0PBo3D8IEzTDdD1W5uPAfA) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone \(Deluxe Edition\)](https://open.spotify.com/album/7Bt2EAQTWCd95yI8fml15a) | 3:09 |

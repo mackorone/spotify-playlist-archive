@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover: Ama Louise
 
-333 songs - 17 hr 49 min
+333 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 |  |
 | [too much tv](https://open.spotify.com/track/5ZhW39tJKPDZRphsTknUHR) | [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [too much tv](https://open.spotify.com/album/3to4TxLLUr4iQ3uOyW6XLW) | 3:13 | 2024-08-29 |  |
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 |  |
-| [Track 2](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Trouble](https://open.spotify.com/track/0LdhrpQQXy9t2jwidxgOwL) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [The Butterfly Club](https://open.spotify.com/album/0RIR5ufR003FyTIywzPMCB) | 4:28 | 2022-02-18 |  |
 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 |  |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2022-02-18 |  |
@@ -329,6 +328,7 @@
 | [What I'd Do For You](https://open.spotify.com/track/1RxYDWodpkiYA4apEOuDdS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:01 | 2022-02-18 |  |
 | [When I Feel Sane](https://open.spotify.com/track/7LtQ2SQIRVlDDYuZSOerd2) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 3:32 | 2023-10-02 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2022-02-18 |  |
+| [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 | 2025-10-09 |  |
 | [Wicked & Crisp](https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Wicked & Crisp](https://open.spotify.com/album/6gOj7SCGjeLMSfK3g6aNtf) | 2:59 | 2025-10-02 |  |
 | [Wicked & Wild](https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Wicked & Wild](https://open.spotify.com/album/3SZloThQF14yc3MzUEouP6) | 2:06 | 2022-02-18 |  |
 | [Wicked & Wild](https://open.spotify.com/track/2myNRoPh3Nh8V07gEEchGt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:06 | 2022-11-18 | 2024-04-19 |

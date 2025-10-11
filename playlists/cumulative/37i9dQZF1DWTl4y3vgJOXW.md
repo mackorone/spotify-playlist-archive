@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: A'ja Wilson
 
-847 songs - 1 day 19 hr 24 min
+849 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-06-24 | 2023-03-14 |
 | [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 | 2022-08-19 | 2023-03-03 |
 | [Wakeup](https://open.spotify.com/track/624vMQPfGZu669UHGvBpka) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/6qGHHcXVXUMaouCUCkK9Mn) | 2:13 | 2023-02-17 | 2023-02-22 |
+| [Walk Down \(feat\. 21 Savage\)](https://open.spotify.com/track/57q6befTFpZwWrZvfek3Fj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UY SCUTI](https://open.spotify.com/album/7hzxRdC8GOeSextdGlvgyR) | 2:40 | 2025-10-10 |  |
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2021-09-02 | 2023-06-10 |
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 | 2021-09-02 | 2024-01-13 |
 | [War Bout It \(feat\. 21 Savage\)](https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:40 | 2023-06-09 | 2023-06-21 |
@@ -853,6 +854,7 @@
 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 | 2025-03-28 | 2025-04-05 |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 |  |
 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 | 2024-10-25 | 2024-11-02 |
+| [Yuck \(feat\. Ken Carson\)](https://open.spotify.com/track/5o4h46Jh8tkReTPnGm3jpb) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [UY SCUTI](https://open.spotify.com/album/7hzxRdC8GOeSextdGlvgyR) | 4:08 | 2025-10-10 |  |
 | [Zim Zimma](https://open.spotify.com/track/17nPeSliosCi427f0lUb75) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Evolution](https://open.spotify.com/album/6PUXSD7kbZTluLt786stkr) | 3:59 | 2021-09-02 | 2022-06-25 |
 | [ZTFO](https://open.spotify.com/track/0z36JaXXoFXuPuQucKEsdx) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 2:16 | 2021-09-02 | 2022-06-25 |
 

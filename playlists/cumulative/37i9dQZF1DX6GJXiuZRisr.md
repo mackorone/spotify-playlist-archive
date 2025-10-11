@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-625 songs - 1 day 19 hr 12 min
+626 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Coming Down](https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H) | [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Coming Down](https://open.spotify.com/album/63YuEPlpI89krdvctGytaa) | 3:34 | 2025-02-21 |  |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1) | 3:32 | 2023-09-01 | 2024-04-19 |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/7ydQgqQNPbKNoIJa7A2G08) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/73vidbzZG7bYIoCf9OfH6q) | 3:32 | 2023-08-25 | 2023-09-02 |
-| [Communicate](https://open.spotify.com/track/172om5zC8R0HHXOzpjUX2m) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Communicate](https://open.spotify.com/album/1A4e6I1K9UfIsOXfCn21GV) | 5:38 | 2025-05-02 |  |
+| [Communicate](https://open.spotify.com/track/172om5zC8R0HHXOzpjUX2m) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Communicate](https://open.spotify.com/album/1A4e6I1K9UfIsOXfCn21GV) | 5:38 | 2025-05-02 | 2025-10-11 |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-20 | 2022-10-29 |
 | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ) | 4:04 | 2024-01-05 | 2024-04-02 |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-19 | 2024-01-05 |
@@ -622,6 +622,7 @@
 | [With You](https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [With You](https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN) | 5:29 | 2023-09-29 | 2025-05-03 |
 | [Womaa](https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9) | [Womaa](https://open.spotify.com/album/63709yULZc1XOJXhPeudYZ) | 6:51 | 2021-05-07 | 2022-07-29 |
 | [Worlds Apart](https://open.spotify.com/track/6TZvMl21P031RvQhFkEyUq) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Worlds Apart](https://open.spotify.com/album/3Z28rtxKPfOrkbspjCg7IN) | 3:39 | 2023-12-08 | 2024-10-12 |
+| [Worlds Apart](https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Worlds Apart / Surreal](https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc) | 8:31 | 2025-10-10 |  |
 | [You](https://open.spotify.com/track/7eydI7R5mMKl0H6FqlS9hi) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [You](https://open.spotify.com/album/2II2V6aLtisPP0G2JicKEl) | 3:26 | 2024-08-09 | 2024-10-26 |
 | [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-09-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 | 2024-04-13 |

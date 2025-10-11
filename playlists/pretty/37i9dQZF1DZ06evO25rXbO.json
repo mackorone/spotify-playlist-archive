@@ -1,18 +1,18 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1204952,
+  "num_followers": 1205290,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC2+TW1e7caUXFkLh5QJutN",
+  "snapshot_id": "aOb7AAAAAAAGrlhZe0aTodcOs+TT5HKQ",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "The Happy Dictator (feat. Sparks)",
-        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+        "name": "The Manifesto (feat. Trueno and Proof)",
+        "url": "https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo"
       },
       "artists": [
         {
@@ -20,13 +20,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Sparks",
-          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
         }
       ],
-      "duration_ms": 284775,
-      "name": "The Happy Dictator (feat. Sparks)",
-      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+      "duration_ms": 439125,
+      "name": "The Manifesto (feat. Trueno and Proof)",
+      "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
     },
     {
       "added_at": null,
@@ -215,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Happy Dictator (feat. Sparks)",
+        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -251,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -287,6 +291,26 @@
       "duration_ms": 225773,
       "name": "Kids with Guns",
       "url": "https://open.spotify.com/track/0eEgMbSzOHmkOeVuNC3E0k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": null,
@@ -335,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -371,6 +375,26 @@
       "duration_ms": 165093,
       "name": "November Has Come",
       "url": "https://open.spotify.com/track/6lrDckuosGpwEHtm1hHBcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF"
     },
     {
       "added_at": null,
@@ -419,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "El Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -435,22 +475,6 @@
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "El Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p"
     },
     {
       "added_at": null,
@@ -852,17 +876,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Peter Hook",
-          "url": "https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM"
-        },
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Aries (feat. Peter Hook and Georgia)",
-      "url": "https://open.spotify.com/track/25Gp0MpGdvrs4hL1u4L2TF"
+      "duration_ms": 333113,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
     },
     {
       "added_at": null,
@@ -936,13 +956,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Peter Hook",
+          "url": "https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 333113,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
-      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
+      "duration_ms": 253333,
+      "name": "Aries (feat. Peter Hook and Georgia)",
+      "url": "https://open.spotify.com/track/25Gp0MpGdvrs4hL1u4L2TF"
     },
     {
       "added_at": null,

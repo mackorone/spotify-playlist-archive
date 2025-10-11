@@ -444,7 +444,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 166399,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg"
@@ -11210,6 +11210,24 @@
       "duration_ms": 170880,
       "name": "Wanna Dance",
       "url": "https://open.spotify.com/track/3vJw6jGxk6lfhbXPqNDQdb"
+    },
+    {
+      "album": {
+        "name": "Warehouse",
+        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139852,
+      "name": "Warehouse",
+      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
     },
     {
       "album": {

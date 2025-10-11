@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 345116,
+  "num_followers": 345225,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -619,38 +619,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 223832,
-      "name": "Wide Open Spaces",
-      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -671,6 +639,38 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 223832,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 178973,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "I Hope You Dance",
         "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 294533,
       "name": "I Hope You Dance",
       "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "C.W. McCall's Greatest Hits",
-        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
-      },
-      "artists": [
-        {
-          "name": "C.W. McCall",
-          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Major Moves",
         "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 178840,
       "name": "All My Rowdy Friends Are Coming Over Tonight",
       "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "C.W. McCall's Greatest Hits",
+        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
+      },
+      "artists": [
+        {
+          "name": "C.W. McCall",
+          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
     },
     {
       "added_at": "2025-10-08 18:26:31",

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352276,
+  "num_followers": 352270,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MHslIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MHx2oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/7Gs4I1xLW1tXmKl1VsTQlN"
+      },
+      "artists": [
+        {
+          "name": "Hikari de Jesus",
+          "url": "https://open.spotify.com/artist/0MZFhWkDpPm22WO4cpMvuV"
+        }
+      ],
+      "duration_ms": 272920,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/34F1HgHyAb0pZMJqY197Zu"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Deus \u00e9 Bom",
         "url": "https://open.spotify.com/album/7Gs4I1xLW1tXmKl1VsTQlN"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3rIZzonFgQSWglLD2wHRBK"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Toma Botada",
         "url": "https://open.spotify.com/album/5OPhKjuXYRmbNFpubEPVNZ"
@@ -61,31 +77,7 @@
       "url": "https://open.spotify.com/track/00Tc75VYeZltOVnVfCYKFx"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj KLJay",
-          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Dharma",
-      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Os Dois Lados Da Moeda",
         "url": "https://open.spotify.com/album/0fRzT77gUSZcB4yMQlv5mK"
@@ -113,7 +105,47 @@
       "url": "https://open.spotify.com/track/0hB6UKgc3iKTphmGuWpNOg"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/7Gs4I1xLW1tXmKl1VsTQlN"
+      },
+      "artists": [
+        {
+          "name": "Hikari de Jesus",
+          "url": "https://open.spotify.com/artist/0MZFhWkDpPm22WO4cpMvuV"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Te Adorarei",
+      "url": "https://open.spotify.com/track/1E1ysbNytpIUV9UYJVD7yq"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Fique o tempo que precisar",
         "url": "https://open.spotify.com/album/3XopVdEcVEZHbk1yJQlXHO"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Bandido problem\u00e1tico",
         "url": "https://open.spotify.com/album/3cZjFKV6EFUqpO1b6Yhkdl"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/6pOSgZYfI73XOsjjZqrIUf"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
@@ -213,7 +245,27 @@
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Tudo Que \u00c9 Bom Come\u00e7a Com P",
+        "url": "https://open.spotify.com/album/1pnQKQKorynftqjSEUadjX"
+      },
+      "artists": [
+        {
+          "name": "dj vinicius de macabu",
+          "url": "https://open.spotify.com/artist/5InyUskwwcfq5K7cIYPlH7"
+        },
+        {
+          "name": "Baby Vinny",
+          "url": "https://open.spotify.com/artist/5KfhEwGOsjUweM012iBxjy"
+        }
+      ],
+      "duration_ms": 126916,
+      "name": "Tudo Que \u00c9 Bom Come\u00e7a Com P",
+      "url": "https://open.spotify.com/track/3zZFqh0HIe2E5Dw8OTLcrH"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "MONTAGEM RUGADA",
         "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
@@ -237,43 +289,27 @@
       "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "Tudo Que \u00c9 Bom Come\u00e7a Com P",
-        "url": "https://open.spotify.com/album/1pnQKQKorynftqjSEUadjX"
+        "name": "CARRANCA",
+        "url": "https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK"
       },
       "artists": [
         {
-          "name": "dj vinicius de macabu",
-          "url": "https://open.spotify.com/artist/5InyUskwwcfq5K7cIYPlH7"
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         },
         {
-          "name": "Baby Vinny",
-          "url": "https://open.spotify.com/artist/5KfhEwGOsjUweM012iBxjy"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 126916,
-      "name": "Tudo Que \u00c9 Bom Come\u00e7a Com P",
-      "url": "https://open.spotify.com/track/3zZFqh0HIe2E5Dw8OTLcrH"
+      "duration_ms": 170931,
+      "name": "Deus",
+      "url": "https://open.spotify.com/track/4X2g1jxXbaudwnhJMv6sjt"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Amor Dos Outros",
-        "url": "https://open.spotify.com/album/2t3leG5iBVTW5nCjVGkvw3"
-      },
-      "artists": [
-        {
-          "name": "Samuel e Mateus",
-          "url": "https://open.spotify.com/artist/66VUORn1SBwg6dVcLHwg52"
-        }
-      ],
-      "duration_ms": 244761,
-      "name": "Amor Dos Outros",
-      "url": "https://open.spotify.com/track/1IFeKgrYAovlwDqoZ9BTQf"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "MONTAGEM AROMA",
         "url": "https://open.spotify.com/album/4PUik1Y1uiy0oyuzeM94Hg"
@@ -293,7 +329,23 @@
       "url": "https://open.spotify.com/track/1HyncjdwspQpNSA1kzal4I"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Amor Dos Outros",
+        "url": "https://open.spotify.com/album/2t3leG5iBVTW5nCjVGkvw3"
+      },
+      "artists": [
+        {
+          "name": "Samuel e Mateus",
+          "url": "https://open.spotify.com/artist/66VUORn1SBwg6dVcLHwg52"
+        }
+      ],
+      "duration_ms": 244761,
+      "name": "Amor Dos Outros",
+      "url": "https://open.spotify.com/track/1IFeKgrYAovlwDqoZ9BTQf"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Cacau 50%",
         "url": "https://open.spotify.com/album/0xMEXymMK5kOISGQUuxYxC"
@@ -317,7 +369,7 @@
       "url": "https://open.spotify.com/track/4io6XR0J4fX4UgOLPGfnQy"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Jesus nunca desiste",
         "url": "https://open.spotify.com/album/0yl0KjFkJrzgPC5c1xFvCP"
@@ -333,7 +385,7 @@
       "url": "https://open.spotify.com/track/46gjBVqTLlZxqmy9fBJlpc"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -349,27 +401,31 @@
       "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "CARRANCA",
-        "url": "https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK"
+        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
       },
       "artists": [
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "name": "Dnovaees",
+          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
         },
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
         }
       ],
-      "duration_ms": 170931,
-      "name": "Deus",
-      "url": "https://open.spotify.com/track/4X2g1jxXbaudwnhJMv6sjt"
+      "duration_ms": 157612,
+      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -385,7 +441,31 @@
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
+        "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "AMOR BANDIDO",
+      "url": "https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
@@ -413,31 +493,23 @@
       "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
-        "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 194303,
-      "name": "AMOR BANDIDO",
-      "url": "https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
@@ -457,63 +529,7 @@
       "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
-      },
-      "artists": [
-        {
-          "name": "Dnovaees",
-          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 157612,
-      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/4tbNbesK0pufHDsu0bxYrD"
-      },
-      "artists": [
-        {
-          "name": "Venere Vai Venus",
-          "url": "https://open.spotify.com/artist/2yE1mUMfa7pAKNJq6UyaUp"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Anjos",
-      "url": "https://open.spotify.com/track/3tHfEsbQsvAdGQ2CUFeEx0"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "\u00c9 Disso Que Eu Me Alimento",
         "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
@@ -537,7 +553,23 @@
       "url": "https://open.spotify.com/track/0iG9z2JyiDYWpPQQIXZsUd"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/4tbNbesK0pufHDsu0bxYrD"
+      },
+      "artists": [
+        {
+          "name": "Venere Vai Venus",
+          "url": "https://open.spotify.com/artist/2yE1mUMfa7pAKNJq6UyaUp"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Anjos",
+      "url": "https://open.spotify.com/track/3tHfEsbQsvAdGQ2CUFeEx0"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Equipe Caos",
         "url": "https://open.spotify.com/album/3g7tO5O1qKMYhVoA7NuaCR"
@@ -569,7 +601,27 @@
       "url": "https://open.spotify.com/track/6UveejVb6aioPKeamhz1nE"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "nobody (make me feel)",
+        "url": "https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "nobody (make me feel)",
+      "url": "https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
@@ -593,43 +645,7 @@
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Eu N\u00e3o Presto Pra Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/18rLSAs8lNaiuJnsHvTGEO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Costa",
-          "url": "https://open.spotify.com/artist/7dAYukLL2okFaG7g8fSNgS"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 175513,
-      "name": "Eu N\u00e3o Presto Pra Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ITSvIT9tkvdFGlsdXBDhX"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Eu Me Apaixonei",
-        "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
-      },
-      "artists": [
-        {
-          "name": "Vitinho Imperador",
-          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Eu Me Apaixonei",
-      "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
@@ -649,27 +665,43 @@
       "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "nobody (make me feel)",
-        "url": "https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ"
+        "name": "Eu Me Apaixonei",
+        "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Vitinho Imperador",
+          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
         }
       ],
-      "duration_ms": 165120,
-      "name": "nobody (make me feel)",
-      "url": "https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY"
+      "duration_ms": 205714,
+      "name": "Eu Me Apaixonei",
+      "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Eu N\u00e3o Presto Pra Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/18rLSAs8lNaiuJnsHvTGEO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Costa",
+          "url": "https://open.spotify.com/artist/7dAYukLL2okFaG7g8fSNgS"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 175513,
+      "name": "Eu N\u00e3o Presto Pra Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ITSvIT9tkvdFGlsdXBDhX"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
         "url": "https://open.spotify.com/album/1Lh4oXo6rrA1u97IUS2IWh"
@@ -689,23 +721,7 @@
       "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "EVE: ROMANCE",
-        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Scott and Zelda",
-      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
@@ -725,7 +741,43 @@
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Altas Modas",
+        "url": "https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh"
+      },
+      "artists": [
+        {
+          "name": "Matheus Vargas",
+          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
+        },
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 150442,
+      "name": "Desocupa",
+      "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Se Eu Te Perdoar (Ao Vivo)",
         "url": "https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5"
@@ -745,27 +797,7 @@
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 203945,
-      "name": "Everything is romantic featuring caroline polachek",
-      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "MEC MEC MTG",
         "url": "https://open.spotify.com/album/3GW4o5DEdCx2AcO6heMW9h"
@@ -785,7 +817,59 @@
       "url": "https://open.spotify.com/track/0xzi8vNqlHPU0crfB8jLCg"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 203945,
+      "name": "Everything is romantic featuring caroline polachek",
+      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Ele Carrega Minha Bolsa",
         "url": "https://open.spotify.com/album/3Qrmx9hrVlLzCULW9H5rxl"
@@ -821,27 +905,7 @@
       "url": "https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 142624,
-      "name": "Pense como uma diva",
-      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Eu Te Seguro (Ao Vivo)",
         "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
@@ -861,111 +925,27 @@
       "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "Circo",
-        "url": "https://open.spotify.com/album/3LQEwgBAI0Fs82sZkE565P"
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
       "artists": [
         {
-          "name": "Venere Vai Venus",
-          "url": "https://open.spotify.com/artist/2yE1mUMfa7pAKNJq6UyaUp"
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 207088,
-      "name": "Circo",
-      "url": "https://open.spotify.com/track/3LyO1qZxiTIgkiXNy9Iauo"
+      "duration_ms": 142624,
+      "name": "Pense como uma diva",
+      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
-        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
-      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "\u00c9 Disso Que Eu Me Alimento",
-        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "winx",
-          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Pq Vc N\u00e3o Me Liga?",
-      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Panda Sem Modera\u00e7\u00e3o 2, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5q3hHHqgnm6UYOKxkuxrJz"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 203278,
-      "name": "Bem Querer / Primavera (Vai Chuva) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BnJDr0hmzT18VqgFeCYgK"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Rock Doido",
-        "url": "https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK"
-      },
-      "artists": [
-        {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "duration_ms": 82971,
-      "name": "Foguinho",
-      "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
         "name": "Foda Selvagem",
         "url": "https://open.spotify.com/album/58QI0UaFrIvlP83PVmwjLH"
@@ -989,76 +969,108 @@
       "url": "https://open.spotify.com/track/0ZZt6dtMeqku5boSXPT9cX"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "Pela \u00daltima Vez (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
+        "name": "Circo",
+        "url": "https://open.spotify.com/album/3LQEwgBAI0Fs82sZkE565P"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Venere Vai Venus",
+          "url": "https://open.spotify.com/artist/2yE1mUMfa7pAKNJq6UyaUp"
+        }
+      ],
+      "duration_ms": 207088,
+      "name": "Circo",
+      "url": "https://open.spotify.com/track/3LyO1qZxiTIgkiXNy9Iauo"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "\u00c9 Disso Que Eu Me Alimento",
+        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
         },
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "winx",
+          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
         }
       ],
-      "duration_ms": 162325,
-      "name": "Pela \u00daltima Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
+      "duration_ms": 178186,
+      "name": "Pq Vc N\u00e3o Me Liga?",
+      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "yes baby",
-        "url": "https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL"
+        "name": "Panda Sem Modera\u00e7\u00e3o 2, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5q3hHHqgnm6UYOKxkuxrJz"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 175324,
-      "name": "yes baby",
-      "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"
-    },
-    {
-      "added_at": "2025-10-09 16:47:57",
-      "album": {
-        "name": "Sobe Na Moto Roubadona",
-        "url": "https://open.spotify.com/album/61sD9EqJr7Mfty0G0Hj5HA"
-      },
-      "artists": [
-        {
-          "name": "DJ KELVINHO DA ZS",
-          "url": "https://open.spotify.com/artist/5RvyQxggVkuBridsJFiMzs"
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
         },
         {
-          "name": "Iraqui ZL",
-          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
         }
       ],
-      "duration_ms": 128306,
-      "name": "Sobe Na Moto Roubadona",
-      "url": "https://open.spotify.com/track/55X6DSZ3CEWeIQrVxMOR9h"
+      "duration_ms": 203278,
+      "name": "Bem Querer / Primavera (Vai Chuva) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BnJDr0hmzT18VqgFeCYgK"
     },
     {
-      "added_at": "2025-10-09 16:47:57",
+      "added_at": "2025-10-10 16:44:25",
       "album": {
-        "name": "COLOR OUTSIDE THE LINES",
-        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
-      "duration_ms": 170880,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "added_at": "2025-10-10 16:44:25",
+      "album": {
+        "name": "Rock Doido",
+        "url": "https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK"
+      },
+      "artists": [
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 82971,
+      "name": "Foguinho",
+      "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

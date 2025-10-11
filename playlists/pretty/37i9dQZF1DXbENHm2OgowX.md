@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,777 likes - 69 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,988 likes - 69 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 50 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 51 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
 | 52 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
-| 53 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
-| 54 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
+| 53 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
+| 54 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
 | 55 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
-| 56 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
-| 57 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
+| 56 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
+| 57 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
 | 58 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
 | 59 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 60 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 66 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 |
 | 67 | [where is life?](https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [where is life?](https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP) | 2:07 |
 | 68 | [Perpetual Care](https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 3:20 |
-| 69 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
+| 69 | [Stray](https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [The Beautiful World](https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD) | 2:58 |
 
 Snapshot ID: `AAAAADAdjWGJNCuh/7F735VT1PGcaOX1`

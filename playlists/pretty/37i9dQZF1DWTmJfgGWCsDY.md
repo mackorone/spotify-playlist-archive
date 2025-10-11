@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: D Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,444 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,453 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 38 | [Naoa](https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Naoa](https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2) | 3:57 |
 | 39 | [TRUST](https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Twende](https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU) | 2:20 |
 | 40 | [Tisheti Yangu](https://open.spotify.com/track/1WaC2LufvvoGNDCZ75Ozej) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Tisheti Yangu](https://open.spotify.com/album/6sZB5jceGSqVR78JEoRiBy) | 3:40 |
-| 41 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 |
+| 41 | [Hujanikomoa](https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Hujanikomoa](https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM) | 5:59 |
 | 42 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 |
 | 43 | [HASSANI](https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [HASSANI](https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW) | 2:33 |
 | 44 | [Kafubaa](https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Zungu Macha](https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL) | [Kafubaa](https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG) | 4:06 |
-| 45 | [Hujanikomoa](https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Hujanikomoa](https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM) | 5:59 |
+| 45 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 |
 | 46 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
 | 47 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 |
 | 48 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 72 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
 | 73 | [Nimempost \- Remix](https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nimempost \(Remix\)](https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T) | 3:59 |
 | 74 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 |
-| 75 | [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 |
+| 75 | [Shemeji](https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Shemeji](https://open.spotify.com/album/47v6siumRINvjj2CzonVxx) | 3:15 |
 
 Snapshot ID: `AAAAAILXy2BoRrCyez/bCxJSULxKe20S`

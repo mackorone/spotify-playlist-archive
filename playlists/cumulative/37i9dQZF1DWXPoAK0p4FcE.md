@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: sujipuli
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: SHERRY
 
-140 songs - 9 hr 46 min
+141 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
 | [Gaslighting](https://open.spotify.com/track/5a1XP82wLiIUleq52ODrex) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Gaslighting](https://open.spotify.com/album/6Zhy9NBqu2PHIDFH1iBnzA) | 4:47 | 2025-02-28 | 2025-07-05 |
 | [Grow Up](https://open.spotify.com/track/0SrCn0wCmOxHQ77bxPFCMK) | [T\_047](https://open.spotify.com/artist/5qO3EBbmjdcKnUbqd8JBIJ) | [Grow Up](https://open.spotify.com/album/6V6sQHdGbUYNjLcl1BVvz2) | 5:35 | 2025-03-28 | 2025-07-19 |
-| [just](https://open.spotify.com/track/1hvAXb7PBcpxNVyDcN0cxw) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [just](https://open.spotify.com/album/66FVtttMYzTO6OSc5AVqI6) | 4:31 | 2024-06-27 |  |
+| [HIPPO](https://open.spotify.com/track/4N0iol0u4GdX1SIRG4xqTx) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [HIPPO](https://open.spotify.com/album/2B7L476RCUX8lY9P31Ju7J) | 2:56 | 2025-10-10 |  |
+| [just](https://open.spotify.com/track/1hvAXb7PBcpxNVyDcN0cxw) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [just](https://open.spotify.com/album/66FVtttMYzTO6OSc5AVqI6) | 4:31 | 2024-06-27 | 2025-10-11 |
 | [La La La](https://open.spotify.com/track/0pJmvjvcdE8jD21juh5rjm) | [Funky Wah Wah](https://open.spotify.com/artist/4tfffNgXDx3XSZkcn4APIj), [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [La La La](https://open.spotify.com/album/6CWlXDZuXueZpDdg4CQYrM) | 3:45 | 2024-10-25 | 2025-03-01 |
 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 | 2024-06-27 | 2025-03-22 |
 | [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-04 | 2024-11-02 |

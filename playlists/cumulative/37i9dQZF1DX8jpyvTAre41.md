@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Yellowcard
 
-1,426 songs - 3 day 8 hr 2 min
+1,426 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-30 | 2025-07-12 |
 | [Crack In The Glass](https://open.spotify.com/track/1QGUDtsMHFg97XK533cotm) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Crack In The Glass](https://open.spotify.com/album/6SD6bl4EOazDhZfGgLO5Mx) | 2:57 | 2023-03-17 | 2024-02-24 |
 | [crash out compilation](https://open.spotify.com/track/3LyNCg5a2WGMeq9lBM7UrI) | [chasing luma](https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH) | [crash out compilation](https://open.spotify.com/album/1TICNeF8i5MCMYrphiwNp7) | 3:29 | 2025-06-13 | 2025-09-05 |
+| [Creatures of Chaos \(feat\. Tyler Connolly of Theory of a Deadman\)](https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Creatures of Chaos \(feat\. Tyler Connolly of Theory of a Deadman\)](https://open.spotify.com/album/0k3uzU6fHFYok6YZsIxAaL) | 3:21 | 2025-10-10 |  |
 | [Crown](https://open.spotify.com/track/74q9nruImgs45A4xlwckZB) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Happy Birthday](https://open.spotify.com/album/5uQ0e1loxV2LcIIQRw0crF) | 4:34 | 2025-06-06 | 2025-09-12 |
 | [Cruel](https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [The Program](https://open.spotify.com/album/42XlvIgpTYlQMexFQcXbHl) | 3:39 | 2025-03-28 | 2025-08-02 |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-14 | 2025-07-12 |
@@ -1276,7 +1277,6 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 | 2024-10-19 |
 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 | 2024-07-12 | 2024-11-23 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-09-19 |
-| [Track 1](https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Tree Of Life](https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Serene Demon](https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F) | 3:08 | 2025-02-14 | 2025-06-21 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-21 | 2025-06-28 |
@@ -1406,7 +1406,7 @@
 | [Yippie Ki Yay](https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Yippie Ki Yay](https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1) | 4:26 | 2023-03-24 | 2024-04-13 |
 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 | 2024-08-16 | 2024-08-31 |
 | [You](https://open.spotify.com/track/64oJZbt8DzFfoLK6YOUHA9) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Changes](https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib) | 2:59 | 2021-12-31 | 2022-04-16 |
-| [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [](https://open.spotify.com/album/null) | 3:07 | 2025-10-10 |  |
+| [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 | 2025-10-10 |  |
 | [You Can Let Go](https://open.spotify.com/track/3b7NzG7D7l3ZuLfEYiPZKL) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 3:06 | 2023-06-23 | 2024-06-08 |
 | [You Can Let Go](https://open.spotify.com/track/4FstNW0yCDSX82nhcCAkZL) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:06 | 2023-11-03 | 2024-04-19 |
 | [You Can Let Go](https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [You Can Let Go](https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2) | 3:06 | 2023-03-10 | 2023-06-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Myke Towers, Kris R. y Alem\u00e1n en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Gorillaz y Trueno en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 200816,
       "name": "Aplausos",
       "url": "https://open.spotify.com/track/5q9J42PlRZm2ytXzJ4wVFk"
@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 180801,
       "name": "Dame Boom Bap",
       "url": "https://open.spotify.com/track/44FXCKs4DiEyROCvtd59cA"
@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 157341,
       "name": "Fluir",
       "url": "https://open.spotify.com/track/4xokjOBb0ZFZP8IBgMMvRY"
@@ -6390,6 +6390,28 @@
       "duration_ms": 185185,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/6NQlxaFdIcjZJ6Fjpr1l8g"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a Gal\u00e1ctica",
+        "url": "https://open.spotify.com/album/2WaP9SSEnz90kjtWd9fYoX"
+      },
+      "artists": [
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Azuky",
+          "url": "https://open.spotify.com/artist/2RAO9CvGh59gWu7V6Ms6Df"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121428,
+      "name": "La Ni\u00f1a Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/4PUwfbnQSl5ydaALLWXpau"
     },
     {
       "album": {
@@ -12105,6 +12127,32 @@
     },
     {
       "album": {
+        "name": "The Manifesto (feat. Trueno and Proof)",
+        "url": "https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439125,
+      "name": "The Manifesto (feat. Trueno and Proof)",
+      "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
+    },
+    {
+      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -13012,6 +13060,28 @@
       "duration_ms": 258586,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi"
+    },
+    {
+      "album": {
+        "name": "Ruda",
+        "url": "https://open.spotify.com/album/5cdm28zQsQMqh2ZGRS2qZK"
+      },
+      "artists": [
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        },
+        {
+          "name": "El propio junte",
+          "url": "https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201481,
+      "name": "Vengo",
+      "url": "https://open.spotify.com/track/3RHSpZwEao9A7dgOB3SMR6"
     },
     {
       "album": {

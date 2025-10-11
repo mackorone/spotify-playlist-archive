@@ -2,7 +2,7 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Israel B x L0rna.
+> Lo mejor del hip hop español\. Feat\. Israel B x l0rna.
 
 647 songs - 1 day 9 hr 57 min
 
@@ -343,7 +343,7 @@
 | [Loca](https://open.spotify.com/track/3MrWbBl9WB14QDb62hYIe3) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Loca](https://open.spotify.com/album/7L4PkBeVyXWeQ7T1wXfgUf) | 3:01 | 2024-04-04 | 2024-04-26 |
 | [Lollypop](https://open.spotify.com/track/1K6H2Tpdnd27SJWZz2JS96) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Lollypop](https://open.spotify.com/album/1BTOi1Ido10cMMM7i9MCCp) | 1:41 | 2023-09-14 | 2023-10-24 |
 | [Los Mataba a Todos](https://open.spotify.com/track/6eSKF52qVfauS4cUhkwAl7) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [Los Mataba a Todos](https://open.spotify.com/album/45tCgEN9Fn3T55fem1Qn34) | 3:01 | 2024-05-03 | 2024-05-24 |
-| [Los Odiosos Ocho](https://open.spotify.com/track/6ZqmIiY5QBBs4mkn09yYWx) | [Space Hammu](https://open.spotify.com/artist/7h7SMN04ptUh5BmYEPpcGU), [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Kas Rules](https://open.spotify.com/artist/5Wk4tQ1jAYa4LurxJ6MV0c), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Sanson](https://open.spotify.com/artist/3hoLnQFJFN6bUwIcPCqWUS) | [Los Odiosos Ocho](https://open.spotify.com/album/3o2EJhmsYjzzIA8bF31cKL) | 4:56 | 2025-10-09 |  |
+| [Los Odiosos Ocho](https://open.spotify.com/track/6ZqmIiY5QBBs4mkn09yYWx) | [Space Hammu](https://open.spotify.com/artist/7h7SMN04ptUh5BmYEPpcGU), [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Kas Rules](https://open.spotify.com/artist/5Wk4tQ1jAYa4LurxJ6MV0c), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Sanson](https://open.spotify.com/artist/7Hhb4Aik2dGn5ci2Djhe9x) | [Los Odiosos Ocho](https://open.spotify.com/album/3o2EJhmsYjzzIA8bF31cKL) | 4:56 | 2025-10-09 |  |
 | [Los últimos vivos](https://open.spotify.com/track/6Ay67wJy9QQA71revDOIj1) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [LOS ÚLTIMOS VIVOS](https://open.spotify.com/album/52qKelSYIY9HmclvmXsDnj) | 2:48 | 2025-08-11 | 2025-08-29 |
 | [Love is Love](https://open.spotify.com/track/6BDM0Zf2lVqhAPVXQOHV7O) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Richie Rasheed](https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI) | [Love is Love](https://open.spotify.com/album/6zk4TEvQeFDoaN4zsFhaWJ) | 2:40 | 2025-05-16 | 2025-05-23 |
 | [LUCES AZULES](https://open.spotify.com/track/6x4XndxEfWD86QS9eDQDfa) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [LUCES AZULES](https://open.spotify.com/album/1m9a3ueoNO1Bn5rtoCzLED) | 3:33 | 2024-03-22 | 2024-04-12 |

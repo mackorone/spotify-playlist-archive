@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13812,
+  "num_followers": 13814,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC4ahsyGkhYFsqQVJVofZk+",
+  "snapshot_id": "aOb7AAAAAACdx/aMjJehf7b0z7OVesID",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+        "name": "Harold Melvin & The Blue Notes",
+        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+      "duration_ms": 249760,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Philadelphia Soul",
         "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 221506,
       "name": "Keep On Loving You",
       "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harold Melvin & The Blue Notes",
-        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 356360,
-      "name": "All Night Love",
-      "url": "https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5"
+      "duration_ms": 230493,
+      "name": "Baby I'm Back",
+      "url": "https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1"
     },
     {
       "added_at": null,
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Baby I'm Back",
-      "url": "https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1"
+      "duration_ms": 356360,
+      "name": "All Night Love",
+      "url": "https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5"
     },
     {
       "added_at": null,

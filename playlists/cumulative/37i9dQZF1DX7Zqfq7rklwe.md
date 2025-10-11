@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa AC/DC.
 
-319 songs - 20 hr 43 min
+319 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 | 2024-09-11 | 2025-09-05 |
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-12 | 2024-12-13 |
 | [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:19 | 2025-03-27 | 2025-10-10 |
+| [Creatures of Chaos \(feat\. Tyler Connolly of Theory of a Deadman\)](https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Creatures of Chaos \(feat\. Tyler Connolly of Theory of a Deadman\)](https://open.spotify.com/album/0k3uzU6fHFYok6YZsIxAaL) | 3:21 | 2025-10-09 |  |
 | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 | 2025-09-11 |  |
 | [Damned](https://open.spotify.com/track/64h26RpYLiK8BtLUgR4YfG) | [Laurenne / Louhimo](https://open.spotify.com/artist/5pmtBo3993oBwmOMFSUBpf) | [Damned](https://open.spotify.com/album/5Y7n3RPXyZu45UGxk8M1op) | 3:59 | 2025-02-06 | 2025-03-07 |
 | [Dancing Shadow](https://open.spotify.com/track/2yp3vlZi440JXxX1Mz2W4h) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Dancing Shadow](https://open.spotify.com/album/5CoNRYYHILmFu0pmgA6YED) | 4:58 | 2025-08-14 | 2025-09-27 |
@@ -114,7 +115,7 @@
 | [Frankenstein's Wife](https://open.spotify.com/track/268MELe1R45Gqhz8RYkxuU) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Frankenstein's Wife](https://open.spotify.com/album/5XQRzumlwkrrVlbl7yGMae) | 5:25 | 2024-09-11 | 2024-11-08 |
 | [From An Empire To A Fall](https://open.spotify.com/track/3OVOD34O2bzQGDabjnJvFQ) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [From An Empire To A Fall](https://open.spotify.com/album/1WFxhjTthikWB5m20GCgPK) | 4:08 | 2024-11-01 | 2025-01-17 |
 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2024-11-07 | 2024-12-13 |
-| [From the Bottom of My Heart](https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [](https://open.spotify.com/album/null) | 3:10 | 2025-10-09 |  |
+| [From the Bottom of My Heart](https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Come Hell, Come High Water](https://open.spotify.com/album/7mczEKzLUFG5OuNJWB07KI) | 3:10 | 2025-10-09 |  |
 | [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 | 2025-02-13 | 2025-04-18 |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-05-15 |  |
 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-05 |  |
@@ -296,7 +297,6 @@
 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-02 |  |
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-29 |
 | [Tokyo Love](https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Neon Inferno](https://open.spotify.com/album/75k7eiWA8rEGhmViParevn) | 3:33 | 2024-10-24 | 2025-01-17 |
-| [Track 1](https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-12-13 |
 | [Unbreakable](https://open.spotify.com/track/2aCDSwEeyqRbTI0iaroTWZ) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Unbreakable](https://open.spotify.com/album/3akqEprag6eKeObpB2iB44) | 4:49 | 2025-07-10 | 2025-07-18 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |

@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Lordofon
 
-1,151 songs - 2 day 16 hr 48 min
+1,152 songs - 2 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Hikikomori](https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Hikikomori](https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO) | 2:47 | 2024-09-12 | 2024-10-04 |
 | [Himalaje](https://open.spotify.com/track/4IhYpTLze4fiOIDZ6HTS6X) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Himalaje](https://open.spotify.com/album/0Y3ZhFXv40x4Euyg3J7IYY) | 2:53 | 2025-09-11 |  |
 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 | 2024-11-14 | 2025-02-28 |
-| [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [](https://open.spotify.com/album/null) | 3:31 | 2025-10-09 |  |
+| [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 | 2025-10-09 |  |
 | [Historia](https://open.spotify.com/track/3rSnfp9Or2jmpNA8rFHjuX) | [Nieme Kino](https://open.spotify.com/artist/4DBfDikhBFqz65ajyTWXEc) | [Historia](https://open.spotify.com/album/7vXK4IGruSLz7WQSPCcKX2) | 3:04 | 2025-05-15 | 2025-06-17 |
 | [Hours](https://open.spotify.com/track/7zExHiRMdOylPyIwSTOhEN) | [BYTY](https://open.spotify.com/artist/7cIp5M3BpiNcMOQ9OiqNwf), [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Hours](https://open.spotify.com/album/1RZUkGK2jeuEHNysJIqILF) | 2:45 | 2025-02-27 | 2025-03-14 |
 | [Hybryda](https://open.spotify.com/track/0YyEAIlIGi1w45JM71ZrLA) | [SOWA](https://open.spotify.com/artist/6HpA9iaFaRd6LiD5cwxBTu) | [Hybryda](https://open.spotify.com/album/2OtRqTSenfZOBJBk83Mjnf) | 2:25 | 2025-08-21 | 2025-09-19 |
@@ -709,6 +709,7 @@
 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 | 2024-06-27 | 2024-08-10 |
 | [Personel](https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Personel](https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH) | 3:53 | 2025-01-23 | 2025-02-28 |
 | [Pełne Słońce](https://open.spotify.com/track/30QQgvt3QAFxyAhd0ZEJCe) | [Niemoc](https://open.spotify.com/artist/0fiNNq0GEu0tatdHdjpFXy) | [Pełne Słońce](https://open.spotify.com/album/69uyCRK5b0DlnWsv9cD0MK) | 3:42 | 2025-06-26 | 2025-07-11 |
+| [Phantom Sound](https://open.spotify.com/track/0IHDdUbpSHZ3floB8R82p8) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Phantom Sound](https://open.spotify.com/album/4owwRW3lgxsQcRfc2RLjdb) | 4:56 | 2025-10-10 |  |
 | [Philip](https://open.spotify.com/track/0ORppj9PP9tmgXkyKJkfPg) | [izdeb](https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e) | [Philip](https://open.spotify.com/album/3KsjkBEFpcpzLaTSdCggEz) | 5:49 | 2024-11-21 | 2024-12-13 |
 | [Pierwsza prosta](https://open.spotify.com/track/2MV0yI5YujkDiIDtZz7r0H) | [Happysad](https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6) | [Pierwsza prosta](https://open.spotify.com/album/1vjhoOnK38f1ne8iwj70ET) | 3:31 | 2024-09-05 | 2024-11-08 |
 | [pies](https://open.spotify.com/track/4DHQZqubf1Z9fUdcoKA6nk) | [Stany Pośrednie](https://open.spotify.com/artist/6TrbcmVEO6TdAmKmZ0OBA9), [Imitation Zone](https://open.spotify.com/artist/4nbmVqLTMQ5urUAbCwY7zT), [krawczyk](https://open.spotify.com/artist/65Yvi0V2xjb3yJBIL6dtmz), [Felix G](https://open.spotify.com/artist/1b6xppvHMpDvzVoEek1LTb) | [pies](https://open.spotify.com/album/5ME1cBQM6slAj0dcu9XBaO) | 3:14 | 2025-09-18 | 2025-10-10 |
@@ -1055,7 +1056,7 @@
 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 | 2024-09-26 | 2024-10-25 |
 | [yolo \_ yola](https://open.spotify.com/track/01HM297RF3F5juxodFBaGV) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:28 | 2025-09-11 | 2025-10-10 |
 | [Z daleka](https://open.spotify.com/track/6jygpzUxLsi3DXcWyBFisT) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Z daleka](https://open.spotify.com/album/1nwgR2s7Ti50wST74EkNAw) | 3:36 | 2025-03-27 | 2025-04-18 |
-| [Z Hukiem](https://open.spotify.com/track/4U4LTYqTs4Nwd26vjDBtyp) | [Potock](https://open.spotify.com/artist/6OGxr27KhARDYWLfyQcF2D) | [](https://open.spotify.com/album/null) | 2:41 | 2025-10-09 |  |
+| [Z Hukiem](https://open.spotify.com/track/4U4LTYqTs4Nwd26vjDBtyp) | [Potock](https://open.spotify.com/artist/6OGxr27KhARDYWLfyQcF2D) | [Z hukiem](https://open.spotify.com/album/1KAzoHavAmxYXHFHmd0ZsY) | 2:41 | 2025-10-09 |  |
 | [Z KOŃCEM POCZĄTEK](https://open.spotify.com/track/17Uztzz0OebGNpaO2aAe9L) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Z KOŃCEM POCZĄTEK](https://open.spotify.com/album/3L1WaNyJBrZOnDeeiTvjqT) | 3:41 | 2025-04-03 | 2025-06-06 |
 | [Z lukrem](https://open.spotify.com/track/6O1WuKbvSOAMNNt1Cku8i2) | [Fear of Eating Rabbits](https://open.spotify.com/artist/33mEy7GdJPgrNlk59mMSpB) | [Z lukrem](https://open.spotify.com/album/4ah6u0xGNtuaG5ivZKg7gW) | 3:52 | 2025-06-05 | 2025-06-27 |
 | [Z Tobą](https://open.spotify.com/track/7bwMlmAsLPWUlsB7WXxOBq) | [flyology](https://open.spotify.com/artist/6GuasJ2TFBIAkGizQG1KjY), [Tęskno](https://open.spotify.com/artist/2jlB25j7GZyJWFApPtordZ) | [Z Tobą](https://open.spotify.com/album/1cYaygpwKHcxESKGAyklX1) | 2:34 | 2024-09-05 | 2024-09-27 |

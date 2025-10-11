@@ -10143,6 +10143,24 @@
     },
     {
       "album": {
+        "name": "Nested in Tangles",
+        "url": "https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327624,
+      "name": "Nested in Tangles",
+      "url": "https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -10652,6 +10670,24 @@
       "duration_ms": 331053,
       "name": "One More Chance - 2018 Remaster",
       "url": "https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5"
+    },
+    {
+      "album": {
+        "name": "Twilight Override",
+        "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380186,
+      "name": "One Tiny Flower",
+      "url": "https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl"
     },
     {
       "album": {

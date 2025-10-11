@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19308,
+  "num_followers": 19314,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAACUsN60lh2kWOWiBZrkVNO",
+  "snapshot_id": "aOb7AAAAAACoYxdy8WlWgTx3zMA83Z+d",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Respeta el Flow",
         "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 161964,
       "name": "Respeta el Flow",
       "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,

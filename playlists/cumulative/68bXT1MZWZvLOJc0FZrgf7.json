@@ -2635,6 +2635,28 @@
     },
     {
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/3FXoADzI4rVUgCZKrDtdI0"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4nNjSRh4Oxh8mW0dI9lvgV"
+    },
+    {
+      "album": {
         "name": "Cutting Loose",
         "url": "https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF"
       },
@@ -3407,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/4z39MbWqrI65y49xMDSi1m"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/764ZCVAqzjPdwY98It4072"
+    },
+    {
+      "album": {
         "name": "Don't Break the Heart (VIZE Remix)",
         "url": "https://open.spotify.com/album/0eWR2SjEdvmEiwF4zUrCXp"
       },
@@ -3975,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Some Kind of Alchemy",
+        "url": "https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209002,
+      "name": "Eraser",
+      "url": "https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T"
+    },
+    {
+      "album": {
         "name": "EST",
         "url": "https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i"
       },
@@ -4026,7 +4084,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 177100,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4ikJ2T2A1NgQOy2uOPoeRG"
@@ -4736,7 +4794,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
@@ -8194,7 +8252,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 259700,
       "name": "Lose Yourself Again",
       "url": "https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk"

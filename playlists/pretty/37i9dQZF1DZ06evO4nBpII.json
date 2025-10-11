@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1131485,
+  "num_followers": 1131553,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAA7Hz9/UUzhfTrVuvsU58//",
+  "snapshot_id": "aOb7AAAAAADH710Qq4jgWOmqNxcS+alv",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 120442,
-      "name": "She's a Rebel",
-      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 196794,
       "name": "Suzie Chapstick",
       "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 120442,
+      "name": "She's a Rebel",
+      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
     },
     {
       "added_at": null,

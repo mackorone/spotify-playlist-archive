@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos m\u00e1s recientes aqu\u00ed.",
-  "num_followers": 736722,
+  "num_followers": 737106,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
+        "name": "Hiekka",
+        "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Hiekka",
+      "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
-        "name": "Hiekka",
-        "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Hiekka",
-      "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 149073,
-      "name": "NEL",
-      "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
         "name": "Hecha Pa' M\u00ed",
         "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 195845,
       "name": "Hecha Pa' M\u00ed",
       "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 149073,
+      "name": "NEL",
+      "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -843,6 +843,26 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
         "name": "MJ",
         "url": "https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp"
       },
@@ -867,22 +887,18 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "SE ME OLVIDA",
-        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+        "name": "Por Esos Ojos",
+        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
       },
       "artists": [
         {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 225373,
-      "name": "SE ME OLVIDA",
-      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+      "duration_ms": 188064,
+      "name": "Por Esos Ojos",
+      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -903,22 +919,6 @@
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
-        "name": "Por Esos Ojos",
-        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Por Esos Ojos",
-      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
         "name": "BAILAME ASI",
         "url": "https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 144705,
       "name": "BAILAME ASI",
       "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
         "name": "OHNANA",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "Buenos T\u00e9rminos",
-        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 150823,
-      "name": "Buenos T\u00e9rminos",
-      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
+        "name": "Buenos T\u00e9rminos",
+        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 150823,
+      "name": "Buenos T\u00e9rminos",
+      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
         "name": "RAMEN PARA DOS",
         "url": "https://open.spotify.com/album/2InOeOytZrdWOiCeSvQFlF"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "Bajo De La Piel",
-        "url": "https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 168395,
-      "name": "Bajo De La Piel",
-      "url": "https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
         "name": "111XPANTIA",
         "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
       },
@@ -1203,6 +1187,26 @@
       "duration_ms": 208696,
       "name": "peliculiando",
       "url": "https://open.spotify.com/track/4st6K8nGBjANh0mKNvOpnt"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+        "name": "Bajo De La Piel",
+        "url": "https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+      "duration_ms": 168395,
+      "name": "Bajo De La Piel",
+      "url": "https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/28MQGSAwWynRpTFCpcqilz"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
-        "name": "MIRAME REMIX",
-        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "MIRAME REMIX",
-      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
         "name": "ETA (RMX)",
         "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
       },
@@ -1767,6 +1743,30 @@
     {
       "added_at": "2025-10-06 16:41:02",
       "album": {
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
         "name": "Carita Linda",
         "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 203463,
       "name": "Carita Linda",
       "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
-    },
-    {
-      "added_at": "2025-10-06 16:41:02",
-      "album": {
-        "name": "PA QUE LO BAILES (BAILALO ROCKY)",
-        "url": "https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 125548,
-      "name": "PA QUE LO BAILES (BAILALO ROCKY)",
-      "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
     },
     {
       "added_at": "2025-10-06 16:41:02",
@@ -1815,6 +1799,22 @@
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/18D0Za12EKUYklBQaJlaDP"
+    },
+    {
+      "added_at": "2025-10-06 16:41:02",
+      "album": {
+        "name": "PA QUE LO BAILES (BAILALO ROCKY)",
+        "url": "https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 125548,
+      "name": "PA QUE LO BAILES (BAILALO ROCKY)",
+      "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
     },
     {
       "added_at": "2025-10-06 16:41:02",

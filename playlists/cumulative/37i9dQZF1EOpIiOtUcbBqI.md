@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 7 hr 13 min
+21 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [The New BTS Album is Finally Here! Map Of The Soul: Persona Outsold](https://open.spotify.com/episode/6l68X8Yh89rardUmtodbCl) | [BTS AF](https://open.spotify.com/show/5qvChm9pa8rv5ne8Zh9Ewp) | [BTS AF](https://open.spotify.com/album/5qvChm9pa8rv5ne8Zh9Ewp) | 13:59 | 2020-11-27 |  |
 | [Twice is Love](https://open.spotify.com/episode/10wmKba9ZiYqvC9hVg7WwG) | [Kpopcast: for the best sounds & ideas in Kpop](https://open.spotify.com/show/3PVkEesfbyNHwjnqx0KYCA) | [Kpopcast: for the best sounds & ideas in Kpop](https://open.spotify.com/album/3PVkEesfbyNHwjnqx0KYCA) | 40:33 | 2020-11-27 |  |
 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 | 2020-11-27 |  |
-| [What's Most Important with Michael Bublé](https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K) | [Self\-Helpless](https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG) | [Self\-Helpless](https://open.spotify.com/album/331TJ7eQKg2gHmAk7AU4XG) | 31:07 | 2020-11-27 |  |
+| [What's Most Important with Michael Bublé](https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K) | [Self\-Helpless](https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG) | [Self\-Helpless](https://open.spotify.com/album/331TJ7eQKg2gHmAk7AU4XG) | 30:37 | 2020-11-27 |  |
 | [You, Who?](https://open.spotify.com/track/4oklfRljGkpZjzpc5vt6qj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/7mVurXzE8Gs5x5UqV0BwTQ) | 3:39 | 2020-11-27 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2020-11-27 |  |
 

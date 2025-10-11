@@ -4,7 +4,7 @@
 
 > 
 
-455 songs - 1 day 6 hr 9 min
+456 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [The Person You’d Like To Be](https://open.spotify.com/track/2WwnW0OCP8UQ2UBvnwag2O) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:17 | 2025-03-13 |  |
 | [The Person You’d Like To Be](https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [The Person You’d Like To Be](https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ) | 3:17 | 2025-03-10 | 2025-03-14 |
 | [The Prophet](https://open.spotify.com/track/68nHXfsqTUHGt9Z21j9Pkj) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q) | [The Prophet](https://open.spotify.com/album/3Oq7YVzRdzNBK5Ji47N1ox) | 8:45 | 2025-07-30 | 2025-09-18 |
+| [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 | 2025-10-10 |  |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-09-24 |  |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-05-18 | 2023-09-06 |
 | [These Dreams are Killing Me](https://open.spotify.com/track/3l3kfVCK5rhMlLzVw8ZYzg) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [These Dreams are Killing Me](https://open.spotify.com/album/3F1rd1yNMxA85RIp4wRPVI) | 4:49 | 2024-06-12 | 2024-08-31 |

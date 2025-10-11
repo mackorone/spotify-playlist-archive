@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Beginner Again",
+        "url": "https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI"
+      },
+      "artists": [
+        {
+          "name": "Saint Stacy",
+          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156394,
+      "name": "Didn't Mean To",
+      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
+    },
+    {
+      "album": {
         "name": "Directorial Debut",
         "url": "https://open.spotify.com/album/5R40B2Hq5HSznxKGYmNYll"
       },
@@ -12278,24 +12296,6 @@
       "duration_ms": 213000,
       "name": "Toute seule",
       "url": "https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Saint Stacy",
-          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,342 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,529 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 33 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 34 | [Water Water Yansh](https://open.spotify.com/track/0VSDlMxY0MmkVrTloPOKuJ) | [OBA DDJ45](https://open.spotify.com/artist/0YYhkcOClhez1bIgsKwB3M), [Muripounds](https://open.spotify.com/artist/3hEUb73oRSHRqUwGSShcG5), [Emmyblaqcfr\_](https://open.spotify.com/artist/3vmt0ECmETTJzJInF8maoB) | [Water Water Yansh](https://open.spotify.com/album/5Fx3D1mEkXudkDzqZxWK95) | 3:32 |
 | 35 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
-| 36 | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
+| 36 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 37 | [Magumba](https://open.spotify.com/track/6sbHyHcH3bvY2qRfRTxOwE) | [Khadeair](https://open.spotify.com/artist/6RQHmMwcFO7oD4K06kcAiz), [PeeKay Mzee](https://open.spotify.com/artist/3kjGJR4uVdVSidEHzw1Ebu), [Kaytah](https://open.spotify.com/artist/7wWEcTTy43Tl3ASOCsTD2Y) | [Magumba](https://open.spotify.com/album/422CwSOOoIXi5GYhnko581) | 6:46 |
 | 38 | [Backbencher](https://open.spotify.com/track/040zksag8ezHjbAN6aSAQY) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Backbencher](https://open.spotify.com/album/7lydZgu9oglnh5EDYEbG6z) | 2:53 |
 | 39 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 |

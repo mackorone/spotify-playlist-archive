@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 甜約翰 \(Sweet John\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,892 likes - 126 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,898 likes - 126 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 2 | [你怎麼捨得我難過 \- 滾石撞樂隊2 \(原唱:黃品源\)](https://open.spotify.com/track/1fZhClIljIAn0qC2E0JMAo) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [滾石撞樂隊2 \- 你怎麼捨得我難過](https://open.spotify.com/album/30JaE8G16R1929l9KKnGxG) | 4:11 |
 | 3 | [Frog \(Live in Boston, USA\)](https://open.spotify.com/track/7qqfcFeO1zN2Yu0Ba4EPFT) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Live in THE WORLD \- North America](https://open.spotify.com/album/7qVMQ8WWhtN6t2z19VQ7x2) | 3:02 |
 | 4 | [Robot in No Man's Land](https://open.spotify.com/track/2YHjtbpIHduMuK0yz2bOB6) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [Robot in No Man's Land](https://open.spotify.com/album/35Fo2VCyHtL5ShyRnCVIKR) | 6:46 |
-| 5 | [Track 2](https://open.spotify.com/track/52m8nAPJJlm3z43vSvqSxr) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [自己自己](https://open.spotify.com/track/52m8nAPJJlm3z43vSvqSxr) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 4:23 |
 | 6 | [A+](https://open.spotify.com/track/2bYQ28HWblkTcy0QuJJy24) | [Feith Li](https://open.spotify.com/artist/4LVRvWh1ht2qMPVotYMUjD) | [A+](https://open.spotify.com/album/52HGAXnG1M0aIier0jUgzE) | 3:52 |
 | 7 | [躺在你的衣櫃 \- 滾石撞樂隊2 \(原唱:陳綺貞\)](https://open.spotify.com/track/2oCC0Of4Ht5ScmNbFWlSJr) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [滾石撞樂隊2 \- 躺在你的衣櫃](https://open.spotify.com/album/5DydD7ZoJTNZOLb9yccJ72) | 3:48 |
 | 8 | [哎呀](https://open.spotify.com/track/7cVbyhj31xHCQ5BesI6085) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [哎呀](https://open.spotify.com/album/2UgGe6LKhpokXmOJ44ZztA) | 3:46 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 11 | [Diapery](https://open.spotify.com/track/0tcS3F0qXIE36MUwBFdVUg) | [韓森](https://open.spotify.com/artist/49FpSuQVruzfCqSYVUTLMB) | [Diapery](https://open.spotify.com/album/6vwMNvvfK4WuGwKbRPAjE3) | 2:06 |
 | 12 | [花期](https://open.spotify.com/track/63vgqO0WkNBF2aOaW4JJm1) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [花期](https://open.spotify.com/album/1f9XBNl26V72W6yX8r7WzD) | 2:36 |
 | 13 | [命運的蔥笛 \- 錯頻沒在稿 OFF THE RECORD \- DEMO](https://open.spotify.com/track/62LCeCVeQUAY44xjG4uUOh) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [命運的蔥笛 \- 錯頻沒在稿 OFF THE RECORD \(DEMO\)](https://open.spotify.com/album/7hiy3u7tMZbFcO711fGxIv) | 2:30 |
-| 14 | [Cinder Kiss](https://open.spotify.com/track/7yjM1dqehCnvXCe7KiJGoZ) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss) | [Cinder Kiss](https://open.spotify.com/album/7amBrCpKG60Kxw0yctuzGZ) | 3:11 |
+| 14 | [CINDER KISS](https://open.spotify.com/track/7yjM1dqehCnvXCe7KiJGoZ) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss) | [CINDER KISS](https://open.spotify.com/album/7amBrCpKG60Kxw0yctuzGZ) | 3:11 |
 | 15 | [再会就是不再会](https://open.spotify.com/track/6E2JCJtkNbPTWT2xyKJ7ra) | [新裤子乐队](https://open.spotify.com/artist/3asy14alGCZBDd3Y6pbBbp), [陆希文](https://open.spotify.com/artist/6RddTvD8T0N2OasZ93jvME), [彭磊](https://open.spotify.com/artist/2eukM6uixNehytXPrmELYy) | [再会就是不再会](https://open.spotify.com/album/59BngJoUJ56Kn9DIzUQH7A) | 3:22 |
 | 16 | [POWER跳起來！](https://open.spotify.com/track/0r7SaiSE75Ox9s1fXtiSs1) | [Sauljaljui](https://open.spotify.com/artist/5U7enzUf0xuOMdiqj4tncy) | [POWER跳起來！](https://open.spotify.com/album/2Vb1F00Sj9zAG5Doe2De2W) | 3:49 |
 | 17 | [冰結心 Frozen Youth](https://open.spotify.com/track/4JOUhGtbKO00qBPAyiQksF) | [閃閃閃閃](https://open.spotify.com/artist/3v1lQb5de2uc8TzkIsMVQj) | [冰結心 Frozen Youth](https://open.spotify.com/album/3GB6dmZJUFR1YJNE4Ybsx4) | 3:26 |

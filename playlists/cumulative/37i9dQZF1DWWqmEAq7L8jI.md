@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Babasónicos.
 
-394 songs - 21 hr 29 min
+395 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [No era amor](https://open.spotify.com/track/0nAYHH7PlT3YWYxntJ3klM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [No era amor](https://open.spotify.com/album/5obYaeL4HSkhqA8ryJ1edh) | 3:38 | 2025-07-18 | 2025-07-26 |
 | [No es amor](https://open.spotify.com/track/7HJSDNbNLUVENQjWKwBvW2) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos](https://open.spotify.com/album/6q9JxhDsrcwQqTk79bqRR8) | 3:13 | 2025-03-14 | 2025-04-26 |
 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastián Yatra](https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 | 2023-08-11 | 2025-09-13 |
-| [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2023-08-11 |  |
+| [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2023-08-11 | 2025-10-11 |
 | [no hay vuelta atrás](https://open.spotify.com/track/79ZxDTRJC6srI4vM8nBbJ9) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [no hay vuelta atrás](https://open.spotify.com/album/30XqJeXn9Ac35jMoo3MnsL) | 2:11 | 2025-06-27 | 2025-07-12 |
 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 | 2023-08-25 | 2023-09-23 |
 | [NO ME APURES](https://open.spotify.com/track/5PDuUj8AAU8K15fULZBrY5) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [NO ME APURES](https://open.spotify.com/album/6G8FpsRV5dChImgTRyeyDZ) | 2:36 | 2025-05-09 | 2025-05-31 |
@@ -394,6 +394,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-08 | 2023-10-05 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2023-03-17 | 2023-08-12 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2023-03-17 | 2023-07-08 |
+| [Ya Es Tarde](https://open.spotify.com/track/4pbWwyjQm6CdXDDTO4Qwxy) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Ya Es Tarde](https://open.spotify.com/album/5rsAV6R9QsuMdG7jLFSTBj) | 3:34 | 2025-10-10 |  |
 | [Ya no quiero hacerlo](https://open.spotify.com/track/4RaO99GEOpnxO8gG686vTA) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ya no quiero hacerlo](https://open.spotify.com/album/2vaBK9RJxI8SNYO6UNON5m) | 2:50 | 2025-08-01 | 2025-09-06 |
 | [Ya No Vuelvas](https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS) | 2:24 | 2023-08-11 | 2025-06-21 |
 | [YA TE CANSASTE DE MI???](https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [YA TE CANSASTE DE MI???](https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A) | 2:42 | 2025-05-02 | 2025-05-31 |

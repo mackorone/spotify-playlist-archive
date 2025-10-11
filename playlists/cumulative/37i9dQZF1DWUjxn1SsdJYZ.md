@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Allday
 
-1,332 songs - 2 day 14 hr 8 min
+1,332 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/1eMevZk9dPrdy4hWdFeRXR) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Leave Me Alone](https://open.spotify.com/album/1kuECkKxX11NNa4U0u7izc) | 4:15 | 2022-07-25 | 2022-11-04 |
 | [Leaving Soon](https://open.spotify.com/track/1qgd0Dz7j3j3beX57zfmuc) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [RNZŌ SZN](https://open.spotify.com/album/64dFcBe6P6kxwfhtsGfDqP) | 2:57 | 2025-01-30 | 2025-03-28 |
 | [Led Zeppelin](https://open.spotify.com/track/5fVwIgwwa2f25OMq4luuGr) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [Led Zeppelin](https://open.spotify.com/album/2liLgcDI4yWUYPQasZjlEL) | 1:42 | 2023-08-17 | 2023-10-27 |
+| [Legacy in Motion](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Legacy In Motion](https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj) | 3:16 | 2025-10-09 |  |
 | [Legitimate](https://open.spotify.com/track/4oeejq4KuAlOBq7ixqF7qF) | [Flicky Freedz](https://open.spotify.com/artist/294k0hh73RLUN8dQcDISbw) | [Legitimate](https://open.spotify.com/album/717z6S37UBdb5wZiJRdEOT) | 2:29 | 2024-09-12 | 2024-10-18 |
 | [Lemme Know](https://open.spotify.com/track/2cpqEOmplWCWwh0kzSCyHU) | [Kootsie Don](https://open.spotify.com/artist/6t2pf289HxzUYQKc7nCzd2) | [Lemme Know](https://open.spotify.com/album/5bAvHMNCW1qgWYfn3ij7Sy) | 2:22 | 2023-04-27 | 2023-06-30 |
 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 | 2023-05-18 | 2024-03-22 |
@@ -992,7 +993,7 @@
 | [RUN THIS TOWN](https://open.spotify.com/track/4jDkZnxqpoVfetWgnO5KjG) | [JMG](https://open.spotify.com/artist/0akQP4O0bIsd8kXVvjkXNf), [Shadow](https://open.spotify.com/artist/6gIIjCxL1AqzyyCazv8EwB) | [RUN THIS TOWN](https://open.spotify.com/album/2NDneoTVnIdGbVaiWKb8ks) | 2:54 | 2022-09-29 | 2023-02-24 |
 | [RUNNIN](https://open.spotify.com/track/1IA11fh0nHMauEx6WrMIKy) | [MANDEM](https://open.spotify.com/artist/3uXbU6pVxmSY7ROYqa4MCy), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [RUNNIN](https://open.spotify.com/album/244s3bNXlkDgFigRPeoX0m) | 2:53 | 2022-03-21 | 2022-08-05 |
 | [Runnin' Game](https://open.spotify.com/track/7B8IYJuJ7jBW1bI1NLlMqS) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Runnin' Game](https://open.spotify.com/album/38yJe8MEpW1x4dPpOVjzQr) | 4:36 | 2022-03-21 | 2022-07-29 |
-| [RUNNING LOW \(feat\. Pardyalone\)](https://open.spotify.com/track/6O34FlFOlnWpBtp1rtaiy2) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [](https://open.spotify.com/album/null) | 2:57 | 2025-10-09 |  |
+| [RUNNING LOW \(feat\. Pardyalone\)](https://open.spotify.com/track/6O34FlFOlnWpBtp1rtaiy2) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [DJANDJAY](https://open.spotify.com/album/6VOlu6p7XLE21tX9eoK2CD) | 2:57 | 2025-10-09 |  |
 | [Running Through My Head](https://open.spotify.com/track/3g8RWK26hfUvkm1xukfKAd) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [Running Through My Head](https://open.spotify.com/album/4AvBhR7pY2QMhrLS7uhFGc) | 3:14 | 2025-07-24 |  |
 | [Runnin’ Game](https://open.spotify.com/track/4hvcQOVrQ4rdaI0zubTwWa) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/2BSruKVc0FBm0rmWbRmrAU) | 4:36 | 2022-07-28 | 2022-08-26 |
 | [Ruthless](https://open.spotify.com/track/1XuFjxGwGRaWYJ4NGLWg1V) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Ruthless](https://open.spotify.com/album/754RRtCBYndQ8IC9yfSFAE) | 2:59 | 2023-01-12 | 2023-07-19 |
@@ -1186,7 +1187,6 @@
 | [Tough Love](https://open.spotify.com/track/580M6DAWUqbm8Xen9hFzen) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [BBGB](https://open.spotify.com/artist/24WPoEQFxZRu8ITQ7QPxpW), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Tough Love](https://open.spotify.com/album/2oDAt5ppCdmPxX2FgDEO2Y) | 2:02 | 2022-07-14 | 2022-08-26 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 10](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

@@ -6209,28 +6209,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00eds Fialho",
-          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
-        },
-        {
-          "name": "In\u00eas de Vasconcellos",
-          "url": "https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5"
-    },
-    {
-      "album": {
         "name": "Festival da Can\u00e7\u00e3o 2025",
         "url": "https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu"
       },
@@ -6271,8 +6249,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "D\u2261Z",
+        "url": "https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne"
       },
       "artists": [
         {
@@ -6476,6 +6454,28 @@
       "duration_ms": 187124,
       "name": "Verdade",
       "url": "https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB"
+    },
+    {
+      "album": {
+        "name": "A Viagem",
+        "url": "https://open.spotify.com/album/4IVB1cL3uZrOxyaMLsQzcR"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Fialho",
+          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
+        },
+        {
+          "name": "In\u00eas de Vasconcellos",
+          "url": "https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189562,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5"
     },
     {
       "album": {

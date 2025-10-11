@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 59031,
+  "num_followers": 59092,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC0RXfjV7cr9ECN72g+GPJG",
+  "snapshot_id": "aOb7AAAAAAB8IW5BIt+qz2wm5HdXue1q",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 221986,
-      "name": "satisfaction (feat. Asake)",
-      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "added_at": null,
@@ -399,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omo Ope",
-        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Omo Ope (feat. Olamide)",
-      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+      "duration_ms": 221986,
+      "name": "satisfaction (feat. Asake)",
+      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 164125,
+      "name": "Baba God",
+      "url": "https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 199452,
       "name": "Get it Right (feat. Asake)",
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Baba God",
-      "url": "https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM"
     },
     {
       "added_at": null,

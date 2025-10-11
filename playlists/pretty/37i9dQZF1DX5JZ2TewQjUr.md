@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Chefwest
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,507 likes - 132 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,513 likes - 132 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 8 | [二都夜想曲 \- 一人幻想篇](https://open.spotify.com/track/69hnrKn1Tqc4sQFy7AHn4C) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [Revery](https://open.spotify.com/artist/6RvZ5IrpCh6dKzd5qwBg8Z) | [二都夜想曲 \(一人幻想篇\)](https://open.spotify.com/album/2u3SGETwUfHNDbgcWjOkDT) | 4:09 |
 | 9 | [Annabelle](https://open.spotify.com/track/1tyv2KT1wqkJVuGlBf3KBE) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Annabelle](https://open.spotify.com/album/4Lb1ip97KpMT1OZjc1Q9i8) | 2:09 |
 | 10 | [日落電車 Sunset Tramway](https://open.spotify.com/track/4K9lSoBqEI38cNFXAeFS2n) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [日落電車 Sunset Tramway](https://open.spotify.com/album/38fK4C5unqak3ITwUBDdeV) | 6:26 |
-| 11 | [Track 13](https://open.spotify.com/track/3jr24iK6HvCI0X4AQ2bHfa) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [MAKE IT RAIN](https://open.spotify.com/track/3jr24iK6HvCI0X4AQ2bHfa) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [Bye\. \(Deluxe\)](https://open.spotify.com/album/3CKAxeUlxZw1zGkcPZ6Vvt) | 2:41 |
 | 12 | [在錯誤的宇宙談戀愛](https://open.spotify.com/track/6yOYLtn7n1VE3uiOrE6I3c) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [在錯誤的宇宙談戀愛](https://open.spotify.com/album/2t8wTxHWq34BlYSSRHWKPc) | 3:23 |
 | 13 | [沒有你的0430](https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [沒有你的0430](https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0) | 3:56 |
 | 14 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 |

@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-87 songs - 7 hr 41 min
+88 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 | 2023-07-09 |  |
 | [Até Tocar o Céu](https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 7:06 | 2023-07-09 |  |
 | [Até Tocar o Céu + Profetiza \(Ao Vivo\)](https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Até Tocar o Céu + Profetiza \(Ao Vivo\)](https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB) | 8:04 | 2025-08-06 |  |
-| [Basta um Olhar](https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 5:28 | 2023-10-10 |  |
+| [Basta um Olhar](https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 5:28 | 2023-10-10 | 2025-10-11 |
 | [Bondade de Deus \(Goodness of God\) \- Ao Vivo](https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Bondade de Deus \(Goodness of God\) \[Ao Vivo\]](https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy) | 5:29 | 2023-07-09 |  |
 | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o) | 4:05 | 2024-12-15 | 2025-04-17 |
 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 | 2023-08-21 | 2023-08-24 |
@@ -59,6 +59,7 @@
 | [Na Casa de Deus \(Ao Vivo\)](https://open.spotify.com/track/405pnewk2TN2WxsUKyvbS4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Na Casa de Deus \(Ao Vivo\)](https://open.spotify.com/album/7yentyJ51KwfcdZUGD1wXm) | 4:02 | 2025-08-22 |  |
 | [Nada Pode Calar um Adorador](https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 5:22 | 2025-05-30 |  |
 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 | 2023-07-09 | 2025-05-30 |
+| [Nada Pode Calar Um Adorador + Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Nada Pode Calar Um Adorador + Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy) | 6:13 | 2025-10-11 |  |
 | [Nenhuma Condenação Há](https://open.spotify.com/track/24IEINiIOIkN4qGOvrxVUy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 3](https://open.spotify.com/album/3y6ualnXSZFNulRKap3vZr) | 4:27 | 2023-07-09 | 2023-11-11 |
 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 | 2023-07-09 |  |
 | [Não É Tarde \- Ao Vivo](https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [30 Anos na África \(Ao Vivo\)](https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw) | 3:16 | 2024-04-29 | 2025-03-25 |

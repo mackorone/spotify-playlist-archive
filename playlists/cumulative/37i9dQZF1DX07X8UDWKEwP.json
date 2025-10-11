@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Ke Personajes & J Balvin",
+  "description": "Lo nuevo del mundo tropical. Cover: NATHY PELUSO",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -8465,6 +8465,28 @@
     },
     {
       "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219252,
+      "name": "MALPORTADA",
+      "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F"
       },
@@ -14810,7 +14832,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 164820,
       "name": "Ven y Ven",
       "url": "https://open.spotify.com/track/5rXed7tqtp5Q6lMuQmT4au"

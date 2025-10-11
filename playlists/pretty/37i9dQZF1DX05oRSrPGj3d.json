@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 284628,
+  "num_followers": 284644,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 252480,
-      "name": "Long Hot Summer Day",
-      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
+      "duration_ms": 234400,
+      "name": "Diamonds & Gasoline",
+      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Diamonds & Gasoline",
-      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
+      "duration_ms": 252480,
+      "name": "Long Hot Summer Day",
+      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Pearl Snaps",
-        "url": "https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ"
-      },
-      "artists": [
-        {
-          "name": "Jason Boland & The Stragglers",
-          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
-        }
-      ],
-      "duration_ms": 353653,
-      "name": "Somewhere Down in Texas",
-      "url": "https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Just A Matter Of Time",
         "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 254613,
       "name": "One More Goodbye",
       "url": "https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Pearl Snaps",
+        "url": "https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ"
+      },
+      "artists": [
+        {
+          "name": "Jason Boland & The Stragglers",
+          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
+        }
+      ],
+      "duration_ms": 353653,
+      "name": "Somewhere Down in Texas",
+      "url": "https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy"
+        "name": "Willis Alan Ramsey",
+        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Willis Alan Ramsey",
+          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
         }
       ],
-      "duration_ms": 335622,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd"
+      "duration_ms": 258200,
+      "name": "Ballad Of Spider John",
+      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
     }
   ],
   "unique_name": "Heart Of Texas",

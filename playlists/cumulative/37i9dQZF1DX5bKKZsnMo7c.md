@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-516 songs - 1 day 3 hr 59 min
+518 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bless This Mess](https://open.spotify.com/track/07c1JDEzG7AQNci3xFFAAA) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/0DShhASR18vMDEA27fVa8o) | 4:02 | 2022-11-18 | 2022-11-30 |
 | [Blossom](https://open.spotify.com/track/7kjMQEGVKepeKZ3gPUDeSD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:10 | 2024-09-20 | 2025-01-11 |
 | [Blow My Brains Out](https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB) | [Tikkle Me](https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX) | [Tikkle Me](https://open.spotify.com/album/0tNO6EN9i6at8omQTYkcch) | 3:42 | 2022-08-08 | 2024-04-06 |
+| [Blue](https://open.spotify.com/track/64TzwGjTpMwofrTDvfDcds) | [Matilda Rowe](https://open.spotify.com/artist/7kXzb6D2RxF6KjfmValKlV) | [Blue](https://open.spotify.com/album/76xxR4qL7NneahIJKzjapk) | 6:11 | 2025-10-10 |  |
 | [Blue Haired Boy](https://open.spotify.com/track/74aKOiizkE9bZTTaRw1pfW) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [Blue Haired Boy](https://open.spotify.com/album/6U6ZQQ17RpA6uhNn4qJX7q) | 1:13 | 2023-02-16 | 2023-11-18 |
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-10-04 | 2022-12-03 |
 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 | 2022-05-17 | 2023-01-07 |
@@ -154,7 +155,7 @@
 | [Everything's Fine \(Nuke Song\)](https://open.spotify.com/track/2BRdwCOzgzF0S1edWdCRUd) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Everything's Fine \(Nuke Song\)](https://open.spotify.com/album/3n8o6aNvxgEESt00ncoVLR) | 2:14 | 2022-10-07 | 2022-11-30 |
 | [Evil Twin](https://open.spotify.com/track/1Etn9dUofwRMlaAEgJk6Ij) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Evil Twin](https://open.spotify.com/album/70ntdGVYxNVwsKafaIeIPy) | 3:47 | 2024-05-17 | 2024-06-08 |
 | [Ex\-Girlfriend](https://open.spotify.com/track/30RnHZzh0YfZu7FNIBxiIH) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Ex\-Girlfriend](https://open.spotify.com/album/37xFZDZTBANnDJdPpXHgU8) | 2:19 | 2022-09-02 | 2022-12-10 |
-| [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 | 2025-05-23 |  |
+| [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 | 2025-05-23 | 2025-10-11 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-07-12 |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2022-05-23 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-05-17 | 2022-06-02 |
@@ -202,6 +203,7 @@
 | [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 | 2025-01-10 | 2025-05-03 |
 | [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 | 2023-06-21 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-05-08 |
+| [Hand On The Bible](https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Hand On The Bible](https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD) | 3:30 | 2025-10-10 |  |
 | [Happy as Hell](https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Happy as Hell](https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe) | 3:09 | 2025-08-22 |  |
 | [Happy Place](https://open.spotify.com/track/2eunobIVSTIr6ZvBJroKDF) | [ZAMination](https://open.spotify.com/artist/7K463FESyap8fJPiVUDK5U), [Zachary Preciado](https://open.spotify.com/artist/7f6Ytci5zAhJECf9qcXTYF) | [Happy Place](https://open.spotify.com/album/1BcYulpCmLIQDTfAnE4NfW) | 2:26 | 2025-01-10 | 2025-04-05 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-26 | 2024-12-07 |
@@ -414,7 +416,7 @@
 | [Soft Boy](https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Soft Boy](https://open.spotify.com/album/7nTQSfMt2TSeUR0xOxjBG4) | 2:17 | 2022-10-06 | 2024-01-27 |
 | [Someone Gets Hurt](https://open.spotify.com/track/1zyrjK69LRZCvEmUtJUbsT) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Kyle Selig](https://open.spotify.com/artist/0qiFtC52T37zXjHl0DDMAr), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:07 | 2025-07-08 | 2025-09-16 |
 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-02-02 | 2023-02-17 |
-| [Something's Wrong](https://open.spotify.com/track/7Hbqd3hh4qoKAfZNgGpLg6) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [Something's Wrong](https://open.spotify.com/album/0hpgWa4eaWkKSueDk8FDYM) | 3:09 | 2025-02-17 |  |
+| [Something's Wrong](https://open.spotify.com/track/7Hbqd3hh4qoKAfZNgGpLg6) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [Something's Wrong](https://open.spotify.com/album/0hpgWa4eaWkKSueDk8FDYM) | 3:09 | 2025-02-17 | 2025-10-11 |
 | [SPIRALLING](https://open.spotify.com/track/4HNn8txPba0KsEND4YWhhG) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [SPIRALLING](https://open.spotify.com/album/0MVSaoHNpjIZPx8ZBjduAt) | 3:25 | 2025-07-18 |  |
 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 | 2024-05-27 | 2025-05-17 |
 | [Stalker's Tango](https://open.spotify.com/track/51HiWFC8v4oJNClRYbzpGl) | [Autoheart](https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc) | [Lent](https://open.spotify.com/album/4v1R6oYeyeIDjDNBiQGo9Q) | 2:55 | 2023-12-29 |  |

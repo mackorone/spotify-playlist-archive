@@ -4,10 +4,11 @@
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-26 songs - 1 hr 43 min
+27 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Arms \(feat\. Gigi Perez\)](https://open.spotify.com/track/5EkZW12Gpoq2OW0mPe0Orn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Arms \(feat\. Gigi Perez\)](https://open.spotify.com/album/5hgu0RFNuajFHOyv4r6fsi) | 3:49 | 2025-10-11 |  |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-27 |  |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-04-26 | 2025-06-20 |
 | [Chemistry](https://open.spotify.com/track/4xhsAoMER10d3dcRFvT8kk) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 4:44 | 2025-06-20 |  |

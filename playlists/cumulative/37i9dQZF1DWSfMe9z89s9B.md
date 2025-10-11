@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Daniel Caesar
 
-1,501 songs - 3 day 7 hr 6 min
+1,503 songs - 3 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 | 2021-12-10 | 2022-07-23 |
 | [candy grapes \(feat\. Steve Lacy\)](https://open.spotify.com/track/4emJOvmhqWJAxpwB7c9JJw) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 7:30 | 2021-06-04 | 2022-06-28 |
 | [Can’t Get Enough](https://open.spotify.com/track/5HellZWkjno1bsFlvZpT4m) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Can’t Get Enough](https://open.spotify.com/album/7uIJzOk3wayV4ioyrwJuVY) | 2:27 | 2025-09-19 |  |
+| [CAOS](https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh) | 3:17 | 2025-10-10 |  |
 | [Capsize](https://open.spotify.com/track/3iTr3JYzY6gk3yFY074ZWw) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Capsize](https://open.spotify.com/album/4QQne7ganDme4lL42s1tjX) | 2:50 | 2025-02-28 | 2025-04-13 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-05-27 | 2022-07-16 |
 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 | 2023-11-11 |
@@ -354,6 +355,7 @@
 | [Deep Green](https://open.spotify.com/track/0hHnuKAlRRLyG7bYg474B8) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Deep Green](https://open.spotify.com/album/6c2FgkDmUjHtgXjTa59SfF) | 3:23 | 2022-09-23 | 2022-12-04 |
 | [Deep Green](https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:23 | 2022-09-23 | 2023-03-25 |
 | [DEEP IN YOUR SOUL](https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [DEEP IN YOUR SOUL](https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW) | 3:11 | 2025-04-11 |  |
+| [defense](https://open.spotify.com/track/2MkdXmDy3LEp8zDiElupWp) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [defense](https://open.spotify.com/album/7dNvLHi6sa0ZtmLELioBwL) | 2:36 | 2025-10-10 |  |
 | [Definition of Love](https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Definition of Love](https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i) | 3:15 | 2023-08-25 | 2024-06-29 |
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2021-09-10 | 2022-04-08 |
 | [Delirium](https://open.spotify.com/track/6U09H7CVra0HbNPJGnQDDU) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Delirium](https://open.spotify.com/album/5OPY6W6jsdSuSX7ymEFboE) | 1:49 | 2024-09-13 | 2025-08-16 |
@@ -1100,7 +1102,7 @@
 | [say swear](https://open.spotify.com/track/6Hzi9t6gc3JeSVmYbAx9vm) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [say swear](https://open.spotify.com/album/2QcPPDHyYRFsBctu3Sa3ha) | 3:48 | 2025-07-18 |  |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2022-12-11 |
 | [Scorpios kiss](https://open.spotify.com/track/1Yv9mPmTMyqAWnuV4SGPGm) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Scorpios kiss](https://open.spotify.com/album/3NBhNOVCWapilng8yLsJ7r) | 2:16 | 2024-05-17 | 2024-08-14 |
-| [scrabble](https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:16 | 2024-12-06 |  |
+| [scrabble](https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:16 | 2024-12-06 | 2025-10-11 |
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-07-26 |  |
 | [scuse me](https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [scuse me](https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz) | 2:24 | 2022-12-16 | 2023-01-14 |
 | [See You](https://open.spotify.com/track/1laov0eTmYzYLbP01ChrGe) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [See You](https://open.spotify.com/album/2hIkmuhxnh4q3sBr45kohd) | 2:17 | 2023-08-18 | 2023-10-09 |
@@ -1462,7 +1464,7 @@
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-02-25 | 2022-04-24 |
 | [wild horses](https://open.spotify.com/track/7jDIGhIvkPUbelQLpZ9j1j) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 3:18 | 2022-07-15 | 2022-08-20 |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-04-01 | 2023-03-04 |
-| [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 | 2024-10-20 |  |
+| [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 | 2024-10-20 | 2025-10-11 |
 | [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 | 2022-04-01 | 2022-04-09 |
 | [Windows](https://open.spotify.com/track/1h27BIK3pnULp2uH7rSAEd) | [Jaypitts](https://open.spotify.com/artist/2sVOqgur6zP6kXQ4EIv5R0) | [Windows](https://open.spotify.com/album/3UYW4bUdIkgCMcVXjHV9m3) | 2:58 | 2022-04-01 | 2022-04-12 |
 | [Wings](https://open.spotify.com/track/6p56fflyWLspRsipBqZabq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx) | 2:48 | 2021-10-08 | 2022-05-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,063 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,171 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 59 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 |
 | 60 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
 | 61 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
-| 62 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
-| 63 | [Sweet But Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet But Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 |
+| 62 | [Sweet But Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet But Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 |
+| 63 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
 | 64 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 |
 | 65 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 |
 | 66 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
-| 67 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
-| 68 | [One of Us](https://open.spotify.com/track/7dknNu0AKdvXCK0hqEaNDm) | [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h), [Eveek](https://open.spotify.com/artist/4Eei141tHJhmr3vvM8iHfw), [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [One of Us](https://open.spotify.com/album/1pWVZloEB2dDB2edctOZKR) | 2:20 |
+| 67 | [One of Us](https://open.spotify.com/track/7dknNu0AKdvXCK0hqEaNDm) | [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h), [Eveek](https://open.spotify.com/artist/4Eei141tHJhmr3vvM8iHfw), [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [One of Us](https://open.spotify.com/album/1pWVZloEB2dDB2edctOZKR) | 2:20 |
+| 68 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
 | 69 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
 | 70 | [Tequila](https://open.spotify.com/track/6m9MNl1Sgti4I3BWCYLh03) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl) | [Tequila](https://open.spotify.com/album/3k88HYE8mWwdcQM2F2y8aw) | 1:35 |
 
-Snapshot ID: `AAAAAJ/wWweq7ap/cbjX9XymUfGr7YpK`
+Snapshot ID: `AAAAAMWDLCRxchhIFKgoASs3ey4opViU`

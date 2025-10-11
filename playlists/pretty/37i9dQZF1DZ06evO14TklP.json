@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 16354,
+  "num_followers": 16386,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACqAqcL7w5n8PoDhK7rQ69q",
+  "snapshot_id": "aOb7AAAAAABAOdEBBs3RleqCn/IGrq1f",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
         "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 147119,
       "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
       "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
     },
     {
       "added_at": null,
@@ -868,61 +868,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         },
         {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
-      },
-      "artists": [
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 130307,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 188581,
-      "name": "Caneta",
-      "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
     },
     {
       "added_at": null,
@@ -951,6 +907,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 188581,
+      "name": "Caneta",
+      "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
+      },
+      "artists": [
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 130307,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condessa",
         "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
@@ -960,17 +960,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,

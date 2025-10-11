@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... El Malilla en portada.",
-  "num_followers": 289420,
+  "num_followers": 289430,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
-        "name": "TUPAC",
-        "url": "https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 114139,
-      "name": "TUPAC",
-      "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
         "name": "Chalineras",
         "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 217033,
       "name": "Chalineras",
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
+        "name": "TUPAC",
+        "url": "https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 114139,
+      "name": "TUPAC",
+      "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"
     },
     {
       "added_at": "2025-09-19 06:00:28",

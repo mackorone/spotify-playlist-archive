@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,340 likes - 339 songs - 21 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,339 likes - 339 songs - 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 194 | [Brightest Morning Star](https://open.spotify.com/track/7MXf5oS9bilbC70ii9YWbf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 2:59 |
 | 195 | [Beautiful Calm Driving](https://open.spotify.com/track/3vn3tYZAJ3h95G9JSsKJv9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
 | 196 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
-| 197 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
-| 198 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
+| 197 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
+| 198 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
 | 199 | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/track/2yJgLxRS3qzh8MwPogWG7d) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M) | 3:43 |
 | 200 | [I Am Me](https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [I Am Me](https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg) | 4:08 |
 | 201 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
@@ -312,8 +312,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 302 | [Thistles](https://open.spotify.com/track/1DG2Y8FQFxV9JF910iwvRy) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden \(Special Edition\)](https://open.spotify.com/album/0rE1U1JpelacpberZnhXT0) | 3:38 |
 | 303 | [Your Body Talk](https://open.spotify.com/track/67HmaRfj87if7pXaXPkXwR) | [Raffey Cassidy](https://open.spotify.com/artist/0BHyFQDnozqjy1EoKpoiRT) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:47 |
 | 304 | [Waiting for you](https://open.spotify.com/track/4X0Ud6znFzgWcS6bLwWAOe) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg) | [Waiting \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2x682cgqLMcAOliQqtkE72) | 3:25 |
-| 305 | [Cheap Thrills](https://open.spotify.com/track/0vKLbE4mDhNX2uEyBKseKA) | [Peter Gergely](https://open.spotify.com/artist/1rM7GiyPW7mPqDTtLfXRoZ) | [Cheap Thrills](https://open.spotify.com/album/2OdzDkiHCWh7Kp8fUJGmyo) | 2:22 |
-| 306 | [Gentlemen](https://open.spotify.com/track/6yRSRiD5xvH0X7pWVfWory) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 4:12 |
+| 305 | [Gentlemen](https://open.spotify.com/track/6yRSRiD5xvH0X7pWVfWory) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 4:12 |
+| 306 | [Cheap Thrills](https://open.spotify.com/track/0vKLbE4mDhNX2uEyBKseKA) | [Peter Gergely](https://open.spotify.com/artist/1rM7GiyPW7mPqDTtLfXRoZ) | [Cheap Thrills](https://open.spotify.com/album/2OdzDkiHCWh7Kp8fUJGmyo) | 2:22 |
 | 307 | [Ever \- Original Mix](https://open.spotify.com/track/76M3CpU4603Wnhx70fKs3b) | [Audio Werner](https://open.spotify.com/artist/3sAiPMoERiyl61BoNpOI1l) | [Rushograph EP](https://open.spotify.com/album/24mLp734ROBxISw2bGf4vP) | 11:01 |
 | 308 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
 | 309 | [Sweat and Tears](https://open.spotify.com/track/7xlqKLHfdjxerFBsR36Ylc) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:42 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 338 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 339 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab+b0AAAAACUcgpItM07P8gB4J+MB81j`
+Snapshot ID: `Ab+hXAAAAACNQlIZwL7ncpcySikMQdnn`

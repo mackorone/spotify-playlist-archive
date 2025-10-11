@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-273 songs - 19 hr 26 min
+274 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 | 2021-01-05 | 2022-07-29 |
 | [Favourite Place](https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Favourite Place](https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1) | 3:00 | 2024-03-01 | 2025-02-28 |
 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 | 2024-09-19 | 2025-09-14 |
-| [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
+| [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 | 2025-10-11 |
 | [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-29 | 2024-09-20 |
 | [Frigid Air](https://open.spotify.com/track/754YgIwGwsonpyiVDFIo48) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Heaven Is For Quitters](https://open.spotify.com/album/4I5OHee32g1CGLab00RLEH) | 4:41 | 2021-04-21 | 2022-06-01 |
 | [Front Screen Projection](https://open.spotify.com/track/4AU1G2o8SL0znM8VQVWcMU) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Offworld](https://open.spotify.com/album/63mZzuEVYSZcf3aR0y1x9L) | 4:33 | 2021-02-04 | 2022-06-24 |
@@ -161,6 +161,7 @@
 | [Need You Now](https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need You Now](https://open.spotify.com/album/7Bmt7iOL8QI1CY2IDB75GK) | 3:22 | 2025-05-16 |  |
 | [Nightcrawler](https://open.spotify.com/track/18SLJP3bbntdyiMuRTonc2) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/7MFGMQ53RAZbsOR9K0JQId) | 3:45 | 2020-06-05\* | 2022-07-23 |
 | [No Borders](https://open.spotify.com/track/3Ru6v1CcBAUbIuNVKcQW4v) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Diasporave 3/3](https://open.spotify.com/album/5HJrxKarX2kUBB7CRfBf7Q) | 2:44 | 2020-06-12 | 2022-07-29 |
+| [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 | 2025-10-03 |  |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-09-19 |  |
 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 | 2021-01-28 |  |
 | [Of Saints](https://open.spotify.com/track/30bawySpvYI8wq4MUxIGYy) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Seguridad](https://open.spotify.com/album/5Jww8BxBhFWAxo49lvAh3Q) | 6:03 | 2020-07-04 | 2021-11-14 |

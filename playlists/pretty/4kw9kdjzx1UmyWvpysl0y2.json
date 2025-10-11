@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124904,
+  "num_followers": 124903,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUqv4I3XktaUDrSRft6+EJsXMqNIde",
+  "snapshot_id": "AAAUq4kDzZ0jeCF/uxoaDbfD13Ps67Cu",
   "tracks": [
+    {
+      "added_at": "2025-10-10 16:58:30",
+      "album": {
+        "name": "Palm Of Your Hand",
+        "url": "https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Palm Of Your Hand",
+      "url": "https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp"
+    },
     {
       "added_at": "2025-10-09 14:48:44",
       "album": {

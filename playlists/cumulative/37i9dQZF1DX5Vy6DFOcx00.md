@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,762 songs - 3 day 22 hr 47 min
+1,763 songs - 3 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,7 +945,7 @@
 | [Magalenha](https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb) | 3:36 | 2025-09-28 |  |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-03 | 2024-06-20 |
 | [Major Bag Alert \(feat\. Migos\)](https://open.spotify.com/track/6LECek0tkw95AXDGHM4qXj) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 4:57 | 2022-02-08 | 2022-03-18 |
-| [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-08-18 |  |
+| [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-08-18 | 2025-10-11 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-14 | 2024-06-22 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-02 | 2023-10-24 |
 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-04-21 | 2022-07-27 |
@@ -1161,6 +1161,7 @@
 | [Ordinary \(feat\. Luke Combs\) \- Live from Lollapalooza](https://open.spotify.com/track/544MbvxR6BADypONwJlZAp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ordinary \(feat\. Luke Combs\) \- Live from Lollapalooza](https://open.spotify.com/album/4BvfHYlT6FmsyneFr18aL4) | 3:25 | 2025-08-07 | 2025-08-26 |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-10-03 | 2025-02-28 |
 | [Otaku Hot Girl](https://open.spotify.com/track/6saYisCUAZXc505blie9kZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:38 | 2024-07-01 | 2024-08-20 |
+| [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 | 2025-10-10 |  |
 | [Otra Vez](https://open.spotify.com/track/2dz1PWeukbAfsXgJadiaBu) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/1KLSJkv7h010RmYOVgCSSr) | 2:14 | 2023-11-15 | 2024-03-09 |
 | [Otra Vez](https://open.spotify.com/track/5LNf5l8xXqus1s9A43ReEZ) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/5408habaWK37BE9QUNEstD) | 2:14 | 2023-11-10 | 2024-01-31 |
 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 | 2022-02-18 | 2022-05-12 |

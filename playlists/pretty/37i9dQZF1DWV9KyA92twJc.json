@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9 ",
-  "num_followers": 25583,
+  "num_followers": 25591,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
-        "url": "https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5"
+        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 167218,
-      "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
-      "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
+      "duration_ms": 196548,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+        "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
+        "url": "https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 196548,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
+      "duration_ms": 167218,
+      "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
+      "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
+        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
+      },
+      "artists": [
+        {
+          "name": "Full Trunk",
+          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
+        }
+      ],
+      "duration_ms": 297983,
+      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
         "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 209890,
       "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
       "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
-        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
-      },
-      "artists": [
-        {
-          "name": "Full Trunk",
-          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
-        }
-      ],
-      "duration_ms": 297983,
-      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
+        "name": "WATCH THE NEWS",
+        "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 166996,
+      "name": "WATCH THE NEWS",
+      "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
         "name": "\u05e8\u05d0\u05e4 \u05de\u05d8\u05d5\u05e8\u05e3",
         "url": "https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 181814,
       "name": "\u05d0\u05d5\u05d6\u05e0\u05d9\u05d5\u05ea",
       "url": "https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
-        "name": "WATCH THE NEWS",
-        "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 166996,
-      "name": "WATCH THE NEWS",
-      "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
     },
     {
       "added_at": "2025-09-12 12:35:53",

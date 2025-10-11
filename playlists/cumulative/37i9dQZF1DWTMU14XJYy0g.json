@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Barbi Recanati.",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Charly Garcia & Sting",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 137651,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/1FPwQ986uwr9s5fX4IeJED"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 319927,
       "name": "Bancate ese defecto",
       "url": "https://open.spotify.com/track/5VoeA0AKKnAvJBIRoOowDF"
@@ -3415,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "In the City",
+        "url": "https://open.spotify.com/album/22bZNVYw96xAOKsgwAfbyv"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "In the City",
+      "url": "https://open.spotify.com/track/4DQZKpUgBpF9ziGboNAGFg"
+    },
+    {
+      "album": {
         "name": "Ind\u00f3mito Sentir",
         "url": "https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K"
       },
@@ -3626,6 +3648,32 @@
       "duration_ms": 192480,
       "name": "Jugando Con Fuego",
       "url": "https://open.spotify.com/track/1Ts0sHzGfkg5VO96NWaqcA"
+    },
+    {
+      "album": {
+        "name": "Jugo de Tomate",
+        "url": "https://open.spotify.com/album/6icxKDgFOJLIYPFVToGUg6"
+      },
+      "artists": [
+        {
+          "name": "Esto es \u00a1FA!",
+          "url": "https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn"
+        },
+        {
+          "name": "Mex Urtizberea",
+          "url": "https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262244,
+      "name": "Jugo de Tomate",
+      "url": "https://open.spotify.com/track/2uXz0zxaffHEUx3y1wCBky"
     },
     {
       "album": {
@@ -7986,6 +8034,28 @@
       "duration_ms": 174144,
       "name": "Yo Me Quedo",
       "url": "https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp"
+    },
+    {
+      "album": {
+        "name": "Lo Malo Del Despu\u00e9s",
+        "url": "https://open.spotify.com/album/5c7PVWVgfKzCL3UiXes5C3"
+      },
+      "artists": [
+        {
+          "name": "Giros",
+          "url": "https://open.spotify.com/artist/5qZ2Um0qzmcmSsIoMGg1Im"
+        },
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220006,
+      "name": "Yo mismo",
+      "url": "https://open.spotify.com/track/7K11tjyEjrXfKkTZuwwt9J"
     },
     {
       "album": {

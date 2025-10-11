@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 583295,
+  "num_followers": 583360,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABXNMi2tuWNB158gJlyB4Gq",
+  "snapshot_id": "aOb7AAAAAAAjilgciL0/1wBqdScALxq6",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 304306,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infidels",
         "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 376160,
       "name": "Jokerman",
       "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 171106,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Train Coming",
-        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 166706,
       "name": "She Belongs to Me",
       "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
     },
     {
       "added_at": null,

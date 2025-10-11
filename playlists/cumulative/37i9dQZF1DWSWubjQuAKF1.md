@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Przebiśniegi
 
-613 songs - 1 day 6 hr 2 min
+614 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Candy](https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx) | [Agata Świderska](https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC) | [Candy](https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7) | 2:06 | 2024-09-13 | 2025-01-24 |
 | [Caramel Love](https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Caramel Love](https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N) | 2:21 | 2025-01-09 | 2025-02-07 |
 | [Chamy](https://open.spotify.com/track/3YyCRTXnD7MkTKeqCkrM0M) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Chamy](https://open.spotify.com/album/2SHWbu3gF4G9vaUTDOMSDx) | 2:21 | 2025-08-07 |  |
-| [Charms in bracelet](https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww) | [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa) | [5 minutes](https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20) | 3:40 | 2025-09-30 |  |
+| [Charms in bracelet](https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww) | [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa) | [5 minutes](https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20) | 3:40 | 2025-09-30 | 2025-10-11 |
 | [Chciałeś wiedzieć o mnie wszystko](https://open.spotify.com/track/6y5s91kwhg8x2Ev357Ji7S) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Zołza](https://open.spotify.com/album/2HYqAYWxtSpgFQ4QPvU500) | 3:50 | 2025-04-10 | 2025-08-20 |
 | [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 | 2025-03-27 | 2025-06-06 |
 | [chcę cię więcej](https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [chcę cię więcej](https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF) | 2:35 | 2024-07-25 | 2024-12-21 |
@@ -210,6 +210,7 @@
 | [ja ciebie bardziej](https://open.spotify.com/track/6xe7KUDXZ4f4Urq4yIBwCa) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [ja ciebie bardziej](https://open.spotify.com/album/0eOqwu1ovLqQzgJlO23FpQ) | 2:57 | 2024-11-21 | 2024-12-07 |
 | [JA SIĘ CHYBA ZAKOCHAŁAM](https://open.spotify.com/track/33Ui7IlIv8gpmxzbFP5lcl) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [JA SIĘ CHYBA ZAKOCHAŁAM](https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp) | 2:31 | 2024-08-22 | 2025-01-24 |
 | [Ja Wciąż Ciebie Też](https://open.spotify.com/track/3m6l0Eb3aGWjXudwTj5lAW) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ja Wciąż Ciebie Też](https://open.spotify.com/album/1g03Banzzmo1Cah8DPE6MG) | 2:31 | 2025-06-05 | 2025-09-24 |
+| [Jagodowe papierosy](https://open.spotify.com/track/104SMUTvIYqCMRJJlShAlu) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Jagodowe papierosy](https://open.spotify.com/album/1zf7MhDe4XMEj1EXkSEnWP) | 3:05 | 2025-10-07 |  |
 | [jak mam](https://open.spotify.com/track/4xgTQMScb4nqX20eNVmU5K) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [jak mam](https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ) | 2:14 | 2024-08-01 | 2025-01-24 |
 | [Jak się dziś masz?](https://open.spotify.com/track/4072h3LkxudmZImsxR9fCQ) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Po zmroku](https://open.spotify.com/album/0eqe0KUqvdMqa2GB3YtcQz) | 4:02 | 2025-03-13 | 2025-03-21 |
 | [Jak się trzymasz?](https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3) | [Promień](https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl) | [Jak się trzymasz?](https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN) | 2:33 | 2024-07-18 | 2024-08-23 |

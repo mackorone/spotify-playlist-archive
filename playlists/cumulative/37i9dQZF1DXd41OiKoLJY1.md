@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Riot Logic Artwork: Isu Kim
 
-3,731 songs - 9 day 1 hr 56 min
+3,733 songs - 9 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,6 +848,7 @@
 | [Doing This Right](https://open.spotify.com/track/3qX4Yn4fPJjLdTgUa9n8mH) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Doing This Right](https://open.spotify.com/album/7MlxSxRQW6XhfryHmC9hpo) | 2:06 | 2024-02-22 | 2024-03-22 |
 | [Doit Gurl](https://open.spotify.com/track/7MvSKbpagO06xermSZX50V) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [Doit Gurl](https://open.spotify.com/album/3bHmrswekjx4fGzdqsk851) | 3:01 | 2024-02-08 | 2024-03-01 |
 | [Domo Arigato Mr\. Lobotomy](https://open.spotify.com/track/7ezdEZLJfygZeVC0q9IDJa) | [Suspiria Pink](https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28) | [Domo Arigato Mr\. Lobotomy](https://open.spotify.com/album/04g0MtdiGqZuX4soqv5Trl) | 4:43 | 2024-03-28 | 2024-05-17 |
+| [Don't Ask Me Why](https://open.spotify.com/track/2D0Aad6OEzyF2CE4v5dIVD) | [DNA](https://open.spotify.com/artist/7Dc4Yi5oP816VMoEaUTGLH) | [Don't Ask Me Why](https://open.spotify.com/album/3caN13LvDENAUwv2N4tFiG) | 2:40 | 2025-10-10 |  |
 | [Don't Be Shy](https://open.spotify.com/track/2jxXEhJtYyhOLRNQXzqpSB) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [Don't Be Shy](https://open.spotify.com/album/6OJ1ztJVWlZVIsgPuhM7ob) | 3:49 | 2023-03-23 | 2023-04-14 |
 | [Don't Close Your Eyes](https://open.spotify.com/track/4rlNMI7ZJ7pnX1FhcMuhPp) | [above velvet air](https://open.spotify.com/artist/5sgL6TpSBvXPqXnM17CYQT) | [Don't Close Your Eyes](https://open.spotify.com/album/0YbdEBZ9KNLK1qaGTNEX6c) | 2:31 | 2025-09-04 |  |
 | [don't get me wrong](https://open.spotify.com/track/0WdXtgFQJNMSzS5rlly5DD) | [Muffin Creatives](https://open.spotify.com/artist/4YlxwU5EmJtMNNr1CNrZQo), [Kris Yel](https://open.spotify.com/artist/5QuSXYzun6C7No1RLSPsdm) | [don't get me wrong](https://open.spotify.com/album/5dKEYvqgivqWmaKVNmrm95) | 2:49 | 2024-01-11 | 2024-02-09 |
@@ -1055,6 +1056,7 @@
 | [For U](https://open.spotify.com/track/1SNqRGsRZ3knMK0GIKyBKE) | [maya](https://open.spotify.com/artist/5B7xxHilhXaB1nfh4zNlvN) | [For U](https://open.spotify.com/album/2a6SrF5DBOacwK4jfu3MZn) | 3:23 | 2025-07-10 | 2025-09-19 |
 | [For Years](https://open.spotify.com/track/7n5keaHfBmfT0kz56EIIr4) | [Kremesoda](https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf) | [For Years](https://open.spotify.com/album/4wyGeGizmF1609QAefbTBa) | 3:54 | 2025-01-31 | 2025-03-21 |
 | [Forever](https://open.spotify.com/track/0sePmqjCBmvtsp7MqVBud5) | [Max Ayeza](https://open.spotify.com/artist/00kijE6MwdXfq2hBg80a1V) | [Forever](https://open.spotify.com/album/7g9mTCjYqstT5SpJe9wHbx) | 2:44 | 2024-02-15 | 2024-03-15 |
+| [Forever Is a Foreign Concept](https://open.spotify.com/track/45RPEoJXRvYGJ93D1CqCo1) | [Jeorgia Therese](https://open.spotify.com/artist/2LOBk5ZKBV2GhBzHrzF1RP) | [Forever Is a Foreign Concept](https://open.spotify.com/album/4KpoV4oB2kljX1P4gQo8ad) | 3:21 | 2025-10-09 |  |
 | [FOREVER WITH \(Super Junior\)](https://open.spotify.com/track/4lBuWsSVAzod5HLSClPkA0) | [Pink Trash Project](https://open.spotify.com/artist/4YmeeA5wy3hUMdN2bA1pVf) | [FOREVER WITH \(Super Junior\)](https://open.spotify.com/album/1zwF1Lo3MTM2Isc7kM8OKM) | 3:30 | 2025-09-11 |  |
 | [Forevermore](https://open.spotify.com/track/6n7v4LxbY7NT7Rfoi4FwrR) | [Vince A](https://open.spotify.com/artist/40uBLHfEZzC0kiTA2xuJK4), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Forevermore](https://open.spotify.com/album/4gp1MwWYUS4IIFCLLgPnCN) | 3:32 | 2025-07-10 | 2025-09-26 |
 | [Forget About You](https://open.spotify.com/track/0tlBOMHdKqqoCppc2bKRoY) | [Shine Sicat](https://open.spotify.com/artist/0yWy82qmLM3FybLtjSiOC5) | [Forget About You](https://open.spotify.com/album/6qrTsFqPoioJaHWi3A9LPd) | 3:21 | 2022-01-13 | 2023-01-13 |
@@ -1757,7 +1759,7 @@
 | [Kung Sakali Lang](https://open.spotify.com/track/3AEbulG1jUZ94z6E3QxpOi) | [Jude Pastor](https://open.spotify.com/artist/476EcJSai8XaduuaLuneiW) | [Kung Sakali Lang](https://open.spotify.com/album/09Flm1k4e3vsvzcEvrSugp) | 4:22 | 2023-03-16 | 2023-04-07 |
 | [KUNG SINO KA](https://open.spotify.com/track/6a2S1nf0dMmGG5dFqTHLDN) | [Marq Aljo](https://open.spotify.com/artist/1Hp9XIpVkadYVZQ67rUbZj) | [KUNG SINO KA](https://open.spotify.com/album/2wrJNbQPQVUfDM8UTv8epG) | 2:26 | 2023-07-06 | 2023-07-28 |
 | [Kung Wala Ka Sa Akin](https://open.spotify.com/track/1U8aKeV4Kjem772DJp7hhx) | [Helena](https://open.spotify.com/artist/2eOPLvQweQBgQMtJutxAhn) | [Kung Wala Ka Sa Akin](https://open.spotify.com/album/0Xf7MGrDXX9iGZF1lJ6s35) | 4:27 | 2023-10-05 | 2023-11-11 |
-| [Kwarto](https://open.spotify.com/track/1AtLkxXPxv5WJAE6SgsuZN) | [Hinumdum](https://open.spotify.com/artist/1ECOx1MHmqCyb8YyP0G2ZU) | [Kwarto](https://open.spotify.com/album/0FJmLmgshayiD0l3hvnMPU) | 4:25 | 2025-07-31 |  |
+| [Kwarto](https://open.spotify.com/track/1AtLkxXPxv5WJAE6SgsuZN) | [Hinumdum](https://open.spotify.com/artist/1ECOx1MHmqCyb8YyP0G2ZU) | [Kwarto](https://open.spotify.com/album/0FJmLmgshayiD0l3hvnMPU) | 4:25 | 2025-07-31 | 2025-10-11 |
 | [Kwarto \(Sa Panaginip Na Lang\)](https://open.spotify.com/track/4eTWlnf1Q5Z3tPUKb3h6uN) | [Kim Aljeon](https://open.spotify.com/artist/7cyZ5w2Pt1IFqOj09Uu23e) | [Kwarto \(Sa Panaginip Na Lang\)](https://open.spotify.com/album/1UhGZ9v2PaOCnvyDRqtPOa) | 5:45 | 2023-06-22 | 2023-07-07 |
 | [kwento](https://open.spotify.com/track/32uackfaZC3EKzB8jqtXco) | [Marq Aljo](https://open.spotify.com/artist/1Hp9XIpVkadYVZQ67rUbZj) | [kwento](https://open.spotify.com/album/7hldQtMcfD3UXqrLjlvu8m) | 3:13 | 2023-03-09 | 2023-03-31 |
 | [Kwentong Bayan](https://open.spotify.com/track/7muSMuTQJCkLUh8SDP7BQH) | [Ladia's Pluma](https://open.spotify.com/artist/2gRPWMGlKEqLgrnXrcOsfK) | [Kwentong Bayan](https://open.spotify.com/album/0dAxAHrfaRo36l5ZhIXzaI) | 4:57 | 2024-04-11 | 2024-06-01 |

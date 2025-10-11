@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 甜約翰 \(Sweet John\)
 
-3,215 songs - 7 day 19 hr 29 min
+3,215 songs - 7 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Chasing Dreams \(feat\. 派偉俊\)](https://open.spotify.com/track/71dFB7Bjg0ncu41JhTFDEH) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Chasing Dreams \(feat\. 派偉俊\)](https://open.spotify.com/album/7eoMzMjorYQ42LVJhbVHem) | 2:52 | 2025-05-22 | 2025-07-04 |
 | [Chasing Summer](https://open.spotify.com/track/3VDKmExKAWAFXDxhXx6uHc) | [Nikita 雅涵 Tu\-Bryant](https://open.spotify.com/artist/0HTKZH7I1yApxIbGKBXCoo), [An Ogre](https://open.spotify.com/artist/3eZbffbJo36SwZkTyUvyXE) | [Chasing Summer](https://open.spotify.com/album/2eXMyEqHqATl0cXnTlTJRK) | 3:24 | 2024-11-07 | 2024-11-15 |
 | [Cherry Lip Gloss](https://open.spotify.com/track/3m9xh27OBAt2EL5Ol3Fzy6) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Cherry Lip Gloss](https://open.spotify.com/album/2Sy4a0HKtvuJCrBkcLNLcU) | 2:18 | 2024-10-31 | 2024-11-22 |
-| [Cinder Kiss](https://open.spotify.com/track/7yjM1dqehCnvXCe7KiJGoZ) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss) | [Cinder Kiss](https://open.spotify.com/album/7amBrCpKG60Kxw0yctuzGZ) | 3:11 | 2025-10-09 |  |
+| [CINDER KISS](https://open.spotify.com/track/7yjM1dqehCnvXCe7KiJGoZ) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss) | [CINDER KISS](https://open.spotify.com/album/7amBrCpKG60Kxw0yctuzGZ) | 3:11 | 2025-10-09 |  |
 | [CLOUD](https://open.spotify.com/track/1CMQ3ZjQejWGkMwhRxnYFO) | [REX](https://open.spotify.com/artist/2ll1Av1xmVEOzwNZF0ZOdX), [Taji](https://open.spotify.com/artist/2QcyTAjEtkC2vMnTxqQcIW) | [BERRY LUV GARDEN](https://open.spotify.com/album/5FjPZY2ptGO9NwlzPLl0em) | 2:18 | 2024-09-19 | 2024-10-11 |
 | [CMYK](https://open.spotify.com/track/0fXmZadzJPFP3LL7Wvgp7C) | [呂罰](https://open.spotify.com/artist/1iPJsTrrjQoiak7RmQKgBP) | [BACK FROM HELL](https://open.spotify.com/album/0b9yQLQ8BH3EAVQry0NPz2) | 3:47 | 2025-01-16 | 2025-01-24 |
 | [Coffee High](https://open.spotify.com/track/1MBX0VfA0q9QKKDbyqQqLZ) | [K.R Bros](https://open.spotify.com/artist/72WakvmGJc8irwTVQKxPKV) | [Coffee High](https://open.spotify.com/album/68ZTpW03uW7AGbHFwVvkw2) | 3:13 | 2025-06-26 | 2025-07-11 |
@@ -870,7 +870,6 @@
 | [Toxic feat\. Quanzo \(Quanzo Remix\)](https://open.spotify.com/track/4aU4UIKs5i2roAWUKVwqpi) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [Toxic](https://open.spotify.com/album/6z9LHgZejziGWk7xnAPEO3) | 2:31 | 2025-05-08 | 2025-05-23 |
 | [Toxic Love](https://open.spotify.com/track/6MOPiHU3l5PIdYHz4gNtgr) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [Toxic Love](https://open.spotify.com/album/5Y1UtEqzqyjRDxpTqgmK3S) | 2:09 | 2024-09-12 | 2024-10-18 |
 | [Toyota冒險日記](https://open.spotify.com/track/0zEX5wK2EIUZBoTLMpyq3H) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl), [夏娜 Zhana](https://open.spotify.com/artist/6n7DXHl3EDVdgMoN7CHupK) | [Toyota 冒險日記](https://open.spotify.com/album/6LdOHfPIOFCloILRp6y4qg) | 2:56 | 2025-09-18 | 2025-09-26 |
-| [Track 2](https://open.spotify.com/track/52m8nAPJJlm3z43vSvqSxr) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Training Day](https://open.spotify.com/track/1k3TVdXf0TTFzXJmiAHB36) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV), [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [BG8LOCC](https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE) | [Training Day](https://open.spotify.com/album/4M5GRu8w27qFOnF7Ue44A5) | 3:42 | 2025-01-09 | 2025-01-31 |
 | [Trainslate](https://open.spotify.com/track/3dkhRzJpCFkF53fyASugK7) | [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [火車晚了 Trainslate](https://open.spotify.com/album/1AOWY2kfNhPxmErGd0iMWA) | 2:03 | 2025-07-03 | 2025-07-18 |
 | [Trauma Fit](https://open.spotify.com/track/6fA4YNiLWiq7ErpTg41lzt) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Trauma Fit](https://open.spotify.com/album/6lIdajMPHvgtR2sdIZzgyC) | 3:04 | 2024-12-12 | 2025-01-10 |
@@ -2747,6 +2746,7 @@
 | [自己](https://open.spotify.com/track/6vWZE2pG3nxdi7pDc4afyd) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [自己](https://open.spotify.com/album/3DVwrr9zO2NwWiH0RYycsM) | 3:02 | 2024-10-24 | 2025-01-03 |
 | [自己 \(SG:SW 2024 優異作曲獎、最高人氣獎\)](https://open.spotify.com/track/5w3urenYOtXqrQitHTZSxA) | [meixuan](https://open.spotify.com/artist/4YtoSwLEvfuE7gFcoo3duS) | [自己 \(SG:SW 2024 優異作曲獎、最高人氣獎\)](https://open.spotify.com/album/2UQes541DxI1LzH71LP6ki) | 3:10 | 2025-01-16 | 2025-01-24 |
 | [自己一個人](https://open.spotify.com/track/7vRvzhbkXkviVczo1UNBKc) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [自己一個人](https://open.spotify.com/album/4msKtvuvLM2xtpeGSfsLLc) | 4:06 | 2025-07-10 | 2025-08-01 |
+| [自己自己](https://open.spotify.com/track/52m8nAPJJlm3z43vSvqSxr) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 4:23 | 2025-10-09 |  |
 | [自愈中勿擾](https://open.spotify.com/track/3teScOJ6zD8JZNd63uYWUL) | [Wowkie Da](https://open.spotify.com/artist/3RIgMUtdfRx98Lm5bXM3GD) | [自愈中勿擾](https://open.spotify.com/album/4gLrWYqOgDnhcE3RLWOMMA) | 3:51 | 2025-07-24 | 2025-08-29 |
 | [自救 MP3](https://open.spotify.com/track/0H5uXzMXRAM0dd4JLXGLot) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [自救 MP3](https://open.spotify.com/album/39BYQJ6bqKLrviBZ2PBIH4) | 2:11 | 2024-07-25 | 2024-08-16 |
 | [自然之力](https://open.spotify.com/track/3QtFzWFeENJYcpw60xuYXg) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3), [許淨淳 XuDo](https://open.spotify.com/artist/4mK9wP3PlQuQcEL32KEMON) | [不斷不斷整裝待發!](https://open.spotify.com/album/3QADAAj9XRerrj1ekZIYGZ) | 3:30 | 2024-10-03 | 2024-11-15 |

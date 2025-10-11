@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-121 songs - 6 hr 2 min
+123 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [after](https://open.spotify.com/track/56MC5t01ksjryLvJuuZypa) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [after](https://open.spotify.com/album/1x4fNH25BgVaDjo0jWaYD7) | 2:25 | 2025-06-27 | 2025-08-16 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-08-07 |  |
 | [Aftermath](https://open.spotify.com/track/2pUAN0zPh6TqyD1B2eZ6S9) | [PVLN](https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa) | [Aftermath](https://open.spotify.com/album/7kTIZod5T2uP9NKXAmCmf5) | 3:33 | 2025-01-31 | 2025-03-29 |
+| [again](https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [again](https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ) | 1:55 | 2025-10-10 |  |
 | [Apologies](https://open.spotify.com/track/7KvJup9EIS0K5Tsunt2p4r) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [PARTYLAND](https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY) | 2:21 | 2025-04-18 | 2025-04-26 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2023-08-07 |  |
 | [Away you bleed](https://open.spotify.com/track/4FHp3T2CC92SV7JFLE8Q5j) | [Sway Burr](https://open.spotify.com/artist/57bMN7QDsEnxCtPXDo56Ok), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Away you bleed](https://open.spotify.com/album/7L34snu4jsWI5A5el0o27Z) | 2:00 | 2025-07-04 | 2025-08-02 |
@@ -94,10 +95,11 @@
 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2023-08-07 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-08-07 |  |
 | [Missing You](https://open.spotify.com/track/0HYgtZsxhbZTwywSUTBwEc) | [Billi Royce](https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic) | [Missing You](https://open.spotify.com/album/6F7xofvKdMKQRhtmBqKCfJ) | 2:29 | 2024-08-09 | 2024-12-14 |
-| [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 | 2025-09-19 |  |
+| [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 | 2025-09-19 | 2025-10-11 |
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2023-08-07 | 2024-09-12 |
-| [Not Getting Better](https://open.spotify.com/track/0l1w6Ukv7YBrkgcppMcseq) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Not Getting Better](https://open.spotify.com/album/02Fi5JDPyEl2LzZByBaFj4) | 3:15 | 2025-08-29 |  |
+| [Not Getting Better](https://open.spotify.com/track/0l1w6Ukv7YBrkgcppMcseq) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Not Getting Better](https://open.spotify.com/album/02Fi5JDPyEl2LzZByBaFj4) | 3:15 | 2025-08-29 | 2025-10-11 |
 | [Oh So Sorry Pt\. 2](https://open.spotify.com/track/6oOnw6lWk4BAcboVGJnaLm) | [PVLN](https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Oh So Sorry Pt\. 2](https://open.spotify.com/album/2cmHAjAYDMgfjYuelT3Pgg) | 2:34 | 2025-02-21 | 2025-03-29 |
+| [Part of Me](https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Part of Me](https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv) | 2:47 | 2025-10-10 |  |
 | [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-04-26 | 2024-07-29 |
 | [Purple Sky](https://open.spotify.com/track/0qw5NG3gqoPVJX9rnNPNuG) | [Mahaji](https://open.spotify.com/artist/2h5Dnku5SpbZdtXIpOvEo1), [OminousyL](https://open.spotify.com/artist/1LMQwJWethElqahOYT9ajV), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [eiksings](https://open.spotify.com/artist/1bVVHsHxO8OzhZtTxKnYeJ) | [Purple Sky](https://open.spotify.com/album/5YayZxc70SAVmzCfVw01Wp) | 2:46 | 2025-01-24 | 2025-06-28 |
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2023-08-07 |  |

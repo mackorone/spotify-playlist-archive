@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 52070,
+  "num_followers": 52088,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACG2QrgAgG2mkds+km/Lgf+",
+  "snapshot_id": "aOb7AAAAAADijlbXhGBVHF8YYfExI94r",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Many Roads",
+      "url": "https://open.spotify.com/track/4KHSKFMQr0PGkWIzIueg8v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Many Roads",
-      "url": "https://open.spotify.com/track/4KHSKFMQr0PGkWIzIueg8v"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bravo",
-        "url": "https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 178918,
-      "name": "Dangerous (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/0hnfvkzawEjVVxBUWDEnEL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 204573,
       "name": "come close (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 178918,
+      "name": "Dangerous (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/0hnfvkzawEjVVxBUWDEnEL"
     },
     {
       "added_at": null,

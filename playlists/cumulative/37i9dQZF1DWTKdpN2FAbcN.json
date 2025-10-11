@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 163315,
       "name": "deja vu (feat. Joe la panic)",
       "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
@@ -1056,6 +1056,28 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "album": {
+        "name": "before & after",
+        "url": "https://open.spotify.com/album/539HN7fgdZv9lVCCG1zVGG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193316,
+      "name": "i have a crush on you",
+      "url": "https://open.spotify.com/track/5zyy6rCsnG4OMxL2VLDAoM"
     },
     {
       "album": {
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 185346,
       "name": "Talk Of The Town",
       "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"

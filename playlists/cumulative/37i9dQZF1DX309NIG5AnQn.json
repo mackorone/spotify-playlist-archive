@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "relicario",
+        "url": "https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162566,
+      "name": "armadura",
+      "url": "https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH"
+    },
+    {
+      "album": {
         "name": "Sur",
         "url": "https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe"
       },

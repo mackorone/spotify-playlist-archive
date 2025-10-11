@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: Otsochodzi
 
-786 songs - 1 day 12 hr 58 min
+786 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Drzemeczka](https://open.spotify.com/track/3EFyLWO6zF9blkg8S03xLQ) | [UNDA](https://open.spotify.com/artist/3VwMjZihfnoOm435h4yK6O), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE), [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX), [Dr\. Slalom](https://open.spotify.com/artist/6RSUDXgK5KgkBHEtb3U7OI), [MAZURYAN](https://open.spotify.com/artist/6GymfjyLhcRdIcFHJJBio4) | [Budka Surfera](https://open.spotify.com/album/3DRFx1E3LBiOCTofNMuuKg) | 3:39 | 2025-09-11 | 2025-09-19 |
 | [DUCH](https://open.spotify.com/track/5F6kc7oKP03QfOEHwsln4X) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [DUCH](https://open.spotify.com/album/3uIiSUDUno8RKIg1RWTL09) | 2:40 | 2024-10-10 | 2024-10-25 |
 | [Dusza](https://open.spotify.com/track/5fYb3lFHcf3iEh6ikl5AzD) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Dusza](https://open.spotify.com/album/55qNvpXVyJBdtJ1JxAbhAe) | 2:19 | 2024-07-18 | 2024-08-20 |
+| [DYLEMAT](https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [APOROFOBIA II](https://open.spotify.com/album/0V1PzQBgGgmwtUxWVU5Z0i) | 3:16 | 2025-10-09 |  |
 | [Dyskoteka](https://open.spotify.com/track/3B3pbYU8NMXYUXkUWDzI0S) | [Wac Toja](https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [NBALVCKY](https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1) | [Dyskoteka](https://open.spotify.com/album/0Um6oOHfmm82reXcT0IQtd) | 2:20 | 2023-11-16 | 2023-11-24 |
 | [DZIECIAKI TO ROBIĄ](https://open.spotify.com/track/1UrP05lbEtzuNpnQxFWXEv) | [kidzlori](https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888), [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe) | [DZIECIAKI TO ROBIĄ](https://open.spotify.com/album/5KcoRrSlFd68wiR70Zkkyx) | 1:48 | 2025-10-09 |  |
 | [DZIEŃ / NOC](https://open.spotify.com/track/6SoMKQ2UlY7SmGnHoyzv84) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [DZIEŃ / NOC](https://open.spotify.com/album/5X0yClBsNBICm2yH9ICQfI) | 2:18 | 2024-07-18 | 2024-07-30 |
@@ -692,7 +693,6 @@
 | [Tom Ford](https://open.spotify.com/track/4H12OZ7dnqP10KT7vF5BWW) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Koneser](https://open.spotify.com/artist/3iXrMGww8ozzbsPVkoysgG) | [Tom Ford](https://open.spotify.com/album/546VYCcufTvLS202u16Ycf) | 3:02 | 2024-10-03 | 2024-10-25 |
 | [TOP BOY](https://open.spotify.com/track/3scqNOemrtRMZA3mGEpDS6) | [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [Kezii](https://open.spotify.com/artist/6vPDIv4E8SA3PjjtMYrks6) | [TOP BOY](https://open.spotify.com/album/7u5nHxM46D3LIVz6mNq8Q8) | 2:15 | 2023-09-21 | 2023-09-26 |
 | [TOTORO](https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:56 | 2023-09-21 | 2023-12-01 |
-| [Track 11](https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Trapstar](https://open.spotify.com/track/0tx39lzX83KjrWqEfHTxew) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo) | [Trapstar](https://open.spotify.com/album/4C9bZzzDC23RZKRkjVtOrm) | 2:57 | 2023-10-26 | 2023-11-17 |
 | [TRENINGOWY DRES](https://open.spotify.com/track/0hgQqD7YLqyZigMuuri08J) | [Francuz Mordo](https://open.spotify.com/artist/2HbB4FfGWI8U5NsLgUZ5ao), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Sebz Beats](https://open.spotify.com/artist/1jGM687jFlYVxRV4xZivTO) | [TRENINGOWY DRES](https://open.spotify.com/album/3zJtUhEpHXjxwB3ktjHZDY) | 3:20 | 2024-11-21 | 2024-12-06 |
 | [TRUSKULOWY 2](https://open.spotify.com/track/67uiB6Q9tKQs8D58kIWXc6) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [TRUSKULOWY 2](https://open.spotify.com/album/2Frc9s02fdUWl6c7tHJIXq) | 4:04 | 2023-12-21 | 2024-01-05 |

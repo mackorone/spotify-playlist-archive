@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92459,
+  "num_followers": 92462,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACoQasTM4boZ8dgYFQqgHbX",
+  "snapshot_id": "aOb7AAAAAABabmitoG9DYrskMpxQIxYB",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 145466,
-      "name": "Franco Un-American",
-      "url": "https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap"
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Soul Doubt",
-      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Longest Line",
         "url": "https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 124026,
       "name": "The Longest Line",
       "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
     },
     {
       "added_at": null,

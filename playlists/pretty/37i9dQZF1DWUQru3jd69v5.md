@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Young Hash in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,677 likes - 67 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,733 likes - 67 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 15 | [BOMBAY](https://open.spotify.com/track/76kL83yLBUnoDl8nqObsci) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [BOMBAY](https://open.spotify.com/album/7mBETUvrMuUHXLHU9qWUeH) | 2:15 |
 | 16 | [Modelle & Delinquenti](https://open.spotify.com/track/2u3bdHZOy5eY1pTQLCUXGR) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Modelle & Delinquenti](https://open.spotify.com/album/7IU2choPcRoHsOn66p1C5A) | 2:22 |
 | 17 | [ho Perso la Voce](https://open.spotify.com/track/4pIJx8MxUHnG2PUmdDC7n4) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz) | [ho Perso la Voce](https://open.spotify.com/album/10bjw2HuaObTZTqFmNgCax) | 2:10 |
-| 18 | [Track 3](https://open.spotify.com/track/0XW8AhKWldGov2ZBu4nCtx) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [Su di me](https://open.spotify.com/track/0XW8AhKWldGov2ZBu4nCtx) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [St4r from the North 2](https://open.spotify.com/album/32HHw5fRiHXKMG9TUb75MW) | 2:18 |
 | 19 | [Legati](https://open.spotify.com/track/03BfQQpxGJlx2RqCv4p4SP) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Legati](https://open.spotify.com/album/5bcI2oEZbIuO5zBLqSOrnS) | 2:36 |
 | 20 | [Pupazzo](https://open.spotify.com/track/7GencZ7T6dXDGuB065De7q) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Pupazzo](https://open.spotify.com/album/2dMrvxyaSNxkVuQysmIGvM) | 3:06 |
 | 21 | [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 |

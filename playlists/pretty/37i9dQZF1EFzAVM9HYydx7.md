@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 304 songs - 18 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,976 likes - 304 songs - 18 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 110 | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/track/5bzaS5tAni5oUpW7bWVdtY) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Scary Nights](https://open.spotify.com/album/77Q0xwlCfFLhUNO1Sh8ORM) | 2:43 |
 | 111 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
 | 112 | [Nowhere To Run](https://open.spotify.com/track/72XxzjvIBR0TKljL0ETcGQ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Nowhere To Run](https://open.spotify.com/album/0FblLlqUsJImmPkaKqEkz5) | 3:41 |
-| 113 | [ARE YOU OK?](https://open.spotify.com/track/5Ji2rXNyEQfTIGz1PEkLK9) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 6:34 |
-| 114 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
+| 113 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
+| 114 | [ARE YOU OK?](https://open.spotify.com/track/5Ji2rXNyEQfTIGz1PEkLK9) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 6:34 |
 | 115 | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW) | 3:14 |
 | 116 | [Like Me](https://open.spotify.com/track/71kZP3u1h27zyjfULjSxPT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Remember My Name \(Deluxe\)](https://open.spotify.com/album/3quLLvWeivpGuxi3WiGgzg) | 3:58 |
 | 117 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 303 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 304 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Ab+b0AAAAABHBmHWLTsuKU00tNeSTfKN`
+Snapshot ID: `Ab+hSAAAAADGytTOik1aIPM3xlOyiGaI`

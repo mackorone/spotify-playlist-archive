@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-280 songs - 15 hr 24 min
+281 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 | 2021-12-24 |  |
 | [What Christmas Means To Me](https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas](https://open.spotify.com/album/0zdNmxXNCOFIFsTpJ4Q6uq) | 2:27 | 2021-12-24 | 2022-07-29 |
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-12-24 | 2022-10-26 |
+| [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 | 2025-10-10 |  |
 | [White Christmas](https://open.spotify.com/track/6ufGxYHEaHNoF3Wvr3xMuj) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [White Christmas](https://open.spotify.com/album/4FBLqxwj4oy8mbRrNwjzdR) | 2:06 | 2021-12-24 | 2024-11-12 |
 | [White Christmas \(with Shy'm\)](https://open.spotify.com/track/3xONtQKJ7gVv77fGLKC3Kb) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Caméléon \(Deluxe Edition\)](https://open.spotify.com/album/1xKo2KKccXTTmV8cqKFRBf) | 3:36 | 2021-12-24 | 2022-10-26 |
 | [White Christmas \(with Shy'm\)](https://open.spotify.com/track/54fvgxr5WYXNsnmKwMc7S1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shy'm](https://open.spotify.com/artist/37vrZ22ryfsMP8bPttLjpD) | [White Christmas \(with Shy'm\)](https://open.spotify.com/album/3uTPJvoA6ck9juIaDCytSH) | 3:36 | 2021-12-24 | 2022-07-29 |

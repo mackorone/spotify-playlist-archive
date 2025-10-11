@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Easykid, Bad Bunny, Feid and more. \ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Rauw Alejandro, \u00d1engo Flow & Wisin, Bad Bunny, Feid and more. \ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 167504,
       "name": "23 (With Ape Drums)",
       "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
+    },
+    {
+      "album": {
+        "name": "30 Mil Pies",
+        "url": "https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187422,
+      "name": "30 Mil Pies",
+      "url": "https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L"
     },
     {
       "album": {
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 151442,
       "name": "Conmigo Se Escapa",
       "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"

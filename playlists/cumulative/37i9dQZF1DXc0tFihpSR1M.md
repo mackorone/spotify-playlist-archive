@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-384 songs - 19 hr 52 min
+384 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,6 @@
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-20 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-11-02 |
 | [Toscana](https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Toscana](https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q) | 2:46 | 2025-06-12 | 2025-06-27 |
-| [Track 1](https://open.spotify.com/track/6cJsbOAnBAXiOT3h8lxeT3) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2024-11-02 |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-02-07 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-27 |  |
@@ -370,6 +369,7 @@
 | [VESTKANTKLASSIKEREN](https://open.spotify.com/track/0CLp3oQhUJJmHQMDG4Gusk) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [VESTKANTKLASSIKEREN](https://open.spotify.com/album/7tHr8nCkVGT2YUUfZ7I41C) | 3:32 | 2025-06-19 | 2025-06-27 |
 | [vinner](https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [TORRES TIVOLI](https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj) | 2:31 | 2024-09-26 | 2024-10-11 |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 | 2024-07-27 |
+| [våken](https://open.spotify.com/track/6cJsbOAnBAXiOT3h8lxeT3) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [våken](https://open.spotify.com/album/44LvnAI7yaaPa9JKTzAKJf) | 2:23 | 2025-10-09 |  |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2025-05-02 |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 | 2024-11-02 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-27 | 2024-11-02 |

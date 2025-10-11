@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,998 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,003 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [](https://open.spotify.com/album/null) | 4:17 |
+| 1 | [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Space Sicks Basics](https://open.spotify.com/album/5mXdLAugxAMyV8fQafUiyT) | 4:17 |
 | 2 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
 | 3 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 |
 | 4 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 8 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 |
 | 9 | [I Want Back The Money](https://open.spotify.com/track/07XFxGlZCPgmFhKH7v9dwq) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [I Want Back The Money](https://open.spotify.com/album/2n3lUh44rLPniOkyYw2Cvc) | 2:48 |
 | 10 | [Vi pumper hjertet op](https://open.spotify.com/track/62ZQfNv9W5HlIOYEjsrc33) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Vi pumper hjertet op](https://open.spotify.com/album/4F0Vp7gGV2GQMUfS1PqGaw) | 5:05 |
-| 11 | [Track 5](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 |
 | 12 | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 |
 | 13 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 |
 | 14 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 16 | [Orbit](https://open.spotify.com/track/4x7YiQYxBpt6RemIT6372c) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Orbit](https://open.spotify.com/album/25qf6Zr2SvpWVMK8MJTXb1) | 3:01 |
 | 17 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 |
 | 18 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 |
-| 19 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [](https://open.spotify.com/album/null) | 3:13 |
+| 19 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 20 | [Dancing in the Smoke \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dancing in the Smoke \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK) | 3:42 |
 | 21 | [Good Stuff](https://open.spotify.com/track/7LIfN7NacguNOS8FMaBMKx) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Good Stuff](https://open.spotify.com/album/4oM9AW7cKAEhiyLvLcz3nH) | 3:08 |
 | 22 | [Olivia For Altid \(feat\. Omar & Svea S\)](https://open.spotify.com/track/1NOXdz32HLzPiFbqFQHUh7) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Olivia For Altid \(feat\. Omar & Svea S\)](https://open.spotify.com/album/2ggoD5oqy6Ju4susVxIT8v) | 2:49 |

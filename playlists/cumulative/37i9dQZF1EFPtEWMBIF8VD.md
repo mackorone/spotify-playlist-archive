@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-52 songs - 2 hr 32 min
+53 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 | 2025-05-02 |  |
 | [Goodbye Glitter](https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Goodbye Glitter](https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii) | 3:54 | 2025-08-03 |  |
 | [Higher](https://open.spotify.com/track/7fEIwu2ldGCYeKYIAjT7qa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:53 | 2025-05-02 |  |
-| [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 | 2025-08-27 |  |
+| [I Just Don't Know You Yet](https://open.spotify.com/track/2kkBKBjHt4mCmgtx3FPCyH) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet \(Live\)](https://open.spotify.com/album/2X6jiccyMdJbgEtEiZXWMk) | 3:21 | 2025-10-10 |  |
+| [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 | 2025-08-27 | 2025-10-11 |
 | [I'll Still Be Here](https://open.spotify.com/track/56I2ieB2BnOneNSyahDye8) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 3:11 | 2025-05-02 |  |
 | [In My Bag](https://open.spotify.com/track/5piuDkdLw3VUtRZi33hidn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:49 | 2025-05-02 |  |
 | [Lifestyle](https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:41 | 2025-07-09 |  |

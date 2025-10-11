@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Macky Gee",
-  "num_followers": 73766,
+  "num_followers": 73787,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2025-10-09 23:00:29",
       "album": {
-        "name": "Foreshadow / 3rd Kit",
+        "name": "Foreshadow / Third Kit",
         "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
       },
       "artists": [
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-10-09 23:00:29",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
-    },
-    {
-      "added_at": "2025-10-09 23:00:29",
-      "album": {
         "name": "Round + Round",
         "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 158620,
       "name": "Round + Round",
       "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
+    },
+    {
+      "added_at": "2025-10-09 23:00:29",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2025-10-09 23:00:29",

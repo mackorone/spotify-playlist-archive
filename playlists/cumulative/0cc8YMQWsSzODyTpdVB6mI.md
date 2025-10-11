@@ -4,7 +4,7 @@
 
 > Music around the world ✈️
 
-161 songs - 9 hr 21 min
+162 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 | 2022-07-12 |
 | [Everything Is Changing \- Radio Edit](https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Everything Is Changing](https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt) | 3:11 | 2022-10-03 | 2023-02-02 |
 | [Fake My Heart](https://open.spotify.com/track/4kQNrp1ckyNhUbODrGBDVt) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Fake My Heart](https://open.spotify.com/album/7soqzqK8vd3EeMYbrFEqvM) | 3:36 | 2022-11-30 | 2023-05-31 |
+| [Falling](https://open.spotify.com/track/6HMrZn76vPSiKl3u6Z6RsC) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Falling](https://open.spotify.com/album/5FRpukRgaN2kZxiji63fn0) | 4:39 | 2025-10-10 |  |
 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 | 2021-11-05 |  |
 | [Feel's Like Someone's Comin'](https://open.spotify.com/track/2EVGocaGZCElznJxqmg2yn) | [Joe Lewandowski](https://open.spotify.com/artist/7vElnPfV9oKuSqfN1Zptbl) | [Feel's Like Someone's Comin'](https://open.spotify.com/album/6oHfW34zDkRBzaldkpGnUt) | 3:03 | 2022-10-17 | 2023-05-31 |
 | [Fire](https://open.spotify.com/track/5VLrfw3wrd1DTvKV3s5pnA) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Ceremony](https://open.spotify.com/album/6TL4avCkN5YCaTwsosOP2v) | 4:02 | 2023-05-30 |  |

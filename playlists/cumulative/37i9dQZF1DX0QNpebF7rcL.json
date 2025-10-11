@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
+  "description": "The best in blues right now. Cover: Robert Finley",
   "name": "Got Blues",
   "tracks": [
     {
@@ -1402,6 +1402,24 @@
       "duration_ms": 255010,
       "name": "Can't Fix The World",
       "url": "https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP"
+    },
+    {
+      "album": {
+        "name": "Hallelujah! Don't Let The Devil Fool Ya",
+        "url": "https://open.spotify.com/album/0dZ5Jt3zP4gqbrlOLBSpwT"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250508,
+      "name": "Can't Take My Joy",
+      "url": "https://open.spotify.com/track/3uqp1o9gimiZq1dpQohNI7"
     },
     {
       "album": {
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 279138,
       "name": "How Did We Get To Goodbye",
       "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 281237,
       "name": "I Wanna Thank You",
       "url": "https://open.spotify.com/track/5zAYaE9T5Pwjz1bSshIWnC"
@@ -4368,6 +4386,24 @@
       "duration_ms": 252811,
       "name": "I'm Free",
       "url": "https://open.spotify.com/track/7CD17NlIJRHmDRfl3oUa1a"
+    },
+    {
+      "album": {
+        "name": "I'm Glad Trouble Don't Last Always (Joudour Sahara)",
+        "url": "https://open.spotify.com/album/0XMSpf6NsFfyDOQZTHFNRy"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294824,
+      "name": "I'm Glad Trouble Don't Last Always (Joudour Sahara)",
+      "url": "https://open.spotify.com/track/6wmfDmohgWwy75rVYcwrGT"
     },
     {
       "album": {
@@ -6964,6 +7000,24 @@
       "duration_ms": 196500,
       "name": "Sand Castles",
       "url": "https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop"
+    },
+    {
+      "album": {
+        "name": "Steppin' Out!",
+        "url": "https://open.spotify.com/album/2f4v2qImorHLkKf8NOXdN9"
+      },
+      "artists": [
+        {
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2Ws5txpfpiW6gSP5BrJznq"
     },
     {
       "album": {
@@ -9854,7 +9908,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 170552,
       "name": "You Were Wrong",
       "url": "https://open.spotify.com/track/0ttTMkOIUOBob1ictXe3Nk"

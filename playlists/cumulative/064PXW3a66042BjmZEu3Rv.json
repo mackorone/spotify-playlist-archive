@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182301,
+      "name": "Misschien",
+      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
+    },
+    {
+      "album": {
         "name": "Niet Voor Lief",
         "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
@@ -2010,6 +2032,24 @@
       "duration_ms": 143015,
       "name": "Voorzichtig",
       "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+    },
+    {
+      "album": {
+        "name": "Wacht Op Mij",
+        "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186676,
+      "name": "Wacht Op Mij",
+      "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
     },
     {
       "album": {

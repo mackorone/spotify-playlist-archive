@@ -3949,8 +3949,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
       "artists": [
         {
@@ -4236,7 +4236,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
@@ -5456,6 +5456,24 @@
       "duration_ms": 178373,
       "name": "Take the Power",
       "url": "https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier"
+    },
+    {
+      "album": {
+        "name": "Tanz Der Toten",
+        "url": "https://open.spotify.com/album/2mJ7L2r4z88VSuHNcwuHci"
+      },
+      "artists": [
+        {
+          "name": "Sister",
+          "url": "https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186393,
+      "name": "Tanz Der Toten",
+      "url": "https://open.spotify.com/track/4uoxEdN95MwhF6QfvBabJP"
     },
     {
       "album": {

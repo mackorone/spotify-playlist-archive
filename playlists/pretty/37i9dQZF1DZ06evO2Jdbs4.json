@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 30357,
+  "num_followers": 30367,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACHzyge+BbDUAYr5uIksNOz",
+  "snapshot_id": "aOb7AAAAAACCfnNR/F0kqQmIg/4ybbEg",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Montame",
         "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
       "artists": [
-        {
-          "name": "Emilio Navaira",
-          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 217129,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+      "duration_ms": 224200,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
     },
     {
       "added_at": null,
@@ -407,6 +387,26 @@
       "duration_ms": 225346,
       "name": "Perd\u00f3name - Cumbia",
       "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
+      },
+      "artists": [
+        {
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Las Vegas",
+        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 400385,
+      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbia Vallenata (En Vivo)",
         "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 217402,
       "name": "Cumbia Vallenata - En Vivo",
       "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Las Vegas",
-        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 400385,
-      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
     },
     {
       "added_at": null,

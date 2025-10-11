@@ -1,6 +1,6 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 157914,
+  "num_followers": 157951,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "La Profec\u00eda",
-        "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
-      },
-      "artists": [
-        {
-          "name": "Amistades Peligrosas",
-          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Me quedar\u00e9 solo",
-      "url": "https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
         "name": "Nek (spanish version)",
         "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 225239,
       "name": "Laura no est\u00e0",
       "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
+        "name": "La Profec\u00eda",
+        "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
+      },
+      "artists": [
+        {
+          "name": "Amistades Peligrosas",
+          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Me quedar\u00e9 solo",
+      "url": "https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS"
     },
     {
       "added_at": "2024-08-23 02:54:08",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "D\u00edmelo Delante de Ella",
-      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "D\u00edmelo Delante de Ella",
+      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
     },
     {
       "added_at": "2024-08-23 02:54:08",

@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 6879,
+  "num_followers": 6906,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,38 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
+        "name": "Merry Christmas Mary Jane",
+        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 252388,
+      "name": "Merry Christmas Mary Jane",
+      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "The Johnny Cash Family Christmas",
         "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
       },
@@ -335,38 +367,6 @@
       "duration_ms": 154440,
       "name": "I Heard The Bells On Christmas Day",
       "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Merry Christmas Mary Jane",
-        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 252388,
-      "name": "Merry Christmas Mary Jane",
-      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
+      },
+      "artists": [
+        {
+          "name": "The Wandering Hearts",
+          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 253746,
       "name": "Baby, It\u2019s Cold Outside",
       "url": "https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
-      },
-      "artists": [
-        {
-          "name": "The Wandering Hearts",
-          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "Christmas in Prison",
         "url": "https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 225053,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Fishing for Christmas",
+        "url": "https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Fishing for Christmas",
+      "url": "https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "Gone for Christmas (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Fishing for Christmas",
-        "url": "https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Fishing for Christmas",
-      "url": "https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG"
     },
     {
       "added_at": "2025-10-07 16:01:44",

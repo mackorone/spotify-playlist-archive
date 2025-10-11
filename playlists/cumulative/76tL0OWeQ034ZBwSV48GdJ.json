@@ -2707,6 +2707,36 @@
     },
     {
       "album": {
+        "name": "Nothing On Me",
+        "url": "https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "APACHE (FR)",
+          "url": "https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU"
+        },
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Tabia",
+          "url": "https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242294,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq"
+    },
+    {
+      "album": {
         "name": "Summer Sampler 2018",
         "url": "https://open.spotify.com/album/1Wa0vMSFwBIRDI8rz58F03"
       },

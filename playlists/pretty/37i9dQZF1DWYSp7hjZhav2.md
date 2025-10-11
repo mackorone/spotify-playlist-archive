@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,946 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,981 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 49 | [In My Mind](https://open.spotify.com/track/5kGNghKaOm4WCTNFAdmnDX) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:30 |
 | 50 | [Losing My Mind](https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Losing My Mind](https://open.spotify.com/album/0R6E19xuHfcWBuUX5VC5rg) | 2:58 |
 
-Snapshot ID: `AAAAAO/FaLmXxqgatio1YR5anHINUf7A`
+Snapshot ID: `AAAAAPqusM5AWmXxphabbOXBK+Xm0xqD`

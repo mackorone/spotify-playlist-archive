@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Broken and Blind",
+        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192125,
+      "name": "Broken and Blind",
+      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
+    },
+    {
+      "album": {
         "name": "Immutable",
         "url": "https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk"
       },
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 242172,
       "name": "Crossing Over",
       "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
@@ -12844,7 +12862,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 219666,
       "name": "Overthrone",
       "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
@@ -16830,6 +16848,24 @@
       "duration_ms": 288730,
       "name": "Taniwha (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/3FKmAybKmHrRHbLOBQ0hDx"
+    },
+    {
+      "album": {
+        "name": "Tanz Der Toten",
+        "url": "https://open.spotify.com/album/2mJ7L2r4z88VSuHNcwuHci"
+      },
+      "artists": [
+        {
+          "name": "Sister",
+          "url": "https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186393,
+      "name": "Tanz Der Toten",
+      "url": "https://open.spotify.com/track/4uoxEdN95MwhF6QfvBabJP"
     },
     {
       "album": {

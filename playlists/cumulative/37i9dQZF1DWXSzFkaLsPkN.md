@@ -2,9 +2,9 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Tanmaya Bhatnagar
+> Hindi hai, Indie hai! Cover\- When Chai Met Toast
 
-294 songs - 16 hr 7 min
+295 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-05-02 |  |
 | [Awaara Ho](https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Awaara Ho](https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu) | 3:29 | 2023-05-02 | 2025-07-26 |
 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2023-05-02 | 2024-04-19 |
+| [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 | 2025-10-10 |  |
 | [Baavre Ho Gaye](https://open.spotify.com/track/6eqPTXbERj4fj48rKzT0TZ) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Baavre Ho Gaye](https://open.spotify.com/album/29GwKSimTP6XMlop401he1) | 3:48 | 2024-05-06 | 2025-09-17 |
 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Akash Rajput](https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 | 2024-08-20 |  |
 | [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 | 2023-12-15 | 2024-01-10 |
@@ -301,6 +302,6 @@
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-06-18 | 2024-07-13 |
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2023-12-15 | 2024-04-19 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2023-05-02 | 2023-12-16 |
-| [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 | 2025-10-03 |  |
+| [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 | 2025-10-03 | 2025-10-11 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

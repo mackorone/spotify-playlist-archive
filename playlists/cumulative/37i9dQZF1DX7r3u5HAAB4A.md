@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Byron Messia
+> A melting pot of Caribbean culture\. Cover: Armanii
 
-271 songs - 13 hr 24 min
+276 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Column](https://open.spotify.com/track/0scHhOURKlAd3Aj6GsMa7n) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Column](https://open.spotify.com/album/70Mx4fkCBgCjKkFH3qF86y) | 3:17 | 2025-07-11 | 2025-07-19 |
 | [Crazy](https://open.spotify.com/track/7aA9SCzJuvj3pfqMUmryfp) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Crazy](https://open.spotify.com/album/0rNGUhljXFbcnGSoaxnb1c) | 3:13 | 2025-02-21 | 2025-03-01 |
 | [Crime Minister](https://open.spotify.com/track/1uGcGsEpBGekvxExZ47wQX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Generals](https://open.spotify.com/album/34pXk8FLwubuVmCFOAO24P) | 3:44 | 2025-03-21 | 2025-03-29 |
+| [Cry Wolf](https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cry Wolf](https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK) | 3:27 | 2025-10-10 |  |
 | [Cut The Link](https://open.spotify.com/track/4vmSIXuD6f3I3Ap0RAMLmi) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Cut The Link](https://open.spotify.com/album/3uhAtGve245x44l7Yc2afC) | 3:22 | 2025-01-24 | 2025-02-08 |
 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 | 2024-08-29 |  |
 | [Dangerous](https://open.spotify.com/track/2MBg1KNO6H3aYHOnS8phqi) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [MUSE](https://open.spotify.com/album/0yWpywE2F4Iv2xXimZC8kf) | 3:18 | 2025-02-28 | 2025-04-12 |
@@ -69,6 +70,7 @@
 | [Dating Szn](https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dating Szn](https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK) | 2:55 | 2024-12-06 |  |
 | [Deceitful](https://open.spotify.com/track/7axvgBaBH9Qpbbub8s8gSz) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [9MR](https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l) | [Deceitful](https://open.spotify.com/album/6kCkndhxsM5Iknqar8rzPB) | 2:51 | 2025-05-30 | 2025-06-07 |
 | [DEMON TIME](https://open.spotify.com/track/17W4evsdCRgH69xKC7rNRv) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [TRILOGY](https://open.spotify.com/album/3ugvJpAgveYhXpghHfqlG4) | 3:38 | 2024-08-29 | 2024-09-28 |
+| [DESIRES](https://open.spotify.com/track/4i8sNib2rKoGr3Byg6S4tl) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [EPISODE 3](https://open.spotify.com/album/7srfvrigCe4raZ7MeWlIQO) | 3:23 | 2025-10-10 |  |
 | [Diamond](https://open.spotify.com/track/1OxtPaZlS9hx5jm4DNtbLZ) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Occupied Mind](https://open.spotify.com/album/5SFodcpgUUpbA72YvNIHwy) | 3:02 | 2024-12-06 | 2025-07-19 |
 | [Diamond Gal](https://open.spotify.com/track/0cuwOvvWEVOlXcWkEfDRp0) | [Zzambo](https://open.spotify.com/artist/2vx8HF6XWYF3lN2L6VGc6I), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Diamond Gal](https://open.spotify.com/album/0koXHXwCRqbrkxXH3x9mLd) | 4:22 | 2025-04-25 | 2025-05-17 |
 | [Die For You](https://open.spotify.com/track/6TNkWGEciE227dch2XmOld) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:20 | 2024-08-29 |  |
@@ -88,6 +90,7 @@
 | [Endless Vibes](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 | 2024-08-29 |  |
 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 | 2024-08-29 | 2024-09-18 |
 | [Entering Greenzland](https://open.spotify.com/track/1OSQ76fIK7bR3OxbFTwj6h) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Entering Greenzland](https://open.spotify.com/album/6lRs5CDfFAXEz8EaCn1Lhc) | 2:39 | 2024-08-29 | 2024-09-14 |
+| [Exile](https://open.spotify.com/track/3nSob91zmErvX2xqMkX7UV) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Exile](https://open.spotify.com/album/6lcQdo16OGEYYm5RuTUGmf) | 3:25 | 2025-10-10 |  |
 | [Explore \- Remix](https://open.spotify.com/track/6DYYiwtct3UyDL7hLrLC7G) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Alien Head Invasion](https://open.spotify.com/album/5YlNMKrKA5CD15RXEND4on) | 2:36 | 2025-05-16 |  |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-08-29 |  |
 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 | 2025-06-20 | 2025-07-19 |
@@ -235,6 +238,7 @@
 | [Tequila La La La La](https://open.spotify.com/track/3fm7nlDQB74jy4NoPg3j57) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Shwaycation](https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF) | 3:01 | 2024-09-13 | 2024-09-18 |
 | [Tetris Riddim](https://open.spotify.com/track/6H0QymUjO3cAEZyH3apUGy) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Audio Thvg](https://open.spotify.com/artist/4PyNZNMH7ejFyBV8wOM2mM) | [Tetris Riddim](https://open.spotify.com/album/25tWajWKKJdMOKOP54ecAz) | 2:58 | 2025-07-04 | 2025-07-12 |
 | [That's It!](https://open.spotify.com/track/7vdU0x5zgy6as4gfJfallS) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [That's It!](https://open.spotify.com/album/5U53x1O71bLFj0eAqdL1XS) | 3:05 | 2024-12-06 | 2025-01-17 |
+| [The Days](https://open.spotify.com/track/2psbBm3QcUHimjTUGa8soF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [The Days](https://open.spotify.com/album/1pFqT01wZS5o64E6eQCY3L) | 3:34 | 2025-10-10 |  |
 | [The Flute \- Remix](https://open.spotify.com/track/52iW0Bom2SB5cWXRU1Mo44) | [DJ Smo](https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp), [Reid Waters](https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Mongrelz](https://open.spotify.com/artist/3aN44Ink4w1sy3efOksnPm) | [The Flute \(Remix\)](https://open.spotify.com/album/6BIUuv4YbNUVmIc3ZAS5AS) | 1:55 | 2025-05-09 | 2025-05-17 |
 | [The Greatest Bend Over \(Take It Easy\) \- Chlöe x MOLIY Remix](https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [The Greatest Bend Over \(Take It Easy\) \[Chlöe x MOLIY Remix\]](https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh) | 3:28 | 2025-08-15 |  |
 | [TIME](https://open.spotify.com/track/12U7ykhK1TZTzTGmDHWDGq) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [TIME](https://open.spotify.com/album/2FbMoqc0ksmsJqLqqoGJmB) | 2:31 | 2025-09-12 |  |
@@ -252,6 +256,7 @@
 | [Tun Di Ada Way](https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB), [DethWrld](https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu) | [Tun Di Ada Way](https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw) | 2:35 | 2024-12-06 |  |
 | [Turn Me On \(with Jada Kingdom\)](https://open.spotify.com/track/3RN7OlUay6Atp5cFjrbkPe) | [The 9ine](https://open.spotify.com/artist/25f1NjILSP7owhgqIQNOPg), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Turn Me On \(with Jada Kingdom\)](https://open.spotify.com/album/3jPUbEDcV2Q0dSpXXOw84i) | 2:48 | 2024-08-29 |  |
 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 | 2024-08-29 |  |
+| [U A GWAN](https://open.spotify.com/track/3e94RRzKtH1q4fkJzjnRql) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [U A GWAN](https://open.spotify.com/album/30Oun03zUjM3siw3d1k5L1) | 2:56 | 2025-10-10 |  |
 | [UnFck You](https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [UnFck You](https://open.spotify.com/album/5OKm4MYpe25NJFpMfM7kGj) | 2:40 | 2024-12-06 |  |
 | [Unstoppable](https://open.spotify.com/track/2sGiwsp8kDpa0XHrokyv1e) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [First Week Out](https://open.spotify.com/album/2OeHKYJwIswaxKT4cGBIgp) | 3:24 | 2024-08-29 |  |
 | [V.I.P.](https://open.spotify.com/track/3JS8amcXIpq51ZEpfziQOb) | [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [V.I.P.](https://open.spotify.com/album/1yBU6Ro4hKtAoLxrRuVu1j) | 2:08 | 2025-04-18 | 2025-05-17 |

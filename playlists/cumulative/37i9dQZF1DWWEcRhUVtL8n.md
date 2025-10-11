@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Lola Young
+> New and approved indie pop\. Cover: NoSo
 
-2,208 songs - 4 day 21 hr 8 min
+2,210 songs - 4 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-09-30 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-30 | 2024-06-11 |
 | [Blame Game](https://open.spotify.com/track/23YKtFHHfoCCgPN3jE7Ye0) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Blame Game](https://open.spotify.com/album/2ROajNedjFylk0fhSUeE2E) | 3:34 | 2021-01-15 | 2021-02-02 |
-| [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 | 2025-08-19 |
+| [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 |  |
 | [Blindside](https://open.spotify.com/track/47iGN5FfJJnBSZWh5pz1bZ) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Blindside](https://open.spotify.com/album/2iPcf10Dnk8YCSjpnCNH3l) | 3:38 | 2022-04-08 | 2022-04-21 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-27 |
 | [Block Your Number](https://open.spotify.com/track/2ydxcOqV1csgBuJSJPunvX) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Block Your Number](https://open.spotify.com/album/3cpcgAYgkdLDW64J704aNB) | 3:22 | 2020-10-13\* | 2021-05-22 |
@@ -424,7 +424,7 @@
 | [coming of age](https://open.spotify.com/track/5S3Yt7uP3Fp3vcxf1v9B1Z) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:38 | 2022-06-17 | 2022-08-06 |
 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 | 2021-05-06 | 2022-04-04 |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2022-03-29 | 2022-07-29 |
-| [Concrete](https://open.spotify.com/track/2x0He9oNZea2wj5XaO4iF6) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 2:53 | 2025-04-04 |  |
+| [Concrete](https://open.spotify.com/track/2x0He9oNZea2wj5XaO4iF6) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 2:53 | 2025-04-04 | 2025-10-11 |
 | [Confetti](https://open.spotify.com/track/5yQ3r7YV573w0mpGtNpoAl) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Confetti](https://open.spotify.com/album/433yeUccrhJPYJTqgOkxCv) | 3:04 | 2021-01-19 | 2021-05-21 |
 | [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 | 2024-05-17 | 2024-06-22 |
 | [congratulations](https://open.spotify.com/track/2ad0hTq75JpcB4JzmZPCbC) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [how u stop hating urself \(pt 1.5\)](https://open.spotify.com/album/7vHfgHVoXFsx5ysSpKEHvQ) | 2:12 | 2021-03-27 | 2021-05-28 |
@@ -465,7 +465,7 @@
 | [Crying In Public \- MUNA Remix](https://open.spotify.com/track/6ouu4XNaN3pQMRo6BUvsaV) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Crying In Public \(MUNA Remix\)](https://open.spotify.com/album/5CG5Hrcv8PYM6GMIbTGBkI) | 3:58 | 2021-11-12 | 2022-07-29 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-12 | 2022-04-13 |
 | [Crying On My Own](https://open.spotify.com/track/0RrsFlWwmBxPA96PIMwhsu) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Crying On My Own](https://open.spotify.com/album/0L8dLRDXS1neezbmE0QiVP) | 3:35 | 2021-02-23 | 2021-05-28 |
-| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-06 |  |
+| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-06 | 2025-10-11 |
 | [crystal clear](https://open.spotify.com/track/6qr6skNUEldlmc1p0fK7Gh) | [Goodie Bag](https://open.spotify.com/artist/2wfGvctJZV4yvkfzcb5Itk) | [crystal clear](https://open.spotify.com/album/1ddlffh87rXt5ZYAr54mBR) | 2:15 | 2021-03-19 | 2021-03-22 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-02 | 2023-02-10 |
 | [Current Affairs](https://open.spotify.com/track/1cQQB9z7fNQQ2VzSkslt7Y) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:18 | 2025-07-04 |  |
@@ -949,6 +949,7 @@
 | [i hate 1st dates](https://open.spotify.com/track/5hRMLeMCXo7EC7uJfe9kQH) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [i hate 1st dates](https://open.spotify.com/album/3oohxGSBp3TZzox2F69jMN) | 2:56 | 2022-10-21 | 2022-10-29 |
 | [I HATE SUNDAY](https://open.spotify.com/track/4yWwiHbmOkDCZpUw8SYCMF) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 2:45 | 2022-04-29 | 2022-05-07 |
 | [I Haven't Seen You Since The Summer](https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [I Haven't Seen You Since The Summer](https://open.spotify.com/album/5adGcBqBz7d9z9mCU0ntAt) | 3:20 | 2023-08-18 | 2023-10-14 |
+| [I KINDA LIKE THAT](https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [EARWORM](https://open.spotify.com/album/0oJB399Gh1l7rlzJXbsF85) | 3:18 | 2025-10-10 |  |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 | 2024-11-23 |
 | [I Like It When You Love Me](https://open.spotify.com/track/6UiS2IW9dEZwC6TluY5zSy) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/2b1eVD7SHV8TlispVpP8yV) | 3:46 | 2020-10-20 | 2022-04-14 |
 | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN) | 3:42 | 2022-12-07 | 2022-12-22 |
@@ -1346,6 +1347,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-02-28 | 2021-05-28 |
 | [N.P.D](https://open.spotify.com/track/1eEIMkDqSr8jbnobIEBQz1) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [N.P.D](https://open.spotify.com/album/29hxvEZkaNi0quZsfpcp2U) | 5:31 | 2024-01-20 | 2024-02-11 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-22 | 2022-04-16 |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-10 |  |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-08-06 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 | 2023-06-23 |
 | [Name Something Better](https://open.spotify.com/track/2Nd1dImwW0VVN5HJ9MfvUd) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Easy Way To Lose](https://open.spotify.com/album/0QO71Myy3GIOVaG7v1jwwm) | 4:01 | 2024-01-12 | 2024-03-22 |
@@ -1388,7 +1390,7 @@
 | [no friends](https://open.spotify.com/track/3bDJVbs8h1EpMsZmo3YNtp) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [no friends](https://open.spotify.com/album/6UoCFUS0khylMghHjtCILn) | 1:45 | 2020-10-13\* | 2022-04-15 |
 | [no friends \(feat\. spill tab & MIA GLADSTONE\)](https://open.spotify.com/track/0c5eyxgiDJGS48ZCfmLabb) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Mia Gladstone](https://open.spotify.com/artist/655Kf1udFVddxdsFjryd0D) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:10 | 2021-08-27 | 2022-04-16 |
 | [No Fun](https://open.spotify.com/track/6TFn4whoPiM69vU2Wx1kh8) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [No Fun](https://open.spotify.com/album/43lbfNEa1HlM46rYYcJRpo) | 2:39 | 2020-10-20 | 2020-10-21 |
-| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 |  |
+| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 | 2025-10-11 |
 | [No Problems](https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [No Problems](https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u) | 3:44 | 2024-05-24 | 2024-07-03 |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-10-20 | 2022-04-20 |
 | [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 | 2024-09-13 | 2024-10-26 |

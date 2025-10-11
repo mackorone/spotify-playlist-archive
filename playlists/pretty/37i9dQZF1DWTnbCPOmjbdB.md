@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Lanberry
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,717 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,768 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 4 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
 | 5 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 | 6 | [kyoto](https://open.spotify.com/track/0opYvODIONdV6edM316xO8) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 2:43 |
-| 7 | [Saint Tropez](https://open.spotify.com/track/0wrpmlS9VE426f5dyiITzP) | [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [SAINT TROPEZ](https://open.spotify.com/album/1M3dY4kgipd93Jfu3UuZ66) | 2:56 |
+| 7 | [SAINT TROPEZ](https://open.spotify.com/track/0wrpmlS9VE426f5dyiITzP) | [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [SAINT TROPEZ](https://open.spotify.com/album/1M3dY4kgipd93Jfu3UuZ66) | 2:56 |
 | 8 | [Do Końca Dni](https://open.spotify.com/track/7ELp0ZdB87mvVupvWUDoov) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [Do Końca Dni](https://open.spotify.com/album/3rb5K0ms8c8AzXU3ceoIZw) | 3:44 |
 | 9 | [FIKU MIKU](https://open.spotify.com/track/5JUs80EV0MeJ3s2atMaPjr) | [Bungee](https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ) | [FIKU MIKU](https://open.spotify.com/album/5uUpFJdEbRcsap5IoBd1GJ) | 2:38 |
 | 10 | [Dzisiaj przychodzi on](https://open.spotify.com/track/6oxRENLxHBG8wjObGx3YIk) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [Dzisiaj przychodzi on](https://open.spotify.com/album/62UFJKU6L8intdjOf1BFG7) | 5:29 |

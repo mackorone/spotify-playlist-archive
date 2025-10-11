@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-302 songs - 16 hr 28 min
+303 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 | 2022-03-18 | 2025-01-03 |
 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 | 2025-07-01 |
 | [Babies \- Acoustic](https://open.spotify.com/track/3M2I0rIaPF8vuEMjVpIMrF) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies \(Acoustic\)](https://open.spotify.com/album/2waRF5MY9lsGtncXxvrXfp) | 2:57 | 2022-08-20 | 2022-08-27 |
+| [Baggage \(Stripped Version\)](https://open.spotify.com/track/2t1pIl7vd9cDFS3u1Qeix5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(Stripped Session\)](https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq) | 2:35 | 2025-10-10 |  |
 | [Bar Friends \- Acoustic](https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends \(Acoustic\)](https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es) | 3:00 | 2021-12-17 | 2022-08-14 |
 | [Be The Whiskey \- Acoustic](https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Be The Whiskey \(Acoustic\)](https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f) | 3:02 | 2023-02-03 | 2023-04-05 |
 | [Beautiful As You \- Acoustic](https://open.spotify.com/track/3uSSyLv1pk4ZfCKulf2B3o) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As U](https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL) | 2:43 | 2024-09-27 | 2025-04-01 |
@@ -46,7 +47,7 @@
 | [Bluebird \- Acoustic](https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bluebird \(Acoustic\)](https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB) | 3:40 | 2022-07-08 |  |
 | [Boy Like Me \- Acoustic](https://open.spotify.com/track/1czoG01DZOJ9wTv3pvcKrk) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Boy Like Me \(Acoustic\)](https://open.spotify.com/album/4Lan6PFV9KO6AzwEAGoxez) | 3:08 | 2021-12-17 | 2022-07-10 |
 | [Break My Heart Again \- Live Acoustic](https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again \(Live Acoustic\)](https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby) | 3:20 | 2022-06-17 | 2022-08-26 |
-| [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 | 2023-12-01 |  |
+| [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 | 2023-12-01 | 2025-10-11 |
 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 | 2021-12-17 |  |
 | [Broken Heartland \(Acoustic\)](https://open.spotify.com/track/7xGDfJhvJ7El7dD7yRU083) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Broken Heartland \(Acoustic\)](https://open.spotify.com/album/5DpXffm9xslcaFaYYqRSN8) | 3:36 | 2022-10-07 | 2022-10-30 |
 | [Broken Up \- Acoustic](https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Broken Up \(Acoustic\)](https://open.spotify.com/album/3SzlvoZYAH0dPrZeG4GH7S) | 3:09 | 2021-12-17 | 2022-08-21 |

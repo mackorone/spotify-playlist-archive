@@ -3608,7 +3608,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 186400,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/2S13g8BhBuFzkGpwDw1ONM"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 222620,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
@@ -7991,6 +7991,24 @@
     },
     {
       "album": {
+        "name": "Cancel",
+        "url": "https://open.spotify.com/album/1dCeJxKtzduTkateFTTGpJ"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Cancel",
+      "url": "https://open.spotify.com/track/0bu8OgIeVkQoRaj6N4PfAC"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -8020,7 +8038,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 211498,
       "name": "CANCELLED!",
       "url": "https://open.spotify.com/track/3FzJDGVjRGNc7KrkabU5N0"
@@ -15216,7 +15234,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 212777,
       "name": "Father Figure",
       "url": "https://open.spotify.com/track/1lD0oPIfSYid1LhPvgrz10"
@@ -16608,6 +16626,24 @@
       "duration_ms": 241120,
       "name": "Gdy \u015bliczna Panna",
       "url": "https://open.spotify.com/track/6qpAOx0kW0Zh82KW1hziPQ"
+    },
+    {
+      "album": {
+        "name": "Gdzie m\u00f3j dom?",
+        "url": "https://open.spotify.com/album/3ex3T8zjsgKoSP9ajrXv2l"
+      },
+      "artists": [
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Gdzie m\u00f3j dom?",
+      "url": "https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ"
     },
     {
       "album": {
@@ -28223,6 +28259,24 @@
     },
     {
       "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/5i1YotcMYS49V5N8QzwXR6"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177829,
+      "name": "Memento",
+      "url": "https://open.spotify.com/track/6FlrjUs1xBdtXXBFDBe3XQ"
+    },
+    {
+      "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
       },
@@ -28610,7 +28664,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/0RltGzzlWXnojDWD8xRCZm"
@@ -29224,7 +29278,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 182790,
       "name": "Monarcha",
       "url": "https://open.spotify.com/track/0tkKJZLaTBN4q2xvxcVTlY"
@@ -49780,7 +49834,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"

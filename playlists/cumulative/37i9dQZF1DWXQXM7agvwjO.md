@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: LOR \(Indonesia\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
 
-2,249 songs - 5 day 16 hr 7 min
+2,249 songs - 5 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1823,7 +1823,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 6](https://open.spotify.com/track/5cQe5xi5nxPbZwyz1q1DvF) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-07-25 | 2024-09-06 |
@@ -2145,6 +2144,7 @@
 | [別讓我幸福](https://open.spotify.com/track/325BkKXhbNj4gVgTlyiZ6R) | [Oh! Dirty Fingers](https://open.spotify.com/artist/2ogByTbIUBTWL5h4w9GDrW) | [別讓我幸福](https://open.spotify.com/album/40QgZwvzTwG9Q6N6Ba7LOB) | 2:36 | 2025-10-03 |  |
 | [午夜宣言](https://open.spotify.com/track/58KCSqqFNeTYVLjQjAXr4f) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [午夜宣言](https://open.spotify.com/album/3HMXwCbQ0zuRbjXuQ3Kdmf) | 2:28 | 2024-10-03 | 2024-10-11 |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |
+| [原來我自作多情](https://open.spotify.com/track/5cQe5xi5nxPbZwyz1q1DvF) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 2:44 | 2025-10-09 |  |
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-05-25 | 2023-06-20 |
 | [命中注定（Destiny）](https://open.spotify.com/track/6iT6SWmFOqyEyxbQvjh6tb) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY), [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [命中注定（Destiny）](https://open.spotify.com/album/1uz043VF0O6erfPXuNfr2O) | 3:46 | 2025-08-08 | 2025-08-15 |
 | [咻蹦蹦](https://open.spotify.com/track/5s81MfT7Vjdd59vhhfoI00) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [咻蹦蹦](https://open.spotify.com/album/0xrisTgisMjztdBvRxIyPN) | 2:42 | 2023-06-29 | 2023-07-07 |

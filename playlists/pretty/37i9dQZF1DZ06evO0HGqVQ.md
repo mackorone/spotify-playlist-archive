@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,745 likes - 46 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,754 likes - 46 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 45 | [Toma Tu Recuerdo](https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:09 |
 | 46 | [Vete](https://open.spotify.com/track/1Ir71MW29zzalqJyjE4xXm) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 4:45 |
 
-Snapshot ID: `aOWpgAAAAABdJNnUMeamGAKdzQJrtfbt`
+Snapshot ID: `aOb7AAAAAAAoPHRp4v3A+rOuUfARzXMF`

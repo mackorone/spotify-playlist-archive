@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,163 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,175 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 19 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
 | 20 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
 | 21 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
-| 22 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects \(DJ Mix\)](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
+| 22 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
 | 23 | [All I Really Want](https://open.spotify.com/track/3lLh5lWerYHviy8hSVvtBw) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [All I Really Want](https://open.spotify.com/album/0K36Q2buZbBp4aEQQyJmQ3) | 3:13 |
 | 24 | [Gimme That Money](https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Gimme That Money](https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ) | 3:31 |
 | 25 | [Chemicals](https://open.spotify.com/track/0zf1tiIdlhpbUDZJmbdBPA) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Chemicals](https://open.spotify.com/album/6ElHfnCTakQ9ZTruXFjTeB) | 4:44 |

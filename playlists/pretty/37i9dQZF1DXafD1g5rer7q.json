@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 445638,
+  "num_followers": 445694,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Let Me Hold You (Turn Me On)",
-        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Dante Klein",
-          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
-        }
-      ],
-      "duration_ms": 162425,
-      "name": "Let Me Hold You (Turn Me On)",
-      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Let Me Hold You (Turn Me On)",
+        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+        }
+      ],
+      "duration_ms": 162425,
+      "name": "Let Me Hold You (Turn Me On)",
+      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Sex - Radio Edit",
-      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Sex - Radio Edit",
+      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
     },
     {
       "added_at": "2025-07-31 16:00:18",

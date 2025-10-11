@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-602 songs - 1 day 9 hr 37 min
+603 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Daira \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/4auzGy2POHFUZ8ZkT7Hi9H) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:38 | 2025-09-12 | 2025-09-27 |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 | 2023-07-08 |
 | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/2sdksmVqytLp1aUf8dm4X4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arjun Chandy](https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/5DyDPjmYBREB3XfG8mqQjG) | 3:12 | 2025-07-11 |  |
+| [Dekha Hi Nahi](https://open.spotify.com/track/5GcVuKV12CryRih9BDiXBk) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Dekha Hi Nahi](https://open.spotify.com/album/2kTV9Zqt7jn65GRaE6nX6K) | 3:56 | 2025-10-10 |  |
 | [DESTINY](https://open.spotify.com/track/2skHjbqgYwr83621d9phrL) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 3:02 | 2023-08-03 | 2023-09-13 |
 | [Dhaagey](https://open.spotify.com/track/1bav36G2cus1No9SZrjUml) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Dhaagey](https://open.spotify.com/album/0QY6LFsuvkZ8WJkwIbPbGf) | 4:17 | 2025-07-04 | 2025-09-30 |
 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 | 2023-05-17 | 2023-07-25 |
@@ -331,7 +332,7 @@
 | [Loriyan](https://open.spotify.com/track/4Nk2m91a4fVN3HJ2nTbxLs) | [Rudraaksh](https://open.spotify.com/artist/13C0l0ksCc9MBMLHslZaLE) | [Loriyan](https://open.spotify.com/album/5XoCFH6XKQLTrhLMgYJVWq) | 2:32 | 2025-06-02 | 2025-08-15 |
 | [Love Strings](https://open.spotify.com/track/0X74jZuAmNab2gOmZpGkrC) | [Honeyjeet Singh](https://open.spotify.com/artist/6Q7V7hUyKWeIzBz8X90PhZ) | [Love Strings](https://open.spotify.com/album/78SUVtYpOdV367OE30nglI) | 2:58 | 2025-02-03 | 2025-04-19 |
 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 | 2024-03-12 | 2024-07-23 |
-| [maan ja mere yaar](https://open.spotify.com/track/6LefrCinotAljkJzLBcloP) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb) | [maan ja mere yaar](https://open.spotify.com/album/1tmv9hX2RllmvyQF8mLoxf) | 4:02 | 2025-09-19 |  |
+| [maan ja mere yaar](https://open.spotify.com/track/6LefrCinotAljkJzLBcloP) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb) | [maan ja mere yaar](https://open.spotify.com/album/1tmv9hX2RllmvyQF8mLoxf) | 4:02 | 2025-09-19 | 2025-10-11 |
 | [Maanliya](https://open.spotify.com/track/1KpsvdF5MDK8Xflp22gl04) | [Ashku](https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW), [Harshad NLT](https://open.spotify.com/artist/3fU9eGeT7xj2vw8qfTjfID) | [Maanliya](https://open.spotify.com/album/615P5SIufwS2mN89GG0ebG) | 3:36 | 2025-07-18 |  |
 | [Mahi Mere Mahi](https://open.spotify.com/track/1sllzIqIynjYvzFNrXsFjs) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Mahi Mere Mahi](https://open.spotify.com/album/1hxEJVTQVGFz4xbuvS2kHK) | 2:58 | 2025-05-21 | 2025-08-20 |
 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 | 2023-08-09 |  |

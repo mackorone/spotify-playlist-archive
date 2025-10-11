@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 510267,
+  "num_followers": 510329,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAW+mACUw3CFVi+d/r7edWA",
+  "snapshot_id": "aOb7AAAAAAC9PlszmdBb2jDbM4EDM8Di",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
-        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+        "name": "E=MC2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
       "artists": [
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 219968,
-      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
-      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+      "duration_ms": 212000,
+      "name": "I Stay In Love",
+      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
     },
     {
       "added_at": null,
@@ -407,18 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "E=MC2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
       },
       "artists": [
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 212000,
-      "name": "I Stay In Love",
-      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
     },
     {
       "added_at": null,

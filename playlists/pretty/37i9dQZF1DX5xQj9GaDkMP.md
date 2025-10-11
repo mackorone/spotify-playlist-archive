@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,958 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,962 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

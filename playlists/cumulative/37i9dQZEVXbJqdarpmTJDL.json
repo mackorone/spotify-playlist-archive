@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 191643,
       "name": "AUTOS",
       "url": "https://open.spotify.com/track/3K0brvOrbwMuHKswfdEzjd"
@@ -6126,7 +6126,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -22264,7 +22264,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -23714,7 +23714,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 185374,
       "name": "Kolopaida",
       "url": "https://open.spotify.com/track/3eEZ6KdHBWtjOGLRll7Nzf"
@@ -26304,7 +26304,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 176374,
       "name": "LOV\u20ac",
       "url": "https://open.spotify.com/track/4VMYNl6ASQD4bsryGRIuKm"
@@ -32157,6 +32157,32 @@
     },
     {
       "album": {
+        "name": "NO MONEY",
+        "url": "https://open.spotify.com/album/4DL4wH7GNyr1VARwD0GC4C"
+      },
+      "artists": [
+        {
+          "name": "eros g",
+          "url": "https://open.spotify.com/artist/3MyjKmwTR6wuFQVsVn7FIP"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "4k Studio",
+          "url": "https://open.spotify.com/artist/1Z2k7DBKGZQGuvuB4RtnOo"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "NO MONEY",
+      "url": "https://open.spotify.com/track/3Q2bqbaXxuSOByg6viEdVi"
+    },
+    {
+      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/2peljNrepnuuVPc8PKSCpE"
       },
@@ -34818,7 +34844,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 202596,
       "name": "Paramithiazome",
       "url": "https://open.spotify.com/track/6U6aKOxwETZ38VVyt4JZLu"
@@ -34920,7 +34946,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 181145,
       "name": "Parapanw",
       "url": "https://open.spotify.com/track/1gGtpSxK6ZYjH00tl0geIU"
@@ -35758,7 +35784,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 257647,
       "name": "Peta Ta",
       "url": "https://open.spotify.com/track/0UFPiis9uHJcYbTVp0hmkB"
@@ -46214,7 +46240,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 139200,
       "name": "TRANQUILA",
       "url": "https://open.spotify.com/track/3wFcRJlyQqaIF0gPfkz3y7"

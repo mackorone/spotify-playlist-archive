@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,838 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,843 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 2 | [3 Uhr Nachts](https://open.spotify.com/track/3UYxIENAasKz3LVwOnTeLX) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [3 Uhr Nachts](https://open.spotify.com/album/7jNfteIpvg0fWLB3HVJu2a) | 2:11 |
-| 3 | [Heul doch](https://open.spotify.com/track/0rMTjAKPEFHzGA9eFk9qpx) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [Heul doch](https://open.spotify.com/album/5CnBlhHd3TiUa0WHSzPaoq) | 2:14 |
-| 4 | [drop body](https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [drop body](https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV) | 2:20 |
+| 3 | [drop body](https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [drop body](https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV) | 2:20 |
+| 4 | [Heul doch](https://open.spotify.com/track/0rMTjAKPEFHzGA9eFk9qpx) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [Heul doch](https://open.spotify.com/album/5CnBlhHd3TiUa0WHSzPaoq) | 2:14 |
 | 5 | [heute nacht sind die hühner wild](https://open.spotify.com/track/41dXUCPkQVcRppmgCbqE15) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [heute nacht sind die hühner wild](https://open.spotify.com/album/5o4YTqa6bW2douWyhKh6I1) | 2:48 |
 | 6 | [Fehler](https://open.spotify.com/track/20s81cl4XtUTiY5ZcCjhik) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Fehler](https://open.spotify.com/album/6X503VDEugjju8qP0WPhPa) | 2:29 |
 | 7 | [Nie wieder](https://open.spotify.com/track/5ZRty3yQvWGDd2YkOOcAJ1) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Nie wieder](https://open.spotify.com/album/7BAhNlFV3TubNxQMyBDMiP) | 2:38 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
 | 18 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
 | 19 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
-| 20 | [1500 km](https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [1500 km](https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds) | 2:06 |
-| 21 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
+| 20 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
+| 21 | [1500 km](https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [1500 km](https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds) | 2:06 |
 | 22 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
 | 23 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 24 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |
 | 35 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
 | 36 | [Sun](https://open.spotify.com/track/5pVwBCaSao2mLhthyDVTc1) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Sun](https://open.spotify.com/album/6q9uLcgSr1lF6QVVxHJzaN) | 3:24 |
-| 37 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |
-| 38 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
+| 37 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
+| 38 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |
 | 39 | [Immer wenn du trinkst](https://open.spotify.com/track/36FFwVZq24okiqI9py4X8p) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Immer wenn du trinkst / Keine Zeit](https://open.spotify.com/album/1J5GWCG3Lxe4s9oDCpvJo0) | 3:34 |
 | 40 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
 | 41 | [Very Far Away](https://open.spotify.com/track/0q9CqWspKpvVkH5OKTbgRS) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Very Far Away EP](https://open.spotify.com/album/37RdgI61BvnCrNqXIUT6zC) | 3:42 |

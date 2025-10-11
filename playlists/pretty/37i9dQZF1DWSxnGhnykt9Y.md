@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,218 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,255 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 3 | [Nanani](https://open.spotify.com/track/12ETuEC0kPFjRuQokNZRjr) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:30 |
 | 4 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
 | 5 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |
-| 6 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 |
+| 6 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 |
 | 7 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 |
 | 8 | [Complicated](https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Dutty Love](https://open.spotify.com/album/175r8elKWemcX0GM1CbOQy) | 2:36 |
 | 9 | [Energy](https://open.spotify.com/track/5JHXByNnfsen3l7tTMvyWK) | [Cyani](https://open.spotify.com/artist/0mz6ypuN2JQnnlQCoxzG3S) | [Energy](https://open.spotify.com/album/1X185nkaY8xM5a3Aw3APRS) | 2:49 |

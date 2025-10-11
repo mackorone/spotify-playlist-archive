@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "A War With Time",
+        "url": "https://open.spotify.com/album/6hHSLpzxyhvw8gzfhURIYd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242329,
+      "name": "A War With Time",
+      "url": "https://open.spotify.com/track/68BFqpvYMNQFtOw0C9zb2s"
+    },
+    {
+      "album": {
         "name": "A Way It Goes",
         "url": "https://open.spotify.com/album/08b8v12BAQgkufaPLV4aHG"
       },
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 198906,
       "name": "Born Runnin' Outta Time",
       "url": "https://open.spotify.com/track/3xlrRVGRVRyLFTcRX3pQxt"
@@ -2717,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/4rlqCscxj5jvxpf5EMGP8f"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232834,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6J5Emc1JlaT7FEntdkKcYW"
+    },
+    {
+      "album": {
         "name": "Manticore",
         "url": "https://open.spotify.com/album/4Cx0ld7IBAM7lqk1FOSv4x"
       },
@@ -3172,7 +3208,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 314080,
       "name": "Damn",
       "url": "https://open.spotify.com/track/2HPQ7sROFMf0GoXkULuNGB"
@@ -5084,6 +5120,24 @@
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
+    },
+    {
+      "album": {
+        "name": "The Pleasantville Sessions",
+        "url": "https://open.spotify.com/album/02EzJitxNC5vFYcob0Zuos"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278862,
+      "name": "Get It Over With",
+      "url": "https://open.spotify.com/track/3U2ssFocMXixGcMyMfCK77"
     },
     {
       "album": {
@@ -8074,7 +8128,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 195436,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2kfEI396BwbyxobN7Xk07u"
@@ -11479,6 +11533,24 @@
     },
     {
       "album": {
+        "name": "Rock N Roll / Haunted Man",
+        "url": "https://open.spotify.com/album/3l8KIv5YxrsljyXcCwdQqf"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190459,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/4U4AljsHfgBk41k7RZkwiz"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq"
       },
@@ -12922,6 +12994,28 @@
       "duration_ms": 208920,
       "name": "Step Into Your Power",
       "url": "https://open.spotify.com/track/4c3DEPn1eHVu9chCQ8tGzC"
+    },
+    {
+      "album": {
+        "name": "Steppin' Outside",
+        "url": "https://open.spotify.com/album/6q5Q3A6v8P1GM7BGe7mRo4"
+      },
+      "artists": [
+        {
+          "name": "Cory Branan",
+          "url": "https://open.spotify.com/artist/0uzmoK3E1j2Cvl9XkFs1JR"
+        },
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Steppin' Outside",
+      "url": "https://open.spotify.com/track/5KjLXIU3ELhRMIKOePOpNH"
     },
     {
       "album": {
@@ -14703,6 +14797,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow Never Knows",
+        "url": "https://open.spotify.com/album/4R0qDqSsyMYaBgGZROF3cp"
+      },
+      "artists": [
+        {
+          "name": "Taylor Rae",
+          "url": "https://open.spotify.com/artist/0t8gj9joeg6gQxxrjf9UDd"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Tomorrow Never Knows",
+      "url": "https://open.spotify.com/track/7inTJO4OcpfYplGKr4BHKc"
+    },
+    {
+      "album": {
         "name": "You're the One",
         "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
       },
@@ -14953,6 +15065,32 @@
     },
     {
       "album": {
+        "name": "Unknown Legend (with The Travelin' McCourys)",
+        "url": "https://open.spotify.com/album/1KCCQLwrwYfyZqUtuvgytg"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208321,
+      "name": "Unknown Legend (with The Travelin' McCourys)",
+      "url": "https://open.spotify.com/track/3iE5gZUcK2TQ7GpXoPskpl"
+    },
+    {
+      "album": {
         "name": "Lines in the Levee",
         "url": "https://open.spotify.com/album/3Kjt0tpYJudd0DgsOciiaQ"
       },
@@ -15088,6 +15226,24 @@
       "duration_ms": 184975,
       "name": "Vampire in Appalachia",
       "url": "https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo"
+    },
+    {
+      "album": {
+        "name": "Waitin' On You",
+        "url": "https://open.spotify.com/album/6jujRiW55qpAOkH7jlKkQO"
+      },
+      "artists": [
+        {
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182229,
+      "name": "Waitin' On You",
+      "url": "https://open.spotify.com/track/2gqnqVpyUXDPrmZ6L3UKGb"
     },
     {
       "album": {

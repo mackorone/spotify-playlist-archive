@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Robert Randolph",
+  "description": "The best of modern blues rock. Cover: Samantha Fish",
   "name": "Modern Blues Rock",
   "tracks": [
     {
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 184445,
       "name": "Burn It To The Ground",
       "url": "https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh"
@@ -1490,6 +1490,24 @@
       "duration_ms": 203000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ"
+    },
+    {
+      "album": {
+        "name": "Paper Doll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177911,
+      "name": "Dead Armadillo",
+      "url": "https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R"
     },
     {
       "album": {
@@ -2791,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Hollow Souls",
+        "url": "https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO"
+      },
+      "artists": [
+        {
+          "name": "Hollow Souls",
+          "url": "https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192043,
+      "name": "I Need The Fire",
+      "url": "https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55"
+    },
+    {
+      "album": {
         "name": "I Need To Be",
         "url": "https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp"
       },
@@ -3604,7 +3640,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 193575,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE"

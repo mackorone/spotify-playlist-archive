@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NICECNX",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "A STAR TO SUPERSTAR",
+        "url": "https://open.spotify.com/album/5ZVp8jh4JMXKcwqMe3bcPU"
+      },
+      "artists": [
+        {
+          "name": "LIL X",
+          "url": "https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214152,
+      "name": "A STAR TO SUPERSTAR",
+      "url": "https://open.spotify.com/track/0a6xIulJaKthHWFCIlU4pl"
+    },
+    {
+      "album": {
         "name": "ABUM",
         "url": "https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 192000,
       "name": "ALL THE NIGHT",
       "url": "https://open.spotify.com/track/5scPARiobpyP6hNPtXzv3y"
@@ -472,6 +490,24 @@
       "duration_ms": 261492,
       "name": "AOW MA",
       "url": "https://open.spotify.com/track/2UUHhINIekqGyesR6c2lQ0"
+    },
+    {
+      "album": {
+        "name": "B.A.N.G",
+        "url": "https://open.spotify.com/album/5FHQX763maJYoxamJ0q2M9"
+      },
+      "artists": [
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "B.A.N.G",
+      "url": "https://open.spotify.com/track/2KG1cNEhpEj73XzGtc8VaE"
     },
     {
       "album": {
@@ -650,7 +686,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 185037,
       "name": "Bangkok vibe",
       "url": "https://open.spotify.com/track/1v0ftsf7iesT8WrdY8A6fs"
@@ -1261,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "COLD NIGHT",
+        "url": "https://open.spotify.com/album/3VbkL7iUIjI3lDpvI9ryOv"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "COLD NIGHT",
+      "url": "https://open.spotify.com/track/1CUkY76dkvcmLOoyegoOC2"
+    },
+    {
+      "album": {
         "name": "MAS|S|TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
       },
@@ -1380,7 +1438,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 234545,
       "name": "D.O. LAND",
       "url": "https://open.spotify.com/track/6iBYU0NWfdKyVDOycRAYbH"
@@ -1758,7 +1816,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 219250,
       "name": "exotic",
       "url": "https://open.spotify.com/track/1z1YcW0oWGbYSHjnWFx4dq"
@@ -2170,6 +2228,28 @@
       "duration_ms": 266753,
       "name": "Galaxy (feat. Kob The X Factor)",
       "url": "https://open.spotify.com/track/7m4O2ffb7Amnk1tQGKeLEH"
+    },
+    {
+      "album": {
+        "name": "Gemmie Green",
+        "url": "https://open.spotify.com/album/18xNF27wmCl5JrjEnSl4Kt"
+      },
+      "artists": [
+        {
+          "name": "PEE CLOCK",
+          "url": "https://open.spotify.com/artist/6cSZFqw3uA0BoCchNwEXZd"
+        },
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191077,
+      "name": "Gemmie Green",
+      "url": "https://open.spotify.com/track/6MAJum3pqKNgSSN261C4rs"
     },
     {
       "album": {
@@ -3992,7 +4072,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 154503,
       "name": "MTV Cribs",
       "url": "https://open.spotify.com/track/3gToQ7uOA6aD7wkAS5nHbu"
@@ -4229,6 +4309,28 @@
     },
     {
       "album": {
+        "name": "Need You 4 Life",
+        "url": "https://open.spotify.com/album/0G3ff1M755MjWGCykydjyj"
+      },
+      "artists": [
+        {
+          "name": "Percy",
+          "url": "https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr"
+        },
+        {
+          "name": "OZEEOOS",
+          "url": "https://open.spotify.com/artist/4hjAFpLZlqKZEJSCHhnWLc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159367,
+      "name": "Need You 4 Life",
+      "url": "https://open.spotify.com/track/30UKs3VHOeC5CTql09WRLr"
+    },
+    {
+      "album": {
         "name": "NERD",
         "url": "https://open.spotify.com/album/05uOoW6bQzuNVvEA2TpaI8"
       },
@@ -4292,6 +4394,28 @@
       "duration_ms": 136000,
       "name": "New Flame",
       "url": "https://open.spotify.com/track/2kFsWpSVMvgYZLw9pqFZRm"
+    },
+    {
+      "album": {
+        "name": "NICECNX-Love 2 deep",
+        "url": "https://open.spotify.com/album/2fGSRrPWpLHqFOgKu83BXN"
+      },
+      "artists": [
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        },
+        {
+          "name": "Jayrun",
+          "url": "https://open.spotify.com/artist/6ZjhHErPU82gGyEzzZvLo5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155185,
+      "name": "NICECNX-Love 2 deep",
+      "url": "https://open.spotify.com/track/2U3gvqLoVxoxahFXlZKVHJ"
     },
     {
       "album": {
@@ -4777,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "ONLY SUNDAY",
+        "url": "https://open.spotify.com/album/071yXJL8elaI9jgC5ECGcr"
+      },
+      "artists": [
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123488,
+      "name": "ONLY SUNDAY",
+      "url": "https://open.spotify.com/track/6ANRF1pTmbCoddwuMmpTLH"
+    },
+    {
+      "album": {
         "name": "Orchids",
         "url": "https://open.spotify.com/album/0nXX5JcfzRM5LNl2UOSffB"
       },
@@ -5000,6 +5142,24 @@
       "duration_ms": 209032,
       "name": "Pongkhun",
       "url": "https://open.spotify.com/track/4aMrNhvxO7Os25BS66p787"
+    },
+    {
+      "album": {
+        "name": "POPPIN MY SHIT",
+        "url": "https://open.spotify.com/album/3ybGUsmrIb0DMOodL4Q7k0"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126461,
+      "name": "POPPIN MY SHIT",
+      "url": "https://open.spotify.com/track/4zUjfOhXe0W1SlbeFkDVHu"
     },
     {
       "album": {
@@ -5482,7 +5642,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 149333,
       "name": "Sanrio",
       "url": "https://open.spotify.com/track/25JwYWJL8hm3M4pIfF4kaE"
@@ -6260,7 +6420,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 167339,
       "name": "Superstar (feat. Z9)",
       "url": "https://open.spotify.com/track/3ZB6TAAnhO4RS9Q1ECedCr"
@@ -6623,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "UR BAE",
+        "url": "https://open.spotify.com/album/2SCTABKOdUJxUX6PCnAMDK"
+      },
+      "artists": [
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "UR BAE",
+      "url": "https://open.spotify.com/track/1xbJZESPfwui9doswRPD3W"
+    },
+    {
+      "album": {
         "name": "URMAN",
         "url": "https://open.spotify.com/album/2pzqeGEXwjmHdF5QKz50Cn"
       },
@@ -6854,7 +7032,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 176000,
       "name": "WHO I AM",
       "url": "https://open.spotify.com/track/1q1FN8EUNzhaEx5CSPkZzn"
@@ -6898,7 +7076,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 199200,
       "name": "WHY U SO BAD",
       "url": "https://open.spotify.com/track/3NDtOLRV2EqypcGndRcsWu"
@@ -6934,7 +7112,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 236619,
       "name": "Winner",
       "url": "https://open.spotify.com/track/0aVqaHDGnUVMk4tYKtGa5Z"
@@ -7578,6 +7756,28 @@
       "duration_ms": 212519,
       "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
       "url": "https://open.spotify.com/track/1WMhiDhSKg2VKUhpeUe4Io"
+    },
+    {
+      "album": {
+        "name": "Inspire Then Die",
+        "url": "https://open.spotify.com/album/6SfdiQYIktUN1Pv2bgs6uC"
+      },
+      "artists": [
+        {
+          "name": "naphat",
+          "url": "https://open.spotify.com/artist/1ByBKKdq5BwGdsjJKCYFt9"
+        },
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "\u0e02\u0e2d\u0e07\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/06HqevIDlJ9geUuVGMPcM6"
     },
     {
       "album": {
@@ -11269,6 +11469,28 @@
     },
     {
       "album": {
+        "name": "CITY BOYZ",
+        "url": "https://open.spotify.com/album/3OLGYezIEv65N0TMfBkvrA"
+      },
+      "artists": [
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        },
+        {
+          "name": "Pondering",
+          "url": "https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (feat. Pondering)",
+      "url": "https://open.spotify.com/track/6fPBfOXfsyCXrfvQMq5C9z"
+    },
+    {
+      "album": {
         "name": "BABY BIG LOVE",
         "url": "https://open.spotify.com/album/47kVPIfYaYJTmqao0uUO4d"
       },
@@ -12124,7 +12346,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 194085,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e19",
       "url": "https://open.spotify.com/track/1LVWzkSUO7x6t9uLmk9Mwk"
@@ -12264,6 +12486,28 @@
       "duration_ms": 157500,
       "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e27\u0e49\u0e32\u0e27\u0e38\u0e48\u0e19",
       "url": "https://open.spotify.com/track/7bPl0qB6bEIXFOnGdWDWPV"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e22\u0e2b\u0e19\u0e32\u0e27",
+        "url": "https://open.spotify.com/album/7mehJkkfvnR6YECGdLPRAZ"
+      },
+      "artists": [
+        {
+          "name": "SURE",
+          "url": "https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0e2b\u0e32\u0e22\u0e2b\u0e19\u0e32\u0e27",
+      "url": "https://open.spotify.com/track/4Jq4ECRqYjZby7Gl754iJy"
     },
     {
       "album": {
@@ -12446,7 +12690,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 244330,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/25a2Lu7yr7UiZjGhCsZBE0"
@@ -13330,10 +13574,32 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 204000,
       "name": "\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/2oHMREPlXr5YvVg69sMTVP"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e2d\u0e1a Carti",
+        "url": "https://open.spotify.com/album/0h9aFnAePkPuGXqjOTApjA"
+      },
+      "artists": [
+        {
+          "name": "MaiMhon",
+          "url": "https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg"
+        },
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e2d\u0e1a Carti",
+      "url": "https://open.spotify.com/track/4vJ44YMYBMuXv16JcCLh6T"
     },
     {
       "album": {
@@ -14152,10 +14418,36 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 145000,
       "name": "\u0e41\u0e04\u0e48\u0e1c\u0e39\u0e49\u0e0a\u0e32\u0e22\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/6bnN3FQoeMYPRVazExnT5k"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49",
+        "url": "https://open.spotify.com/album/2rY0jwLpbidvMUOBuAt83u"
+      },
+      "artists": [
+        {
+          "name": "KRK",
+          "url": "https://open.spotify.com/artist/69jmffWjz5TWglZkReTYJC"
+        },
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        },
+        {
+          "name": "AISXXN",
+          "url": "https://open.spotify.com/artist/63vkuspvn7cpk9eDi8pCna"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230181,
+      "name": "\u0e41\u0e04\u0e48\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49",
+      "url": "https://open.spotify.com/track/4Xrtvtw0eUILFuUqBXLdIb"
     },
     {
       "album": {
@@ -14918,7 +15210,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 240000,
       "name": "\u0e44\u0e01\u0e25\u0e22\u0e34\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32",
       "url": "https://open.spotify.com/track/3c2jnKR0qG7d3YYw9buSzQ"
@@ -15116,6 +15408,24 @@
       "duration_ms": 221425,
       "name": "\u0e44\u0e1b\u0e1f\u0e34\u0e15\u0e01\u0e31\u0e19\u0e1b\u0e48\u0e32\u0e27",
       "url": "https://open.spotify.com/track/7HFltadycKCeV43hYpgUOg"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e1f\u0e40\u0e1c\u0e32",
+        "url": "https://open.spotify.com/album/12cjqWDbdiONzmToxXcVox"
+      },
+      "artists": [
+        {
+          "name": "Young J",
+          "url": "https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "\u0e44\u0e1f\u0e40\u0e1c\u0e32",
+      "url": "https://open.spotify.com/track/4vd8VBNbaWQhTrB2IhtwTc"
     },
     {
       "album": {

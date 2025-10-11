@@ -57,6 +57,24 @@
     },
     {
       "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
+    },
+    {
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 177156,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 133280,
       "name": "remember (my name)",
       "url": "https://open.spotify.com/track/5pXJ82WRuuoizkkW1RJZuz"
@@ -3246,6 +3264,28 @@
       "duration_ms": 139153,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268979,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,351 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,352 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 27 | [Party Forever](https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Party Forever](https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h) | 3:22 |
 | 28 | [Flower Cafe \(feat.Sam Ock, I.M\)](https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Flower Cafe](https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd) | 3:07 |
 | 29 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
-| 30 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
-| 31 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [LEE SUREEN](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
+| 30 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [LEE SUREEN](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
+| 31 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
 | 32 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
 | 33 | [Revenge Season \(Feat\. Chillin Homie\)](https://open.spotify.com/track/0zViWFqw7P41WTPwj4Nvse) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [＋](https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c) | 3:52 |
 | 34 | [Daydreamin \(Feat\. sogumm & Woo\) \(Prod\. Yosi & CODE KUNST\)](https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:00 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 45 | [Price Tag \(feat\. Jessi, Ja Mezz\)](https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Summer Grooves](https://open.spotify.com/album/5I13UDFjkrH0U9btBd4Mey) | 3:41 |
 | 46 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 | 47 | [Light](https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Millionaire Poetry](https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv) | 3:20 |
-| 48 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
-| 49 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
-| 50 | [Sideways](https://open.spotify.com/track/3C1RXABEwAoH9Dnnx21UYt) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Unmasked \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7jZ8IeruG5vaEFfkJnx1gR) | 2:45 |
+| 48 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
+| 49 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
+| 50 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 |
 
 Snapshot ID: `AAAAAH+tC17Z+RYv1UrsYG+zQuF1wqm1`

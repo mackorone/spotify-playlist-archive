@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> La tierra del Rap de oro puro\. Luis R Conriquez en portada
+> La tierra del Rap de oro puro\. Victor Mendivil en portada
 
 155 songs - 9 hr 32 min
 

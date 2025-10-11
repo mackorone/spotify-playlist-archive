@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 297826,
+  "num_followers": 297823,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Vida Rockstar",
-      "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 247375,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Vida Rockstar",
+      "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -223,18 +223,22 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Historia de Amor",
-        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
       "artists": [
         {
-          "name": "Franno",
-          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 214990,
-      "name": "Vuelve con \u00c9l",
-      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -259,26 +263,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "Y Ca\u00edste",
         "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 292846,
       "name": "Y Ca\u00edste",
       "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
+      },
+      "artists": [
+        {
+          "name": "Franno",
+          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+        }
+      ],
+      "duration_ms": 214990,
+      "name": "Vuelve con \u00c9l",
+      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
-      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
+      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Esa Estrella",
-        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 238232,
-      "name": "Esa Estrella",
-      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "Nuestro A\u00f1o",
         "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 171945,
       "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
       "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Esa Estrella",
+        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 238232,
+      "name": "Esa Estrella",
+      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 233751,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Bajo Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 247947,
-      "name": "Bajo Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 214168,
       "name": "Mirando al techo",
       "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     }
   ],
   "unique_name": "Rock Total",

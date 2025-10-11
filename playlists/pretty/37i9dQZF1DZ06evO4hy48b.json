@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 227033,
+  "num_followers": 227053,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABoVjQ1CyOvhrDGY61QRook",
+  "snapshot_id": "aOb7AAAAAADl/xRyidTcoFxKao4tI0we",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3rWWF7X1dmciBHxZ9Yizs1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 219354,
       "name": "+ (M\u00c1S)",
       "url": "https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3rWWF7X1dmciBHxZ9Yizs1"
     },
     {
       "added_at": null,

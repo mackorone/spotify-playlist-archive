@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 502781,
+  "num_followers": 502825,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACjt+PKPS76PDHQod2hz8BN",
+  "snapshot_id": "aOb7AAAAAAAQ6w/PbRHkVHl1zqUfGmr+",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+        "name": "Broadway-Blues-Ballads",
+        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+      "duration_ms": 166200,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadway-Blues-Ballads",
-        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB"
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "I Want a Little Sugar In My Bowl",
-      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 158200,
       "name": "Nobody Knows You When You're Down And Out",
       "url": "https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "I Want a Little Sugar In My Bowl",
+      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 235760,
       "name": "If I Should Lose You",
       "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": null,

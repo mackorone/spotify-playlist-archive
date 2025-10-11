@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83467,
+  "num_followers": 83487,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABNEZ9jj7Tc4I9XrCS0OQzf",
+  "snapshot_id": "aOb7AAAAAAA4QpponC7jKl5BC2sKaQtT",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Generator",
-        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 203733,
       "name": "Los Angeles Is Burning",
       "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 177693,
-      "name": "Let Them Eat War",
-      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 95697,
       "name": "1000 More Fools",
       "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 177693,
+      "name": "Let Them Eat War",
+      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 239813,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -644,41 +644,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 177680,
-      "name": "All There Is",
-      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Against the Grain",
-      "url": "https://open.spotify.com/track/2lxtb9Qgr7WvyhAdyYEXRF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -699,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
       "artists": [
         {
@@ -708,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 164489,
-      "name": "What Can You Do?",
-      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
+      "duration_ms": 161546,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
     },
     {
       "added_at": null,
@@ -727,6 +695,22 @@
       "duration_ms": 97640,
       "name": "God Song",
       "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 164489,
+      "name": "What Can You Do?",
+      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 117652,
-      "name": "Atheist Peace",
-      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
@@ -795,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 117652,
+      "name": "Atheist Peace",
+      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Could Hell Be Any Worse? (2005 Remaster)",
         "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 168773,
       "name": "Fuck Armageddon...This Is Hell",
       "url": "https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Against the Grain",
+      "url": "https://open.spotify.com/track/2lxtb9Qgr7WvyhAdyYEXRF"
     }
   ],
   "unique_name": "This Is Bad Religion",

@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 345417,
+  "num_followers": 345926,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABiMLVqhlaRFr+UqEClkNcj",
+  "snapshot_id": "aOb7AAAAAADP9dh5ipnvFUd+RKcbCvrF",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 167373,
       "name": "what's your problem?",
       "url": "https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "vicious",
-        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "vicious",
-      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "vicious",
+        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 182929,
+      "name": "vicious",
+      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "tear myself apart",
-      "url": "https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 166946,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "tear myself apart",
+      "url": "https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9"
     },
     {
       "added_at": null,

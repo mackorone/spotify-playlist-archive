@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,461 likes - 126 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,494 likes - 126 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lys Levende](https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [](https://open.spotify.com/album/null) | 2:52 |
+| 1 | [Lys Levende](https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Blueprint](https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv) | 2:52 |
 | 2 | [SOS](https://open.spotify.com/track/4rPzC5pYU0MYzNys1VCQ2U) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SOS](https://open.spotify.com/album/6HCFm5uTyOQVENK6Fizxyi) | 2:09 |
 | 3 | [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 |
 | 4 | [Se På Meg](https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Se På Meg](https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656) | 2:39 |

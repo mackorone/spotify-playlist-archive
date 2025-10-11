@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkukgVZ41LA.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw?si=2088df0495e74724">Knocked Loose's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,706 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,709 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkukgVZ41LA.md) - [plain]
 | 12 | [It's Cool](https://open.spotify.com/track/6brT17UE9f1LfJ7iH8aonE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:23 |
 | 13 | [Stigmata](https://open.spotify.com/track/5OfrfurDE91gVb8PlCDohW) | [Lukah](https://open.spotify.com/artist/4kXGF3u3kGDHDoLmbdvUzS), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Stigmata](https://open.spotify.com/album/19aKJrYRUwW0UQhJd1Ou4g) | 2:36 |
 | 14 | [Collapsing Skies](https://open.spotify.com/track/06PxSbUUwFJwIvXBU4jC0i) | [Disentomb](https://open.spotify.com/artist/1shYFELmbMiLx0KpwTvBbW) | [The Decaying Light](https://open.spotify.com/album/2hOBcgLluNhYCBN71yx1Kr) | 2:01 |
-| 15 | [Crying Laughing Loving Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
+| 15 | [Crying Laughing Loving Lying \(From "The Holdovers"\)](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
 | 16 | [Grim Heart/ Black Rose](https://open.spotify.com/track/5iePpT0jKdeCnvndMAwrwn) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [No Heroes](https://open.spotify.com/album/3PIBxOZOqpmcx1zpwsEPMY) | 9:34 |
 | 17 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 18 | [3AM \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3gMT6S3Ane5krWi906kltU) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Brandon Banks](https://open.spotify.com/album/2E5FdSQ0pyo7LHW7XxMYUi) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13185,
+  "num_followers": 13189,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACyyuvaL7kDx5HozLPyTVvh",
+  "snapshot_id": "aOb7AAAAAACth4KzopoTtnnntZF5JO9T",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 448960,
-      "name": "Laban",
-      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
+      "duration_ms": 358173,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 358173,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc"
+      "duration_ms": 448960,
+      "name": "Laban",
+      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 328080,
-      "name": "San Ka Na",
-      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
+      "duration_ms": 254880,
+      "name": "Dj\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
     },
     {
       "added_at": null,
@@ -476,9 +476,25 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Dj\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
+      "duration_ms": 328080,
+      "name": "San Ka Na",
+      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 304944,
+      "name": "Syrie",
+      "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
     },
     {
       "added_at": null,
@@ -515,38 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 349933,
-      "name": "Tu vas me manquer",
-      "url": "https://open.spotify.com/track/06ulHZy7LxFa5WHOb0ywWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 304944,
-      "name": "Syrie",
-      "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 245320,
       "name": "La diff\u00e9rence",
       "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 349933,
+      "name": "Tu vas me manquer",
+      "url": "https://open.spotify.com/track/06ulHZy7LxFa5WHOb0ywWT"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moffou (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Iniagige",
-      "url": "https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soro",
         "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 289333,
       "name": "Sina (Soumbouya)",
       "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moffou (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Iniagige",
+      "url": "https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI"
     },
     {
       "added_at": null,

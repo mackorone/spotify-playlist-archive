@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > é Carnaval 24h por dia com a energia do GG da Bahia!! Criada por <a href="spotify:artist:7KVJCU4z5L4EUHILL8aMxR"> Léo Santana</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,702 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,638 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4701,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "In Numbers",
+        "url": "https://open.spotify.com/album/5DsFwwdySfCi1df9m4sO3P"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237859,
+      "name": "In Numbers",
+      "url": "https://open.spotify.com/track/1oX2bQXVpS5vziV3bz0VaI"
+    },
+    {
+      "album": {
         "name": "In the Morning",
         "url": "https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu"
       },

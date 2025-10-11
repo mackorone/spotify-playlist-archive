@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 여러분의 인생 BGM은 무엇인가요?<a href="https://open.spotify.com/site/mylifebgm"> 링크</a>를 통해 확인해 보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,479 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,475 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

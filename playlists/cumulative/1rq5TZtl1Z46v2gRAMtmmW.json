@@ -7863,6 +7863,28 @@
     },
     {
       "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },

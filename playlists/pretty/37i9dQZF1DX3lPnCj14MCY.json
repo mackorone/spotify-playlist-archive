@@ -1,6 +1,6 @@
 {
   "description": "Embrace all colours with your favourite anthems. \"Let's have a kiki!\"",
-  "num_followers": 39510,
+  "num_followers": 39516,
   "original_name": "Rainbow Mix",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -219,8 +219,8 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -307,8 +307,8 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 274466,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Free Spirit",
         "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 197573,
       "name": "Talk (feat. Disclosure)",
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "True Confessions (Collector's Edition)",
-        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 229164,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 238173,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Go West - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Go West - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "All About That Bass",
-        "url": "https://open.spotify.com/album/2Gf7TGoOt6FyRi7p32OzUM"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 188754,
-      "name": "All About That Bass",
-      "url": "https://open.spotify.com/track/0ifSeVGUr7py5GggttDhXw"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "All About That Bass",
+        "url": "https://open.spotify.com/album/2Gf7TGoOt6FyRi7p32OzUM"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 188754,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/0ifSeVGUr7py5GggttDhXw"
     },
     {
       "added_at": "2025-06-20 09:42:39",

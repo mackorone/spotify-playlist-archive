@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Crescendo
 
-5,125 songs - 13 day 1 hr 51 min
+5,126 songs - 13 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [Bukan Aku](https://open.spotify.com/track/6RBpsM5Sf81BoQwbHdbbnR) | [Nabila Ellisa](https://open.spotify.com/artist/7MwrsCIC6ViKMHiVFNJw5Q) | [Bukan Aku](https://open.spotify.com/album/2gEyMmHsHPAjVmyuXaPfBn) | 5:02 | 2025-07-24 | 2025-08-23 |
 | [Bukan Balapan](https://open.spotify.com/track/69IQ8VkYDceOsp1zD4veuU) | [Mello Chillo](https://open.spotify.com/artist/6uyrJ0DHlnfqFZVJnUeuzI) | [Bukan Balapan](https://open.spotify.com/album/27j2bhOgDOlkvWGFISLeLI) | 2:53 | 2024-06-06 | 2024-06-29 |
 | [Bukan Buaya](https://open.spotify.com/track/7tGcxxAD9r46j9AiUtEvV1) | [Jims Wong](https://open.spotify.com/artist/0PhwXdWPBimWQVG65v9KiF), [Bonie MC](https://open.spotify.com/artist/7I5pBsFBgP4ErGCK76EIUh), [Roselyn](https://open.spotify.com/artist/3LcguB18UxHG5kGWBHEvbx) | [Bukan Buaya](https://open.spotify.com/album/50AmxXECl7BJIVCmfg2Oq8) | 3:46 | 2022-05-05 | 2022-05-20 |
+| [Bukan Cinta Setengah Hati](https://open.spotify.com/track/42XTnp72BNrF6juZY6pda0) | [Almira Andani](https://open.spotify.com/artist/77qL4Ln5OJAOmI3xvUeJL2) | [Bukan Cinta Setengah Hati](https://open.spotify.com/album/6JwqWZD66HJNrRfQXgS5UU) | 3:21 | 2025-10-09 |  |
 | [Bukan Cuma Kamu](https://open.spotify.com/track/1ayVzA9ySC1ldK5BSdPCrx) | [Faiz Affandy](https://open.spotify.com/artist/6WuFwI0WI0VDJFRTxqKu5F) | [Bukan Cuma Kamu](https://open.spotify.com/album/3xtu428GrxTaJ4JaNlGn7s) | 3:12 | 2023-05-11 | 2023-05-26 |
 | [Bukan Dewa](https://open.spotify.com/track/1cwSuscdFTjxKSfugDH39y) | [Age Adilla](https://open.spotify.com/artist/7oNWTxlhnUNeOGKUV417xG) | [9](https://open.spotify.com/album/76KO5GkSDnO87QUecSOeIT) | 4:05 | 2023-06-15 | 2023-06-30 |
 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/6tuGaEiX1NDOPtFmndi6FT) | [Aulia Rahman](https://open.spotify.com/artist/1HTshF70aKp0eayJXUx82u) | [Bukan Dia Tapi Aku](https://open.spotify.com/album/642DrxWUa6IKSD9Ru4CWGP) | 4:08 | 2024-09-13 | 2024-10-12 |

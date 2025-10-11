@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,526 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,530 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [](https://open.spotify.com/album/null) | 4:06 |
+| 1 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 |
 | 2 | [Vähän enemmän](https://open.spotify.com/track/7oZUbH4QyiNtW8L9ibZFHH) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Vähän enemmän](https://open.spotify.com/album/0QNhV8mz6qAYwFZnfAbASR) | 3:07 |
 | 3 | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 |
 | 4 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
 | 5 | [Ahdistuksen aika](https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Melankolisten laulujen klubi](https://open.spotify.com/album/1KT2gnd5CxHspMm9YNDsmk) | 4:52 |
 | 6 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
 | 7 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 8 | [Track 3](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
 | 9 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 10 | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7FUgrkjZ2S7YYeXGvaFlsn) | 3:15 |
 | 11 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 |

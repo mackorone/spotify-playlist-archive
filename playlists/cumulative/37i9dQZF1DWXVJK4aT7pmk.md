@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover \- Navaan Sandhu
+> Catch the hottest Punjabi tracks\. Cover \- Param
 
-180 songs - 9 hr 8 min
+181 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-11 | 2025-08-30 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-01-24 | 2025-07-19 |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2024-01-04 | 2025-02-22 |
+| [Aadat \(Feat\. AP Dhillon\)](https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:40 | 2025-10-10 |  |
 | [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 | 2024-01-04 | 2025-02-22 |
 | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC) | 3:15 | 2024-12-13 |  |
 | [Addicted](https://open.spotify.com/track/2tgW8udFzoWL0iEgkzIqYo) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Broken Silence](https://open.spotify.com/album/4dilkeP7GygdqyRpha2On6) | 2:45 | 2024-04-25 | 2024-05-14 |
@@ -125,7 +126,7 @@
 | [O Shera \- Teer Te Taj \(Film Version\) \- From "Kesari Chapter 2"](https://open.spotify.com/track/0bEGXuQwXNF61JDXP47h9i) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sangtar](https://open.spotify.com/artist/0DhoozKChWygwuEQKGagwl), [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5), [Kamal Heer](https://open.spotify.com/artist/2S3lVn4PcnGcbKKu7nsDL6), [Sukhwinder Amrit](https://open.spotify.com/artist/6Ok2Tk9CyqWrWOZFcnMG72) | [O Shera \- Teer Te Taj \(Film Version\) \[From "Kesari Chapter 2"\]](https://open.spotify.com/album/26sc7lMVSZk8jHnLDqdLjH) | 2:32 | 2025-05-09 | 2025-06-21 |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2024-01-04 | 2024-11-15 |
 | [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-21 |  |
-| [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-30 |  |
+| [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-30 | 2025-10-11 |
 | [On Top](https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1) | 3:03 | 2024-04-18 | 2024-11-15 |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2024-01-04 | 2024-04-19 |
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2024-01-04 | 2025-01-25 |

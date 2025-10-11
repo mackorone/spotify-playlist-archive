@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: JIALING
 
-413 songs - 1 day 1 hr 29 min
+414 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 | 2025-09-12 |  |
 | [Feel The Love \(Pride Anthem 2025\)](https://open.spotify.com/track/4CVlaXv9huD30ej1FRZrfg) | [Darling Peter](https://open.spotify.com/artist/4O90Cf3lov9pVYyp6N5kVi), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Feel The Love \(Pride Anthem 2025\)](https://open.spotify.com/album/125ngQTOTFMIowcWMGD8Wv) | 3:00 | 2025-04-25 | 2025-06-21 |
 | [Feeling](https://open.spotify.com/track/3iYbR4Pk129oLJoOwlNxFZ) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [DJ Failure](https://open.spotify.com/artist/5CzlPFyjOEHl6oa223hMAY) | [Feeling](https://open.spotify.com/album/1SRMHsdO1q9JfZ2cosSUHc) | 3:12 | 2025-07-11 |  |
-| [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2024-06-14 |  |
+| [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2024-06-14 | 2025-10-11 |
 | [Feral](https://open.spotify.com/track/4QiiW2b1WvzxZWD4KTCJNj) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Feral](https://open.spotify.com/album/5Zfo9kRvYbXmI9euFtAYLe) | 3:28 | 2025-09-12 |  |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2021-10-15 | 2024-06-01 |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-10-15 | 2023-06-02 |
@@ -305,6 +305,7 @@
 | [PRETTY GIRL PARTY](https://open.spotify.com/track/05pY7oV9FTyS2gCGdUR32Z) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [So Dramatic](https://open.spotify.com/album/3AptlscWlH1LNL9P5qP7gp) | 2:41 | 2024-09-06 | 2025-02-01 |
 | [PRETTY GIRLS WANT IT HARD](https://open.spotify.com/track/1QnL8rwfB4DsubtuxG1rVb) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [PRETTY GIRLS WANT IT HARD](https://open.spotify.com/album/5Ynx4KUIi3AALNlywPsA8k) | 2:59 | 2024-09-13 | 2025-01-25 |
 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-05-30 | 2025-07-12 |
+| [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw) | 2:54 | 2025-10-10 |  |
 | [Puta](https://open.spotify.com/track/5u7QDciPfgcpmoqRtp6zk6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:41 | 2025-06-06 |  |
 | [Puta](https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Puta](https://open.spotify.com/album/6kbzIKqCQP7tdb2ncGcWEv) | 2:33 | 2024-06-21 |  |
 | [Puta Romántica](https://open.spotify.com/track/4llkS4ssWQCnHfBjy7nCln) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [DJ Kelvin El Sacamostro](https://open.spotify.com/artist/6DJyhClLATkdn3UhSDbrtv) | [Puta Romántica](https://open.spotify.com/album/5WcuAbd6Te3ysEcOtiwKAu) | 3:04 | 2024-10-25 | 2025-05-31 |

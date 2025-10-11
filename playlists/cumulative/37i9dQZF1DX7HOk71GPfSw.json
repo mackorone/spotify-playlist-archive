@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Wrong Until Right",
+        "url": "https://open.spotify.com/album/4j0RHtVrx8INqXLZrr1CCs"
+      },
+      "artists": [
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141605,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/3eAO9ikD1UCnLA8nakwMji"
+    },
+    {
+      "album": {
         "name": "4MOODss",
         "url": "https://open.spotify.com/album/0XFtDRtGSUWvx89Mo4l6T1"
       },
@@ -11998,7 +12020,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 155903,
       "name": "Doom Culture",
       "url": "https://open.spotify.com/track/5BUmnVS1NK0Bx2L3jKRBjP"
@@ -24231,6 +24253,24 @@
     },
     {
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/3LzqpJcImi7ekDiZixDbMe"
+      },
+      "artists": [
+        {
+          "name": "berryblue",
+          "url": "https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119134,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2HMRUtjmG5Y9DmDLKbbXG1"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/2zrIegtn8KHNd1MlBEmXK6"
       },
@@ -27144,7 +27184,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 183430,
       "name": "l\u00ednea madrugada",
       "url": "https://open.spotify.com/track/5HHSIMPJASiS6DHBbS4iI1"
@@ -28730,6 +28770,24 @@
       "duration_ms": 164053,
       "name": "Miss U Being Mine",
       "url": "https://open.spotify.com/track/2U9Pv4iaZwfDgTC8y2LppH"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/63z2McWDqC8jLc2vFNZIBW"
+      },
+      "artists": [
+        {
+          "name": "Ethanplus",
+          "url": "https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108862,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ"
     },
     {
       "album": {
@@ -33354,7 +33412,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 190926,
       "name": "Pink",
       "url": "https://open.spotify.com/track/5T1XbCkiQlobUQnmXTZ3q6"

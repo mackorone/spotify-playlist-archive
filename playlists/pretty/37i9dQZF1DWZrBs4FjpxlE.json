@@ -1,13 +1,29 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 128378,
+  "num_followers": 128393,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEhNSYV1bMMPhdVRSFsL1zNYEu+",
+  "snapshot_id": "AAAAADSPJOMBgurdBJ3bKF2m4l0/M9Hb",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ"
+    },
     {
       "added_at": "2025-08-15 04:00:07",
       "album": {
@@ -31,26 +47,6 @@
       "duration_ms": 133305,
       "name": "it always ends in heartbreak",
       "url": "https://open.spotify.com/track/6btrmNDwfgdXQ5wj8uG185"
-    },
-    {
-      "added_at": "2025-07-04 04:00:18",
-      "album": {
-        "name": "losing interest",
-        "url": "https://open.spotify.com/album/3busZjyakCpZP68UbSVywY"
-      },
-      "artists": [
-        {
-          "name": "zown",
-          "url": "https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 107823,
-      "name": "losing interest",
-      "url": "https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf"
     },
     {
       "added_at": "2025-05-30 04:00:22",
@@ -85,6 +81,42 @@
       "url": "https://open.spotify.com/track/4R4mceIGxEzPLhUArgAF7v"
     },
     {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ"
+      },
+      "artists": [
+        {
+          "name": "zown",
+          "url": "https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 115937,
+      "name": "again",
+      "url": "https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+    },
+    {
       "added_at": "2025-09-11 21:07:18",
       "album": {
         "name": "Don't Pretend",
@@ -99,38 +131,6 @@
       "duration_ms": 164400,
       "name": "Don't Pretend",
       "url": "https://open.spotify.com/track/0cDE1IzAH6OsPpwLKT1l6t"
-    },
-    {
-      "added_at": "2025-09-19 04:00:35",
-      "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "Not Getting Better",
-        "url": "https://open.spotify.com/album/02Fi5JDPyEl2LzZByBaFj4"
-      },
-      "artists": [
-        {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
-        }
-      ],
-      "duration_ms": 195879,
-      "name": "Not Getting Better",
-      "url": "https://open.spotify.com/track/0l1w6Ukv7YBrkgcppMcseq"
     },
     {
       "added_at": "2025-09-19 04:00:35",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2025-03-28 04:00:28",
@@ -187,22 +187,6 @@
       "duration_ms": 185640,
       "name": "STRUGGLING",
       "url": "https://open.spotify.com/track/0hvzHfDeNjxE2cDlZObr6H"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -259,6 +243,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -273,20 +273,24 @@
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2025-07-04 04:00:18",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "losing interest",
+        "url": "https://open.spotify.com/album/3busZjyakCpZP68UbSVywY"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "zown",
+          "url": "https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+      "duration_ms": 107823,
+      "name": "losing interest",
+      "url": "https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -763,22 +767,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "deadroses",
-        "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "idfc",
-      "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -795,6 +783,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "deadroses",
+        "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "idfc",
+      "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -807,22 +811,6 @@
       "duration_ms": 240013,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -855,6 +843,22 @@
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     }
   ],
   "unique_name": "sad boy anthems",

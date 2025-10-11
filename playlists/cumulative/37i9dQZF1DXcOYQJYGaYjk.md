@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-232 songs - 15 hr 12 min
+233 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 | 2022-04-28 | 2022-11-13 |
 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 | 2022-11-16 | 2024-04-19 |
 | [Closure](https://open.spotify.com/track/3PPplhaIqLtFPb2vZCHu9Y) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Closure](https://open.spotify.com/album/2zORPlfjurmM0Wgh1Nniix) | 4:06 | 2022-06-16 | 2022-07-20 |
-| [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 | 2022-04-28 |  |
+| [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 | 2022-04-28 | 2025-10-11 |
 | [Colourblind](https://open.spotify.com/track/4WqH5v9wBfFeV7DraHJFny) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Dissonants](https://open.spotify.com/album/4dJ9EL9Y3HtJfjfrNjurXO) | 3:42 | 2022-06-01 | 2022-07-27 |
 | [Continuum](https://open.spotify.com/track/4g4byRNvlCBXrycixNFNcx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY) | 4:20 | 2024-04-24 |  |
 | [Counterfeit](https://open.spotify.com/track/02KS93L0i9PxtP17FAfDCN) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 2:52 | 2022-04-28 | 2024-04-24 |
@@ -218,6 +218,7 @@
 | [The Vengeful One](https://open.spotify.com/track/5tz5QsHPkv69T1scq2utZZ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:12 | 2022-04-28 | 2024-04-24 |
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 | 2024-04-24 |  |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2022-04-28 |  |
+| [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o) | [2XKO](https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO) | 3:51 | 2025-10-10 |  |
 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 | 2022-04-28 | 2022-05-13 |
 | [Trapped](https://open.spotify.com/track/0COnTxJkjs9DkiIKYTXmqv) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Dark Matter](https://open.spotify.com/album/773YYuhtcxIt4wqBVnsOgk) | 3:56 | 2022-04-28 | 2022-07-23 |
 | [Uber](https://open.spotify.com/track/04iX6F51I3EVfTn3QX4Qka) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:31 | 2022-04-28 | 2024-04-24 |

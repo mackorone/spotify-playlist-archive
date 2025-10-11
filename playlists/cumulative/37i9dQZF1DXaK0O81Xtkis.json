@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Henry Moodie",
+  "description": "a little indie, a little pop, soda featuring MICO and Haiden Henderson",
   "name": "soda",
   "tracks": [
     {
@@ -11561,6 +11561,24 @@
     },
     {
       "album": {
+        "name": "EARWORM",
+        "url": "https://open.spotify.com/album/0oJB399Gh1l7rlzJXbsF85"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198665,
+      "name": "I KINDA LIKE THAT",
+      "url": "https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5"
+    },
+    {
+      "album": {
         "name": "I Like That",
         "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
       },
@@ -17977,6 +17995,28 @@
     },
     {
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/7ycd7aaioLGruOwzSd5bw6"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        },
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195982,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/5YtYSUSeKI6jgNlY9Dprmr"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/0t1vCr6b7CmKEjGOZNOR5p"
       },
@@ -18562,6 +18602,24 @@
       "duration_ms": 206185,
       "name": "POINT",
       "url": "https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G"
+    },
+    {
+      "album": {
+        "name": "kids",
+        "url": "https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "pollen",
+      "url": "https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp"
     },
     {
       "album": {
@@ -21090,7 +21148,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 144706,
       "name": "sore throat",
       "url": "https://open.spotify.com/track/3RdB7tA0M8IPDqZYoDdqAx"

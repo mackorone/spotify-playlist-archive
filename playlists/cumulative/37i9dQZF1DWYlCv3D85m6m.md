@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-268 songs - 14 hr 18 min
+279 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2022-03-24 |  |
 | [Alcohol\-Free \(English ver.\)](https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:30 | 2023-12-12 |  |
 | [Alcohol\-Free \- Japanese ver.](https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:33 | 2022-03-24 |  |
+| [ATM \(JIHYO\)](https://open.spotify.com/track/5vbDdEISLhw7PP4Zr4NePE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 3:36 | 2025-10-10 |  |
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2022-03-24 |  |
 | [Basics](https://open.spotify.com/track/3HLIZfLpwoTeadk5FpDle5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:56 | 2024-02-23 |  |
 | [Basics](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:56 | 2022-08-26 | 2024-04-19 |
@@ -30,6 +31,7 @@
 | [BETTER](https://open.spotify.com/track/0rSMzlAKNapoat4NdZYmi3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETTER](https://open.spotify.com/album/2jOvgj6NJc1l5SBApgFaZC) | 3:43 | 2022-03-24 |  |
 | [BETTER](https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:43 | 2022-03-24 |  |
 | [BLAME IT ON ME](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:40 | 2023-03-10 |  |
+| [Blink \(feat\. TZUYU\)](https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj), [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [Blink \(feat\. TZUYU\)](https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB) | 2:42 | 2025-10-10 |  |
 | [BLOOM](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:23 | 2024-02-23 |  |
 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-25 |  |
 | [Brave](https://open.spotify.com/track/0MnWI4RRh1lEX24rIKaCuV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 3:09 | 2024-02-23 |  |
@@ -46,6 +48,7 @@
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-15 |  |
 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 | 2022-07-19 | 2024-04-19 |
 | [CHEER UP](https://open.spotify.com/track/6jIpuClSFwyBoGTwwpkKU5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/4Sm5OwvCBTMxG88fyfOr0T) | 3:28 | 2022-03-24 |  |
+| [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 | 2025-10-10 |  |
 | [CHILLAX](https://open.spotify.com/track/4ujRbi0U14b4BjZhUOlTDK) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:06 | 2022-03-24 |  |
 | [CHILLAX](https://open.spotify.com/track/4TsOQZGMRCVUhS7cNzhdVF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:06 | 2022-07-19 | 2024-04-19 |
 | [Conversation](https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:27 | 2022-03-24 |  |
@@ -59,9 +62,11 @@
 | [Dance The Night Away](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:00 | 2022-07-19 | 2024-04-19 |
 | [Dance The Night Away](https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:00 | 2022-03-24 |  |
 | [DAT AHH DAT OOH \(SANA, JIHYO, DAHYUN, CHAEYOUNG, TZUYU\)](https://open.spotify.com/track/1quFrCbtzbvBWHsH8kCaYR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:28 | 2025-07-15 |  |
+| [DECAFFEINATED \(SANA\)](https://open.spotify.com/track/3o4wHpmd3zXoK12ts8W6A1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 3:00 | 2025-10-10 |  |
 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 | 2022-07-19 | 2024-04-19 |
 | [DEPEND ON YOU](https://open.spotify.com/track/7aTIF2pMy1hEs3r2ewcYGd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:18 | 2022-03-24 |  |
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-09 |  |
+| [DIVE IN \(TZUYU\)](https://open.spotify.com/track/1268f7A3rHyfolrzmoOhPW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:44 | 2025-10-10 |  |
 | [Do not touch](https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Do not touch](https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq) | 3:05 | 2023-07-13 |  |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/4lqT9X8AYH3svpFQlEPicl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:59 | 2022-03-24 |  |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:59 | 2022-07-19 | 2024-04-19 |
@@ -83,6 +88,7 @@
 | [FIREWORK](https://open.spotify.com/track/5NhDDt5Zy8yGOECN3PLRdE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:13 | 2022-07-19 | 2024-04-19 |
 | [FIREWORK](https://open.spotify.com/track/7iXrqFaV5tK4Fri4mrO8jP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:13 | 2022-03-24 |  |
 | [First Time](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:02 | 2022-03-24 |  |
+| [FIX A DRINK \(JEONGYEON\)](https://open.spotify.com/track/4x4cCV6mYMw1aJWyCQU9AT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:58 | 2025-10-10 |  |
 | [FOUR](https://open.spotify.com/track/7fYp5EAVL3dYkaCk23HXXF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 1:45 | 2025-07-15 |  |
 | [Four\-leaf Clover](https://open.spotify.com/track/4kfWbVi5ND1FOUoN6LK5Es) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:47 | 2022-03-24 |  |
 | [G.O.A.T\. \(MINA, DAHYUN, CHAEYOUNG\)](https://open.spotify.com/track/2k1l9qzdine1tjWi0i3Jip) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:25 | 2025-07-15 |  |
@@ -120,6 +126,7 @@
 | [ICON](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:56 | 2022-07-19 | 2024-04-19 |
 | [ICON](https://open.spotify.com/track/78vV5Ww5jmY2BF8lHzAN3A) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 2:56 | 2022-03-24 |  |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-31 |  |
+| [IN MY ROOM \(CHAEYOUNG\)](https://open.spotify.com/track/58ZM7GaPaKZfw2XbZSs8oO) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:49 | 2025-10-10 |  |
 | [In the summer](https://open.spotify.com/track/04LlwbQp31hLQ6meYbP19t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:30 | 2022-03-24 |  |
 | [Jelly Jelly](https://open.spotify.com/track/2GJxT761mGTQocouI2oLTe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:30 | 2022-03-24 |  |
 | [Jelly Jelly](https://open.spotify.com/track/7a2QLFestFOeQ03xBBX6E0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:30 | 2022-07-19 | 2024-04-19 |
@@ -149,6 +156,8 @@
 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/3TNlo9OEKQxBA9Ctghiz4r) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:35 | 2024-10-25 |  |
 | [MARS](https://open.spotify.com/track/1DyHKCYhRQZWK0dgebOBNo) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:21 | 2025-07-15 |  |
 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-21 |  |
+| [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 | 2025-10-10 |  |
+| [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 | 2025-10-10 |  |
 | [Message](https://open.spotify.com/track/3FKR30FRUewYA5IvrqGEGn) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Message](https://open.spotify.com/album/3bI5t5dR0Eiua81w1qI5Sf) | 4:05 | 2025-05-13 |  |
 | [MOONLIGHT](https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:39 | 2022-07-19 | 2024-04-19 |
 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 | 2022-03-24 |  |
@@ -157,6 +166,7 @@
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2022-03-24 |  |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2022-07-19 | 2024-04-19 |
 | [MORE & MORE \(LEE HAE SOL Sped Up Remix\)](https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LEE HAE SOL](https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:25 | 2023-12-12 |  |
+| [MOVE LIKE THAT \(MOMO\)](https://open.spotify.com/track/5diPh1AceNJfgWXSwmZZ2q) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:47 | 2025-10-10 |  |
 | [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2024-10-31 |  |
 | [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-02-23 |  |
 | [One In A Million](https://open.spotify.com/track/2YTzBBMPkf2mETq2FyzoUs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 2:55 | 2022-03-24 |  |
@@ -223,6 +233,7 @@
 | [Signal](https://open.spotify.com/track/2C7ypcfp9B4bCwlQZEVpvu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/592a3GSZMuKaDcXG61bS1F) | 3:16 | 2022-03-24 |  |
 | [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 | 2022-03-24 |  |
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-03-24 |  |
+| [STONE COLD \(MINA\)](https://open.spotify.com/track/5Hy84VndxrRJ3rRjpnRWZD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:45 | 2025-10-10 |  |
 | [Strategy](https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:46 | 2024-12-06 |  |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 |  |
 | [Strategy \(House\)](https://open.spotify.com/track/4ozZizc3fPNkTBBm3kcVt5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Strategy 2.0](https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL) | 3:00 | 2024-12-18 |  |

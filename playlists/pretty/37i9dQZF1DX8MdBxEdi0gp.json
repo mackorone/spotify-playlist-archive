@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 170856,
+  "num_followers": 170879,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAJa/91bFN33sST8UjA8lEY0QD0Hh",
   "tracks": [
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 250106,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 180511,
-      "name": "Veinticinco Rosas",
-      "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 295666,
       "name": "Quiero Perderme Contigo",
       "url": "https://open.spotify.com/track/1nbte2bCwsxqioAhzo68aE"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 180511,
+      "name": "Veinticinco Rosas",
+      "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Jose Jose (1)",
+        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 188917,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Jose Jose (1)",
-        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Estoy Vivo (Remasterizado 2009)",
         "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 184266,
       "name": "La Ladrona - Remasterizado 2009",
       "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 175520,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 173506,
       "name": "Mi amor es para ti",
       "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Fuiste M\u00eda un Verano",
+      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Fue en un caf\u00e9 - Under the Boardwalk",
-      "url": "https://open.spotify.com/track/6xzsOx1wiwlzFMbBSHPndb"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 183026,
       "name": "Mi Amiga, Mi Esposa, Mi Amante",
       "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Fue en un caf\u00e9 - Under the Boardwalk",
+      "url": "https://open.spotify.com/track/6xzsOx1wiwlzFMbBSHPndb"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "En un rinc\u00f3n del alma",
-      "url": "https://open.spotify.com/track/6tg8tJPrrFuofADSiZPsWw"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "15 Exitos En Espanol",
         "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 197733,
       "name": "El Corazon Es Un Gitano",
       "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "En un rinc\u00f3n del alma",
+      "url": "https://open.spotify.com/track/6tg8tJPrrFuofADSiZPsWw"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Las 5 mejores",
         "url": "https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 139680,
       "name": "\u00a1Oh! Carol",
       "url": "https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
-          "url": "https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Te regalo mis ojos",
-      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 206226,
       "name": "El cari\u00f1o que perd\u00ed",
       "url": "https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
+          "url": "https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Te regalo mis ojos",
+      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
-      },
-      "artists": [
-        {
-          "name": "Trigo Limpio",
-          "url": "https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Cinco Canas Mas",
-      "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Tal Como Eramos",
         "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 210453,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
+      },
+      "artists": [
+        {
+          "name": "Trigo Limpio",
+          "url": "https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Cinco Canas Mas",
+      "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Frente a Frente de Tr\u00edos",
+        "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 198310,
+      "name": "Reg\u00e1lame Esta Noche",
+      "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "De Coraz\u00f3n a Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0noFvo2EkNuCzDXbsS54Nx"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 194849,
       "name": "Lo Que Me Tiene Aqu\u00ed",
       "url": "https://open.spotify.com/track/1zkMq2HLYFByKWzAdyVS1m"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Frente a Frente de Tr\u00edos",
-        "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 198310,
-      "name": "Reg\u00e1lame Esta Noche",
-      "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La Triunfadora Sonora Santanera",
-        "url": "https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "Por Las Calles De M\u00e9xico",
-      "url": "https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Mis Baladas, Vol. 1",
         "url": "https://open.spotify.com/album/1BelLU050UprVz7xwvwPLg"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 167915,
       "name": "Gira el Amor",
       "url": "https://open.spotify.com/track/7MCYiZhobzD21DeoNXeeck"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La Triunfadora Sonora Santanera",
+        "url": "https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "Por Las Calles De M\u00e9xico",
+      "url": "https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb"
     },
     {
       "added_at": "2024-07-11 01:42:53",

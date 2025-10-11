@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,596 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,595 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 32 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
 | 33 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 34 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
-| 35 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
-| 36 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 35 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 36 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
 | 37 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
 | 38 | [The Auction](https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/7KskZmiLjIUjWFijCmoZDw) | 2:56 |
 | 39 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 62 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |
 | 63 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
 | 64 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
-| 65 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
-| 66 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
+| 65 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
+| 66 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 67 | [Stillness in Motion](https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6) | [Plots](https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3) | [Stillness in Motion](https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu) | 3:41 |
-| 68 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
-| 69 | [así de tranquila](https://open.spotify.com/track/7CtZimuunrBX0a5sl3RxBn) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [así de tranquila](https://open.spotify.com/album/4hue7V5sMwdwcD0MLpD6os) | 2:53 |
+| 68 | [así de tranquila](https://open.spotify.com/track/7CtZimuunrBX0a5sl3RxBn) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [así de tranquila](https://open.spotify.com/album/4hue7V5sMwdwcD0MLpD6os) | 2:53 |
+| 69 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 70 | [Ignore](https://open.spotify.com/track/2Pp3hN6Mg3Ob5ZJgCw3D6Q) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 3:08 |
 | 71 | [Intergalactic Janet](https://open.spotify.com/track/0cczRyfWxYAMs6qHEr0jFd) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/2sAPRdU1BZxn42eICvtgHv) | 2:40 |
 | 72 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 |

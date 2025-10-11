@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-609 songs - 1 day 9 hr 7 min
+610 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,8 +255,9 @@
 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 | 2024-07-24 |  |
 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 | 2024-07-24 |  |
 | [If I Love Truly](https://open.spotify.com/track/5Mb2It5DIYn31rudSJPPWj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 2:27 | 2024-07-24 | 2025-04-15 |
-| [If I Love Truly](https://open.spotify.com/track/7a34QzYpcfRk1YQfYXPSXp) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/6lW9fc3yUitOjJwg6nWYj1) | 2:27 | 2025-04-14 |  |
+| [If I Love Truly](https://open.spotify.com/track/7a34QzYpcfRk1YQfYXPSXp) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/6lW9fc3yUitOjJwg6nWYj1) | 2:27 | 2025-04-14 | 2025-10-11 |
 | [If You Could Love Me \(Featuring Carol Sloane\)](https://open.spotify.com/track/28h6egoNyIIKaZFmhN6tOY) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [We'll Meet Again](https://open.spotify.com/album/3vu9tCv3cuJZAeDth8BVZU) | 2:37 | 2024-07-24 |  |
+| [If You Loved Me Truly](https://open.spotify.com/track/6TjPgVif9v7BGm6ILd0Clj) | [The London Theatre Orchestra](https://open.spotify.com/artist/2CMP2czDER8nvmcGhKeHPC) | [The Great Songwriters](https://open.spotify.com/album/2po2VXnacD5fCrFk5kXMhJ) | 2:24 | 2025-10-10 |  |
 | [Iisang Bangka Tayo](https://open.spotify.com/track/2PDSRM3PycPnraENVjEKBZ) | [The Dawn](https://open.spotify.com/artist/2C82tCjOMy2n9Pq4Iz9B6S) | [Abot Kamay](https://open.spotify.com/album/3JZlNGdCxazrlyLQRusMBE) | 4:16 | 2024-07-24 | 2025-06-28 |
 | [Imagination \- Remastered/1998](https://open.spotify.com/track/3204tSLV3EaojXsG5ezqwz) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:14 | 2025-06-27 | 2025-07-10 |
 | [Is It the Girl or Is It the Gown?](https://open.spotify.com/track/0xidk6W7ZAO8lQSbjWtkYd) | [Stephen Bogardus](https://open.spotify.com/artist/7qGitvYBnbiDSaYGHp7TxR) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 2:46 | 2024-07-24 | 2025-06-28 |

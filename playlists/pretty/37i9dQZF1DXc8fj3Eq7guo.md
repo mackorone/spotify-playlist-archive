@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > 50 stops, one continent, grab your pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,733 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,747 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [5hrs Till Nairobi](https://open.spotify.com/track/2zZzFhWHYeCSaoejZzkDfe) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:04 |
 | 2 | [Port\-harcourt](https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN) | [Port\-harcourt](https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw) | 2:50 |
-| 3 | [Jericho](https://open.spotify.com/track/46mrUnUMPFqp7zWF5f3hL7) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [](https://open.spotify.com/album/null) | 2:49 |
+| 3 | [Jericho](https://open.spotify.com/track/46mrUnUMPFqp7zWF5f3hL7) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:49 |
 | 4 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
 | 5 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
 | 6 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |

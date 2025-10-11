@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Nanpa Básico & DFZM
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,400 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,404 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,24 +15,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 5 | [Una Noche Contigo](https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3) | 3:13 |
 | 6 | [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 |
 | 7 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 |
-| 8 | [Montego Bay](https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 3:09 |
-| 9 | [Un Intento Permanente](https://open.spotify.com/track/2BByhZdP87btcQKOCvGLQ3) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Quince de Caminos](https://open.spotify.com/album/59hwU7N5uLDJbm1dARXmrL) | 3:31 |
-| 10 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
-| 11 | [Llamada](https://open.spotify.com/track/4hPaJPc5kH10oVGkEMFmX4) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Llamada](https://open.spotify.com/album/73sOoQbDORrAbgNjtU6h4F) | 2:25 |
-| 12 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 13 | [CÁLLATE](https://open.spotify.com/track/5kTGxJQVACs4mJmO7Emzuc) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [CÁLLATE](https://open.spotify.com/album/7LQ8ReCFjrLR1iC4xPkYKk) | 2:52 |
-| 14 | [RD](https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:34 |
-| 15 | [Mi Casa](https://open.spotify.com/track/0kfPIJCXi0wohJAz8NDWdS) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Mi Casa](https://open.spotify.com/album/1BG12xD3hKPPZcMO5d2rx9) | 3:09 |
-| 16 | [Lunática](https://open.spotify.com/track/5Oo8vxfhgLZglkEWps4KMl) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Lunática](https://open.spotify.com/album/6ZTH865EudN0PxlcjXCNAm) | 3:10 |
-| 17 | [¿Cómo Pasó? Con Morat \- Live](https://open.spotify.com/track/7FpqL8i3LVBYWm5RvMsdS8) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:11 |
-| 18 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
-| 19 | [Todos Tenemos Cicatrices](https://open.spotify.com/track/7vEDuljzjMXQOyrZZh8ipu) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Todos Tenemos Cicatrices](https://open.spotify.com/album/6FkTpFrUi4EZEPDKmCtIX0) | 3:38 |
-| 20 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
-| 21 | [53 mensajes](https://open.spotify.com/track/1sWlwaQjyEn8yFUedRJ1ru) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Fragmentos](https://open.spotify.com/album/2B43Igtwcqi0G7FPph7bEQ) | 3:05 |
-| 22 | [Que No Me Falten](https://open.spotify.com/track/3quijRz4YM5tagBK4kj3vC) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Que No Me Falten](https://open.spotify.com/album/3GRhFeE5g1X4lTBbJhGH85) | 2:30 |
-| 23 | [Me Muero](https://open.spotify.com/track/5hbOB1PvPS7WySf4HQ2As9) | [De Narvaez](https://open.spotify.com/artist/7MutscQk35q3QHOJ8mYGWT) | [Notas de Voz](https://open.spotify.com/album/3KTZtsFjUeX5a1ojKdpoPF) | 2:40 |
-| 24 | [Disco Rayado](https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Disco Rayado](https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu) | 2:31 |
-| 25 | [Cómo Duele](https://open.spotify.com/track/02tk974QEHBfTQq80Lpn7d) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Cómo Duele](https://open.spotify.com/album/0h9cZ9loIaVs12uOnxKH8G) | 3:25 |
+| 8 | [Adicto a Tú Piel](https://open.spotify.com/track/1uO3St8kIH8qq7I941FmCG) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Neón](https://open.spotify.com/album/3Oj7ZfcspGSWW7VDrp2xvz) | 2:44 |
+| 9 | [Montego Bay](https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 3:09 |
+| 10 | [Un Intento Permanente](https://open.spotify.com/track/2BByhZdP87btcQKOCvGLQ3) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Quince de Caminos](https://open.spotify.com/album/59hwU7N5uLDJbm1dARXmrL) | 3:31 |
+| 11 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
+| 12 | [Llamada](https://open.spotify.com/track/4hPaJPc5kH10oVGkEMFmX4) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Llamada](https://open.spotify.com/album/73sOoQbDORrAbgNjtU6h4F) | 2:25 |
+| 13 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 14 | [CÁLLATE](https://open.spotify.com/track/5kTGxJQVACs4mJmO7Emzuc) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [CÁLLATE](https://open.spotify.com/album/7LQ8ReCFjrLR1iC4xPkYKk) | 2:52 |
+| 15 | [RD](https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:34 |
+| 16 | [Mi Casa](https://open.spotify.com/track/0kfPIJCXi0wohJAz8NDWdS) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Mi Casa](https://open.spotify.com/album/1BG12xD3hKPPZcMO5d2rx9) | 3:09 |
+| 17 | [Lunática](https://open.spotify.com/track/5Oo8vxfhgLZglkEWps4KMl) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Lunática](https://open.spotify.com/album/6ZTH865EudN0PxlcjXCNAm) | 3:10 |
+| 18 | [¿Cómo Pasó? Con Morat \- Live](https://open.spotify.com/track/7FpqL8i3LVBYWm5RvMsdS8) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:11 |
+| 19 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
+| 20 | [Todos Tenemos Cicatrices](https://open.spotify.com/track/7vEDuljzjMXQOyrZZh8ipu) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Todos Tenemos Cicatrices](https://open.spotify.com/album/6FkTpFrUi4EZEPDKmCtIX0) | 3:38 |
+| 21 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
+| 22 | [53 mensajes](https://open.spotify.com/track/1sWlwaQjyEn8yFUedRJ1ru) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Fragmentos](https://open.spotify.com/album/2B43Igtwcqi0G7FPph7bEQ) | 3:05 |
+| 23 | [Que No Me Falten](https://open.spotify.com/track/3quijRz4YM5tagBK4kj3vC) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Que No Me Falten](https://open.spotify.com/album/3GRhFeE5g1X4lTBbJhGH85) | 2:30 |
+| 24 | [Me Muero](https://open.spotify.com/track/5hbOB1PvPS7WySf4HQ2As9) | [De Narvaez](https://open.spotify.com/artist/7MutscQk35q3QHOJ8mYGWT) | [Notas de Voz](https://open.spotify.com/album/3KTZtsFjUeX5a1ojKdpoPF) | 2:40 |
+| 25 | [Disco Rayado](https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Disco Rayado](https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu) | 2:31 |
 | 26 | [Esta Soy Yo](https://open.spotify.com/track/731h6S36pQpHR2VVUNoKnh) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Esta Soy Yo](https://open.spotify.com/album/4YG6LJVXCY000fkJFoQyeO) | 2:21 |
 | 27 | [2302](https://open.spotify.com/track/6UxAsUuceX0sVgWtITnM7b) | [De Narvaez](https://open.spotify.com/artist/7MutscQk35q3QHOJ8mYGWT) | [2302](https://open.spotify.com/album/6IobrkF6VQcLuBgeWlTCnM) | 2:21 |
 | 28 | [Una Flor](https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `AAAAAK9tcHkSbVI2yTgYQ6W7vMBvRblA`
+Snapshot ID: `AAAAACrihxeE4xXP0BBMlE1JDMdKfOMb`

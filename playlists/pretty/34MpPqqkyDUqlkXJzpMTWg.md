@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Spooky season is begonnen! Luister hier naar de meest griezelige halloween hits.👻
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,019 likes - 56 songs - 3 hr 30 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,020 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 | 55 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |
 | 56 | [Monster](https://open.spotify.com/track/2WgyOP8Z1D6GQYumCwH4Dk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:09 |
 
-Snapshot ID: `AAA8t3MXfFqSeoVixrkrslVo7No1mIQz`
+Snapshot ID: `AAA8udJUsQo8w7Vlgv9jBLP4rRp5vS/G`

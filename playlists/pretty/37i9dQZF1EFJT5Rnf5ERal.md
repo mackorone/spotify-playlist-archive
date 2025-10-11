@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,619 likes - 273 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,620 likes - 273 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 109 | [Really Like That](https://open.spotify.com/track/2pMh6LepGJVOqsWYOHD1Ut) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:49 |
 | 110 | [Uh Uh](https://open.spotify.com/track/1HqwkyAAb8gLZlOAhUo6Kh) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [F\*ck Everybody 2](https://open.spotify.com/album/3FiBSFMM9piHRDeqOC9Y74) | 2:43 |
 | 111 | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/track/2pqu2XTbal0GehjBj2BDkv) | [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx) | 3:35 |
-| 112 | [Streetlight](https://open.spotify.com/track/2IRTjvSF79KHkvQEyEbn2L) | [Troyman](https://open.spotify.com/artist/0hfCvrogjeBd9cTtAYTyCs) | [Rhythm + Flow Soundtrack: The Final Episode \(Music From The Netflix Original Series\)](https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1) | 2:29 |
-| 113 | [Ball Forever](https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:21 |
+| 112 | [Ball Forever](https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:21 |
+| 113 | [Streetlight](https://open.spotify.com/track/2IRTjvSF79KHkvQEyEbn2L) | [Troyman](https://open.spotify.com/artist/0hfCvrogjeBd9cTtAYTyCs) | [Rhythm + Flow Soundtrack: The Final Episode \(Music From The Netflix Original Series\)](https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1) | 2:29 |
 | 114 | [Recession Proof \- Bonus](https://open.spotify.com/track/4Lc321KT6dsd2rio7ysntE) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 3:31 |
 | 115 | [We Slide \(feat\. Young Thug\)](https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:30 |
 | 116 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 272 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 273 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `Ab+bxgAAAABexTklhC6X4UkVZaY1vw7g`
+Snapshot ID: `Ab+hSAAAAACJel3QciYbQoAUEFw2nf18`

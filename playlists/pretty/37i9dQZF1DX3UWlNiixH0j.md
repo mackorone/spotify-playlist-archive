@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 柴田聡子 featuring Elle Teresa and Le Makeup
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,788 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,824 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 37 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:45 |
 | 38 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
 | 39 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
-| 40 | [健忘者たち](https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [健忘者たち](https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP) | 3:46 |
-| 41 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
+| 40 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
+| 41 | [健忘者たち](https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [健忘者たち](https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP) | 3:46 |
 | 42 | [Magic](https://open.spotify.com/track/7LhFZAamVSW35NGGSMxwoZ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Naked 4 Satan](https://open.spotify.com/album/2CzjVt14KokXk1Q6vGp925) | 4:41 |
 | 43 | [iPX](https://open.spotify.com/track/1zXxvSZvkPdHuWCVzKuVPX) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Podium](https://open.spotify.com/album/6o77fZj73QcB51LBaIli1v) | 2:39 |
 | 44 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
@@ -58,30 +58,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 48 | [DON'T MIND](https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [DON'T MIND](https://open.spotify.com/album/58bcwv5RRy4giKo4im4yCa) | 3:35 |
 | 49 | [munasawagi](https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [munasawagi](https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x) | 3:27 |
 | 50 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
-| 51 | [夢から覚めても](https://open.spotify.com/track/49nGw1NKcK4nZb8x1MzY6S) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [夢から覚めても](https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU) | 3:59 |
-| 52 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
+| 51 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
+| 52 | [夢から覚めても](https://open.spotify.com/track/49nGw1NKcK4nZb8x1MzY6S) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [夢から覚めても](https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU) | 3:59 |
 | 53 | [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 |
 | 54 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
 | 55 | [love it](https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:51 |
-| 56 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
-| 57 | [Grown Too Old](https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Grown Too Old](https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8) | 3:12 |
+| 56 | [Grown Too Old](https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Grown Too Old](https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8) | 3:12 |
+| 57 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
 | 58 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
 | 59 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
 | 60 | [真空パック](https://open.spotify.com/track/06Jdx6d7n2AtyqSimjKjDx) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [真空パック](https://open.spotify.com/album/11ip0GjDMFhGKG4ic8LKPY) | 2:54 |
 | 61 | [lapis lazuli feat\. luvis](https://open.spotify.com/track/1ldtIYXr0WSaXRzolhzPsW) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [lapis lazuli](https://open.spotify.com/album/6cD9JRGnKgOlqM7m2UqKad) | 3:40 |
-| 62 | [風景が](https://open.spotify.com/track/1rLSwCht6w2ROGIq9lWI4k) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [風景が](https://open.spotify.com/album/3a2veIinXqT0neutGn4k72) | 3:30 |
+| 62 | [キャラバン](https://open.spotify.com/track/1qXtgsCxVLKy3O6py8QOBS) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [キャラバン](https://open.spotify.com/album/69eePYSw1LlMDOvMZwEcQu) | 3:01 |
 | 63 | [誰にも言わないでいるよ](https://open.spotify.com/track/2rkJ7eIzlwcEdwBLN1XAoQ) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [誰にも言わないでいるよ](https://open.spotify.com/album/6vFJIfChsmZnG4lnAdgnaU) | 2:58 |
-| 64 | [SUNSET \- feat\. Yvette Young](https://open.spotify.com/track/0O6OWDBSCvVS3MHOYAfujL) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [SUNSET \(feat\. Yvette Young\)](https://open.spotify.com/album/0VIdKN62Kw7V0o7FdKK07p) | 4:13 |
-| 65 | [ハイヤー](https://open.spotify.com/track/6omGRvCBWXsy4qWp203ed6) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [ハイヤー](https://open.spotify.com/album/09PLsBCJa3jcmNRMJgmJv0) | 4:36 |
-| 66 | [キャラバン](https://open.spotify.com/track/1qXtgsCxVLKy3O6py8QOBS) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [キャラバン](https://open.spotify.com/album/69eePYSw1LlMDOvMZwEcQu) | 3:01 |
+| 64 | [風景が](https://open.spotify.com/track/1rLSwCht6w2ROGIq9lWI4k) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [風景が](https://open.spotify.com/album/3a2veIinXqT0neutGn4k72) | 3:30 |
+| 65 | [SUNSET \- feat\. Yvette Young](https://open.spotify.com/track/0O6OWDBSCvVS3MHOYAfujL) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [SUNSET \(feat\. Yvette Young\)](https://open.spotify.com/album/0VIdKN62Kw7V0o7FdKK07p) | 4:13 |
+| 66 | [ハイヤー](https://open.spotify.com/track/6omGRvCBWXsy4qWp203ed6) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [ハイヤー](https://open.spotify.com/album/09PLsBCJa3jcmNRMJgmJv0) | 4:36 |
 | 67 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
 | 68 | [kurayamisaka yori ai wo komete](https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO) | 3:13 |
 | 69 | [Oh](https://open.spotify.com/track/4fWRIQBUH9VaWpz9E5ZFc7) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Oh](https://open.spotify.com/album/2qHLv0U8pxGV7nAHinJiuU) | 4:05 |
 | 70 | [奇跡。](https://open.spotify.com/track/4ryDIa9bt0rwGm9bvzdv9t) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [奇跡。](https://open.spotify.com/album/5bk41uh9eIs4DGaxirpkpB) | 4:05 |
 | 71 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
-| 72 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
-| 73 | [Iikanji \(feat\. STUTS\)](https://open.spotify.com/track/5xRtpYsJFwKFcGExC1OiRX) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Secure +](https://open.spotify.com/album/0HuPcRSbeYwUMfZet6LaAf) | 4:10 |
-| 74 | [Man on the Run](https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in the House?](https://open.spotify.com/album/04cL4l3zjxF2iwKC9yziNm) | 2:33 |
-| 75 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 |
+| 72 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 |
+| 73 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 74 | [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 |
+| 75 | [Iikanji \(feat\. STUTS\)](https://open.spotify.com/track/5xRtpYsJFwKFcGExC1OiRX) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Secure +](https://open.spotify.com/album/0HuPcRSbeYwUMfZet6LaAf) | 4:10 |
 
-Snapshot ID: `AAAAABJGJNw8wVc10YdMIoQS6xGNObEX`
+Snapshot ID: `AAAAAEWfa2avpPZ+J7I306G3qIGwe1TL`

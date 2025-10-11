@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Otsochodzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,118 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,122 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 14 | [Gdzie mój dom?](https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI) | [Gdzie mój dom?](https://open.spotify.com/album/3ex3T8zjsgKoSP9ajrXv2l) | 2:42 |
 | 15 | [Monarcha](https://open.spotify.com/track/77tkMwJKo05TbogJP2HAD8) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [Monarcha](https://open.spotify.com/album/5kFlRd4d31haGvgIkfPlAu) | 3:02 |
 | 16 | [Ty Teraz Dzwonisz \(2:02\)](https://open.spotify.com/track/4gcHdf5WCRoWA4k6CUA1SV) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [Moskal SQU](https://open.spotify.com/artist/4X7xdsxJlxrTX7IK51I6hi), [730purp](https://open.spotify.com/artist/3lp8q43K1xBj61ANUF2UT0) | [Ty Teraz Dzwonisz \(2:02\)](https://open.spotify.com/album/5KalUdTraGZCJD06loKEXj) | 2:34 |
-| 17 | [Track 11](https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [DYLEMAT](https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [APOROFOBIA II](https://open.spotify.com/album/0V1PzQBgGgmwtUxWVU5Z0i) | 3:16 |
 | 18 | [CERTYFIKAT](https://open.spotify.com/track/4wqzjszg4AWKQoeY7swyci) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd) | [CERTYFIKAT](https://open.spotify.com/album/4nNNcLFT17QWgHSSzQYwrb) | 2:21 |
 | 19 | [Zwolnij?](https://open.spotify.com/track/5izkOrZhqKdFXspiVWfpDt) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Zwolnij?](https://open.spotify.com/album/3g7j2z1RrzTzhdOQMykoD7) | 2:32 |
 | 20 | [BEZ NIKOGO OBOK](https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [3347](https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B) | 2:03 |

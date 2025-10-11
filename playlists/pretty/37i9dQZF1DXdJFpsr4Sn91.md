@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Taylor Swift.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,041 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,054 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 7 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
 | 8 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 9 | [Ahdistuksen aika](https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Melankolisten laulujen klubi](https://open.spotify.com/album/1KT2gnd5CxHspMm9YNDsmk) | 4:52 |
-| 10 | [Track 3](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
 | 11 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
-| 12 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [](https://open.spotify.com/album/null) | 4:06 |
+| 12 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 |
 | 13 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
 | 14 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
 | 15 | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7FUgrkjZ2S7YYeXGvaFlsn) | 3:15 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 18 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
 | 19 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
 | 20 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
-| 21 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 |
+| 21 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 22 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 23 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 24 | [Meit ei löydä kukaan](https://open.spotify.com/track/3ghIg5mLl8lRBKrSI89ZEW) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Meit ei löydä kukaan](https://open.spotify.com/album/6buiAwrpJjAbuyqH2M9HN2) | 3:03 |

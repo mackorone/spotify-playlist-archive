@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,035 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,081 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sinaran](https://open.spotify.com/track/746zt4dF5QLp8kxI1yK6G5) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [](https://open.spotify.com/album/null) | 4:22 |
+| 1 | [Sinaran](https://open.spotify.com/track/746zt4dF5QLp8kxI1yK6G5) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Asmara Dansa](https://open.spotify.com/album/78Jt2I1kfZ5FHRAm0cRqIg) | 4:22 |
 | 2 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
 | 3 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 |
 | 4 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/43Ed54bKecnKeq5MWhb2BC) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/3GikdpvnrtkUtfPbwzm9sy) | 3:50 |

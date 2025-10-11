@@ -4,7 +4,7 @@
 
 > Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
-87 songs - 5 hr 10 min
+89 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:24 | 2024-10-09 |  |
 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/79j4vuHRCd99r5PvgG1zev) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:24 | 2024-09-19 | 2024-10-10 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-09-19 |  |
+| [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 | 2025-10-10 |  |
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2022-09-16 | 2024-09-20 |
 | [Pretend](https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Juliana Madrid EP](https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso) | 3:07 | 2022-09-16 | 2024-09-20 |
 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:17 | 2024-10-09 |  |
@@ -95,5 +96,6 @@
 | [You and I](https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:42 | 2024-09-19 |  |
 | [You and I](https://open.spotify.com/track/1HZxwr7sLtJzK6Jt2G6cu0) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/3mpvDPBxCSlIGEqiMpiQL4) | 3:44 | 2024-09-19 |  |
 | [You and Me](https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR) | 3:54 | 2024-10-09 |  |
+| [Your Girl \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4ENl5WGXyd8PLj7k2KT7Ge) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Your Girl \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/0U3Xaln7rxxSKcISPB501G) | 4:19 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -2121,6 +2121,28 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159527,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
+    },
+    {
+      "album": {
         "name": "Hooked On The Line",
         "url": "https://open.spotify.com/album/1eFwYR6JQPfzqH98w6HYfZ"
       },
@@ -2208,6 +2230,24 @@
       "duration_ms": 224022,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
+    },
+    {
+      "album": {
+        "name": "I Have More Than One Soul",
+        "url": "https://open.spotify.com/album/7aFCzVzORXoqdhp2y5oIjY"
+      },
+      "artists": [
+        {
+          "name": "Man-Made Sunshine",
+          "url": "https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "I Have More Than One Soul",
+      "url": "https://open.spotify.com/track/6DRsEEfVaxSLl0dSduAe9n"
     },
     {
       "album": {
@@ -2602,6 +2642,24 @@
       "duration_ms": 196960,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb"
+    },
+    {
+      "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
       "album": {

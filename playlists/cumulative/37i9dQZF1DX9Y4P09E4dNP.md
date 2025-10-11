@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: AratheJay
 
-289 songs - 18 hr 3 min
+289 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,8 +271,8 @@
 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 | 2020-02-20 | 2024-03-05 |
 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 | 2025-09-26 |  |
 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 | 2024-08-09 | 2025-09-26 |
+| [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 |  |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2025-04-07 |  |
-| [Track 13](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Try Me](https://open.spotify.com/track/1Yy0MCqFDgn2OYnRYzmU7K) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 3:29 | 2024-03-04 | 2024-03-29 |
 | [Tuabodom](https://open.spotify.com/track/1lj4eBXuGedWMfsh2PHReg) | [Nkasei](https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:16 | 2020-02-20 | 2022-10-16 |
 | [Tuabodom](https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf) | [Nkasei](https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:16 | 2020-02-20 | 2022-07-27 |

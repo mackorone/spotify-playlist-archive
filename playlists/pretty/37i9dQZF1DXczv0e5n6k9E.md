@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: DIFF, XRS
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,673 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,701 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 15 | [EDI RAMA](https://open.spotify.com/track/72QUyMcmmH7WKfQxlxRl0k) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [M3NTRA](https://open.spotify.com/artist/2PGUfaiMdCRUBN4h0hcVcn), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo) | [EDI RAMA](https://open.spotify.com/album/4aiwlyd1Qtld5Fy0EDRld1) | 3:02 |
 | 16 | [TI THELIS](https://open.spotify.com/track/5MO7LUQJEpuBwakEuOn2BP) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Generale](https://open.spotify.com/artist/3RRQPCaYJ8gHX5XIrmAIO5) | [TI THELIS](https://open.spotify.com/album/6aFDswnN1PbyJ9DRp7xldG) | 2:56 |
 | 17 | [ROVER](https://open.spotify.com/track/3bc4LJbL8BM34pD9yvbcOw) | [RICO](https://open.spotify.com/artist/6doYCdkdVHtb0zRQShHT9Z), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ROVER](https://open.spotify.com/album/6Jm5Sy7NEk9P7S0qprsAoJ) | 2:07 |
-| 18 | [SICK SIXAMILIA](https://open.spotify.com/track/3TPERBFjI6WJXqpAWBVm4U) | [duKYS](https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc) | [KYSIΩN 2](https://open.spotify.com/album/3loUGq4ij27UrqVXBLikAX) | 2:57 |
+| 18 | [SICK SIXAMILIA](https://open.spotify.com/track/3TPERBFjI6WJXqpAWBVm4U) | [duKYS](https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc), [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W), [Cloudthoughts](https://open.spotify.com/artist/7IOQAq7iSY13kM05bk8xbQ) | [KYSIΩN 2](https://open.spotify.com/album/3loUGq4ij27UrqVXBLikAX) | 2:57 |
 | 19 | [Kilo Flex](https://open.spotify.com/track/3kIRBFtnyPaS7EZtjrFsja) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Kilo Flex](https://open.spotify.com/album/2QFxDS8OG6G0RjK6a6X6BO) | 2:10 |
 | 20 | [ABRA KADABRA](https://open.spotify.com/track/36dCG87rdMiCuZO1sT7R31) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [ABRA KADABRA](https://open.spotify.com/album/6TNh0ivTNyysXuqOUqRnpr) | 2:51 |
 | 21 | [MYSTIKO](https://open.spotify.com/track/3dmu95RKqKkOZbzhqVWuPk) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [MYSTIKO](https://open.spotify.com/album/0U6Wd6QdndMT5hg79FAUm4) | 2:45 |

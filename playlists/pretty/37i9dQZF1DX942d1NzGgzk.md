@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Ama Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,428 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,469 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 |
 | 2 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5) | 3:32 |
 | 3 | [same ole](https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [kintsugi](https://open.spotify.com/album/2COdDiiRXsmxJ1L3dOANd0) | 2:37 |
 | 4 | [Forgive & Forget](https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Forgive & Forget](https://open.spotify.com/album/4MKYOIlZOjLfZIgn1vgBHf) | 2:12 |

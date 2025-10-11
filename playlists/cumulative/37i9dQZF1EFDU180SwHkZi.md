@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-135 songs - 6 hr 22 min
+137 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Lemonade](https://open.spotify.com/track/4Wu9oOCp1ITsfpEAqC83bQ) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 3:02 | 2025-07-03 |  |
 | [Let's Go](https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:27 | 2025-07-03 |  |
 | [Liar For A Living \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Oj1231mF3nq7ASDiH2q6g) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 3:29 | 2025-07-17 |  |
-| [Lie To Me](https://open.spotify.com/track/6V97pUZ0maySCRjpJRbD62) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Lie To Me](https://open.spotify.com/album/2vdlANgQkp5CdlZZWqXRD5) | 3:11 | 2025-07-03 |  |
+| [Lie To Me](https://open.spotify.com/track/5XZDKIVbXtThfBVM4EsuKQ) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Lie To Me](https://open.spotify.com/album/2iWLrfR8uurVtuypRXN43X) | 3:11 | 2025-10-10 |  |
+| [Lie To Me](https://open.spotify.com/track/6V97pUZ0maySCRjpJRbD62) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Lie To Me](https://open.spotify.com/album/2vdlANgQkp5CdlZZWqXRD5) | 3:11 | 2025-07-03 | 2025-10-11 |
 | [Like What U See](https://open.spotify.com/track/1KILi2wUvgaHEBN935D2so) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Like What U See](https://open.spotify.com/album/6QlJOaK2GXm0yKhiWM6yxu) | 2:29 | 2025-07-03 |  |
 | [Look At Me Go](https://open.spotify.com/track/6Y8NDWGqBgJPSz7Ejfn7YQ) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Look At Me Go](https://open.spotify.com/album/4ZV3duqSz1IUk84iGlX8a0) | 2:57 | 2025-07-03 |  |
 | [Lost](https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:39 | 2025-07-03 |  |
@@ -103,7 +104,7 @@
 | [Permission](https://open.spotify.com/track/0c8jxG4d2i3mDBN0pxuV4L) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:26 | 2025-07-03 |  |
 | [Pick It Up](https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:26 | 2025-07-03 |  |
 | [Pushin](https://open.spotify.com/track/5ZEubdRYoxPaJlghzSWCOx) | [Elanese](https://open.spotify.com/artist/1OTRtHYPLTgj3PHNjBP7GX) | [Pushin](https://open.spotify.com/album/2vd8pxXqZb3e5HG5rStYxJ) | 2:43 | 2025-07-03 |  |
-| [random acts of violence](https://open.spotify.com/track/6L3Jegh2xmwXaDC8AVRrXy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:01 | 2025-07-03 | 2025-10-09 |
+| [random acts of violence](https://open.spotify.com/track/6L3Jegh2xmwXaDC8AVRrXy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:01 | 2025-07-03 |  |
 | [Real Thing](https://open.spotify.com/track/7bJcvljR0snEcdfmd9j0B1) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:40 | 2025-07-03 |  |
 | [Revolution](https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g) | [Revolution](https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ) | 2:25 | 2025-07-03 |  |
 | [runaway](https://open.spotify.com/track/5E8spsGDm5FJDI4bHESK9z) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 2:47 | 2025-07-03 |  |
@@ -120,7 +121,8 @@
 | [Sun Maahi \(English Version\)](https://open.spotify.com/track/6NS5xZR94aGMVIw3MEmclz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi \- The EP](https://open.spotify.com/album/4KjwbIbL7Wjcx1IiNDMRbh) | 2:51 | 2025-07-03 |  |
 | [Sun Maahi \(Lofi Mix\)](https://open.spotify.com/track/3IvW9tmXT1dsSDC7TXwz9U) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi \- The EP](https://open.spotify.com/album/4KjwbIbL7Wjcx1IiNDMRbh) | 2:52 | 2025-07-03 |  |
 | [Superhuman](https://open.spotify.com/track/7LmNkYE8oHU1vMvGCcZCsi) | [Crystal Knives](https://open.spotify.com/artist/7A2dTrQMswkIlzDkXYkkV0), [Chalklines](https://open.spotify.com/artist/54isiqTEAspL53Y4YazrlB), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Superhuman](https://open.spotify.com/album/6FWj8SgXvszXvGZ21beENG) | 3:37 | 2025-07-03 |  |
-| [Tea](https://open.spotify.com/track/24RQ6qDJAQ1sa94p1qfdYh) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Tea](https://open.spotify.com/album/4JZDCsppCoRdzeJjyrZeTr) | 2:16 | 2025-07-03 |  |
+| [Tea](https://open.spotify.com/track/24RQ6qDJAQ1sa94p1qfdYh) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Tea](https://open.spotify.com/album/4JZDCsppCoRdzeJjyrZeTr) | 2:16 | 2025-07-03 | 2025-10-11 |
+| [Tea](https://open.spotify.com/track/4Ck9AfpdKWdgSVkiZgC3EX) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Tea](https://open.spotify.com/album/55ECRkDnJucO6Px96J8h6S) | 2:16 | 2025-10-10 |  |
 | [Team](https://open.spotify.com/track/5SpumGg7FWWSS2yB644e5l) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Team](https://open.spotify.com/album/2QX2f0v9LlzAxvxTgQkdcU) | 3:41 | 2025-07-03 |  |
 | [Thank You God](https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [Thank You God](https://open.spotify.com/album/39RgIHAyeHNjVDUjyLR6NK) | 2:12 | 2025-07-03 |  |
 | [The End](https://open.spotify.com/track/0OwqAGjxNnCSjKpVKwFxyZ) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 3:46 | 2025-07-03 |  |

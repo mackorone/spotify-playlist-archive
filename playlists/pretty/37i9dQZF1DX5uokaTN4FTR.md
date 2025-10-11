@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431,659 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,431,652 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
 | 2 | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs) | 3:27 |
 | 3 | [Afters](https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Afters](https://open.spotify.com/album/1ijY6TU6pZ8AtvwnWnLip1) | 2:04 |
-| 4 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects \(DJ Mix\)](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
+| 4 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
 | 5 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 6 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 |
 | 7 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 |

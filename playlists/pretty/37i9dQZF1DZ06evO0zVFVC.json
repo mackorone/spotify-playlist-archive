@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 109930,
+  "num_followers": 109976,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACnsBgOz00+0DQE6LEQJnnB",
+  "snapshot_id": "aOb7AAAAAAC5ocHIPaL92XtoSLcaiA2P",
   "tracks": [
     {
       "added_at": null,
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "No Apologies",
+          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
         }
       ],
-      "duration_ms": 210012,
-      "name": "Into the Dark",
-      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
+      "duration_ms": 201653,
+      "name": "Dead Man's Chest",
+      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
     },
     {
       "added_at": null,
@@ -707,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "No Apologies",
-          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Dead Man's Chest",
-      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
+      "duration_ms": 210012,
+      "name": "Into the Dark",
+      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
     },
     {
       "added_at": null,

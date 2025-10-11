@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 510554,
+  "num_followers": 510648,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC3YFWOeITXcBxcV1RKDvm6",
+  "snapshot_id": "aOb7AAAAAADAoQ4sLOcdml5VUU5xDiQ8",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
       "duration_ms": 180096,
       "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/1sQ9566ugBDsUmwyYTvZxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
+        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 189620,
+      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
+      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensando Positivo",
         "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 193300,
       "name": "Pensando Positivo",
       "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
     },
     {
       "added_at": null,
@@ -791,42 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brujer\u00eda (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6FHoFi6CTNoTK8e5wEg852"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 123136,
-      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/3sD5xTCmglML7uUHkLRtDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carlos Rivera",
         "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
       },
@@ -847,6 +827,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brujer\u00eda (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6FHoFi6CTNoTK8e5wEg852"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 123136,
+      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3sD5xTCmglML7uUHkLRtDN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
         "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 171888,
       "name": "As\u00ed Fue - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/0CtPXlKZ6lMQ2982HFCciC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "No Me Preguntes M\u00e1s",
-      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
     }
   ],
   "unique_name": "This Is Yuridia",

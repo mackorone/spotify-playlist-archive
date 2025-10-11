@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 272 songs - 15 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 529 likes - 272 songs - 15 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 181 | [Set](https://open.spotify.com/track/0RdtNKSNJ3mkg7W988BjGN) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 2:56 |
 | 182 | [Kiss & Tell](https://open.spotify.com/track/1sNovU2kt1WBrLhuAFhReK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:43 |
 | 183 | [Wicked](https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl) | [Veronica Vega](https://open.spotify.com/artist/5zB4FgmxvPsn1G4TeKO62C), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Wicked \(feat\. Pitbull\) \- Single](https://open.spotify.com/album/2IsKRE4RIZLmegkUz9iUQH) | 4:08 |
-| 184 | [All I Want](https://open.spotify.com/track/3dtf3Y9J1Yba0pq4J9JtBx) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:40 |
-| 185 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
+| 184 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
+| 185 | [All I Want](https://open.spotify.com/track/3dtf3Y9J1Yba0pq4J9JtBx) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:40 |
 | 186 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
 | 187 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 |
 | 188 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 271 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 272 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Ab+bsgAAAADjwVrar/QnLcYSH4Owdgg2`
+Snapshot ID: `Ab+hPgAAAADjwzK46qgZZllrGZpqKXAR`

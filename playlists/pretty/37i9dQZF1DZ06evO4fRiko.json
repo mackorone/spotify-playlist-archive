@@ -1,13 +1,29 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 959898,
+  "num_followers": 960039,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAB3BCS+boupW5vOXKM5jbV0",
+  "snapshot_id": "aOb7AAAAAAAEHKEIU5zDFFYphmBYAZ67",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 252120,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Blindfold",
-        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Holy Blindfold",
-      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+      "duration_ms": 250666,
+      "name": "Kiss Kiss (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Kiss Kiss (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201421,
+      "name": "Grass Ain't Greener",
+      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201421,
-      "name": "Grass Ain't Greener",
-      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 179410,
+      "name": "Whatchamacallit (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex Playlist",
         "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
       },
@@ -943,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 179410,
-      "name": "Whatchamacallit (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -983,26 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
       "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
         }
       ],
-      "duration_ms": 232155,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+      "duration_ms": 237986,
+      "name": "Don't Think They Know (feat. Aaliyah)",
+      "url": "https://open.spotify.com/track/3uVCPFmavlWGQUqeYh8HhR"
     }
   ],
   "unique_name": "This Is Chris Brown",

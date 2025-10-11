@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Ke Personajes & J Balvin
+> Lo nuevo del mundo tropical\. Cover: NATHY PELUSO
 
-765 songs - 1 day 19 hr 37 min
+766 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Mala o Buena](https://open.spotify.com/track/1kgPaggye8UtgTDGndrm8p) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Mala o Buena](https://open.spotify.com/album/0Oll5oxWoEm0CftXytZWHA) | 3:01 | 2025-03-07 | 2025-05-03 |
 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 | 2023-03-31 | 2023-05-19 |
 | [Malacorita \- Remix](https://open.spotify.com/track/4kycLRH6PjuUfEcfXOZibW) | [Kalimete](https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Malacorita \(Remix\)](https://open.spotify.com/album/3dm4jZz7AMo1rLvtkE3k9a) | 2:58 | 2022-01-01 | 2022-06-30 |
+| [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 | 2025-10-10 |  |
 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 | 2022-04-29 | 2023-02-10 |
 | [Manos de Tijera \- Versión Bachata](https://open.spotify.com/track/4UhYmV4km2WkPW3u6mgPfY) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Dj Husky](https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL) | [Manos de Tijera \(Versión Bachata\)](https://open.spotify.com/album/4RXju3Va6kcOzfyyLmDvyX) | 4:28 | 2022-06-29 | 2023-03-11 |
 | [Marbella](https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Marbella](https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq) | 2:33 | 2024-03-22 | 2024-07-06 |
@@ -733,7 +734,7 @@
 | [Vamos A Ser Feliz](https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Así Yo Soy](https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh) | 2:46 | 2024-05-31 | 2024-10-12 |
 | [Vanidad](https://open.spotify.com/track/1QlJSCz5vDDsvbDovwcVlV) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Casagemas](https://open.spotify.com/album/5tUWJ8CEcSx55oKlEfY8RH) | 4:50 | 2024-05-31 | 2024-07-13 |
 | [VEN BÁILALO](https://open.spotify.com/track/0gdKOAU9XYruhOndmI1ThO) | [Grupo Bip](https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC) | [VEN BÁILALO](https://open.spotify.com/album/4QXttgkD5d2BoBY6P1RmPo) | 3:36 | 2025-08-08 | 2025-09-27 |
-| [Ven y Ven](https://open.spotify.com/track/5rXed7tqtp5Q6lMuQmT4au) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Ven y Ven](https://open.spotify.com/album/7iLJ2i4h5tBD3bjl58CNEu) | 2:44 | 2025-08-08 |  |
+| [Ven y Ven](https://open.spotify.com/track/5rXed7tqtp5Q6lMuQmT4au) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Ven y Ven](https://open.spotify.com/album/7iLJ2i4h5tBD3bjl58CNEu) | 2:44 | 2025-08-08 | 2025-10-11 |
 | [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 | 2023-01-27 | 2023-03-04 |
 | [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 | 2023-01-13 | 2023-05-13 |
 | [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-06-29 | 2023-01-14 |

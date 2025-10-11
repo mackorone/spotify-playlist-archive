@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Froukje & S10
 
-1,092 songs - 2 day 4 hr 7 min
+1,092 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 | 2025-03-06 | 2025-06-06 |
 | [Bang Om Te Slapen](https://open.spotify.com/track/6U0RL3f5OC23TYrtt8O9vD) | [Yris](https://open.spotify.com/artist/5CG6KhdlPDnF2WzXHYHt34) | [Bang Om Te Slapen](https://open.spotify.com/album/1IpGgzwE6xkQur1Ed75vuK) | 2:13 | 2024-12-12 | 2025-03-07 |
 | [Barcelona](https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Barcelona](https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe) | 2:46 | 2025-07-17 | 2025-08-15 |
+| [Basis](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Basis](https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R) | 2:54 | 2025-10-09 |  |
 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 | 2023-06-01 | 2023-09-15 |
 | [Batterij](https://open.spotify.com/track/07Q1TmX0GW2FllCksCE4TE) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Batterij](https://open.spotify.com/album/45Msam5mtM5mOZHmDpnWCu) | 2:11 | 2023-08-31 | 2023-09-15 |
 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 | 2025-05-15 | 2025-08-29 |
@@ -922,7 +923,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 |  |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 1](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |
 | [Tranquilo](https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Tranquilo](https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx) | 2:36 | 2023-05-11 | 2023-08-25 |

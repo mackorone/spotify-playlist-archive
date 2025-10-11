@@ -1,332 +1,240 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10889,
+  "num_followers": 10891,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAALi3Xx81qsq9Icr9895lSIm0zsORwu",
+  "snapshot_id": "AAALjRcIJRS9NWxv3slGHicUlfjM1rkg",
   "tracks": [
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+        "name": "Make You Love Me",
+        "url": "https://open.spotify.com/album/3mHrWuh4b64kOYxhjZ3l6v"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+      "duration_ms": 264137,
+      "name": "Make You Love Me",
+      "url": "https://open.spotify.com/track/571fXOOmqZ5gyQa2Ao8uJK"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "superstar",
-        "url": "https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI"
+        "name": "HUMANiSE",
+        "url": "https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 169361,
-      "name": "superstar",
-      "url": "https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1"
+      "duration_ms": 338262,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg"
+        "name": "promised future",
+        "url": "https://open.spotify.com/album/4YLN8bhCScw7I5p0sNOLKn"
       },
       "artists": [
         {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+          "name": "homepage",
+          "url": "https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0"
+        }
+      ],
+      "duration_ms": 185817,
+      "name": "promised future",
+      "url": "https://open.spotify.com/track/7sKo8v1YR8gMNJGwtKqz4K"
+    },
+    {
+      "added_at": "2025-10-10 15:59:16",
+      "album": {
+        "name": "Norwegian Girl",
+        "url": "https://open.spotify.com/album/2NpxKPrvpZjHfgcRjiIhpz"
+      },
+      "artists": [
+        {
+          "name": "Donkeyboy",
+          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "Norwegian Girl",
+      "url": "https://open.spotify.com/track/0HS3by7bZmpF1xaRSKoVoX"
+    },
+    {
+      "added_at": "2025-10-10 15:59:16",
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 214913,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT"
+    },
+    {
+      "added_at": "2025-10-10 15:59:16",
+      "album": {
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
+    },
+    {
+      "added_at": "2025-10-10 15:59:16",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 226606,
-      "name": "Azimuth",
-      "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
+      "duration_ms": 168599,
+      "name": "Stateside + Kylie Minogue",
+      "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "ACT II: Too Hot To Learn My Lesson",
-        "url": "https://open.spotify.com/album/5kFVYslfv7BgGQ5EsolBRc"
+        "name": "Tarmac",
+        "url": "https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU"
       },
       "artists": [
         {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 165002,
-      "name": "Not To Be Dramatic",
-      "url": "https://open.spotify.com/track/5z4DhyZmxe7iRYWqWn4ZQg"
+      "duration_ms": 190093,
+      "name": "Tarmac",
+      "url": "https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "Disarray",
-        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+        "name": "Supermarket",
+        "url": "https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
         }
       ],
-      "duration_ms": 310853,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+      "duration_ms": 184155,
+      "name": "Supermarket",
+      "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI"
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 281213,
-      "name": "H\u00e4mta mer",
-      "url": "https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL"
+      "duration_ms": 173772,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "Wet Like (feat. COBRAH)",
-        "url": "https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9"
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 161344,
-      "name": "Wet Like (feat. COBRAH)",
-      "url": "https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ"
+      "duration_ms": 229151,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/4IlevBc2S1bHXuMyHtUqIs"
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
       "artists": [
         {
-          "name": "Vendela",
-          "url": "https://open.spotify.com/artist/7MxYvRGxjQ6AGV0vwBqzLW"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/586qjhYduwtlkkpva5qOFZ"
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "All The Way Up / THE ANTI RUMINATION ANTHEM",
-        "url": "https://open.spotify.com/album/4sYquV8XpzvdsJXSE9VzyG"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 192395,
-      "name": "THE ANTI RUMINATION ANTHEM",
-      "url": "https://open.spotify.com/track/2lfXz7R4RNrWvmFPaQycM7"
+      "duration_ms": 139390,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk"
     },
     {
-      "added_at": "2025-10-07 21:27:03",
+      "added_at": "2025-10-10 15:59:16",
       "album": {
-        "name": "The Things",
-        "url": "https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd"
+        "name": "Only One Laughing",
+        "url": "https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw"
       },
       "artists": [
         {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
         }
       ],
-      "duration_ms": 206075,
-      "name": "The Things",
-      "url": "https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Earthday",
-        "url": "https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "PLAY HARD!",
-      "url": "https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Doubling Down",
-        "url": "https://open.spotify.com/album/5w00RTIlR9aEQbuCY0fCuX"
-      },
-      "artists": [
-        {
-          "name": "Callinsick",
-          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "2CB",
-      "url": "https://open.spotify.com/track/6Bt1H5GLsDnKJMpwXY30jQ"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/60mEIQgI9H5jdxRtMckHfp"
-      },
-      "artists": [
-        {
-          "name": "ChiChi",
-          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/7kN0fXoo4jzicV2hhvnrkn"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 169099,
-      "name": "The Nightlife",
-      "url": "https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/6nKLsWYaiEy1PeF27P0kcB"
-      },
-      "artists": [
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        }
-      ],
-      "duration_ms": 139452,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/4nBr3MtBEAAXWU9HBPmxFs"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Pushing Up Flowers",
-        "url": "https://open.spotify.com/album/2phsPMNzqeSdP7o3LKNw2m"
-      },
-      "artists": [
-        {
-          "name": "Leah Cleaver",
-          "url": "https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM"
-        }
-      ],
-      "duration_ms": 202449,
-      "name": "I Go (Outta My Mind)",
-      "url": "https://open.spotify.com/track/5A3Olx8TmU6HpZVitRuD9g"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "play me like a speaker",
-        "url": "https://open.spotify.com/album/4rd6PIDkOzq2Xy1hQSf7ki"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        }
-      ],
-      "duration_ms": 189519,
-      "name": "play me like a speaker",
-      "url": "https://open.spotify.com/track/2Db4ymX1AivTU8lUJbT8F6"
-    },
-    {
-      "added_at": "2025-10-07 21:27:03",
-      "album": {
-        "name": "Blasting Through the Speakers",
-        "url": "https://open.spotify.com/album/2ZaBTwE8ma5O8QMyLON6Wf"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Blasting Through the Speakers",
-      "url": "https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86"
+      "duration_ms": 249813,
+      "name": "Only One Laughing",
+      "url": "https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

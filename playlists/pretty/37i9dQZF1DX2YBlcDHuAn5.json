@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33436,
+  "num_followers": 33438,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189136,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "Wanna Be Loved",
         "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189136,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "The Man He Sees in Me",
         "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 165058,
       "name": "The Man He Sees in Me",
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2025-10-09 22:00:22",

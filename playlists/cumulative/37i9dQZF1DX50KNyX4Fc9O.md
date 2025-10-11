@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: RIIKI REID
 
-2,243 songs - 4 day 19 hr 36 min
+2,243 songs - 4 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,7 +1333,7 @@
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2025-05-23 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-11 | 2024-01-19 |
 | [Nada](https://open.spotify.com/track/0M7evS0r2rbRSt61GMH4e7) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Nada](https://open.spotify.com/album/405mKNtoyJhnJRB7zdUqIn) | 2:56 | 2023-10-12 | 2023-11-10 |
-| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-09 |  |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-09 |  |
 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 | 2024-05-30 | 2024-07-12 |
 | [Naked Eye](https://open.spotify.com/track/1964OnoI5ceUXsyX478MTK) | [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Naked Eye](https://open.spotify.com/album/6IR5I5Rdfg26xz282ywM6L) | 3:15 | 2024-05-09 | 2024-06-07 |
 | [NAME](https://open.spotify.com/track/1aq72ZA5nqXMDrkYcaD5tv) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [NAME](https://open.spotify.com/album/6Y68e8m5VBOLLNuRQa7Ha1) | 2:44 | 2025-06-19 | 2025-08-01 |
@@ -1543,6 +1543,7 @@
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-23 | 2025-03-07 |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-14 | 2024-01-19 |
 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-06-15 | 2023-06-30 |
+| [Race Against My Heartbeat](https://open.spotify.com/track/5OMvBo5dBvNVDnGDuSDpsr) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Drench](https://open.spotify.com/album/7iO6ONbfPWRfJ7fjgbcsai) | 3:22 | 2025-10-09 |  |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-06 | 2025-05-09 |
 | [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 | 2023-09-21 | 2023-11-17 |
 | [Ransom](https://open.spotify.com/track/3khCD3lUTYeSEDxQiZlhMM) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Ransom](https://open.spotify.com/album/2MKyE6AcvtLiW7I8tGsn9k) | 3:47 | 2025-04-17 | 2025-06-06 |
@@ -1761,7 +1762,7 @@
 | [Starlight](https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Starlight](https://open.spotify.com/album/4XBfn00cMvek6wfgMYfHbI) | 2:57 | 2024-05-09 | 2024-06-14 |
 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-06-15 | 2023-06-30 |
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-11-30 | 2024-01-12 |
-| [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [](https://open.spotify.com/album/null) | 2:48 | 2025-10-09 |  |
+| [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:48 | 2025-10-09 |  |
 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 | 2025-09-25 |  |
 | [Stay Baby](https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Stay Baby](https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn) | 4:19 | 2024-12-19 | 2025-02-07 |
 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 | 2024-03-28 | 2024-04-19 |
@@ -1883,7 +1884,7 @@
 | [That's Life, Baby!](https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [That's Life, Baby!](https://open.spotify.com/album/08Ideg6by3nkyndCpHeuhq) | 2:52 | 2025-02-27 | 2025-04-11 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-06-15 | 2023-06-23 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-01-10 |
-| [The Art of Falling First](https://open.spotify.com/track/6wfTmPRIqLGSgCPc9fQyTV) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [](https://open.spotify.com/album/null) | 2:54 | 2025-10-09 |  |
+| [The Art of Falling First](https://open.spotify.com/track/6wfTmPRIqLGSgCPc9fQyTV) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [The Art of Falling First](https://open.spotify.com/album/3FJQmvF9KwRMVbrIaxq2ms) | 2:54 | 2025-10-09 |  |
 | [The Best Part Of Breaking Up](https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [The Best Part Of Breaking Up](https://open.spotify.com/album/0KUGJvfbUmt51au87OFErP) | 3:11 | 2024-01-18 | 2024-02-09 |
 | [The Border](https://open.spotify.com/track/5FW4knPYJ9YdJEqlR1yfQ3) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [The Border](https://open.spotify.com/album/5zGSQPMJZOk8yFknVMsqlR) | 2:48 | 2024-10-11 | 2024-11-15 |
 | [the bright side of you](https://open.spotify.com/track/5P8DySKQHYBj90E36zBGYG) | [ZUVA](https://open.spotify.com/artist/2KC09pBV4Po13y6jOwSKID) | [Not That I Care](https://open.spotify.com/album/6Kxw0Cp9LMYQfeWR4kJqdG) | 2:46 | 2025-07-03 | 2025-08-08 |
@@ -2014,7 +2015,6 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-23 | 2024-06-28 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 3](https://open.spotify.com/track/5OMvBo5dBvNVDnGDuSDpsr) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-06 | 2023-08-25 |
@@ -2197,7 +2197,7 @@
 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 | 2025-09-04 | 2025-10-10 |
 | [word vomit](https://open.spotify.com/track/70xpZOsRTZHf4vX2bzCGug) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [word vomit](https://open.spotify.com/album/7tS1Iw3bGvG00RXpcvjZRk) | 3:32 | 2024-03-14 | 2024-04-05 |
 | [Work It Out](https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Work It Out](https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y) | 2:30 | 2024-07-19 | 2024-08-23 |
-| [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [](https://open.spotify.com/album/null) | 2:59 | 2025-10-09 |  |
+| [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 | 2025-10-09 |  |
 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 | 2025-04-10 | 2025-05-30 |
 | [Worse for Wear](https://open.spotify.com/track/5Lo4Wsifk4SDKRJ6gPtgcQ) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Worse for Wear](https://open.spotify.com/album/7C7MKS3ogNHGJyeQjmljKy) | 2:49 | 2025-04-17 | 2025-06-06 |
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-10 | 2025-05-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 59567,
+  "num_followers": 59571,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Cambio De Piel",
+        "url": "https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Lucha En Equilibrio",
+      "url": "https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Cambio De Piel",
-        "url": "https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Lucha En Equilibrio",
-      "url": "https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Cuentas Pendientes",
-        "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
-      },
-      "artists": [
-        {
-          "name": "Tremenda Jaur\u00eda",
-          "url": "https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8"
-        },
-        {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
-        }
-      ],
-      "duration_ms": 208158,
-      "name": "Nos Deseo",
-      "url": "https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Cuentas Pendientes",
+        "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
+      },
+      "artists": [
+        {
+          "name": "Tremenda Jaur\u00eda",
+          "url": "https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8"
+        },
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 208158,
+      "name": "Nos Deseo",
+      "url": "https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 190169,
       "name": "D\u00e9jame de Matar",
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2024-07-23 21:39:12",

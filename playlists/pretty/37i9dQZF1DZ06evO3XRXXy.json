@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 148988,
+  "num_followers": 149018,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAByOzcIYVuF+eOqxm+RRLsZ",
+  "snapshot_id": "aOb7AAAAAABSgg9uY1EB4n1OsURVakFx",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Going Home - Edit",
-      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 334160,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+      "duration_ms": 261866,
+      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
     },
     {
       "added_at": null,
@@ -339,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 261866,
-      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
-      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
     },
     {
       "added_at": null,

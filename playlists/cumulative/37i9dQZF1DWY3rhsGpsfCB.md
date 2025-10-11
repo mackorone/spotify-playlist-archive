@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-846 songs - 1 day 19 hr 33 min
+847 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [attention](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 | 2022-06-24 | 2023-02-11 |
 | [Avoid Things](https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:44 | 2022-06-24 | 2023-11-24 |
 | [Aweh](https://open.spotify.com/track/7qDjCYL4F7xvLm9LsqEw5U) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Aweh](https://open.spotify.com/album/7FVDyG8RryPZC9qPzl1bzZ) | 3:04 | 2025-03-14 | 2025-04-05 |
+| [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 | 2025-10-10 |  |
 | [Back For More](https://open.spotify.com/track/6V05qFS4oDAO7WjUSKh9tp) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Back For More](https://open.spotify.com/album/1iDvvvirRGmT74hyU0AsZt) | 2:43 | 2024-04-05 | 2024-05-09 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-11 |  |
 | [Back to Kids](https://open.spotify.com/track/1gitm0ex2VODvSmsycXCT6) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Back to Kids](https://open.spotify.com/album/5K18XsjMruVGdgEp2VTmPy) | 3:33 | 2022-06-24 | 2023-03-18 |
@@ -451,7 +452,7 @@
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2024-06-28 |
 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 | 2023-09-29 | 2024-02-23 |
 | [Melo](https://open.spotify.com/track/6DYmGpZ1a45MlLqf6w5UiL) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I) | [Melo](https://open.spotify.com/album/3FbED3SjtuHsbtXQ70XCOu) | 2:22 | 2023-09-09 | 2023-09-15 |
-| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [](https://open.spotify.com/album/null) | 3:07 | 2025-10-10 |  |
+| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 |  |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-02-24 |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2024-05-09 |
 | [MENACE](https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [MENACE](https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN) | 2:34 | 2025-05-30 | 2025-08-06 |
@@ -611,7 +612,7 @@
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-09-15 |
 | [recognize](https://open.spotify.com/track/6ezXpXqbGqIwxUuVBMpHTp) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 1:23 | 2022-07-14 | 2022-08-30 |
 | [Recovery](https://open.spotify.com/track/30ExC7bZ2Kfn6Vq3uuigaU) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Recovery](https://open.spotify.com/album/4x4RDCyzsUAIktzrYftG8D) | 2:36 | 2025-04-18 | 2025-05-30 |
-| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 |  |
+| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 | 2025-10-11 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-06-03 |
 | [Ride On](https://open.spotify.com/track/1dbIKtqZKYf9Cd1NVj371b) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Ride On / Not There Yet](https://open.spotify.com/album/7uErdR5nk4QQ1bSXFS7J54) | 3:01 | 2025-07-11 | 2025-08-01 |
 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 | 2023-04-14 | 2023-08-11 |

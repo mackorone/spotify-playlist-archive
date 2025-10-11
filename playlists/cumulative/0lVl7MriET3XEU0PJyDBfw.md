@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Bassline Therapy Radio on SoundCloud
 
-861 songs - 1 day 21 hr 34 min
+862 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Go Deep](https://open.spotify.com/track/2wMaAledVg5K34rwel94lv) | [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Go Deep](https://open.spotify.com/album/6c69kxdg4BMAS50DqA1lL2) | 3:10 | 2024-12-21 | 2025-03-10 |
 | [Go Fast](https://open.spotify.com/track/5KJ8TLJypyM3nnFZtWbbry) | [NUVZ](https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE), [Earoz](https://open.spotify.com/artist/7r5ZbYkyuez13TabFkfClH) | [Go Fast](https://open.spotify.com/album/2e0eU2uGGfV9vMd5ytU6J4) | 2:40 | 2024-06-23 | 2024-08-20 |
 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 | 2025-02-16 | 2025-04-20 |
+| [Goin' Fast](https://open.spotify.com/track/4N0PgV1TApHFNw6i0qNMBb) | [Shane Harjes](https://open.spotify.com/artist/2kOdEBV4n3GmfLC1nwb9Az) | [Vol\. 033](https://open.spotify.com/album/2WW1VAiueQghfBS4d2BplU) | 2:21 | 2025-10-10 |  |
 | [Going Down](https://open.spotify.com/track/47nm46iNKraVa2bGu8TYlz) | [Fenk](https://open.spotify.com/artist/4RIf2BdbQ8IMgPx6eet3zQ) | [Going Down](https://open.spotify.com/album/11FlM6yXmeslRHFuxjb4pu) | 2:44 | 2024-01-15 | 2024-01-30 |
 | [Good Girls](https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Good Girls](https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI) | 3:01 | 2025-01-26 | 2025-04-06 |
 | [Good Time](https://open.spotify.com/track/2ELo8EDLsJuK6RgCCbOBdz) | [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Good Time](https://open.spotify.com/album/1wEzfwVzga6B4DOo3v6cwS) | 2:27 | 2025-09-14 |  |

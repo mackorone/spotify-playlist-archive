@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Elephant Brain regaz in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,673 likes - 108 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,669 likes - 108 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Non conta niente](https://open.spotify.com/track/6XVGtCxFXoNyDdFEC2LOK6) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [](https://open.spotify.com/album/null) | 4:08 |
+| 1 | [Non conta niente](https://open.spotify.com/track/6XVGtCxFXoNyDdFEC2LOK6) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Almeno per ora](https://open.spotify.com/album/0sqRw2mJhWz7Vl78iUFXCm) | 4:08 |
 | 2 | [Marea](https://open.spotify.com/track/0LQNGEtKgT6JdNNu0jYzv0) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Marea](https://open.spotify.com/album/7ET1DVw5RFcnOeTRugTr4T) | 3:30 |
 | 3 | [Piangere al lavoro](https://open.spotify.com/track/2Uuh4QVOssmk5rAkj9AnWZ) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Aurora Popolare](https://open.spotify.com/album/2YGIiQGaU0U3ejGfqzogML) | 3:11 |
 | 4 | [\(non\) mi piace](https://open.spotify.com/track/6PPEzKxkPPb2S9hVkcGLqK) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [\(non\) mi piace](https://open.spotify.com/album/78waya964QU1EDXu7mCqPq) | 2:36 |

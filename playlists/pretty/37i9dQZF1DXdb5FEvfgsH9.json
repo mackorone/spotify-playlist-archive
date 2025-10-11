@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 32768,
+  "num_followers": 32773,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMc5W95ygEednFUNAmZrpx3VAZmd",
+  "snapshot_id": "AAAAAA6H77l/SeUW+JluMuhoaXTlk5b8",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/0IcBvmSu9Ivd2NsPdsMLcL"
+      },
+      "artists": [
+        {
+          "name": "GEM BRUL\u00c9",
+          "url": "https://open.spotify.com/artist/5npti4V81GoFYnBw1YSq1L"
+        },
+        {
+          "name": "Justin Starling",
+          "url": "https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "ALL NIGHT",
+      "url": "https://open.spotify.com/track/0ZkRu8xmo2at41FHL12V3S"
+    },
     {
       "added_at": "2025-08-22 04:00:20",
       "album": {
@@ -891,26 +911,6 @@
       "duration_ms": 270804,
       "name": "1988",
       "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "Funk Aesthetics",
-        "url": "https://open.spotify.com/album/6vt5eZTbyId7w8pBNtDBuY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Prewett",
-          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
-        },
-        {
-          "name": "Jon Mullins",
-          "url": "https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP"
-        }
-      ],
-      "duration_ms": 183096,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W"
     },
     {
       "added_at": "2021-07-26 17:42:45",

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Great Lake Swimmers
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,442 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,440 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [For You To Come Around](https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [](https://open.spotify.com/album/null) | 3:50 |
+| 1 | [For You To Come Around](https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Caught Light](https://open.spotify.com/album/0JnBkAx6y0lyBcJ8WSSzOI) | 3:50 |
 | 2 | [Break The Jaw](https://open.spotify.com/track/5J9Y2roWzvClVvb39fHMiW) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Break The Jaw](https://open.spotify.com/album/2khFgwnRjBab1uWRBVGI9H) | 4:07 |
 | 3 | [Why’d You Have To Bring Me Flowers](https://open.spotify.com/track/7viO1UnkLczY52y7OubgwH) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Why'd You Have To Bring Me Flowers](https://open.spotify.com/album/6HoiyRU8htmd6UdeBEYoWr) | 4:04 |
 | 4 | [Fruit Bat](https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Fruit Bat](https://open.spotify.com/album/0FFPcGdpvNUoJJWr1uYZH7) | 8:17 |
 | 5 | [Little Help](https://open.spotify.com/track/55Gj1Jn2NbSugAhzLudq9F) | [Rachel Cousins](https://open.spotify.com/artist/7DpXoKZYGVplF7otoL4gnY) | [What Hasn't Killed Me](https://open.spotify.com/album/43uFEhUcvRx1niAD3whHZK) | 4:12 |
 | 6 | [Bound to Rain \- Live](https://open.spotify.com/track/1Ii9SXQyAixGG35Okz4MuZ) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Bound to Rain \(Live\)](https://open.spotify.com/album/1zWZuWyM7Gjon2LI6slnz7) | 2:52 |
 | 7 | [Get It Over With](https://open.spotify.com/track/3U2ssFocMXixGcMyMfCK77) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [The Pleasantville Sessions](https://open.spotify.com/album/02EzJitxNC5vFYcob0Zuos) | 4:38 |
-| 8 | [Track 6](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [](https://open.spotify.com/album/null) | 0:00 |
-| 9 | [Like Me](https://open.spotify.com/track/6P8IIwWWumTQxfSrY5Ybv7) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [](https://open.spotify.com/album/null) | 3:23 |
+| 8 | [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 |
+| 9 | [Like Me](https://open.spotify.com/track/6P8IIwWWumTQxfSrY5Ybv7) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Clumps](https://open.spotify.com/album/0U5U2xrZOzdw49udoA00xg) | 3:23 |
 | 10 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 |
 | 11 | [CAT SONG](https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [CAT SONG](https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw) | 2:34 |
 | 12 | ['Til Later](https://open.spotify.com/track/0r85lST3XcWqBZMvUIiGtS) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Sweet Deliverance](https://open.spotify.com/album/2xRvArNEzP3rSscsTfGSMQ) | 3:33 |

@@ -4,7 +4,7 @@
 
 > this house plays Jazz House 🏠  featuring Bolden.
 
-150 songs - 9 hr 56 min
+151 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ben Days](https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Ben Days](https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J) | 3:20 | 2025-04-04 |  |
 | [bianca](https://open.spotify.com/track/6220GDztdVktDOvs48Rw0d) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [bianca](https://open.spotify.com/album/0ClcyQk8ZXFRwPQyNnKQZI) | 2:35 | 2025-05-30 |  |
 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 | 2025-02-21 |  |
-| [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 |  |
+| [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 | 2025-10-11 |
 | [Bluff Structure](https://open.spotify.com/track/7LLaeVdiSfT0Fv2uWjlwoV) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Bluff Structure](https://open.spotify.com/album/4ZSqEFjNNU3Mex8kn98mlV) | 4:28 | 2025-08-29 |  |
 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2025-02-21 |  |
 | [Bossa Love](https://open.spotify.com/track/393QMam52QYLT9FqrlkBZc) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Bossa Love](https://open.spotify.com/album/62emtUMLEvcHSav4mQARmZ) | 3:10 | 2025-03-07 |  |
@@ -158,5 +158,6 @@
 | [Where are our voices.](https://open.spotify.com/track/20QuH7i9VEeBw9DpPvoCCA) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Where are our voices.](https://open.spotify.com/album/19NTRRctuvp2Cqk1Rfg9AH) | 2:24 | 2025-07-25 |  |
 | [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-02-28 | 2025-04-26 |
 | [Would appear to be jazz.](https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH) | 2:39 | 2025-04-25 |  |
+| [⁠Apt To Sidewalk Stand](https://open.spotify.com/track/5deJC7o86gjJoPobebQohn) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [How To Dance Freely Without Social Anxiety](https://open.spotify.com/album/0eTVJWgSKXud0nj1yDWan0) | 3:24 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2025-02-26. Prior content cannot be recovered.

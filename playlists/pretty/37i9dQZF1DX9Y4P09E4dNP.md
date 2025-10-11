@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,064 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,090 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 5 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 |
 | 6 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 |
 | 7 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 |
-| 8 | [Track 13](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 |
 | 9 | [Pancake](https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Pancake](https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK) | 2:29 |
 | 10 | [Emotional](https://open.spotify.com/track/2tDYu64ZvvrKhkbIPUaz1w) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Emotional](https://open.spotify.com/album/7Fotsa6opC9g2cIQwK5FVw) | 2:28 |
 | 11 | [STREET CROWN \(African Dancehall\)](https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [VOICE OF THE CROWN \(African Dancehall\)](https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5) | 2:55 |

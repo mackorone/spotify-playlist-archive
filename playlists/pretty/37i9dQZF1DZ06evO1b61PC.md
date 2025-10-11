@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,320 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,318 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 31 | [We Rise \- Jai Wolf Remix](https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Rise \(Jai Wolf Remix\)](https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW) | 3:08 |
 | 32 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 4:43 |
 | 33 | [Half Hearted \- Demo](https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:54 |
-| 34 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
-| 35 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
+| 34 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
+| 35 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
 | 36 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 1:40 |
 | 37 | [In The End \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [In The End \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc) | 3:49 |
 | 38 | [Flight Log 822](https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 2:03 |
 | 39 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 |
 | 40 | [Melancholy Ave\. / God Only Knows \(feat\. SAYAK DAS\)](https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 7:22 |
 
-Snapshot ID: `aOWpgAAAAABEPOndq10JCZYg5ud3f7ju`
+Snapshot ID: `aOb7AAAAAABWpnfh3li4c4fho8fRZW1G`

@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: The Vices
 
-604 songs - 1 day 11 hr 2 min
+604 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Dynamite](https://open.spotify.com/track/4CfR79xn4JT6XH6gBwLtft) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [Dynamite](https://open.spotify.com/album/2HlvO6zXXBpw8KeA8V8UDr) | 3:25 | 2025-01-09 | 2025-03-22 |
 | [Easier Said Than Done](https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Easier Said Than Done](https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC) | 3:05 | 2025-06-05 | 2025-08-30 |
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-09 | 2024-10-23 |
+| [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 | 2025-10-09 |  |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-04 | 2025-06-21 |
 | [Eva](https://open.spotify.com/track/4I1mXqJeAcCreAEP0tAKHG) | [Queen's Pleasure](https://open.spotify.com/artist/6S0O3eQiVrw78LG1z2EE4h) | [Eva](https://open.spotify.com/album/2f0rzCRR4HFFetoLsPQl0y) | 3:34 | 2025-06-27 | 2025-09-13 |
 | [Evenfall](https://open.spotify.com/track/6e5Cw6TEhIO5XVEAGlidCa) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY) | 3:14 | 2025-01-16 | 2025-02-18 |
@@ -549,7 +550,6 @@
 | [Toot Toot](https://open.spotify.com/track/5i3ZDK1yWMoFgLAu5O83ul) | [Global Charming](https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t) | [Toot Toot, Choo Choo](https://open.spotify.com/album/1okAwOqNUWgKLUJgkfBC9P) | 3:31 | 2025-02-21 | 2025-05-07 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-24 | 2024-07-10 |
 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-10-22 | 2025-01-17 |
-| [Track 3](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Trapped Under Nice](https://open.spotify.com/track/6USWG3CNM00MQ9zxpiTgdZ) | [Tusky](https://open.spotify.com/artist/6XbZ8G0cFqSgUL4FmtiSPr) | [Trapped Under Nice](https://open.spotify.com/album/1pdIvCKWmGcg2a7HCJ8TQe) | 1:22 | 2024-09-24 | 2024-11-23 |
 | [Trash Blanket](https://open.spotify.com/track/3crOykl82l9i6NtkzTsM8G) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Trash Blanket](https://open.spotify.com/album/5nSMOh9sxfJOLlDZP7rcXR) | 3:14 | 2024-07-26 | 2024-09-14 |
 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 | 2025-09-05 | 2025-09-19 |

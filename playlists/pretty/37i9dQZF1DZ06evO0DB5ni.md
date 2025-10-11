@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,522 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,750 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 30 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 |
 | 31 | [Una Raya Más al Tigre](https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg) | [Banda Elemental de Mazatlán Sinaloa](https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz), [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Una Raya Más al Tigre](https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB) | 2:19 |
 | 32 | [Márchate](https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 2:54 |
-| 33 | [La Hice Sufrir](https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:56 |
-| 34 | [Tesoro](https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tesoro](https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna) | 2:24 |
+| 33 | [Tesoro](https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tesoro](https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna) | 2:24 |
+| 34 | [La Hice Sufrir](https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:56 |
 | 35 | [Decide Tú](https://open.spotify.com/track/0uzmqJiynxBYYZ1Eo6iPkm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:30 |
 | 36 | [Olvídame](https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 4:03 |
-| 37 | [Lección Aprendida](https://open.spotify.com/track/3TKcpYPqR5Z2H4c5PhXcce) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 3:54 |
-| 38 | [Eso Si Me Dolió](https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:14 |
+| 37 | [Eso Si Me Dolió](https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:14 |
+| 38 | [Lección Aprendida](https://open.spotify.com/track/3TKcpYPqR5Z2H4c5PhXcce) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 3:54 |
 | 39 | [Buscándole A La Suerte](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Buscándole A La Suerte](https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au) | 2:18 |
 | 40 | [Tú No Tienes La Culpa](https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:46 |
 | 41 | [Safo En El Amor](https://open.spotify.com/track/3nwVXnH87Q9f1RaAODNoyl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [Dueña De Mis Besos](https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tesoro](https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna) | 2:31 |
 | 50 | [Amantes De Media Noche](https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:48 |
 
-Snapshot ID: `aOWpgAAAAAC5LX8wV8V47c5JSaNSXZBA`
+Snapshot ID: `aOb7AAAAAADDZmAjVTgUsoJiwJIePH96`

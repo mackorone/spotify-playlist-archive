@@ -4,7 +4,7 @@
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Sofia Camara
 
-584 songs - 1 day 6 hr 47 min
+587 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-22 | 2024-01-27 |
 | [Cocoon](https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Cocoon](https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT) | 3:17 | 2024-05-05 | 2025-04-05 |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-11-06 | 2024-01-27 |
+| [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 |  |
 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 | 2023-11-06 | 2023-11-25 |
 | [Contemporary Love](https://open.spotify.com/track/3jibxarV3Y32C8R3AhjrRf) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Contemporary Love](https://open.spotify.com/album/2O5vTJTN8GAch6g0n9gBsJ) | 2:47 | 2023-11-06 | 2023-11-25 |
 | [Contemporary Love](https://open.spotify.com/track/4XHF75XJbmUt7LVUwuOpyC) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:47 | 2024-07-09 | 2025-10-10 |
@@ -279,6 +280,7 @@
 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-11-06 | 2023-11-25 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-06 | 2024-02-27 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-11-06 | 2023-11-25 |
+| [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-10 |  |
 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 | 2025-04-11 |  |
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 |  |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-11-24 | 2024-02-27 |
@@ -359,6 +361,7 @@
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-30 | 2025-10-10 |
 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 | 2025-05-14 | 2025-10-10 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-06-14 | 2024-07-10 |
+| [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nighttime Thing](https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj) | 2:24 | 2025-10-10 |  |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-11-06 | 2023-11-25 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-10-09 |  |
 | [No Me Cansare](https://open.spotify.com/track/7syffZQA1dpkQelMckldEw) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [No Me Cansare](https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx) | 2:42 | 2024-10-18 | 2025-02-01 |

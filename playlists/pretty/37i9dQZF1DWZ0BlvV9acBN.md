@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,375 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,374 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 8 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 9 | [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 |
 | 10 | [Oração](https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Oração](https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR) | 4:04 |
-| 11 | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9) | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD) | 5:29 |
-| 12 | [Minha Esperança](https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Minha Esperança](https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq) | 5:21 |
+| 11 | [Minha Esperança](https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Minha Esperança](https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq) | 5:21 |
+| 12 | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9) | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD) | 5:29 |
 | 13 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
-| 14 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
-| 15 | [Davi \- Ao Vivo](https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Davi \(Ao Vivo\)](https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg) | 3:16 |
+| 14 | [Davi \- Ao Vivo](https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Davi \(Ao Vivo\)](https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg) | 3:16 |
+| 15 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
 | 16 | [467 \(Cabo da Nau\)](https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [467 \(Cabo da Nau\)](https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA) | 2:37 |
 | 17 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 |
 | 18 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 |

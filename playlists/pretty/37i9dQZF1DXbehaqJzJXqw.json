@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 613934,
+  "num_followers": 614364,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -555,8 +555,8 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
-        "name": "Quelqu'un M'a Dit",
-        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
+        "name": "Little French Songs (Deluxe Version Without Videos)",
+        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
       },
       "artists": [
         {
@@ -564,41 +564,9 @@
           "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 208826,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
-    },
-    {
-      "added_at": "2025-10-03 07:27:07",
-      "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2025-10-03 07:27:07",
-      "album": {
-        "name": "Deux",
-        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Juste quelqu'un de bien",
-      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
+      "duration_ms": 216282,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
     },
     {
       "added_at": "2025-10-03 07:27:07",
@@ -619,6 +587,38 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
+        "name": "Deux",
+        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Juste quelqu'un de bien",
+      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
+    },
+    {
+      "added_at": "2025-10-03 07:27:07",
+      "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
+    },
+    {
+      "added_at": "2025-10-03 07:27:07",
+      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -635,8 +635,8 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
-        "name": "Little French Songs (Deluxe Version Without Videos)",
-        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
+        "name": "Quelqu'un M'a Dit",
+        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 216282,
-      "name": "Libert\u00e9",
-      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
+      "duration_ms": 208826,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
     },
     {
       "added_at": "2025-10-03 07:27:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2025-10-03 07:27:07",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2025-10-03 07:27:07",
+      "album": {
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+      },
+      "artists": [
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+        }
+      ],
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2025-10-03 07:27:07",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
-        "name": "Sa Majest\u00e9 Le Jazz",
-        "url": "https://open.spotify.com/album/0vTAUALKHMjkO2kVzxIqZB"
-      },
-      "artists": [
-        {
-          "name": "Claude Nougaro",
-          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Armstrong",
-      "url": "https://open.spotify.com/track/1mR2KQy1rN55wbCr0rfAqN"
-    },
-    {
-      "added_at": "2025-10-03 07:27:07",
-      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2025-10-03 07:27:07",
+      "album": {
+        "name": "Sa Majest\u00e9 Le Jazz",
+        "url": "https://open.spotify.com/album/0vTAUALKHMjkO2kVzxIqZB"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Armstrong",
+      "url": "https://open.spotify.com/track/1mR2KQy1rN55wbCr0rfAqN"
     },
     {
       "added_at": "2025-10-03 07:27:07",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
-      },
-      "artists": [
-        {
-          "name": "Leo Marjane",
-          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2025-10-03 07:27:07",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 146306,
       "name": "Baudelaire",
       "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
+    },
+    {
+      "added_at": "2025-10-03 07:27:07",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "Leo Marjane",
+          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2025-10-03 07:27:07",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-10-03 07:27:07",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
-      },
-      "artists": [
-        {
-          "name": "Raquel Bitton",
-          "url": "https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Nuages - Studio recording",
-      "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
-    },
-    {
-      "added_at": "2025-10-03 07:27:07",
-      "album": {
         "name": "Balade \u00e0\u00a0Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
         "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 139548,
       "name": "Saint-tropez blues",
       "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
+    },
+    {
+      "added_at": "2025-10-03 07:27:07",
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
+      },
+      "artists": [
+        {
+          "name": "Raquel Bitton",
+          "url": "https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Nuages - Studio recording",
+      "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
     },
     {
       "added_at": "2025-10-03 07:27:07",

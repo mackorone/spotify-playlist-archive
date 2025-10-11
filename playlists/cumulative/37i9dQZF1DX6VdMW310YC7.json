@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
+    },
+    {
+      "album": {
         "name": "Places We Don't Know",
         "url": "https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG"
       },
@@ -13268,7 +13286,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"

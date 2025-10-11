@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
+> Best of Haryanvi Hip\-Hop! Cover: Khasa Aala Chahar & Anny Kathwar
 
-497 songs - 1 day 1 hr 13 min
+498 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 | 2023-12-14 | 2024-02-08 |
 | [Banger](https://open.spotify.com/track/0WSsU9xfo2zGol8MYqO9q4) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Banger](https://open.spotify.com/album/4SpOQqLYAKJg1woQLczbjm) | 3:28 | 2024-03-29 | 2025-01-11 |
 | [Bann Main Rahya Karu](https://open.spotify.com/track/5u29jcCehy4SYKRG3OON9F) | [Harsh Gahlot](https://open.spotify.com/artist/64QTwumjPa6cpyki0ckyxq), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh), [Azaad Khanda Khedi](https://open.spotify.com/artist/3SXlEH01NE35u5kZ74jEAd) | [Bann Main Rahya Karu](https://open.spotify.com/album/4OaEiZsyJ6QQHMPHuE2aQr) | 3:20 | 2025-06-20 |  |
-| [Banna](https://open.spotify.com/track/4EJeXbGlUuFBhXrWhTcavw) | [Viren](https://open.spotify.com/artist/1UfQ6wLvSJXXwM3dfOZkPO) | [Banna](https://open.spotify.com/album/2Nhq6x2kUsGJkHIQSqYozj) | 2:28 | 2025-10-07 |  |
+| [Banna](https://open.spotify.com/track/4EJeXbGlUuFBhXrWhTcavw) | [Viren](https://open.spotify.com/artist/1UfQ6wLvSJXXwM3dfOZkPO) | [Banna](https://open.spotify.com/album/2Nhq6x2kUsGJkHIQSqYozj) | 2:28 | 2025-10-07 | 2025-10-11 |
 | [Barmer To Hongkong](https://open.spotify.com/track/4e7OUJxaMFpN2mb5msncZY) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Smokey](https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW) | [Barmer To Hongkong](https://open.spotify.com/album/1a76HZ1gdIgyCKAFEkrVfF) | 2:39 | 2025-03-28 | 2025-05-14 |
 | [Batau Ke](https://open.spotify.com/track/3Q9JAU3UKc2oxpGLqbTBdU) | [Jassi Prince](https://open.spotify.com/artist/3OD31rCk0oTk8LSmpzx6hi), [Sumit Mangali](https://open.spotify.com/artist/6XFpyrsgncXqUGON83CUg4), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Batau Ke](https://open.spotify.com/album/5sJYy4QA3nKNLlzz6jXKQ9) | 2:52 | 2025-10-03 |  |
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-13 |  |
@@ -445,6 +445,7 @@
 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 | 2023-03-28 | 2024-08-05 |
 | [Solo](https://open.spotify.com/track/6hH0jv0z1TGx6KhZTCBpe7) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Solo](https://open.spotify.com/album/0T0TknPntxbVXqM223ZKKM) | 2:32 | 2024-05-29 | 2024-06-06 |
 | [Starboi](https://open.spotify.com/track/3zD7R5lLWTftChvT4mArsb) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Starboi](https://open.spotify.com/album/3pfamLffYqusrGZe2Qzu9B) | 2:44 | 2025-05-23 | 2025-06-25 |
+| [Status](https://open.spotify.com/track/5sXq9UvI4ocTiCDjZRPp3w) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Anny Kathwar](https://open.spotify.com/artist/2REe2hnd6p23EwBY41U0YX) | [Status](https://open.spotify.com/album/43U7UnUHgIriPSvFMTEwgO) | 3:00 | 2025-10-10 |  |
 | [Success](https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Success](https://open.spotify.com/album/7K4xHrateeQtpa7n3bV0XN) | 4:01 | 2023-09-27 |  |
 | [Suit Ki Kadhayi](https://open.spotify.com/track/372TareXWYPDPaJWpr5BGH) | [Old Sinners](https://open.spotify.com/artist/6uN0yKoOoelg1X2GnSj35s), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN) | [Suit Ki Kadhayi](https://open.spotify.com/album/0qvNkpsn240kAtgdkG7bVk) | 2:34 | 2024-06-13 |  |
 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 | 2025-03-18 |  |

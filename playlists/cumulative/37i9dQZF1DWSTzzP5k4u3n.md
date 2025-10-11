@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-550 songs - 1 day 8 hr 8 min
+551 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Härmän jätkä](https://open.spotify.com/track/2uwodZVlSuxoyXkinPv3em) | [Joni Ekman & Koira](https://open.spotify.com/artist/1QbvirHCOsrRM5q09l2zOg) | [Härmän jätkä](https://open.spotify.com/album/6BHd0JKSR3CaGzm88tPOXl) | 3:14 | 2025-03-13 | 2025-04-11 |
 | [Hätähuuto](https://open.spotify.com/track/5MkDC43Ovq9iY4IHuiSM9P) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Hätähuuto](https://open.spotify.com/album/1A2McUXD07qXrMGZ8oqzD9) | 3:02 | 2024-07-02 | 2024-07-12 |
 | [Idänjuna](https://open.spotify.com/track/21me6KEGFTjccDhZsEjzD5) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Idänjuna](https://open.spotify.com/album/1OakXi7TIwAMRWkePOY8jY) | 4:02 | 2025-05-22 | 2025-08-15 |
-| [Ikipuut](https://open.spotify.com/track/1PcPem1EN5DY6jDO2fq7pI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Ikipuut](https://open.spotify.com/album/3FPM3ZGoZZrVkj1hhq8yX4) | 3:13 | 2025-08-14 |  |
+| [Ikipuut](https://open.spotify.com/track/1PcPem1EN5DY6jDO2fq7pI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Ikipuut](https://open.spotify.com/album/3FPM3ZGoZZrVkj1hhq8yX4) | 3:13 | 2025-08-14 | 2025-10-11 |
 | [Ikuisesti nuorena](https://open.spotify.com/track/4O8rdv858Thki5IQErzcN4) | [Huiputus](https://open.spotify.com/artist/2jeBf6gklfcYkHtbuiSTpt) | [Ikuisesti nuorena](https://open.spotify.com/album/6a9erAQaOMUOMn2mMjSJhX) | 3:56 | 2025-07-03 |  |
 | [Illuusio](https://open.spotify.com/track/3UFgc78c5B2uOf5H4O5034) | [Lauri Lantela](https://open.spotify.com/artist/3CbbF6cv5Wj03PrNKMaYZ2) | [Illuusio](https://open.spotify.com/album/4LkI587pttwkTqO0lg9Gfv) | 3:25 | 2025-03-20 | 2025-05-30 |
 | [Iloisten Laulujemme Maa](https://open.spotify.com/track/2KQnDjLje3gw9GmpUxnsqn) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF), [Kullervo](https://open.spotify.com/artist/1ltjLfs2LwirnXSkOjkCCN) | [Iloisten Laulujemme Maa](https://open.spotify.com/album/1TXHG800To5XNtsoAUYhAH) | 2:53 | 2025-10-09 |  |
@@ -253,6 +253,7 @@
 | [Loinen](https://open.spotify.com/track/1eNoPvQElO4YUeSppgPSI0) | [Lopputulos](https://open.spotify.com/artist/7d5WEyF1G8iKEqLUnoLqak) | [Arvet](https://open.spotify.com/album/3DhqYSvOkBSDer1GB9Icz1) | 3:30 | 2024-07-02 | 2024-08-23 |
 | [Loverboy](https://open.spotify.com/track/4CYyVGYCp50NRJW161TXJt) | [Kärmes](https://open.spotify.com/artist/6Pg3eTjJuTHEprVckuicfK) | [Loverboy](https://open.spotify.com/album/6z15TjEiTrSV6rDHBGBh8M) | 3:44 | 2025-05-15 | 2025-08-29 |
 | [Luolamies](https://open.spotify.com/track/10H3uWB2JnpN6XpkQpFTDZ) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q), [Jouni Hynynen](https://open.spotify.com/artist/7vHL43OsRz4c28Pr0KceuP) | [Luolamies](https://open.spotify.com/album/6MZmJjMMurLoAGqI3j4gZS) | 3:29 | 2025-06-12 | 2025-09-26 |
+| [Lähetään menee](https://open.spotify.com/track/2BJXx4y4aHREIIC2Z3h1UI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Odotin näpyä, tuli laaka](https://open.spotify.com/album/1UeNJBQIxRGIjfb9zS24E6) | 3:43 | 2025-10-10 |  |
 | [Lähtevä jää](https://open.spotify.com/track/4fm0uriaAknT4jF99xuRvN) | [Lauri Peisterä](https://open.spotify.com/artist/3E3dtFaew61uPOzB0ZBEaO) | [Lähtevä jää](https://open.spotify.com/album/0xDEeQq3AXMzhvJwJam1pc) | 3:37 | 2025-03-27 | 2025-05-09 |
 | [Maa kohoaa](https://open.spotify.com/track/3wtDkw3zw3Oee81VF8IsUN) | [Hampaat suussa](https://open.spotify.com/artist/1JT04ARat8ksflutJlqXXH) | [Hampaat suussa](https://open.spotify.com/album/33rWI7fNstDM1kC8upN67I) | 3:00 | 2024-08-22 | 2024-09-27 |
 | [Maailma on](https://open.spotify.com/track/4JnxaZEVFf63QZbtvnm2Zl) | [Söndaag](https://open.spotify.com/artist/2AZyTe57nYroogm75TiIUy) | [Elämäntapakorjaus](https://open.spotify.com/album/5GPbZcHOS5Vzw7FIFrHz72) | 2:20 | 2024-08-08 | 2024-10-04 |
@@ -525,7 +526,7 @@
 | [Vapauteen](https://open.spotify.com/track/4OTlbuDEqWBdVWrAEA1Nvr) | [Varissuo](https://open.spotify.com/artist/4FbCm0KhTyrFMuKu9ykGLE) | [Vapauteen](https://open.spotify.com/album/08LDifosqmFUiqOHzf2FgY) | 4:25 | 2024-09-26 | 2025-01-17 |
 | [Vappu](https://open.spotify.com/track/4TjajU6sG9hswzd6lcRgpo) | [Hene Jääsalo](https://open.spotify.com/artist/2rwKP6hEIirWnfvIrCTAy4) | [Vappu](https://open.spotify.com/album/0U2AXF2p9XmqvF2igxD9GW) | 3:58 | 2024-12-12 | 2025-04-11 |
 | [VAU](https://open.spotify.com/track/4WjdbLfPOhHjFE6KW2VDfq) | [Mikael Arvaja](https://open.spotify.com/artist/1pSgv9IDIKVaJBKaqLW7RR) | [VAU](https://open.spotify.com/album/3uPk1usrN2RKDJO86paide) | 3:04 | 2025-03-27 | 2025-05-23 |
-| [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [](https://open.spotify.com/album/null) | 4:06 | 2025-10-09 |  |
+| [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 | 2025-10-09 |  |
 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 | 2024-07-02 | 2024-09-13 |
 | [Verta peilissä](https://open.spotify.com/track/4foK7PjkZSd2RVoYm9Zsa2) | [Mylly](https://open.spotify.com/artist/5yQnFFxqVqCMi0JbgrhdvC), [Radioactive Pineapple](https://open.spotify.com/artist/1Crptcv8dKKDNNfIWZLj7s) | [Verta peilissä](https://open.spotify.com/album/6ZmweFACaPNpOgwSZy7qt4) | 2:18 | 2025-04-24 | 2025-06-20 |
 | [Vie meidät täältä pois](https://open.spotify.com/track/76QqtA3mTSyqzCJBd5tMiN) | [Likaiset Pikkarit](https://open.spotify.com/artist/2yckomJkcl94rQYu8outXS) | [Vie meidät täältä pois](https://open.spotify.com/album/2O9iQqieq0yPtLIIKzrUhV) | 2:38 | 2024-11-28 | 2025-01-17 |

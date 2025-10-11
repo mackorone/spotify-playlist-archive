@@ -4461,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "A Joy Even Slower",
+        "url": "https://open.spotify.com/album/5fPNhQGGmW8QJ2V6Y7DkNF"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Closest Thing to Heaven",
+      "url": "https://open.spotify.com/track/7IE7Q5n0f6JGkKdBSbPnr4"
+    },
+    {
+      "album": {
         "name": "Untitled Vol. 1",
         "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
       },
@@ -6890,7 +6908,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 189924,
       "name": "Eastern Street Kids",
       "url": "https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp"
@@ -16954,7 +16972,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 182454,
       "name": "only overnight",
       "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
@@ -24396,7 +24414,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 177546,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/6HjBMeXKFi4KiOVK3TWBwb"

@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 99839,
+  "num_followers": 99835,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,22 @@
     {
       "added_at": "2025-10-09 16:00:26",
       "album": {
-        "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX"
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
       },
       "artists": [
         {
-          "name": "\u694a\u7d2b",
-          "url": "https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR"
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        },
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
         }
       ],
-      "duration_ms": 208733,
-      "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
-      "url": "https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h"
+      "duration_ms": 201150,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
     },
     {
       "added_at": "2025-10-09 16:00:26",
@@ -731,22 +735,18 @@
     {
       "added_at": "2025-10-09 16:00:26",
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
+        "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX"
       },
       "artists": [
         {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
-        },
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+          "name": "\u694a\u7d2b",
+          "url": "https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR"
         }
       ],
-      "duration_ms": 201150,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
+      "duration_ms": 208733,
+      "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h"
     },
     {
       "added_at": "2025-10-09 16:00:26",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-10-09 16:00:26",
       "album": {
-        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
-      },
-      "artists": [
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
-    },
-    {
-      "added_at": "2025-10-09 16:00:26",
-      "album": {
         "name": "\u60f3\u548c\u4f60",
         "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 183428,
       "name": "\u60f3\u548c\u4f60",
       "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "added_at": "2025-10-09 16:00:26",
+      "album": {
+        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
     },
     {
       "added_at": "2025-10-09 16:00:26",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-10-09 16:00:26",
       "album": {
-        "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
-        "url": "https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x"
-      },
-      "artists": [
-        {
-          "name": "Bii",
-          "url": "https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
-      "url": "https://open.spotify.com/track/5vSpx3rGBnwQf4oW6KEdwI"
-    },
-    {
-      "added_at": "2025-10-09 16:00:26",
-      "album": {
         "name": "stuck on u",
         "url": "https://open.spotify.com/album/3Xe8s0IipL7oAfH9TVzH48"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 149000,
       "name": "stuck on u",
       "url": "https://open.spotify.com/track/5AF1AJAWKPfjAVvIv1x2QQ"
+    },
+    {
+      "added_at": "2025-10-09 16:00:26",
+      "album": {
+        "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
+        "url": "https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x"
+      },
+      "artists": [
+        {
+          "name": "Bii",
+          "url": "https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
+      "url": "https://open.spotify.com/track/5vSpx3rGBnwQf4oW6KEdwI"
     },
     {
       "added_at": "2025-10-09 16:00:26",

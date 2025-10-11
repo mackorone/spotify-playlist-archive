@@ -4,7 +4,7 @@
 
 > Discover Disney songs to sing along to, including songs from the Descendants/Zombies: Worlds Collide Tour.
 
-186 songs - 9 hr 34 min
+187 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,5 +194,6 @@
 | [You've Got a Friend in Me \- Duet](https://open.spotify.com/track/0tFlZBBAQFBwAHKpTOOv2Y) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:42 | 2024-01-08 | 2025-03-18 |
 | [Your Mother and Mine](https://open.spotify.com/track/0qQSVmrsYvD5hVaYNXWxNP) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob) | 1:58 | 2024-01-08 | 2025-10-01 |
 | [Zero To Hero \- From "Hercules"](https://open.spotify.com/track/21DxcOtDKlVOlmeYed1IG3) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [We Love Disney \(Deluxe\)](https://open.spotify.com/album/1F4gXThIF2VepRiWYyowAY) | 2:39 | 2024-01-08 |  |
+| [Zoo \- aus "Zoomania 2"](https://open.spotify.com/track/7mfTWGAr3ig1TBw29HgpRE) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(aus "Zoomania 2"\)](https://open.spotify.com/album/1mllW9jFF1wARHPgidK91m) | 3:10 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

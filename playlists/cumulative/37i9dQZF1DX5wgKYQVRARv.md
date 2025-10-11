@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Karnivool
 
-828 songs - 2 day 23 hr 10 min
+831 songs - 2 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Faces of Janus](https://open.spotify.com/track/2MMi9SHur7iesEIyKz8XT0) | [Passengers](https://open.spotify.com/artist/5Au6JVXaCJoWDAYMh30UuF) | [Faces of Janus](https://open.spotify.com/album/4zrXSit7DNw87l3Spko8Lw) | 4:26 | 2021-12-17 | 2022-04-21 |
 | [Fall into the Light](https://open.spotify.com/track/3F8OmCcFxVdFsgo68JlBLu) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Fall into the Light](https://open.spotify.com/album/5J6Whs1o820DUjloUcuRsg) | 7:04 | 2021-12-17 | 2022-07-01 |
 | [Fall to Ascend](https://open.spotify.com/track/0upqZcB5Dq5xeIgYWol8Z4) | [Sons Of Apollo](https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f) | [Fall to Ascend](https://open.spotify.com/album/4mQXlEaXmCJ7o3Tlyv644R) | 5:06 | 2021-12-17 | 2022-09-03 |
+| [Falling](https://open.spotify.com/track/4WJTFDW2Z1PY3H88uBB540) | [BLACKSHAPE](https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH) | [Falling](https://open.spotify.com/album/1fXw2enARWsT5TnLyEOFn5) | 5:09 | 2025-10-10 |  |
 | [Falling From The Sun](https://open.spotify.com/track/5H4zeB1OS7tbkY53W6Ftcs) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Falling From The Sun](https://open.spotify.com/album/40ntvNTAvm28t3HpgTAVSY) | 4:15 | 2024-05-17 | 2024-11-23 |
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-18 |  |
 | [Far Below](https://open.spotify.com/track/4LjXxVBZTL8CtjMpOnccwv) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Far Below](https://open.spotify.com/album/1mp4fdVKmraS9zRk0GogOn) | 4:35 | 2021-12-17 | 2022-01-23 |
@@ -284,7 +285,7 @@
 | [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 | 2024-01-26 |
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 |  |
 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 | 2023-12-06 |  |
-| [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 |  |
+| [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 | 2025-10-11 |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |
 | [God is in the Slumber](https://open.spotify.com/track/5CiLiwu8FzetlzVa15taDs) | [Hippotraktor](https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv) | [God is in the Slumber](https://open.spotify.com/album/5rDrzED7ZQRb706aNnElUh) | 4:35 | 2021-12-17 | 2022-07-26 |
 | [God Terror](https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Blue Nowhere](https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh) | 6:41 | 2025-09-12 |  |
@@ -426,7 +427,7 @@
 | [Martyrs](https://open.spotify.com/track/2mijuiOFHf4EJcS2QpUkrn) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F) | 6:08 | 2021-12-17 | 2022-07-01 |
 | [Mechanisms of Loneliness](https://open.spotify.com/track/5pmYGT4j7nPmqapNdUIPhE) | [Burial In The Sky](https://open.spotify.com/artist/4QFGc1JTcGzr72JEGDCNd7) | [Mechanisms of Loneliness](https://open.spotify.com/album/1dH6mpUtk8kB2GWWPtRdww) | 6:58 | 2022-01-14 | 2022-07-26 |
 | [MelancHoly](https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [MelancHoly](https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf) | 3:38 | 2024-11-22 | 2025-05-14 |
-| [Melatonin](https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8) | [Sleep Waker](https://open.spotify.com/artist/4hizDhcij3xrH69kcQ4R3i) | [Melatonin](https://open.spotify.com/album/4ZZXNJGWnA54rn0izMoJFp) | 3:28 | 2022-07-13 |  |
+| [Melatonin](https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8) | [Sleep Waker](https://open.spotify.com/artist/4hizDhcij3xrH69kcQ4R3i) | [Melatonin](https://open.spotify.com/album/4ZZXNJGWnA54rn0izMoJFp) | 3:28 | 2022-07-13 | 2025-10-11 |
 | [Memorial](https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Memorial](https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2) | 4:38 | 2023-07-21 |  |
 | [Merkabah](https://open.spotify.com/track/1UvlACIJeuz4RqKaVBpzr3) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Merkabah](https://open.spotify.com/album/7eWQB5KDQ9Mt4uvUCyrWn6) | 5:59 | 2021-12-17 | 2022-07-29 |
 | [Metamorph](https://open.spotify.com/track/5vAJ34CDAMijpywxBxyupZ) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Metamorph](https://open.spotify.com/album/21lxVQoHeVUJ74qKXO03NP) | 2:44 | 2022-07-13 |  |
@@ -735,7 +736,9 @@
 | [The World Without a View](https://open.spotify.com/track/7oqgn5cQi0dJD8Vc1nDQMv) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [The World Without a View](https://open.spotify.com/album/3wOUZYGoZgJkYvZdKLWNsH) | 9:33 | 2021-12-17 | 2022-07-28 |
 | [The Worst of Us](https://open.spotify.com/track/4LcuJ73bfEi48jJIC56xBp) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/6cxXEPHGeIXiz0w4ktHMNi) | 4:39 | 2023-01-20 | 2024-03-15 |
 | [The Worst of Us](https://open.spotify.com/track/5B2p6lmbUGO9g0kKuXfejU) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/1t9N7b0bbwH5csgeyxgBCe) | 4:39 | 2022-07-13 | 2022-07-15 |
+| [The Wounds We Share](https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [The Wounds We Share](https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V) | 3:14 | 2025-10-10 |  |
 | [They Drew First Blood](https://open.spotify.com/track/69tvPkBYldOqUGkLY2QxVP) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Vernedering \- Connect the Goddamn Dots](https://open.spotify.com/album/7CIafEi4HSEMjLPhOgeXGD) | 7:48 | 2021-12-17 | 2022-07-27 |
+| [Third Shot](https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Third Shot](https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v) | 5:12 | 2025-10-10 |  |
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 | 2022-12-18 |
 | [This Is It](https://open.spotify.com/track/4TEtqylSt1QhGBEfSi6tWA) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [The Fundamental Slimes and Humours](https://open.spotify.com/album/2UtymwEf1sKP4SgOYx1O8F) | 4:00 | 2022-12-16 | 2024-04-19 |
 | [Thousand\-Arms Fortress](https://open.spotify.com/track/36WfOjorByjWNJXJ96Op8u) | [Returning We Hear the Larks](https://open.spotify.com/artist/2g5SOob5tmBbErT2JNY4fh) | [Thousand\-Arms Fortress](https://open.spotify.com/album/6222MQeLrdKWbBYmCqrotk) | 5:49 | 2022-07-13 | 2023-12-07 |
@@ -778,7 +781,7 @@
 | [Vertical](https://open.spotify.com/track/5pTZJRcEgtAY35qxljzxDI) | [Votum](https://open.spotify.com/artist/42ZQcu4ciEscZIXmdldg7j) | [:Ktonik:](https://open.spotify.com/album/3SNZcKxWgfusOdiUMwNXIe) | 6:17 | 2021-12-17 | 2022-01-27 |
 | [Vestibule of Hell](https://open.spotify.com/track/5s1CRikpsROgngSQYreX7Z) | [Voices From The Fuselage](https://open.spotify.com/artist/3CDlmNCrRf989svG7OHksr) | [Vestibule of Hell](https://open.spotify.com/album/5pIKY5Ys72OeLb2L8uWLu5) | 3:59 | 2021-12-17 | 2022-05-10 |
 | [Vibrant](https://open.spotify.com/track/4BhRhK2epscKTbEfPwJw67) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ) | [Vibrant](https://open.spotify.com/album/2IkQwrYmUc53vP2jzqiGKu) | 4:19 | 2021-12-17 | 2022-09-03 |
-| [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 | 2024-11-22 |  |
+| [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 | 2024-11-22 | 2025-10-11 |
 | [Vivid](https://open.spotify.com/track/1vnpW0MkecIiL3IkEqkmTj) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/4JmBVe1ha6JOnbqSJKiXaz) | 4:28 | 2022-07-13 | 2022-07-29 |
 | [Vivid](https://open.spotify.com/track/4oOo9YXmxtrzCNOdTN7xI3) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/3AglitukJSID7M51tDEDdH) | 4:28 | 2022-07-13 | 2024-04-19 |
 | [Voices](https://open.spotify.com/track/0n8FH9ZymLlSJyY6bvd0xE) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Voices](https://open.spotify.com/album/4GryeT2FdvAcyWjui8nlOW) | 4:09 | 2021-12-17 | 2023-01-21 |

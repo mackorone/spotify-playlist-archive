@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,374 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,421 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 89 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 90 | [愛言葉](https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [相愛性理論](https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe) | 4:24 |
 | 91 | [ネトゲ廃人シュプレヒコール feat.初音ミク](https://open.spotify.com/track/21114vcsL9bjdl1aV62t8h) | [Satsuki ga Tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [人畜無害〜さつき が てんこもり feat.初音ミク〜](https://open.spotify.com/album/2yGbhI9dsXfYSLK2hYlOpv) | 4:51 |
-| 92 | [StargazeR](https://open.spotify.com/track/2AJeqUXKxkJorjdAdiU15g) | [Kots Beirne](https://open.spotify.com/artist/0bBNxdKfD4SOpqZfiUt9Bm) | [No Image](https://open.spotify.com/album/6GQA7kq777VzJxKr4ezJqp) | 3:29 |
+| 92 | [壊セ壊セ](https://open.spotify.com/track/06AJbMq7KMewWZmJuzuPgS) | [E.L.V.N](https://open.spotify.com/artist/219XzPMmtHGUDe8bJeWo6M) | [壊セ壊セ](https://open.spotify.com/album/1K6bz5XZya2k1t21LAUk5F) | 3:37 |
 | 93 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
-| 94 | [壊セ壊セ](https://open.spotify.com/track/06AJbMq7KMewWZmJuzuPgS) | [E.L.V.N](https://open.spotify.com/artist/219XzPMmtHGUDe8bJeWo6M) | [壊セ壊セ](https://open.spotify.com/album/1K6bz5XZya2k1t21LAUk5F) | 3:37 |
+| 94 | [StargazeR](https://open.spotify.com/track/2AJeqUXKxkJorjdAdiU15g) | [Kots Beirne](https://open.spotify.com/artist/0bBNxdKfD4SOpqZfiUt9Bm) | [No Image](https://open.spotify.com/album/6GQA7kq777VzJxKr4ezJqp) | 3:29 |
 | 95 | [ハジメテノオト](https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf) | [Malo](https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2) | [ハジメテノオト/未来の歌](https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU) | 5:02 |
 | 96 | [サンドリヨン](https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
 | 97 | [キャットフード \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 5:15 |

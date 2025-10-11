@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-263 songs - 12 hr 19 min
+264 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |
 | [Forest Retreat](https://open.spotify.com/track/5x1SM4426jF89HQPaGp6s8) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Retreat](https://open.spotify.com/album/0XToDY4gtqpEu4CrWDgnP2) | 2:40 | 2024-06-03 |  |
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 |  |
+| [Forest Springs](https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Forest Springs](https://open.spotify.com/album/3rPqj0BK1CLWdvGhreDybN) | 3:22 | 2025-09-24 |  |
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 | 2025-07-17 |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
@@ -269,7 +270,7 @@
 | [Windchimes](https://open.spotify.com/track/6Fa8vurFZIVr1brilnYS5M) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Windchimes](https://open.spotify.com/album/5M14n23MeqGH1CNon4bxsm) | 2:51 | 2025-09-04 |  |
 | [Winding Path](https://open.spotify.com/track/6QE5nRsDAFSfKC6rWUzhhE) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Winding Path](https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm) | 3:02 | 2024-11-22 | 2025-06-12 |
 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 | 2025-05-24 |
-| [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 |  |
+| [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 | 2025-10-11 |
 | [Woodlike Experience](https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Woodlike Experience](https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU) | 3:20 | 2025-06-11 |  |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

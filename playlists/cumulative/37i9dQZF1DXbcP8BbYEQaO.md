@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-802 songs - 1 day 21 hr 3 min
+804 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [LA Hallucinations](https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:04 | 2022-04-16 | 2024-01-20 |
 | [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 | 2024-09-14 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2020-10-13\* | 2021-06-19 |
-| [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 | 2025-06-13 |  |
+| [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 | 2025-06-13 | 2025-10-11 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 |  |
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-17 |
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
@@ -472,7 +472,7 @@
 | [Married to Your Melody](https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su) | 2:58 | 2022-04-22 | 2022-07-28 |
 | [Mathematics](https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:26 | 2022-04-16 |  |
 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-23 | 2025-01-25 |
-| [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-27 |  |
+| [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-27 | 2025-10-11 |
 | [MEZCAL MINT GUM N COCAINE](https://open.spotify.com/track/5174aBUvlBHClVp9cr7JoG) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [MEZCAL MINT GUM N COCAINE](https://open.spotify.com/album/5NrSC4lV0XHAa8cEkIxy3n) | 3:38 | 2023-02-17 | 2023-02-25 |
 | [Microdose](https://open.spotify.com/track/6iNRJ4TuoDqkI0o6wFRR2w) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Microdose](https://open.spotify.com/album/3OAoVhJtoIZRdVXIh7R3zS) | 2:46 | 2022-04-16 | 2022-07-09 |
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2021-11-27 | 2022-01-29 |
@@ -759,6 +759,7 @@
 | [VERDE MENTA](https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:08 | 2022-11-11 | 2023-02-05 |
 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 | 2023-03-10 | 2023-09-28 |
 | [Violet Chemistry](https://open.spotify.com/track/4C2Y3Y2x2PbOqwdNBuLjP3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 4:06 | 2023-09-23 | 2023-10-07 |
+| [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-10 |  |
 | [Voices \(feat\. Kylie Minogue\)](https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 4:26 | 2023-06-02 | 2023-06-24 |
 | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-22 | 2024-11-09 |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-11-06 | 2021-12-18 |
@@ -805,6 +806,7 @@
 | [You Slept On Me](https://open.spotify.com/track/5ck0j6M9T01MxWhesQlGSW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:11 | 2024-02-23 | 2024-10-05 |
 | [You Want My …](https://open.spotify.com/track/7599UxhqJlpV013iiLCfZK) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [You Want My ...](https://open.spotify.com/album/27zepHIiwqXIqBYB23Uc5D) | 3:26 | 2024-01-12 | 2024-03-09 |
 | [you were good to me \- shallou remix](https://open.spotify.com/track/4yQluMXsIRql36ErBHux2f) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [you were good to me \(shallou remix\)](https://open.spotify.com/album/64g22dqguD1J36xZssN3fe) | 3:49 | 2020-11-18 | 2021-06-19 |
+| [You're No Man](https://open.spotify.com/track/0RAmpaRTVnIMbojrCc3vTu) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [When Are You Leaving?](https://open.spotify.com/album/4dN47zvKtBGFJhQDi4G8jA) | 3:28 | 2025-10-10 |  |
 | [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2021-06-26 | 2022-01-08 |
 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-09-01 |  |
 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 | 2022-05-06 | 2022-07-12 |

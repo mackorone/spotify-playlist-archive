@@ -3639,6 +3639,32 @@
     },
     {
       "album": {
+        "name": "Get Down / Shake That",
+        "url": "https://open.spotify.com/album/5fczgOy0aMutPK9HOM8m5r"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1wh7uKnNRSOz7Nx9h5Uf3C"
+    },
+    {
+      "album": {
         "name": "Get Enough",
         "url": "https://open.spotify.com/album/6OmjrHo4m4D1rgozy2reTa"
       },
@@ -8309,6 +8335,24 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dOQ99k30Tolva3vPZ4jEB"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/0AV1eWrh1x86FFnVDJ4BZD"
+    },
+    {
+      "album": {
         "name": "RXDIO ACTXVE",
         "url": "https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt"
       },
@@ -8474,6 +8518,28 @@
       "duration_ms": 149886,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/0Or3Fgzkwg05zx0X83BG9V"
+    },
+    {
+      "album": {
+        "name": "Get Down / Shake That",
+        "url": "https://open.spotify.com/album/5fczgOy0aMutPK9HOM8m5r"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/0cTYUYY7eLjfVAH6pxmfWm"
     },
     {
       "album": {

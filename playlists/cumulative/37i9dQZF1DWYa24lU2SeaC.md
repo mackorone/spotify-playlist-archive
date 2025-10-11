@@ -2,9 +2,9 @@
 
 ### [Disney Hits France](https://open.spotify.com/playlist/37i9dQZF1DWYa24lU2SeaC)
 
-> Tous vos titres Disney préférés incluant la musique de  Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
+> Tous vos titres Disney préférés incluant la musique de Zootopie 2, Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-139 songs - 7 hr 16 min
+140 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,5 +147,6 @@
 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 | 2024-05-02 |  |
 | [You'll Be In My Heart \- From "Tarzan"/Soundtrack Version](https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 4:18 | 2023-09-15 | 2024-05-03 |
 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2023-09-15 |  |
+| [Zoo \- De "Zootopie 2"](https://open.spotify.com/track/196bJODAhGxwCP9oWAXlK1) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(De "Zootopie 2"\)](https://open.spotify.com/album/6CZJZ0gOiPcqGni1BRjJWN) | 3:10 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

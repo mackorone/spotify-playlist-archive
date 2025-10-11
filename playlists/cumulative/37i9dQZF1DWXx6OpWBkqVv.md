@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
-154 songs - 9 hr 58 min
+157 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,12 @@
 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-01-20 | 2024-04-19 |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2022-01-20 | 2024-04-19 |
 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 | 2021-10-15 |  |
+| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-10 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-05 | 2025-08-24 |
 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 | 2021-10-15 |  |
 | [Breezeblocks](https://open.spotify.com/track/33OdSmu4AdBViAXDbCEqK3) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave \(Deluxe Version\)](https://open.spotify.com/album/719I4grSudmVzZdmzClX6W) | 3:47 | 2021-10-15 | 2025-03-08 |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-01-20 | 2024-04-19 |
+| [Cabeça](https://open.spotify.com/track/0sZTZByzjUYucuRDVKKxrx) | [Renato Medeiros](https://open.spotify.com/artist/2rF4ywmP760Jggm4aMbaeE) | [Cabeça](https://open.spotify.com/album/4fFV6uW7zmR8yjGSTAt1qT) | 2:58 | 2025-10-10 |  |
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2022-01-20 | 2024-04-19 |
 | [Can't Stand Me Now](https://open.spotify.com/track/2R4bmZb28Dhd65ZBySr2jk) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Time for Heroes \- The Best of The Libertines](https://open.spotify.com/album/4gq5rvmYsXX99ZBzlGcnnq) | 3:23 | 2022-01-20 | 2022-11-13 |
 | [Can't Stand Me Now](https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:23 | 2021-10-15 |  |
@@ -30,6 +32,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2022-01-20 | 2024-04-19 |
 | [Dog Days Are Over](https://open.spotify.com/track/0SzzPmWCx2jmTBxxRxeHe0) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Happy Pop Hits](https://open.spotify.com/album/76wKct7lPoAwqWpsK0udJt) | 4:12 | 2022-01-20 | 2022-11-13 |
 | [Dog Days Are Over](https://open.spotify.com/track/15ya59dZ8yGeIfZARiYDjd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(International Version\)](https://open.spotify.com/album/2Zm1iyTqpaIKqCCisX28Uk) | 4:12 | 2021-10-15 |  |
+| [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-10 |  |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2021-10-15 | 2025-07-26 |
 | [Fall To Pieces](https://open.spotify.com/track/1rdkG7R3dHS2RI4Akk00zq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/5X9W0UYcGJbdVLIhztzfuH) | 3:54 | 2022-01-20 | 2024-04-19 |
@@ -96,7 +99,7 @@
 | [Pompeii](https://open.spotify.com/track/6xwimEC2kdlu8Yp3hyNtUx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [\#Throwback Songs](https://open.spotify.com/album/5ruRgEzNiOJ2C1tTSD8dGG) | 3:36 | 2022-01-20 | 2022-11-13 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2021-10-15 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2021-10-15 |  |
-| [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 | 2021-10-15 |  |
+| [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 | 2021-10-15 | 2025-10-11 |
 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 | 2021-10-15 |  |
 | [Ready For The Floor](https://open.spotify.com/track/1nZM07V3Vb9Vj71vC7gbmV) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Ready For The Floor](https://open.spotify.com/album/4mabn7xQzCSQKYbA0YPewq) | 3:54 | 2022-01-20 | 2022-11-14 |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2022-01-20 | 2024-04-19 |
@@ -137,9 +140,9 @@
 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 | 2021-10-15 | 2025-08-24 |
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-12 |  |
 | [Spirits](https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 3:23 | 2022-01-20 | 2024-04-19 |
-| [Spirits](https://open.spotify.com/track/3dv9Bvpp9HikNsEvDCKHhC) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/6kwHSCglEAypfrWFaCcRPy) | 3:23 | 2021-10-15 |  |
+| [Spirits](https://open.spotify.com/track/3dv9Bvpp9HikNsEvDCKHhC) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/6kwHSCglEAypfrWFaCcRPy) | 3:23 | 2021-10-15 | 2025-10-11 |
 | [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 | 2022-01-20 | 2022-10-13 |
-| [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 | 2021-10-15 |  |
+| [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 | 2021-10-15 | 2025-10-11 |
 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 | 2022-01-20 | 2022-11-14 |
 | [Steady, As She Goes](https://open.spotify.com/track/2VAlwOewe5c40VHyqozF1V) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/0ftyDJlAoBMmICs2MHvVZR) | 3:35 | 2021-10-15 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2022-01-20 | 2024-04-19 |

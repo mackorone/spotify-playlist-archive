@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 262140,
+  "num_followers": 262179,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Todo Tiene Su Hora",
-        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 191209,
       "name": "Carita de Inocente",
       "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Todo Tiene Su Hora",
+        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vine a Decirte Adios",
-        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Vine A Decirte Adios",
-      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Tonto Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 284706,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Vine a Decirte Adios",
+        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "Vine A Decirte Adios",
+      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachatas Para La Historia",
-        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
-      },
-      "artists": [
-        {
-          "name": "Marino Castellanos",
-          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Eso da Pa To",
-      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 233320,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Bachatas Para La Historia",
+        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
+      },
+      "artists": [
+        {
+          "name": "Marino Castellanos",
+          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Eso da Pa To",
+      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Cari\u00f1o de Mi Vida",
-        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
-      },
-      "artists": [
-        {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Mi Regreso",
         "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236306,
       "name": "Abrazame amor",
       "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Cari\u00f1o de Mi Vida",
+        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
     },
     {
       "added_at": "2024-08-23 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 41596,
+  "num_followers": 41616,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACV2F8vAKSZVHNNKDD2IHv+",
+  "snapshot_id": "aOb7AAAAAACWA4cl8nKuOznPkEtpP3o6",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
-      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lay Down (feat. GloRilla) [Remix]",
         "url": "https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 213608,
       "name": "Lay Down (feat. GloRilla) - Remix",
       "url": "https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
     },
     {
       "added_at": null,

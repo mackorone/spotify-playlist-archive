@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,847 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,885 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 |
 | 2 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 | 3 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
-| 4 | [maan ja mere yaar](https://open.spotify.com/track/6LefrCinotAljkJzLBcloP) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb) | [maan ja mere yaar](https://open.spotify.com/album/1tmv9hX2RllmvyQF8mLoxf) | 4:02 |
+| 4 | [Dekha Hi Nahi](https://open.spotify.com/track/5GcVuKV12CryRih9BDiXBk) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Dekha Hi Nahi](https://open.spotify.com/album/2kTV9Zqt7jn65GRaE6nX6K) | 3:56 |
 | 5 | [tum jo aaye](https://open.spotify.com/track/2XkHhvDW8YC3I0uoKfXqET) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shams](https://open.spotify.com/artist/3ySN8uxbVT9g3J1YLUUwoc) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:54 |
 | 6 | [Ruk Ja](https://open.spotify.com/track/2XuqqA62np8iBUAxIzDUCB) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 3:27 |
 | 7 | [Saza \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/35PtfO8Xpv2w8jqup2QctA) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 | 75 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
 
-Snapshot ID: `AAAAAC+pgjwr3cvYWkfy+PaGfhU4pIU5`
+Snapshot ID: `AAAAACUeG4j0Jo0yLj28kiMVLN6/2FMK`

@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,444 songs - 3 day 5 hr 49 min
+1,445 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,7 @@
 | [Repeat After Me](https://open.spotify.com/track/1F9xcExF9W7m5BxTdlJLED) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Repeat After Me](https://open.spotify.com/album/54oOEqQqEckkrlfjwM88v1) | 3:14 | 2019-05-26\* | 2020-09-15 |
 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 | 2021-08-25 | 2023-03-09 |
 | [Restart Your Heart](https://open.spotify.com/track/1ZCJuvgtyPZGLNWfHTpWeB) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM) | [Restart Your Heart](https://open.spotify.com/album/5Twkvtgo6tMIA0pAphY4N6) | 2:59 | 2020-05-30 | 2020-09-15 |
-| [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2024-04-19 |  |
+| [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2024-04-19 | 2025-10-11 |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-03-08 | 2024-03-06 |
 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 | 2020-10-20 |  |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2024-02-09 |  |
@@ -1339,6 +1339,7 @@
 | [W W Y D F](https://open.spotify.com/track/61oG7DvhBOvdXBALpVY9VG) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [W W Y D F](https://open.spotify.com/album/6SCi1d5fWBXhtjK9jQRMk9) | 3:00 | 2019-05-26\* | 2020-06-12 |
 | [Waar \(feat\. Munga\)](https://open.spotify.com/track/01Xfeg06te1APKvbnRQ8w1) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [Munga](https://open.spotify.com/artist/7hnO0LJsiiiCkOFC31JGZ3) | [Waar \(feat\. Munga\)](https://open.spotify.com/album/6JgopCXEpyJhefxQw8fe3P) | 2:54 | 2019-05-26\* | 2021-05-28 |
 | [Waist Time](https://open.spotify.com/track/0HUGkXVSRaLwRlhSRZzvOu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB) | [Waist Time](https://open.spotify.com/album/5zW65LLoUWrZi7R7JFuadR) | 3:18 | 2019-07-03 | 2019-08-27 |
+| [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-10-10 |  |
 | [Walk Down \(feat\. YG\)](https://open.spotify.com/track/4MggpJSpLnVQe7GPuk0LxE) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Streetz Need Me 2](https://open.spotify.com/album/6nmbe1qYXmSflr1COvPIrN) | 2:55 | 2020-01-01 | 2021-03-02 |
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2020-12-03 | 2022-08-09 |
 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 | 2024-05-03 | 2025-07-04 |

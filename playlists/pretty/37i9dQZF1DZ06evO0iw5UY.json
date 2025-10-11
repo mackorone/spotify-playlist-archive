@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28021,
+  "num_followers": 28022,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADDbBPGa6jmoUSIDm3sVoMT",
+  "snapshot_id": "aOb7AAAAAAC+qr7WG3XUatFgRyAI+cvb",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Team",
+        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+      "duration_ms": 206946,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World Pt. 1",
         "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
@@ -875,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
       },
       "artists": [
         {
@@ -884,9 +868,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Can't Control Myself",
-      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
+      "duration_ms": 219813,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
       "duration_ms": 227368,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Play Hard",
-      "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 277500,
       "name": "War Forever",
       "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
     },
     {
       "added_at": null,

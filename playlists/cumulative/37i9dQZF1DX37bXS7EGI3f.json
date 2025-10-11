@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 178999,
       "name": "Dance Till We Sink",
       "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 314414,
       "name": "Experience",
       "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
@@ -9877,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Erni",
+          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226396,
+      "name": "Stone by Stone",
+      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
+    },
+    {
+      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/1Ki56K82avE7nTkZEyVIE7"
       },
@@ -12306,7 +12324,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 183626,
       "name": "We Stand Tall",
       "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"

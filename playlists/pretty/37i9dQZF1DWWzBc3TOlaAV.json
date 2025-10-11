@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 980757,
+  "num_followers": 980884,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 285000,
       "name": "While My Guitar Gently Weeps - Remastered 2009",
       "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Essentials: Tommy James & The Shondells",
-        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Crimson & Clover - Single Version",
-      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 185523,
       "name": "Psychotic Reaction",
       "url": "https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Essentials: Tommy James & The Shondells",
+        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Crimson & Clover - Single Version",
+      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
     },
     {
       "added_at": "2024-07-05 23:26:53",

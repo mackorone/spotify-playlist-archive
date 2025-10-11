@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-136 songs - 7 hr 51 min
+137 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Great Things](https://open.spotify.com/track/3HGHE9hGPEdN1955eoC2hL) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 3:50 | 2025-02-06 | 2025-09-27 |
 | [Guv'nor](https://open.spotify.com/track/430jlohskTwNSYIfDCKWoG) | [JJ DOOM](https://open.spotify.com/artist/5BxMS9rhKHbSagaYFBICun), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB) | [Key to the Kuffs](https://open.spotify.com/album/3AEeWRPtSMeqoXL8xNcSbe) | 3:03 | 2025-03-03 | 2025-05-09 |
 | [Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 4:35 | 2025-03-10 | 2025-06-22 |
+| [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 | 2025-10-10 |  |
 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 | 2023-10-05 |  |
 | [Hustle Bones](https://open.spotify.com/track/5PXyH5bb5fbVfO8LjByhBb) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:12 | 2025-03-10 | 2025-09-27 |
 | [i](https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:36 | 2025-03-22 |  |

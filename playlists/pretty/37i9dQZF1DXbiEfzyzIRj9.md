@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Harvey Sutherland
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,053 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,050 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ཬɷԾㅍ ꉺლ༽༼இ•̛\)ྀ◞ ༎ຶ ლ༽இ•̛\)ྀ◞☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲༎ຶ ༽ৣৢ؞ৢ؞ؙؖ⁽⁾ا⦁⁾⁽ؙۜؖء؞ૣ࿆˜☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲](https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [ཬɷԾㅍ ꉺლ༽༼இ•̛\)ྀ◞ ༎ຶ ლ༽இ•̛\)ྀ◞☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲༎ຶ ༽ৣৢ؞ৢ؞ؙؖ⁽⁾ا⦁⁾⁽ؙۜؖء؞ૣ࿆˜☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲](https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2) | 5:43 |
 | 2 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 |
 | 3 | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv) | 4:15 |
-| 4 | [Theme For Z](https://open.spotify.com/track/5sYq6gWpaSGQ1DjScmxR7u) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [](https://open.spotify.com/album/null) | 4:26 |
+| 4 | [Theme For Z](https://open.spotify.com/track/5sYq6gWpaSGQ1DjScmxR7u) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Debt](https://open.spotify.com/album/6GxqLal7BQhOxYXGOIQADk) | 4:26 |
 | 5 | [You Like It, It's Yours \- Edit](https://open.spotify.com/track/7nnu8bpOSLiBumzkUUMpD7) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3), [O'ner](https://open.spotify.com/artist/4fii2KrYFHN72FYWfElOyJ) | [You Like It, It's Yours \(Edit\)](https://open.spotify.com/album/5CESgH9z5XnMW5xCtjYsmJ) | 3:17 |
 | 6 | [More Alive](https://open.spotify.com/track/6I4lNirK2tcpEeLAPXLXiH) | [Loxodrome](https://open.spotify.com/artist/2sekBTVvkPBYft7njmbQEh), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [More Alive](https://open.spotify.com/album/6oVboXUefw7iX8N102mt7C) | 5:50 |
 | 7 | [Mont Blanc](https://open.spotify.com/track/1jG2w4SGRqzC4wQKlN3D7q) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [Mont Blanc](https://open.spotify.com/album/5vxKpurDpHTvadVYHBS6J8) | 4:35 |

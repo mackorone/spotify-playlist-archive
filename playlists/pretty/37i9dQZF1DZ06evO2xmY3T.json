@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 686103,
+  "num_followers": 686163,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAjkJd/6aI5eNQ5RS9nRz7Y",
+  "snapshot_id": "aOb7AAAAAAAibJruc9o6YP07Sn410BkV",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up (Instrumental)",
-        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -379,6 +363,26 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "added_at": null,
@@ -415,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Modelo",
-      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 177139,
       "name": "Ring (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Press",
+        "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 143791,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Press",
-        "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 143791,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
     },
     {
       "added_at": null,

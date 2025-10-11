@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Mariana Nolasco
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Pe Lu, Magi
 
-860 songs - 1 day 18 hr 57 min
+862 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Do Jeito Que Você Me Ilude](https://open.spotify.com/track/2FFaJrEQven5YnYcRL7U5r) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Do Jeito Que Você Me Ilude](https://open.spotify.com/album/4xZzsW2CUOKRSEkPaIemmr) | 2:35 | 2022-05-13 | 2022-06-15 |
 | [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-25 |  |
 | [Doce \- Ao Vivo](https://open.spotify.com/track/7ybk5hOq9uGrMMw3ICXzey) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Bia Marques Sessions \(Ao Vivo\)](https://open.spotify.com/album/4FxJpaUTrbHY6jbD7c3BD4) | 2:25 | 2024-06-28 | 2024-10-05 |
+| [Doce Feito Caramelo](https://open.spotify.com/track/1w8UpTJKWx6PD00ODGsqEb) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Doce Feito Caramelo](https://open.spotify.com/album/5CsrNWDoLS1aD2EzQqJwll) | 2:46 | 2025-10-10 |  |
 | [Doideira](https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Doideira](https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN) | 2:37 | 2022-06-17 | 2023-01-21 |
 | [domingo](https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [domingo](https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T) | 4:10 | 2024-12-13 | 2025-05-17 |
 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 | 2023-01-27 | 2023-02-04 |
@@ -723,7 +724,7 @@
 | [Só Pra Te Falar](https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Só Pra Te Falar](https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK) | 2:41 | 2022-11-18 | 2023-01-28 |
 | [Só Quero Te Agradecer](https://open.spotify.com/track/4zEt63lCEJlB3co0rfbtzz) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Só Quero Te Agradecer](https://open.spotify.com/album/2kHLOvnLAY80tY4FVNfBWO) | 3:07 | 2024-05-06 | 2024-06-14 |
 | [Só Respira](https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [LIVRE](https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr) | 3:15 | 2023-12-22 | 2024-03-23 |
-| [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 | 2024-07-26 |  |
+| [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 | 2024-07-26 | 2025-10-11 |
 | [Só Sinto](https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 3:25 | 2024-09-17 | 2024-11-16 |
 | [Tanto](https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Tanto](https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1) | 3:06 | 2025-03-28 |  |
 | [Tanto Tanto](https://open.spotify.com/track/5ACvqBkha9bdpX7A5z1OS4) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [Tanto Tanto](https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2) | 2:46 | 2024-10-04 | 2025-01-18 |
@@ -803,6 +804,7 @@
 | [Um, Dois, Três](https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Se O Meu Peito Fosse O Mundo \(Lado A\)](https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4) | 2:57 | 2023-10-27 | 2023-11-25 |
 | [universo de coisas que eu desconheço](https://open.spotify.com/track/4f7phfIoOpIhSI8tIK11f6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [universo de coisas que eu desconheço](https://open.spotify.com/album/4mFGakNOCGgZxiXbfauonk) | 3:18 | 2022-11-11 | 2023-08-19 |
 | [vai e vem](https://open.spotify.com/track/1nuC5t3OBnMLZCmvzf7oxK) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [vai e vem](https://open.spotify.com/album/0Ik66eoE66yFyeDE5teHDz) | 2:09 | 2023-12-22 | 2024-01-20 |
+| [Vai que](https://open.spotify.com/track/6g3nsZdsjyrsLNf1JdOf9x) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Vai que](https://open.spotify.com/album/0RSAW1GYdgpW08YGovBkE6) | 3:07 | 2025-10-10 |  |
 | [vai, namora](https://open.spotify.com/track/6umXzROy7UNOu7futjIe79) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [vai, namora](https://open.spotify.com/album/0jnQaxwTVAe0svwkieGJkJ) | 2:33 | 2023-03-24 | 2023-04-09 |
 | [Vale Mais \- Ao Vivo](https://open.spotify.com/track/2yrU2kVQPiGH8EjOABgwQa) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Quebra\-Cabeça \(Ao Vivo\)](https://open.spotify.com/album/5UZ6rFnscv270vq8rMPeqJ) | 2:58 | 2023-07-28 | 2023-08-26 |
 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 |  |

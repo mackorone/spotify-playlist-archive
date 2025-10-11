@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Nanpa Básico & DFZM
 
-285 songs - 15 hr 3 min
+286 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [6:00 a.m\. \- Versión 2025](https://open.spotify.com/track/0RtBENsw73xZiDWdlgk9Xs) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [6:00 a.m\. \(Versión 2025\)](https://open.spotify.com/album/4oPl8azNbNCa1S54ZKZ3UQ) | 4:18 | 2025-04-04 | 2025-05-17 |
 | [A Primera Vista](https://open.spotify.com/track/7B4vt11pQGmsnHWQ9FUZwY) | [Ines Gaviria](https://open.spotify.com/artist/5csQq4TumSO1XpuaxiL9V7) | [A Primera Vista](https://open.spotify.com/album/2WPpPCpYCDyOBM0MWSlR0a) | 2:34 | 2023-05-19 | 2023-06-24 |
 | [A Veces](https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:33 | 2023-03-09 | 2024-09-07 |
+| [Adicto a Tú Piel](https://open.spotify.com/track/1uO3St8kIH8qq7I941FmCG) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Neón](https://open.spotify.com/album/3Oj7ZfcspGSWW7VDrp2xvz) | 2:44 | 2025-10-10 |  |
 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 | 2023-02-17 |  |
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2023-02-17 |  |
 | [Al Aire](https://open.spotify.com/track/02dsc9B5N8BFatjGcGhk1u) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Al Aire](https://open.spotify.com/album/0lsCYOOfGhVVlB7CiTAnAs) | 2:49 | 2023-02-17 |  |
@@ -56,7 +57,7 @@
 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 | 2024-02-16 | 2024-04-19 |
 | [CÁLLATE](https://open.spotify.com/track/5kTGxJQVACs4mJmO7Emzuc) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [CÁLLATE](https://open.spotify.com/album/7LQ8ReCFjrLR1iC4xPkYKk) | 2:52 | 2025-08-29 |  |
 | [Cámara Lenta](https://open.spotify.com/track/2Ur0FiCEof5GoKsZDR9eyR) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [Cámara Lenta](https://open.spotify.com/album/3NXbBQrzVnzHfBKhwcm1Nl) | 3:15 | 2023-02-17 | 2023-03-18 |
-| [Cómo Duele](https://open.spotify.com/track/02tk974QEHBfTQq80Lpn7d) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Cómo Duele](https://open.spotify.com/album/0h9cZ9loIaVs12uOnxKH8G) | 3:25 | 2025-05-16 |  |
+| [Cómo Duele](https://open.spotify.com/track/02tk974QEHBfTQq80Lpn7d) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Cómo Duele](https://open.spotify.com/album/0h9cZ9loIaVs12uOnxKH8G) | 3:25 | 2025-05-16 | 2025-10-11 |
 | [Cómo Dónde y Cuándo](https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:59 | 2024-05-03 | 2024-08-10 |
 | [Cómo Los De Antes](https://open.spotify.com/track/1V3l4a88uzbaebvD1m7xC9) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Sin Animo De Lucro](https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR) | [Cómo Los De Antes](https://open.spotify.com/album/2lKJXgamNCOWRx3tU7JFxd) | 3:07 | 2024-09-27 | 2025-05-10 |
 | [Dejarlos Entrar](https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Antonia Jones](https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt) | 3:03 | 2024-04-19 | 2024-06-01 |

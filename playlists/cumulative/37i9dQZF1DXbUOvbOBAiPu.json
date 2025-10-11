@@ -6262,28 +6262,6 @@
     {
       "album": {
         "name": "Amnesia",
-        "url": "https://open.spotify.com/album/0Ncm97Qy83CiA8Ad2nVW4Y"
-      },
-      "artists": [
-        {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        },
-        {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
-      "duration_ms": 206896,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/73E2wwutwumqRetxrBz4BC"
-    },
-    {
-      "album": {
-        "name": "Amnesia (feat. Oboy)",
         "url": "https://open.spotify.com/album/1p6zCR3n9Zc8RblvxGi5tt"
       },
       "artists": [
@@ -6304,8 +6282,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195340,
-      "name": "Amnesia (feat. Oboy)",
+      "name": "Amnesia",
       "url": "https://open.spotify.com/track/3CapmLaLhdfjKXOBlGVzKj"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0Ncm97Qy83CiA8Ad2nVW4Y"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2025-10-10",
+      "duration_ms": 206896,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/73E2wwutwumqRetxrBz4BC"
     },
     {
       "album": {
@@ -11029,8 +11029,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Arriving Home Elsewhere",
+        "url": "https://open.spotify.com/album/1UUvVbMhwZbh8sk9E5NAQ5"
       },
       "artists": [
         {
@@ -14799,8 +14799,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
       "artists": [
         {
@@ -23385,8 +23385,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp"
       },
       "artists": [
         {
@@ -24695,8 +24695,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "THE ESSENCE",
+        "url": "https://open.spotify.com/album/0F4VMwBs6WyLR8YVyZysJp"
       },
       "artists": [
         {
@@ -33594,6 +33594,24 @@
       "duration_ms": 255003,
       "name": "Eigen weg",
       "url": "https://open.spotify.com/track/0TzENru3RqSmpmOmxF9Asg"
+    },
+    {
+      "album": {
+        "name": "August Parker",
+        "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
+      },
+      "artists": [
+        {
+          "name": "Ozark Henry",
+          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
     },
     {
       "album": {
@@ -57723,8 +57741,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bo\u00eete \u00e0 musique",
+        "url": "https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3"
       },
       "artists": [
         {
@@ -64101,8 +64119,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Le retour des beaux jours",
+        "url": "https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO"
       },
       "artists": [
         {
@@ -66191,8 +66209,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "QUITTE OU DOUBLE",
+        "url": "https://open.spotify.com/album/5EcsbghQuLiOaeQ8CSd6g4"
       },
       "artists": [
         {
@@ -72235,8 +72253,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/56YPZtGJa3VSv6tdrwd38m"
       },
       "artists": [
         {
@@ -77497,8 +77515,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
       "artists": [
         {
@@ -105303,6 +105321,28 @@
     },
     {
       "album": {
+        "name": "Still Get Chanel (feat. Chance The Rapper)",
+        "url": "https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199431,
+      "name": "Still Get Chanel (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i"
+    },
+    {
+      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
@@ -117015,42 +117055,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ozark Henry",
-          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf"
-    },
-    {
-      "album": {
         "name": "Traffic Jam",
         "url": "https://open.spotify.com/album/09NpsaHGa405WL7ZObWDeA"
       },
@@ -119790,6 +119794,24 @@
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "album": {
+        "name": "Avenoir",
+        "url": "https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137471,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf"
     },
     {
       "album": {
@@ -125353,8 +125375,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
       },
       "artists": [
         {
@@ -127797,8 +127819,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8"
       },
       "artists": [
         {

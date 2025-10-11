@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 434347,
+  "num_followers": 434726,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABzW0oar9o4mHGFIno8stWr",
+  "snapshot_id": "aOb7AAAAAADzf1h9GZYnlWfnvWjmqn/P",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 244235,
+      "name": "All That Really Matters",
+      "url": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA"
     },
     {
       "added_at": null,
@@ -563,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -579,22 +615,6 @@
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
     },
     {
       "added_at": null,
@@ -851,22 +871,6 @@
       "duration_ms": 177835,
       "name": "Dancing With Your Ghost",
       "url": "https://open.spotify.com/track/1I4W1xZzTmgusoHl1vmMrA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "L.I.F.E.",
-      "url": "https://open.spotify.com/track/3QVlMl0HR3ltlbFpzKvBi4"
     }
   ],
   "unique_name": "This Is Teddy Swims",

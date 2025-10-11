@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJS9cM4NhK4ilo184QalBCpABz7R",
+  "snapshot_id": "AAAAABpG9j3QY/gZc1CMD6FlgjyEMZcj",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:32",
@@ -23,6 +23,26 @@
       "duration_ms": 205286,
       "name": "Cigarette Smoke In My Eyes",
       "url": "https://open.spotify.com/track/2AWu7GjebA7IMKvD7t0XFO"
+    },
+    {
+      "added_at": "2025-10-10 04:00:16",
+      "album": {
+        "name": "Wild, Love",
+        "url": "https://open.spotify.com/album/1Y2t8BSOn9Ydi26GSJtSr5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Plevyak",
+          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 194805,
+      "name": "Wild, Love",
+      "url": "https://open.spotify.com/track/5Pq4bwoBblDt07xEomEI6f"
     },
     {
       "added_at": "2025-09-05 04:00:20",
@@ -759,22 +779,6 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U"
     },
     {
       "added_at": "2025-03-03 16:46:59",

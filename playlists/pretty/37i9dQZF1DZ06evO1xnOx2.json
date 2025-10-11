@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 619443,
+  "num_followers": 619523,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAUMs/nGZ29b2ZxFPMLkhag",
+  "snapshot_id": "aOb7AAAAAACOKQvryUAp+NaiXr8WNjq8",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
       "artists": [
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 271696,
-      "name": "Blood Upon the Snow",
-      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
     },
     {
       "added_at": null,

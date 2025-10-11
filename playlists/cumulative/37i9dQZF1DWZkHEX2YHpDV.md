@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,415 songs - 3 day 2 hr 42 min
+1,416 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2021-12-10 | 2023-04-11 |
 | [Close \- Boy Hero Version](https://open.spotify.com/track/3C6cBuoaCs6DuPFPJzh9oG) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Boy Hero](https://open.spotify.com/artist/6I924s6x4qnOU181EbSGls) | [Close \(Boy Hero Version\)](https://open.spotify.com/album/2aJwOUzFtiKtXHoiXSYhWa) | 3:15 | 2022-02-04 | 2022-05-10 |
 | [Close 2 Me](https://open.spotify.com/track/0xbM8w47t3m4SZBk6JGM95) | [Dead Lakes](https://open.spotify.com/artist/0e14x1G9pTcCmLLzkFDhE0) | [Close 2 Me](https://open.spotify.com/album/0quwDWVi9UuDvGfC0N7w17) | 3:37 | 2022-03-25 | 2022-04-18 |
+| [Closest Thing to Heaven](https://open.spotify.com/track/7IE7Q5n0f6JGkKdBSbPnr4) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [A Joy Even Slower](https://open.spotify.com/album/5fPNhQGGmW8QJ2V6Y7DkNF) | 3:08 | 2025-10-10 |  |
 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 | 2022-07-08 | 2023-04-11 |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-12-10 | 2022-07-27 |
 | [COLD BEER](https://open.spotify.com/track/5OmxeyU1mffYWsf9kjEaic) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/2mEPTLjLcbOvhj5NDWqeQc) | 1:41 | 2023-12-15 | 2024-04-13 |
@@ -371,7 +372,7 @@
 | [Dying to Feel Alive](https://open.spotify.com/track/0esr1qU2Alrke9bK4eesbZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Dying to Feel Alive](https://open.spotify.com/album/3RJfs1tD7Uoonhn6JF0Ie0) | 4:36 | 2021-12-10 | 2022-07-05 |
 | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW) | 2:57 | 2022-04-15 | 2023-05-13 |
 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 | 2024-07-12 | 2024-08-24 |
-| [Eastern Street Kids](https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp) | [Agent 51](https://open.spotify.com/artist/6gZocvVCxS7FDiDgckbbOI) | [Age of Validation](https://open.spotify.com/album/1SnK5OF5aMVeuPcipp6jOo) | 3:09 | 2025-06-06 |  |
+| [Eastern Street Kids](https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp) | [Agent 51](https://open.spotify.com/artist/6gZocvVCxS7FDiDgckbbOI) | [Age of Validation](https://open.spotify.com/album/1SnK5OF5aMVeuPcipp6jOo) | 3:09 | 2025-06-06 | 2025-10-11 |
 | [Easy Life](https://open.spotify.com/track/0bHye6KNjoSftKF6GPJj4B) | [The Young Hearts](https://open.spotify.com/artist/6sbDFRTzVhnTYfgmVP0DVX) | [Easy Life](https://open.spotify.com/album/3g78WzC43y53ISi41zKru1) | 3:54 | 2021-12-10 | 2022-05-11 |
 | [EAT YOUR FRIENDS](https://open.spotify.com/track/226TwjZFNgEVqx68jLF9Et) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [EAT YOUR FRIENDS](https://open.spotify.com/album/0csxLFq6XZnkMOYBIpjhu6) | 3:16 | 2023-10-27 | 2024-02-24 |
 | [Echoes](https://open.spotify.com/track/4b6fFrGqGEzE5vhrcUtjTJ) | [John Floreani](https://open.spotify.com/artist/6melTVZFYp3m5UU72sIhdY) | [Echoes](https://open.spotify.com/album/0ENjKdafhEJ6oBZ63xk6Wa) | 3:31 | 2021-12-10 | 2022-06-16 |
@@ -901,7 +902,7 @@
 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 | 2022-07-08 | 2023-04-11 |
 | [One True Prince](https://open.spotify.com/track/5wnITloAfJ33x0m1R0sQwF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [One True Prince](https://open.spotify.com/album/4PzJRdK8unANl6KqYrFjv1) | 3:58 | 2021-12-10 | 2022-07-29 |
 | [ONE TULIP//](https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [ONE TULIP//](https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf) | 3:48 | 2024-12-06 | 2025-02-15 |
-| [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 | 2024-07-12 | 2025-09-18 |
+| [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 | 2024-07-12 |  |
 | [Oscillate](https://open.spotify.com/track/1mvYlO2lqNqqvCN2qHVjeh) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Oscillate](https://open.spotify.com/album/3D6IJTM8fsP4b2TRudkDHE) | 3:20 | 2022-02-04 | 2022-04-18 |
 | [Out Of My Mind](https://open.spotify.com/track/4L8N6rZRLZndXM2djmpfSw) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Out Of My Mind](https://open.spotify.com/album/4HElf8g3yBVGo2usx3v68S) | 2:48 | 2024-06-24 | 2024-10-13 |
 | [Out of Reach](https://open.spotify.com/track/2SEf5vymF45MFR49zwd4Iq) | [Heavy Hearts](https://open.spotify.com/artist/5WH57wBnMti80IPvNFef8f) | [Out of Reach](https://open.spotify.com/album/1rUMHB3BigXlvyF6XKE8BD) | 3:14 | 2022-03-25 | 2022-04-15 |
@@ -1296,7 +1297,7 @@
 | [Upside Down](https://open.spotify.com/track/6trJelO46qKNUso5FtqgzG) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Upside Down](https://open.spotify.com/album/7HFSSWViGV3f6FvIY8evex) | 3:51 | 2022-02-04 | 2022-05-19 |
 | [ur a <stranger> \- Live](https://open.spotify.com/track/0dz9WWF0rYChuh0FubVYGl) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:17 | 2023-04-10 | 2023-04-12 |
 | [use me](https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [use me](https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7) | 3:01 | 2023-09-15 | 2024-01-20 |
-| [Vacant](https://open.spotify.com/track/6HjBMeXKFi4KiOVK3TWBwb) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Vacant](https://open.spotify.com/album/3JvUO4BternFEIws235hM9) | 2:57 | 2025-07-11 |  |
+| [Vacant](https://open.spotify.com/track/6HjBMeXKFi4KiOVK3TWBwb) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Vacant](https://open.spotify.com/album/3JvUO4BternFEIws235hM9) | 2:57 | 2025-07-11 | 2025-10-11 |
 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/78ITp8KLeHWvtjjf42LXck) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/album/7zQFULxk2VKVXrCsOFlGHJ) | 2:28 | 2021-12-10 | 2022-07-29 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-09 | 2023-04-24 |
 | [VANS](https://open.spotify.com/track/0ouhKwWDhTFzCj3ctYOuLR) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [VANS](https://open.spotify.com/album/6wqGT4hSci81XQq1qoXSMD) | 2:37 | 2022-04-01 | 2022-04-21 |

@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Al Phone",
+        "url": "https://open.spotify.com/album/40Tr4M2rfK87CY2xgGxhFp"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/04SfRkZuVH053pkLLcP64q"
+        },
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Al Phone",
+      "url": "https://open.spotify.com/track/08oqoOoIIxo4ROVvepAQQL"
+    },
+    {
+      "album": {
         "name": "Al Reves",
         "url": "https://open.spotify.com/album/7a0jJ2NMNxGSmPHnpHOKPy"
       },
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 222000,
       "name": "Chavos y Cone",
       "url": "https://open.spotify.com/track/5o6mcB5LSCiYhBARYDjVXE"
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 165465,
       "name": "Como Paso?",
       "url": "https://open.spotify.com/track/3YVyPiLcPood2UL8ifHflS"
@@ -3966,6 +3988,36 @@
       "duration_ms": 185806,
       "name": "FF (feat. Valentino GRM)",
       "url": "https://open.spotify.com/track/4zUxg85j33zKanqSblgUUf"
+    },
+    {
+      "album": {
+        "name": "Fidelity (deluxe)",
+        "url": "https://open.spotify.com/album/1g0BvT90AsggKOVaSAIi5D"
+      },
+      "artists": [
+        {
+          "name": "AK507",
+          "url": "https://open.spotify.com/artist/3githkaocYWGS4fjqSWA5L"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Bb Dinero",
+          "url": "https://open.spotify.com/artist/4lwd5IUeRrJnhfBDDfS9C5"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "Fidelity (deluxe)",
+      "url": "https://open.spotify.com/track/1kljHYe0yg6IfZmMJPk1fx"
     },
     {
       "album": {

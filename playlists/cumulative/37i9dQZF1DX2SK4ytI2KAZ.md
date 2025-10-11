@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-663 songs - 1 day 12 hr 21 min
+664 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2022-06-27 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/7s4vC71u1zovWSMNu6hwbJ) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita \(The Summer Singles\)](https://open.spotify.com/album/0cgg5mbjBzqxL8zvO0huzp) | 3:09 | 2021-03-10 | 2022-07-29 |
 | [Baby Blue Shades](https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Baby Blue Shades](https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc) | 3:40 | 2021-03-10 | 2023-03-29 |
+| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-10 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2024-01-12 |  |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-05-05 | 2024-09-03 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-21 | 2023-09-12 |
@@ -560,7 +561,7 @@
 | [Superglue](https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue](https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM) | 4:10 | 2023-02-17 | 2023-03-29 |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2023-09-15 | 2024-10-01 |
 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-03-10 |  |
-| [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-10-13 |  |
+| [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-10-13 | 2025-10-11 |
 | [Surefire](https://open.spotify.com/track/3CxBGLrVRt9sanlpCcpOMf) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Surefire](https://open.spotify.com/album/7Gp6tjO66qmd1OmSXPEBis) | 4:00 | 2021-03-10 | 2022-07-29 |
 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 | 2022-06-27 | 2022-11-09 |
 | [Surefire](https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 4:01 | 2022-10-07 | 2024-04-19 |

@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Beat A B!tch Up",
+        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Beat A B!tch Up",
+      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
+    },
+    {
+      "album": {
         "name": "Beat Of My Heart",
         "url": "https://open.spotify.com/album/2ou7zBtw2kVrogl1PMeTbV"
       },
@@ -13482,7 +13504,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"

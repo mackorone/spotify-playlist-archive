@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Back Of My Hand",
+        "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206385,
+      "name": "Back Of My Hand",
+      "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/1r3ZtE2w3l6KMEoAVpt6Fn"

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "74312",
+        "url": "https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu"
+      },
+      "artists": [
+        {
+          "name": "Dave Knud",
+          "url": "https://open.spotify.com/artist/1A6uvUfzvPUXnckBFD3o5Q"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229369,
+      "name": "74312",
+      "url": "https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD"
+    },
+    {
+      "album": {
         "name": "Collecting the Moments",
         "url": "https://open.spotify.com/album/3PkajXCYQ7SD5dYVdJPvWe"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 379144,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0iGz5ZGVwlpE02BM1oCSjn"

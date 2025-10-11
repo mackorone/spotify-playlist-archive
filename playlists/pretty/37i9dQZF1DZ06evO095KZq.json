@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 445664,
+  "num_followers": 445706,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACiUyDDnXFogwRZWKqnC+Ne",
+  "snapshot_id": "aOb7AAAAAAAPuUd8Vk14aZsqilUJsRJ0",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
+      "duration_ms": 153086,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cabrones y Vagos",
-        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 153086,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": null,
@@ -343,26 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Nac\u00ed Pa' Ser Jefe",
-        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 168553,
-      "name": "Yo Nac\u00ed Pa' Ser Jefe",
-      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
+      "duration_ms": 104746,
+      "name": "Ser\u00e9 un Borracho",
+      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
     },
     {
       "added_at": null,
@@ -387,18 +379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 104746,
-      "name": "Ser\u00e9 un Borracho",
-      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 158442,
+      "name": "Cuanto Me Gusta Este Rancho",
+      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 158442,
-      "name": "Cuanto Me Gusta Este Rancho",
-      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ense\u00f1anza De Los Viejos",
         "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Catarino y los Rurales",
-      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolor y Amor",
         "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
@@ -683,6 +683,30 @@
       "duration_ms": 155416,
       "name": "Hombre de Rancho",
       "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 145101,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
     },
     {
       "added_at": null,
@@ -719,30 +743,6 @@
       "duration_ms": 187743,
       "name": "El Selectivo",
       "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 145101,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caballo Robado",
+        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 118816,
+      "name": "Caballo Robado",
+      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Caguama en la Banqueta",
         "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 166232,
       "name": "Una Caguama en la Banqueta",
       "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caballo Robado",
-        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 118816,
-      "name": "Caballo Robado",
-      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
     }
   ],
   "unique_name": "This Is El Fantasma",

@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Luke Combs
+> Today's top country hits\. Cover: Dasha
 
-929 songs - 2 day 2 hr 15 min
+930 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Grew Up On That](https://open.spotify.com/track/45Q5uKc4KRJiowOQay7wR5) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/1IInfaBi6Ty3SybtzjgyER) | 2:52 | 2020-05-30 | 2020-11-22 |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-18 | 2022-06-26 |
 | [Growing Up](https://open.spotify.com/track/3M4rxsJSUvKPjGy5yMeQ5j) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO) | 3:01 | 2021-03-14 | 2021-04-24 |
-| [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-26 |  |
+| [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-26 | 2025-10-11 |
 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-07-29 | 2022-11-26 |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 | 2020-04-04 | 2020-04-25 |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-03-27 | 2021-12-11 |
@@ -557,6 +557,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2020-03-28 | 2020-05-02 |
 | [More Than My Hometown](https://open.spotify.com/track/6FniJZn4agmDtPx1pKZQsa) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [More Than My Hometown](https://open.spotify.com/album/3YxTy8m1OZ3oNSdxYprbIg) | 3:36 | 2020-05-09 | 2021-02-03 |
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-02-17 | 2023-05-13 |
+| [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-10-10 |  |
 | [Mr\. Lonely](https://open.spotify.com/track/3sEa95MTLJ8JcoP5A97bWl) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Mr\. Lonely](https://open.spotify.com/album/3UIccz6UJbRSikhYrzMqy5) | 2:59 | 2019-08-25 | 2019-09-15 |
 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-03-07 | 2025-05-31 |
 | [Music for the Soul](https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:44 | 2025-08-22 |  |

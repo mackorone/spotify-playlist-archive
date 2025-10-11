@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 97 songs - 5 hr 46 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 98 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 95 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 |
 | 96 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
 | 97 | [Smooth Operator](https://open.spotify.com/track/7pLuEMFougkSHXrPBtNxTR) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 4:58 |
+| 98 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 |
 
-Snapshot ID: `AAAGKuDGiPY3jXN5tT5DY8xGCqmMtvv6`
+Snapshot ID: `AAAGKzSEQDmkcYXL9k99HqTxsdvCxFYE`

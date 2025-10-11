@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: dayys
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: JOYE
 
-268 songs - 19 hr 16 min
+270 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 | 2024-06-21 |  |
 | [หยาดน้ำค้างเเห่งความสุข \(Flawless\)](https://open.spotify.com/track/7fkWN5hPQJKOiEyFCcVTRd) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [หยาดน้ำค้างเเห่งความสุข \(Flawless\)](https://open.spotify.com/album/0ac2aFvnziSohPRJhJk44Y) | 6:34 | 2025-01-31 | 2025-03-01 |
 | [หยุดซะ](https://open.spotify.com/track/60syKDKB6TWWn91ntc2JZx) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [หยุดซะ](https://open.spotify.com/album/4qj3DDVn9DYgNODjKllvx3) | 5:01 | 2025-03-28 | 2025-09-06 |
-| [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-21 |  |
+| [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-21 | 2025-10-11 |
 | [หยุดให้ฉันได้พักหายใจ \(T1ME\)](https://open.spotify.com/track/4bU7WYmC0zJTIlffArI0BK) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หยุดให้ฉันได้พักหายใจ \(T1ME\)](https://open.spotify.com/album/4wCDrWVIpscvAjRKuXK1Hf) | 3:29 | 2025-07-04 | 2025-07-19 |
 | [หลุม](https://open.spotify.com/track/6SZB6PN3AzUy4gjg6cwhyj) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [หลุม](https://open.spotify.com/album/4PQy5sDgIlkwxtwmojS1XD) | 4:39 | 2025-09-12 | 2025-10-04 |
 | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/track/0u2ICY64eKa8rsFnqg3OUy) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA) | 3:08 | 2024-11-22 | 2024-11-29 |
@@ -211,6 +211,7 @@
 | [อยากเป็นเพลงแรกที่เธอเปิดฟังตอนขับรถ](https://open.spotify.com/track/6NPVN6xKA0bYesrxJ7phxr) | [fluffypak](https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT) | [อยากเป็นเพลงแรกที่เธอเปิดฟังตอนขับรถ](https://open.spotify.com/album/1ehNORoH145WST0EmE1VgU) | 3:05 | 2025-05-30 | 2025-06-14 |
 | [อยู่เป็นเพื่อนเธอ](https://open.spotify.com/track/42XqliIA3xVAcXEt3tVI3t) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [5050](https://open.spotify.com/album/67r5Gqjsvn5kcRr9eZdsWm) | 4:13 | 2024-11-28 | 2024-12-14 |
 | [อย่าร้องเลย](https://open.spotify.com/track/0fgpLbhZS4laKy1G4SKE62) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [อย่าร้องเลย](https://open.spotify.com/album/5meRjI3k71vfWs5RlGnGBi) | 4:08 | 2025-01-24 | 2025-02-22 |
+| [ออกไปข้างนอก \( Outside \)](https://open.spotify.com/track/3guOZcrv1AVJhFMGrSSSgH) | [Silent room.](https://open.spotify.com/artist/42T2N42gPwTw0PtrIxkf2I) | [ออกไปข้างนอก \( Outside \)](https://open.spotify.com/album/7lfKbes0vA8Ms8nn5ZVLaA) | 4:14 | 2025-10-10 |  |
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
 | [อ๊ะเปล่า](https://open.spotify.com/track/4dqOTB1UpK2813eNy7sxLy) | [UNREAL](https://open.spotify.com/artist/2p5tOA5WDDzl5gZRpsW1zr) | [อ๊ะเปล่า](https://open.spotify.com/album/3pm0bQF7IoZ30O6HdHd9BJ) | 5:05 | 2025-04-25 | 2025-05-03 |
 | [ฮึบฮึบ!](https://open.spotify.com/track/6RFtfODeGPDVPEHeHj8LcH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [ฮึบฮึบ!](https://open.spotify.com/album/6MDNm7lva8f1htdVSd4znC) | 3:00 | 2025-05-30 | 2025-06-14 |
@@ -240,6 +241,7 @@
 | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/track/1gyxasKOAUpWJYiL7hp9UQ) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ), [Tuey Mary James](https://open.spotify.com/artist/7jgKL0O8B5dWb4sVDHINnb) | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/album/7Ecml94MuK1wscTGhB0vbT) | 4:26 | 2024-07-26 | 2024-11-16 |
 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 | 2024-06-21 | 2024-10-05 |
 | [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 | 2024-06-21 | 2024-09-07 |
+| [เห็นเธอมีความสุข](https://open.spotify.com/track/1MWDplYAlzqV5dD2jvd0X5) | [Secret Door](https://open.spotify.com/artist/2djr24pArTpy8MEIDnO15w) | [Sound from My Bedroom](https://open.spotify.com/album/3JowMxrvERXL2YQjZSLhzz) | 3:41 | 2025-10-10 |  |
 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 | 2024-06-21 | 2025-05-03 |
 | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/track/2IhoaEJzMnfMWJaGAVVKNN) | [SAPAPSUPAP](https://open.spotify.com/artist/4mcpLGrLEdwxau2ySVsbsx) | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/album/5SNNm01q89heuXS5ZJJA7t) | 3:37 | 2024-10-11 | 2024-10-19 |
 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 | 2024-09-20 |  |
@@ -273,7 +275,7 @@
 | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0) | 5:18 | 2024-06-21 | 2025-05-17 |
 | [ไม่เจอกันอีก \(Look Back\)](https://open.spotify.com/track/2ZuPkRvr3WBIf7dd0J5i4k) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [ไม่เจอกันอีก \(Look Back\)](https://open.spotify.com/album/7Ie0cujBU9qB3vDDcb6oPt) | 4:03 | 2025-09-05 | 2025-10-04 |
 | [ไม่เหมือนก่อน](https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ไม่เหมือนก่อน](https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD) | 4:14 | 2024-08-23 | 2024-09-14 |
-| [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 | 2025-08-29 |  |
+| [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 | 2025-08-29 | 2025-10-11 |
 | [ไม่ใช่เธอ](https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ไม่ใช่เธอ](https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO) | 4:18 | 2025-09-12 |  |
 | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/track/30N3J1PS11FD22EqfGCG7u) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/album/1HXHxpuTDuxsRlw2tg9xyF) | 4:43 | 2025-05-02 | 2025-05-31 |
 

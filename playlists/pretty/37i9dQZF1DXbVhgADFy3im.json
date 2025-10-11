@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1115167,
+  "num_followers": 1115627,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -575,42 +575,6 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
-        "name": "Dhun (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 276643,
-      "name": "Dhun (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
-        "name": "Arz Kiya Hai | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Arz Kiya Hai | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
         "name": "Oorum Blood (From \"Dude\")",
         "url": "https://open.spotify.com/album/1FwT2MEKJvRlswZcB8mQTE"
       },
@@ -635,6 +599,42 @@
       "duration_ms": 240107,
       "name": "Oorum Blood - From \"Dude\"",
       "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
+        "name": "Arz Kiya Hai | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Arz Kiya Hai | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
+        "name": "Dhun (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 276643,
+      "name": "Dhun (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
     },
     {
       "added_at": "2025-10-07 07:04:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
-        "name": "Husn",
-        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Husn",
-      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
         "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 257826,
       "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
     },
     {
       "added_at": "2025-10-07 07:04:27",
@@ -871,30 +871,6 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
-        "name": "Satranga (From \"ANIMAL\")",
-        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreyas Puranik",
-          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
-        },
-        {
-          "name": "Siddharth - Garima",
-          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
-        }
-      ],
-      "duration_ms": 271169,
-      "name": "Satranga (From \"ANIMAL\")",
-      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
       "added_at": "2025-10-07 07:04:27",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
-        "name": "Sajni (From \"Laapataa Ladies\")",
-        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Prashant Pandey",
-          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
-        }
-      ],
-      "duration_ms": 170044,
-      "name": "Sajni (From \"Laapataa Ladies\")",
-      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
         "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/3vVIhgkDoC0vRBba5drHPe"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 264089,
       "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+        }
+      ],
+      "duration_ms": 170044,
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
       "added_at": "2025-10-07 07:04:27",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
         "name": "Ranjheya Ve",
         "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2025-10-07 07:04:27",
@@ -1407,6 +1407,34 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
+        "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/6UcsRs6FeuyafHupizqJDJ"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
         "name": "Do Patti",
         "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
       },
@@ -1475,34 +1503,6 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
-        "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
-        "url": "https://open.spotify.com/album/6UcsRs6FeuyafHupizqJDJ"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
-      "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
         "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
       },
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-10-07 07:04:27",
       "album": {
+        "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "url": "https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 146038,
+      "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz"
+    },
+    {
+      "added_at": "2025-10-07 07:04:27",
+      "album": {
         "name": "Zaroor",
         "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
       },
@@ -1583,26 +1599,6 @@
       "duration_ms": 281856,
       "name": "O Meri Laila",
       "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
-    },
-    {
-      "added_at": "2025-10-07 07:04:27",
-      "album": {
-        "name": "Dil Tu Jaan Tu",
-        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
-      },
-      "artists": [
-        {
-          "name": "Gurnazar",
-          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
-        },
-        {
-          "name": "Chet Singh",
-          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Dil Tu Jaan Tu",
-      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
     },
     {
       "added_at": "2025-10-07 07:04:27",

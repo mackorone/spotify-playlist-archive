@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like sad hour, with Cameron Whitcomb
+> heartbreak feels good in a place like sad hour, with Maisie Peters
 
-976 songs - 2 day 5 hr 44 min
+978 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [I'll Be Waiting](https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:52 | 2023-08-04 | 2024-04-19 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-02-03 | 2023-08-07 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2023-01-04 | 2025-05-31 |
-| [I'm Glad We Met](https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Glad We Met](https://open.spotify.com/album/7kQ4DFN3bluZbWJ6LK75I6) | 4:47 | 2025-09-05 |  |
+| [I'm Glad We Met](https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Glad We Met](https://open.spotify.com/album/7kQ4DFN3bluZbWJ6LK75I6) | 4:47 | 2025-09-05 | 2025-10-11 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-07-18 | 2022-10-01 |
 | [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 | 2024-01-05 | 2024-02-11 |
 | [i'm sorry](https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i'm sorry](https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG) | 3:13 | 2023-06-30 | 2023-07-24 |
@@ -749,7 +749,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2022-12-25 |
 | [Senses](https://open.spotify.com/track/1JetH4krYbWJNZenvTOC4D) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Senses](https://open.spotify.com/album/7Hitj3Xv5AfE3DnMl3U43v) | 2:39 | 2024-10-04 | 2024-12-14 |
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-17 | 2022-10-22 |
-| [Shapeshifting on a Saturday Night \- Alone in My Bedroom Version](https://open.spotify.com/track/72fwwIfHVFPCyzQinhKPpy) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night \(Alone in My Bedroom Version\)](https://open.spotify.com/album/6Q9ub9pPb01qLX4gRyiw8T) | 4:42 | 2025-09-26 |  |
+| [Shapeshifting on a Saturday Night \- Alone in My Bedroom Version](https://open.spotify.com/track/72fwwIfHVFPCyzQinhKPpy) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night \(Alone in My Bedroom Version\)](https://open.spotify.com/album/6Q9ub9pPb01qLX4gRyiw8T) | 4:42 | 2025-09-26 | 2025-10-11 |
 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 | 2022-04-08 | 2022-04-21 |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-09-28 |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-12-20 | 2025-03-26 |
@@ -920,6 +920,7 @@
 | [What You'll Never Say](https://open.spotify.com/track/6kvEvPFpC7v5aJeA6FREpR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Autumn Leaves](https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR) | 3:40 | 2023-10-13 | 2023-11-11 |
 | [What's Left Of Me](https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [What's Left Of Me](https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG) | 3:15 | 2024-09-20 | 2025-03-26 |
 | [What's The Point?](https://open.spotify.com/track/7CiI3YwYn2RWhzlifKMYcP) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [What's The Point?](https://open.spotify.com/album/6Lu7fKadh6NxAnH1oICXMX) | 2:54 | 2022-12-09 | 2022-12-17 |
+| [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-10 |  |
 | [When I Hate Myself](https://open.spotify.com/track/4UHp0zxbh8ft26PSigDO0f) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [When I Hate Myself](https://open.spotify.com/album/2128hWtqbtGzK9HzKEGUAC) | 2:56 | 2023-08-11 | 2023-08-19 |
 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 | 2021-12-17 | 2022-07-30 |
 | [When It Ends](https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [When It Ends](https://open.spotify.com/album/1omEOMchSWNS0JW7jcLWAU) | 3:49 | 2021-12-17 | 2022-05-20 |
@@ -977,6 +978,7 @@
 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 | 2021-12-17 | 2025-04-26 |
 | [you were in my dream](https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [you were in my dream](https://open.spotify.com/album/3Kq9ayCMlcTr6dpm77qNwM) | 3:26 | 2022-05-20 | 2022-05-28 |
 | [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 | 2025-01-17 | 2025-03-10 |
+| [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-10 |  |
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-09-16 | 2023-04-01 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2021-12-17 | 2022-12-17 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-21 | 2025-08-18 |

@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: The Belair Lip Bombs
 
-1,103 songs - 2 day 15 hr 28 min
+1,104 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,7 +791,7 @@
 | [Press Reset](https://open.spotify.com/track/7kCvYAT03RBT6CzVomDO2r) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Press Reset](https://open.spotify.com/album/6a6YU92dG69ceuTlZyWIaW) | 2:58 | 2024-10-24 | 2024-12-20 |
 | [Pretty Words](https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Pretty Words](https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST) | 3:02 | 2025-02-27 | 2025-04-04 |
 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 | 2025-01-30 | 2025-03-21 |
-| [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [](https://open.spotify.com/album/null) | 3:04 | 2025-10-09 |  |
+| [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 |  |
 | [Purple Teeth, The Bravery](https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Purple Teeth, The Bravery](https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV) | 3:04 | 2024-08-15 | 2024-09-27 |
 | [Quest Luv](https://open.spotify.com/track/3CTrIOnDBoxXRWe2nqVbJy) | [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Quest Luv](https://open.spotify.com/album/5geYy0tygTE8xVkiG8E8v8) | 3:48 | 2024-09-12 | 2024-10-11 |
 | [Rainy](https://open.spotify.com/track/3p8lRdtsdptq9Td8I7ewjk) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Rainy](https://open.spotify.com/album/2yFLmcTcZ8AApUPKhLL5F1) | 2:27 | 2024-05-09 | 2024-07-05 |
@@ -926,7 +926,7 @@
 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 | 2024-07-25 | 2024-09-13 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 | 2024-08-02 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |
-| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [](https://open.spotify.com/album/null) | 4:11 | 2025-10-09 |  |
+| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-10-09 |  |
 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 | 2024-05-30 | 2024-07-19 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-02-28 |
 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 | 2025-04-03 | 2025-06-06 |
@@ -996,6 +996,7 @@
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-04-10 | 2025-05-30 |
 | [Throw A Fit](https://open.spotify.com/track/3tazpHY9P91agm3vmKyzeG) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Throw A Fit](https://open.spotify.com/album/4XvaLxTkk1jSJjzCWIPEOm) | 3:43 | 2025-02-06 | 2025-03-14 |
 | [tidal wave](https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [tidal wave](https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8) | 2:27 | 2024-06-27 | 2024-08-23 |
+| [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-09 |  |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-05 | 2024-11-29 |
 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 |  |
 | [Time Will Try](https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Time Will Try](https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs) | 4:18 | 2024-08-29 | 2024-10-11 |

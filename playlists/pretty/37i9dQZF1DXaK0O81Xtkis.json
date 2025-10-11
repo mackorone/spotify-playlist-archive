@@ -1,13 +1,33 @@
 {
-  "description": "a little indie, a little pop, soda featuring Henry Moodie",
-  "num_followers": 228607,
+  "description": "a little indie, a little pop, soda featuring MICO and Haiden Henderson",
+  "num_followers": 228863,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPGWykpsTKnFGxgWIlWj64xOXDJ1",
+  "snapshot_id": "AAAAAAEbIH8ReStCb4MzWfJ9TwVqUlBg",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:21:56",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/7ycd7aaioLGruOwzSd5bw6"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        },
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/5YtYSUSeKI6jgNlY9Dprmr"
+    },
     {
       "added_at": "2025-10-03 04:00:48",
       "album": {
@@ -41,6 +61,22 @@
       "url": "https://open.spotify.com/track/6e3kXGh5HwuKZNMSi46qCU"
     },
     {
+      "added_at": "2025-10-10 04:21:56",
+      "album": {
+        "name": "kids",
+        "url": "https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "pollen",
+      "url": "https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp"
+    },
+    {
       "added_at": "2025-10-03 04:00:48",
       "album": {
         "name": "The Things",
@@ -57,20 +93,20 @@
       "url": "https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM"
     },
     {
-      "added_at": "2025-09-19 04:00:31",
+      "added_at": "2025-10-10 04:21:56",
       "album": {
-        "name": "sore throat",
-        "url": "https://open.spotify.com/album/5rE87P7Br0k6iXrC43ztZh"
+        "name": "EARWORM",
+        "url": "https://open.spotify.com/album/0oJB399Gh1l7rlzJXbsF85"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
         }
       ],
-      "duration_ms": 144706,
-      "name": "sore throat",
-      "url": "https://open.spotify.com/track/3RdB7tA0M8IPDqZYoDdqAx"
+      "duration_ms": 198665,
+      "name": "I KINDA LIKE THAT",
+      "url": "https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5"
     },
     {
       "added_at": "2025-09-27 19:59:59",

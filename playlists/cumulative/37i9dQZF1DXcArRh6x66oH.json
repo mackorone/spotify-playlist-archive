@@ -5197,6 +5197,24 @@
     },
     {
       "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI"
+    },
+    {
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe"
       },

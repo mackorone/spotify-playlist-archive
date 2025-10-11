@@ -4,7 +4,7 @@
 
 > Unmissable emerging pop 💫 Sienna Spiro on the cover
 
-826 songs - 1 day 18 hr 16 min
+827 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [BIRTHDAY CAKE](https://open.spotify.com/track/2c4Y3ZUE7poeSljm40dOen) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ULTRAVI0LET](https://open.spotify.com/album/73YuJ5RfkjIjfuhg7A5mBb) | 2:21 | 2025-09-26 |  |
 | [Bite My Nails](https://open.spotify.com/track/67j517YgAkNC4I8GRBNQEa) | [Max Sarre](https://open.spotify.com/artist/3G4dpQ6BVQWl4L06Sij0W1) | [Bite My Nails](https://open.spotify.com/album/447v86RSsvTwYwOH1Kb0l7) | 2:56 | 2025-03-14 | 2025-04-04 |
 | [Bittersweet](https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Bittersweet](https://open.spotify.com/album/2CpO7mfSFWxw1CxoQRoDSF) | 4:01 | 2025-04-03 | 2025-04-25 |
+| [Blind in Love](https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Blind in Love](https://open.spotify.com/album/4XFHV45wr4tm0HldVDCTKQ) | 3:08 | 2025-10-10 |  |
 | [Blonde](https://open.spotify.com/track/7Ln3mdryazFwsIsFHc8WBd) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [I Thought We'd Live Here Forever](https://open.spotify.com/album/5xq3VxjI2Y0hx6mZy89Jkk) | 3:29 | 2025-06-05 | 2025-07-11 |
 | [blonde](https://open.spotify.com/track/2yRUkIXdgVvyXmd2oInA1n) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [blonde](https://open.spotify.com/album/3avpX068ebxCGzHCPUuTFk) | 2:52 | 2025-05-29 | 2025-07-10 |
 | [Bloom](https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Bloom](https://open.spotify.com/album/17LhwJlAlvNZqufsVPGUQi) | 3:35 | 2024-10-24 | 2025-01-31 |
@@ -368,6 +369,7 @@
 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-10 | 2025-01-17 |
 | [how do i tell u](https://open.spotify.com/track/74sEcN2fzGvGpP785DeiHt) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [how do i tell u](https://open.spotify.com/album/4GE4ck1HKKvCsEzM1giAR2) | 3:47 | 2025-09-18 |  |
 | [how'd you end up here tonight?](https://open.spotify.com/track/3QhQG4xIxiUov9SMEl2h8G) | [iggy](https://open.spotify.com/artist/0FQgaV4hZPHVwrVFHzZfcN) | [how'd you end up here tonight?](https://open.spotify.com/album/1P3gk441WmsEfijAGynd9y) | 2:38 | 2025-04-10 | 2025-05-02 |
+| [Hurt Like Me](https://open.spotify.com/track/2CpzvsiCLqqXoDNdVUuMNz) | [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [Monsters & Masochists](https://open.spotify.com/album/2cDX1sQV74yNWFnV7w7sZi) | 3:41 | 2025-10-09 |  |
 | [Hurting My Own Feelings](https://open.spotify.com/track/5icmPOyz0YQy7gF6hwNWKk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/1xmvvsuA22peyMbHyq9atz) | 2:55 | 2025-04-17 | 2025-05-09 |
 | [HUSH!](https://open.spotify.com/track/0esKAJemZceLQZLlAewxzc) | [P0STERGIRL](https://open.spotify.com/artist/15fVnaXjS7S2ECEtWDjnG0) | [HUSH!](https://open.spotify.com/album/31ERoHZfD1fywBltglo0tV) | 3:04 | 2025-04-17 | 2025-05-09 |
 | [Hypocrite](https://open.spotify.com/track/2rtvLmPgo7QpVvLmg6UCW4) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Hypocrite](https://open.spotify.com/album/2zXd1Bpez2nOpPtumO1pOa) | 3:20 | 2025-08-07 | 2025-09-05 |
@@ -608,7 +610,7 @@
 | [Queen](https://open.spotify.com/track/4fidflpyukTVL9kPG0f1xj) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Queen](https://open.spotify.com/album/4clewFmbeplurLGqTVcoVT) | 3:01 | 2024-06-04 | 2024-09-13 |
 | [Rabbit Hole](https://open.spotify.com/track/0BnGkx3tOWDLcdinr7RtkU) | [FLEUR ROUGE](https://open.spotify.com/artist/0ffRuel3oov8h1yxqyZLVY) | [Wish You The Worst](https://open.spotify.com/album/1SbbDPa5Z8O7xWDHQIXdgy) | 2:57 | 2025-04-17 | 2025-05-16 |
 | [radar](https://open.spotify.com/track/6V7ITByqDVsW7LUI2xf6pu) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [radar](https://open.spotify.com/album/4ephbTdUL4J4na51zhS8ns) | 3:09 | 2025-09-26 |  |
-| [Rage Song](https://open.spotify.com/track/1mZsxI7QtNxMEZvBKnRPFN) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Rage Song](https://open.spotify.com/album/4qJlBhyclw8Dz0uRzfiyzL) | 2:54 | 2025-09-18 |  |
+| [Rage Song](https://open.spotify.com/track/1mZsxI7QtNxMEZvBKnRPFN) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Rage Song](https://open.spotify.com/album/4qJlBhyclw8Dz0uRzfiyzL) | 2:54 | 2025-09-18 | 2025-10-11 |
 | [Reach You](https://open.spotify.com/track/321YxpqBmI20oWOgWN4kmq) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Reach You](https://open.spotify.com/album/4G3ZScIA2hKsIxRoR4FBi5) | 3:31 | 2025-03-07 | 2025-03-28 |
 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 | 2024-06-04 | 2024-12-06 |
 | [Really Boring](https://open.spotify.com/track/09Iem1QnKSMILt74M4q9Vw) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Really Boring](https://open.spotify.com/album/79I52IiskGMNq2TIGnNzVf) | 3:19 | 2025-07-17 | 2025-08-09 |
@@ -726,7 +728,7 @@
 | [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 | 2025-09-04 | 2025-10-03 |
 | [Sweet](https://open.spotify.com/track/19FbuJGIpNn3AXBqEfYnWt) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Sweet](https://open.spotify.com/album/6CHGx53xePxaDCJJo8vVFG) | 2:20 | 2025-05-22 | 2025-06-27 |
 | [Sweet Praise](https://open.spotify.com/track/6ANxiNW7YVaSvLBmcZu6FC) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Sweet Praise](https://open.spotify.com/album/2WOflCfcALCrjTP2F3OeP0) | 3:21 | 2025-07-24 | 2025-08-22 |
-| [SWEETEST STAR](https://open.spotify.com/track/3yofgNbCx5BgQvIKrDYTqm) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [](https://open.spotify.com/album/null) | 2:22 | 2025-10-09 |  |
+| [SWEETEST STAR](https://open.spotify.com/track/3yofgNbCx5BgQvIKrDYTqm) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [STILL LIFE](https://open.spotify.com/album/365n5oKpXvLf8lMPq8vWgN) | 2:22 | 2025-10-09 |  |
 | [Sweetness](https://open.spotify.com/track/4tzMqvgg0MfCr7sbsv0pYS) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [All This To Say I Love You](https://open.spotify.com/album/79nYzVvNLxJ9WRt0cKDRsg) | 3:19 | 2025-06-26 | 2025-07-25 |
 | [Swimming Pool](https://open.spotify.com/track/2EJ8biaqSmbFay6DANx7gs) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Swimming Pool](https://open.spotify.com/album/3hcMcEo5O1i707MVen72zi) | 3:24 | 2024-08-30 | 2024-11-09 |
 | [swimming with sharks](https://open.spotify.com/track/2XrQDg1HIZeRQVqtcJrnYn) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [the risk feels pretty even](https://open.spotify.com/album/3uMUIBxpBvrLEDdJfdcYQq) | 3:12 | 2025-09-11 | 2025-10-03 |
@@ -775,12 +777,11 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 7](https://open.spotify.com/track/2CpzvsiCLqqXoDNdVUuMNz) | [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trust Issues](https://open.spotify.com/track/5TIilhHzXMxkFTfZQk94Mz) | [Rachel Newnham](https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP) | [Trust Issues](https://open.spotify.com/album/4lfCxwDlQ4ZdpDwQyNxbC9) | 2:43 | 2025-05-22 | 2025-06-20 |
 | [Trust U](https://open.spotify.com/track/7JqopONmTj2Wdd4hlCT5a9) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Trust U](https://open.spotify.com/album/78U64z2IRUy1cPv1VAhEfa) | 2:30 | 2024-06-04 | 2024-09-28 |
 | [TRUTH DARES](https://open.spotify.com/track/6v5idSBv62Ps5UTtn2UdSM) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [BUTTERFLY TO A FLAME](https://open.spotify.com/album/039s679sGg1czeDaW17El4) | 3:48 | 2025-04-24 | 2025-05-16 |
-| [try](https://open.spotify.com/track/3NxEO96YX96IRU0fSlS5TA) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [](https://open.spotify.com/album/null) | 3:14 | 2025-10-09 |  |
+| [try](https://open.spotify.com/track/3NxEO96YX96IRU0fSlS5TA) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [u could be something](https://open.spotify.com/album/1cNWpdNVt8kmfZb3bPLuMH) | 3:14 | 2025-10-09 |  |
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-07-25 |
 | [Two Houses](https://open.spotify.com/track/7dafvdIJzcaIda6cXSmQhy) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Two Houses](https://open.spotify.com/album/5OJL7AegTWeV98OaLmAXnN) | 2:52 | 2025-04-03 | 2025-04-25 |
 | [Two Left Feet](https://open.spotify.com/track/7p3difHC3km5amdYe48Mm4) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Pillars](https://open.spotify.com/album/7GV5DVVYUNOYayX8yQaZYM) | 3:39 | 2025-08-14 | 2025-09-05 |
@@ -813,7 +814,7 @@
 | [WILD!](https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [WILD!](https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i) | 3:22 | 2025-04-10 | 2025-05-02 |
 | [Wingman](https://open.spotify.com/track/553ChZNK0odFJhu4aYNh63) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Wingman](https://open.spotify.com/album/4Woi2Ikh8raJvjMGPNrdZG) | 3:07 | 2024-06-04 | 2024-09-13 |
 | [Wisdom Tooth](https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d) | [Jack Kane](https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi) | [Wisdom Tooth](https://open.spotify.com/album/1MwkXWhTaIJmm6qZOEMUDr) | 2:58 | 2025-09-26 |  |
-| [with you](https://open.spotify.com/track/2hT7LrqCziikoKnqgu8bRC) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [](https://open.spotify.com/album/null) | 2:40 | 2025-10-09 |  |
+| [with you](https://open.spotify.com/track/2hT7LrqCziikoKnqgu8bRC) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [if you need me, i'm a few missed calls away](https://open.spotify.com/album/6nShMxkB15RxG2dwZrXXCw) | 2:40 | 2025-10-09 |  |
 | [Woah Man!](https://open.spotify.com/track/6JAW6U9tvLicav3YTgkhDZ) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Woah Man!](https://open.spotify.com/album/6vVz2NNu2eqBZ7TKE1eCBZ) | 3:03 | 2025-03-28 | 2025-04-18 |
 | [WOMAN LIKE THAT](https://open.spotify.com/track/3qo55kZpzioiSTdJH6KRng) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [I'M A HURRICANE I'M A WOMAN IN LOVE](https://open.spotify.com/album/78F7SDu1qKH4umdw2T6pVo) | 3:05 | 2025-05-01 | 2025-05-30 |
 | [Wonder](https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Wonder](https://open.spotify.com/album/4hK3BiVM1UsQGNvVle14bP) | 3:23 | 2024-08-30 | 2024-10-11 |

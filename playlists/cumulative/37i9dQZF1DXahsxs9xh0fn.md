@@ -2,9 +2,9 @@
 
 ### [fall feels](https://open.spotify.com/playlist/37i9dQZF1DXahsxs9xh0fn)
 
-> anything by adrianne lenker on repeat
+> autumn leaves falling like the rain
 
-259 songs - 16 hr 58 min
+261 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Crying in the Night](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 | 2025-09-19 |  |
 | [Crystal](https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 5:57 | 2023-10-27 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-08-28 | 2024-07-19 |
+| [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 | 2025-10-10 |  |
 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 | 2022-09-21 | 2023-08-29 |
 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 | 2022-09-21 |  |
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2024-07-06 |
@@ -96,6 +97,7 @@
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-08-28 | 2024-08-21 |
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-20 | 2025-08-09 |
 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 | 2025-08-08 |  |
+| [Falls on me](https://open.spotify.com/track/5OsQW2NKnrhS4RjDRLUfje) | [Sylvie](https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ) | [Sylvie](https://open.spotify.com/album/1Bz0ZJqku7OK6S63zfRP7K) | 4:58 | 2025-10-10 |  |
 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 | 2022-09-21 | 2023-08-29 |
 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 | 2025-08-08 |  |
 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 | 2022-09-21 |  |

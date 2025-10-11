@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
@@ -23924,7 +23924,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
@@ -24910,6 +24910,32 @@
       "duration_ms": 188560,
       "name": "Hasta Los Dientes",
       "url": "https://open.spotify.com/track/0sPtR2Z0fRbKOKc3OvBEdA"
+    },
+    {
+      "album": {
+        "name": "HASTA QUE ME ENAMORO",
+        "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180881,
+      "name": "HASTA QUE ME ENAMORO",
+      "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
     },
     {
       "album": {
@@ -28288,7 +28314,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -40770,7 +40796,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 194605,
       "name": "No Capea",
       "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
@@ -48791,6 +48817,28 @@
     },
     {
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
+    },
+    {
+      "album": {
         "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
         "url": "https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw"
       },
@@ -51602,7 +51650,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 193040,
       "name": "Scott and Zelda",
       "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
@@ -52482,7 +52530,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 144230,
       "name": "Se\u00f1or Oficial",
       "url": "https://open.spotify.com/track/6QuFYiebjAGtl0qmPoCeMk"
@@ -53794,7 +53842,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
@@ -58388,7 +58436,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"

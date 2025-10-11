@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,901 likes - 130 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,949 likes - 130 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 41 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 42 | [Flatland](https://open.spotify.com/track/3Pefqp7pb1w2POBsqBSOSC) | [Of Two Minds](https://open.spotify.com/artist/0rtQWH4Rk1eqXt0hih66sL) | [Flatland](https://open.spotify.com/album/53M4hL4yIQGaUSG0u4u9N4) | 2:52 |
 | 43 | [Cartus](https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP) | [Kjjjjjjjjj](https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd) | [Centro De Dispersión](https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde) | 3:04 |
-| 44 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
-| 45 | [Pineapple](https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Friends](https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1) | 2:55 |
+| 44 | [Pineapple](https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Friends](https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1) | 2:55 |
+| 45 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
 | 46 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
 | 47 | [Raft Easily](https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r) | [Rooftops](https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6) | [A Forest of Polarity](https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o) | 3:37 |
 | 48 | [Futura](https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [Gloss Drop](https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR) | 6:17 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 72 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
 | 73 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
 | 74 | [You Eat Houmous, of Course You Listen to Genesis](https://open.spotify.com/track/1o4JR1GCZv5neEl6Djs71B) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Droids](https://open.spotify.com/album/2ZW4OKLdMjp53HgVckgOv0) | 3:40 |
-| 75 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
-| 76 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
+| 75 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
+| 76 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
 | 77 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 78 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
 | 79 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 88 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
 | 89 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
 | 90 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
-| 91 | [El Exilio de Godomar](https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc) | [Kinder](https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9) | [Migraciones](https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1) | 4:09 |
-| 92 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
-| 93 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
+| 91 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
+| 92 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
+| 93 | [El Exilio de Godomar](https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc) | [Kinder](https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9) | [Migraciones](https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1) | 4:09 |
 | 94 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
 | 95 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
 | 96 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |

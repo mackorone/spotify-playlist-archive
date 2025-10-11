@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mathias Ranch",
-  "num_followers": 47067,
+  "num_followers": 47071,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "Vilde \u00d8jne",
         "url": "https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Synger Bare",
         "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 107812,
       "name": "Synger Bare",
       "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -527,6 +511,22 @@
       "duration_ms": 168469,
       "name": "Jeg h\u00e5ber (feat. Mekdes)",
       "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Herified",
-        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
-      },
-      "artists": [
-        {
-          "name": "mags",
-          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Vores Forhandling",
         "url": "https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 149761,
       "name": "Vores Forhandling",
       "url": "https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Herified",
+        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
+      },
+      "artists": [
+        {
+          "name": "mags",
+          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
-      },
-      "artists": [
-        {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
-        }
-      ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Alt hvad jeg vil",
         "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 224980,
       "name": "Alt hvad jeg vil",
       "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Verona",
-        "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198812,
-      "name": "Verona",
-      "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 312000,
       "name": "H\u00e6ng En Mand",
       "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Verona",
+        "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198812,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "R\u00f8dt Flag",
-        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
-      },
-      "artists": [
-        {
-          "name": "Zira",
-          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
-        }
-      ],
-      "duration_ms": 147739,
-      "name": "R\u00f8dt Flag",
-      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Fri",
         "url": "https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 167007,
       "name": "Fri",
       "url": "https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "shout pillow",
+        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
+      },
+      "artists": [
+        {
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+        }
+      ],
+      "duration_ms": 141677,
+      "name": "shout pillow",
+      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "shout pillow",
-        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
+        "name": "R\u00f8dt Flag",
+        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
       },
       "artists": [
         {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+          "name": "Zira",
+          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
         }
       ],
-      "duration_ms": 141677,
-      "name": "shout pillow",
-      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
+      "duration_ms": 147739,
+      "name": "R\u00f8dt Flag",
+      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
     },
     {
       "added_at": "2025-10-09 22:00:30",

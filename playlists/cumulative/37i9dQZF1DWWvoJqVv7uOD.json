@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 171358,
       "name": "Better By Myself",
       "url": "https://open.spotify.com/track/6UuUeDJ118UlygyO27unep"
@@ -3321,6 +3321,28 @@
     },
     {
       "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
+    },
+    {
+      "album": {
         "name": "dose",
         "url": "https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD"
       },
@@ -4926,6 +4948,32 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
       "album": {
@@ -9906,7 +9954,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 203650,
       "name": "My World",
       "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
@@ -14487,6 +14535,24 @@
     },
     {
       "album": {
+        "name": "Avenoir",
+        "url": "https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137471,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf"
+    },
+    {
+      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/3qXHgDNvsiInVbkNdHzYnX"
       },
@@ -14992,6 +15058,24 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
     },
     {
       "album": {
@@ -15502,7 +15586,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 228413,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp"

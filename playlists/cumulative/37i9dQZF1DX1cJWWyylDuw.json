@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the best modern Deathcore tracks. Cover: Fit For An Autopsy",
+  "description": "A mix of the best modern Deathcore tracks. Cover: Lorna Shore",
   "name": "Deathcore",
   "tracks": [
     {
@@ -8642,7 +8642,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 213733,
       "name": "No One's Above",
       "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
@@ -11903,6 +11903,24 @@
     },
     {
       "album": {
+        "name": "The Hardest Thing About Being God Is That No One Believes Me",
+        "url": "https://open.spotify.com/album/3nDaZvMPDBa3ZKtx60mISJ"
+      },
+      "artists": [
+        {
+          "name": "Blindfolded and Led to the Woods",
+          "url": "https://open.spotify.com/artist/4yBKoaWwA9iMFSdNd26G9C"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "The Hardest Thing About Being God Is That No One Believes Me",
+      "url": "https://open.spotify.com/track/2owXgJfvIVH29Nsz2b1ETa"
+    },
+    {
+      "album": {
         "name": "The Isnis",
         "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
       },
@@ -12084,7 +12102,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 247282,
       "name": "The Price of Grace",
       "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
@@ -12414,6 +12432,24 @@
       "duration_ms": 204541,
       "name": "Thinking in Tongues",
       "url": "https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq"
+    },
+    {
+      "album": {
+        "name": "This Comfort Won't Last Here Long",
+        "url": "https://open.spotify.com/album/4npRWIZv6AQYuI0HkPUU4L"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121388,
+      "name": "This Comfort Won't Last Here Long",
+      "url": "https://open.spotify.com/track/56pPQvmNAYvUX0g4lSq8o6"
     },
     {
       "album": {

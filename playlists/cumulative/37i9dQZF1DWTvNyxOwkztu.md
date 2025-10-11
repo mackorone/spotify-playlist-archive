@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-333 songs - 18 hr 27 min
+335 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Can't Stop Loving You](https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq) | [Sadion](https://open.spotify.com/artist/3z8F7Kdw0p4P0zGaushTMR) | [Can't Stop Loving You](https://open.spotify.com/album/159aFoIEDa6yd3iLaRoGgk) | 2:32 | 2021-12-09 | 2022-07-28 |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 | 2023-05-23 |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-09-12 |  |
-| [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 | 2023-06-09 |  |
+| [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 | 2023-06-09 | 2025-10-11 |
 | [Chemistry](https://open.spotify.com/track/3n6uWdbX8vFTow82wyiQBm) | [Tape Machines](https://open.spotify.com/artist/6geC8EbDc3ifaSAbx3RESQ) | [Evergreen Fields](https://open.spotify.com/album/3z6g4EFGP062VY6kQNqBE8) | 3:42 | 2021-12-09 | 2022-09-13 |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2022-05-20 | 2023-05-27 |
 | [Coastline](https://open.spotify.com/track/1KKwWyAsFQBORAgdYDHWle) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Coastline](https://open.spotify.com/album/6ClBl2fFlwWNH4wNJbBOW0) | 3:20 | 2021-12-09 | 2022-08-06 |
@@ -222,6 +222,7 @@
 | [Palm Beach](https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Palm Beach](https://open.spotify.com/album/2E678lyyte3DaqRa14PkUD) | 3:37 | 2021-12-09 | 2022-07-26 |
 | [Peaceful Tides](https://open.spotify.com/track/1mS1U0JsLAqj1ACpvqrOig) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5ysY0aa6qyuUjrAAp1Hrul) | 3:00 | 2023-11-14 | 2024-04-19 |
 | [Peaceful Tides](https://open.spotify.com/track/77hpS2mcbPfsRddmnLjls2) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5O5mpaPfpj53GIG4pCD34O) | 3:00 | 2023-06-30 | 2023-10-08 |
+| [Player](https://open.spotify.com/track/4sHGQLz3wAengeEOncVzBB) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Player](https://open.spotify.com/album/558JaPHhCYap28lBWhyS7A) | 3:03 | 2025-10-10 |  |
 | [Portimao](https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [Portimao](https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE) | 3:26 | 2021-12-09 | 2022-05-18 |
 | [Push](https://open.spotify.com/track/1i5lXpzjo8qBAVRvEoBl7Z) | [Grennels](https://open.spotify.com/artist/0qbTETuJCrGSTL7EKVWIH5) | [Push](https://open.spotify.com/album/3qjxhwOM5CJJ83VVlwe2cv) | 5:35 | 2021-12-09 | 2022-05-21 |
 | [Rain in the Moat](https://open.spotify.com/track/6mxSKjZQXaC3nTpqQJTAv8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Rain in the Moat](https://open.spotify.com/album/1n711WPVKs4V76KjxxVwSN) | 2:39 | 2022-03-25 | 2022-04-21 |
@@ -292,6 +293,7 @@
 | [Swimming Pool](https://open.spotify.com/track/5Dyzk48hvk3GhUzWuxBLTy) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Swimming Pool](https://open.spotify.com/album/6s0HYklZPfRLNtIMnYbli9) | 5:28 | 2022-10-07 | 2022-10-22 |
 | [Sïstër](https://open.spotify.com/track/6dnNEVwVUG7hRwVYAyCcV1) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sïstër](https://open.spotify.com/album/6WhIiPn8rVCtFXfk4PBIuS) | 3:23 | 2021-12-09 | 2023-09-14 |
 | [Tal](https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Tal](https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I) | 4:51 | 2023-04-14 |  |
+| [Teahupoo](https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Teahupoo](https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr) | 3:22 | 2025-10-10 |  |
 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 | 2025-04-25 |  |
 | [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 | 2023-06-09 |  |
 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 | 2023-02-17 |  |
@@ -310,7 +312,7 @@
 | [Un Idiota \- Te Perdí](https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Un Idiota \(Te Perdí\)](https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF) | 5:00 | 2025-07-18 | 2025-09-26 |
 | [Under Water](https://open.spotify.com/track/0Oq4dCN4vvEVGX6T0XQ7Ge) | [Lightcore](https://open.spotify.com/artist/4AlA8vTiQdHHCKVBMJKHBg) | [Under Water](https://open.spotify.com/album/2lNccIpLWGysgBFlZWNQdL) | 2:42 | 2021-12-09 | 2022-04-20 |
 | [Unfading](https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Unfading](https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06) | 2:42 | 2021-12-09 | 2023-02-17 |
-| [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 | 2021-12-09 |  |
+| [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 | 2021-12-09 | 2025-10-11 |
 | [Utopia](https://open.spotify.com/track/4xRJYmi749eRPbD1TREOB9) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Utopia](https://open.spotify.com/album/6mmkJHEFlPqrtpFwbt5B8V) | 3:05 | 2021-12-09 | 2022-02-27 |
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-06-02 | 2022-10-18 |

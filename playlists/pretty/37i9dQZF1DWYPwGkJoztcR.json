@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 393516,
+  "num_followers": 393532,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Green Lights",
-        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Falling Easy",
-      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Say You'll Stay",
         "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
       },
@@ -687,22 +671,6 @@
       "duration_ms": 169993,
       "name": "Say You'll Stay",
       "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 194675,
-      "name": "Last Forever - Acoustic",
-      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -723,22 +691,34 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
+      "duration_ms": 177306,
+      "name": "Falling Easy",
+      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 194675,
+      "name": "Last Forever - Acoustic",
+      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -795,22 +775,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
-      },
-      "artists": [
-        {
-          "name": "Axelle",
-          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
-        }
-      ],
-      "duration_ms": 179148,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Every Town",
         "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
       },
@@ -823,6 +787,38 @@
       "duration_ms": 233262,
       "name": "Every Town",
       "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
+      },
+      "artists": [
+        {
+          "name": "Axelle",
+          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
+        }
+      ],
+      "duration_ms": 179148,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -847,18 +843,18 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -879,18 +875,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
       },
       "artists": [
         {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+      "duration_ms": 225000,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Nowhere Land",
-        "url": "https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL"
-      },
-      "artists": [
-        {
-          "name": "Deborah Parlor",
-          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
-        }
-      ],
-      "duration_ms": 191443,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Happier (Piano Version)",
         "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 192823,
       "name": "Happier - Piano Version",
       "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Nowhere Land",
+        "url": "https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL"
+      },
+      "artists": [
+        {
+          "name": "Deborah Parlor",
+          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
+        }
+      ],
+      "duration_ms": 191443,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Never Fall In Love Again",
-        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
+        "name": "Don't Break My Heart",
+        "url": "https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN"
       },
       "artists": [
         {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
         }
       ],
-      "duration_ms": 168991,
-      "name": "Never Fall In Love Again",
-      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+      "duration_ms": 174336,
+      "name": "Don't Break My Heart",
+      "url": "https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Never Fall In Love Again",
+        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "I Look For You",
         "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Don't Break My Heart",
-        "url": "https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Don't Break My Heart",
-      "url": "https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 145185,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "I'm In Heaven",
+        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        }
+      ],
+      "duration_ms": 205671,
+      "name": "I'm In Heaven",
+      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "I'm In Heaven",
-        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
       "artists": [
         {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
         }
       ],
-      "duration_ms": 205671,
-      "name": "I'm In Heaven",
-      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1215,22 +1231,6 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Wild Horses",
-        "url": "https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t"
-      },
-      "artists": [
-        {
-          "name": "JODIAC",
-          "url": "https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA"
-        },
-        {
-          "name": "A. Johanson",
-          "url": "https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69"
-        }
-      ],
-      "duration_ms": 202630,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
       },
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Wild Horses",
+        "url": "https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t"
+      },
+      "artists": [
+        {
+          "name": "JODIAC",
+          "url": "https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA"
+        },
+        {
+          "name": "A. Johanson",
+          "url": "https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69"
+        }
+      ],
+      "duration_ms": 202630,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "seasons",
         "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
       },
@@ -1435,54 +1435,18 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Magnetic Fields",
-        "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
       "artists": [
         {
-          "name": "The Analogues Sideshow",
-          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
-        },
-        {
-          "name": "The Analogues",
-          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
         }
       ],
-      "duration_ms": 153880,
-      "name": "Magnetic Fields",
-      "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 254100,
-      "name": "Waiting in the Wings",
-      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1503,34 +1467,18 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Po\u00e8te Maudit",
-        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
       "artists": [
         {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Po\u00e8te Maudit",
-      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+      "duration_ms": 254100,
+      "name": "Waiting in the Wings",
+      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1551,6 +1499,58 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Magnetic Fields",
+        "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
+      },
+      "artists": [
+        {
+          "name": "The Analogues Sideshow",
+          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
+        },
+        {
+          "name": "The Analogues",
+          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "Magnetic Fields",
+      "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Po\u00e8te Maudit",
+        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Po\u00e8te Maudit",
+      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Amen (Acoustic)",
         "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 210000,
       "name": "Amen - Acoustic",
       "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "added_at": "2025-10-09 22:00:27",

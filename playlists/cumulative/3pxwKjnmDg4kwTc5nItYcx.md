@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-871 songs - 1 day 22 hr 48 min
+873 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Gold](https://open.spotify.com/track/3yK3FMbBKamJeJFOQ6ybjo) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Into Gold](https://open.spotify.com/album/1xcZ5lmwepV6Xj9WpNwt8Z) | 3:40 | 2020-02-21 | 2021-05-12 |
 | [Gold Energy](https://open.spotify.com/track/650AFM5GJoTAAmQCI4Zy8Z) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Gold Energy](https://open.spotify.com/album/2aYdjZxR2nDdaL2HFQKM6V) | 3:25 | 2021-11-20 | 2025-07-17 |
 | [Gone](https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Gone](https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9) | 4:01 | 2025-08-05 | 2025-08-27 |
+| [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 | 2025-10-10 |  |
 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 | 2019-10-25 | 2020-05-19 |
 | [Good Enough](https://open.spotify.com/track/0cFvdXOqN4drzStfQZyrTP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Good Enough](https://open.spotify.com/album/5EJUe8e86fTXdx98j0UPXE) | 3:36 | 2020-08-21 | 2021-05-12 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-08-19 | 2025-08-27 |
@@ -729,6 +730,7 @@
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 | 2025-08-27 |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2020-05-15 | 2021-05-12 |
 | [Sunset Dream](https://open.spotify.com/track/0L1FtaRjfRZTIrenNbsFIa) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Sunset Dream](https://open.spotify.com/album/0zP5kga1QrhHeXNIRfmdpR) | 3:26 | 2021-05-14 | 2025-08-27 |
+| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-10-10 |  |
 | [Sweet Insomnia \(feat\. 6LACK\)](https://open.spotify.com/track/57vONmoD0vJTTTwW10ofrZ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 2:43 | 2019-10-25 | 2020-04-06 |
 | [Sweet Tea](https://open.spotify.com/track/0kfedmsKrRx8KnemlgPYh2) | [Jaylena](https://open.spotify.com/artist/0L1KPJsw6O5MEPa1iKQm90) | [Sweet Tea](https://open.spotify.com/album/35b5mvqhLTq8skFTMQ4jaF) | 3:53 | 2019-08-27\* | 2019-11-11 |
 | [Sweet Tooth](https://open.spotify.com/track/6dhn5ZreoskYocA256lMPV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sweet Tooth](https://open.spotify.com/album/50pwo2lVRHdrusSovA3ic2) | 4:06 | 2020-02-14 | 2021-05-12 |

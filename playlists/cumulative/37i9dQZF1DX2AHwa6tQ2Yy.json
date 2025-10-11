@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "ANITYA",
+        "url": "https://open.spotify.com/album/3dkXLBidFPC0XArsXu5AQ3"
+      },
+      "artists": [
+        {
+          "name": "Tom Scott",
+          "url": "https://open.spotify.com/artist/1ztodYaQgAqXrZZYJ93bP8"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250240,
+      "name": "khloe",
+      "url": "https://open.spotify.com/track/6j8frKckDWVBWMU7qZwBan"
+    },
+    {
+      "album": {
         "name": "lady lovin'",
         "url": "https://open.spotify.com/album/3CWo3fW7bbZMxuF2jEmOqY"
       },
@@ -5842,24 +5860,6 @@
       "duration_ms": 228965,
       "name": "Today I Miss You",
       "url": "https://open.spotify.com/track/5qdMBYgZdicuxs6U18Co5g"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Tom Scott",
-          "url": "https://open.spotify.com/artist/1ztodYaQgAqXrZZYJ93bP8"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6j8frKckDWVBWMU7qZwBan"
     },
     {
       "album": {

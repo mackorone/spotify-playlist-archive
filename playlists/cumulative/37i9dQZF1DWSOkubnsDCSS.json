@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Flow so good, it deserved a reload.  Cover: Scorcher",
+  "description": "Flow so good, it deserved a reload.  Cover: Yizzy, Jme",
   "name": "Grime Shutdown",
   "tracks": [
     {
@@ -2725,6 +2725,28 @@
     },
     {
       "album": {
+        "name": "GRIME 2.0",
+        "url": "https://open.spotify.com/album/7vlcu9jss42K2mzHTfBzU8"
+      },
+      "artists": [
+        {
+          "name": "Yizzy",
+          "url": "https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162781,
+      "name": "GRIME 2.0",
+      "url": "https://open.spotify.com/track/1OGK6i258hee6esLcnPeMK"
+    },
+    {
+      "album": {
         "name": "Grime Gala",
         "url": "https://open.spotify.com/album/3LuEMmNMYbD3YNVN3q8Ey8"
       },
@@ -5276,7 +5298,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 117567,
       "name": "Runway",
       "url": "https://open.spotify.com/track/7KBSfbAi4iEwekEDzBFfKR"

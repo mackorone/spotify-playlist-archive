@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Jazzy
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,343 likes - 172 songs - 8 hr 54 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,340 likes - 172 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects \(DJ Mix\)](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
+| 1 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
 | 2 | [Match My Mood](https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Same Day Cleaning](https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT) | 2:51 |
 | 3 | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd) | 4:08 |
 | 4 | [Light Me Up](https://open.spotify.com/track/1VbLQ4OGIkoxPqmaxgOIIv) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Light Me Up](https://open.spotify.com/album/6z5uf0oR3EiKMj7PAnbNva) | 2:41 |

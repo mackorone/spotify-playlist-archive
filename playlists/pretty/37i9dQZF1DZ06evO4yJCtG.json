@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 153349,
+  "num_followers": 153368,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABfVrA507K91T83rBxSpjzZ",
+  "snapshot_id": "aOb7AAAAAAAXz8zTV/8oy0ydYtWi1vq4",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
       "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 206946,
-      "name": "What You Did (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": null,
@@ -235,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
       "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+      "duration_ms": 206946,
+      "name": "What You Did (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
     },
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
       },
       "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 221522,
-      "name": "24/7 (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB"
+      "duration_ms": 237244,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
       "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 237244,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN"
+      "duration_ms": 221522,
+      "name": "24/7 (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB"
     },
     {
       "added_at": null,

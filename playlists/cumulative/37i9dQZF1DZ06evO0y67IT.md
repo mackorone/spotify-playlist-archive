@@ -4,7 +4,7 @@
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 39 min
+103 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Common Crook](https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:13 | 2022-10-25 |  |
 | [Constant Dread](https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 2:52 | 2025-04-23 |  |
 | [Constant Dread](https://open.spotify.com/track/74eohVDfoTJockasBnIOoU) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 2:52 | 2022-10-25 | 2025-04-23 |
-| [Control Alt Delete](https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:13 | 2024-11-12 |  |
+| [Control Alt Delete](https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:13 | 2024-11-12 | 2025-10-11 |
 | [Corps Of Corpses](https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:12 | 2022-10-25 |  |
 | [Crimson Sand](https://open.spotify.com/track/3ZBs4rRJjfNpm4KyEw8hgQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 2:54 | 2022-10-25 | 2024-11-12 |
 | [Cross Me off Your List](https://open.spotify.com/track/7AxeXzRXALqFQEunwsJuvo) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely XV](https://open.spotify.com/album/1YtsGpv3NdF0vgzO54C9aU) | 3:21 | 2023-12-13 | 2024-02-11 |
@@ -52,6 +52,7 @@
 | [I Will Follow You into the Dark](https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [I Will Follow You into the Dark / Cinco De Mayo Shit Show](https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I) | 3:19 | 2024-10-19 |  |
 | [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 | 2022-10-25 | 2025-04-26 |
 | [Inside Out](https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI) | 3:25 | 2025-04-28 |  |
+| [Is This What You Wanted?](https://open.spotify.com/track/5OcjQTSP7jTkiO2YgfbeNO) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 3:23 | 2025-10-11 |  |
 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 | 2022-10-25 | 2025-04-26 |
 | [Just Another Ghost](https://open.spotify.com/track/7rgmDxJcV3ZsouQdBLUIB4) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf) | 3:05 | 2025-04-26 |  |
 | [Language Lessons \(Five Words or Less\)](https://open.spotify.com/track/4BQ20AoXE9Z27kw4EFZ3os) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely XV](https://open.spotify.com/album/1YtsGpv3NdF0vgzO54C9aU) | 3:18 | 2023-12-13 | 2024-01-19 |

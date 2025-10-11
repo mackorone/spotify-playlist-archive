@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 25 | [ricochet](https://open.spotify.com/track/41zRFZskGaj9msEL43fJjD) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:07 |
 | 26 | [A Song For Her](https://open.spotify.com/track/0K7FOB1sgaKj4KdUWFiR8J) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:39 |
 
-Snapshot ID: `aOWpgAAAAAAaj/U/Fn1Z/RSJzzlg8y6R`
+Snapshot ID: `aOb7AAAAAACipQeYuTWv0GOMrRGqF9yw`

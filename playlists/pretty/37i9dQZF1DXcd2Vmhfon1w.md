@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Israel B x L0rna.
+> Lo mejor del hip hop español\. Feat\. Israel B x l0rna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,936 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,883 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 4 | [Catastrophe \- Remix](https://open.spotify.com/track/3YiIs7johhRmG9gbGvuqSQ) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Yurz](https://open.spotify.com/artist/15KWO9lpYpflUvRbIwRilI), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Catastrophe \(Remix\)](https://open.spotify.com/album/4ve7dWzxTlHEz6A0psQgkr) | 2:57 |
 | 5 | [Moonlight's Puppet Remix](https://open.spotify.com/track/5PSaLujSojEfsog1wwG17m) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Interferencias](https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN) | [Moonlight's Puppet Remix](https://open.spotify.com/album/6Fvmo9FBVmTnZZAQcbIlz2) | 2:05 |
 | 6 | [El Diario del Loco](https://open.spotify.com/track/6HlX2bpBirY8SBoBMc69nj) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Kandas](https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP) | [El Diario del Loco](https://open.spotify.com/album/56BZCljC5qDOpNuyHlNzQ9) | 3:40 |
-| 7 | [Los Odiosos Ocho](https://open.spotify.com/track/6ZqmIiY5QBBs4mkn09yYWx) | [Space Hammu](https://open.spotify.com/artist/7h7SMN04ptUh5BmYEPpcGU), [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Kas Rules](https://open.spotify.com/artist/5Wk4tQ1jAYa4LurxJ6MV0c), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Sanson](https://open.spotify.com/artist/3hoLnQFJFN6bUwIcPCqWUS) | [Los Odiosos Ocho](https://open.spotify.com/album/3o2EJhmsYjzzIA8bF31cKL) | 4:56 |
+| 7 | [Los Odiosos Ocho](https://open.spotify.com/track/6ZqmIiY5QBBs4mkn09yYWx) | [Space Hammu](https://open.spotify.com/artist/7h7SMN04ptUh5BmYEPpcGU), [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Kas Rules](https://open.spotify.com/artist/5Wk4tQ1jAYa4LurxJ6MV0c), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Sanson](https://open.spotify.com/artist/7Hhb4Aik2dGn5ci2Djhe9x) | [Los Odiosos Ocho](https://open.spotify.com/album/3o2EJhmsYjzzIA8bF31cKL) | 4:56 |
 | 8 | [YETSKI](https://open.spotify.com/track/1VJZvAQKvyMuIQXM3UDpEr) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [YETSKI](https://open.spotify.com/album/0hzxgb7u7h8D6kmBp4M5yX) | 2:12 |
 | 9 | [HA$H DE MOROCCO](https://open.spotify.com/track/0wZTlJJqfkwsbTVYx77GTp) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [AMOR DE BARRIO](https://open.spotify.com/album/47cKeHSRPpq01MrnXA8pj4) | 2:38 |
 | 10 | [Lo que no quiero](https://open.spotify.com/track/2PnXIK7CxVlEILcKZPQuyT) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [LOS ÚLTIMOS VIVOS \(OTOÑO\)](https://open.spotify.com/album/70jckgzWJ2NN9BRBR6KXOx) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [ES COMO FAK](https://open.spotify.com/track/5sUbra1c8ZDnD9chdM4cUf) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [ES COMO FAK](https://open.spotify.com/album/73KT9WlDKkzNMOqtnOxnCa) | 2:19 |
 | 50 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
 
-Snapshot ID: `AAAAAApuRd8CqjCEw+bE/12IlIM/ieBb`
+Snapshot ID: `AAAAAFQPg851+lMeQ1LnBCrfGBSHXD1X`

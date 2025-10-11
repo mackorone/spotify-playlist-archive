@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Discover your favorite new chill pop songs. Cover: The Kid LAROI",
+  "description": "Discover your favorite new chill pop songs. Cover: Thomas Day",
   "name": "Fresh & Chill",
   "tracks": [
     {
@@ -22665,6 +22665,24 @@
     },
     {
       "album": {
+        "name": "kids",
+        "url": "https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "pollen",
+      "url": "https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp"
+    },
+    {
+      "album": {
         "name": "Pollution",
         "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
       },
@@ -22788,6 +22806,24 @@
       "duration_ms": 204907,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
+    },
+    {
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154110,
+      "name": "Pretty Idea",
+      "url": "https://open.spotify.com/track/2dm9ovqfua9wQFsepLvugc"
     },
     {
       "album": {

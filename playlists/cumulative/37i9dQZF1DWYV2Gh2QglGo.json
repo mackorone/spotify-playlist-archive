@@ -1941,8 +1941,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Fire Child",
+        "url": "https://open.spotify.com/album/3owKjqyBwMUl4a47gVWRDT"
       },
       "artists": [
         {
@@ -7129,24 +7129,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "date_added": "2025-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
-    },
-    {
-      "album": {
         "name": "Train (Station Edition)",
         "url": "https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit"
       },
@@ -7642,6 +7624,24 @@
       "duration_ms": 208379,
       "name": "When the Devil Whispers",
       "url": "https://open.spotify.com/track/5rPwVC9h7mdEedFMSFtGll"
+    },
+    {
+      "album": {
+        "name": "Somewhere in a Small Town",
+        "url": "https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177175,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
     },
     {
       "album": {

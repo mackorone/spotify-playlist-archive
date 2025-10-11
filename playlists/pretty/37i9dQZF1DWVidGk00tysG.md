@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905 likes - 96 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,934 likes - 96 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 92 | [Chopin: 12 Études, Op\. 25: No\. 1 in A\-Flat Major "Aeolian Harp"](https://open.spotify.com/track/5QS4Ww7pFtigfFqoSQJrP6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin: Études, Op\. 10 & 25](https://open.spotify.com/album/4m29Z33TQFkPtkguspP8Ah) | 2:33 |
 | 93 | [12 Études, Op\. 25: No\. 7 in C\-Sharp Minor "Cello"](https://open.spotify.com/track/4e2qaUQywKIkBey3J3kCIy) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Ballades; Etudes; Barcarolle; Berceuse](https://open.spotify.com/album/2hFsKTJAtjie4skjio4FKK) | 4:51 |
 | 94 | [Impromptu in F\-Sharp Major, Op\. 36](https://open.spotify.com/track/6Nmzf2J095Fa2Q0BpBRoSR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Evgeny Kissin plays Chopin](https://open.spotify.com/album/6ap0FOChrqyQXZk8VbSa8b) | 5:46 |
-| 95 | [Chopin: Fantasy on Polish Airs, Op\. 13](https://open.spotify.com/track/00wHoETjCPnZzYxlgUzUTQ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Garrick Ohlsson](https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x), [Polish Radio National Symphony Orchestra](https://open.spotify.com/artist/72v1Rk0lvuKYixf9j14rJx), [Jerzy Maksymiuk](https://open.spotify.com/artist/2EGK18Dwe9ylcNRgGr56mX), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK) | [The Complete Chopin Edition \- 200th anniversary](https://open.spotify.com/album/4TElSlyYEGfax0WDQn4Fox) | 14:28 |
+| 95 | [Chopin: Fantasy on Polish Airs, Op\. 13](https://open.spotify.com/track/00wHoETjCPnZzYxlgUzUTQ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Garrick Ohlsson](https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Jerzy Maksymiuk](https://open.spotify.com/artist/2EGK18Dwe9ylcNRgGr56mX) | [The Complete Chopin Edition \- 200th anniversary](https://open.spotify.com/album/4TElSlyYEGfax0WDQn4Fox) | 14:28 |
 | 96 | [24 Preludes, Op\. 28: No\. 1 in C Major](https://open.spotify.com/track/6UlYfU3dCqFXKCOIcfTrb9) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Preludes](https://open.spotify.com/album/4iYwCjvCuY590kRhaBAHbW) | 0:41 |
 
 Snapshot ID: `AAAAAJaEZ6Iqt65k0ff6ka6lo7lkjKbE`

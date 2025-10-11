@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAA0mWuUlSB/U86q0Bn6P8aT",
+  "snapshot_id": "aOb7AAAAAABxRNxlcl42pagTRtZy1Z8+",
   "tracks": [
     {
       "added_at": null,
@@ -563,30 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de la Clika",
         "url": "https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 128138,
       "name": "Sue\u00f1os de la Clika",
       "url": "https://open.spotify.com/track/5cI2CcuDA9ZOpXgg30eBIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": null,

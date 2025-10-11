@@ -4,7 +4,7 @@
 
 > The latest in pop\. Cover: Sofia Camara
 
-2,482 songs - 5 day 5 hr 24 min
+2,483 songs - 5 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Come With Me](https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Come With Me](https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve) | 3:33 | 2022-06-24 | 2022-07-30 |
 | [Common Denominator](https://open.spotify.com/track/1FAXBUPG8CHHH9FpCJMFnD) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Common Denominator](https://open.spotify.com/album/65zCCG2CQEyBiVdIac9CB5) | 3:31 | 2025-09-26 |  |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-04 | 2022-04-29 |
-| [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [](https://open.spotify.com/album/null) | 3:07 | 2025-10-10 |  |
+| [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 |  |
 | [Confessions](https://open.spotify.com/track/1vW6daDWuHrfyNw5K5t5EJ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Confessions](https://open.spotify.com/album/2DSSvfhn5JzCZuGh873uoA) | 2:59 | 2022-05-06 | 2022-06-11 |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-11 | 2023-07-15 |
 | [Confident](https://open.spotify.com/track/1jj2wwibMPcG9q7uc22ahq) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Confident](https://open.spotify.com/album/2Mpn2NYGTNrKsygkpEP5gB) | 2:53 | 2023-02-08 | 2023-03-11 |
@@ -1411,6 +1411,7 @@
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-13 | 2024-01-20 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-20 | 2022-07-09 |
 | [Me Myself and I](https://open.spotify.com/track/2SOzoXrQ0r8RXzaSXAnxx5) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Me Myself and I](https://open.spotify.com/album/1yUFwiHCSBCNuoa21PltAI) | 2:33 | 2023-11-24 | 2023-12-09 |
+| [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 | 2025-10-10 |  |
 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 | 2021-12-31 | 2022-02-19 |
 | [Means I care](https://open.spotify.com/track/63bgBHUBX1rutghlrXZrvp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:55 | 2025-02-21 | 2025-03-29 |
 | [meant to be](https://open.spotify.com/track/7jkFQSEaJGfteJFj3UdGop) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [meant to be](https://open.spotify.com/album/5Y97acfZ6ZxXQ1WNw2Sivp) | 2:50 | 2024-10-25 | 2025-02-15 |
@@ -2215,7 +2216,6 @@
 | [Toxic \(to Me\)](https://open.spotify.com/track/3brWDMDsaHSfgrCSV7k3Go) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Toxic \(to Me\)](https://open.spotify.com/album/3WTNiGtLU1R6KHEGBhl4EN) | 3:17 | 2025-07-04 | 2025-08-18 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-29 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 | 2023-04-22 |
-| [Track 5](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2024-04-13 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-08-24 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-25 | 2022-05-14 |
@@ -2264,6 +2264,7 @@
 | [UNHHH](https://open.spotify.com/track/7GMUOZVVsXs0si8sJ9QXQP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Please Hold](https://open.spotify.com/album/3yTyKaDM9gEzPuSgTCWTmq) | 2:14 | 2024-09-13 | 2024-12-07 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-01-14 |
 | [unloving you](https://open.spotify.com/track/6lAjTAvUTMcfSzlAypLcWd) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [unloving you](https://open.spotify.com/album/769BuaELVS37ol4D7zD5cl) | 3:23 | 2025-05-16 | 2025-07-12 |
+| [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 | 2025-10-10 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-06 | 2023-06-03 |
 | [Unwind](https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Unwind](https://open.spotify.com/album/11tbIyhBWtfHn60JGKfEMb) | 2:18 | 2024-05-17 | 2024-06-15 |
 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-06-17 | 2022-08-30 |
@@ -2434,7 +2435,7 @@
 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 | 2024-08-23 | 2024-11-09 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-22 | 2022-11-05 |
 | [Work](https://open.spotify.com/track/5NRzwCkGp1z64lBLEAfOzW) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg), [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [No Tears On This Ride](https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG) | 2:15 | 2025-04-25 | 2025-06-28 |
-| [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [](https://open.spotify.com/album/null) | 2:59 | 2025-10-10 |  |
+| [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 | 2025-10-10 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-01-19 | 2024-05-03 |
 | [Worthy](https://open.spotify.com/track/0L4Wp1wN1MFPvLvwgHQhIO) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Worthy](https://open.spotify.com/album/4R4b6PdvbfQTsF3engj7X5) | 3:05 | 2022-05-27 | 2022-06-11 |
 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 | 2022-11-18 | 2022-12-17 |

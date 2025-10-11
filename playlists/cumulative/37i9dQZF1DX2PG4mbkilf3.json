@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, featuring Daniela Andrade from Montr\u00e9al, QC.",
+  "description": "Your guide to R&B in Canada, featuring Dylan Sinclair from Thornhill, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 272222,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/3jexuSVo2BdY8AfPdzPj5m"
@@ -4763,6 +4763,28 @@
     },
     {
       "album": {
+        "name": "CONTAGIOUS",
+        "url": "https://open.spotify.com/album/5Pw0A6OC6N4sHCBimyfWgm"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186788,
+      "name": "CONTAGIOUS",
+      "url": "https://open.spotify.com/track/4L2Vv8QvsO4jfMPG3luF3z"
+    },
+    {
+      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/0DBxNEtZisbJ4z11AN5lCq"
       },
@@ -5928,6 +5950,24 @@
       "duration_ms": 114199,
       "name": "DO IT!",
       "url": "https://open.spotify.com/track/6DgY9CfYAZTXDZPDOPUDsR"
+    },
+    {
+      "album": {
+        "name": "Do The Most",
+        "url": "https://open.spotify.com/album/2ofb0U53n9aed9da9PgCa9"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153958,
+      "name": "Do The Most",
+      "url": "https://open.spotify.com/track/243eeiV2otLAsCasKezNMx"
     },
     {
       "album": {
@@ -8272,7 +8312,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 130909,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/67QY3XW2sDheXvAAXMVLif"
@@ -9876,7 +9916,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 145733,
       "name": "Her World",
       "url": "https://open.spotify.com/track/2vGZsY7UyCqGuNYOGOsJlF"
@@ -15650,7 +15690,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 221935,
       "name": "Movie",
       "url": "https://open.spotify.com/track/6Ot7QlYZmVOLeAGurDCIdj"
@@ -16252,7 +16292,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 165000,
       "name": "NEXT BIG THING",
       "url": "https://open.spotify.com/track/7iuAZJUinXf4Yhx1sxdEfr"
@@ -18940,7 +18980,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 143941,
       "name": "POOR YOU",
       "url": "https://open.spotify.com/track/04uc4DVcxg73yikDNDmY91"
@@ -19554,6 +19594,24 @@
       "duration_ms": 136421,
       "name": "RaRa",
       "url": "https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F"
+    },
+    {
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/1XiB70tVYlGskQ8psaDWMD"
+      },
+      "artists": [
+        {
+          "name": "Kuzi Cee",
+          "url": "https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160819,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/49b9x49lFyyIvFmaZK8fTa"
     },
     {
       "album": {
@@ -20755,6 +20813,24 @@
     },
     {
       "album": {
+        "name": "Say the Word",
+        "url": "https://open.spotify.com/album/5qaWwIeGgaLZGs0KJboqoD"
+      },
+      "artists": [
+        {
+          "name": "Notifi",
+          "url": "https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Say the Word",
+      "url": "https://open.spotify.com/track/4oitqBw4jGmH6f8jH80qwb"
+    },
+    {
+      "album": {
         "name": "Say Yes",
         "url": "https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7"
       },
@@ -20828,7 +20904,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 256743,
       "name": "Scotia Born",
       "url": "https://open.spotify.com/track/0fwtmyUnIn9Dupu1921QDd"
@@ -21360,6 +21436,28 @@
       "duration_ms": 152540,
       "name": "Show",
       "url": "https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM"
+    },
+    {
+      "album": {
+        "name": "SHOW ME LOVE (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "SHOW ME LOVE (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo"
     },
     {
       "album": {
@@ -22161,6 +22259,24 @@
     },
     {
       "album": {
+        "name": "Some More",
+        "url": "https://open.spotify.com/album/6hpBTb0X11p3Tp3hVtf09C"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122474,
+      "name": "Some More",
+      "url": "https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc"
+    },
+    {
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/2OpsQM5rD4xIajD2aXUioe"
       },
@@ -22780,6 +22896,24 @@
       "duration_ms": 219035,
       "name": "Spit It Out (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
+    },
+    {
+      "album": {
+        "name": "split in 2",
+        "url": "https://open.spotify.com/album/2GXMUygRj5iVn3xqpe8Vkn"
+      },
+      "artists": [
+        {
+          "name": "Divine Lightbody",
+          "url": "https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178958,
+      "name": "split in 2",
+      "url": "https://open.spotify.com/track/7iA6tXRLOy7hbKV6oauVIf"
     },
     {
       "album": {
@@ -24158,6 +24292,24 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7EAe6fx19GmkIBc0KZoSBD"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255679,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/59FQytHvZeGRBnBQO6eloP"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/6J6el0iTZkCDbZUua9unej"
       },
       "artists": [
@@ -25038,7 +25190,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 178500,
       "name": "this ain't no situation",
       "url": "https://open.spotify.com/track/47CnjOJR6rbEErjutKOsFw"

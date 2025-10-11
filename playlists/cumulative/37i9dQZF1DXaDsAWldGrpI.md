@@ -2,9 +2,9 @@
 
 ### [Country Live](https://open.spotify.com/playlist/37i9dQZF1DXaDsAWldGrpI)
 
-> Your favorite artists, recorded live \- just like you were there! Cover: Keith Urban
+> Your favorite artists, recorded live \- just like you were there! Cover: Megan Moroney
 
-213 songs - 15 hr 0 min
+214 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All About Tonight \- Live](https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:39 | 2021-07-22 | 2024-04-19 |
 | [All Again \- Live From The Steel City](https://open.spotify.com/track/2MLDJuZU6Xv4slAKGjWGCh) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From The Steel City](https://open.spotify.com/album/5xQUHaNbKO83rdyIyCgd49) | 4:50 | 2025-09-26 |  |
 | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7) | 3:57 | 2024-09-26 |  |
+| [Am I Okay? \- Live](https://open.spotify.com/track/0nRmAYTEnll4gKDTROyVl5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? Tour \(Live\)](https://open.spotify.com/album/3CuNufuQGMfBENDZaKSGFF) | 5:41 | 2025-10-10 |  |
 | [American Honey \- Live](https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:43 | 2021-07-22 | 2024-05-05 |
 | [American Nights \- Live From Foxborough](https://open.spotify.com/track/6VWLGOifAAVLZnODPilzea) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [24 \(Live\)](https://open.spotify.com/album/45X4bjgXE86wQamRz6ihLE) | 3:59 | 2024-12-20 | 2025-09-13 |
 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 | 2021-07-22 |  |
@@ -151,7 +152,7 @@
 | [Ready to Run \- Live \- 2003](https://open.spotify.com/track/7wzXlKNSYuLwd05Jz9SaYm) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Top of the World Tour Live](https://open.spotify.com/album/7zC8Q5FAxjQPwdkBG2wQGu) | 4:30 | 2024-05-04 | 2024-06-05 |
 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 | 2021-07-22 | 2024-05-05 |
 | [Record Year \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/1aaVflBoMypwij2UKVschg) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:41 | 2021-07-22 |  |
-| [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 | 2024-05-04 |  |
+| [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 | 2024-05-04 | 2025-10-11 |
 | [Rockstar \(with Bailey Zimmerman\) \- Live From Nashville](https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Live From Nashville](https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF) | 4:41 | 2024-11-15 |  |
 | [Round Here \- Live From Joe's Bar, Chicago / 2012](https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Round Here \(Live From Joe's Bar, Chicago / 2012\)](https://open.spotify.com/album/0D83bO5GmEHbFkmVVWPhYV) | 4:04 | 2022-08-26 | 2024-05-05 |
 | [RSVP \- Live](https://open.spotify.com/track/4dkaY74ybKD2a72afxOFRm) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [RSVP \(Live\)](https://open.spotify.com/album/0pPmk9j6atfenNZO8ZTMwI) | 2:52 | 2022-12-02 | 2024-05-05 |

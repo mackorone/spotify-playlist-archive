@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 198190,
+  "num_followers": 198203,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACRLv2XsVGj5UYB8KJVCHze",
+  "snapshot_id": "aOb7AAAAAADUZWUrkvBGgMZHPx43Ru3/",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "The Lady Don't Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 297226,
       "name": "This Must Be the Place (Naive Melody) - Live",
       "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "The Lady Don't Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
     },
     {
       "added_at": null,

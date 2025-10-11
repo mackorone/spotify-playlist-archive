@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,745 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,762 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 70 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
 | 71 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
 | 72 | [Omega \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Let Freedom Ring \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw) | 8:30 |
-| 73 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
-| 74 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
+| 73 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
+| 74 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
 | 75 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
 | 76 | [In The Truth](https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [The Ultimate](https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp) | 5:02 |
 | 77 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |

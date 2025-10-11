@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55414,
+  "num_followers": 55416,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADQshymUr5DcFMXYZgUHqw7",
+  "snapshot_id": "aOb7AAAAAABQIstvVPM4mtORmoCuxoUe",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 268506,
-      "name": "Strange Mercy",
-      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
+      "duration_ms": 265053,
+      "name": "Surgeon",
+      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 265053,
-      "name": "Surgeon",
-      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
+      "duration_ms": 268506,
+      "name": "Strange Mercy",
+      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 35776,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 222986,
       "name": "Dinner for Two",
       "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 35776,
-      "name": "Tour Bus",
-      "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 179920,
-      "name": "Bad Believer",
-      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 245040,
       "name": "The Party",
       "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "Bad Believer",
+      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Huey Newton",
-      "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 135040,
       "name": "Actor Out of Work",
       "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
     },
     {
       "added_at": null,

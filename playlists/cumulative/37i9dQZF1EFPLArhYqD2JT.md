@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-458 songs - 23 hr 10 min
+459 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Was There Ever A Pal Like You](https://open.spotify.com/track/1I8benLwWYXV3wvXG7524W) | [Henry Burr](https://open.spotify.com/artist/4KamiHhXFArPH2d7aX6qOF) | [Greatest Songs & Tunes of 1920](https://open.spotify.com/album/1VCg0VWGAWQ1razdsWWNu6) | 3:14 | 2024-07-26 |  |
 | [Wasn't It Yesterday?](https://open.spotify.com/track/07sXFm5G4MHHx1HFHuUNPC) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H), [Beth Bartley](https://open.spotify.com/artist/7tSAC8FNrP0lnYTUF758EI), [Emily Bordonaro](https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ) | [The Michael Townsend Wright Album](https://open.spotify.com/album/7FRP4PuC0gmbGXFuYclBL9) | 2:23 | 2024-07-26 |  |
 | [We Saw The Sea](https://open.spotify.com/track/7dU026ft83lmMBQi1HqlWC) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Bioshock 2: The Official Soundtrack \- Music From And Inspired By The Game \(Special Edition\)](https://open.spotify.com/album/7eo4Qx3hqaBWUzYTdJGadT) | 2:19 | 2024-07-26 |  |
+| [We'll Never Know](https://open.spotify.com/track/0tVhFddPcZJDjCOHiYvPEl) | [Red Norvo](https://open.spotify.com/artist/6TDBjaKrCj3BvbxhiUSbog) | [Nuances By Norvo Vol\. 5](https://open.spotify.com/album/1hwhWEpTBLBppmyPMt6DKD) | 2:43 | 2025-10-10 |  |
 | [Weiße Weihnacht](https://open.spotify.com/track/1awVQiDyDLYPisjVhD1J1o) | [Fantasy](https://open.spotify.com/artist/3QK6XTFKV94wlcLVQkBJ8O) | [Weihnachten mit Fantasy](https://open.spotify.com/album/7xQv1DvE5scxuPjjZEzhZ9) | 3:36 | 2024-07-26 |  |
 | [What Can You Do With A General?](https://open.spotify.com/track/7moc2eXocUTN55x4IAUro7) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:59 | 2024-07-26 |  |
 | [What Chance Have I With Love](https://open.spotify.com/track/21M8J0zryzGS9fOLzGc9Qk) | [Donald O'Connor](https://open.spotify.com/artist/6JGPCu8A5iBnvYuGx5vKP0), [Alfred Newman & His Orchestra](https://open.spotify.com/artist/4sn9Sv32cLH9DDhIUKz3W2) | [Call Me Madam](https://open.spotify.com/album/23MSOd1XHSl2mBwjZNBxvg) | 2:50 | 2024-07-26 |  |

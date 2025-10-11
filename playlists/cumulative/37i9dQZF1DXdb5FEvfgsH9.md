@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-161 songs - 9 hr 56 min
+162 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1988](https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Liselotte Östblom](https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [1988](https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ) | 4:30 | 2023-01-20 |  |
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-07-26 | 2022-10-15 |
 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-07-26 | 2023-12-16 |
+| [ALL NIGHT](https://open.spotify.com/track/0ZkRu8xmo2at41FHL12V3S) | [GEM BRULÉ](https://open.spotify.com/artist/5npti4V81GoFYnBw1YSq1L), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [ALL NIGHT](https://open.spotify.com/album/0IcBvmSu9Ivd2NsPdsMLcL) | 3:06 | 2025-10-10 |  |
 | [All Night](https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [All Night](https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc) | 2:50 | 2024-02-02 |  |
 | [Alone with You \- Lazywax Remix](https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Alone with You \(Lazywax Remix\)](https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj) | 4:54 | 2023-05-19 |  |
 | [American Dream](https://open.spotify.com/track/0Xtww6oKBat94kE6FxuqTl) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [American Dream](https://open.spotify.com/album/6iMTeVJt2iUmgrL1XIHXkB) | 4:57 | 2024-01-19 | 2024-07-25 |
@@ -106,7 +107,7 @@
 | [Lost & Found](https://open.spotify.com/track/5Oqj9NjQh2H1HTl5yibPhd) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:40 | 2021-07-26 | 2023-04-30 |
 | [Lost & Found](https://open.spotify.com/track/7qY6JjVNBzuzT1dkmoaiWh) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/4GeISBvDAIJ5rLaXkpI0oD) | 3:40 | 2021-07-26 | 2023-07-15 |
 | [Million Miles Away \- Edit](https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq) | 3:31 | 2023-07-07 |  |
-| [More](https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/6vt5eZTbyId7w8pBNtDBuY) | 3:03 | 2021-07-26 |  |
+| [More](https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/6vt5eZTbyId7w8pBNtDBuY) | 3:03 | 2021-07-26 | 2025-10-11 |
 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 | 2021-07-26 | 2024-04-19 |
 | [Mr Experience](https://open.spotify.com/track/54GhzoPYsZArLvotyAORIt) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:55 | 2021-07-26 | 2023-11-11 |
 | [Multiply](https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Multiply](https://open.spotify.com/album/0E8Xp8B1X9Ttr7ZWwR7Ci8) | 4:16 | 2023-11-10 | 2024-02-24 |

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  أنغام
 
-1,583 songs - 3 day 16 hr 17 min
+1,584 songs - 3 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [El Refak](https://open.spotify.com/track/2eugj0DrBkAvNXO9IFzV8N) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [El Refak](https://open.spotify.com/album/2X1W6e97CsRfv7ieC0kSra) | 4:20 | 2023-09-28 | 2024-01-08 |
 | [El Sahra Hatehlaw](https://open.spotify.com/track/3kv5O5KkAubpO7HMGaHShN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [El Sahra Hatehlaw](https://open.spotify.com/album/03pTedMMDumCmAdhJUJph6) | 3:18 | 2021-12-23 | 2022-03-03 |
 | [El Saqya](https://open.spotify.com/track/5pkjKUfkL5rBTeF2tLb3jZ) | [Hawas](https://open.spotify.com/artist/5bw79xRegkjdqG6RQT9rME) | [Seka Gedida](https://open.spotify.com/album/401ng6rZRfEIpfGJMwyUZH) | 3:55 | 2025-05-01 | 2025-06-20 |
+| [El Segn Law Kan Genena](https://open.spotify.com/track/0TZNS87SGYRescCC4U8kAT) | [Dallo](https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG) | [El Segn Law Kan Genena](https://open.spotify.com/album/2MA5gkXaJtBKmuuBKh8V34) | 2:19 | 2025-10-10 |  |
 | [EL Seif Wasal](https://open.spotify.com/track/3KF8eQmgt5spj2pBJcDVVd) | [Marwan Chami](https://open.spotify.com/artist/6VRfjjKLm3dGZ4qzMSq6aZ) | [EL Seif Wasal](https://open.spotify.com/album/6EceAuAhOCaTRBGZYBBpkt) | 2:40 | 2023-08-03 | 2023-09-22 |
 | [El Tofah w El Farawla](https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Tofah w El Farawla](https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g) | 3:56 | 2023-02-23 | 2023-05-03 |
 | [El Waat El Helw From Tita Zuzu Series](https://open.spotify.com/track/1d7fkvmKB57MBggkoOd4Sx) | [Mohamed Kelany](https://open.spotify.com/artist/1p29Qrd6zwOEUaxSR8lk4y) | [El Waat El Helw From Tita Zuzu Series](https://open.spotify.com/album/4Erg1MIZFMMfbp7MmpTljp) | 2:35 | 2024-10-18 | 2024-12-27 |
@@ -666,7 +667,7 @@
 | [Mashy Elhal](https://open.spotify.com/track/0c4unh743LWeoxu337fs6i) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u), [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mashy Elhal](https://open.spotify.com/album/3AYE3eM2Xkn9pTbRJwSGqO) | 2:37 | 2023-12-21 | 2024-01-26 |
 | [Maslahtak](https://open.spotify.com/track/6BeQMpOEaSbhEIC2AdZNFa) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Maslahtak](https://open.spotify.com/album/5K2vhfsNd1y9WShLYP5zoo) | 2:41 | 2023-09-14 | 2023-09-16 |
 | [Massoly W Sabaho](https://open.spotify.com/track/3J23wfJv66vfDpzJGq4ek7) | [Pousi](https://open.spotify.com/artist/14NLUDYxVR69gFP5EYarNX) | [Massoly W Sabaho](https://open.spotify.com/album/7f2Q7Q25Exq1pafHlOh4TY) | 2:57 | 2023-06-23 | 2023-06-26 |
-| [Mat7awlsh Fayrouz Arkan ماتحاولش فيروز آركان](https://open.spotify.com/track/1hw9oJQY2y00jn4enah95k) | [Fayrouz Arkan](https://open.spotify.com/artist/2HjZHaGEC7rAhbqxYBAS1e) | [Mat7awlsh Fayrouz Arkan ماتحاولش فيروز آركان](https://open.spotify.com/album/4Te4aLRblZLOfopNoR6Hid) | 4:23 | 2025-07-03 |  |
+| [Mat7awlsh Fayrouz Arkan ماتحاولش فيروز آركان](https://open.spotify.com/track/1hw9oJQY2y00jn4enah95k) | [Fayrouz Arkan](https://open.spotify.com/artist/2HjZHaGEC7rAhbqxYBAS1e) | [Mat7awlsh Fayrouz Arkan ماتحاولش فيروز آركان](https://open.spotify.com/album/4Te4aLRblZLOfopNoR6Hid) | 4:23 | 2025-07-03 | 2025-10-11 |
 | [Matafi \- Acoustic](https://open.spotify.com/track/2RnHai3T2pWNOVmcPE903E) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR) | [Matafi \(Acoustic\)](https://open.spotify.com/album/2kmjqQM8MzNUtzPLEDyJbY) | 1:38 | 2025-02-20 | 2025-03-05 |
 | [Matesaloosh ماتسألوش](https://open.spotify.com/track/7wF2G29AVplUwgHHte1pfm) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Matesaloosh ماتسألوش](https://open.spotify.com/album/1PiJHPRcJNsQDW1ZFhNs6B) | 3:07 | 2025-01-23 | 2025-02-21 |
 | [Matestaghrabsh Haga](https://open.spotify.com/track/7Jq8rsBuJxTxw0fENkcYEh) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Matestaghrabsh Haga](https://open.spotify.com/album/4eXD2O6PUiD8hZKHu4Lohg) | 4:27 | 2022-09-28 | 2022-12-27 |

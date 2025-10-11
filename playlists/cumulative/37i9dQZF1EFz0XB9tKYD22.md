@@ -4,14 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-414 songs - 1 day 0 hr 26 min
+415 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 | 2024-02-27 |  |
 | [1x1](https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4bK3rdCDBq8D7VXtdtg3cR) | 3:12 | 2024-02-27 | 2024-07-12 |
 | [1x1](https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T) | 3:12 | 2024-07-11 |  |
-| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 |  |
+| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 | 2025-10-11 |
 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 | 2024-02-27 |  |
 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 | 2024-02-27 |  |
 | [A\-YO](https://open.spotify.com/track/6Az2Ll2CPnWYQ2BgiHf4Di) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-02-27 |  |
@@ -353,6 +353,7 @@
 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:27 | 2024-07-10 |  |
 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/3YT4ivJlZm1imbjAPKpuEj) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:27 | 2024-02-27 | 2024-07-11 |
 | [The Story Of My Life](https://open.spotify.com/track/0bGMqMbzmmUl2y5RGHJxZW) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Call Me Crazy](https://open.spotify.com/album/0KXK77Q3lYrmzqSnFvtBfW) | 4:22 | 2024-02-27 |  |
+| [The Verse: Doxology \(Amen\) \(feat\. Phil Wickham\)](https://open.spotify.com/track/5ovXFH8H5EwJlKrFVcudKs) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 1:24 | 2025-10-10 |  |
 | [Things People Say \(feat\. Channing Wilson\)](https://open.spotify.com/track/4mG8EKRuHWXhOxmyqC3cwL) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Make the Night Better](https://open.spotify.com/album/1GMlTB5tGa6uWMtClk8ek9) | 3:13 | 2024-02-27 |  |
 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 | 2024-03-24 |  |
 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 | 2024-02-27 |  |

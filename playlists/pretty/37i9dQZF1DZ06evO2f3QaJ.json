@@ -1,12 +1,12 @@
 {
   "description": "This is Zudizilla. The essential tracks, all in one playlist.",
-  "num_followers": 899,
+  "num_followers": 900,
   "original_name": "This Is Zudizilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAbkmzcpiKoS7VhI6DbT307",
+  "snapshot_id": "aOb7AAAAAADL7nM3dNtsDjHMQw6EtJub",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
+      "duration_ms": 187413,
+      "name": "Apoteose",
+      "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
     },
     {
       "added_at": null,
@@ -668,9 +668,25 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Apoteose",
-      "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 236472,
+      "name": "Foco nos Planos",
+      "url": "https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 344540,
       "name": "Sem Distra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 236472,
-      "name": "Foco nos Planos",
-      "url": "https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-148 songs - 11 hr 52 min
+149 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-09-12 | 2024-04-19 |
 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 | 2024-04-08 |  |
 | [Strange Meadow Lark](https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 7:22 | 2022-09-12 | 2024-04-19 |
+| [Sunday Kind Of Love](https://open.spotify.com/track/0IKnidRgUVph8HaApRVWD6) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Java Jazz: A Bold Instrumental Jazz Roast](https://open.spotify.com/album/6QDhV4WQwbKz6Yxc0fDDet) | 5:13 | 2025-09-29 |  |
 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 | 2022-11-07 |  |
-| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2025-09-08 |  |
+| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2025-09-08 | 2025-10-11 |
 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-06-09 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 7:27 | 2022-09-12 |  |
 | [The Tearjerker Returns](https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX) | 3:32 | 2022-09-12 | 2024-04-19 |

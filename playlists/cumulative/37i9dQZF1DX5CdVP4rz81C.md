@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: The Kid LAROI
+> Discover your favorite new chill pop songs\. Cover: Thomas Day
 
-1,784 songs - 3 day 22 hr 17 min
+1,786 songs - 3 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,6 +1226,7 @@
 | [Please Don't Leave Just Yet](https://open.spotify.com/track/1kHTb9Mq9FbBKqhH4RjCIi) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Please Don't Leave Just Yet](https://open.spotify.com/album/27L7VdlM5R2B1ZK9hjZYDT) | 3:49 | 2021-08-07 | 2021-08-28 |
 | [POINT](https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [POINT](https://open.spotify.com/album/5WE9RMc0mVpSoycGLg8cOW) | 3:26 | 2022-03-25 | 2022-04-09 |
 | [poison](https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [poison](https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F) | 2:48 | 2023-07-14 | 2023-09-09 |
+| [pollen](https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [kids](https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6) | 3:18 | 2025-10-10 |  |
 | [Pollution](https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Pollution](https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq) | 3:54 | 2023-09-29 | 2023-12-02 |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 | 2023-06-17 |
 | [Potential](https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Potential](https://open.spotify.com/album/6E7of8enDnsOuZVFD0oYmK) | 3:26 | 2023-05-26 | 2023-06-24 |
@@ -1233,6 +1234,7 @@
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 | 2022-06-10 | 2022-07-23 |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2024-07-17 |  |
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-10-28 | 2022-11-18 |
+| [Pretty Idea](https://open.spotify.com/track/2dm9ovqfua9wQFsepLvugc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:34 | 2025-10-10 |  |
 | [Pretty In Pink](https://open.spotify.com/track/7xCl5wLVbZVMWqV6E1mxO2) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Pretty In Pink](https://open.spotify.com/album/2YWlCcvunFvJKZouVQm5Ae) | 3:06 | 2021-03-26 | 2021-04-24 |
 | [Pretty Places](https://open.spotify.com/track/465IQvyDIpnizvUbZ8ULyo) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Pretty Places](https://open.spotify.com/album/2AMNwptQJMPYkw5p3jjFVc) | 5:19 | 2021-03-22 | 2021-04-24 |
 | [Priority](https://open.spotify.com/track/3YS2XHzhnFyAEmfQbLIjaM) | [Ellye Lennon](https://open.spotify.com/artist/77rboyrzZ7IKcJWX1raGGM) | [Priority](https://open.spotify.com/album/7lEsXKTCD1OspayrdWKfgQ) | 3:46 | 2022-12-02 | 2022-12-17 |

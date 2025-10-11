@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-230 songs - 12 hr 28 min
+231 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Follow Me \(feat\. Jason Derulo\)](https://open.spotify.com/track/5nUJym1qItTzwWx2zfSxUb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [United We Are](https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3) | 3:19 | 2025-08-06 |  |
 | [Follow Me \(feat\. Jason Derulo\)](https://open.spotify.com/track/7yz7qd34tUXXujAZDaJNyv) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:19 | 2024-02-27 | 2025-08-07 |
 | [Follow Me \(feat\. JHart\)](https://open.spotify.com/track/2X4ZUK44laGmfq6XTTe2dm) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Follow Me \(feat\. JHart\)](https://open.spotify.com/album/6OlwUdVKV2BBiJ4xyjBSi9) | 3:36 | 2024-02-27 |  |
+| [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 | 2025-10-10 |  |
 | [Gasoline \(feat\. Laura White\)](https://open.spotify.com/track/1Env1Ldwa5Ob2QMtBTTVZG) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:29 | 2024-02-27 |  |
 | [Gazillionaire](https://open.spotify.com/track/0OxyOZVZjmra7k5gJ3Q3IT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/2RkBBR9ARKnTM4BDptb3tT) | 2:26 | 2024-02-27 |  |
 | [Girl Like You](https://open.spotify.com/track/27bgC58pQo7mHtxgA1Njew) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:30 | 2024-02-27 |  |

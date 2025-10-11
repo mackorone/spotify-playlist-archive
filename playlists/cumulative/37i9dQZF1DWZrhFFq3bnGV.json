@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/1S4NVEP5rW8KI2PoRQ4oQi"
+      },
+      "artists": [
+        {
+          "name": "Eddy Syakroni",
+          "url": "https://open.spotify.com/artist/0Wr9S2380PfX0wC3OTmTmX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221877,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/2ioFniiBnm3HeMji8iHBx7"
+    },
+    {
+      "album": {
         "name": "Healing Dreams",
         "url": "https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja"
       },

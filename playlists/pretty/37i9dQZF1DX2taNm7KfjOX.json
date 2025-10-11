@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Big Thief",
-  "num_followers": 1362284,
+  "num_followers": 1362196,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -707,22 +691,6 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -743,18 +711,34 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
         "name": "Back to the Wind",
         "url": "https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 200161,
       "name": "Back to the Wind",
       "url": "https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -819,26 +839,6 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "takeaways",
-        "url": "https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 229372,
-      "name": "White Male Privilege",
-      "url": "https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+        "name": "takeaways",
+        "url": "https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
+      "duration_ms": 229372,
+      "name": "White Male Privilege",
+      "url": "https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -983,6 +967,22 @@
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+        "name": "You'd Kill Me If You Could",
+        "url": "https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        },
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
         }
       ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+      "duration_ms": 239784,
+      "name": "You'd Kill Me If You Could",
+      "url": "https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "You'd Kill Me If You Could",
-        "url": "https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI"
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
       "artists": [
         {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        },
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 239784,
-      "name": "You'd Kill Me If You Could",
-      "url": "https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A"
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "My Light, My Destroyer",
-        "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "The Explorer",
         "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 174200,
       "name": "The Explorer",
       "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "My Light, My Destroyer",
+        "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Modes of Transportation",
-        "url": "https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 210180,
-      "name": "Jessie's Comet",
-      "url": "https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Mark William Lewis",
         "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 381560,
       "name": "Tomorrow is Perfect",
       "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "Modes of Transportation",
+        "url": "https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 210180,
+      "name": "Jessie's Comet",
+      "url": "https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Good Game",
-        "url": "https://open.spotify.com/album/3hAi8jMZcfpvmqnbV1yvNx"
-      },
-      "artists": [
-        {
-          "name": "Clover County",
-          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
-        }
-      ],
-      "duration_ms": 200423,
-      "name": "Good Game",
-      "url": "https://open.spotify.com/track/1uC6yl3BVOOyieOooYDeq7"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -1931,22 +1915,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -1963,6 +1931,38 @@
       "duration_ms": 240000,
       "name": "Feel - with Kyson",
       "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "Good Game",
+        "url": "https://open.spotify.com/album/3hAi8jMZcfpvmqnbV1yvNx"
+      },
+      "artists": [
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Good Game",
+      "url": "https://open.spotify.com/track/1uC6yl3BVOOyieOooYDeq7"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Bovine Excision",
-        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 173177,
-      "name": "Bovine Excision",
-      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 211061,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "Bovine Excision",
+        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 173177,
+      "name": "Bovine Excision",
+      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "Stay cool",
-        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 207982,
-      "name": "Stay cool",
-      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
-    },
-    {
-      "added_at": "2025-09-22 18:26:48",
-      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -2359,18 +2343,18 @@
     {
       "added_at": "2025-09-22 18:26:48",
       "album": {
-        "name": "JVC",
-        "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
+        "name": "Stay cool",
+        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
       },
       "artists": [
         {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 248745,
-      "name": "Smoker",
-      "url": "https://open.spotify.com/track/1VshXQJLBCge1YWpbwJlig"
+      "duration_ms": 207982,
+      "name": "Stay cool",
+      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
     },
     {
       "added_at": "2025-09-22 18:26:48",
@@ -2387,6 +2371,22 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2025-09-22 18:26:48",
+      "album": {
+        "name": "JVC",
+        "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 248745,
+      "name": "Smoker",
+      "url": "https://open.spotify.com/track/1VshXQJLBCge1YWpbwJlig"
     },
     {
       "added_at": "2025-09-22 18:26:48",

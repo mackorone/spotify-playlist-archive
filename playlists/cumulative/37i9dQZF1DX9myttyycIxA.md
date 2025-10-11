@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Rocket
+> Underground indie rock gems\. Cover: Hatchie
 
-1,735 songs - 4 day 4 hr 18 min
+1,739 songs - 4 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [I'm All Fucked Up](https://open.spotify.com/track/1gWIrsjqpmN57sMfq5NcuO) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [I'm All Fucked Up](https://open.spotify.com/album/5o25j9hctz6Y0B2KFBXujQ) | 4:33 | 2024-04-19 | 2024-07-13 |
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2023-06-30 | 2023-08-25 |
 | [I'm Losing It](https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [I'm Losing It](https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL) | 3:06 | 2025-05-16 |  |
+| [I'm Not A Writer](https://open.spotify.com/track/7bOMnJ2zzJsNU0xDidaDrO) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I Will Not Be Like That](https://open.spotify.com/album/7DNdEgb7ZLRQCYwQEHcfWV) | 2:36 | 2025-10-10 |  |
 | [I'm Not In Love](https://open.spotify.com/track/0ODp4fhCOXpxdUMD6ghM3V) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/0I0OwIhuKkI10Whl0ByfRf) | 1:37 | 2021-08-27 | 2022-04-19 |
 | [I'm Not Ok](https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [I'm Not Ok](https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy) | 4:52 | 2022-12-22 | 2023-03-04 |
 | [I'm So Sorry](https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Headache](https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ) | 4:00 | 2024-11-08 | 2025-04-26 |
@@ -1142,6 +1143,7 @@
 | [One Step at a Time](https://open.spotify.com/track/6N5mvQmipHnahnQCF3eqF8) | [Attention Bird Utopia](https://open.spotify.com/artist/6WQmjqmXZdwjIb1Tpctt4o), [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8), [Eli Hirsch](https://open.spotify.com/artist/3TnGwgpdm4ySLrbjzd38OW) | [Best of Kings](https://open.spotify.com/album/5oCjXdfKyrccegnfxKF5Yb) | 4:11 | 2025-06-06 |  |
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-07-22 | 2023-04-29 |
 | [One Trick Pony](https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [One Trick Pony](https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk) | 3:00 | 2024-09-13 | 2025-04-05 |
+| [Only One Laughing](https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Only One Laughing](https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw) | 4:09 | 2025-10-10 |  |
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 | 2023-06-16 |
 | [Opaque](https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Opaque](https://open.spotify.com/album/54QKs6GR3fhmcabY3i4oHW) | 3:36 | 2021-11-12 | 2022-04-20 |
 | [Orange](https://open.spotify.com/track/4gnrM7X1H8sDjyGSv6Y9az) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Orange](https://open.spotify.com/album/6AQymuAGSvGCXV30K5nHDx) | 4:30 | 2023-08-24 | 2024-02-17 |
@@ -1238,6 +1240,7 @@
 | [reasons](https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [reasons](https://open.spotify.com/album/3Zy4PSc2ucpzhO8YzQLYJC) | 5:00 | 2022-09-23 | 2022-10-15 |
 | [Reckless Abandon](https://open.spotify.com/track/7E4mcrXhcYhM8ZqBRFug5F) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Reckless Abandon](https://open.spotify.com/album/0het83VxmQeKN3daSX36lo) | 2:18 | 2025-04-18 | 2025-07-05 |
 | [Recognize Me](https://open.spotify.com/track/43ezfVzC3NsPw8Qbcn1Ajf) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [Recognize Me](https://open.spotify.com/album/7HCfOw4R32FyRdR0KYmcWu) | 3:05 | 2025-05-09 |  |
+| [Recognize You](https://open.spotify.com/track/7hJ0oqscjJIrGPyiKenpcx) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Recognize You](https://open.spotify.com/album/5jhawCgrp2Lv5E3dyMEOzs) | 4:31 | 2025-10-10 |  |
 | [Records](https://open.spotify.com/track/3cOJaWwa5MmirlH6BVheMZ) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Movies](https://open.spotify.com/album/137J7ZwtKlnRNbjiQS0MlV) | 4:15 | 2025-02-28 | 2025-05-10 |
 | [Red Brick](https://open.spotify.com/track/5JiEzvDyUom70fKv4gYEEr) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Red Brick / Whale Station](https://open.spotify.com/album/7EVzAURmuTIhI7oCyG4ODO) | 3:58 | 2025-10-03 |  |
 | [Reelin](https://open.spotify.com/track/0d6cDQYL92RiATlMruYFmE) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/3iBG6zb55V0lkxMSECkq1d) | 3:57 | 2025-02-21 | 2025-05-31 |
@@ -1278,6 +1281,7 @@
 | [Salesman](https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Salesman](https://open.spotify.com/album/1VNPxU0B6SpzxhWxC5p8Oa) | 3:42 | 2025-08-22 |  |
 | [Salome](https://open.spotify.com/track/0vBoiLP5oMhP32eRZguhdm) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Salome](https://open.spotify.com/album/1t75YrHvYR6BeBo9uVTG8Z) | 2:18 | 2025-03-14 | 2025-04-26 |
 | [SALTWATER SKY](https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [SALTWATER SKY](https://open.spotify.com/album/3FkuX79QDbX1Zkt2kMsIO7) | 2:16 | 2022-09-16 | 2023-03-04 |
+| [Same Sun](https://open.spotify.com/track/68WQazghMHnM3E93x4t0or) | [Still Blank](https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71) | [Same Sun](https://open.spotify.com/album/2UaW2B4QTwtpMNuTlzgmi5) | 3:15 | 2025-10-10 |  |
 | [Same Thing Every Day](https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Same Thing Every Day](https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl) | 3:14 | 2023-05-19 | 2023-06-16 |
 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 | 2022-01-28 | 2022-04-27 |
 | [Sandcastle Molds](https://open.spotify.com/track/0Jr21WWAdomoLGmDbds9v2) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Sandcastle Molds](https://open.spotify.com/album/3eZcliPovnaww1ahgJ1gnN) | 3:18 | 2024-12-06 | 2025-03-08 |

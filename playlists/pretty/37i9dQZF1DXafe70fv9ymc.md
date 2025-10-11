@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,686 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,709 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 3 | [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 |
 | 4 | [Nice n​' Slow ​\(f​eat​\. WurlD​\)](https://open.spotify.com/track/002YjpsmQGHq13WZvLx3ME) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 3:18 |
 | 5 | [Get It \(Oou Wee\)](https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS) | [Nunu Eluma](https://open.spotify.com/artist/60C5hwoLoFJBdVHx6HZZid), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Get It \(Oou Wee\)](https://open.spotify.com/album/29P2AJTS35lUlsaW6ER6u7) | 2:38 |
-| 6 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [](https://open.spotify.com/album/null) | 3:07 |
+| 6 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 7 | [Rhythm & Blues](https://open.spotify.com/track/6MatF34mUyDaaf9diQgCDA) | [Dr.Ish](https://open.spotify.com/artist/4NPYdsxHeTKjVyM1gzme77), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Rhythm & Blues](https://open.spotify.com/album/4MJf04FlpbTj1y1luauTee) | 3:16 |
 | 8 | [TSD](https://open.spotify.com/track/2PBG7vBts21Uh5XYycmh4K) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [GJtheCaesar](https://open.spotify.com/artist/4DSV4Nfs3clNUejSLIWdSb) | [TSD](https://open.spotify.com/album/2d5foQBUlfViM3QnVenzzG) | 3:38 |
 | 9 | [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 22 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
 | 23 | [Equestrian Love](https://open.spotify.com/track/3dNaSqy9JgCElA1QF4TjYp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:24 |
 | 24 | [Four Rounds](https://open.spotify.com/track/1OTzF1P0GumLThWaXrMKrK) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Swadu](https://open.spotify.com/artist/0sT2f64cwU0t11bxv2Sy1y) | [Four Rounds](https://open.spotify.com/album/3dm1skw86X03fWunBlOnYM) | 3:24 |
-| 25 | [Miss Mariana](https://open.spotify.com/track/3SikofyUm55u6BfwhUWB5h) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [](https://open.spotify.com/album/null) | 2:33 |
+| 25 | [Miss Mariana](https://open.spotify.com/track/3SikofyUm55u6BfwhUWB5h) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:33 |
 | 26 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 |
 | 27 | [Oroma](https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Oroma](https://open.spotify.com/album/4gGIM7deWJhmmVli9JGskW) | 2:16 |
 | 28 | [BMB \(Be My Baby\)](https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [BMB \(Be My Baby\)](https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f) | 3:04 |

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-2,034 songs - 4 day 13 hr 53 min
+2,035 songs - 4 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,7 +743,7 @@
 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2023-01-04 | 2023-02-02 |
 | [Got Me Like](https://open.spotify.com/track/6j5zCVCTLIw4qXRMoseA5r) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Got Me Like](https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK) | 2:37 | 2024-06-01 | 2024-07-02 |
 | [GPS](https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [GPS](https://open.spotify.com/album/3LaUaXAOBE5fvIBNrWFOB8) | 2:41 | 2025-01-17 | 2025-04-23 |
-| [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 | 2025-10-01 |  |
+| [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 | 2025-10-01 | 2025-10-11 |
 | [Great American Bitch](https://open.spotify.com/track/2NaNUij0c1fBiFabH2LakC) | [Kim Blanck](https://open.spotify.com/artist/63aCVj25s2GBm3DYnVCE8a), [Ally Bonino](https://open.spotify.com/artist/0QfBig2wRjlG3LMtXa566b), [Hannah Cruz](https://open.spotify.com/artist/4Okl6bPzDlvptmDBdFwLJw), [Nadia Dandashi](https://open.spotify.com/artist/7ng65Hm0TgSct87mErm5DS), [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [Suffs \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1R6nRTL81nROSLVJo2PDnl) | 3:15 | 2024-07-01 | 2024-08-02 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-11-08 | 2023-11-30 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-03-08 | 2022-04-07 |
@@ -1425,6 +1425,7 @@
 | [Pressure](https://open.spotify.com/track/46H0bctMtuGEn11ZhNJkkc) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Pressure](https://open.spotify.com/album/1qo6mW0KlP5vEOLXqM7OIn) | 2:05 | 2025-08-29 | 2025-09-29 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-02-02 | 2022-03-09 |
 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2023-09-06 | 2023-10-05 |
+| [Pretty Idea](https://open.spotify.com/track/2dm9ovqfua9wQFsepLvugc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:34 | 2025-10-10 |  |
 | [Price of Perfection](https://open.spotify.com/track/2bu6TFn64ASDFXocD9HQ38) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ), [Lilianne Coeverden](https://open.spotify.com/artist/3H1AhCg1QoUO8Hnl10Ze3E) | [Price of Perfection](https://open.spotify.com/album/2txLPaA4ixLXjw3yYJkcCH) | 3:26 | 2022-03-08 | 2022-04-07 |
 | [Prima Materia](https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Prima Materia](https://open.spotify.com/album/1v3UC61wKMgUC9oWwYPUtZ) | 5:12 | 2022-08-03 | 2022-08-27 |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-05-03 | 2023-06-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Oklou, FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,561 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,545 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 33 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
 | 34 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 |
 | 35 | [LOVE WINS FOREVER](https://open.spotify.com/track/1froZhX1iDTl7J1tXsTu9F) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [LOVE WINS FOREVER](https://open.spotify.com/album/5AWqQWCMYeLUR0ys4qPiO0) | 4:23 |
-| 36 | [one foot in front of the other](https://open.spotify.com/track/5g59vNTzfzG8E7YSULEJGw) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [](https://open.spotify.com/album/null) | 4:02 |
+| 36 | [one foot in front of the other](https://open.spotify.com/track/5g59vNTzfzG8E7YSULEJGw) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [PRAISE ANIMAL](https://open.spotify.com/album/3tZdFfROxEupvAN2XhnY1Q) | 4:02 |
 | 37 | [DEAD](https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [DEAD](https://open.spotify.com/album/3gnscgQrOmEJdOYZRKa4LD) | 4:08 |
 | 38 | [Mockingjay](https://open.spotify.com/track/22hjpM2j5KWg7zNyve4T1g) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Mockingjay](https://open.spotify.com/album/2vuLW3TUCDbcikyzgITy6o) | 3:01 |
 | 39 | [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 |

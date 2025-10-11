@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Westside Cowboy
 
-696 songs - 1 day 17 hr 37 min
+697 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [No Love](https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Get Sunk](https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz) | 3:55 | 2025-05-29 | 2025-07-25 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-10-10 | 2025-01-24 |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 | 2024-07-12 |
+| [Not Ideal](https://open.spotify.com/track/3h4VpzoEM7UaC9aBfIfYt4) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [This Land](https://open.spotify.com/album/7lgJJWSRMLj6D4lGkSfFxc) | 3:06 | 2025-10-10 |  |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-09-20 | 2024-11-15 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-28 | 2025-05-16 |
 | [Now What?](https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Now What?](https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7) | 3:13 | 2025-04-17 | 2025-05-23 |

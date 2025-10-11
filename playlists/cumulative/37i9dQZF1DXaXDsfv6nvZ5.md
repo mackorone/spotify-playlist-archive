@@ -2,9 +2,9 @@
 
 ### [Soul Coffee](https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5)
 
-> The soulful tunes to ease you into your day\. Cover: Felicia Temple
+> The soulful tunes to ease you into your day\. Cover: EJ Jones
 
-848 songs - 2 day 2 hr 41 min
+850 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 | 2025-03-07 |  |
 | [IDKW](https://open.spotify.com/track/4xAzhi0QeeqYz6UAe1IOHf) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX), [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [IDKW](https://open.spotify.com/album/54HSCUEUViik4P1gQaWlG0) | 2:49 | 2025-06-27 | 2025-08-02 |
 | [If I Ain't Got You \(Tank's Version\)](https://open.spotify.com/track/4M8r5a71WLt8qpoWZE4597) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Amanda Reid](https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [If I Ain't Got You \(Tank's Version\)](https://open.spotify.com/album/4sSNkIjKpaybaY8f01mrOO) | 4:04 | 2025-05-16 | 2025-08-18 |
-| [If The Love Goes](https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 2:58 | 2024-10-18 |  |
+| [If The Love Goes](https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 2:58 | 2024-10-18 | 2025-10-11 |
 | [If You Could See You](https://open.spotify.com/track/1AYgBfTLRo0e8xbcU4zpQO) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb) | [The Art Of Making Love](https://open.spotify.com/album/1jJpdCHub5LPNd9FYwyJYM) | 3:37 | 2024-07-26 | 2025-02-01 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-03-24 | 2023-09-11 |
@@ -406,7 +406,7 @@
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-16 |  |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-08 |  |
 | [Let Me Grow](https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Let Me Grow](https://open.spotify.com/album/14O5OciGC6vcuE6h17l3aC) | 3:35 | 2025-03-21 |  |
-| [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-23 |  |
+| [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-23 | 2025-10-11 |
 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 | 2024-08-23 |  |
 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 | 2023-04-07 | 2023-05-14 |
 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 | 2021-12-03 | 2023-05-20 |
@@ -456,6 +456,7 @@
 | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/album/0XkbSe7ojMuYEcjLOTVC2v) | 2:58 | 2024-12-06 | 2025-06-21 |
 | [Make Friends](https://open.spotify.com/track/0gSffSWFQQfGRC1K7N1txe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:53 | 2024-06-28 | 2024-08-14 |
 | [Make It Hot \(feat\. Eryn Allen Kane\) \- from "The Pickup"](https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Make It Hot \(feat\. Eryn Allen Kane\) \[from "The Pickup"\]](https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4) | 4:19 | 2025-07-11 | 2025-08-16 |
+| [Make It Right](https://open.spotify.com/track/0ToKCro5MJ4J46BIzR8z6D) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq) | 3:14 | 2025-10-10 |  |
 | [Make Me Feel \(with LaRussell\)](https://open.spotify.com/track/3fWFpIGeEWYgrwV1peKywx) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [Say Yes](https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag) | 3:09 | 2025-04-04 | 2025-08-16 |
 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 | 2024-05-31 |  |
 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 | 2022-09-30 | 2023-08-26 |
@@ -758,6 +759,7 @@
 | [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 | 2023-04-03 | 2024-04-19 |
 | [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 | 2023-12-17 |
 | [TLC](https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 3:20 | 2024-10-25 | 2024-11-27 |
+| [tmwtd](https://open.spotify.com/track/2WGA05bHn2ytmtukEYXc5n) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb) | [NO DEMO LEFT UNHEARD VOL\. 2](https://open.spotify.com/album/3q0fG9AvxFUdvQtu9GtQwe) | 3:13 | 2025-10-10 |  |
 | [To Love and Be Loved](https://open.spotify.com/track/4DEncqt92BBPGCSFL4cOrX) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [To Love and Be Loved](https://open.spotify.com/album/1VDzMucdouuCtS8MqU0SET) | 3:10 | 2025-04-11 | 2025-06-15 |
 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-23 | 2023-08-26 |
 | [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 | 2023-05-20 |  |

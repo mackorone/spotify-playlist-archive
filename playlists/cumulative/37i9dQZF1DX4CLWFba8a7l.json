@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "All I Really Want",
+        "url": "https://open.spotify.com/album/0K36Q2buZbBp4aEQQyJmQ3"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193901,
+      "name": "All I Really Want",
+      "url": "https://open.spotify.com/track/3lLh5lWerYHviy8hSVvtBw"
+    },
+    {
+      "album": {
         "name": "ALL I WANT IS YOU",
         "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
       },
@@ -2231,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Empty Garden",
+        "url": "https://open.spotify.com/album/1KqgXGh6A5M311iezcYM3R"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190452,
+      "name": "Empty Garden",
+      "url": "https://open.spotify.com/track/766DQH0fC0VJoDmq8T0aCw"
+    },
+    {
+      "album": {
         "name": "empty pages",
         "url": "https://open.spotify.com/album/5EvEzapMmAaJ3du1AimXe9"
       },
@@ -3652,7 +3688,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 206481,
       "name": "I OUGHTA KNOW BETTER",
       "url": "https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw"
@@ -4206,6 +4242,28 @@
       "duration_ms": 254946,
       "name": "Left Of The Dealer",
       "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
+    },
+    {
+      "album": {
+        "name": "Legacy In Motion",
+        "url": "https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        },
+        {
+          "name": "Nyxladd",
+          "url": "https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196736,
+      "name": "Legacy in Motion",
+      "url": "https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ"
     },
     {
       "album": {
@@ -5851,8 +5909,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "It Starts Again",
+        "url": "https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ"
       },
       "artists": [
         {
@@ -6169,8 +6227,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "DJANDJAY",
+        "url": "https://open.spotify.com/album/6VOlu6p7XLE21tX9eoK2CD"
       },
       "artists": [
         {
@@ -6810,7 +6868,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 197703,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
@@ -7160,7 +7218,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 328655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
@@ -7997,28 +8055,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "The 046",
-          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
-        },
-        {
-          "name": "Nyxladd",
-          "url": "https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ"
-    },
-    {
-      "album": {
         "name": "Caught in a Reverie",
         "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
       },
@@ -8728,7 +8764,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 162266,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"

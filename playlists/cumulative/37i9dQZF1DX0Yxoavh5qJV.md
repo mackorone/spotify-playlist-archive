@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-244 songs - 13 hr 5 min
+245 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 | 2022-10-28 |  |
 | [What Christmas Means To Me \- Single Version / Mono](https://open.spotify.com/track/5mDjTAHZE82wzbIq8wYC8n) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Merry Christmas](https://open.spotify.com/album/4ZWoMk06dUmAF5jH06OEvU) | 2:28 | 2022-10-27 | 2022-11-13 |
 | [When a Child Is Born](https://open.spotify.com/track/0jXjTHqZVXhQSGUAvUbCvU) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [I Only Have Eyes For You](https://open.spotify.com/album/4Mr6rpkhF8XvrgHiQTymir) | 3:43 | 2024-11-12 |  |
+| [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 | 2025-10-10 |  |
 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2023-12-18 | 2024-04-19 |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-12-16 |  |
 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [White Christmas \(Spotify Singles \- Holiday, Recorded at Air Studios, London\)](https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0) | 3:12 | 2021-12-16 | 2024-09-10 |

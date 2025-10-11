@@ -1,12 +1,12 @@
 {
   "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Drake",
-  "num_followers": 23125,
+  "num_followers": 23124,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAjtYTuuhqF+4Rl1eCQkaXD6PrAKtQ3",
+  "snapshot_id": "AAAjuo7YMLHfpJEeaQoZehkmIscplbKM",
   "tracks": [
     {
       "added_at": "2025-09-15 16:27:52",
@@ -33,20 +33,20 @@
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
     },
     {
-      "added_at": "2025-09-22 14:15:20",
+      "added_at": "2025-09-26 12:22:28",
       "album": {
-        "name": "</3\u00b3",
-        "url": "https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq"
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 153313,
-      "name": "screwed up",
-      "url": "https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ"
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
       "added_at": "2025-09-15 16:27:52",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
     },
     {
+      "added_at": "2025-09-22 14:15:20",
+      "album": {
+        "name": "</3\u00b3",
+        "url": "https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 153313,
+      "name": "screwed up",
+      "url": "https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ"
+    },
+    {
       "added_at": "2025-09-15 16:27:52",
       "album": {
         "name": "God Does Like Ugly",
@@ -119,30 +135,6 @@
       "duration_ms": 123520,
       "name": "just say dat",
       "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
-    },
-    {
-      "added_at": "2025-09-15 16:27:52",
-      "album": {
-        "name": "SOMEBODY LOVES ME PT. 2",
-        "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "SOMEBODY LOVES ME PT. 2",
-      "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
     },
     {
       "added_at": "2025-09-15 16:27:52",
@@ -463,22 +455,26 @@
     {
       "added_at": "2025-09-15 16:27:52",
       "album": {
-        "name": "Don't Box Me In",
-        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+        "name": "SOMEBODY LOVES ME PT. 2",
+        "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
       },
       "artists": [
         {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 191907,
-      "name": "2 Mazza (feat. Drake)",
-      "url": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
+      "duration_ms": 181276,
+      "name": "SOMEBODY LOVES ME PT. 2",
+      "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
     },
     {
       "added_at": "2025-09-15 16:27:52",
@@ -1475,22 +1471,6 @@
       "duration_ms": 187692,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9"
-    },
-    {
-      "added_at": "2025-09-26 12:22:28",
-      "album": {
-        "name": "Baddie Baddie",
-        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 120784,
-      "name": "Baddie Baddie",
-      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

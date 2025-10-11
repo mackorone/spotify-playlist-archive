@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,460 likes - 36 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,468 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

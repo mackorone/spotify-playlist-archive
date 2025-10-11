@@ -4,7 +4,7 @@
 
 > The top Christian songs worldwide!  Cover: CeCe Winans
 
-154 songs - 12 hr 13 min
+155 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Famous For \(I Believe\)](https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 4:02 | 2020-08-14 | 2024-06-23 |
 | [Firm Foundation \(He Won't\) \[feat\. Cody Carnes\]](https://open.spotify.com/track/6ng9IR7LGwqNsgER51Ikro) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 8:45 | 2024-06-22 |  |
 | [Fresh Wind \- Studio](https://open.spotify.com/track/2ulryRFKdoQxTjCOWrheGl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [These Same Skies \(Studio\)](https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk) | 4:33 | 2024-06-22 |  |
+| [Get Behind Me](https://open.spotify.com/track/6wfTkVG7jMuPkBaMEvH6zd) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Get Behind Me](https://open.spotify.com/album/7GLzElbiSYkn4g51wTyYHu) | 3:13 | 2025-10-10 |  |
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2020-08-14 | 2024-06-23 |
 | [God of Revival \- Live](https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:35 | 2020-08-14 |  |
 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 | 2020-08-14 | 2024-06-23 |
@@ -88,7 +89,7 @@
 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 | 2020-08-14 | 2024-06-23 |
 | [Lord Send Revival \- Live](https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Lord Send Revival \(Live\)](https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF) | 6:42 | 2020-08-14 |  |
 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 | 2024-06-22 | 2025-04-12 |
-| [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 | 2024-06-22 |  |
+| [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 | 2024-06-22 | 2025-10-11 |
 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 | 2024-05-03 |  |
 | [New Day](https://open.spotify.com/track/4Bj9VDCVyodGYDramtv3Kg) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Heartbreak And The Healing](https://open.spotify.com/album/6Hf2lGGpi3kVIGK9pLhxF3) | 3:01 | 2024-06-22 | 2025-05-10 |
 | [No Fear](https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9) | 3:32 | 2025-05-09 |  |

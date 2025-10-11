@@ -2,9 +2,9 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Robert Randolph
+> The best of modern blues rock\. Cover: Samantha Fish
 
-380 songs - 1 day 0 hr 42 min
+382 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Bright Lights, Big City](https://open.spotify.com/track/4TE1mJzeu3os3j4YcCfkMI) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Mr\. Luck: The Complete Vee\-Jay Singles](https://open.spotify.com/album/2zQv74POvtwU8V7v8FRlAe) | 2:49 | 2024-05-24 | 2024-07-06 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-06-30 |  |
 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 | 2025-04-18 |  |
-| [Burn It To The Ground](https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Burn It To The Ground](https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l) | 3:04 | 2025-09-05 |  |
+| [Burn It To The Ground](https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Burn It To The Ground](https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l) | 3:04 | 2025-09-05 | 2025-10-11 |
 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 | 2024-05-24 | 2024-07-06 |
 | [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 | 2025-04-04 | 2025-04-26 |
 | [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 |  |
@@ -88,6 +88,7 @@
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-07 | 2024-06-22 |
 | [Crosscut Saw](https://open.spotify.com/track/5ZD2nIitLb9txwpz5Avq6Q) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:33 | 2024-05-24 | 2024-07-06 |
 | [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 | 2023-08-04 |  |
+| [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 | 2025-10-10 |  |
 | [Death by Misadventure](https://open.spotify.com/track/1rHGpxJKJZb5QzcKUlhfb1) | [The Infamists](https://open.spotify.com/artist/5rqXUA24KUryMCNvNTqR6B) | [Live Evil](https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB) | 3:26 | 2023-04-07 |  |
 | [Destination Unknown](https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Destination Unknown](https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5) | 4:50 | 2022-09-09 | 2023-04-22 |
 | [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 | 2023-11-17 | 2024-07-13 |
@@ -159,6 +160,7 @@
 | [Hurricane Coming](https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Hurricane Coming](https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC) | 3:32 | 2023-01-13 |  |
 | [I Gotta Stop Letting You Let Me Down](https://open.spotify.com/track/5gkAlecczArRBlzatrPXBZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [I Gotta Stop Letting You Let Me Down](https://open.spotify.com/album/3tbUSmHhH2pqePByepxvP0) | 4:53 | 2024-12-06 | 2025-02-15 |
 | [I Know Who You Are](https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Gold](https://open.spotify.com/album/4aRBy6eobn9arGrtDGDcj0) | 3:11 | 2020-10-16 | 2025-01-18 |
+| [I Need The Fire](https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4) | [Hollow Souls](https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO) | 3:12 | 2025-10-10 |  |
 | [I Need To Be](https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X) | [The Cassaday Concoction](https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi) | [I Need To Be](https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp) | 4:49 | 2022-09-09 |  |
 | [I See You](https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:47 | 2020-10-16 | 2022-07-29 |
 | [I Wanna Keep It](https://open.spotify.com/track/0XAJiy3zJ20ZTvNviK5zCV) | [Free Joel](https://open.spotify.com/artist/3ASOgqQ8AGJGdKo1zleOEP) | [I Wanna Keep It](https://open.spotify.com/album/4rAJbotu9bdOzBUWEJyalC) | 5:26 | 2023-04-14 |  |
@@ -202,7 +204,7 @@
 | [Lonely Road](https://open.spotify.com/track/38hLO27dbXiuyDoLdq2hHh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Lonely Road](https://open.spotify.com/album/5VL4wl6fXGSQoAIJTC1ISo) | 3:44 | 2023-04-21 | 2023-06-24 |
 | [Long Way Down](https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Long Way Down](https://open.spotify.com/album/7g2BjgygWUGgHFp5LwGyHS) | 3:51 | 2024-08-16 |  |
 | [Looking for a Fight](https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [The Southern](https://open.spotify.com/album/1DmrY3LM2KUPgWOj5COQxE) | 3:23 | 2024-09-06 | 2025-01-11 |
-| [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 | 2025-04-25 |  |
+| [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 | 2025-04-25 | 2025-10-11 |
 | [Louder](https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Fortress](https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9) | 2:45 | 2022-10-21 | 2023-05-17 |
 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 |  |
 | [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 | 2023-06-03 |

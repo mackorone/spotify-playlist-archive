@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-267 songs - 11 hr 45 min
+269 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cascadilla](https://open.spotify.com/track/1UkfpVjyztFIqxwg861Mgs) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Cascadilla](https://open.spotify.com/album/0jbjMTUvJQU2ThpS91LfEg) | 1:49 | 2022-08-30 |  |
 | [cenzontle](https://open.spotify.com/track/4WCrZo1zIDKaZu4th9GWef) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [cenzontle](https://open.spotify.com/album/688WIs5pmbG3GblAjajdmV) | 2:32 | 2024-08-29 |  |
 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 | 2022-08-30 |  |
-| [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 | 2022-08-30 |  |
+| [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 | 2022-08-30 | 2025-10-11 |
 | [Chinese Morning](https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Chinese Morning](https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh) | 2:54 | 2022-04-28 | 2022-08-31 |
 | [chocolate milk thnx](https://open.spotify.com/track/4z8LqF5jRvM2qNG4Kzf9Bl) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [chocolate milk thnx](https://open.spotify.com/album/3uhR8os4vLjHI6U4y42ZRU) | 2:23 | 2022-08-30 |  |
 | [City Lounge](https://open.spotify.com/track/5TEi1BxiY8X20F6TvGiHJS) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 5](https://open.spotify.com/album/6UghWb5aupw0rDgwKIcnXS) | 2:38 | 2022-04-28 | 2022-08-31 |
@@ -53,6 +53,7 @@
 | [Coral](https://open.spotify.com/track/6EPGzbMCJfBZ9JkUnG9Hbw) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Coral](https://open.spotify.com/album/4ilWDRKFd2OwMVWiSliCk8) | 2:26 | 2022-08-30 |  |
 | [courgetti](https://open.spotify.com/track/3V9GidOZeEPa1DeC2JDLzF) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [courgetti](https://open.spotify.com/album/0D1Vfcbo0xuG4q9dpBOlvz) | 2:39 | 2024-08-29 |  |
 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 | 2022-08-30 |  |
+| [Cypress](https://open.spotify.com/track/2pNrsLyhT4YCD5IlTf25pm) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Elsewhere](https://open.spotify.com/album/60oQTnw08DNgBLkBoCBYF2) | 4:31 | 2025-10-10 |  |
 | [Daylight](https://open.spotify.com/track/2RbGncelpKBMeYFFrMyedo) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Daylight](https://open.spotify.com/album/3vza0Fjh0kl6RFilFxQdAd) | 1:50 | 2022-08-30 |  |
 | [Decisions](https://open.spotify.com/track/68zNrXhX4kj7OCXaxGcG45) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Decisions](https://open.spotify.com/album/0nxDJ2GdRlKgOdGYMBlxmO) | 2:11 | 2022-08-30 |  |
 | [devotion](https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [devotion](https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE) | 2:22 | 2024-08-29 |  |
@@ -95,6 +96,7 @@
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-08-30 |  |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-08-30 | 2023-12-22 |
 | [Garden of presidents](https://open.spotify.com/track/0I689XULWlZATBytR7ujn0) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Garden of presidents](https://open.spotify.com/album/46s4rbYm1kE1sa5skNeyDn) | 2:07 | 2024-08-29 |  |
+| [Geneva](https://open.spotify.com/track/25E3UP9MxsqkeW8iJjDupY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Geneva](https://open.spotify.com/album/6nojKbHruPNMFS9kS7hgxJ) | 1:44 | 2025-10-10 |  |
 | [Gentle Breeze](https://open.spotify.com/track/7b8ZLIbapBJfvQkQ7lWsp6) | [Gumale](https://open.spotify.com/artist/4rp0D1ACUOeq3oyFRIaJQ5), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Gentle Breeze](https://open.spotify.com/album/05FGk3KoZWr1ptjPO85AJ7) | 8:02 | 2023-12-21 | 2024-08-30 |
 | [Gentle Rain](https://open.spotify.com/track/4XGlatviQaqq7LQegxe6Zg) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [Gentle Rain](https://open.spotify.com/album/1PEoLnFhMhrT0YOjXlbodJ) | 1:26 | 2022-08-30 |  |
 | [Ghost](https://open.spotify.com/track/4LVgQFrUNdI6J19KVTVjh6) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Ghost](https://open.spotify.com/album/3X6tebSYE2bQJLuNDAsFqa) | 2:55 | 2022-08-30 | 2023-12-22 |
@@ -190,7 +192,7 @@
 | [pleasant drive](https://open.spotify.com/track/3ANLJaBcDbNuDxTttHoquo) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [pleasant drive](https://open.spotify.com/album/6hHFwFzyFDlXAtTn9YYNoV) | 2:01 | 2024-08-29 |  |
 | [Plums](https://open.spotify.com/track/2dnjcx08Wo6ybZOY3umDaF) | [Öster](https://open.spotify.com/artist/41Z9IGCJN6zGScaIplu4Yn), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Plums](https://open.spotify.com/album/4sBapZtliMW2ifXGgNck3V) | 2:02 | 2023-12-01 |  |
 | [Polar Light](https://open.spotify.com/track/2XMuj3tjkBOmdzs13BIeNI) | [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od), [Eliott Weingand](https://open.spotify.com/artist/3GPIcqQTMNxdGpxJO7qrop) | [Polar Light](https://open.spotify.com/album/4KXz5Fz66Lm4q9iQkCg9rs) | 2:09 | 2023-12-01 |  |
-| [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 | 2025-01-16 |  |
+| [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 | 2025-01-16 | 2025-10-11 |
 | [poolside chillin](https://open.spotify.com/track/4lpEXMuawQUe2ObIig1iBL) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Poolside](https://open.spotify.com/album/5GdYY9tUHATbHgnXBEZaL4) | 2:08 | 2022-08-30 |  |
 | [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2020-10-20\* | 2022-08-31 |
 | [Que Sera](https://open.spotify.com/track/0lnfcWRREvnGtXPP2ZDeq7) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/1sWIbvCurzF7ZVFYWjLGQO) | 2:44 | 2020-10-20\* | 2022-07-29 |

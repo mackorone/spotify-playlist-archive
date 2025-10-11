@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,154,129 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,154,370 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 41 | [Funkey Funkey Reggay](https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:55 |
 | 42 | [My Conversation](https://open.spotify.com/track/2wIOKiZfp8h9ROw3eBAfcc) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:27 |
 | 43 | [Come on Home](https://open.spotify.com/track/2M1ixmKMIyYQmt0w8B3BdX) | [Joe Higgs](https://open.spotify.com/artist/5XgHWn04awuFqBm0R5lLFX) | [Life of Contradiction](https://open.spotify.com/album/220whHL1BKA7zpV2XTy8jo) | 3:02 |
-| 44 | [Return Of Django](https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:30 |
-| 45 | [The Loser](https://open.spotify.com/track/4iI2N6gFBHWoV99d9q0clR) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:37 |
+| 44 | [The Loser](https://open.spotify.com/track/4iI2N6gFBHWoV99d9q0clR) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:37 |
+| 45 | [Return Of Django](https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:30 |
 | 46 | [Sweet Jamaica](https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 |
 | 47 | [Far East](https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4) | [Barry Brown](https://open.spotify.com/artist/4RLadJjrl8Ygnmg4HoWH8v) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:57 |
 | 48 | [Ba Ba Boom](https://open.spotify.com/track/7GUdxwA5wqhkJI5QaFynFn) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:19 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 90 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 91 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/3BohTmW79fRTvVsn0rHjqR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend](https://open.spotify.com/album/7LTIGaDd37K9itS2I4FxKq) | 7:08 |
 | 92 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
-| 93 | [Marcus Garvey](https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Jah No Dead \- An Introduction To Burning Spear](https://open.spotify.com/album/054qvIn982kZxFYHvoxrmL) | 3:19 |
-| 94 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
-| 95 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 96 | [OK Fred](https://open.spotify.com/track/66QT68qxiBNyA7b95ur5Bm) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:52 |
-| 97 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
-| 98 | [Red Red Wine](https://open.spotify.com/track/1DLe77IuTY32Lj3Kh50Uzi) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:02 |
-| 99 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
-| 100 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 |
+| 93 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
+| 94 | [Cool Down The Pace](https://open.spotify.com/track/069XwdkglfN94CvwUZvBxv) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 5:15 |
+| 95 | [Marcus Garvey](https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Jah No Dead \- An Introduction To Burning Spear](https://open.spotify.com/album/054qvIn982kZxFYHvoxrmL) | 3:19 |
+| 96 | [I'm Still in Love](https://open.spotify.com/track/0fg0dCPd2fCYoNPoZ40h7z) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Sons of Jamaica](https://open.spotify.com/album/3SBDliOGQJ4XotoMsbEW1Z) | 3:45 |
+| 97 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
+| 98 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 99 | [OK Fred](https://open.spotify.com/track/66QT68qxiBNyA7b95ur5Bm) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:52 |
+| 100 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 
 Snapshot ID: `AAAAABu+XjFQroHtiuGSSTSBelDADKoy`

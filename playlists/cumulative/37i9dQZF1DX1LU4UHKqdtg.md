@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: izna
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TWICE
 
-1,585 songs - 3 day 12 hr 6 min
+1,588 songs - 3 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 | 2025-04-04 | 2025-06-16 |
 | [BURN IT](https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [BURN IT](https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ) | 2:47 | 2024-06-28 | 2024-07-24 |
 | [Burn It \- Japanese ver.](https://open.spotify.com/track/1RIcPnDBsHSZiSG233YEM2) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/42JGkJ9gzzbbe2pxe9TOPQ) | 3:28 | 2022-06-14 | 2022-07-23 |
+| [Burn Me Into The Light \- Netflix影集《回魂計》宣傳曲](https://open.spotify.com/track/1EPblgeFgaq6erWiJ7ZHWN) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [SHUHUA](https://open.spotify.com/artist/6B4wUWFGKv5XXBkqNBlIyE) | [Burn Me Into The Light \(Netflix影集《回魂計》宣傳曲\)](https://open.spotify.com/album/6G0MRb645o3euo9wGm3OBd) | 3:28 | 2025-10-10 |  |
 | [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 | 2025-06-09 | 2025-08-20 |
 | [BUSY](https://open.spotify.com/track/0nPHCspBGYsJ3QNcsuq6B4) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [BUSY](https://open.spotify.com/album/2IOk41ucx76Z8HaUgmbDkk) | 2:53 | 2025-03-06 | 2025-04-01 |
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-05 | 2023-11-04 |
@@ -597,7 +598,7 @@
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2025-03-07 |
 | [High Horse](https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [High Horse](https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo) | 3:23 | 2025-03-04 | 2025-03-18 |
 | [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 |  |
-| [Higher](https://open.spotify.com/track/0uQfBXKmq6LEEpgSn42ZdU) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Higher](https://open.spotify.com/album/2eSoUNp5QhPryJ26vPJYbn) | 2:51 | 2025-07-30 |  |
+| [Higher](https://open.spotify.com/track/0uQfBXKmq6LEEpgSn42ZdU) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Higher](https://open.spotify.com/album/2eSoUNp5QhPryJ26vPJYbn) | 2:51 | 2025-07-30 | 2025-10-11 |
 | [Hit the Floor](https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Visionary Vision <Performante>](https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs) | 2:57 | 2024-10-23 | 2025-02-01 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-20 | 2022-09-05 |
 | [Hold On](https://open.spotify.com/track/6TB4hC3ShE7uPr3SXXfjT8) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Hold On](https://open.spotify.com/album/5CYjQwztXHsyVVxUjMetRj) | 3:20 | 2023-08-08 | 2023-08-30 |
@@ -615,7 +616,7 @@
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 | 2025-09-08 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 | 2022-09-07 |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-02 | 2024-10-18 |
-| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-01 |  |
+| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-01 | 2025-10-11 |
 | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q) | 3:18 | 2023-07-20 | 2023-08-19 |
 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-05-24 | 2022-08-09 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 | 2024-09-20 |
@@ -841,6 +842,7 @@
 | [MAVERICK](https://open.spotify.com/track/5uVgfUQLv2ZCgdx0t9vawz) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3RD SINGLE ALBUM \[MAVERICK\]](https://open.spotify.com/album/40Vv3OErf3nP8Cg1UmAKV8) | 3:28 | 2021-12-23 | 2022-01-04 |
 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 | 2024-07-09 | 2024-08-16 |
 | [ME ME ME](https://open.spotify.com/track/1Y1FyGpSV8yGXFsbPHUpXV) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [ME ME ME](https://open.spotify.com/album/2XVaPap7EEUI6Oh51PfS4S) | 2:47 | 2025-07-28 |  |
+| [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 | 2025-10-10 |  |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-16 | 2022-12-30 |
 | [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2023-11-07 | 2024-01-03 |
 | [memeM](https://open.spotify.com/track/2fjBCcElSYOt5LN9GeuB5P) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/0cu9atEEYjquZCh3qTMgza) | 2:52 | 2022-03-30 | 2022-06-29 |
@@ -1399,7 +1401,7 @@
 | [UNTOUCHABLE](https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:14 | 2024-04-18 | 2024-08-30 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-09 | 2024-04-19 |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-08 | 2025-04-21 |
-| [Up to you](https://open.spotify.com/track/0M518NEgun9RkYwxozJBic) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/18v5nf750qcff18B0a6WmG) | 2:58 | 2025-08-26 |  |
+| [Up to you](https://open.spotify.com/track/0M518NEgun9RkYwxozJBic) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/18v5nf750qcff18B0a6WmG) | 2:58 | 2025-08-26 | 2025-10-11 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-28 | 2022-09-07 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Up! \(Japanese version\)](https://open.spotify.com/track/7m78ItawUTPntyWYjdF8LS) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:12 | 2022-09-06 | 2022-11-16 |
@@ -1445,6 +1447,7 @@
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-03-22 |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-13 | 2023-02-22 |
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-24 | 2023-10-11 |
+| [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 | 2025-10-10 |  |
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
 | [We Still Loading \(FEAT\. Los, Rick Bridges, Northfacegawd, DJ SKY\)](https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Rick bridges](https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [DJ SKY](https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy) | [Year 1 : We Still Loading](https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1) | 4:36 | 2024-10-17 | 2024-10-24 |
 | [We're Not Alone](https://open.spotify.com/track/5A2Y2GjttBvB2u5o5cNjVO) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Weʼre Not Alone](https://open.spotify.com/album/79pspaGpJfhnlUlROnQZtO) | 4:36 | 2024-12-10 | 2025-01-27 |

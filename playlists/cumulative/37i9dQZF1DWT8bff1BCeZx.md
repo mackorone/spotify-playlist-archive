@@ -4,12 +4,13 @@
 
 > African Praise music taking you all the way up!
 
-688 songs - 1 day 21 hr 30 min
+689 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2.0 Upgrade](https://open.spotify.com/track/0CmXi9S7MimiYbK9Iq7opK) | [DJ Shunz](https://open.spotify.com/artist/4sdmybQDV7C8YyX8movAdY), [ST ANJU](https://open.spotify.com/artist/389tJ3rylCY1cU3xkNN7Za) | [Gospel 2.0 Riddim](https://open.spotify.com/album/46i11NaMXcX8TUSxgAKpFm) | 3:47 | 2025-08-15 |  |
-| [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-08-29 |  |
+| [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-08-29 | 2025-10-11 |
+| [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 | 2025-10-10 |  |
 | [4Ever](https://open.spotify.com/track/49hlDjT97voNNL2mhAMjZY) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [4Ever](https://open.spotify.com/album/3hgMfdd8mt6nKxFaBZF1MS) | 3:00 | 2025-03-07 | 2025-03-21 |
 | [A New Dawn](https://open.spotify.com/track/71Q679KBIjayiuMLuHYxgK) | [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [A New Dawn](https://open.spotify.com/album/5RAxvYKuKUeZgVrSQorrBo) | 3:11 | 2023-12-15 | 2023-12-16 |
 | [Abasi Miyake](https://open.spotify.com/track/7JLhroMOrzsjB9LYPW1wTm) | [De Adshas](https://open.spotify.com/artist/3KHkmC4DQeTs09ulOWHfg3) | [Abasi Miyake](https://open.spotify.com/album/6LwKzcWWOxKIpmHHg8daLx) | 4:06 | 2024-12-20 | 2025-04-04 |

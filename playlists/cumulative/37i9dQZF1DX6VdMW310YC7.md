@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,820 songs - 5 day 3 hr 46 min
+1,821 songs - 5 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Song For You](https://open.spotify.com/track/07UGol5wFdaLGeQJWZ3a0a) | [Vikram Dhakal](https://open.spotify.com/artist/4rAXFOfQ4Q5hwOF492tEuI) | [A Song For You](https://open.spotify.com/album/2RpJL9fGAkFJon2DJViStC) | 3:00 | 2020-10-13 | 2022-04-21 |
 | [Aarti](https://open.spotify.com/track/5bmgzNYiGvlfEDWK235XfI) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9) | [Aarti](https://open.spotify.com/album/3bAPTs4RaREo2huCMwXIzY) | 3:43 | 2020-05-18 | 2020-07-18 |
 | [About Life](https://open.spotify.com/track/6twG0bbjLgqr0vyd1NRjAa) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [About Life](https://open.spotify.com/album/2rQ16jOQZGMekN1AoMQdlK) | 5:21 | 2021-10-29 | 2022-01-13 |
+| [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 | 2025-10-10 |  |
 | [About You](https://open.spotify.com/track/1w3FWGyKcMxlZBbG2BldFv) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:07 | 2020-05-18 | 2020-07-03 |
 | [Acceptance](https://open.spotify.com/track/1LWIWV5GVgX8ajvk5sz1WD) | [Ashworth](https://open.spotify.com/artist/3pcGjcfEW3YD2Hfk6tDR5S) | [Acceptance](https://open.spotify.com/album/52vnvCFkt1JWfx9UAUYIaG) | 2:44 | 2020-11-20 | 2022-08-20 |
 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 | 2022-01-28 | 2022-02-09 |
@@ -658,7 +659,7 @@
 | [Heading Home](https://open.spotify.com/track/4iZ3YEN89TU8Uwan4NwkB8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [Heading Home](https://open.spotify.com/album/63bTrVZUP6nrisVDZbkzSc) | 4:31 | 2020-05-18 | 2020-07-03 |
 | [Heading Home \- Imagined Herbal Flows Remix](https://open.spotify.com/track/4DP23FT7SqCqp43qXaUfT2) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [IHF](https://open.spotify.com/artist/34P1IGH1mIqdaVkfRuTebV), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Heading Home \(Remixes\)](https://open.spotify.com/album/2hFzmPwUUmKvqmXJgTHhn5) | 3:08 | 2020-05-19 | 2020-07-18 |
 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/06Hdbxh6NCy6TIhjdXTchB) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/album/2ryym6yEc6r3ZuigHBDr1A) | 3:29 | 2020-05-22 | 2020-07-03 |
-| [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 | 2025-01-04 |  |
+| [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 | 2025-01-04 | 2025-10-11 |
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-07-01 | 2023-05-13 |
 | [Hear Me Now](https://open.spotify.com/track/6OnYQKTc5fbSGbIpaH4KxL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/5ev8miwRafJ3DeXNaAVzBZ) | 3:12 | 2020-05-22 | 2020-07-03 |
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2020-03-16 | 2020-06-12 |

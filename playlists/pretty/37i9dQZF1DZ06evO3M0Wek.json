@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 112870,
+  "num_followers": 112898,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABMd5460lq3BimoDv8vHbp9",
+  "snapshot_id": "aOb7AAAAAADrhbRCEIuS/2rZpUC+1GFn",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gereg (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
         }
       ],
-      "duration_ms": 349270,
-      "name": "Song of Women (feat. Lzzy Hale of Halestorm)",
-      "url": "https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w"
+      "duration_ms": 198799,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
     },
     {
       "added_at": null,
@@ -395,24 +387,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "The Gereg (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
       },
       "artists": [
         {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
         }
       ],
-      "duration_ms": 198799,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
+      "duration_ms": 349270,
+      "name": "Song of Women (feat. Lzzy Hale of Halestorm)",
+      "url": "https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+      "duration_ms": 195880,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 195880,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 302413,
       "name": "All I Wanna Do Is Make Love to You - EP Version",
       "url": "https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "I'm Not an Angel",
+      "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 191680,
       "name": "You Call Me a Bitch Like It's a Bad Thing",
       "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "I'm Not an Angel",
-      "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
     },
     {
       "added_at": null,

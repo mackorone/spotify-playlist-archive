@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Easykid, Bad Bunny, Feid and more\. 🔥🍑
+> Reggaeton hits from Rauw Alejandro, Ñengo Flow & Wisin, Bad Bunny, Feid and more\. 🔥🍑
 
-666 songs - 1 day 12 hr 35 min
+667 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-02-25 | 2022-08-27 |
 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 | 2022-04-01 | 2022-04-09 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 2:47 | 2021-12-24 | 2022-02-05 |
+| [30 Mil Pies](https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [30 Mil Pies](https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU) | 3:07 | 2025-10-10 |  |
 | [5 Babys](https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 4:26 | 2024-09-20 | 2024-10-05 |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-19 | 2023-09-30 |
 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 | 2021-12-24 | 2022-06-04 |
@@ -124,7 +125,7 @@
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2024-03-29 | 2024-04-06 |
 | [Con Co](https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Con Co](https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8) | 2:06 | 2024-06-07 | 2024-08-03 |
 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 | 2022-09-09 | 2022-11-12 |
-| [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 | 2025-05-23 |  |
+| [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 | 2025-05-23 | 2025-10-11 |
 | [CONTRABANDO](https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 2:55 | 2025-09-26 |  |
 | [Copas](https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Copas](https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs) | 3:57 | 2023-04-14 | 2023-09-16 |
 | [Corazón Roto](https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Corazón Roto](https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ) | 2:31 | 2023-01-20 | 2023-04-15 |

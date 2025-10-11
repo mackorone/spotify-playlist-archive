@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1522100,
+  "num_followers": 1522404,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "David Ngyah",
+          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
+    },
+    {
+      "added_at": "2025-10-06 20:07:16",
+      "album": {
         "name": "Life Is Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
-    },
-    {
-      "added_at": "2025-10-06 20:07:16",
-      "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "David Ngyah",
-          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
     },
     {
       "added_at": "2025-10-06 20:07:16",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
+        "name": "THE FIFTH",
+        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 200612,
+      "name": "RULAZ",
+      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
+    },
+    {
+      "added_at": "2025-10-06 20:07:16",
+      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
-        "name": "THE FIFTH",
-        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 200612,
-      "name": "RULAZ",
-      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
-    },
-    {
-      "added_at": "2025-10-06 20:07:16",
-      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -1207,34 +1207,6 @@
       "duration_ms": 190116,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2025-10-06 20:07:16",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle"
-      },
-      "artists": [
-        {
-          "name": "Droogie Otis",
-          "url": "https://open.spotify.com/artist/77yuxx0zDXOjRffgQ1ooXm"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 205612,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W"
     },
     {
       "added_at": "2025-10-06 20:07:16",
@@ -1303,26 +1275,30 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
-        "name": "my friend",
-        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle"
       },
       "artists": [
         {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+          "name": "Droogie Otis",
+          "url": "https://open.spotify.com/artist/77yuxx0zDXOjRffgQ1ooXm"
         },
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         },
         {
-          "name": "Sector 202",
-          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 244404,
-      "name": "my friend",
-      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
+      "duration_ms": 205612,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W"
     },
     {
       "added_at": "2025-10-06 20:07:16",
@@ -1343,6 +1319,30 @@
       "duration_ms": 173320,
       "name": "Syrup Sandwiches (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2025-10-06 20:07:16",
+      "album": {
+        "name": "my friend",
+        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Sector 202",
+          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
+        }
+      ],
+      "duration_ms": 244404,
+      "name": "my friend",
+      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
     },
     {
       "added_at": "2025-10-06 20:07:16",
@@ -1515,6 +1515,30 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Niko Brim",
+          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
+        }
+      ],
+      "duration_ms": 164656,
+      "name": "Raw (feat. Lil Wayne & Niko Brim)",
+      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2025-10-06 20:07:16",
+      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4lshI1kf2ooo4ZlPjxBNff"
       },
@@ -1539,30 +1563,6 @@
       "duration_ms": 209961,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/32w5wAbtvFABoDal1VI7I2"
-    },
-    {
-      "added_at": "2025-10-06 20:07:16",
-      "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Niko Brim",
-          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
-        }
-      ],
-      "duration_ms": 164656,
-      "name": "Raw (feat. Lil Wayne & Niko Brim)",
-      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
     },
     {
       "added_at": "2025-10-06 20:07:16",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2025-10-06 20:07:16",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2025-10-06 20:07:16",
+      "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2025-10-06 20:07:16",
@@ -1903,30 +1903,6 @@
     {
       "added_at": "2025-10-06 20:07:16",
       "album": {
-        "name": "Tulips",
-        "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
-      },
-      "artists": [
-        {
-          "name": "Damu The Fudgemunk",
-          "url": "https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM"
-        },
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        },
-        {
-          "name": "Raw Poetic",
-          "url": "https://open.spotify.com/artist/0bFq0sqBE7i1056yjI7z5M"
-        }
-      ],
-      "duration_ms": 334374,
-      "name": "Tulips",
-      "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
-    },
-    {
-      "added_at": "2025-10-06 20:07:16",
-      "album": {
         "name": "mynameisnt",
         "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
       },
@@ -1947,6 +1923,30 @@
       "duration_ms": 178554,
       "name": "aslongas",
       "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "added_at": "2025-10-06 20:07:16",
+      "album": {
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
+      },
+      "artists": [
+        {
+          "name": "Damu The Fudgemunk",
+          "url": "https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM"
+        },
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        },
+        {
+          "name": "Raw Poetic",
+          "url": "https://open.spotify.com/artist/0bFq0sqBE7i1056yjI7z5M"
+        }
+      ],
+      "duration_ms": 334374,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
     },
     {
       "added_at": "2025-10-06 20:07:16",

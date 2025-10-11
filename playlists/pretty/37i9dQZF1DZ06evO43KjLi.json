@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22552,
+  "num_followers": 22554,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABF0RKcWMxzi0o5gTr9JjuW",
+  "snapshot_id": "aOb7AAAAAABSMlQz6j6ghQr3m2X4WXAT",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 157080,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 155280,
       "name": "Madre",
       "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "Damas y Placeres",
+      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ven Manejando",
         "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 205538,
       "name": "Me Ven Manejando",
       "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 169929,
-      "name": "Damas y Placeres",
-      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
     },
     {
       "added_at": null,

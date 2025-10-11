@@ -4,13 +4,14 @@
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 29 min
+46 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til It All Goes South](https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:53 | 2023-09-25 |  |
 | [28th of June](https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [28th of June](https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX) | 3:45 | 2024-03-23 | 2024-07-18 |
-| [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 | 2025-06-22 |  |
+| [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 | 2025-06-22 | 2025-10-11 |
+| [6 Months Later \- Live](https://open.spotify.com/track/2g26jqtVTf7qPXEIMg5Ywi) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? Tour \(Live\)](https://open.spotify.com/album/3CuNufuQGMfBENDZaKSGFF) | 3:15 | 2025-10-11 |  |
 | [Ain't Nothing 'Bout You \(with Megan Moroney\)](https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:31 | 2024-11-18 |  |
 | [All I Want for Christmas is a Cowboy](https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 3:17 | 2024-11-04 | 2024-12-02 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-07-14 |  |

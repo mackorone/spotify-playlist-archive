@@ -9039,24 +9039,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW"
-    },
-    {
-      "album": {
         "name": "Tried To Fly .",
         "url": "https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA"
       },
@@ -9664,6 +9646,24 @@
       "duration_ms": 205030,
       "name": "White Tee - Acoustic",
       "url": "https://open.spotify.com/track/4GDgtRrv59oHpOXiiKaNMP"
+    },
+    {
+      "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Who's To Blame?",
+      "url": "https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW"
     },
     {
       "album": {

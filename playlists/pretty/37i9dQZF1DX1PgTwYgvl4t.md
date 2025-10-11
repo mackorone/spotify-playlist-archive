@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,686 likes - 100 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,815 likes - 100 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Favour](https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Favour](https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k) | 5:57 |
 | 2 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 3 | [Hallelujah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Hallelujah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 |
+| 3 | [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 |
 | 4 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
 | 5 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 6 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22090,
+  "num_followers": 22094,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-10-10 03:01:28",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
-      },
-      "artists": [
-        {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
-    },
-    {
-      "added_at": "2025-10-10 03:01:28",
-      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2025-10-10 03:01:28",
+      "album": {
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+      },
+      "artists": [
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2025-10-10 03:01:28",

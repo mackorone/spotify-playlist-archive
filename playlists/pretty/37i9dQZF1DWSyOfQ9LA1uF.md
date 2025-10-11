@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,741 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,744 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 63 | [Wake Up \- Original](https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k) | [Les Petits Pilous](https://open.spotify.com/artist/2MS8Aeh2jTfqu1VhRZ4x1P) | [Wake Up](https://open.spotify.com/album/35grWCVaUU9bWGDYtQ1vin) | 3:58 |
 | 64 | [Acceptable in the 80's \- Tom Neville Remix](https://open.spotify.com/track/5kPgxhET1iRXB9kvOvzEFb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Neville](https://open.spotify.com/artist/1gbiWzSQlYGEEFeH97pGwt) | [Acceptable In The 80s](https://open.spotify.com/album/3pPwssIXWoFz7r5Wjusbme) | 7:11 |
 | 65 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |
-| 66 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
-| 67 | [Brenda](https://open.spotify.com/track/792NaHTl4bJqdxMXSdhNij) | [Pablo J](https://open.spotify.com/artist/2L4145zftGoC6kL337sTIS), [The Lobsterettes](https://open.spotify.com/artist/1r8rok8grW3DHojFnylc62) | [Dance Till Dawn](https://open.spotify.com/album/7hbbhPthcCqbv5YG6MDDm5) | 3:40 |
+| 66 | [Brenda](https://open.spotify.com/track/792NaHTl4bJqdxMXSdhNij) | [Pablo J](https://open.spotify.com/artist/2L4145zftGoC6kL337sTIS), [The Lobsterettes](https://open.spotify.com/artist/1r8rok8grW3DHojFnylc62) | [Dance Till Dawn](https://open.spotify.com/album/7hbbhPthcCqbv5YG6MDDm5) | 3:40 |
+| 67 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
 | 68 | [Are You The One? \- Simian Mobile Disco Remix](https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Re\-Sets](https://open.spotify.com/album/2ozdqRxqlbblhJVzCtPyaf) | 5:20 |
 | 69 | [Forever \(Van She Tech Remix\)](https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3) | [Walter Meego](https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS) | [Indie\_structable](https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg) | 4:20 |
 | 70 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 180509,
+  "num_followers": 180560,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADqrO6jN0+rfB9f/u6joBuw",
+  "snapshot_id": "aOb7AAAAAAAbsbuCX0DENLkZeOeCTAPB",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Un Amor De La Calle",
-      "url": "https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 345600,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Un Amor De La Calle",
+      "url": "https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Emborrachame De Amor",
+      "url": "https://open.spotify.com/track/0XDMdFi1onaxibiQKz7slG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -619,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Emborrachame De Amor",
-      "url": "https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 275760,
-      "name": "De Ti Depende",
-      "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -671,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+      "duration_ms": 275760,
+      "name": "De Ti Depende",
+      "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 282800,
       "name": "Plato De Segunda Mesa",
       "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Consejo De Oro",
-      "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cantante De Los Cantantes",
+        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 389040,
+      "name": "Rompe Sarag\u00fcey",
+      "url": "https://open.spotify.com/track/39j6Cy83gG3ZB0KFC98g7c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 470280,
       "name": "Songoro Cosongo",
       "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Consejo De Oro",
+      "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
     },
     {
       "added_at": null,
@@ -819,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
       "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 389040,
-      "name": "Rompe Sarag\u00fcey",
-      "url": "https://open.spotify.com/track/39j6Cy83gG3ZB0KFC98g7c"
+      "duration_ms": 242386,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
     },
     {
       "added_at": null,
@@ -851,26 +871,6 @@
       "duration_ms": 337680,
       "name": "No Me Llores M\u00e1s",
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 242386,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Comedia",
-      "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa Bien Lo Sabes",
         "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 215466,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Comedia",
+      "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

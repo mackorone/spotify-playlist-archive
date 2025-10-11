@@ -1,13 +1,33 @@
 {
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Arijit Anand",
-  "num_followers": 186183,
+  "description": "Most exciting artists from the Indian Indie scene. Cover: sudan",
+  "num_followers": 186179,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFT6z3gJ58akVeNZZpJowI8xq7r3",
+  "snapshot_id": "AAAAAHUw0lS098qtCVRFUKE6wzaGFWO9",
   "tracks": [
+    {
+      "added_at": "2025-10-10 02:20:02",
+      "album": {
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
+    },
     {
       "added_at": "2025-09-26 07:48:06",
       "album": {
@@ -89,24 +109,24 @@
       "url": "https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry"
     },
     {
-      "added_at": "2025-09-26 07:48:06",
+      "added_at": "2025-10-10 02:20:02",
       "album": {
-        "name": "Bolo Bolo",
-        "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
       "artists": [
         {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
         },
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+          "name": "Anoushka Maskey",
+          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
         }
       ],
-      "duration_ms": 237378,
-      "name": "Bolo Bolo",
-      "url": "https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9"
+      "duration_ms": 153000,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO"
     },
     {
       "added_at": "2025-09-26 07:48:06",
@@ -139,6 +159,26 @@
       "duration_ms": 190601,
       "name": "Jadoo",
       "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
+    },
+    {
+      "added_at": "2025-09-26 07:48:06",
+      "album": {
+        "name": "Bolo Bolo",
+        "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "duration_ms": 237378,
+      "name": "Bolo Bolo",
+      "url": "https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9"
     },
     {
       "added_at": "2025-09-26 07:48:06",
@@ -871,22 +911,6 @@
     {
       "added_at": "2025-09-26 07:48:06",
       "album": {
-        "name": "Nazarein Utaarun",
-        "url": "https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Nazarein Utaarun",
-      "url": "https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl"
-    },
-    {
-      "added_at": "2025-09-26 07:48:06",
-      "album": {
         "name": "Saajanwa",
         "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
       },
@@ -1255,22 +1279,6 @@
       "duration_ms": 194147,
       "name": "Malang",
       "url": "https://open.spotify.com/track/3JXn6o57ji1yI7Z4wWkgAq"
-    },
-    {
-      "added_at": "2025-09-26 07:48:06",
-      "album": {
-        "name": "Aadhe Waade",
-        "url": "https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl"
-      },
-      "artists": [
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Aadhe Waade",
-      "url": "https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt"
     },
     {
       "added_at": "2025-09-26 07:48:06",

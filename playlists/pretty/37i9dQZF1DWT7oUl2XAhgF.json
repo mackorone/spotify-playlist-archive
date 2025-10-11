@@ -1,13 +1,49 @@
 {
   "description": "A new take on a classic sound. Cover: Sekou",
-  "num_followers": 374789,
+  "num_followers": 374877,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBeBateam3VdUnrG0eCRNKoe+v5",
+  "snapshot_id": "AAAAAJ7FtkiW6a5AJlzNV4Tv90hydcn8",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:20",
+      "album": {
+        "name": "Tired of Missing You",
+        "url": "https://open.spotify.com/album/6Te4NGNMAiYFJNfeYEEeEq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        },
+        {
+          "name": "Jeremy Page",
+          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Tired of Missing You - Radio Edit",
+      "url": "https://open.spotify.com/track/0exhPe2ST90UidadzvLeiT"
+    },
+    {
+      "added_at": "2025-10-10 04:00:20",
+      "album": {
+        "name": "Never Love",
+        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 210203,
+      "name": "Never Love",
+      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
+    },
     {
       "added_at": "2025-10-03 04:00:47",
       "album": {
@@ -553,26 +589,6 @@
       "url": "https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg"
     },
     {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Caught Up",
-        "url": "https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burgos",
-          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
-        },
-        {
-          "name": "Jeremy Page",
-          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
-        }
-      ],
-      "duration_ms": 180996,
-      "name": "Caught Up",
-      "url": "https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl"
-    },
-    {
       "added_at": "2025-06-27 04:00:27",
       "album": {
         "name": "F1 The Album (Cinematic Edition)",
@@ -651,22 +667,6 @@
       "duration_ms": 166436,
       "name": "We Don't Have to Be Alone",
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
-    },
-    {
-      "added_at": "2025-05-30 04:00:19",
-      "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-05-16 04:00:18",

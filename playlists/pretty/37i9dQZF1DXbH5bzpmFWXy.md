@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. El Malilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,420 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,430 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 90 | [No Fui Yo](https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Fui Yo](https://open.spotify.com/album/34OHzJXw1nvzoqv5Ml32DJ) | 3:22 |
 | 91 | [SONIDERO](https://open.spotify.com/track/4yiSoPgXRTtMeGaoN7QTMP) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Sonido La Changa](https://open.spotify.com/artist/6tJNsGnrDvwoMmwv18wmUK) | [SONIDERO](https://open.spotify.com/album/7esSMUEhSbr30LElTZY63Z) | 3:26 |
 | 92 | [Otra Vez Pegue Un Vergazo](https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Otra Vez Pegue Un Vergazo](https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz) | 2:49 |
-| 93 | [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 |
-| 94 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
+| 93 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
+| 94 | [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 |
 | 95 | [UN SHOT](https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [UN SHOT](https://open.spotify.com/album/2jvXp1bCPloqmYullNXsye) | 3:22 |
 | 96 | [XClusive](https://open.spotify.com/track/46defqRhyto8kFovVjc36n) | [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [XClusive](https://open.spotify.com/album/4I0e6Oe4UIc6GpcTcHityz) | 2:29 |
 | 97 | [La Vida No Es Fácil](https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk), [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [La Vida No Es Fácil](https://open.spotify.com/album/5sb1l0mFdE1fELVAKM3vz9) | 3:20 |

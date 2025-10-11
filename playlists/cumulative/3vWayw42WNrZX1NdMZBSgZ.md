@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Nicki Nicole, Rauw Alejandro  Shakira, and more!!! Cover: Ricky MArtin &amp; Carin León
 
-920 songs - 2 day 0 hr 56 min
+921 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 | 2023-03-10 | 2023-06-01 |
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2022-02-02 | 2023-05-26 |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-09 | 2023-06-03 |
+| [La Samaria](https://open.spotify.com/track/7ieuslYMSCaz2xTqq8jIPL) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Samaria](https://open.spotify.com/album/3z05HWXEIBe1YJhLS0K6bd) | 3:33 | 2025-10-10 |  |
 | [La Sin Sentimientos](https://open.spotify.com/track/4RlwjtqpZN6TC3ILPLrI9G) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [BLANKO](https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x) | [La Sin Sentimientos](https://open.spotify.com/album/484u6fF8lHgT6h83LuXmgH) | 2:59 | 2024-10-25 |  |
 | [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-29 | 2023-06-01 |
 | [La Tirana](https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Tirana](https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp) | 4:04 | 2025-09-19 |  |

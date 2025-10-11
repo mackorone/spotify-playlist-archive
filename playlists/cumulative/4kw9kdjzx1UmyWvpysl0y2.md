@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,089 songs - 2 day 12 hr 52 min
+1,090 songs - 2 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [Overstimulated](https://open.spotify.com/track/62QX5HiPYOvguLGyPs0Vdx) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Overstimulated](https://open.spotify.com/album/22MEgqPCFqCMKng8B9nqOT) | 3:23 | 2024-10-25 | 2025-02-07 |
 | [Overthinking](https://open.spotify.com/track/5UsmTQN4ohO09NCNoD04ux) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Overthinking](https://open.spotify.com/album/2PltPTD4z6mQAbfJpsflyc) | 3:01 | 2025-01-21 | 2025-04-15 |
 | [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
+| [Palm Of Your Hand](https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Palm Of Your Hand](https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio) | 3:35 | 2025-10-10 |  |
 | [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 | 2024-11-23 |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Pay Respect](https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [FRAXURE](https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Pay Respect](https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G) | 3:40 | 2025-03-28 | 2025-06-24 |

@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-181 songs - 12 hr 15 min
+182 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Rely on winter](https://open.spotify.com/track/5PyzNTtWX0PXV7Q0HNtsVA) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [Rely on winter](https://open.spotify.com/album/0jMjGRFQfkc7alrH6CyI5m) | 5:02 | 2023-12-19 | 2024-01-10 |
 | [Romance no Kamisama](https://open.spotify.com/track/1LBLFArddqDkgwig4vs1lk) | [広瀬香美 × Night Tempo](https://open.spotify.com/artist/5wRgqzIDq58eY9dglul3fQ), [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Romance no Kamisama](https://open.spotify.com/album/2BTbYSIJDNSVwbaQXS8u4P) | 3:27 | 2023-12-12 | 2024-01-17 |
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-12-12 |  |
+| [Samenu mama](https://open.spotify.com/track/3AyhwtbpJqqxVV80lFKAtl) | [Roka](https://open.spotify.com/artist/0GNjQ4UsF0AJiksilivETU) | [Samenu mama](https://open.spotify.com/album/29IX9SqXzaz9g7QB5ETafj) | 3:37 | 2025-03-11 |  |
 | [Sayonara no mahou](https://open.spotify.com/track/3EMQeu65z8Syt10BIKe3Tt) | [Kanau Matsumura](https://open.spotify.com/artist/03dBLURxQxZxLkYKteHBEN) | [Sayonara no mahou](https://open.spotify.com/album/2Pe3RCQd8S7fQdEZ3atixC) | 3:49 | 2025-03-11 |  |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2023-12-12 | 2024-01-31 |
 | [Shirayukinoojisama](https://open.spotify.com/track/0j8OaZoe6wjkAQxNSIfZPF) | [Hasetomo](https://open.spotify.com/artist/7mS4vBaBDQrPAFnuCNSrDk) | [Shirayukinoojisama](https://open.spotify.com/album/7hYwKzsZTHw7OFB96GaITR) | 4:37 | 2024-02-06 | 2024-04-19 |
@@ -116,7 +117,7 @@
 | [Winter Beat](https://open.spotify.com/track/7mjamiJ2zplbZQ2ymbn5T7) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:11 | 2023-12-12 | 2024-01-31 |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-12-12 | 2024-01-24 |
 | [Winter Land](https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Winter Land](https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6) | 3:20 | 2024-01-16 | 2024-11-13 |
-| [Winter Love...](https://open.spotify.com/track/1lkVi97uiZjUi04HPqu3Wc) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [Winter Love...](https://open.spotify.com/album/2UqirrlCBYWpEhsiv2P0p5) | 3:37 | 2024-12-17 |  |
+| [Winter Love...](https://open.spotify.com/track/1lkVi97uiZjUi04HPqu3Wc) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [Winter Love...](https://open.spotify.com/album/2UqirrlCBYWpEhsiv2P0p5) | 3:37 | 2024-12-17 | 2025-10-11 |
 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 | 2023-12-12 |  |
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-12 |  |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2023-12-12 |  |

@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 NOTA
 
-268 songs - 15 hr 9 min
+269 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 |  |
 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 | 2024-11-15 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
+| [armadura](https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 2:42 | 2025-10-10 |  |
 | [Atenta](https://open.spotify.com/track/3GZuixcRRQ7PidTtKxXOPn) | [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Sur](https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe) | 2:53 | 2024-06-28 | 2024-08-24 |
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 | 2024-07-06 |
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 | 2023-08-26 |

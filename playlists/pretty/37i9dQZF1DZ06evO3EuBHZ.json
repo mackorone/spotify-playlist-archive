@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 15896,
+  "num_followers": 15899,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAKlXGNM9sSaJO865NZM/WQ",
+  "snapshot_id": "aOb7AAAAAADbl3E2Jb7L++wd8xuynpM0",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama",
-        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Hound Dog / Walkin' the Dog",
-      "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+      "duration_ms": 251426,
+      "name": "Hound Dog / Walkin' the Dog",
+      "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 154373,
       "name": "How Come",
       "url": "https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Ain't Nothin' You Can Do",
-      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+      "duration_ms": 239000,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 357600,
       "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
       "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
     },
     {
       "added_at": null,
@@ -652,25 +652,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Everybody's Happy (But Me)",
-      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
       "duration_ms": 160543,
       "name": "Laugh, Laugh, Laugh",
       "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Harlem Stars",
+          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Bad Luck Got My Man",
+      "url": "https://open.spotify.com/track/18LivOj3LQY7Ps8aPsjj4c"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

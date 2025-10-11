@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 243555,
+  "num_followers": 243569,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACOcmZu4hvgrJHyfd8zVT8Q",
+  "snapshot_id": "aOb7AAAAAAAknTvcPY+pyJD9YrzpEX9n",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 321826,
+      "name": "Comfort Inn Ending (Freestyle)",
+      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 178920,
       "name": "Moments",
       "url": "https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "Comfort Inn Ending (Freestyle)",
-      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
     },
     {
       "added_at": null,

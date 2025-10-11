@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-771 songs - 1 day 14 hr 40 min
+773 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/album/6ASew3RZGJJ5igghbU9lX2) | 3:28 | 2023-08-08 | 2023-12-14 |
 | [Blessing](https://open.spotify.com/track/4ZNbrLGrcWwDFryS8II4fH) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Blessing](https://open.spotify.com/album/2RzcFHJ7FJcRf6LghDL3Kn) | 3:07 | 2024-04-11 | 2024-12-09 |
 | [Blind Heart](https://open.spotify.com/track/13JoRkSnyap5xLLgJOZ6Dg) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [Blind Heart](https://open.spotify.com/album/4NL1J5S9Eucz3GEY0Tr9o1) | 2:25 | 2022-09-28 | 2023-04-28 |
+| [Blindfold](https://open.spotify.com/track/0TQ8XBBc0O4UnHhZYSBIYM) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Blindfold](https://open.spotify.com/album/0pgJb5sPzK6k3ZdF5ZQfYY) | 3:28 | 2025-10-10 |  |
 | [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 | 2023-04-28 |
 | [blu](https://open.spotify.com/track/0UmTv1JVIm9vNhadCw4NrR) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [blu](https://open.spotify.com/album/4yczkllNRAfDQKofIveoZD) | 1:15 | 2024-09-24 |  |
 | [Bonfire](https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Bonfire](https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl) | 2:27 | 2022-12-22 | 2023-04-28 |
@@ -432,6 +433,7 @@
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 | 2023-04-28 |
 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 | 2022-12-26 | 2023-04-28 |
 | [Mess](https://open.spotify.com/track/6bOXwq9j9wFe4M8LAHc3cl) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7) | [Mess](https://open.spotify.com/album/5TpIbGAHt0rVaw52JIP8md) | 2:20 | 2022-12-16 | 2023-04-28 |
+| [miffy cafe](https://open.spotify.com/track/1Hwg6VvJViSUopeaCSsayN) | [sakuracloud](https://open.spotify.com/artist/4e29E9h4Vt0UHW9Fnd0AhO) | [miffy cafe](https://open.spotify.com/album/61vMXXyll3JMoS0kmnw2ZU) | 2:37 | 2025-10-10 |  |
 | [miffy cafe pt\. 2](https://open.spotify.com/track/1J6ojZODah7ZvCB2nwYHix) | [sakuracloud](https://open.spotify.com/artist/4e29E9h4Vt0UHW9Fnd0AhO), [99 God](https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi) | [miffy cafe pt\. 2](https://open.spotify.com/album/7ib6Py7gIDbQI3mnur9BvW) | 1:33 | 2025-09-12 |  |
 | [Mirage Of My Heart](https://open.spotify.com/track/6lsu0PNBCk03cdTnZpdgVO) | [D'Amico & Valax](https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc), [Fayzone](https://open.spotify.com/artist/1hSg7N5p2IUGoWCKtzEHcA) | [Mirage Of My Heart](https://open.spotify.com/album/6ncDWBhtWeEWVWCrmfS3Ud) | 3:09 | 2023-04-07 | 2023-08-10 |
 | [missing life](https://open.spotify.com/track/1ZO5EyLDQRsdIZESfqSlIR) | [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6), [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [missing life](https://open.spotify.com/album/2RC1d12bPxRIgNKAqODV2b) | 2:03 | 2025-05-29 |  |

@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2021-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 215507,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 161389,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/4Ms82sYhimBer12aieJDmJ"
@@ -7020,7 +7038,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
@@ -7740,6 +7758,24 @@
       "duration_ms": 158032,
       "name": "Reminds Me Of You",
       "url": "https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my"
+    },
+    {
+      "album": {
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
     },
     {
       "album": {
@@ -10156,6 +10192,24 @@
     {
       "album": {
         "name": "Underwater",
+        "url": "https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O"
+    },
+    {
+      "album": {
+        "name": "Underwater",
         "url": "https://open.spotify.com/album/0KDYWXyVzqgZWRS1oZu91c"
       },
       "artists": [
@@ -10224,7 +10278,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 232666,
       "name": "Up In Flames (The Wayland)",
       "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
@@ -10304,6 +10358,28 @@
       "duration_ms": 149890,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
+      "album": {
+        "name": "viscus (feat. FKA twigs)",
+        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220534,
+      "name": "viscus (feat. FKA twigs)",
+      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
     },
     {
       "album": {

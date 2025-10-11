@@ -8363,6 +8363,28 @@
     },
     {
       "album": {
+        "name": "De lijn der verwachting (Remixes)",
+        "url": "https://open.spotify.com/album/6ZaBUEnJzsRZMiQIMtKKTU"
+      },
+      "artists": [
+        {
+          "name": "Holyoke",
+          "url": "https://open.spotify.com/artist/6b6hKT4PCDmSbx8ZBtVC3a"
+        },
+        {
+          "name": "Willem Ardui",
+          "url": "https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "De lijn der verwachting - Willem Ardui Remix",
+      "url": "https://open.spotify.com/track/4RcEJ02h5cQx7cE8BhtTvj"
+    },
+    {
+      "album": {
         "name": "Deadfall",
         "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
       },
@@ -14198,6 +14220,28 @@
       "duration_ms": 346943,
       "name": "Goodthing",
       "url": "https://open.spotify.com/track/2WKHVMbWmrYZXjhdmfwKj1"
+    },
+    {
+      "album": {
+        "name": "Gosamour",
+        "url": "https://open.spotify.com/album/2eYqRX35ZPEaUUu0V0cUlA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Gosamour",
+      "url": "https://open.spotify.com/track/7fpvQXLR1umwJVmPRcyFcs"
     },
     {
       "album": {
@@ -21646,7 +21690,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 131328,
       "name": "Mirabilis",
       "url": "https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p"
@@ -23878,6 +23922,24 @@
       "duration_ms": 249444,
       "name": "Non \u00e8 Ancora - Regressive Left Remix",
       "url": "https://open.spotify.com/track/4hbGjWP20duEd6Wy7totPO"
+    },
+    {
+      "album": {
+        "name": "normandy.",
+        "url": "https://open.spotify.com/album/5n95k1hJO8xkZ6zrls3fvP"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "normandy.",
+      "url": "https://open.spotify.com/track/3cT1ZhkudyJ4MSStfY6Acp"
     },
     {
       "album": {
@@ -26420,7 +26482,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 475309,
       "name": "Predisparadis",
       "url": "https://open.spotify.com/track/1CBzfrWW56xJwsZeRLAB6l"
@@ -34612,7 +34674,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 225300,
       "name": "Tight-Lipped Thief",
       "url": "https://open.spotify.com/track/7nVF0BTHnLXTLX5SYKbEhu"

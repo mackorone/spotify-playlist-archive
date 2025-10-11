@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨PinkPantheress x Bladee  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,753 likes - 227 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,844 likes - 227 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [](https://open.spotify.com/album/null) | 2:28 |
+| 1 | [Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:28 |
 | 2 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 3 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 4 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
-| 5 | [Track 6](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 |
 | 6 | [Moon](https://open.spotify.com/track/2jAIpYibcgTSvcchEenQwN) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5F9611VbnzXzsLALMquXbe) | 5:17 |
 | 7 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 8 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 |
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 28 | [DJ Carpenter's Lovesong](https://open.spotify.com/track/7a78wGtjGBzcQJ49hKPn5E) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [DJ Carpenter's Lovesong](https://open.spotify.com/album/14x8YWiS5PFCtitIVLih1V) | 3:01 |
 | 29 | [ruined for me](https://open.spotify.com/track/0tYhqTUD5RVRQrB26wZrYO) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [ruined for me](https://open.spotify.com/album/4STWINy6qyrPq9k7uQe4Nt) | 1:59 |
 | 30 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 |
-| 31 | [Medusa](https://open.spotify.com/track/4LRLmNmurRO7UU55IHsHYR) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [](https://open.spotify.com/album/null) | 3:02 |
+| 31 | [Medusa](https://open.spotify.com/track/4LRLmNmurRO7UU55IHsHYR) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [GIRLS](https://open.spotify.com/album/56YPZtGJa3VSv6tdrwd38m) | 3:02 |
 | 32 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
 | 33 | [Celestial](https://open.spotify.com/track/7r0bbN93tEYoKzXC2n9kgR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Celestial](https://open.spotify.com/album/15sUyX3R3ogXhlN8jpzrGx) | 2:25 |
 | 34 | [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 |
 | 35 | [milky way](https://open.spotify.com/track/2Y3BqaLjTWnPXrAtVDwLGh) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [milky way](https://open.spotify.com/album/32c7WI2b2FMyFyvouZxM2U) | 3:19 |
 | 36 | [Waterfalls](https://open.spotify.com/track/2iKyCCz8V7tvk7OtBF2bpy) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Waterfalls](https://open.spotify.com/album/0EyYnQXxYdgNYKxjgUbglf) | 2:39 |
 | 37 | [RHYTHM](https://open.spotify.com/track/3ADmWwDoKMtoVc382iCOQS) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [RHYTHM](https://open.spotify.com/album/6q3gXFo6vz9kNOzA4vLEYt) | 3:43 |
-| 38 | [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [](https://open.spotify.com/album/null) | 4:17 |
+| 38 | [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Space Sicks Basics](https://open.spotify.com/album/5mXdLAugxAMyV8fQafUiyT) | 4:17 |
 | 39 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
 | 40 | [Ostentatious](https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Ostentatious](https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2) | 3:44 |
 | 41 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |

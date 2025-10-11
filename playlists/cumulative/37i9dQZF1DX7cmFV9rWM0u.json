@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Amazonas Tic Tic Tac",
+        "url": "https://open.spotify.com/album/0UZLUDSyq90prpzxAMMu8C"
+      },
+      "artists": [
+        {
+          "name": "Gaia Music",
+          "url": "https://open.spotify.com/artist/4plmCc0XXDEHO2MF0mNpgp"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Amazonas Tic Tic Tac",
+      "url": "https://open.spotify.com/track/3Umr6JkfbUhDQdfGOSVSq9"
+    },
+    {
+      "album": {
         "name": "Ay Dios",
         "url": "https://open.spotify.com/album/398zQSn4bAiu0adQXhCvFH"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
@@ -3588,7 +3606,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 201000,
       "name": "PAM",
       "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
@@ -5344,6 +5362,24 @@
       "duration_ms": 166264,
       "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
       "url": "https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx"
+    },
+    {
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159062,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"
     },
     {
       "album": {

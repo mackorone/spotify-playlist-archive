@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: K-Pop Demon Hunters)",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: TWICE)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 225000,
       "name": "I'll Never Love Again",
       "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
@@ -7070,7 +7070,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 189040,
       "name": "Lips Hips Kiss",
       "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
@@ -7872,6 +7872,24 @@
       "duration_ms": 224249,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
+    },
+    {
+      "album": {
+        "name": "TEN: The Story Goes On",
+        "url": "https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "ME + YOU",
+      "url": "https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH"
     },
     {
       "album": {
@@ -12972,6 +12990,24 @@
       "duration_ms": 179000,
       "name": "WATCH IT",
       "url": "https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN"
+    },
+    {
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
     },
     {
       "album": {

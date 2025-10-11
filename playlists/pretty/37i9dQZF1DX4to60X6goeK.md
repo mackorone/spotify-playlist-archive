@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Macky Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,766 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,787 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel The Vibration](https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Feel The Vibration](https://open.spotify.com/album/4L2BjQY9sslyCYkcF8CsS0) | 3:21 |
-| 2 | [Foreshadow](https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Foreshadow / 3rd Kit](https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC) | 3:44 |
+| 2 | [Foreshadow](https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Foreshadow / Third Kit](https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC) | 3:44 |
 | 3 | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH) | 2:15 |
 | 4 | [Double Vision](https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [Double Vision](https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5) | 2:26 |
 | 5 | [Phases](https://open.spotify.com/track/1Vhm1THfiygNz26B13LPOn) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Phases](https://open.spotify.com/album/2AeJVj6XknSPD111VjrYgU) | 3:46 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 39 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h) | 3:57 |
 | 40 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
 | 41 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
-| 42 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
-| 43 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
+| 42 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
+| 43 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
 | 44 | [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 |
 | 45 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 |
 | 46 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |

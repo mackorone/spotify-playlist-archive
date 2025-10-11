@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130237,
+  "num_followers": 130241,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlANXxvEtOp4sL+hvhhmKHgAJbX",
+  "snapshot_id": "AAAAAIciQ2wZzimhup5HStRikGJSr3/6",
   "tracks": [
     {
       "added_at": "2025-10-09 16:00:22",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-10-09 16:00:22",
       "album": {
-        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 236020,
-      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
-    },
-    {
-      "added_at": "2025-10-09 16:00:22",
-      "album": {
         "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
         "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 197954,
       "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
       "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
+    },
+    {
+      "added_at": "2025-10-09 16:00:22",
+      "album": {
+        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 236020,
+      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2025-10-09 16:00:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-10-09 16:00:22",
       "album": {
-        "name": "\u96d9\u751f\u706b\u7130",
-        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 305013,
-      "name": "\u6c89\u9ed8",
-      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
-    },
-    {
-      "added_at": "2025-10-09 16:00:22",
-      "album": {
         "name": "\u5de6\u908a\u7684\u4eba",
         "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 216585,
       "name": "\u5de6\u908a\u7684\u4eba",
       "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
+    },
+    {
+      "added_at": "2025-10-09 16:00:22",
+      "album": {
+        "name": "\u96d9\u751f\u706b\u7130",
+        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 305013,
+      "name": "\u6c89\u9ed8",
+      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
     },
     {
       "added_at": "2025-10-09 16:00:22",
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2025-10-09 16:00:22",

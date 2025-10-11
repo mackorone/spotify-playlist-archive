@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Patrick Watson",
+  "description": "Montr\u00e9al\u2019s music scene, front and centre. Cover: Laraw",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 213670,
       "name": "AT MINES",
       "url": "https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 216369,
       "name": "baby Getz",
       "url": "https://open.spotify.com/track/0h2y4jmp8E3cOuULW7l5r9"
@@ -1064,6 +1064,24 @@
       "duration_ms": 185913,
       "name": "Beau beam",
       "url": "https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV"
+    },
+    {
+      "album": {
+        "name": "Beau dimanche",
+        "url": "https://open.spotify.com/album/5ZcgJarXeG8D3FBdVu3Y8D"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140903,
+      "name": "Beau dimanche",
+      "url": "https://open.spotify.com/track/65ZoeTRN3SguXktkkE3Ro6"
     },
     {
       "album": {
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 222533,
       "name": "C.A.Y.A.",
       "url": "https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 208946,
       "name": "Coffee's Ready",
       "url": "https://open.spotify.com/track/30XUPQ3sPmAN9dtLCqoeq5"
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 153330,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3THaspQuZBzDA6KroqZZC0"
@@ -3549,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Femme fatale",
+        "url": "https://open.spotify.com/album/4LDjPHAkPDhLA03A5apqJo"
+      },
+      "artists": [
+        {
+          "name": "Kamilou",
+          "url": "https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111623,
+      "name": "Femme fatale",
+      "url": "https://open.spotify.com/track/1kH3tGowdxZXjhgt4bZhra"
+    },
+    {
+      "album": {
         "name": "Femme-Lady",
         "url": "https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc"
       },
@@ -3694,7 +3730,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 175093,
       "name": "Fixe",
       "url": "https://open.spotify.com/track/0Ytu2GKTYlI2Gu32AYK1P4"
@@ -4406,7 +4442,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 180629,
       "name": "Hearts Working Overtime",
       "url": "https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01"
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 145733,
       "name": "Her World",
       "url": "https://open.spotify.com/track/4TNhWf5i5vvXoFlgHAMibJ"
@@ -4808,7 +4844,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 252180,
       "name": "I'm Not Here",
       "url": "https://open.spotify.com/track/7bAki4sFwFfF9MT8Tm4sUW"
@@ -5675,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "Re;;;Virer nos vies",
+        "url": "https://open.spotify.com/album/0XOrOrjjI1GBF6PmXWSk3O"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "La d\u00e9rive",
+      "url": "https://open.spotify.com/track/2OEXpDNX0IIdwq0LlIeide"
+    },
+    {
+      "album": {
         "name": "Entre mes insomnies",
         "url": "https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4"
       },
@@ -6467,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "REPRISES",
+        "url": "https://open.spotify.com/album/28nnAQs3TXFbYzBd0vxs6P"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183399,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/5vJyakx1Kry36JsIZaRAoy"
+    },
+    {
+      "album": {
         "name": "Love pour toi",
         "url": "https://open.spotify.com/album/4ed8rgdhz9Omd8YFN6ezBW"
       },
@@ -6644,6 +6716,24 @@
       "duration_ms": 185600,
       "name": "Mais je sais que tu m'attends",
       "url": "https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal"
+    },
+    {
+      "album": {
+        "name": "Man In His Pomp",
+        "url": "https://open.spotify.com/album/37KhkdHDI0LERW8dTXz24r"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111734,
+      "name": "Man In His Pomp",
+      "url": "https://open.spotify.com/track/04LRwSXXKAAxFSzyk6Imca"
     },
     {
       "album": {
@@ -7082,6 +7172,24 @@
       "duration_ms": 206906,
       "name": "Moonroad",
       "url": "https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb"
+    },
+    {
+      "album": {
+        "name": "WE BUY SOULS! (LA Sessions)",
+        "url": "https://open.spotify.com/album/60L8gNNoobuTGMfMqV0JS6"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139520,
+      "name": "more shade",
+      "url": "https://open.spotify.com/track/1m98muGNX2bm6VFzUsPDJ0"
     },
     {
       "album": {
@@ -7749,6 +7857,24 @@
     },
     {
       "album": {
+        "name": "On Time",
+        "url": "https://open.spotify.com/album/4qix7rW4u0UyYSjUamQlRM"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189608,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/58uv9bsR0CpkCzHD8dPztO"
+    },
+    {
+      "album": {
         "name": "All Cylinders",
         "url": "https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH"
       },
@@ -7796,7 +7922,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 221746,
       "name": "ORANGE",
       "url": "https://open.spotify.com/track/6KCHDmrYnJoxjBjtfmURSy"
@@ -8435,6 +8561,24 @@
     },
     {
       "album": {
+        "name": "Plus pr\u00e8s",
+        "url": "https://open.spotify.com/album/5mJr7TKCUmFAiMblLqDGoi"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151621,
+      "name": "Plus pr\u00e8s",
+      "url": "https://open.spotify.com/track/0yxjVkM1Ux3uCcYv4pnyqr"
+    },
+    {
+      "album": {
         "name": "Poem #2",
         "url": "https://open.spotify.com/album/0bPJLBHHf4CFfTjE1VOwud"
       },
@@ -8955,6 +9099,24 @@
     },
     {
       "album": {
+        "name": "Real Friend (Radio Edit)",
+        "url": "https://open.spotify.com/album/1A5HCAzMObL1U9Lb19TKQ9"
+      },
+      "artists": [
+        {
+          "name": "Sara Diamond",
+          "url": "https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "Real Friend (Radio Edit)",
+      "url": "https://open.spotify.com/track/3A8A6y98A7gRCLnaKYNkE4"
+    },
+    {
+      "album": {
         "name": "Une semaine \u00e0 Paris",
         "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
       },
@@ -9274,7 +9436,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 199574,
       "name": "Rouge Blanc",
       "url": "https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i"
@@ -9929,6 +10091,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0chm6CSqdRLGe5vIlJSHlU"
+      },
+      "artists": [
+        {
+          "name": "Laraw",
+          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4x6GQgDNiK3HnBF9Y06zT8"
+    },
+    {
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -10112,6 +10292,24 @@
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV"
+    },
+    {
+      "album": {
+        "name": "Still Got The Spirit",
+        "url": "https://open.spotify.com/album/1P6bNUdYAlOEbkWqsYImwc"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186828,
+      "name": "Still Got The Spirit",
+      "url": "https://open.spotify.com/track/719Z3FXsetuWivg6bVaNVU"
     },
     {
       "album": {

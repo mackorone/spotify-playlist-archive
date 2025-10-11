@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> La tierra del Rap de oro puro\. Luis R Conriquez en portada
+> La tierra del Rap de oro puro\. Victor Mendivil en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,245 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,346 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 | 99 | [La Feria Drogas y Muerte](https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 4:12 |
 | 100 | [Toma 1](https://open.spotify.com/track/6tzvSqAhZ0PbvCGcGG8mqu) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 1](https://open.spotify.com/album/7iljZj5qiQMzlARfZQZpy2) | 3:14 |
 
-Snapshot ID: `AAAAACAJWWPRyzXsyFVNY4K0rpYQcEc5`
+Snapshot ID: `AAAAAAXyUcADgBgsUkXBdinBAVrYb99q`

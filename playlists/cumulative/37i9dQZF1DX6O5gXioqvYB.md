@@ -2,7 +2,7 @@
 
 ### [Novità Indie Italiano](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> Tutte le migliori nuove uscite indie sono qui 👀 Cover: Caleydo e Bassi Maestro
+> Tutte le migliori nuove uscite indie sono qui 👀 Cover: Caleydo, Bassi Maestro e Willie Peyote
 
 948 songs - 2 day 0 hr 22 min
 
@@ -867,7 +867,7 @@
 | [Tsunami](https://open.spotify.com/track/2DpPqSrOsaeqh75qLdrtUX) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [L'Esame Di Maturità](https://open.spotify.com/album/75xPEVP9kQX6fzBRFAOaeU) | 3:36 | 2025-05-29 | 2025-07-11 |
 | [Tua da far paura \(feat\. Lamante\)](https://open.spotify.com/track/7yfxKv9zbcJmtHtGwUqtG2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Tua da far paura \(feat\. Lamante\)](https://open.spotify.com/album/2aaP1JTvRE7WMdV703lN3l) | 2:23 | 2025-09-11 | 2025-10-10 |
 | [Tuareg](https://open.spotify.com/track/6FLcWRbOznMsx55HF46oBL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tuareg](https://open.spotify.com/album/1Ns0mmFgzffnMQSi9Hv9ww) | 3:40 | 2025-08-28 | 2025-09-26 |
-| [Tudo Bem](https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [](https://open.spotify.com/album/null) | 3:18 | 2025-10-09 |  |
+| [Tudo Bem](https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [GRINGO Vol.2](https://open.spotify.com/album/3OJQKGBkbT1docNpiIdzqj) | 3:18 | 2025-10-09 |  |
 | [Tutta la notte](https://open.spotify.com/track/2UztN1cj7eEp5voYdrTn0M) | [Monviso](https://open.spotify.com/artist/7FOurawpFY4w2iHMlnnICd) | [Tutta la notte](https://open.spotify.com/album/3j45QlXXxCB0qI9pnxmSCA) | 2:42 | 2025-10-02 |  |
 | [Tutta La Notte](https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Tutta La Notte](https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg) | 3:12 | 2024-09-26 | 2024-10-01 |
 | [Tutta La Notte \(feat\. Calcutta\)](https://open.spotify.com/track/7rHhea17z3C7nxBeT3RP3Z) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Tutta La Notte \(feat\. Calcutta\)](https://open.spotify.com/album/0SyYo03ajASK19eOCCcmgZ) | 2:36 | 2025-04-10 | 2025-06-27 |

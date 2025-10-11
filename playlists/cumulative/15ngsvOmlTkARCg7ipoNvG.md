@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,027 songs - 1 day 16 hr 55 min
+2,028 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Certainty](https://open.spotify.com/track/02IOkm3qPGeknVKFwtLkzt) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Everglow](https://open.spotify.com/album/4B0IbcEFp7z00KAWzQp4NI) | 1:27 | 2022-01-12 |  |
 | [Change](https://open.spotify.com/track/66cdELp8re3ouDuHhGKdhh) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Change](https://open.spotify.com/album/2OeBSjc16zuyLSrjxdi1FB) | 1:00 | 2024-03-30 |  |
 | [Changes \(re\-imagined\)](https://open.spotify.com/track/1orja2bGT2fNCR9JHR1gtf) | [Sepia Spring](https://open.spotify.com/artist/5uScoNQFbT1Zbdii6fnTOa) | [Changes \(re\-imagined\)](https://open.spotify.com/album/1om8TMzEYtutuoccLlxIuD) | 2:15 | 2022-01-12 | 2023-04-09 |
+| [Changing Seasons](https://open.spotify.com/track/1o9RxtDp51iEEJ0UE3YWTG) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Changing Seasons](https://open.spotify.com/album/1ehhp0Mh5RiQgMcNhJxZt1) | 1:00 | 2025-10-10 |  |
 | [Chapel](https://open.spotify.com/track/78sbbXd9eE653d2WkHdWj6) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:16 | 2022-01-12 |  |
 | [Chapel Dreams](https://open.spotify.com/track/14rgHd44rufS22mQNaqJVv) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Dreams Of Grace](https://open.spotify.com/album/7e6o35zGi3vOPWNyET7BCE) | 1:02 | 2022-04-19 |  |
 | [Chapel Lane](https://open.spotify.com/track/7469s9nrrDoLNRFxzLqee9) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:15 | 2022-01-12 |  |

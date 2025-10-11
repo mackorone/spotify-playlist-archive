@@ -4,7 +4,7 @@
 
 > und macht laune
 
-319 songs - 14 hr 50 min
+320 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [ESTA NOCHE](https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [ESTA NOCHE](https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA) | 1:08 | 2025-07-17 | 2025-10-10 |
 | [Eu Sento Gabu!](https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s) | [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [Eu Sento Gabu!](https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o) | 1:23 | 2024-10-24 | 2025-01-17 |
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-08-18 | 2023-10-10 |
+| [Everytime We Touch](https://open.spotify.com/track/2iANaOu9ypAYmuiHf1QoIa) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Everytime We Touch](https://open.spotify.com/album/75jf8Uf0t4ZWYdNZO5qOfU) | 2:43 | 2025-10-09 |  |
 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 | 2023-07-28 |  |
 | [Explodiert](https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Explodiert](https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb) | 2:38 | 2025-02-27 | 2025-07-04 |
 | [Fast Cars & Superstars](https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW), [Reverend Haus](https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ) | [Fast Cars & Superstars](https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR) | 1:58 | 2025-03-10 |  |
@@ -249,7 +250,7 @@
 | [Sangria](https://open.spotify.com/track/3TYj2ld7j4q4fq7zSMHjqe) | [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Climax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JAhLYEWnwTheAh0aIcYd2) | 5:43 | 2023-12-28 | 2024-01-02 |
 | [Saphir](https://open.spotify.com/track/306T8vusV4CHXBkCHpme1f) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Saphir](https://open.spotify.com/album/12jeg9Iro0sfeIPi7hkl83) | 2:32 | 2024-09-16 | 2024-12-20 |
 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-28 | 2024-06-26 |
-| [Sarà Perché Ti Amo \- Stereoact Remix](https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk) | [DJ Redblack](https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Sarà Perché Ti Amo \(Stereoact Remix\)](https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX) | 2:02 | 2025-10-09 |  |
+| [Sarà Perché Ti Amo \- Stereoact Remix](https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk) | [DJ Redblack](https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Sarà Perché Ti Amo \(Stereoact Remix\)](https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX) | 2:02 | 2025-10-09 | 2025-10-11 |
 | [Say It Right](https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Say It Right](https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH) | 2:45 | 2023-09-15 | 2024-04-19 |
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2025-04-10 |  |
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-25 | 2023-10-18 |

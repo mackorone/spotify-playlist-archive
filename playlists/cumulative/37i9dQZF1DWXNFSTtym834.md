@@ -2,7 +2,7 @@
 
 ### [00s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DWXNFSTtym834)
 
-> The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
+> The biggest metal songs of the 2000s\. Cover: Linkin Park
 
 268 songs - 19 hr 28 min
 

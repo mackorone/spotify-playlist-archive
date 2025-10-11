@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,060 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,080 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 75 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 |
 | 76 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
 | 77 | [Rosanna](https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Greatest Hits: 40 Trips Around The Sun](https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2) | 5:30 |
-| 78 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
-| 79 | [Here I Go Again \- 1987 Version; 2017 Remaster](https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Edition\)](https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r) | 4:35 |
+| 78 | [Here I Go Again \- 1987 Version; 2017 Remaster](https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Edition\)](https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r) | 4:35 |
+| 79 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
 | 80 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/58lTbZKr7XkkR4zEpoLhYH) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha \(Expanded Edition\)](https://open.spotify.com/album/0U59W3AMVxEVDzHrEe8UFW) | 4:01 |
 | 81 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
 | 82 | [Doris Day](https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:48 |

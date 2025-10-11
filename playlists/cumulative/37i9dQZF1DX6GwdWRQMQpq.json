@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: PLUTO",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 93455,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
+    },
+    {
+      "album": {
+        "name": "PLUTO WORLD",
+        "url": "https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168766,
+      "name": "2 Crash Outs (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/2sQGacYminlTtshdBM81sx"
     },
     {
       "album": {
@@ -2363,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "PLUTO WORLD",
+        "url": "https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "Bow",
+      "url": "https://open.spotify.com/track/4eWDeNpzvibuz3R57zFcnR"
+    },
+    {
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -3366,7 +3406,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 104415,
       "name": "DADE",
       "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
@@ -4870,7 +4910,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
@@ -5696,6 +5736,28 @@
       "duration_ms": 137952,
       "name": "Hannah Montana (with NLE Choppa & DaBaby)",
       "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
+    },
+    {
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141760,
+      "name": "HARD WAY (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
     },
     {
       "album": {
@@ -7749,6 +7811,28 @@
     },
     {
       "album": {
+        "name": "CORINIAN",
+        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137196,
+      "name": "Lotion (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/5aAYGulyyGNWXBtbHm1wdF"
+    },
+    {
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -7894,7 +7978,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 178358,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
@@ -9195,6 +9279,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127830,
+      "name": "Noises + JT",
+      "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
+    },
+    {
+      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
       },
@@ -9872,7 +9978,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 130000,
       "name": "Perfect Person (feat. coop)",
       "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
@@ -9996,7 +10102,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 164586,
       "name": "Pink Money (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
@@ -10170,7 +10276,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 113548,
       "name": "Pluto Walk",
       "url": "https://open.spotify.com/track/2taDBAJbGHAQ9O0JvWiCIU"
@@ -13670,6 +13776,24 @@
       "duration_ms": 154838,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7F3ugiaOXAjICskrb2yJbo"
+    },
+    {
+      "album": {
+        "name": "WASSUP WIT IT",
+        "url": "https://open.spotify.com/album/76O4qRPV4sOHZdx4edvnB6"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139440,
+      "name": "WASSUP WIT IT",
+      "url": "https://open.spotify.com/track/02iqkGzWVLtBSMx1Ir1x2p"
     },
     {
       "album": {

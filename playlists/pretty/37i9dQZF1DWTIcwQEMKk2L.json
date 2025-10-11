@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71992,
+  "num_followers": 71993,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
         "name": "As The Years Go By",
         "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "The last chance saloon",
-        "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 125450,
-      "name": "The last chance saloon",
-      "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+        "name": "The last chance saloon",
+        "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
       },
       "artists": [
         {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
         }
       ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+      "duration_ms": 125450,
+      "name": "The last chance saloon",
+      "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
-      },
-      "artists": [
-        {
-          "name": "Colette Blanche",
-          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
-        }
-      ],
-      "duration_ms": 137645,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "First Sunrise",
-        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
       "artists": [
         {
-          "name": "Haru Kitamura",
-          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+          "name": "Colette Blanche",
+          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
         }
       ],
-      "duration_ms": 212000,
-      "name": "First Sunrise",
-      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+      "duration_ms": 137645,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -807,6 +791,22 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "First Sunrise",
+        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "First Sunrise",
+      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Young and Foolish",
-        "url": "https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0"
-      },
-      "artists": [
-        {
-          "name": "Ron de Lauren",
-          "url": "https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod"
-        }
-      ],
-      "duration_ms": 174124,
-      "name": "Young and Foolish",
-      "url": "https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "Dolce Far Niente",
         "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 132000,
       "name": "Dolce Far Niente",
       "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "Young and Foolish",
+        "url": "https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0"
+      },
+      "artists": [
+        {
+          "name": "Ron de Lauren",
+          "url": "https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod"
+        }
+      ],
+      "duration_ms": 174124,
+      "name": "Young and Foolish",
+      "url": "https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 211000,
       "name": "Out of place",
       "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "In Love In Vain",
-        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
-      },
-      "artists": [
-        {
-          "name": "Amanda Heartwood",
-          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
-        }
-      ],
-      "duration_ms": 174239,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
       },
       "artists": [
         {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
         }
       ],
-      "duration_ms": 208777,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
+      "duration_ms": 174239,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1035,6 +1019,22 @@
       "duration_ms": 165500,
       "name": "Lib\u00e9lula",
       "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 208777,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1083,6 +1083,22 @@
       "duration_ms": 149495,
       "name": "Box Of Photos",
       "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1151,38 +1167,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
-      },
-      "artists": [
-        {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
-        "name": "You Stepped Out Of A Dream",
-        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
-      },
-      "artists": [
-        {
-          "name": "Bill Walton",
-          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "You Stepped Out Of A Dream",
-      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "This Is The Time",
-        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
       },
       "artists": [
         {
-          "name": "Aimee Fleur",
-          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
         }
       ],
-      "duration_ms": 159599,
-      "name": "This Is The Time",
-      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+      "duration_ms": 155066,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1243,6 +1227,22 @@
       "duration_ms": 104199,
       "name": "Nostalgia.",
       "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "This Is The Time",
+        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
+      },
+      "artists": [
+        {
+          "name": "Aimee Fleur",
+          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
+        }
+      ],
+      "duration_ms": 159599,
+      "name": "This Is The Time",
+      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1327,34 +1327,18 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N"
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
       "artists": [
         {
-          "name": "Jean Fines",
-          "url": "https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7"
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
         }
       ],
-      "duration_ms": 180266,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
-        "name": "Variante Alta",
-        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
-      },
-      "artists": [
-        {
-          "name": "Flavio Apicella",
-          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
-        }
-      ],
-      "duration_ms": 232934,
-      "name": "Variante Alta",
-      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
+        "name": "Variante Alta",
+        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
+      },
+      "artists": [
+        {
+          "name": "Flavio Apicella",
+          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
+        }
+      ],
+      "duration_ms": 232934,
+      "name": "Variante Alta",
+      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
-      },
-      "artists": [
-        {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
-        }
-      ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -1419,38 +1403,6 @@
       "duration_ms": 148407,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
-      },
-      "artists": [
-        {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
-        "name": "S\u00fcda",
-        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "S\u00fcda",
-      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1475,6 +1427,54 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+      },
+      "artists": [
+        {
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+        }
+      ],
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "S\u00fcda",
+        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "S\u00fcda",
+      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N"
+      },
+      "artists": [
+        {
+          "name": "Jean Fines",
+          "url": "https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "\u00c8 ora di dormire",
-        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
-      },
-      "artists": [
-        {
-          "name": "Scintillante",
-          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "\u00c8 ora di dormire",
-      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
-    },
-    {
-      "added_at": "2025-09-29 06:54:06",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2025-09-29 06:54:06",
       "album": {
-        "name": "Too Young To Go Steady",
-        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
+        "name": "\u00c8 ora di dormire",
+        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
       },
       "artists": [
         {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+          "name": "Scintillante",
+          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
         }
       ],
-      "duration_ms": 219562,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
+      "duration_ms": 179000,
+      "name": "\u00c8 ora di dormire",
+      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
     },
     {
       "added_at": "2025-09-29 06:54:06",
@@ -1603,6 +1587,22 @@
       "duration_ms": 137290,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
+    },
+    {
+      "added_at": "2025-09-29 06:54:06",
+      "album": {
+        "name": "Too Young To Go Steady",
+        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
     },
     {
       "added_at": "2025-09-29 06:54:06",

@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-143 songs - 7 hr 32 min
+148 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 | 2022-05-22 |  |
 | [If You Want](https://open.spotify.com/track/0Z51c20c2L31LZqX9yGuC6) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 3:02 | 2025-05-19 |  |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-22 |  |
+| [Invincible](https://open.spotify.com/track/7q6tBaS0UD6jaklmFd37Hp) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i\-dle](https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI) | 2:48 | 2025-10-10 |  |
 | [Is this bad b\*\*\*\*\*\* number?](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:45 | 2022-05-22 |  |
 | [Jelly](https://open.spotify.com/track/0MsE73sXgfqOpgzCATa0Wt) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Jelly](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) | 2:59 | 2022-05-22 |  |
 | [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 | 2024-07-09 |  |
@@ -113,6 +114,7 @@
 | [Put It Straight \- Nightmare Version](https://open.spotify.com/track/6BheMIaNvX13rcfENmYTww) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < Box of Pandora > Pt\. 1](https://open.spotify.com/album/7fGaLPPmATwK9Jade24fXC) | 4:16 | 2022-05-22 |  |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-17 | 2024-04-19 |
 | [Queencard](https://open.spotify.com/track/68r87x3VZdAMhv8nBVuynz) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt) | 2:41 | 2024-04-05 |  |
+| [Queencard \- Japanese ver.](https://open.spotify.com/track/7skcg2OrLNYblEcCW66J69) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i\-dle](https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI) | 2:41 | 2025-10-10 |  |
 | [Quit](https://open.spotify.com/track/54y2W3EYYsSnyqL1rinbJb) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 3:09 | 2022-05-22 |  |
 | [Red Moon](https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Webtoon <Myst, Might, Mayhem> OST Part\. 1 Red Moon](https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB) | 3:20 | 2025-02-17 |  |
 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 | 2022-07-04 | 2024-04-19 |
@@ -149,6 +151,9 @@
 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-02-27 |  |
 | [Wow Thing](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [SinB](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Wow Thing](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) | 2:51 | 2022-05-22 |  |
 | [You and I](https://open.spotify.com/track/5O5VwPoOqC4lV3Ffc8eRx3) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Sibling's Romance \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/7xKL7L439LwQxFw9XEojEl) | 2:27 | 2024-03-22 |  |
+| [どうしよっかな](https://open.spotify.com/track/1JCKwBr7XDfh1tvzAtd4hw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i\-dle](https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI) | 3:03 | 2025-10-10 |  |
+| [傷つくのは嫌いだから](https://open.spotify.com/track/0bA6eKx30TGfJP3ewahyZz) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i\-dle](https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI) | 2:41 | 2025-10-10 |  |
+| [愛せなかった世界へ永遠にじゃあね](https://open.spotify.com/track/4139qF0rqc2A5wOuScvcLz) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i\-dle](https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI) | 3:46 | 2025-10-10 |  |
 | [너는 나의 숨이였다](https://open.spotify.com/track/49Su0Oz6iJlVO2qXAAYrss) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [너는 나의 숨이였다](https://open.spotify.com/album/4Tn76amJ6KrKWii728UjQ7) | 3:32 | 2022-05-22 |  |
 | [달려! Relay](https://open.spotify.com/track/7iH3faubNoXfhxmQUzUGGq) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [달려! Relay](https://open.spotify.com/album/1QBlxNoC6ScHlfLzfLUHtK) | 3:43 | 2022-05-22 |  |
 

@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Jamie Duffy",
+        "url": "https://open.spotify.com/album/7kZvHM83uaWWdoGUR8EFXP"
+      },
+      "artists": [
+        {
+          "name": "Jamie Duffy",
+          "url": "https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233183,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/5jBvpZQRplWigmvSjMY2o4"
+    },
+    {
+      "album": {
         "name": "Poldark: Music from the TV Series (Deluxe Version)",
         "url": "https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO"
       },

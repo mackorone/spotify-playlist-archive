@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Denny Caknan, NDX A.K.A.
 
-534 songs - 1 day 20 hr 41 min
+536 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Kalih Welasku](https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kalih Welasku](https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX) | 5:04 | 2023-03-09 | 2025-09-20 |
 | [KALIH WELASKU](https://open.spotify.com/track/7AtjD8ykb3pROEkYwrbJ1z) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KALIH WELASKU](https://open.spotify.com/album/6g6l8WDLfmkUnHyQKxMBXo) | 5:28 | 2023-03-15 | 2023-10-13 |
 | [Kampoeng Warso](https://open.spotify.com/track/0W47hBBnzc8qqknuCe1Sdh) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Kampoeng Warso](https://open.spotify.com/album/3BNhsxpCSUMflBSH18jVGa) | 4:36 | 2025-08-08 | 2025-08-29 |
+| [Kangen](https://open.spotify.com/track/6MvizcfBosmHSrNgZuheAh) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kangen](https://open.spotify.com/album/6IZxiBZJTNZaRmJ0dNxpwf) | 5:32 | 2025-10-10 |  |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0sp7XtTa4O9BqJIDBi8FhQ) | 3:19 | 2023-05-04 | 2023-07-29 |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU) | 3:19 | 2022-09-01 | 2023-05-08 |
 | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/track/4YQ5EKOsHCNKZLIuUQkDAM) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv), [Ajeng Yulia Abdilla](https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl) | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/album/0YLvl6OFE7wBC1uFRQgNPY) | 5:39 | 2023-12-08 | 2024-02-09 |
@@ -179,6 +180,7 @@
 | [Katresnan Sejati \- Live](https://open.spotify.com/track/4zT6Ie7ddFzyTNxWw0f32q) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Icing Tanaka](https://open.spotify.com/artist/0hheXfcmb08lGonHVlgq3B) | [Katresnan Sejati \(Live\)](https://open.spotify.com/album/4AiMMAY3nrjcU4lA8tJM5U) | 6:08 | 2025-07-31 | 2025-10-03 |
 | [Kau Yang Memilih Aku](https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Kau Yang Memilih Aku](https://open.spotify.com/album/3av8xh4YstrMX7wD95ZhiW) | 4:56 | 2024-11-21 | 2025-02-28 |
 | [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-03-29 | 2024-06-14 |
+| [Kawitaning Sinawang](https://open.spotify.com/track/2yTZ5ZrXJBxEuh5kkDsDAk) | [Diva Hani](https://open.spotify.com/artist/0rY381w1KbZR9IUPhp2ppK) | [Kawitaning Sinawang](https://open.spotify.com/album/3NF3f0G8btLI6qxyleSOOj) | 5:16 | 2025-10-10 |  |
 | [Kawitaning Sinawang](https://open.spotify.com/track/4ucL4cmsyrFHuPBeNCEIDi) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Icing Tanaka](https://open.spotify.com/artist/0hheXfcmb08lGonHVlgq3B) | [Kawitaning Sinawang](https://open.spotify.com/album/4bD96mWbnzDwzKh54n0Gul) | 6:30 | 2025-07-10 |  |
 | [Kawitaning Sinawang](https://open.spotify.com/track/6GR3uDM9hWSbaGQ97KrpMc) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Kawitaning Sinawang](https://open.spotify.com/album/75CwU627eV9RhtPNLxnm2d) | 5:00 | 2025-04-17 |  |
 | [KAWITANING SINAWANG](https://open.spotify.com/track/3EPFbJPrZXSgr2Wqk4KEVS) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KAWITANING SINAWANG](https://open.spotify.com/album/28xHCBbw0lfWN4E0S1TRlT) | 5:21 | 2025-05-30 |  |

@@ -2,9 +2,9 @@
 
 ### [Pop Frequency](https://open.spotify.com/playlist/37i9dQZF1DX1UnoGuyf388)
 
-> Pop music driving the current, every week\.  Cover: Amber Mark
+> Pop music driving the current, every week\.  Cover: Labrinth
 
-572 songs - 1 day 4 hr 40 min
+577 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Carat Cake](https://open.spotify.com/track/1lQUPc4TwyexiWSXDENSPb) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Carat Cake](https://open.spotify.com/album/5mXJe0iw9NXa06rDaKhjoi) | 2:21 | 2025-07-18 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-01-27 | 2023-03-25 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-31 | 2024-08-10 |
+| [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 | 2025-10-10 |  |
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-17 | 2023-03-18 |
 | [Chargie](https://open.spotify.com/track/2dMZ85dEpNRS9vc09DCYUG) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c), [Tom Moutchi](https://open.spotify.com/artist/1rJT69cIJUKBrww4AYkSd0) | [Chargie](https://open.spotify.com/album/30xtj4WyO2OqprFTy7ZKFq) | 2:53 | 2025-06-13 | 2025-09-13 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 | 2024-03-23 |
@@ -132,6 +133,7 @@
 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 | 2025-04-11 | 2025-05-28 |
 | [Don't Let Me Let You Go](https://open.spotify.com/track/1UfCol96gYdamSjGtJtg7p) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Don't Let Me Let You Go](https://open.spotify.com/album/2jWlfS0VBAOhiadMo0Dlgh) | 3:38 | 2024-02-16 | 2024-06-15 |
 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 | 2023-12-15 | 2024-06-01 |
+| [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 | 2025-10-10 |  |
 | [Don't Say No](https://open.spotify.com/track/3a9oWZ6mI5v3yGmcmVpcmu) | [Thalia Falcon](https://open.spotify.com/artist/7AsrMHlSAgnoCLSW723gYb) | [Don't Say No](https://open.spotify.com/album/3rliGA4cYKqMuzCKK819m2) | 3:00 | 2022-02-04 | 2023-01-28 |
 | [DONT TOUCH MY MONEY](https://open.spotify.com/track/2F6AKAUokqFmRCfZxXZuYH) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [Happy Trap](https://open.spotify.com/album/6vUvRaGRXMpZTU1ZFTsTUf) | 2:12 | 2022-02-25 | 2023-01-28 |
 | [Don’t Say Hello](https://open.spotify.com/track/1QA1MC6dwUMEHetHrURiYh) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Så mycket bättre 2023 – Tolkningarna](https://open.spotify.com/album/45NHM9m9QNrw0idyrLNSWY) | 2:38 | 2023-11-17 | 2024-04-19 |
@@ -345,6 +347,7 @@
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-08 | 2024-06-01 |
 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-08 | 2024-06-01 |
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2023-09-15 | 2024-06-01 |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-10 |  |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-04-12 | 2024-06-29 |
 | [NASTY GIRL](https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem) | 3:52 | 2022-03-11 | 2023-01-28 |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-18 | 2022-03-05 |
@@ -375,6 +378,7 @@
 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 | 2022-02-04 | 2023-01-28 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-14 | 2024-12-07 |
 | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB) | 3:44 | 2023-06-30 | 2024-06-01 |
+| [Orchestra](https://open.spotify.com/track/418sG9q8N3xPn5iuYd9ddi) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Orchestra](https://open.spotify.com/album/2HiQlXVhSGSG5TjEtt3Lzb) | 2:54 | 2025-10-10 |  |
 | [Oscar Winning Tears.](https://open.spotify.com/track/2Jy3g1Qc0QWiUdy4kz97AO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Oscar Winning Tears.](https://open.spotify.com/album/4R2xHkqfOJ0zm6whoBppIf) | 2:56 | 2024-11-25 | 2025-05-28 |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2025-01-27 | 2025-02-01 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2024-06-01 |
@@ -516,6 +520,7 @@
 | [thought it was \(feat\. Machine Gun Kelly & Travis Barker\)](https://open.spotify.com/track/2MAizO4FEzoB7BzFCdshkE) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [on to better things](https://open.spotify.com/album/0sb3OPjnOZEgWrAhwSyGJc) | 2:52 | 2022-02-04 | 2023-01-28 |
 | [Time & It's Order](https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Time & It's Order](https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV) | 2:15 | 2022-02-04 | 2023-01-28 |
 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-03-25 | 2023-01-28 |
+| [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 | 2025-10-10 |  |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-08 | 2025-06-28 |
 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 | 2025-09-19 |  |
 | [Too Strange for the Circus](https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Too Strange for the Circus](https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4) | 3:11 | 2023-10-27 | 2024-04-17 |

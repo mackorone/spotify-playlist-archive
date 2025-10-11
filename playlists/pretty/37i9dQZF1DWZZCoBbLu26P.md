@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,741 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,737 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 17 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 |
 | 18 | [Beyoncé](https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [Unapologetically](https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8) | 2:56 |
 | 19 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
-| 20 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
-| 21 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
+| 20 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
+| 21 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 22 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
 | 23 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 24 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 38 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 39 | [Looks \(feat\. Aquaria\)](https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX) | [Linux](https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Everybody Hates Linux](https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X) | 4:14 |
 | 40 | [AAA](https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [AAA](https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm) | 3:11 |
-| 41 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
-| 42 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
+| 41 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
+| 42 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
 | 43 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 44 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
 | 45 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |

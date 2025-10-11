@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Diogo Piçarra, Bandidos do Cante
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,988 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,046 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [](https://open.spotify.com/album/null) | 3:23 |
+| 1 | [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [D≡Z](https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne) | 3:23 |
 | 2 | [Casar É pra Esquecer](https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Casar É pra Esquecer](https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or) | 2:57 |
 | 3 | [Tu na Tua](https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Tu na Tua](https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO) | 2:48 |
 | 4 | [Porta 43](https://open.spotify.com/track/5AaxgkscZPjOR9kQr0QAUf) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Porta 43](https://open.spotify.com/album/50OKNeNLgVWU6VmiQ1zkeD) | 2:45 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 18 | [Tanto Tempo](https://open.spotify.com/track/003pENpxbAlWY7nMscpC05) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Tanto Tempo](https://open.spotify.com/album/2ItHTcdJBMsxn1q4zjf9Fr) | 3:45 |
 | 19 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 |
 | 20 | [Eu Vou Estar Aqui](https://open.spotify.com/track/7F1LSrJYxdVgc7VakwZLTI) | [Excesso](https://open.spotify.com/artist/0D7DHoP1NH76HwLb4pWFKW) | [Eu Vou Estar Aqui](https://open.spotify.com/album/0hSZS39PhwxqSMCTsdW8IS) | 2:43 |
-| 21 | [Track 6](https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [](https://open.spotify.com/album/null) | 0:00 |
+| 21 | [Viagem](https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [A Viagem](https://open.spotify.com/album/4IVB1cL3uZrOxyaMLsQzcR) | 3:09 |
 | 22 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 |
 | 23 | [Santa](https://open.spotify.com/track/2FgjjNgPHjlqsrAfooIQei) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Santa](https://open.spotify.com/album/6YhpLTkiukZuaBakQkdMfa) | 2:32 |
 | 24 | [casa](https://open.spotify.com/track/3UQ5rLaounAewIDVVEgStb) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [casa](https://open.spotify.com/album/3Q4U8Tl0939jvEWYBi2Zwn) | 3:26 |

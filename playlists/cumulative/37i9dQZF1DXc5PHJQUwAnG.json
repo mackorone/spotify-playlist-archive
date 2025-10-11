@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. El Bogueto en portada.",
+  "description": "Bienvenidx a la trampa mexa. Millonario en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 180923,
       "name": "$$$ mis l\u00e1grimas",
       "url": "https://open.spotify.com/track/5qj3yJlsxm8ChVxg3ws3AJ"
+    },
+    {
+      "album": {
+        "name": "100pre No (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7HI6QqEob3PwaT97S9xMO4"
+      },
+      "artists": [
+        {
+          "name": "VGLY",
+          "url": "https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215119,
+      "name": "100pre No (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/2qrLDGrPe7NtLlCKnn7tk8"
     },
     {
       "album": {
@@ -462,7 +484,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 146993,
       "name": "AMEX",
       "url": "https://open.spotify.com/track/56iR5OYqfrfcVTedbFQlzE"
@@ -1082,6 +1104,24 @@
       "duration_ms": 256413,
       "name": "Bonus Trap",
       "url": "https://open.spotify.com/track/7qt0PKcr4JKshKHiCLfW1W"
+    },
+    {
+      "album": {
+        "name": "ROMANTIKEO.COM",
+        "url": "https://open.spotify.com/album/0oZALNthlH922pMfDt70bN"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/0tr262YLE1Ne14rs0Q3AMW"
     },
     {
       "album": {
@@ -3613,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "GUATAUBA",
+        "url": "https://open.spotify.com/album/4zKOlDbLPBSHUZixfzRdqA"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "GUATAUBA",
+      "url": "https://open.spotify.com/track/6eeu4EUkzuApyO8tk8tepb"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/30lTs4ZOWHEuXrSh1qGWCg"
       },
@@ -4313,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "OMNI",
+        "url": "https://open.spotify.com/album/7DM14YL838M0SuNf2GKR99"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201506,
+      "name": "La Blindada",
+      "url": "https://open.spotify.com/track/20R5Q4VGBfDpsX51M6U0Jk"
+    },
+    {
+      "album": {
         "name": "La Fama",
         "url": "https://open.spotify.com/album/59bjTtQm9s90mlhWrEWEVb"
       },
@@ -4372,7 +4448,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 208153,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/1H2szeI6By2kjtCOhZl26m"
@@ -4394,7 +4470,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 155675,
       "name": "La Gama",
       "url": "https://open.spotify.com/track/4P11mDVAgbUrG60DLeiciD"
@@ -8440,7 +8516,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 116533,
       "name": "u think u know me",
       "url": "https://open.spotify.com/track/0ABppQLGNHTpi55QgbvlgE"

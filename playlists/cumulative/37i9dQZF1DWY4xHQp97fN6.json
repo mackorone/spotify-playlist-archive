@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "Mood: Turnt Cover: Travis Scott",
+  "description": "Mood: Turnt Cover: Don Toliver",
   "name": "Get Turnt",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 184624,
       "name": "Affirmations - Remix",
       "url": "https://open.spotify.com/track/29vJlClxzbMkWsZjnsmDCx"
@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 190010,
       "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
@@ -10000,7 +10000,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
@@ -15777,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "Putting Ya Dine",
+        "url": "https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179476,
+      "name": "Putting Ya Dine",
+      "url": "https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r"
+    },
+    {
+      "album": {
         "name": "Q-Pid",
         "url": "https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz"
       },
@@ -20230,6 +20248,28 @@
       "duration_ms": 240967,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135275,
+      "name": "TOXIC (with Skepta)",
+      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
     },
     {
       "album": {

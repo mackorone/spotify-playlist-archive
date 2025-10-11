@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 37620,
+  "num_followers": 37633,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACWT524TYOBv2W5E3w4nsme",
+  "snapshot_id": "aOb7AAAAAAD1V6z6qKkLOtOh6jXgW8nk",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind the Clock",
-        "url": "https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED"
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 237465,
-      "name": "Behind the Clock",
-      "url": "https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ"
+      "duration_ms": 186973,
+      "name": "Summer Shudder",
+      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+        "name": "Behind the Clock",
+        "url": "https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Summer Shudder",
-      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
+      "duration_ms": 237465,
+      "name": "Behind the Clock",
+      "url": "https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Medicate",
-      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
+      "duration_ms": 118866,
+      "name": "Sacrifice Theory",
+      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 118866,
-      "name": "Sacrifice Theory",
-      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
+      "duration_ms": 260760,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "17 Crimes",
-      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 186933,
       "name": "Ever And A Day",
       "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "17 Crimes",
+      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 127133,
-      "name": "Porphyria",
-      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 182133,
       "name": "Wester",
       "url": "https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 127133,
+      "name": "Porphyria",
+      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Malleus Maleficarum",
-      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 155333,
       "name": "The Nephilim",
       "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Malleus Maleficarum",
+      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
     },
     {
       "added_at": null,
@@ -651,54 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -724,9 +676,41 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 168573,
-      "name": "Exsanguination",
-      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 228440,
       "name": "Rabbits Are Roadkill On Rt. 37",
       "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "Exsanguination",
+      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 149906,
       "name": "Narrative Of Soul Against Soul",
       "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 72560,
-      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
-      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
     }
   ],
   "unique_name": "This Is AFI",

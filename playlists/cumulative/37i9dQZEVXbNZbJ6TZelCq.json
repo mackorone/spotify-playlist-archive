@@ -972,7 +972,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 149220,
       "name": "A la turca",
       "url": "https://open.spotify.com/track/3UD1yaINhRa0gV6kTSU26e"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -7255,6 +7255,28 @@
     },
     {
       "album": {
+        "name": "Ce Te-as Suna",
+        "url": "https://open.spotify.com/album/3ABAsh0MkHFdmZClm95xod"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Arianna",
+          "url": "https://open.spotify.com/artist/1lK9fcx3OxpVn9sBYWFHuv"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ce Te-as Suna",
+      "url": "https://open.spotify.com/track/2yKgHHs4dWDd69H0rK1lqN"
+    },
+    {
+      "album": {
         "name": "BANDO 3",
         "url": "https://open.spotify.com/album/07XMvIHjrlOH9zYUtqpL8L"
       },
@@ -8686,7 +8708,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -11430,7 +11452,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
@@ -12796,7 +12818,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3"
@@ -15502,7 +15524,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -15796,7 +15818,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 197481,
       "name": "GENTLEMAN",
       "url": "https://open.spotify.com/track/1Tx80ydwLcig0Nerf1yyIA"
@@ -21152,7 +21174,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -23728,7 +23750,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -24322,7 +24344,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 182452,
       "name": "Marae",
       "url": "https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0"
@@ -24804,7 +24826,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
@@ -27812,7 +27834,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 167333,
       "name": "NUMAI FEMEI",
       "url": "https://open.spotify.com/track/3yLZ0xg3XoEwnl773q9Ymc"
@@ -28798,7 +28820,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 235356,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/67osB3wmJVTFzKhWqPb1Hm"
@@ -29276,7 +29298,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "OVO",
       "url": "https://open.spotify.com/track/5AnyhJ6zkHLL5Lbtct2BCI"
@@ -29660,7 +29682,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 211063,
       "name": "paradyse",
       "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
@@ -32638,7 +32660,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 160000,
       "name": "Regele - From Buzz House: The Movie 2",
       "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
@@ -38253,6 +38275,24 @@
     },
     {
       "album": {
+        "name": "sWaGGG 2026",
+        "url": "https://open.spotify.com/album/1iMYKNPzzssw4dgbrBqj1K"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "sWaGGG 2026",
+      "url": "https://open.spotify.com/track/40ccVyw9i4jHkOXeMqLvzZ"
+    },
+    {
+      "album": {
         "name": "Centaur",
         "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
       },
@@ -42422,7 +42462,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 173679,
       "name": "Vara-i vara",
       "url": "https://open.spotify.com/track/77IZ7M02qCR7D6PDITwHi5"
@@ -42906,7 +42946,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 217099,
       "name": "VIZZZCOL",
       "url": "https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly"
@@ -43136,7 +43176,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"

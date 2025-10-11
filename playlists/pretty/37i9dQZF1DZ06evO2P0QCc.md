@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,550 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,571 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 13 | [Brindo por ti](https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Amar o Morir](https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u) | 4:12 |
 | 14 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
 | 15 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
-| 16 | [Inspiracional](https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:56 |
-| 17 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
+| 16 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
+| 17 | [Inspiracional](https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:56 |
 | 18 | [Las Tijeras](https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:05 |
 | 19 | [Deja Ya De Mentir \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/5mOsvFJvqMUohlPperHALl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Deja Ya De Mentir \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/7i1vAGc0dDsVWxMZAEZiEa) | 3:57 |
 | 20 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 24 | [Busco Amor](https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Busco Amor](https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw) | 3:42 |
 | 25 | [Tengo Un Amor](https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [A La Larga Te Acostumbras](https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM) | 3:06 |
 | 26 | [Serpientes Y Escaleras](https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:34 |
-| 27 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
-| 28 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
+| 27 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
+| 28 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
 | 29 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 |
 | 30 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/6brCxBTjUc5sS1wvRr8wKG) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
 | 31 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | ["Lamba Do Ska" \(Llorando Se Fue\)](https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:48 |
 | 50 | [Desatinos](https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:59 |
 
-Snapshot ID: `aOWpgAAAAAAObjbQXfeBCkhg1fEl+ERu`
+Snapshot ID: `aOb7AAAAAADDTBjF2h41fcvTCAIV1Ya/`

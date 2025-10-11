@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 248495,
+  "num_followers": 248526,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAECkK61twp8THF8fKmj+tr",
+  "snapshot_id": "aOb7AAAAAABYJFAT4c51WcpSdxGGsDn/",
   "tracks": [
     {
       "added_at": null,
@@ -915,30 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Naranja a Morado",
-      "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
       },
@@ -979,6 +955,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Naranja a Morado",
+      "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -999,30 +999,6 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Vela al Pastel",
-        "url": "https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 284500,
-      "name": "Otra Vela al Pastel",
-      "url": "https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK"
     },
     {
       "added_at": null,
@@ -1051,6 +1027,30 @@
       "duration_ms": 241000,
       "name": "En Lo Malo Me Va Bien",
       "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vela al Pastel",
+        "url": "https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 284500,
+      "name": "Otra Vela al Pastel",
+      "url": "https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK"
     },
     {
       "added_at": null,

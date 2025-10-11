@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: Hearts2Hearts\)
+> Future K\-Pop hits! \(Cover: BABYMONSTER\)
 
-1,452 songs - 3 day 6 hr 10 min
+1,453 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,7 +862,7 @@
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-01-11 | 2021-03-18 |
 | [My Turn](https://open.spotify.com/track/3uO9uv6y5eAJrkQzkHqVnM) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: BE OUR VOICE \- SEASON 3.](https://open.spotify.com/album/7151PzsDeTLtjDvqVyOj3m) | 3:33 | 2021-01-21 | 2021-03-01 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-15 | 2024-11-08 |
-| [N the Front](https://open.spotify.com/track/7cVVkfA2Bk6fpWu2wbievO) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/3BUEab50RO1tf709W4EMcL) | 3:00 | 2025-09-01 |  |
+| [N the Front](https://open.spotify.com/track/7cVVkfA2Bk6fpWu2wbievO) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/3BUEab50RO1tf709W4EMcL) | 3:00 | 2025-09-01 | 2025-10-11 |
 | [N.Y.C.T](https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [N.Y.C.T \- NCT LAB](https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ) | 3:56 | 2023-09-07 | 2023-10-21 |
 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 | 2022-07-25 | 2022-09-25 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-17 | 2023-03-16 |
@@ -1365,6 +1365,7 @@
 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-20 | 2024-05-02 |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-14 | 2023-01-14 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-05-20 | 2021-08-11 |
+| [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 | 2025-10-10 |  |
 | [We Ride](https://open.spotify.com/track/6kH1sKkvgN4Yikake52glq) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [We Ride](https://open.spotify.com/album/3iBrnwcIhtRrpRXirqxx8W) | 3:09 | 2020-10-13\* | 2020-11-05 |
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2021-06-25 | 2021-09-07 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-03-03 |

@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren at the VMAs
 
-187 songs - 10 hr 25 min
+188 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Healing](https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Healing](https://open.spotify.com/album/3lcnhk95qdnXkvcGeVuKXo) | 5:03 | 2025-02-24 |  |
 | [Hear My Voice](https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Hear My Voice](https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49) | 2:31 | 2025-03-28 | 2025-09-27 |
 | [HEARTLAND](https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND](https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh) | 4:04 | 2025-08-01 |  |
+| [Heaven \(Butterflies\)](https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [The Light For Days](https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta) | 4:57 | 2025-10-10 |  |
 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 | 2025-03-07 | 2025-08-30 |
 | [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 | 2023-08-16 | 2024-01-06 |
 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 | 2024-02-09 |  |
@@ -124,7 +125,7 @@
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2023-01-04 | 2023-05-01 |
 | [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-02-28 | 2025-09-27 |
 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 | 2025-08-08 |  |
-| [Okay](https://open.spotify.com/track/7dGIcbzKo3vZp2lFtaGeTC) | [Melanie Pfirrman](https://open.spotify.com/artist/0uioawxHyc6pgvbUCq510I) | [Okay](https://open.spotify.com/album/66Cm2VZZyWgLigTw9XvYqu) | 2:58 | 2024-11-11 |  |
+| [Okay](https://open.spotify.com/track/7dGIcbzKo3vZp2lFtaGeTC) | [Melanie Pfirrman](https://open.spotify.com/artist/0uioawxHyc6pgvbUCq510I) | [Okay](https://open.spotify.com/album/66Cm2VZZyWgLigTw9XvYqu) | 2:58 | 2024-11-11 | 2025-10-11 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2023-01-04 | 2025-03-22 |
 | [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-08-25 | 2023-09-23 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-07 |  |

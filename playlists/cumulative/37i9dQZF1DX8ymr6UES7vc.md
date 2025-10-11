@@ -4,7 +4,7 @@
 
 > Simply rain
 
-357 songs - 16 hr 25 min
+358 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 | 2021-11-08 |  |
 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2022-11-16 | 2025-10-08 |
 | [Hybrid Clouds](https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q) | [Vapourse](https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW) | [Enjoy The Sky](https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf) | 1:55 | 2021-11-08 | 2023-06-17 |
-| [in love with the sound of rain](https://open.spotify.com/track/74HrNfXAGVqeZwecmBPyl7) | [Sweet Nature](https://open.spotify.com/artist/61YIe67dmQ4BisRP0t40Tl) | [Relaxing Rain](https://open.spotify.com/album/66dp9VeQUqBNtZLk7L8m52) | 2:28 | 2022-11-16 |  |
+| [in love with the sound of rain](https://open.spotify.com/track/74HrNfXAGVqeZwecmBPyl7) | [Sweet Nature](https://open.spotify.com/artist/61YIe67dmQ4BisRP0t40Tl) | [Relaxing Rain](https://open.spotify.com/album/66dp9VeQUqBNtZLk7L8m52) | 2:28 | 2022-11-16 | 2025-10-11 |
 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 | 2021-11-08 |  |
 | [In The Spring](https://open.spotify.com/track/5T8Nx9uWYe5uqGGUygt657) | [Liquidge](https://open.spotify.com/artist/44CkWXtsMCZodXHR6EDFvP) | [Lifting Air](https://open.spotify.com/album/5LSCejKgU0qOmu0FWxquED) | 2:18 | 2021-11-08 |  |
 | [Infinity Drops](https://open.spotify.com/track/3X9pFeZuH3o1IcNSIFblfw) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Rain Sounds For Insomnia](https://open.spotify.com/album/0hhEtLrqoFfTleIsxfSdHY) | 2:42 | 2021-11-08 |  |
@@ -261,7 +261,7 @@
 | [Rainy Days And Nights](https://open.spotify.com/track/6959xpROqdTcoiJpBbggph) | [Gentle Rain Club](https://open.spotify.com/artist/20Hv6OBHRER1l2y39XBGwX) | [Rainy Days And Nights](https://open.spotify.com/album/7CeONlBqdU8daBc0E2Wvly) | 1:53 | 2022-11-16 | 2023-06-17 |
 | [Rainy Forest Noise for Sleep](https://open.spotify.com/track/4ukOUQt2EgREvdLVCEiNmb) | [Majestic Waters](https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk) | [Green Noise Elements](https://open.spotify.com/album/0rfnM3fcNzAvv0bqMv2K1k) | 3:05 | 2023-02-13 | 2025-02-28 |
 | [Rainy Hour](https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Tears](https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh) | 2:35 | 2021-11-08 |  |
-| [Rainy Mood](https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI) | [Sleepy Mood](https://open.spotify.com/artist/3HkwYBXLxmRKfWOkaknVQ7) | [Universe](https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs) | 2:26 | 2021-11-08 |  |
+| [Rainy Mood](https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI) | [Moonlit Mist](https://open.spotify.com/artist/3YJDaoUrlFG52YpVFJiTGU) | [Universe](https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs) | 2:26 | 2021-11-08 |  |
 | [Rainy Morning Bliss: Embrace the Serenity](https://open.spotify.com/track/3nlaLF8W0wa9o3Qy3wQf5b) | [Regendans](https://open.spotify.com/artist/1E2RM3DEqGzR4ZX6cyHVY3) | [Rainy Morning Bliss: Embrace the Serenity](https://open.spotify.com/album/2yOfbqigb763U27XDIp9Qh) | 2:28 | 2023-06-16 |  |
 | [Rainy Morning Meditation](https://open.spotify.com/track/10QgYXievL4gdmwUYd8H1Z) | [It Will Make Me Whole](https://open.spotify.com/artist/4vvAo11thaqXmQVnxJihn7) | [Water](https://open.spotify.com/album/49bI9Yo48BymJ8bwMr5tqg) | 2:06 | 2021-11-08 |  |
 | [Rainy Mornings](https://open.spotify.com/track/65i10BbqAMPSQmyc4J8TKT) | [Forest FX Smith](https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq) | [Rainy Mornings](https://open.spotify.com/album/7g1No7q1YY0xckgQRkpRRT) | 2:00 | 2021-11-08 |  |
@@ -340,6 +340,7 @@
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2021-11-08 |  |
 | [The Gentle Rains Of Summer](https://open.spotify.com/track/3FVvaFKKyjafGHkwzj73o4) | [Mississippi Nature Recording Society](https://open.spotify.com/artist/3JuC7m69FBuJpCuRLt6HLo) | [Mississippi Rain](https://open.spotify.com/album/3FAYpeYN8lseVewV0dvboL) | 3:24 | 2022-11-16 | 2024-03-23 |
 | [The Nimbus Part Four](https://open.spotify.com/track/7qRzGy11S8qSinKHXbFAVx) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part Four](https://open.spotify.com/album/58f3l3acutVm5ZXbLw95pP) | 2:59 | 2025-07-24 |  |
+| [The Nimbus Part Three](https://open.spotify.com/track/6s4Hxka2TxYODfpFGFTKP3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part Three](https://open.spotify.com/album/3fZagw2YBbkZJ5geGPH5eu) | 2:44 | 2025-09-23 |  |
 | [The Noise Generator](https://open.spotify.com/track/5qnmkmUZl9IN12jjqmCjcP) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:58 | 2021-11-08 |  |
 | [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 | 2021-11-08 |  |
 | [There Is Always Tomorrow](https://open.spotify.com/track/5w2MqEtJPba4bMvVn7wtkh) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 1:48 | 2021-11-08 | 2023-06-17 |

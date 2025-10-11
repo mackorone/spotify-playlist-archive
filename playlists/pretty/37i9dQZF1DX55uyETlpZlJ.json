@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAy29g84B8ZKxGvtHq6pqx4qf1T4",
+  "snapshot_id": "AAAAAO2Z/pbJG8WZgids6bPub9O9j30B",
   "tracks": [
     {
       "added_at": "2025-07-14 10:28:53",
@@ -83,6 +83,30 @@
       "duration_ms": 161629,
       "name": "Shooters",
       "url": "https://open.spotify.com/track/5MrPRW711LRR69yGCZ36DS"
+    },
+    {
+      "added_at": "2025-10-10 16:19:26",
+      "album": {
+        "name": "Eduralli Neenu",
+        "url": "https://open.spotify.com/album/4khrp8pvpQqQjQjcmQH4Up"
+      },
+      "artists": [
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        },
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        },
+        {
+          "name": "Sai Sarvesh",
+          "url": "https://open.spotify.com/artist/0kJH0vVsNOyRSISjHfszWf"
+        }
+      ],
+      "duration_ms": 205782,
+      "name": "Eduralli Neenu",
+      "url": "https://open.spotify.com/track/3MiD5s6E09yxgZfv09ayT0"
     },
     {
       "added_at": "2025-10-09 11:01:57",

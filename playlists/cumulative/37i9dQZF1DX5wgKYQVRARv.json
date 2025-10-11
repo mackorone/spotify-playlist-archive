@@ -4259,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1fXw2enARWsT5TnLyEOFn5"
+      },
+      "artists": [
+        {
+          "name": "BLACKSHAPE",
+          "url": "https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309448,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4WJTFDW2Z1PY3H88uBB540"
+    },
+    {
+      "album": {
         "name": "Falling From The Sun",
         "url": "https://open.spotify.com/album/40ntvNTAvm28t3HpgTAVSY"
       },
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 216850,
       "name": "Gluttony",
       "url": "https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa"
@@ -7772,7 +7790,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 208485,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8"
@@ -13451,6 +13469,24 @@
     },
     {
       "album": {
+        "name": "The Wounds We Share",
+        "url": "https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V"
+      },
+      "artists": [
+        {
+          "name": "A Sense of Purpose",
+          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "The Wounds We Share",
+      "url": "https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28"
+    },
+    {
+      "album": {
         "name": "Vernedering - Connect the Goddamn Dots",
         "url": "https://open.spotify.com/album/7CIafEi4HSEMjLPhOgeXGD"
       },
@@ -13466,6 +13502,24 @@
       "duration_ms": 468778,
       "name": "They Drew First Blood",
       "url": "https://open.spotify.com/track/69tvPkBYldOqUGkLY2QxVP"
+    },
+    {
+      "album": {
+        "name": "Third Shot",
+        "url": "https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Third Shot",
+      "url": "https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T"
     },
     {
       "album": {
@@ -14244,7 +14298,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 577506,
       "name": "Vitrun",
       "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"

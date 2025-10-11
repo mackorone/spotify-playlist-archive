@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-145 songs - 7 hr 44 min
+146 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 | 2023-09-26 | 2024-04-19 |
 | [Flowers \(Demo\)](https://open.spotify.com/track/3MnewZrZDqej6thgEx3OB1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:30 | 2023-03-09 |  |
 | [Following the Sun \- Acoustic](https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:37 | 2022-12-21 | 2024-04-13 |
-| [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0) | 3:27 | 2022-12-21 |  |
+| [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0) | 3:27 | 2022-12-21 | 2025-10-11 |
 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3fHvOiVB4KfakM0Iaw3u2D) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/69REZAzvlxLHqPYGrH7wr4) | 3:27 | 2023-05-23 | 2024-04-19 |
 | [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-11 | 2025-08-29 |
 | [Freed from Desire \(Acoustic Version\)](https://open.spotify.com/track/50C5YxTknuct7YpC4WXmAG) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Un homme à la hauteur \(Bande originale du film\)](https://open.spotify.com/album/1Zj9cDigNQ85AEcXv0asXj) | 3:06 | 2022-12-21 | 2023-11-21 |
@@ -146,6 +146,7 @@
 | [Training Season \- Acoustic Version](https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season \(Acoustic Version\)](https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy) | 3:56 | 2024-03-22 |  |
 | [Trying \- Live Version](https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Trying \(Live Version\)](https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ) | 2:06 | 2023-12-22 | 2024-04-13 |
 | [Unwritten \(Acoustic\)](https://open.spotify.com/track/1asIbRzmsjHJtGxGm0Euxm) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten \(Acoustic\)](https://open.spotify.com/album/5IgXJH8tVqL41YPoAKQnNN) | 3:58 | 2024-04-12 | 2024-08-23 |
+| [Vaitimbora \- Acoustic](https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora \(Acoustic\)](https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL) | 1:54 | 2025-10-10 |  |
 | [Wasted Love \(feat\. Lagique\) \- Acoustic](https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\) \[Acoustic\]](https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js) | 2:07 | 2022-12-21 | 2023-12-23 |
 | [We Can’t Be Friends](https://open.spotify.com/track/057OYWy4YPKYh5xp9sA81I) | [Travis Atreo](https://open.spotify.com/artist/58xmt13Xf7RsThzGOM1aKh) | [We Can’t Be Friends](https://open.spotify.com/album/59hpa02KHG4VPZB7VrVFVl) | 3:10 | 2025-03-27 | 2025-04-18 |
 | [Whatever \(with Ava Max\) \- Acoustic](https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 3:45 | 2024-03-28 |  |

@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-148 songs - 7 hr 32 min
+149 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 | 2023-09-15 | 2024-05-01 |
 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/0cDwUAF7yQrOLRcFfJpSc2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Zero \(From the Original Motion Picture "Ralph Breaks The Internet"\)](https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq) | 3:30 | 2023-09-15 |  |
 | [Zero To Hero](https://open.spotify.com/track/4zDfgax6Ihb0UWdour1ZEs) | [Chorus \- Hercules](https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Roz Ryan](https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Tawatha Agee](https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 2:20 | 2023-09-15 |  |
+| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-10-10 |  |
 | [¿Dónde Lo Habré Puesto?/Bíbbidi\-Bábbidi\-Bu](https://open.spotify.com/track/16zRwu3cbIqGtSJY249y3J) | [Norma Herrera](https://open.spotify.com/artist/0qm5UaAJIQeGpBekAa3ApA) | [La Cenicienta \(Banda Sonora Original en Español\)](https://open.spotify.com/album/3T3oHdX6EzhQ3YTOjpsnek) | 4:48 | 2023-09-15 | 2023-12-07 |
 | [¿Y así van a agradecer?](https://open.spotify.com/track/5Jk0nculuFLEoYICvby4zD) | [Pepe Vilchis](https://open.spotify.com/artist/78lQS3nl34iuoGN8zs7KMi) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 3:14 | 2023-12-06 | 2024-09-12 |
 | [¿Y así van a agradecer? \- De "Wish: El Poder de los Deseos"](https://open.spotify.com/track/5M9zwd58rRXEHOeUxJMEKY) | [Pepe Vilchis](https://open.spotify.com/artist/78lQS3nl34iuoGN8zs7KMi) | [¿Y así van a agradecer? \(De "Wish: El Poder de los Deseos"\)](https://open.spotify.com/album/1Ej6XOxuPrC9uQ6ia9GQci) | 3:14 | 2023-11-15 | 2023-12-07 |

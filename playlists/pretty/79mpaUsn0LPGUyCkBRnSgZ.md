@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 592 songs - 1 day 14 hr 48 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 594 songs - 1 day 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -600,5 +600,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 590 | [Anything](https://open.spotify.com/track/4NBMaIRzUTUUKWivAJGZ9d) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Able Bodies](https://open.spotify.com/album/7E6ctLR5KdMHeM3Y83BbYw) | 4:02 |
 | 591 | [It's Time](https://open.spotify.com/track/3bBG39XoMuvgrmNYq5QPua) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:05 |
 | 592 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 |
+| 593 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
+| 594 | [One Tiny Flower](https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 6:20 |
 
-Snapshot ID: `AAAH09bZeGp/sfd1+wEDBCZbjcm6gagv`
+Snapshot ID: `AAAH1bOyqcHbXjI7OoPqJkpECya5lahL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,086 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,260 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 63 | [Flood](https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:47 |
 | 64 | [Sunshine](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Sunshine](https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF) | 2:57 |
 | 65 | [Poor Business Man](https://open.spotify.com/track/3LfxeB0bMo2fcJCmdHib5f) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/5jgRsnXzQCf4XV6Kkr1VDh) | 3:30 |
-| 66 | [Lately](https://open.spotify.com/track/3kNUXtmCEA1v6gD6ze7uHo) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ), [Cheap Cuts](https://open.spotify.com/artist/2el2xI4E9IqiwhRJr2OJqu) | [Lately](https://open.spotify.com/album/1JRLSWttBgcXh3qbGcqBP0) | 5:37 |
+| 66 | [Lately](https://open.spotify.com/track/3kNUXtmCEA1v6gD6ze7uHo) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ), [cheapcuts](https://open.spotify.com/artist/2el2xI4E9IqiwhRJr2OJqu) | [Lately](https://open.spotify.com/album/1JRLSWttBgcXh3qbGcqBP0) | 5:37 |
 | 67 | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5) | 2:49 |
 | 68 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 69 | [There’s No More Underground](https://open.spotify.com/track/3FRVbgqA7pVAJ0VBnXsrIK) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [There’s No More Underground](https://open.spotify.com/album/5euflJlUQaylKswQycK6oS) | 2:14 |

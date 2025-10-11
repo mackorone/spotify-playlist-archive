@@ -2,9 +2,9 @@
 
 ### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
 
-> A mix of the best modern Deathcore tracks\. Cover: Fit For An Autopsy
+> A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-734 songs - 1 day 23 hr 5 min
+736 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-06-10 |  |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2021-12-17 | 2022-07-24 |
 | [No God Before Me](https://open.spotify.com/track/0cRiu6YjEtqPT9wP1sccgp) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [No God Before Me](https://open.spotify.com/album/4AmcfUASTUw6kSt0PvvFlu) | 5:45 | 2022-09-09 | 2025-03-15 |
-| [No One's Above](https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [No One's Above](https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH) | 3:33 | 2021-12-17 |  |
+| [No One's Above](https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [No One's Above](https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH) | 3:33 | 2021-12-17 | 2025-10-11 |
 | [No Rest](https://open.spotify.com/track/31GDLqmnlvXCH3qUrCXiMt) | [Honest Crooks](https://open.spotify.com/artist/1FfmZ9XUvmJO0VRqqBbhvz) | [No Rest](https://open.spotify.com/album/6zX619hHYrnkHHn54gBJ9g) | 3:49 | 2021-12-31 | 2022-07-28 |
 | [NO REVIVES](https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [FEED](https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4) | 3:26 | 2025-01-23 |  |
 | [No Time To Suffer](https://open.spotify.com/track/3a4afK7qfkQyhZbjxHHuXE) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [No Time To Suffer](https://open.spotify.com/album/0cIFoaXSemx7TYiqC6EI9n) | 3:55 | 2022-01-21 | 2022-07-28 |
@@ -635,6 +635,7 @@
 | [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-23 |  |
 | [THE FINAL GATE](https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [THE FINAL GATE](https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N) | 3:04 | 2025-08-22 | 2025-10-09 |
 | [The Gallow](https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Gallow](https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1) | 4:58 | 2023-12-13 | 2024-10-19 |
+| [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/track/2owXgJfvIVH29Nsz2b1ETa) | [Blindfolded and Led to the Woods](https://open.spotify.com/artist/4yBKoaWwA9iMFSdNd26G9C) | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/album/3nDaZvMPDBa3ZKtx60mISJ) | 4:12 | 2025-10-10 |  |
 | [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 |  |
 | [The Killing Womb](https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/1J1Alzur5kRYahOsgqCqCh) | 2:32 | 2022-01-07 | 2022-06-12 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2021-12-17 | 2022-07-25 |
@@ -644,7 +645,7 @@
 | [The Offering](https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [The Offering](https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz) | 3:59 | 2021-12-17 | 2024-08-24 |
 | [The Orphan](https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Orphan](https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62) | 6:23 | 2022-03-11 |  |
 | [The Poet](https://open.spotify.com/track/2wAFB65YDdAOIHIPkv0dID) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Martyr](https://open.spotify.com/album/6eYkizhHQml77mtN09vADR) | 3:11 | 2025-04-25 | 2025-06-28 |
-| [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 |  |
+| [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 | 2025-10-11 |
 | [The Price of Pain](https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [The Price of Pain](https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75) | 3:40 | 2024-08-23 | 2025-05-03 |
 | [The Reaper’s Servant](https://open.spotify.com/track/4VthhRk10PmO4INu1pPo3X) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Darius Tehrani](https://open.spotify.com/artist/6zgEcx3Zls6xVzT6lG2vH1) | [The Reaper’s Servant](https://open.spotify.com/album/64TpwPQttjjNVA4SjBGFaF) | 4:55 | 2023-12-13 | 2024-01-31 |
 | [The Reaper’s Servant](https://open.spotify.com/track/6tt1I3KMJCLjKw4gTBoXHH) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Darius Tehrani](https://open.spotify.com/artist/6zgEcx3Zls6xVzT6lG2vH1) | [The Reaper’s Servant](https://open.spotify.com/album/5rfTMvJNvJyPdzxdyXfag8) | 4:55 | 2023-12-13 | 2023-12-24 |
@@ -662,6 +663,7 @@
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2021-12-17 | 2022-07-28 |
 | [The Wretched King and his Hollow Throne](https://open.spotify.com/track/04fyBcct3BHl12xoctDxzH) | [Synestia](https://open.spotify.com/artist/5q6QQFwE4elu0q1HA10HTb) | [Premonitions](https://open.spotify.com/album/3AbL2Y4cGSi3ntGQUO4si4) | 3:55 | 2025-09-05 |  |
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-05-06 | 2023-02-11 |
+| [This Comfort Won't Last Here Long](https://open.spotify.com/track/56pPQvmNAYvUX0g4lSq8o6) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [This Comfort Won't Last Here Long](https://open.spotify.com/album/4npRWIZv6AQYuI0HkPUU4L) | 2:01 | 2025-10-10 |  |
 | [Thoughts and Prayers](https://open.spotify.com/track/6r3pdm90oqbqKm4laY8a5y) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth And Sacrifice](https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36) | 4:58 | 2021-12-17 |  |
 | [Tide](https://open.spotify.com/track/1JxDVoe1mLYiFd2fLKv1cJ) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Tide](https://open.spotify.com/album/61zOmJrotgjaXpd9i82i3a) | 5:08 | 2021-12-17 | 2024-08-24 |
 | [Time's Up.](https://open.spotify.com/track/3JVQlolBhjkObQxqKvpX7y) | [Inventure](https://open.spotify.com/artist/4QvznpkSKdSAdbmJVfk9mS) | [Time's Up.](https://open.spotify.com/album/3JaMHKM4va22WLqzWV8AiL) | 3:22 | 2022-01-28 | 2022-04-28 |

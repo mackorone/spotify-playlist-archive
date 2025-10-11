@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,888 likes - 46 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,899 likes - 46 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 45 | [Missing You](https://open.spotify.com/track/1KxYfIiCW0YlquoWzKxiLR) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Brap Music](https://open.spotify.com/album/2lSAYhfgL4uzYGkna46tmy) | 2:21 |
 | 46 | [TOMIWA](https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [TOMIWA](https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx) | 3:04 |
 
-Snapshot ID: `aOWpgAAAAABRxV6VymzKwPVR0ggmPjl3`
+Snapshot ID: `aOb7AAAAAACmc19BDfRfq8FoFMDVTYdT`

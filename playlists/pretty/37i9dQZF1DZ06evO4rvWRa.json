@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640442,
+  "num_followers": 1640443,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADwQ+PurAM5HgESavnSU+RX",
+  "snapshot_id": "aOb7AAAAAACbm0O9yFFSy2KOfHjd31CJ",
   "tracks": [
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 189391,
       "name": "Heart over Mind",
       "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": null,

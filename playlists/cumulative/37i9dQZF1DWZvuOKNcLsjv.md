@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: 5 Seconds of Summer
 
-4,974 songs - 11 day 23 hr 41 min
+4,975 songs - 11 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2174,6 +2174,7 @@
 | [Mayday](https://open.spotify.com/track/5O3lSXaXBNGIatqk0DRAoU) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Mayday](https://open.spotify.com/album/2mUUFQu3TYWUyoV2nRz0Rh) | 3:54 | 2023-07-02 | 2023-07-10 |
 | [McDonald no coffee](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [McDonald no coffee](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 | 2023-09-24 | 2023-10-02 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-20 | 2024-06-28 |
+| [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 | 2025-10-09 |  |
 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 | 2023-12-24 | 2024-01-08 |
 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 | 2025-05-08 | 2025-07-11 |
 | [Melody](https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Bouquet](https://open.spotify.com/album/4w5XnMaC67Apk06K1eDd7s) | 3:46 | 2023-06-11 | 2023-07-10 |
@@ -2338,7 +2339,7 @@
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-05-14 | 2023-05-23 |
 | [NA](https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:43 | 2024-09-26 | 2024-10-04 |
 | [Na no Nai Heart](https://open.spotify.com/track/4XT4qGkIp0lFZ6QdMS3nmt) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hoshi no Furu Hi ni](https://open.spotify.com/album/79wMorLtDSF1ivVlG5Q95B) | 4:08 | 2023-11-26 | 2023-12-04 |
-| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-09 |  |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-09 |  |
 | [Naitokeba Yokatta](https://open.spotify.com/track/3peHF4gr5QvwgeAoM3ElXp) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Naitokeba Yokatta](https://open.spotify.com/album/3zJcDgm5S3uY5Aj3Ed6LFZ) | 3:01 | 2023-10-01 | 2023-10-09 |
 | [Name of Life](https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Studio Ghibli Tribute Album "Ghibli o Utau"](https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA) | 4:29 | 2023-11-17 | 2023-12-04 |
 | [NAMUABIDABUTSU](https://open.spotify.com/track/4Ut51OA7TQws6H317lKNL7) | [TSUBAKI](https://open.spotify.com/artist/4JYzhKm64vGTGyOXq0qw4l) | [NAMUABIDABUTSU](https://open.spotify.com/album/7mdjhXD3lrQN53elroaBL4) | 3:27 | 2025-02-20 | 2025-03-14 |

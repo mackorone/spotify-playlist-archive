@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Markus Krunegård.
 
-939 songs - 2 day 5 hr 59 min
+939 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-03 |  |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 | 2025-06-20 |
 | [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 | 2024-06-27 | 2024-08-16 |
+| [Ge mig en till](https://open.spotify.com/track/31b0S2vTiOwQQrHh5IZWMQ) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Pojken utan namn](https://open.spotify.com/album/5DNBJBbqdaBwEfxvVABDar) | 3:05 | 2025-10-09 |  |
 | [Gemini](https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/28hLStD389vh57mwsDykXg) | 4:45 | 2024-09-26 | 2024-11-15 |
 | [Gemini](https://open.spotify.com/track/7sWJH0BFbKtV81TWb82lke) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Gemini](https://open.spotify.com/album/7I7f1XESFbZbMvURZ3h7k9) | 4:44 | 2024-12-05 | 2025-02-28 |
 | [Genom fönstret](https://open.spotify.com/track/5T2bci9dgfrbAQbfGQSpIs) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Genom fönstret](https://open.spotify.com/album/2lOqaKFCUqHVwaJdN9rd4k) | 3:16 | 2024-10-17 | 2025-02-28 |
@@ -402,6 +403,7 @@
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-13 | 2025-05-16 |
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-03 | 2024-12-06 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 | 2025-01-17 |
+| [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 | 2025-10-09 |  |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-04-10 | 2025-07-25 |
 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-30 | 2025-04-18 |
 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 | 2024-08-01 | 2024-09-13 |
@@ -851,8 +853,6 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 4](https://open.spotify.com/track/31b0S2vTiOwQQrHh5IZWMQ) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
-| [Track 6](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
 | [trash paradise, moonlight](https://open.spotify.com/track/1T906XVun8dtijlUmrE4E0) | [haisonne](https://open.spotify.com/artist/0SGm5nFXYtiL33xIJTW7jZ) | [trash paradise, moonlight](https://open.spotify.com/album/29T2Ys3uewbbuMva3CbCsw) | 3:40 | 2024-06-27 | 2024-08-09 |

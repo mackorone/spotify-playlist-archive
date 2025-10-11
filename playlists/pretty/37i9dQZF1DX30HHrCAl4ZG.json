@@ -1,28 +1,80 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Geese",
-  "num_followers": 813695,
+  "num_followers": 813669,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyPh8morzMlb9H/2fXaLVvlEgT2",
+  "snapshot_id": "AAAAAJziubC7JuXuT98ztpazwDDREmlI",
   "tracks": [
     {
-      "added_at": "2025-09-26 04:00:11",
+      "added_at": "2025-10-10 04:00:43",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+        "name": "Past Lives",
+        "url": "https://open.spotify.com/album/5xYi9SNcnF8kvwhIhsx6nf"
       },
       "artists": [
         {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 185152,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+      "duration_ms": 177283,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Back Of My Hand",
+        "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Back Of My Hand",
+      "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Don't Throw Rocks",
+        "url": "https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Don't Throw Rocks",
+      "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/3P2D97NRx24dlAdvNTnpyb"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "Thick as Thieves",
+      "url": "https://open.spotify.com/track/3fUkyKve4MZjoxYM0GqJ53"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -39,6 +91,86 @@
       "duration_ms": 218191,
       "name": "Cross Your Heart",
       "url": "https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA"
+    },
+    {
+      "added_at": "2025-09-19 04:00:29",
+      "album": {
+        "name": "Bleeds",
+        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Townies",
+      "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
+    },
+    {
+      "added_at": "2025-09-26 04:00:11",
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Au Pays du Cocaine",
+      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -73,6 +205,22 @@
       "url": "https://open.spotify.com/track/0JxmOHLNDZMy6m0vKUMgUh"
     },
     {
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "Nights in Armor",
+        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Nights in Armor",
+      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
+    },
+    {
       "added_at": "2025-09-26 04:00:11",
       "album": {
         "name": "bones",
@@ -89,68 +237,24 @@
       "url": "https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk"
     },
     {
-      "added_at": "2025-09-26 04:00:11",
+      "added_at": "2025-10-10 04:00:43",
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/4dVYpBDtKxZbwX38XrHSaJ"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2025-09-19 04:00:29",
-      "album": {
-        "name": "Bleeds",
-        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
-      },
-      "artists": [
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 195306,
-      "name": "Townies",
-      "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 220101,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
+      "duration_ms": 229693,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/55B2G4Q8Sw26OXrosCpFZC"
     },
     {
       "added_at": "2025-09-26 04:00:11",
@@ -691,22 +795,6 @@
       "duration_ms": 238876,
       "name": "100 Summers",
       "url": "https://open.spotify.com/track/3nGdMRCCVS8TZiJOVKQD2P"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Nights in Armor",
-        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Nights in Armor",
-      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
     },
     {
       "added_at": "2025-08-22 04:00:27",

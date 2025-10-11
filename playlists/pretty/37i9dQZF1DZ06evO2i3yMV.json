@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAC+Uku0ZW+yN9g+LFxexu0+",
+  "snapshot_id": "aOb7AAAAAADqLtmn/azHZaaZ4QPsKXha",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Trying",
-        "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Die Trying",
-      "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Tell Me (Maya Jane Coles Remix)",
         "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 298426,
       "name": "Say Tell Me - Maya Jane Coles Remix",
       "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die Trying",
+        "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
+        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 219348,
+      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
+      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 184857,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/4wAQAt1l5Wb4E85TOHf7VE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
-        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 219348,
-      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
-      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
     },
     {
       "added_at": null,
@@ -744,25 +744,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 230261,
-      "name": "Bright Shadows",
-      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 113480,
-      "name": "Warm Water (Interlude)",
-      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
+      "duration_ms": 195607,
+      "name": "Fallen Arches",
+      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 238277,
       "name": "Renter's Anthem",
       "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 113480,
+      "name": "Warm Water (Interlude)",
+      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 195607,
-      "name": "Fallen Arches",
-      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,

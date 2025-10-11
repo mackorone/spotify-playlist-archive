@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 25 min
+179 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Haze](https://open.spotify.com/track/2sZKbJC6xWNga34dTe9S0v) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [For A Moment, I Was Lost](https://open.spotify.com/album/0oY3tTEWLMF2x0pXbST0wn) | 1:57 | 2024-06-09 |  |
 | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c) | 3:07 | 2024-12-11 |  |
 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 | 2024-01-29 |  |
-| [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 | 2024-01-29 |  |
+| [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 | 2024-01-29 | 2025-10-11 |
+| [Heaven On Earth](https://open.spotify.com/track/24HlnYyyZInP1skFKqVqsl) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 3:14 | 2025-10-10 |  |
 | [Hideaway](https://open.spotify.com/track/6J7trSlbpRHY2JbvxnYiCN) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:16 | 2024-01-29 |  |
 | [High Hopes](https://open.spotify.com/track/2QzlUwDods1IHQF3UyYAAO) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [High Hopes](https://open.spotify.com/album/3dXia3q3srWDlY9P3rTGdq) | 2:58 | 2024-01-29 |  |
 | [High Road](https://open.spotify.com/track/10G9kHt4j2G1tsFgc07NCr) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [High Road](https://open.spotify.com/album/7wpI9zhq75r91vvUuBg367) | 2:35 | 2024-01-29 |  |

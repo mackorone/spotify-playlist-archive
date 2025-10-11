@@ -2003,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115384,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
+    },
+    {
+      "album": {
         "name": "Joias do Bairro",
         "url": "https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr"
       },
@@ -2346,7 +2372,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 112131,
       "name": "Cyberpunk",
       "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
@@ -2762,7 +2788,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 189197,
       "name": "Diesel Dior",
       "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
@@ -9014,10 +9040,32 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 275507,
       "name": "PONTO DE VISTA",
       "url": "https://open.spotify.com/track/6KmSPfiuHbtj9r1KtBWyoq"
+    },
+    {
+      "album": {
+        "name": "Porque n\u00e3o",
+        "url": "https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq"
+      },
+      "artists": [
+        {
+          "name": "Buh",
+          "url": "https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v"
+        },
+        {
+          "name": "S3X!",
+          "url": "https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Porque n\u00e3o",
+      "url": "https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi"
     },
     {
       "album": {
@@ -11000,6 +11048,24 @@
       "duration_ms": 136991,
       "name": "T\u00f4 Mudado",
       "url": "https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3"
+    },
+    {
+      "album": {
+        "name": "Uen Uen Uen",
+        "url": "https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv"
+      },
+      "artists": [
+        {
+          "name": "Suiky",
+          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Uen Uen Uen",
+      "url": "https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC"
     },
     {
       "album": {

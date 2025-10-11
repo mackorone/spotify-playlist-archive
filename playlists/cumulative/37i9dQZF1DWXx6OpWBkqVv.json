@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Back Of My Hand",
+        "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206385,
+      "name": "Back Of My Hand",
+      "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
+    },
+    {
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+    },
+    {
+      "album": {
+        "name": "Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/4fFV6uW7zmR8yjGSTAt1qT"
+      },
+      "artists": [
+        {
+          "name": "Renato Medeiros",
+          "url": "https://open.spotify.com/artist/2rF4ywmP760Jggm4aMbaeE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/0sZTZByzjUYucuRDVKKxrx"
     },
     {
       "album": {
@@ -398,6 +434,24 @@
       "duration_ms": 252853,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/15ya59dZ8yGeIfZARiYDjd"
+    },
+    {
+      "album": {
+        "name": "Dove",
+        "url": "https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4"
+      },
+      "artists": [
+        {
+          "name": "Dharmacide",
+          "url": "https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269961,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg"
     },
     {
       "album": {
@@ -1600,7 +1654,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 249746,
       "name": "Purple Yellow Red and Blue",
       "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
@@ -2338,7 +2392,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/3dv9Bvpp9HikNsEvDCKHhC"
@@ -2374,7 +2428,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Inspired by Project Serpo and the Roswell incident, Haruomi Hosono imagines the music astronauts might have carried on an interplanetary journey\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,419 likes - 26 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,408 likes - 26 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

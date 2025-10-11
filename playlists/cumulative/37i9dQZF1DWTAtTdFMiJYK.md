@@ -2,15 +2,16 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Arijit Anand
+> Most exciting artists from the Indian Indie scene\. Cover: sudan
 
-367 songs - 20 hr 44 min
+369 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dog Chasing Its Own Tail](https://open.spotify.com/track/4DfmnGTcqwD5C7VtNY9AtX) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [A Dog Chasing Its Own Tail](https://open.spotify.com/album/0WFwYv6lASwvE4GfM62UxP) | 2:40 | 2021-12-06 | 2022-01-11 |
+| [a hiatus](https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:47 | 2025-10-10 |  |
 | [Aadhe Waade](https://open.spotify.com/track/2YvoiniJ209ypzXMlZxSp0) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/0C0KpcvMUCrukbLFAH1zby) | 2:34 | 2024-12-04 | 2025-01-10 |
-| [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 | 2023-09-26 |  |
+| [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 | 2023-09-26 | 2025-10-11 |
 | [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 | 2025-01-21 | 2025-06-11 |
 | [Aaina](https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Aaina](https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY) | 3:44 | 2023-01-20 | 2024-05-11 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-04-25 | 2024-12-05 |
@@ -208,6 +209,7 @@
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2022-07-08 | 2024-01-11 |
 | [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 | 2022-01-10 | 2022-09-10 |
 | [Le Chal](https://open.spotify.com/track/6Lc9DslN6gU7gJLhGC0YP6) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:07 | 2022-11-30 | 2023-01-11 |
+| [lighthouse](https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:33 | 2025-10-10 |  |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-01-10 | 2022-10-11 |
 | [Love Note](https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Love Note](https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK) | 2:56 | 2023-01-10 | 2023-02-23 |
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-05-08 |  |
@@ -236,7 +238,7 @@
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-10-05 | 2025-03-11 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-10 |  |
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 | 2024-06-11 |
-| [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 | 2025-02-18 |  |
+| [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 | 2025-02-18 | 2025-10-11 |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-01-10 |  |
 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 | 2022-09-29 | 2024-03-30 |
 | [Noor](https://open.spotify.com/track/5LFYRTZ5bL1ErM2Kjvpu4W) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/3vUOmgB7uT9hSU3FESC5fX) | 3:19 | 2024-03-20 | 2024-04-03 |

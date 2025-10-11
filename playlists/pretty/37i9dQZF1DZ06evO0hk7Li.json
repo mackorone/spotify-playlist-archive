@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39807,
+  "num_followers": 39805,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAD0MJG0QgH39hrlbhlVyhVe",
+  "snapshot_id": "aOb7AAAAAADbF1cracY1GPNL8WFeSARe",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 219626,
-      "name": "Diddy Bop (x Louis The Child)",
-      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+      "duration_ms": 219626,
+      "name": "Diddy Bop (x Louis The Child)",
+      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 208172,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 191613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
+      "duration_ms": 191613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
     },
     {
       "added_at": null,

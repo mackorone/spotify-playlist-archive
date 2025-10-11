@@ -4,7 +4,7 @@
 
 > roots run deep
 
-419 songs - 1 day 1 hr 0 min
+420 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Poets & Old Souls](https://open.spotify.com/track/0UKKKLMpHhdpwQNsXEoNM1) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U), [Frank Foster](https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:15 | 2023-05-12 | 2024-02-01 |
 | [Poets & Old Souls](https://open.spotify.com/track/5aJYaKr1blM9487x8NQWfp) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U), [Frank Foster](https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc) | [Poets & Old Souls](https://open.spotify.com/album/6fN2WnQAXBxcV3cuRiGCh6) | 3:15 | 2023-03-31 | 2023-05-18 |
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2023-02-24 |  |
+| [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 | 2025-10-10 |  |
 | [Psychopath](https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe) | 3:28 | 2023-05-19 | 2023-10-01 |
 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2024-08-09 |  |
 | [Ramblin Man](https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ramblin Man](https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3) | 2:47 | 2023-03-24 | 2024-07-05 |

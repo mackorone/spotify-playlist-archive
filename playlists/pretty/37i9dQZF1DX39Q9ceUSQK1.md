@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: The Vices
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,789 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,815 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 7 | [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 |
 | 8 | [Infinite Red](https://open.spotify.com/track/5kMOOiDvjwI5jWcL3fvA7j) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Infinite Red](https://open.spotify.com/album/2E3oB28juMaOwKxTaOxjK4) | 4:21 |
 | 9 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 10 | [Track 3](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 |
 | 11 | [Cool Bottle Water Park](https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky) | [Long Fling](https://open.spotify.com/artist/65R6SYInZyAejg0WNniLhC) | [Cool Bottle Water Park](https://open.spotify.com/album/3T2AH9XZ6Cv7iq3eBFUnzA) | 2:47 |
 | 12 | [TWO FEET](https://open.spotify.com/track/19JqTT7FaG8xxj30zmI5RA) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [TWO FEET](https://open.spotify.com/album/5K8WKCfV17XwNFC0cMnDFv) | 3:18 |
 | 13 | [GATEKEEPER \- Studio Version](https://open.spotify.com/track/4EX7RmTivh42tz5DWBcVMg) | [LS.GATEKEEPER](https://open.spotify.com/artist/5djBwQkKvq6Dccf5hBWqSk), [Lui Surreal](https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m) | [LS.GATEKEEPER](https://open.spotify.com/album/7BkfGc72cmKZX0Q1vLnkXa) | 2:26 |

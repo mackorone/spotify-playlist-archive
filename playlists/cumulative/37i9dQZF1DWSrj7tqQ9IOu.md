@@ -4,7 +4,7 @@
 
 > Le meilleur de l'indie français\. Cover : Saint Stacy
 
-721 songs - 1 day 14 hr 49 min
+721 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Destination l'amour](https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange](https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS) | 3:15 | 2022-05-19 | 2022-06-24 |
 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 | 2024-12-05 | 2025-03-14 |
 | [Dictators](https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Dictators](https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ) | 3:18 | 2022-02-17 | 2022-06-10 |
+| [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 | 2025-10-09 |  |
 | [Directorial Debut](https://open.spotify.com/track/7EfZ2xMyawtj2QG3A6HE20) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Directorial Debut](https://open.spotify.com/album/5R40B2Hq5HSznxKGYmNYll) | 3:24 | 2022-06-23 | 2022-09-30 |
 | [Disco Dream](https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a) | [Toukan Toukän](https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH) | [Disco Dream](https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi) | 3:22 | 2021-12-16 | 2022-04-29 |
 | [Distant Calls](https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Distant Calls](https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN) | 2:44 | 2021-12-16 | 2022-06-24 |
@@ -654,7 +655,6 @@
 | [Tout tout](https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Tout tout](https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80) | 3:31 | 2025-07-24 | 2025-09-20 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
-| [Track 4](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |

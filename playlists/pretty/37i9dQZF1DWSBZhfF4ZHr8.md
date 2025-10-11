@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Marine
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,295 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,376 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 3 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 |
 | 4 | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/track/1grONqhU4gXxscprACJbzW) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk), [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze) | 2:55 |
 | 5 | [Ça va \(quand même\) \(feat\. Soprano\)](https://open.spotify.com/track/28pSl3TSdBUHY1vIrjVD4T) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:48 |
-| 6 | [Je t'aime](https://open.spotify.com/track/3U4wzM6Pli4NSayDSPcw7W) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [](https://open.spotify.com/album/null) | 2:52 |
+| 6 | [Je t'aime](https://open.spotify.com/track/3U4wzM6Pli4NSayDSPcw7W) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Boîte à musique](https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3) | 2:52 |
 | 7 | [MUGANGA](https://open.spotify.com/track/1UoW030SkcExy1E0zEpW3d) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MUGANGA](https://open.spotify.com/album/0xRRXXAcNkWoQf24Akl5kA) | 3:37 |
 | 8 | [Capuche](https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé 2](https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB) | 3:22 |
 | 9 | [Tant pis pour elle](https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/0D7w7NEXkbNnhMLDm1tawk) | 2:38 |

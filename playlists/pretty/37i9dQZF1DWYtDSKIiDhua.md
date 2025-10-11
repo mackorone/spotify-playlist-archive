@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,069 likes - 109 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,073 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 |
+| 1 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 2 | [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 |
-| 3 | [Track 8](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [TRACKSTAR](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [BLONDE & BLUE](https://open.spotify.com/album/28o56S8zvYByZDg6MjGN9c) | 3:12 |
 | 4 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
 | 5 | [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 |
 | 6 | [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR](https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs) | 3:10 |

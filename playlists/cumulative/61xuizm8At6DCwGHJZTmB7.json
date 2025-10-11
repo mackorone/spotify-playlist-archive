@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "At the heart of it (From Worship Together)",
+        "url": "https://open.spotify.com/album/3j8FJx5Exz0PPsSp2Y059k"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335459,
+      "name": "At the heart of it - From Worship Together",
+      "url": "https://open.spotify.com/track/6jURYt7pmRYeJcmXyIux9T"
+    },
+    {
+      "album": {
         "name": "At Your Altar (Live)",
         "url": "https://open.spotify.com/album/2pGaldHi85JOIntXkUHZkK"
       },
@@ -8645,6 +8663,36 @@
     },
     {
       "album": {
+        "name": "Send The Fire: Live From London",
+        "url": "https://open.spotify.com/album/6w4bFrC2X53TxpflpRI2SE"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Rich & Lydia Dicas",
+          "url": "https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY"
+        },
+        {
+          "name": "Marie Welch",
+          "url": "https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679235,
+      "name": "O God Would You Move / Awake My Soul",
+      "url": "https://open.spotify.com/track/2x8yzGlhIWnCQRcO8h8YKJ"
+    },
+    {
+      "album": {
         "name": "O Lord, You're Beautiful",
         "url": "https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8"
       },
@@ -10390,7 +10438,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 463133,
       "name": "Send The Fire",
       "url": "https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN"

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-435 songs - 1 day 0 hr 56 min
+436 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [El Cervatillo](https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [El Cervatillo](https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG) | 5:07 | 2024-06-06 | 2024-08-15 |
 | [EL DÍA QUE PERDÍ MI JUVENTUD](https://open.spotify.com/track/5gFRjeeZ32L9KnWyFxPncv) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:48 | 2024-06-21 | 2024-07-13 |
 | [El Espejo](https://open.spotify.com/track/4fHpriV14mig4esLm2CQea) | [Naked Family](https://open.spotify.com/artist/2XuDkWSGwLfIMsAii8xBt3) | [La Vuelta](https://open.spotify.com/album/7HELda0VxRW8VEDN5QGJZC) | 5:14 | 2024-08-02 | 2024-10-13 |
-| [El Loteo de Sauce Grande](https://open.spotify.com/track/7l0BoBrKuPuhK4TI9ySc30) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx) | [El Loteo de Sauce Grande](https://open.spotify.com/album/2Q2c88RmL4WOLrBImHKBHy) | 2:40 | 2025-10-09 |  |
+| [El Loteo de Sauce Grande](https://open.spotify.com/track/7l0BoBrKuPuhK4TI9ySc30) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx) | [El Loteo de Sauce Grande](https://open.spotify.com/album/2Q2c88RmL4WOLrBImHKBHy) | 2:40 | 2025-10-09 | 2025-10-11 |
 | [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 |  |
 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 |  |
 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-06-02 |  |
@@ -341,6 +341,7 @@
 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 | 2022-11-11 | 2024-04-19 |
 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-09-18 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-12-24 |
+| [Saberse Definir](https://open.spotify.com/track/6RmjhswhS9rau9WJbRBYyF) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Saberse Definir](https://open.spotify.com/album/5EpaPoqJvSDNNaoyW9zTcm) | 4:22 | 2025-10-09 |  |
 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 | 2024-04-11 |  |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-11-11 | 2023-06-10 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-11-11 | 2023-03-18 |

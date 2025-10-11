@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Deutschrap f\u00fcr die emotions. Cover: Kane",
+  "description": "Deutschrap f\u00fcr die emotions. Cover: PA Sports, Kauta",
   "name": "Rap in deep",
   "tracks": [
     {
@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "Haltet die Welt an",
+        "url": "https://open.spotify.com/album/7bRY9v4RxutN1g1qw8VRPh"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193519,
+      "name": "Haltet die Welt an",
+      "url": "https://open.spotify.com/track/4YeWCaInlgqN3ZXlwjr0zj"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580"
       },
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 116065,
       "name": "HEARTBROKEN",
       "url": "https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0"

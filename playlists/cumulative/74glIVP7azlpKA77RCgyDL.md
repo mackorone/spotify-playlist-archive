@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,111 songs - 2 day 21 hr 36 min
+1,117 songs - 2 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Brain Dead](https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Brain Dead](https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU) | 2:48 | 2025-02-28 |  |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-28 |  |
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-02-02 | 2025-04-11 |
+| [Broken and Blind](https://open.spotify.com/track/2zdylxNiFAcTatmAjLwLTV) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/6A3vvzSppa4vR5xWwmqCWp) | 3:12 | 2025-10-10 |  |
 | [Broken Rib](https://open.spotify.com/track/6TlRQW8iwz7MDTzy4jkscn) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [Broken Rib](https://open.spotify.com/album/3b4QmOl6mBMYMLSoVGb1e3) | 3:07 | 2025-05-16 |  |
 | [Burn](https://open.spotify.com/track/5RFD19vL1hkcOGLFk7pgB9) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Burn](https://open.spotify.com/album/6yNbiRz8eb5yucmK0UFf0c) | 3:06 | 2025-09-19 |  |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-08-30 | 2025-04-11 |
@@ -404,6 +405,7 @@
 | [Guillotine](https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Guillotine](https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ) | 3:37 | 2022-02-25 | 2023-07-15 |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-09-30 | 2023-07-15 |
 | [Half Life](https://open.spotify.com/track/7qwTlAdz1usnxXd24H3yjw) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Half Life](https://open.spotify.com/album/0AjbRK9LP0qPcGRWw0GYGp) | 3:32 | 2023-01-06 | 2024-02-03 |
+| [Half\-Life](https://open.spotify.com/track/6yH2K3Xgu7X9gqky8NU0vt) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [Half\-Life](https://open.spotify.com/album/2RwNAoB12EkXDjj0qt5u0g) | 3:30 | 2025-10-10 |  |
 | [Halsgericht](https://open.spotify.com/track/5mmsqo7sCx8nu3HZ3HB9Sd) | [Mantar](https://open.spotify.com/artist/6rVRU7I6r1lt6bhXGYTRQL) | [Halsgericht](https://open.spotify.com/album/7IuBhI1dcghzqrD1xtc5Nj) | 4:01 | 2024-11-15 | 2025-04-11 |
 | [Hands of Eternity](https://open.spotify.com/track/0XxW9T7qRJkAT6wENRI6kw) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Hands of Eternity](https://open.spotify.com/album/4BP1DYYnxy83DJ6xR5ShRs) | 4:43 | 2024-04-26 | 2025-04-11 |
 | [Hard](https://open.spotify.com/track/2LVlZo1agzxHBnvbXTIiCE) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Hard](https://open.spotify.com/album/1XTHvv2gs92EvdL24GLoFT) | 2:26 | 2023-10-20 | 2024-02-03 |
@@ -423,6 +425,7 @@
 | [Hide](https://open.spotify.com/track/6C2odc2qG42ZbCyNZNxGKi) | [Druids](https://open.spotify.com/artist/6oQRvz9JHOHWtryh47KdOH) | [Hide](https://open.spotify.com/album/2KgDvPXVoyzQZDbMe1BH9S) | 6:07 | 2022-05-06 | 2023-07-15 |
 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 | 2024-06-07 | 2025-04-11 |
 | [Hide Your Evil](https://open.spotify.com/track/0OliHsJwDWAnUlG0kaMhor) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Hide Your Evil](https://open.spotify.com/album/6I67EzTCCMBkSksDLclSGI) | 2:52 | 2025-08-22 |  |
+| [High Noon](https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Para Bellum](https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW) | 3:52 | 2025-10-10 |  |
 | [High Plains Drifter](https://open.spotify.com/track/4Eya9E3OOY9QCec2ssaG6T) | [Kirk Hammett](https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf) | [High Plains Drifter](https://open.spotify.com/album/26ZZ3Pr3U6OCzveywxauf2) | 4:45 | 2022-04-15 | 2023-07-15 |
 | [Hole](https://open.spotify.com/track/5BJTWI5ppMqnQldCPawycd) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Hole](https://open.spotify.com/album/6W6uSAwCv3tC5btB7kd4GN) | 6:01 | 2025-07-25 |  |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-07-15 |
@@ -721,6 +724,7 @@
 | [Punishers](https://open.spotify.com/track/6RASigQvERkgKqX75rhRjk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Punishers](https://open.spotify.com/album/4wQL054jyzI1ZBn1cfC0uJ) | 3:10 | 2025-08-29 |  |
 | [Punishment Existence](https://open.spotify.com/track/3qcvJm4YIazQkccz5n7eFZ) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Punishment Existence](https://open.spotify.com/album/6diHtrU9U8XN0t2li2Fg8N) | 4:07 | 2022-01-28 | 2023-07-15 |
 | [Punishment Map](https://open.spotify.com/track/19oktfFwUibGPjfr27grUk) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Every Bridge Burning](https://open.spotify.com/album/269SQRalfaebSVSDnIQe1g) | 1:03 | 2024-08-30 | 2025-04-11 |
+| [Punks And Demons](https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Punks And Demons](https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP) | 2:37 | 2025-10-10 |  |
 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 | 2023-12-15 | 2024-02-03 |
 | [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 | 2023-09-22 | 2024-02-03 |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-18 | 2023-07-15 |
@@ -940,6 +944,7 @@
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-04 | 2023-07-15 |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2023-07-15 |
 | [The Killing Womb](https://open.spotify.com/track/6qwS9hKwhVJe2yMxkwMgiQ) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/5ZeUTOPb4LwQFSV4jOj2cs) | 2:32 | 2022-01-07 | 2023-07-15 |
+| [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 |  |
 | [The Lost Colony](https://open.spotify.com/track/5ktT0KZMuq8tS02YPx039n) | [Becoming The Archetype](https://open.spotify.com/artist/2lt0aSPzPngGw8KsfLYRyF) | [The Lost Colony](https://open.spotify.com/album/7zSWeckOjzmvtcWUVFZC06) | 3:49 | 2022-07-01 | 2023-07-15 |
 | [The Midnight Sun](https://open.spotify.com/track/6racdcyzrxBePae8lqBwVU) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [The Midnight Sun](https://open.spotify.com/album/03UZIhoApBs6PtFWvhyU7N) | 3:33 | 2024-04-12 | 2025-04-11 |
 | [The Migrant](https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Migrant](https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO) | 4:00 | 2023-03-31 | 2024-02-03 |
@@ -973,6 +978,7 @@
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 | 2023-07-15 |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 | 2023-07-15 |
 | [This Is Not A Prayer](https://open.spotify.com/track/1MUBqsfHJ8dOgFvkR5zWYX) | [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [This Is Not A Prayer](https://open.spotify.com/album/1fEPutb1DOsvhTvRPLbBYs) | 6:39 | 2024-06-28 | 2025-04-11 |
+| [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o) | [2XKO](https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO) | 3:51 | 2025-10-10 |  |
 | [Time Is Coming For Us All](https://open.spotify.com/track/4k8W2lveY4GzNADWNQNGmO) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr) | [Promo 2024](https://open.spotify.com/album/4kyPh860ld5waGNs5TnkfZ) | 1:51 | 2024-03-01 | 2025-04-11 |
 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-03 |  |
 | [Titanis](https://open.spotify.com/track/0tkEbpL4Wr5wwY4z48CvZx) | [Author & Punisher](https://open.spotify.com/artist/4QtqJ5KVIhBruJWEhWjnsv), [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Titanis](https://open.spotify.com/album/5Fw0jwpyBvDcJaXqkOOKWx) | 3:01 | 2025-08-08 |  |

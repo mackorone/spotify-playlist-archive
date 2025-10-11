@@ -2,9 +2,9 @@
 
 ### [Rap in deep](https://open.spotify.com/playlist/37i9dQZF1DX0Na9FTYame5)
 
-> Deutschrap für die emotions\. Cover: Kane
+> Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-277 songs - 12 hr 31 min
+278 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,9 +101,10 @@
 | [glücklich ohne dich](https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [glücklich ohne dich](https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ) | 2:33 | 2025-04-10 | 2025-07-18 |
 | [Gott weiß wie](https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Gott weiß wie](https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY) | 2:22 | 2024-10-10 | 2024-12-17 |
 | [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 | 2024-08-26 | 2025-02-07 |
+| [Haltet die Welt an](https://open.spotify.com/track/4YeWCaInlgqN3ZXlwjr0zj) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Haltet die Welt an](https://open.spotify.com/album/7bRY9v4RxutN1g1qw8VRPh) | 3:13 | 2025-10-10 |  |
 | [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 | 2025-01-27 |
 | [Happy ohne dich](https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Happy ohne dich](https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV) | 2:13 | 2024-09-16 | 2025-04-13 |
-| [HEARTBROKEN](https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5), [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [HEARTBROKEN](https://open.spotify.com/album/6KwJEV8Z9Zy4HtAHqy6jKV) | 1:56 | 2025-08-07 |  |
+| [HEARTBROKEN](https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5), [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [HEARTBROKEN](https://open.spotify.com/album/6KwJEV8Z9Zy4HtAHqy6jKV) | 1:56 | 2025-08-07 | 2025-10-11 |
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 |  |
 | [Herzklopfen](https://open.spotify.com/track/6dLWasqyHJFkQqOGTrbeLO) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Herzklopfen](https://open.spotify.com/album/6EXiHynRnmQZXPIsQuVx2J) | 2:34 | 2025-03-24 | 2025-06-10 |
 | [Hier](https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Verlieren/Gefunden](https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi) | 2:26 | 2024-07-25 | 2024-09-08 |

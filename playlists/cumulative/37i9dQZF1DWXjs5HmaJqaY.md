@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-349 songs - 1 day 8 hr 35 min
+351 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Antidote](https://open.spotify.com/track/2o8Mv0acwqg9zT4Cx1ZGVL) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 5:26 | 2024-07-26 | 2025-04-11 |
 | [Apache \- Nusha Remix](https://open.spotify.com/track/3nx53u9SFSgFdxChE8nMrj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/4RVzlhV7VQgp8hWO48lQMg) | 6:06 | 2023-10-27 | 2024-01-27 |
 | [Apache \- Nusha Remix](https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ) | 6:06 | 2023-05-05 | 2023-11-05 |
+| [Apple Of My Eye](https://open.spotify.com/track/5sCqIIOt4sfiPdi0tScrER) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Apple Of My Eye](https://open.spotify.com/album/4jiXyJjieMfHNfOv3EZr4d) | 3:31 | 2025-10-10 |  |
 | [Are Am Eye? \- Roger Shah & Cores Short Edit](https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD) | [Commander Tom](https://open.spotify.com/artist/1mlDy7thi2GGZ5ybFxjnmd), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI) | [Are Am Eye? Roger Shah & Cores Remix](https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT) | 3:32 | 2022-09-16 |  |
 | [Artefact](https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [VA: CAELUM](https://open.spotify.com/album/77IT6pLjTXeFxzSn1VndEN) | 7:03 | 2023-05-26 | 2023-07-15 |
 | [artificial light](https://open.spotify.com/track/3MTjeFi4TKj2PsGOtTflwS) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [artificial light](https://open.spotify.com/album/2FQnbUiFMwoLUOGxY2TrNZ) | 4:30 | 2025-07-11 |  |
@@ -356,6 +357,7 @@
 | [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 | 2023-07-14 | 2024-06-11 |
 | [Your Eyes](https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Your Eyes](https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC) | 3:52 | 2022-11-07 | 2023-05-06 |
 | [Your River](https://open.spotify.com/track/3cNZ8hIsqbFYbkcKQPQK5R) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Your River](https://open.spotify.com/album/1LVzzPnwoEXucVRVYFp9cU) | 3:19 | 2025-06-27 | 2025-08-16 |
+| [Your Voice](https://open.spotify.com/track/4vFERkhzV5V49rS3J1zUs7) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Your Voice](https://open.spotify.com/album/3FJJDqGAPiDOpVadOmmX42) | 3:34 | 2025-10-10 |  |
 | [Zeitgeist \- Edit](https://open.spotify.com/track/7DAaK0FTmMhFHPdaxaNxew) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Zeitgeist](https://open.spotify.com/album/6opqQmqgQs8UNLeCQlSMPS) | 2:35 | 2022-11-11 | 2022-12-10 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

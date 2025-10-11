@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,122 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,127 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 38 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 |
 | 39 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
 | 40 | [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 |
-| 41 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
-| 42 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
+| 41 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
+| 42 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
 | 43 | [Akhirnya](https://open.spotify.com/track/5CuJ5sx1ZuNibvDIhqP3gj) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:56 |
 | 44 | [Musafir Anthem](https://open.spotify.com/track/1nPEAW7GDnfAmtWK8Eh4yb) | [Syarikat Idola Remaja](https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO) | [Musafir Anthem](https://open.spotify.com/album/7rcFEv0Bgv2mlLHkH0aCn6) | 3:36 |
 | 45 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |

@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Colter Wall",
-  "num_followers": 68971,
+  "num_followers": 68980,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
+        "name": "If There's A Heaven",
+        "url": "https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 301780,
+      "name": "If There's A Heaven",
+      "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
         "name": "Bitter Winds",
         "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
@@ -627,22 +647,6 @@
       "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "The Talco Tapes",
-        "url": "https://open.spotify.com/album/4EEXpOAW6fuB8zB8yPfVFj"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 260842,
-      "name": "Name (Talco Tapes Version)",
-      "url": "https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -663,22 +667,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "If There's A Heaven",
-        "url": "https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3"
+        "name": "The Talco Tapes",
+        "url": "https://open.spotify.com/album/4EEXpOAW6fuB8zB8yPfVFj"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 301780,
-      "name": "If There's A Heaven",
-      "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
+      "duration_ms": 260842,
+      "name": "Name (Talco Tapes Version)",
+      "url": "https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Aw, Shoot!",
-        "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 208439,
-      "name": "Aw, Shoot!",
-      "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 229357,
       "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Aw, Shoot!",
+        "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 208439,
+      "name": "Aw, Shoot!",
+      "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Devil\u2019s Den",
-        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 230112,
-      "name": "The Great Caucasian God",
-      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Devil\u2019s Den",
+        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
         }
       ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+      "duration_ms": 230112,
+      "name": "The Great Caucasian God",
+      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 250801,
-      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 200021,
       "name": "Burn Me Once - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 250801,
+      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Visions of Dallas",
-        "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Visions of Dallas",
-      "url": "https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 288402,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Visions of Dallas",
+        "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Visions of Dallas",
+      "url": "https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
         "name": "Winchester Mansion of Sound",
         "url": "https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+        "name": "One More Dance Around The Sun",
+        "url": "https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 247293,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+      "duration_ms": 286211,
+      "name": "One More Dance Around The Sun",
+      "url": "https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1591,22 +1607,6 @@
       "duration_ms": 250200,
       "name": "Billionaire",
       "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "One More Dance Around The Sun",
-        "url": "https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 286211,
-      "name": "One More Dance Around The Sun",
-      "url": "https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74"
     },
     {
       "added_at": "2025-10-06 15:34:36",

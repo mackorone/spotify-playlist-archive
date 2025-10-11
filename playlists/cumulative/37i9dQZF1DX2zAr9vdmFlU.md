@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-282 songs - 17 hr 46 min
+283 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [La Marea](https://open.spotify.com/track/2jVYJ5WjkhqhEsTchOQyfW) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [La Marea](https://open.spotify.com/album/78U27tRpWAvPOTVNoE5vqo) | 2:32 | 2021-12-09 | 2023-03-08 |
 | [La Tormenta](https://open.spotify.com/track/16Vj2QA56ina0GqV1KTuff) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:26 | 2024-02-09 |  |
 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 | 2021-12-09 |  |
+| [Las Cosas Simples](https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:37 | 2025-10-10 |  |
 | [Las Flores](https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Las Flores](https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu) | 5:55 | 2023-11-10 |  |
 | [Latin Note](https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 5:54 | 2021-12-09 |  |
 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 | 2022-01-01 | 2023-03-08 |
@@ -178,7 +179,7 @@
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-01 | 2023-12-14 |
 | [Mozo](https://open.spotify.com/track/6UYnSpITCrCWsmgjFwK3u0) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mozo](https://open.spotify.com/album/7ub8UsPa9SpNU1HIzaYQHo) | 3:47 | 2021-12-09 | 2022-07-29 |
 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 | 2022-01-01 | 2023-03-08 |
-| [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 | 2024-05-17 |  |
+| [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 | 2024-05-17 | 2025-10-11 |
 | [Nain](https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Nain](https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm) | 4:07 | 2021-12-09 |  |
 | [Naranjo En Flor](https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk) | 4:36 | 2021-12-09 |  |
 | [Naranjo En Flor](https://open.spotify.com/track/2UG5sMphnHUvsswl596nqF) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/7249DS6vz0JbQuZlpYDCPd) | 4:38 | 2022-08-31 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-167 songs - 9 hr 17 min
+168 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-08-03 |  |
 | [One Ticket](https://open.spotify.com/track/4zs24ZAZkr32qLcr9Z7QTg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/7aBqPFpPw91lIsW9pNZ1zt) | 3:28 | 2021-12-28 | 2022-02-19 |
 | [One Ticket](https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:28 | 2022-03-01 | 2025-10-09 |
-| [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 | 2025-10-08 |  |
+| [Only God Can Save Me](https://open.spotify.com/track/0IL834uY2E4iRjGHl7wWio) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Only God Can Save Me](https://open.spotify.com/album/50OXmxn98cY9zes3YjBmhU) | 2:43 | 2025-10-11 |  |
+| [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 | 2025-10-08 | 2025-10-11 |
 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 | 2023-04-01 |  |
 | [Owo Ni Koko](https://open.spotify.com/track/3umUZmrbG4mQpqKDqdn7hI) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Owo Ni Koko](https://open.spotify.com/album/4rwPFgP23IUYqriM6kBV3O) | 3:25 | 2022-01-12 | 2022-03-15 |
 | [Park Well](https://open.spotify.com/track/7wUUWsweDvSkhjv0N7QQBd) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Celia](https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO) | 2:58 | 2023-04-19 | 2023-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 899 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 900 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 26 | [Alvo](https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:38 |
 | 27 | [Um Pouco Mais](https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:53 |
 | 28 | [SONHOS IMPERIAIS](https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:18 |
-| 29 | [Prisma](https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:37 |
+| 29 | [Apoteose](https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:07 |
 | 30 | [Não Rimo Por Grammys](https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Yangprj](https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv) | [Não Rimo Por Grammys](https://open.spotify.com/album/4htJju9wpP413iOJHuOix1) | 2:05 |
 | 31 | [Não](https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Não](https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4) | 4:27 |
 | 32 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 |
-| 33 | [Apoteose](https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:07 |
-| 34 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 |
-| 35 | [Foco nos Planos](https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:56 |
+| 33 | [Prisma](https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:37 |
+| 34 | [Foco nos Planos](https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:56 |
+| 35 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 |
 | 36 | [TUDO CULPA DO RNB](https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [TUDO CULPA DO RNB](https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX) | 4:19 |
 | 37 | [Blasé](https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:55 |
 | 38 | [Um Acorde](https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Psicodelic](https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 49 | [PSLS](https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:42 |
 | 50 | [Benedito](https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 2:59 |
 
-Snapshot ID: `aOWpgAAAAAAbkmzcpiKoS7VhI6DbT307`
+Snapshot ID: `aOb7AAAAAADL7nM3dNtsDjHMQw6EtJub`

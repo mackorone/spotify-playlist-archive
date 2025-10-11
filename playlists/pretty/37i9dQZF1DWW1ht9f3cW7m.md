@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > it's all juicy 🍑 cover: annie dirusso
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,400 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,397 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 4 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [WOMEN WHO LOVE TOO MUCH](https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V) | 3:34 |
 | 5 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |
 | 6 | [College Friends](https://open.spotify.com/track/2sLLio7eJcF79boVkPggqP) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [College Friends](https://open.spotify.com/album/3uH85LLXWihvdcrrriO0Es) | 3:34 |
-| 7 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [](https://open.spotify.com/album/null) | 3:03 |
+| 7 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 |
 | 8 | [Baby Teeth](https://open.spotify.com/track/4t4JakZ0A3nlOlFi6Z4LYm) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Baby Teeth](https://open.spotify.com/album/5dnePhTkDdoowk0jpLBMzJ) | 2:29 |
 | 9 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 |
 | 10 | [i know how to dream](https://open.spotify.com/track/3weNo8O2kqtSWs6kLtDKsB) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [i know how to dream](https://open.spotify.com/album/3RJlnshXJA8Zelq4M9TYKe) | 3:03 |

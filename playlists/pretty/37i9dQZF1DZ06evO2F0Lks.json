@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 150930,
+  "num_followers": 150937,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABZ0pQHoDf482wj6dSsahIG",
+  "snapshot_id": "aOb7AAAAAABq6Gf2PEPp6qRPNC7Zn9PJ",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits: Decade #1",
         "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 210760,
       "name": "Little Toy Guns",
       "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 138710,
+  "num_followers": 138739,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAA5hil3eDWXqXftObrIsRJI",
+  "snapshot_id": "aOb7AAAAAAC0yFNyGoZH07Mx+XTWE58v",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Piloto Filoso",
+      "url": "https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 192842,
       "name": "El Capitan",
       "url": "https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Piloto Filoso",
-      "url": "https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moreno 80 (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Moreno 80",
-      "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 224812,
       "name": "Pa Que Sepan",
       "url": "https://open.spotify.com/track/4EJKQ9fDwPddxk44CyxYin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moreno 80 (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Moreno 80",
+      "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Plush",
-      "url": "https://open.spotify.com/track/2WbeOf9bo82FZG0OMGYRAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 141105,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/2WbeOf9bo82FZG0OMGYRAO"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa' Largo",
-        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 164925,
-      "name": "Cupcake Factory",
-      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 145375,
       "name": "Seguimos Dando Lata",
       "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Va Pa' Largo",
+        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 164925,
+      "name": "Cupcake Factory",
+      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Megapark bis Bierk\u00f6nig - Malle ist nur einmal im Jahr!",
-  "num_followers": 476940,
+  "num_followers": 477009,
   "original_name": "Malle Party 2025",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "added_at": "2025-10-02 22:00:37",
+      "album": {
         "name": "Helene Fischer (Deluxe Version)",
         "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 119248,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
-    },
-    {
-      "added_at": "2025-10-02 22:00:37",
-      "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
-      },
-      "artists": [
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
-        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
-      },
-      "artists": [
-        {
-          "name": "MXM",
-          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        }
-      ],
-      "duration_ms": 240761,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
-    },
-    {
-      "added_at": "2025-10-02 22:00:37",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2025-10-02 22:00:37",
+      "album": {
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+      },
+      "artists": [
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
-        "name": "Inselfieber",
-        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 153956,
-      "name": "Inselfieber",
-      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
-    },
-    {
-      "added_at": "2025-10-02 22:00:37",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+    },
+    {
+      "added_at": "2025-10-02 22:00:37",
+      "album": {
+        "name": "Inselfieber",
+        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 153956,
+      "name": "Inselfieber",
+      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2025-10-02 22:00:37",
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 239466,
       "name": "7 S\u00fcnden - Party Mix",
       "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
-    },
-    {
-      "added_at": "2025-10-02 22:00:37",
-      "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
-      },
-      "artists": [
-        {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2025-10-02 22:00:37",
-      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -1267,18 +1247,22 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -1295,6 +1279,22 @@
       "duration_ms": 216706,
       "name": "Du bist mein Gl\u00fcck",
       "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
+    },
+    {
+      "added_at": "2025-10-02 22:00:37",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
-        "name": "Hallo kleine Maus",
-        "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
-      },
-      "artists": [
-        {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        },
-        {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
-        }
-      ],
-      "duration_ms": 170180,
-      "name": "Hallo kleine Maus",
-      "url": "https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd"
-    },
-    {
-      "added_at": "2025-10-02 22:00:37",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1387,18 +1367,22 @@
     {
       "added_at": "2025-10-02 22:00:37",
       "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+        "name": "Hallo kleine Maus",
+        "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
       },
       "artists": [
         {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
         }
       ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+      "duration_ms": 170180,
+      "name": "Hallo kleine Maus",
+      "url": "https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd"
     },
     {
       "added_at": "2025-10-02 22:00:37",
@@ -1419,6 +1403,22 @@
       "duration_ms": 212250,
       "name": "Oben unten - Party Edit",
       "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
+    },
+    {
+      "added_at": "2025-10-02 22:00:37",
+      "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2025-10-02 22:00:37",

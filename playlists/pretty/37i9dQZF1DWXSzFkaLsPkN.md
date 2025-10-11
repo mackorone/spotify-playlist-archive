@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Tanmaya Bhatnagar
+> Hindi hai, Indie hai! Cover\- When Chai Met Toast
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,778 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,784 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 |
+| 1 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
 | 2 | [Khud Ko Miloon](https://open.spotify.com/track/2A5Gmg2gCYXpLJ3aVuGYSc) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:40 |
 | 3 | [Jaane Na Tu](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
 | 4 | [Finding Her \(Female Version\)](https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her \(Female Version\)](https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL) | 3:26 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 21 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
 | 22 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
 | 23 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
-| 24 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
-| 25 | [SHARMEELI](https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [SHARMEELI](https://open.spotify.com/album/2uZeb9NCQY76An8LqPMX5K) | 2:10 |
+| 24 | [SHARMEELI](https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [SHARMEELI](https://open.spotify.com/album/2uZeb9NCQY76An8LqPMX5K) | 2:10 |
+| 25 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
 | 26 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
 | 27 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 28 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 39 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 |
 | 40 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 | 41 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
-| 42 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 |
-| 43 | [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
+| 42 | [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
+| 43 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 |
 | 44 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 45 | [Gulfam](https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Gulfam](https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt) | 2:33 |
 | 46 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 |
-| 47 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
-| 48 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
+| 47 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
+| 48 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 49 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 50 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 |
 
-Snapshot ID: `AAAAAPV4o2thBo3OIQ1NN3E45Ur/xuJT`
+Snapshot ID: `AAAAAAjVEWdj3nVnizNEPZtxLMfE5Vbv`

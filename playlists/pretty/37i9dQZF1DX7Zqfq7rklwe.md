@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa AC/DC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,621 likes - 79 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,619 likes - 79 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 14 | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 |
 | 15 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
 | 16 | [Fall of Angels](https://open.spotify.com/track/07ZL2BdiLp1Mzazcm3ikZQ) | [Charon](https://open.spotify.com/artist/2FBDDo06NZR5B7qOzmMxq9) | [Fall of Angels](https://open.spotify.com/album/40i1Azb1M7Pezo5D8q1UHQ) | 3:33 |
-| 17 | [Track 1](https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [Creatures of Chaos \(feat\. Tyler Connolly of Theory of a Deadman\)](https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Creatures of Chaos \(feat\. Tyler Connolly of Theory of a Deadman\)](https://open.spotify.com/album/0k3uzU6fHFYok6YZsIxAaL) | 3:21 |
 | 18 | [Angel Of Midnight](https://open.spotify.com/track/4ElS6G17jF87cluP3rn8Aa) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Angel of Midnight](https://open.spotify.com/album/4HlR5iQDk57xUQeBTMwNhK) | 3:26 |
 | 19 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 |
 | 20 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 28 | [Many Doors to Hell](https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Mandrake Project](https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy) | 4:48 |
 | 29 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
 | 30 | [Dead End](https://open.spotify.com/track/1qYto5saFz03lgET0Kcb8W) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Dead End](https://open.spotify.com/album/07jg0qHyZftzBT2bClnwTs) | 3:35 |
-| 31 | [From the Bottom of My Heart](https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [](https://open.spotify.com/album/null) | 3:10 |
+| 31 | [From the Bottom of My Heart](https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Come Hell, Come High Water](https://open.spotify.com/album/7mczEKzLUFG5OuNJWB07KI) | 3:10 |
 | 32 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |
 | 33 | [Live a Little More](https://open.spotify.com/track/5ivbtuAQM2L5TsF6Q38ejf) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Live a Little More](https://open.spotify.com/album/3Pxaui1ScInPVpxKhxf31a) | 3:03 |
 | 34 | [Join Me \- Razorblade Mix](https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance](https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N) | 3:36 |

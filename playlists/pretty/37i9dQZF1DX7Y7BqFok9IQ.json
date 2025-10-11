@@ -1,13 +1,45 @@
 {
-  "description": "The best of modern blues rock. Cover: Robert Randolph",
-  "num_followers": 246576,
+  "description": "The best of modern blues rock. Cover: Samantha Fish",
+  "num_followers": 246716,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNq/6JyG6BQn/o14zhz5opb/lIt",
+  "snapshot_id": "AAAAAIIr38Jbdfhf4apRTNmSZuZWPBrX",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:23",
+      "album": {
+        "name": "Paper Doll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 177911,
+      "name": "Dead Armadillo",
+      "url": "https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R"
+    },
+    {
+      "added_at": "2025-10-10 04:00:23",
+      "album": {
+        "name": "Hollow Souls",
+        "url": "https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO"
+      },
+      "artists": [
+        {
+          "name": "Hollow Souls",
+          "url": "https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4"
+        }
+      ],
+      "duration_ms": 192043,
+      "name": "I Need The Fire",
+      "url": "https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55"
+    },
     {
       "added_at": "2025-09-26 04:00:30",
       "album": {
@@ -39,26 +71,6 @@
       "duration_ms": 120994,
       "name": "Running Dry",
       "url": "https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt"
-    },
-    {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "Burn It To The Ground",
-        "url": "https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l"
-      },
-      "artists": [
-        {
-          "name": "Hollow Souls",
-          "url": "https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4"
-        },
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Burn It To The Ground",
-      "url": "https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh"
     },
     {
       "added_at": "2025-06-27 04:00:26",
@@ -199,22 +211,6 @@
       "duration_ms": 270736,
       "name": "Nowheresville",
       "url": "https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B"
-    },
-    {
-      "added_at": "2025-04-25 04:00:41",
-      "album": {
-        "name": "Paper Doll",
-        "url": "https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 193575,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE"
     },
     {
       "added_at": "2025-04-18 04:00:33",

@@ -19647,6 +19647,28 @@
     },
     {
       "album": {
+        "name": "Altas Modas",
+        "url": "https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh"
+      },
+      "artists": [
+        {
+          "name": "Matheus Vargas",
+          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
+        },
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150442,
+      "name": "Desocupa",
+      "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -30638,7 +30660,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
@@ -30752,7 +30774,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -42194,6 +42216,24 @@
       "duration_ms": 156800,
       "name": "Me Soca",
       "url": "https://open.spotify.com/track/2rRZwiJajLqunfgbyHVFln"
+    },
+    {
+      "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/7Gs4I1xLW1tXmKl1VsTQlN"
+      },
+      "artists": [
+        {
+          "name": "Hikari de Jesus",
+          "url": "https://open.spotify.com/artist/0MZFhWkDpPm22WO4cpMvuV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272920,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/34F1HgHyAb0pZMJqY197Zu"
     },
     {
       "album": {
@@ -56772,7 +56812,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 162325,
       "name": "Pela \u00daltima Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
@@ -68542,7 +68582,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 128306,
       "name": "Sobe Na Moto Roubadona",
       "url": "https://open.spotify.com/track/55X6DSZ3CEWeIQrVxMOR9h"
@@ -71924,6 +71964,24 @@
       "duration_ms": 144324,
       "name": "Tdah",
       "url": "https://open.spotify.com/track/5ZfQKJgYcy7jCMuhAZReup"
+    },
+    {
+      "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/7Gs4I1xLW1tXmKl1VsTQlN"
+      },
+      "artists": [
+        {
+          "name": "Hikari de Jesus",
+          "url": "https://open.spotify.com/artist/0MZFhWkDpPm22WO4cpMvuV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Te Adorarei",
+      "url": "https://open.spotify.com/track/1E1ysbNytpIUV9UYJVD7yq"
     },
     {
       "album": {
@@ -82176,7 +82234,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 175324,
       "name": "yes baby",
       "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"

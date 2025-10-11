@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Laufey",
+  "description": "Sit back and relax to the chillest pop.  Cover: LANY",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 175716,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 167973,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go"
@@ -10255,6 +10255,28 @@
     },
     {
       "album": {
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -11167,6 +11189,24 @@
     },
     {
       "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
@@ -11562,7 +11602,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 168056,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
@@ -14927,6 +14967,24 @@
     },
     {
       "album": {
+        "name": "greener / garden",
+        "url": "https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "greener",
+      "url": "https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU"
+    },
+    {
+      "album": {
         "name": "Sing To Me Instead",
         "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
       },
@@ -15148,6 +15206,24 @@
       "duration_ms": 186626,
       "name": "Hallucinogenics (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/4A8pBxx0of2Y8r56dT0atf"
+    },
+    {
+      "album": {
+        "name": "Hand On The Bible",
+        "url": "https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210162,
+      "name": "Hand On The Bible",
+      "url": "https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx"
     },
     {
       "album": {
@@ -16227,6 +16303,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1crHdZFarYJBfcHuq7sdN5"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181721,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0YuAog2t6aOgioIXKboKDQ"
+    },
+    {
+      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
       },
@@ -17032,6 +17126,24 @@
       "duration_ms": 139115,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/3QDQyIW4SgoGxDosNGLByc"
+    },
+    {
+      "album": {
+        "name": "How Long Can You Stay?",
+        "url": "https://open.spotify.com/album/3WiAxGN8ZW16RuQdBtBeG8"
+      },
+      "artists": [
+        {
+          "name": "Tabi Gervis",
+          "url": "https://open.spotify.com/artist/6OSOFnMPlyn8gHxIhEpSyI"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "How Long Can You Stay?",
+      "url": "https://open.spotify.com/track/2l2xm3pOi0VBj1AtwMDtwF"
     },
     {
       "album": {
@@ -18052,6 +18164,28 @@
       "duration_ms": 174000,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
+        "name": "before & after",
+        "url": "https://open.spotify.com/album/539HN7fgdZv9lVCCG1zVGG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193316,
+      "name": "i have a crush on you",
+      "url": "https://open.spotify.com/track/5zyy6rCsnG4OMxL2VLDAoM"
     },
     {
       "album": {
@@ -19364,7 +19498,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 188925,
       "name": "in due time.",
       "url": "https://open.spotify.com/track/4KIXuIceCOGPu1UB0sHA6m"
@@ -21338,7 +21472,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 223080,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
@@ -23772,7 +23906,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 148151,
       "name": "Lovesong 2",
       "url": "https://open.spotify.com/track/1PoE4D8hQ6zwQrTvlH2OTp"
@@ -25153,6 +25287,24 @@
     },
     {
       "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223399,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s"
+    },
+    {
+      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -25858,7 +26010,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 211615,
       "name": "Motel 6",
       "url": "https://open.spotify.com/track/48UjTuQXKI2h99PstOiTQY"
@@ -30031,6 +30183,24 @@
     },
     {
       "album": {
+        "name": "Pindrop",
+        "url": "https://open.spotify.com/album/6Evr4r8MxqnoEb1ttAVskr"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168573,
+      "name": "Pindrop",
+      "url": "https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI"
+    },
+    {
+      "album": {
         "name": "Pink Balloon (Acoustic)",
         "url": "https://open.spotify.com/album/3OZJKFtUWnWK0tyRUUE49O"
       },
@@ -31594,7 +31764,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 181534,
       "name": "Rerun",
       "url": "https://open.spotify.com/track/6CLSlhPqcNo5970NqTWyMO"
@@ -32818,7 +32988,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 198400,
       "name": "Scared of Myself",
       "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
@@ -36549,6 +36719,24 @@
     },
     {
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183803,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+    },
+    {
+      "album": {
         "name": "Stuck in the Middle",
         "url": "https://open.spotify.com/album/19udHG59Ov2Vjv1wn7as3q"
       },
@@ -40049,6 +40237,28 @@
     },
     {
       "album": {
+        "name": "Tie you down",
+        "url": "https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6"
+    },
+    {
+      "album": {
         "name": "Nobody Is Listening",
         "url": "https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t"
       },
@@ -40136,7 +40346,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 219413,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
@@ -40504,7 +40714,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 166974,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4"
@@ -42508,7 +42718,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 246696,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
@@ -42968,6 +43178,24 @@
       "duration_ms": 252385,
       "name": "When Emma Falls in Love (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
     },
     {
       "album": {
@@ -43741,6 +43969,28 @@
     },
     {
       "album": {
+        "name": "Wild, Love",
+        "url": "https://open.spotify.com/album/1Y2t8BSOn9Ydi26GSJtSr5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Plevyak",
+          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "Wild, Love",
+      "url": "https://open.spotify.com/track/5Pq4bwoBblDt07xEomEI6f"
+    },
+    {
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -44488,7 +44738,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 140795,
       "name": "WYWM",
       "url": "https://open.spotify.com/track/09FB6lI1flqd0twCdwEI3l"

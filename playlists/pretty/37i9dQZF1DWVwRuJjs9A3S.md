@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Markus Krunegård.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,887 likes - 166 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,886 likes - 166 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 |
-| 2 | [Track 6](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 |
 | 3 | [Past Lives](https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Past Lives](https://open.spotify.com/album/5xYi9SNcnF8kvwhIhsx6nf) | 2:57 |
 | 4 | [Rage Song](https://open.spotify.com/track/1mZsxI7QtNxMEZvBKnRPFN) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Rage Song](https://open.spotify.com/album/4qJlBhyclw8Dz0uRzfiyzL) | 2:54 |
 | 5 | [Respawn](https://open.spotify.com/track/0JqIiFQR0qkoYRcunwKgjw) | [Spawner](https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK) | [Air Is Getting Stranger](https://open.spotify.com/album/6HySVgcKpNxWPO4gNeGIy6) | 3:09 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 9 | [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 |
 | 10 | [Love How It Feels](https://open.spotify.com/track/6Fx3P9danCmSW1d8sZ9aAF) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Love How It Feels](https://open.spotify.com/album/6I4cQwheAaAfnlYylLoJeL) | 3:04 |
 | 11 | [Ögonen](https://open.spotify.com/track/3hVAR6Gy8x48yXfyZB8cEU) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ögonen](https://open.spotify.com/album/1oS4eeYnTQ1nBTLz3HeQPA) | 3:48 |
-| 12 | [Track 4](https://open.spotify.com/track/31b0S2vTiOwQQrHh5IZWMQ) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Ge mig en till](https://open.spotify.com/track/31b0S2vTiOwQQrHh5IZWMQ) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Pojken utan namn](https://open.spotify.com/album/5DNBJBbqdaBwEfxvVABDar) | 3:05 |
 | 13 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 |
 | 14 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 15 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |

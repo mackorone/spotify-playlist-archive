@@ -1,12 +1,12 @@
 {
   "description": "This is Miel San Marcos. The essential tracks, all in one playlist.",
-  "num_followers": 59669,
+  "num_followers": 59680,
   "original_name": "This Is Miel San Marcos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAx8548DeE0aNzT28T0GREE",
+  "snapshot_id": "aOb7AAAAAACz47ZjNaKtPn6LwWq8fqu8",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shekinah (Live)",
-        "url": "https://open.spotify.com/album/6copG6KLyeYLmwS7t1mTaG"
+        "name": "Tu Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
       },
       "artists": [
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        },
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 510941,
-      "name": "Shekinah - Live",
-      "url": "https://open.spotify.com/track/2IWoa4xlbEMsQDh5xjIbTw"
+      "duration_ms": 125000,
+      "name": "Glorificate",
+      "url": "https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W"
     },
     {
       "added_at": null,
@@ -379,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
+        "name": "Shekinah (Live)",
+        "url": "https://open.spotify.com/album/6copG6KLyeYLmwS7t1mTaG"
       },
       "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 125000,
-      "name": "Glorificate",
-      "url": "https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W"
+      "duration_ms": 510941,
+      "name": "Shekinah - Live",
+      "url": "https://open.spotify.com/track/2IWoa4xlbEMsQDh5xjIbTw"
     },
     {
       "added_at": null,

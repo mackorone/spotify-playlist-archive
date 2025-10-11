@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "At least I tried",
+        "url": "https://open.spotify.com/album/1K8Hp4zYSZUQ9Isd4rsh5y"
+      },
+      "artists": [
+        {
+          "name": "Roe Byrne",
+          "url": "https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "At least I tried",
+      "url": "https://open.spotify.com/track/24jh3fHmPSzYhC7eVhWFNF"
+    },
+    {
+      "album": {
         "name": "friendly",
         "url": "https://open.spotify.com/album/6BgBexfL93XS2JpetgXaVw"
       },
@@ -598,6 +616,24 @@
       "duration_ms": 256703,
       "name": "Bite The Bridle",
       "url": "https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO"
+    },
+    {
+      "album": {
+        "name": "Bittersweet (Acoustic)",
+        "url": "https://open.spotify.com/album/1K7Mj1kKBTuLWOko0LcIWv"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263343,
+      "name": "Bittersweet - Acoustic",
+      "url": "https://open.spotify.com/track/3LtzKkXhFPuviPWtUx8Thy"
     },
     {
       "album": {
@@ -884,7 +920,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 178068,
       "name": "Bronco Loko.",
       "url": "https://open.spotify.com/track/4zV9G0EKiegk5BQnWGQpIY"
@@ -1232,6 +1268,24 @@
       "duration_ms": 233095,
       "name": "cigarette chokehold",
       "url": "https://open.spotify.com/track/6VR11ug53Ni5IO8iyFFWZI"
+    },
+    {
+      "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/4TQJvGY0IVCuUltUFlclPX"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4DaMcMLXVzMsOVznW9R6Kl"
     },
     {
       "album": {
@@ -1942,7 +1996,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 165868,
       "name": "Ex-Friend",
       "url": "https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw"
@@ -2991,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Lawmaker",
+        "url": "https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY"
+      },
+      "artists": [
+        {
+          "name": "YARD",
+          "url": "https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "Lawmaker",
+      "url": "https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu"
+    },
+    {
+      "album": {
         "name": "Let's Do It",
         "url": "https://open.spotify.com/album/2UWXMQJvCyQzLv7huGCL1a"
       },
@@ -3432,7 +3504,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 133091,
       "name": "Memories",
       "url": "https://open.spotify.com/track/6lxkrfiRqN7EN0VxnduNvj"
@@ -4850,7 +4922,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 197854,
       "name": "Sister",
       "url": "https://open.spotify.com/track/4Hinsho6izFJGgTZffKRJt"
@@ -5261,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "Taper",
+        "url": "https://open.spotify.com/album/4itcZ6tg7e2l0eRLpnv4Yp"
+      },
+      "artists": [
+        {
+          "name": "Hilary Woods",
+          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Taper",
+      "url": "https://open.spotify.com/track/57jMka3MGAQLDH2aT4tdse"
+    },
+    {
+      "album": {
         "name": "Teeth",
         "url": "https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U"
       },
@@ -5402,7 +5492,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 185666,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5HAAsGtJS52SxqTp2upWqM"
@@ -5796,7 +5886,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 247246,
       "name": "TWO SIDES",
       "url": "https://open.spotify.com/track/2obagAOY1SvYnEtSb9Q1a4"
@@ -6374,6 +6464,28 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "album": {
+        "name": "Youngiz On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/3v09s2COSRrwYE9cO7oh0c"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Youngiz",
+          "url": "https://open.spotify.com/artist/45smSkRjMJ2UzaB4KyydMV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148002,
+      "name": "Youngiz On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/54fkg6Q5U1sT6LCfpc0MOe"
     },
     {
       "album": {

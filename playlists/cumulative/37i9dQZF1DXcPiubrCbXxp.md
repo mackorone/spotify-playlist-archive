@@ -4,7 +4,7 @@
 
 > that 50s kinda feeling, cover: Kings Elliot
 
-110 songs - 6 hr 3 min
+111 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2023-08-04 | 2024-04-24 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-09-15 | 2024-04-19 |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2023-08-04 |  |
-| [Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:03 | 2023-08-04 |  |
+| [Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:03 | 2023-08-04 | 2025-10-11 |
 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78) | 4:41 | 2023-08-04 | 2023-09-23 |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2023-08-04 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 | 2023-12-09 |
@@ -117,6 +117,7 @@
 | [White Limo Stuck in the Snow](https://open.spotify.com/track/54Gb397nhS9OKNVE1jlyXn) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk) | 4:03 | 2024-03-22 | 2024-04-19 |
 | [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2023-09-29 |  |
 | [Who’s Sorry Now](https://open.spotify.com/track/7wqweImXyeJY1ySXMcL7oV) | [Gracie Lawrence](https://open.spotify.com/artist/2HVDXxSGMTzRX6SbzL36jB), [Original Broadway Cast of Just In Time](https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG) | [Just In Time](https://open.spotify.com/album/7J1RtZH5DS4Ni0pmCTGT7f) | 2:55 | 2025-09-26 |  |
+| [Wild, Love](https://open.spotify.com/track/5Pq4bwoBblDt07xEomEI6f) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Wild, Love](https://open.spotify.com/album/1Y2t8BSOn9Ydi26GSJtSr5) | 3:14 | 2025-10-10 |  |
 | [You’re My World](https://open.spotify.com/track/5ZnopBrM4ANzVmiLPohvDC) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa) | [Last Night In Soho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DzZicbRx0J0zBg3yg7B1p) | 3:03 | 2023-08-04 | 2024-01-05 |
 
 \*This playlist was first scraped on 2023-08-10. Prior content cannot be recovered.

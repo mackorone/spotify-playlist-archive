@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-681 songs - 1 day 10 hr 53 min
+681 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-25 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 | 2025-04-18 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 | 2025-06-27 |
-| [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [](https://open.spotify.com/album/null) | 4:17 | 2025-10-09 |  |
+| [mountain eagle](https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Space Sicks Basics](https://open.spotify.com/album/5mXdLAugxAMyV8fQafUiyT) | 4:17 | 2025-10-09 |  |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-19 | 2025-08-08 |
 | [Ms\. Karma](https://open.spotify.com/track/1QZauBpNTCMFOnHUkKgNsu) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Ms\. Karma](https://open.spotify.com/album/0wt0zazV5kSNgb7jDrmnAg) | 2:26 | 2024-12-12 | 2025-01-17 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-11-08 |
@@ -609,7 +609,6 @@
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2025-01-17 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
-| [Track 5](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 | 2025-10-02 |  |
 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-02 |  |
@@ -630,6 +629,7 @@
 | [Under Overfladen](https://open.spotify.com/track/2EXmj5AkvJLRhPVRUMZqw8) | [Turboweekend](https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80) | [Under Overfladen](https://open.spotify.com/album/2eOjVHqji1tnIcwDGKnM35) | 4:26 | 2025-03-13 | 2025-03-28 |
 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 | 2025-05-01 | 2025-08-15 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-06-06 |
+| [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 | 2025-10-09 |  |
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-11-08 |
 | [USA](https://open.spotify.com/track/4HYYZOR5yrMXFmBwy7B1Rr) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [USA](https://open.spotify.com/album/5bUj4hJuxkN4ukskJwmHW5) | 3:11 | 2025-03-20 | 2025-04-11 |
@@ -663,7 +663,7 @@
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-04-25 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-06-06 |
 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2025-08-28 | 2025-09-12 |
-| [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [](https://open.spotify.com/album/null) | 3:13 | 2025-10-09 |  |
+| [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-09 |  |
 | [When I Open My Eyes](https://open.spotify.com/track/0thJsODpMsCoEaE1c7GCfL) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf), [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [When I Open My Eyes](https://open.spotify.com/album/5fK5IMWLlxJ7V0lc8KWjkD) | 2:31 | 2024-07-05 | 2024-10-04 |
 | [When We Were Young](https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Real Life](https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP) | 2:55 | 2025-08-28 |  |
 | [While I Wait](https://open.spotify.com/track/6GYMznRKkmhmMIVGHOtdXC) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [While I Wait](https://open.spotify.com/album/0lcSekXfQJkQwP50JzZ8P1) | 2:58 | 2025-09-11 |  |

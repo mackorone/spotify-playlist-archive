@@ -4,7 +4,7 @@
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-100 songs - 6 hr 46 min
+101 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 | 2023-10-13 |  |
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2023-10-13 |  |
 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 | 2023-10-13 |  |
-| [I Love the Dead](https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 5:07 | 2023-10-13 |  |
+| [I Love the Dead](https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 5:07 | 2023-10-13 | 2025-10-11 |
 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/2WAyob28woJ33khnZ2VI4Z) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 3:06 | 2023-10-13 | 2025-10-01 |
 | [I'm Not A Vampire](https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:51 | 2023-10-13 |  |
 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 | 2023-10-13 |  |
@@ -88,6 +88,7 @@
 | [Teenage Frankenstein](https://open.spotify.com/track/3YBIjZM0WDEQRpVcXyH4vx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Constrictor](https://open.spotify.com/album/3F3JU1MJDN9PgHFwbCvFvV) | 3:40 | 2025-09-30 |  |
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2023-10-13 |  |
 | [The Devil in I](https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:42 | 2023-10-13 |  |
+| [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 |  |
 | [The Number Of The Beast \- 1998 Remastered Version](https://open.spotify.com/track/1s4Ie0cT6P73SRSfh3oyGW) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number Of The Beast \(1998 Remastered Edition\)](https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3) | 4:51 | 2024-10-11 | 2025-02-05 |
 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 | 2023-10-13 |  |
 | [Them Bones](https://open.spotify.com/track/0FqQfY1Gc0WdaQ7C1SqFYj) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Halloween Classics: Hellbent For Halloween](https://open.spotify.com/album/2OQTV9NC0XWPI3gBBd2UDJ) | 2:30 | 2025-09-30 |  |

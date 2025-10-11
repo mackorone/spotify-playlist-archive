@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2968804,
+  "num_followers": 2969282,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADfsnABIf7Qs5I4HJPx2o8V",
+  "snapshot_id": "aOb7AAAAAADlNta0957neGt/vWh3k1QB",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208739,
-      "name": "Let You Fade",
-      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169800,
       "name": "Heavy (feat. Kiiara)",
       "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 208739,
+      "name": "Let You Fade",
+      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
     },
     {
       "added_at": null,

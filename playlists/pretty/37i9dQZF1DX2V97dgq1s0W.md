@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: Lianne La Havas
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,164 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,202 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 5 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 6 | [Is It a Crime](https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:01 |
 | 7 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5) | 3:32 |
-| 8 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [](https://open.spotify.com/album/null) | 2:50 |
+| 8 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 |
 | 9 | [Useless \(Without You\) \- Begging Remix](https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Useless \(Without You\) \[Begging Remix\]](https://open.spotify.com/album/0bqXDEj0z7zFICu38GyvEt) | 3:07 |
 | 10 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 11 | [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 |

@@ -4,7 +4,7 @@
 
 > indie twang fall bby 🍂 Frog on the cover
 
-322 songs - 20 hr 47 min
+324 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Buzzing in the Light](https://open.spotify.com/track/7gV7j4aFSU93vQC9d67rt5) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/0kafVzFVwhsAjOzA2h6QQB) | 4:01 | 2024-04-14 | 2025-09-20 |
 | [Cadillac](https://open.spotify.com/track/5wkPrNPC9DFUCyLIJ9wytE) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Cadillac](https://open.spotify.com/album/66hxxcnB5jqZm6wxgHUabu) | 3:16 | 2025-02-28 |  |
 | [Call It Easy \- Edit](https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Call It Easy](https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1) | 4:24 | 2025-04-25 |  |
-| [Carolina Murder Suicide](https://open.spotify.com/track/4sMDb5nYg6dlpUGoDIbnro) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 4:24 | 2025-09-19 |  |
+| [Carolina Murder Suicide](https://open.spotify.com/track/4sMDb5nYg6dlpUGoDIbnro) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 4:24 | 2025-09-19 | 2025-10-11 |
 | [Carthage](https://open.spotify.com/track/0e0T3WcSL0IvHFc2CqMLIy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 5:30 | 2023-04-28 | 2024-04-19 |
 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 | 2023-02-23 |  |
 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2023-05-19 |  |
@@ -296,6 +296,7 @@
 | [Thinking About You](https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 6:36 | 2024-11-15 |  |
 | [Thoroughfare](https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 9:27 | 2023-02-23 |  |
 | [Through The Fires](https://open.spotify.com/track/3Eh3wDt6HDAx8mxDrOxIsQ) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:31 | 2023-02-23 | 2023-07-15 |
+| [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-10 |  |
 | [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 | 2023-02-23 | 2025-02-26 |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-09-22 |  |
 | [Today’s Iconoclast](https://open.spotify.com/track/5MssMfTSURfl8FaHlNqbZR) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 3:03 | 2024-11-15 |  |
@@ -322,6 +323,7 @@
 | [Wide Open Spaces](https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Wide Open Spaces](https://open.spotify.com/album/77ETBs8gKb44SezIbEMOp9) | 5:01 | 2023-09-12 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-09-06 |  |
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 |  |
+| [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:28 | 2025-10-10 |  |
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-11-15 |  |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 | 2023-12-09 |

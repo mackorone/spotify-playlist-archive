@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 158884,
       "name": "+18",
       "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
@@ -3133,6 +3133,28 @@
     },
     {
       "album": {
+        "name": "Indom\u00e1vel",
+        "url": "https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA"
+      },
+      "artists": [
+        {
+          "name": "CRIOLA",
+          "url": "https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112166,
+      "name": "Indom\u00e1vel",
+      "url": "https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ"
+    },
+    {
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -3730,7 +3752,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 187350,
       "name": "Maldita",
       "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
@@ -5372,6 +5394,28 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+    },
+    {
+      "album": {
+        "name": "Porque n\u00e3o",
+        "url": "https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq"
+      },
+      "artists": [
+        {
+          "name": "Buh",
+          "url": "https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v"
+        },
+        {
+          "name": "S3X!",
+          "url": "https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Porque n\u00e3o",
+      "url": "https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi"
     },
     {
       "album": {

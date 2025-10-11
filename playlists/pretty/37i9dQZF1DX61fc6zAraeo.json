@@ -767,6 +767,22 @@
     {
       "added_at": "2025-10-09 12:05:52",
       "album": {
+        "name": "Freek Like Me",
+        "url": "https://open.spotify.com/album/3w58vPtV09dITZTOIhjUz5"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Freek Like Me",
+      "url": "https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo"
+    },
+    {
+      "added_at": "2025-10-09 12:05:52",
+      "album": {
         "name": "Freaking You Out",
         "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 182968,
       "name": "Freaking You Out",
       "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
-    },
-    {
-      "added_at": "2025-10-09 12:05:52",
-      "album": {
-        "name": "Freek Like Me",
-        "url": "https://open.spotify.com/album/3w58vPtV09dITZTOIhjUz5"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Freek Like Me",
-      "url": "https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo"
     },
     {
       "added_at": "2025-10-09 12:05:52",

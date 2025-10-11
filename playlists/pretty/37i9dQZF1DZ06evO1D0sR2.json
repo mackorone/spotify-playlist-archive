@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3112,
+  "num_followers": 3113,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACDIeFehbWB0c3ZJHgfguGT",
+  "snapshot_id": "aOb7AAAAAACDhjZe2zXEQISs4AxW3XEy",
   "tracks": [
     {
       "added_at": null,
@@ -376,13 +376,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
         }
       ],
-      "duration_ms": 104160,
-      "name": "He Loves Us - Live",
-      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
     },
     {
       "added_at": null,
@@ -438,15 +438,11 @@
         {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 417773,
-      "name": "I Feel You Moving",
-      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
+      "duration_ms": 338986,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
     },
     {
       "added_at": null,
@@ -464,13 +460,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Greg Kirkland, Jr.",
-          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
+      "duration_ms": 104160,
+      "name": "He Loves Us - Live",
+      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
     },
     {
       "added_at": null,
@@ -522,11 +518,15 @@
         {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 338986,
-      "name": "You Are Worthy",
-      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
+      "duration_ms": 417773,
+      "name": "I Feel You Moving",
+      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
     },
     {
       "added_at": null,
@@ -551,30 +551,6 @@
       "duration_ms": 448920,
       "name": "Have Your Way - Live",
       "url": "https://open.spotify.com/track/6PvPytwKH5xJ68tVbolnMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
-        }
-      ],
-      "duration_ms": 201765,
-      "name": "Praise To The Rock - Live",
-      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
     },
     {
       "added_at": null,
@@ -623,6 +599,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+        }
+      ],
+      "duration_ms": 201765,
+      "name": "Praise To The Rock - Live",
+      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
         "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
       },
@@ -643,34 +643,6 @@
       "duration_ms": 502359,
       "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
       "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Trina Hairston",
-          "url": "https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz"
-        },
-        {
-          "name": "David Wilford",
-          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
-        }
-      ],
-      "duration_ms": 405333,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/5ao5JTrKR9K4kSHEUibcSy"
     },
     {
       "added_at": null,
@@ -715,6 +687,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Trina Hairston",
+          "url": "https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "duration_ms": 405333,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/5ao5JTrKR9K4kSHEUibcSy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe Again, Vol. II",
         "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
@@ -735,30 +735,6 @@
       "duration_ms": 292276,
       "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
       "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Donishisa Ballard",
-          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
-        }
-      ],
-      "duration_ms": 348755,
-      "name": "Stretch Out - Live",
-      "url": "https://open.spotify.com/track/7jK7b2h7B6INaJTcogXFBq"
     },
     {
       "added_at": null,
@@ -799,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+        }
+      ],
+      "duration_ms": 348755,
+      "name": "Stretch Out - Live",
+      "url": "https://open.spotify.com/track/7jK7b2h7B6INaJTcogXFBq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
@@ -823,6 +823,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 342773,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Sound",
+        "url": "https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk"
+      },
+      "artists": [
+        {
+          "name": "Full Gospel Baptist Church Fellowship International Ministry of Worship",
+          "url": "https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 395426,
+      "name": "You Reign",
+      "url": "https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Live Reunion: Washington, DC",
         "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
       },
@@ -843,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 342773,
-      "name": "He Reigns",
-      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
@@ -875,6 +895,26 @@
       "duration_ms": 552369,
       "name": "I Am Thankful",
       "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 413533,
+      "name": "Everything Is Changed - Live",
+      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
     },
     {
       "added_at": null,
@@ -916,53 +956,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Wendi H. Wyatt",
-          "url": "https://open.spotify.com/artist/3Z9zNs4VOdu9Sxlonm5j06"
+          "name": "David McClure",
+          "url": "https://open.spotify.com/artist/5f5PYElfobGAfkAzmnVWxB"
         }
       ],
-      "duration_ms": 402156,
-      "name": "Song Of Praise - Live",
-      "url": "https://open.spotify.com/track/1W6V1aIkv5IWisAus6Ovmn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 413533,
-      "name": "Everything Is Changed - Live",
-      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Sound",
-        "url": "https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk"
-      },
-      "artists": [
-        {
-          "name": "Full Gospel Baptist Church Fellowship International Ministry of Worship",
-          "url": "https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 395426,
-      "name": "You Reign",
-      "url": "https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu"
+      "duration_ms": 164966,
+      "name": "Incredible God - Live",
+      "url": "https://open.spotify.com/track/6qcF5wQapNhjHsTYiHw5gh"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
       "duration_ms": 329200,
       "name": "You Are Awesome",
       "url": "https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 423386,
-      "name": "All Things Well",
-      "url": "https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8"
     },
     {
       "added_at": null,
@@ -1023,30 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy Is Here (Live)",
-        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Gathering Place Worship Choir",
-          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
-        }
-      ],
-      "duration_ms": 499448,
-      "name": "We Adore You - Live",
-      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Live Reunion: Washington, DC (Live / Deluxe)",
         "url": "https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6"
       },
@@ -1067,6 +1023,50 @@
       "duration_ms": 423176,
       "name": "The Ruler - Live",
       "url": "https://open.spotify.com/track/3lsNrzXDqETWxTGW9OatY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 423386,
+      "name": "All Things Well",
+      "url": "https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "duration_ms": 499448,
+      "name": "We Adore You - Live",
+      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
     }
   ],
   "unique_name": "This Is JJ Hairston",

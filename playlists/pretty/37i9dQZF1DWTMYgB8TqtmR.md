@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,221 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,183 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 37 | [Trophy](https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 3:10 |
 | 38 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
 | 39 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 40 | [Backspegeln](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 |
+| 40 | [Backspegeln \- Radio Edit](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 |
 | 41 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 42 | [Håller Mig Själv](https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Håller Mig Själv](https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez) | 1:49 |
 | 43 | [Räddare i nöden](https://open.spotify.com/track/3QR9CKSgMGMq27gnSl5pft) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Räddare i nöden](https://open.spotify.com/album/4yY4PIqnPv3UYRvIaJU0X7) | 4:01 |

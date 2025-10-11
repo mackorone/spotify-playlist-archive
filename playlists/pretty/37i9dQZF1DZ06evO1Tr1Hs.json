@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 42928,
+  "num_followers": 42956,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAADD/0jUOpDpQyoEw3vKuLFZ",
+  "snapshot_id": "aOb7AAAAAABNVq3WOQ0t6KQQOZ9DZK5c",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle 2",
-        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
       "artists": [
         {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
-        {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 149594,
-      "name": "PB&J (with Ken Carson)",
-      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
+      "duration_ms": 176578,
+      "name": "Murda Musik (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+        "name": "Homixide Lifestyle 2",
+        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
         },
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 176578,
-      "name": "Murda Musik (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
+      "duration_ms": 149594,
+      "name": "PB&J (with Ken Carson)",
+      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
     },
     {
       "added_at": null,

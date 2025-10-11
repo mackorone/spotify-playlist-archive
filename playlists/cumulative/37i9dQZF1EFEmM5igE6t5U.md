@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-243 songs - 15 hr 34 min
+244 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Foolish Heart](https://open.spotify.com/track/1C1KvQ8BUB0rjEiX39P29C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 4:39 | 2023-03-09 | 2023-06-05 |
 | [Foolish Heart](https://open.spotify.com/track/3WfpkkRQPyg7m2rtqTELw3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 4:39 | 2023-06-04 |  |
 | [Ghetto Story Chapter 2 \(feat\. Alicia Keys\)](https://open.spotify.com/track/4lhwhaW9bTJ3GdSyEP8mah) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:45 | 2023-03-09 |  |
-| [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2023-03-09 |  |
+| [Girl on Fire](https://open.spotify.com/track/77xMtm3bTqLVN6FiJurLFv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys Tokyo Solo Show in 2025](https://open.spotify.com/album/0fzco3Tc9pfzx0FDpLlEJV) | 3:44 | 2025-10-10 |  |
+| [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2023-03-09 | 2025-10-11 |
 | [Girl on Fire](https://open.spotify.com/track/4lu1NPveXOHrRPxM9JOCZF) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Official Video\)](https://open.spotify.com/album/63qnRQUtNLeUPoraMbkDHM) | 3:52 | 2023-12-15 | 2024-02-02 |
 | [Girlfriend](https://open.spotify.com/track/40ZMTM45lMMhm1vBf7YMFK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:34 | 2023-03-09 |  |
 | [Go Ahead](https://open.spotify.com/track/2FeADxLaweWn04ktlPCxUt) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:35 | 2023-03-09 |  |

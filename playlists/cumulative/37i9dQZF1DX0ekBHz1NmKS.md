@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,018 songs - 4 day 8 hr 37 min
+2,019 songs - 4 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2025-03-14 |
 | [All My Life \- and then…](https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:35 | 2024-10-24 | 2025-04-14 |
+| [All Over Me](https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [All Over Me](https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB) | 2:37 | 2025-10-09 |  |
 | [All Over Town](https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [All Over Town](https://open.spotify.com/album/321cYact51YEkdO42GqeVe) | 3:47 | 2024-09-05 | 2025-03-28 |
 | [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 | 2025-10-06 |  |
 | [Alla Glömda Nätter](https://open.spotify.com/track/2fynD15EUzMbPtuKScAiNV) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett & Vita Pärlor](https://open.spotify.com/album/5rzvik02bW2rHsyaPGyS0f) | 4:16 | 2025-04-03 | 2025-06-12 |
@@ -141,7 +142,7 @@
 | [Bacchanal \(vem bryr sej om 200 år!?\)](https://open.spotify.com/track/0OQFqa9Iu94v7n0pH3f3XA) | [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bacchanal \(vem bryr sej om 200 år!?\)](https://open.spotify.com/album/6Q3yzxOqe25kwUTDH3JPWD) | 2:45 | 2025-06-05 |  |
 | [Back To You](https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Dance Cry Laugh Smile](https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD) | 2:42 | 2025-06-05 | 2025-07-21 |
 | [Back Together](https://open.spotify.com/track/7cmQtbfWsvsWBEdethfYz6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn), [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi), [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF) | [Back Together](https://open.spotify.com/album/4qXezjJFYWj356titZIkzc) | 2:30 | 2024-09-05 | 2024-10-06 |
-| [Backspegeln](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 | 2025-08-21 |  |
+| [Backspegeln \- Radio Edit](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 | 2025-08-21 |  |
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 | 2023-08-10 |
 | [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 | 2023-06-03 |
 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 | 2025-05-22 |  |
@@ -1602,7 +1603,7 @@
 | [Sparks](https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Sparks](https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ) | 3:34 | 2024-08-29 | 2024-09-29 |
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-23 |
-| [Spelar ingen roll](https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [](https://open.spotify.com/album/null) | 2:23 | 2025-10-09 |  |
+| [Spelar ingen roll](https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Äldsta Barnet](https://open.spotify.com/album/6mZAkeuzLJcNI0RvQIGGCV) | 2:23 | 2025-10-09 |  |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-05 | 2025-05-09 |
 | [Springer](https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Springer](https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe) | 3:23 | 2023-11-09 | 2024-02-09 |
 | [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 | 2025-10-06 |
@@ -1876,7 +1877,7 @@
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 | 2025-09-18 |  |
-| [Vem vill va själv](https://open.spotify.com/track/5r5OhizcTQcTcZTLukl8Tu) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Vem vill va själv](https://open.spotify.com/album/6FYC9Wfc8kKYt5xaw5qw7x) | 2:27 | 2025-09-01 |  |
+| [Vem vill va själv](https://open.spotify.com/track/5r5OhizcTQcTcZTLukl8Tu) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Vem vill va själv](https://open.spotify.com/album/6FYC9Wfc8kKYt5xaw5qw7x) | 2:27 | 2025-09-01 | 2025-10-11 |
 | [Vem är som du?](https://open.spotify.com/track/1m12BzPJh3Hx6V9MbUVnt7) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vem är som du?](https://open.spotify.com/album/5S0yNusAIpDXWx9nzqmI5V) | 3:18 | 2025-09-01 |  |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |
 | [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 | 2025-07-31 |

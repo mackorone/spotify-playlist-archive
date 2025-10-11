@@ -1,13 +1,29 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2066085,
+  "num_followers": 2066086,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAADe8nM6psdE14tzQVe5Cy2",
+  "snapshot_id": "aOb7AAAAAACp3A36Wqy1npbfnp8gi9gz",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+    },
     {
       "added_at": null,
       "album": {
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Bad Card",
-      "url": "https://open.spotify.com/track/2Zw5FtdFtvKWg4h44GOv3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 213533,
       "name": "Blackman Redemption",
       "url": "https://open.spotify.com/track/6jI6sujyu6aHmnAOZTvqz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Crazy Baldhead",
-      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
     },
     {
       "added_at": null,
@@ -475,40 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 279720,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Stiff Necked Fools",
-      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
       "artists": [
         {
@@ -516,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Who The Cap Fit",
-      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
+      "duration_ms": 191866,
+      "name": "Crazy Baldhead",
+      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
     },
     {
       "added_at": null,
@@ -539,6 +491,54 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Stiff Necked Fools",
+      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 279720,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Who The Cap Fit",
+      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 192680,
       "name": "Ambush In The Night",
       "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natty Dread",
         "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 193226,
       "name": "Them Belly Full (But We Hungry)",
       "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
     },
     {
       "added_at": null,

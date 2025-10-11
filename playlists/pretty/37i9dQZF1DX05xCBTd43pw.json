@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
-  "num_followers": 38018,
+  "num_followers": 38024,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Arthouse",
+        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
       },
       "artists": [
         {
@@ -171,8 +171,8 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
       },
       "artists": [
         {
@@ -387,18 +387,22 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
         }
       ],
-      "duration_ms": 171753,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+      "duration_ms": 157440,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -419,22 +423,34 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "For The Night",
-        "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        },
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 157440,
-      "name": "For The Night",
-      "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
+      "duration_ms": 171753,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 208166,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -507,22 +523,6 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 208166,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
         "name": "Superpower",
         "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 165867,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
         "name": "Devil On My Back",
         "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
         "name": "LEAVE ME ALONE",
         "url": "https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 177376,
       "name": "Million de Mois",
       "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "What If This World",
-        "url": "https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "What If This World",
-      "url": "https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
         "name": "New Her",
         "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 180750,
       "name": "New Her",
       "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
+        "name": "What If This World",
+        "url": "https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "What If This World",
+      "url": "https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
         "name": "The Wrong Cards",
         "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 174826,
       "name": "The Wrong Cards",
       "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+        "name": "Wanted To Know",
+        "url": "https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+      "duration_ms": 141312,
+      "name": "Wanted To Know",
+      "url": "https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Wanted To Know",
-        "url": "https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR"
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 141312,
-      "name": "Wanted To Know",
-      "url": "https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R"
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
+        "name": "you & i",
+        "url": "https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 125893,
+      "name": "you & i",
+      "url": "https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 178857,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
-        "name": "you & i",
-        "url": "https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst"
-      },
-      "artists": [
-        {
-          "name": "Nomuel",
-          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
-        },
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 125893,
-      "name": "you & i",
-      "url": "https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Pretty Girl Thriller",
-        "url": "https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 175615,
-      "name": "Pretty Girl Thriller",
-      "url": "https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 180590,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
+        "name": "Pretty Girl Thriller",
+        "url": "https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 175615,
+      "name": "Pretty Girl Thriller",
+      "url": "https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1379,38 +1379,18 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "I'm Getting Tired of Me",
-        "url": "https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c"
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/15anfhhRhsAdkmBq9qHOra"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "Veronica Fusaro",
+          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
         }
       ],
-      "duration_ms": 216224,
-      "name": "I\u2019m Getting Tired of Me",
-      "url": "https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/7JZSZvM0rik8GhhP1bD9EP"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        },
-        {
-          "name": "GIOVANNA",
-          "url": "https://open.spotify.com/artist/4dKNVy72FShsqA2JJrkaHb"
-        }
-      ],
-      "duration_ms": 131231,
-      "name": "Gray Area",
-      "url": "https://open.spotify.com/track/4GsVYuOnWXpxx4QsShrSOt"
+      "duration_ms": 162084,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/5dCV3T0S8p5O4btsyd6uFb"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1435,6 +1415,22 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
+        "name": "I'm Getting Tired of Me",
+        "url": "https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 216224,
+      "name": "I\u2019m Getting Tired of Me",
+      "url": "https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
         "name": "Satellite (Spotify Singles)",
         "url": "https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T"
       },
@@ -1451,6 +1447,26 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/7JZSZvM0rik8GhhP1bD9EP"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        },
+        {
+          "name": "GIOVANNA",
+          "url": "https://open.spotify.com/artist/4dKNVy72FShsqA2JJrkaHb"
+        }
+      ],
+      "duration_ms": 131231,
+      "name": "Gray Area",
+      "url": "https://open.spotify.com/track/4GsVYuOnWXpxx4QsShrSOt"
+    },
+    {
+      "added_at": "2025-10-09 22:31:47",
+      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 157906,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2025-10-09 22:31:47",
-      "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/15anfhhRhsAdkmBq9qHOra"
-      },
-      "artists": [
-        {
-          "name": "Veronica Fusaro",
-          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
-        }
-      ],
-      "duration_ms": 162084,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/5dCV3T0S8p5O4btsyd6uFb"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
+        "name": "Tontauben",
+        "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
         }
       ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
+      "duration_ms": 196400,
+      "name": "Tontauben",
+      "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
     },
     {
       "added_at": "2025-10-09 22:31:47",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-10-09 22:31:47",
       "album": {
-        "name": "Tontauben",
-        "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
+        "name": "January",
+        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
       },
       "artists": [
         {
-          "name": "Hecht",
-          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 196400,
-      "name": "Tontauben",
-      "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
+      "duration_ms": 136767,
+      "name": "You Hurt Me",
+      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
     },
     {
       "added_at": "2025-10-09 22:31:47",

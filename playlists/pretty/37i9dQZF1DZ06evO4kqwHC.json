@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1092823,
+  "num_followers": 1092857,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACHWpHu/uu9x+jyVUY6e/LJ",
+  "snapshot_id": "aOb7AAAAAAAj0AzvcpMf8h3lE9h8ZBfU",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concrete and Gold",
-        "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 286466,
       "name": "Bridge Burning",
       "url": "https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concrete and Gold",
+        "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint Cecilia EP",
-        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Saint Cecilia",
-      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 244960,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saint Cecilia EP",
+        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Saint Cecilia",
+      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
@@ -484,25 +484,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+      "duration_ms": 349680,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
       },
       "artists": [
         {
@@ -532,9 +516,25 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 349680,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4"
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Nothing At All",
-      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 303813,
       "name": "Walking After You",
       "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 83800,
       "name": "Doll",
       "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-554 songs - 1 day 2 hr 57 min
+555 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Amado](https://open.spotify.com/track/6umBB4ktNSSrxhFQQfRSv9) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Amado](https://open.spotify.com/album/2ZlP83uVoIMuF9hqwOSA87) | 3:14 | 2022-04-01 | 2022-07-15 |
 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 | 2021-10-29 | 2023-09-23 |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-08-06 |
-| [Anywhere](https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL) | [Anywhere](https://open.spotify.com/album/0oPhuMXsKIxAzc6mqartCz) | 2:46 | 2024-01-12 |  |
+| [Anywhere](https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL) | [Anywhere](https://open.spotify.com/album/0oPhuMXsKIxAzc6mqartCz) | 2:46 | 2024-01-12 | 2025-10-11 |
 | [Anywhere You Go](https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [Anywhere You Go](https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky) | 3:01 | 2024-01-26 |  |
 | [Apes](https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [MOR3L](https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc) | [Apes](https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8) | 2:20 | 2024-08-09 | 2024-08-30 |
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2021-10-29 | 2022-06-11 |
@@ -538,6 +538,7 @@
 | [Vibration](https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Vibration](https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ) | 3:50 | 2024-03-22 | 2024-08-31 |
 | [Waiting for a Night](https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Waiting for a Night](https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o) | 3:00 | 2023-08-11 | 2023-10-05 |
 | [Wanna Dance](https://open.spotify.com/track/3vJw6jGxk6lfhbXPqNDQdb) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Wanna Dance](https://open.spotify.com/album/1uF9PbehMjbOrc7ICdQb2F) | 2:50 | 2024-01-26 | 2024-04-19 |
+| [Warehouse](https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Warehouse](https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR) | 2:19 | 2025-10-10 |  |
 | [Way Back](https://open.spotify.com/track/0NUbARTwC9ZLL3DYfSAfK1) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Way Back](https://open.spotify.com/album/7txwUmAvVmQgn61K6xZuuD) | 2:24 | 2022-04-15 | 2022-04-21 |
 | [Way It Is](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Way It Is](https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO) | 3:12 | 2021-10-29 | 2023-12-16 |
 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 | 2022-08-05 |  |

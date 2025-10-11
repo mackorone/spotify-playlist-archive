@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 21 min
+126 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amor Profundo](https://open.spotify.com/track/3uYz7qTKvNUkxaHIJqz6mO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desilucionado](https://open.spotify.com/album/5enzZnUz32i62BGj5HwjNF) | 2:56 | 2025-09-03 | 2025-09-04 |
 | [Aviéntame \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [PALOMAZO NORTEÑO VOL\. 2 \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3) | 3:21 | 2024-08-10 |  |
 | [Bajo Mil Llaves](https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Bajo Mil Llaves](https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe) | 2:29 | 2023-03-07 | 2024-08-03 |
-| [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 | 2022-06-01 |  |
+| [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 | 2022-06-01 | 2025-10-11 |
 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 | 2022-06-01 |  |
 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 | 2022-06-01 |  |
 | [Caballo De La Cordada](https://open.spotify.com/track/7JCKRnM6Sb7wTUeYWlhNT5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 2:37 | 2022-07-16 | 2022-09-29 |
@@ -106,6 +106,7 @@
 | [Playa Sola](https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:48 | 2022-06-01 |  |
 | [Popurri / En Vivo Desde Monterrey \- En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008](https://open.spotify.com/track/0sPQ3zxRu4JqrPm3fbwL80) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo Desde Monterrey \(En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008\)](https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL) | 9:07 | 2022-08-05 | 2022-08-07 |
 | [Prieta Consentida](https://open.spotify.com/track/3qitfywmnN1uAaD86mRPJs) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Celebrando 40 Anos Con Los Grandes](https://open.spotify.com/album/4e7nkQeq9HK90viFoAKJG5) | 3:17 | 2023-02-01 | 2023-02-03 |
+| [Puño De Tierra \(En Vivo\)](https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [La Borrachera Perfecta El After \(En Vivo\)](https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX) | 3:10 | 2025-10-11 |  |
 | [Que Dios Me Perdone](https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Más Pegadas](https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc) | 2:48 | 2024-06-27 |  |
 | [Que la Dejen Ir al Baile Sola](https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:35 | 2023-12-13 |  |
 | [Que La Dejen Ir Al Baile Sola](https://open.spotify.com/track/2Ro00jkaTJPoDsZ4mJBfGv) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:22 | 2022-07-19 | 2022-08-01 |

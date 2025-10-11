@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김필선\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-623 songs - 1 day 12 hr 43 min
+624 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Walking in the Starlight](https://open.spotify.com/track/3wT6q6lHoOpZUM38uPSUTF) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Polaris](https://open.spotify.com/album/230aWpzxURX48FY6WtMe9s) | 4:17 | 2021-12-10 | 2022-07-28 |
 | [waltz at night](https://open.spotify.com/track/7dUnVTZRCPCht8NcQbwJiq) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [waltz at night](https://open.spotify.com/album/4st76AP9kydHC9zhHfMi7y) | 2:52 | 2022-03-31 | 2022-04-17 |
 | [want to go to sleep](https://open.spotify.com/track/6h8kbx5JGBhXNaoxlZrtyE) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 4:20 | 2021-12-10 | 2022-06-20 |
+| [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 | 2025-10-10 |  |
 | [Way Back Home](https://open.spotify.com/track/4M13QYXUbkv5cWYqw7m88u) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo, First](https://open.spotify.com/album/2VTq68lUwuwceZbQdrPj6V) | 3:30 | 2021-12-10 | 2025-01-13 |
 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 | 2022-06-18 | 2022-07-16 |
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2021-12-10 |  |

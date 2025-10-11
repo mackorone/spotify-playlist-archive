@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: oklou & fka twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,096 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,091 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 20 | [Rorschach Baby](https://open.spotify.com/track/0O2RsuGEalMk2zUGoBAAKp) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Rorschach Baby](https://open.spotify.com/album/4YpKVvfqpCMdO3A3wI4DGu) | 3:26 |
 | 21 | [Rain in the Dark](https://open.spotify.com/track/3v269OrL2F3dEeqBDyi9Dv) | [felice bauer](https://open.spotify.com/artist/2dwF24q94rPXVssMTpSh7l) | [Rain in the Dark](https://open.spotify.com/album/5Svlxhp5MF21vUCJ98pPx2) | 2:48 |
 | 22 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
-| 23 | [Girl Like Me + Oklou](https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [](https://open.spotify.com/album/null) | 2:42 |
+| 23 | [Girl Like Me + Oklou](https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:42 |
 | 24 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 25 | [Rage Song](https://open.spotify.com/track/1mZsxI7QtNxMEZvBKnRPFN) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Rage Song](https://open.spotify.com/album/4qJlBhyclw8Dz0uRzfiyzL) | 2:54 |
 | 26 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 |

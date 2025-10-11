@@ -3241,8 +3241,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "MHITR: The Album",
+        "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
       },
       "artists": [
         {
@@ -5577,8 +5577,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Don't Slow Down",
+        "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
       },
       "artists": [
         {
@@ -20545,28 +20545,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4Zeq4FmQ0kVXjWaGlcc0zu"
-    },
-    {
-      "album": {
         "name": "Transformations",
         "url": "https://open.spotify.com/album/63v8Gd7zZLeSVwrwI8rh0s"
       },
@@ -22362,6 +22340,28 @@
       "duration_ms": 198620,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/14ydzyswp520PKHJOWc2Ro"
+    },
+    {
+      "album": {
+        "name": "DAY ONE",
+        "url": "https://open.spotify.com/album/4X2k3NS469qBJXhGY02jAl"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181028,
+      "name": "WILDFIRE",
+      "url": "https://open.spotify.com/track/4Zeq4FmQ0kVXjWaGlcc0zu"
     },
     {
       "album": {

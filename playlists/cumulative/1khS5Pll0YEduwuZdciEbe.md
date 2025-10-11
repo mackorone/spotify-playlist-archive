@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Altameda
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Babygirl
 
-278 songs - 16 hr 48 min
+279 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cut The Brakes](https://open.spotify.com/track/43JGRPYWeELknzTvUbXui8) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Cut The Brakes](https://open.spotify.com/album/6GVF1q7UK5QxVlOzHYdL9I) | 3:37 | 2025-04-11 |  |
 | [Cutting Thru The Country](https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Cutting Thru The Country](https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf) | 3:24 | 2024-02-23 | 2024-03-16 |
 | [Dad's 4Runner](https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Marietta](https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh) | 2:27 | 2024-11-15 | 2025-03-08 |
+| [Dancing With Her](https://open.spotify.com/track/4aCxMYOlcYMxdK8ICB29DN) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Stay Here Where It's Warm](https://open.spotify.com/album/2025iFS7ufF84zxWA5Dqd6) | 4:04 | 2025-10-10 |  |
 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 | 2024-10-18 |  |
 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-11-03 | 2024-02-17 |
 | [Disappearing \(feat\. Magdalena Bay\)](https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:20 | 2024-03-29 | 2024-10-19 |

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-299 songs - 18 hr 18 min
+301 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2023-02-09 |  |
 | [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 | 2023-07-21 | 2024-03-20 |
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-03-23 | 2023-08-13 |
-| [Hass Und Liebe](https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux) | [Miss Construction](https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9) | [Kunstprodukt](https://open.spotify.com/album/603jWfAFPn4s2TDaeyAXL1) | 5:11 | 2025-04-28 |  |
+| [Hass Und Liebe](https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux) | [Miss Construction](https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9) | [Kunstprodukt](https://open.spotify.com/album/603jWfAFPn4s2TDaeyAXL1) | 5:11 | 2025-04-28 | 2025-10-11 |
 | [Heavens Lower](https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Heavens Lower](https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g) | 2:57 | 2023-11-30 |  |
 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 | 2020-12-21 | 2024-01-12 |
 | [Heridas](https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Heridas](https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS) | 2:20 | 2024-09-13 |  |
@@ -134,6 +134,7 @@
 | [I Do What He Say I Do](https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 5:32 | 2024-01-11 |  |
 | [I Hope I Never See Your Face Again](https://open.spotify.com/track/0s5iNP7IXlFcqCAcdSFbpH) | [Desmond Doom](https://open.spotify.com/artist/5qxFoC4hkXgFJ3l9keZlL0) | [Surf \- Goth](https://open.spotify.com/album/7tswqv0LMTcutJokJvWg2f) | 2:51 | 2025-02-04 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-19 |  |
+| [I Love Mallory](https://open.spotify.com/track/7LCT8Qs7LV18OfhzqLn3GU) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [GRILLED CHEESE DELUXE](https://open.spotify.com/album/5wjtyr36SeI9ZaDNmKWu8j) | 2:48 | 2025-10-10 |  |
 | [I THINK IM LOSING MY MIND](https://open.spotify.com/track/7GSRHm7qfwy4PH5KjBr9jM) | [DustBowlChampion](https://open.spotify.com/artist/151Si9irFNyY0kzsGNFuRc) | [I THINK IM LOSING MY MIND](https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7) | 3:36 | 2023-10-13 | 2023-12-12 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-08-31 |  |
 | [I Wish I Was You \- Twin Tribes Remix](https://open.spotify.com/track/62ZO1zdoApFON2JrBNi0Js) | [Creux Lies](https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i), [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [I Wish I Was You \(Twin Tribes Remix\)](https://open.spotify.com/album/0MBCszjF6PH5hbB3pnl7Vm) | 3:59 | 2023-08-31 | 2025-05-17 |
@@ -156,6 +157,7 @@
 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-05 |  |
 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 | 2024-09-06 |  |
 | [Labor](https://open.spotify.com/track/3Ra7J2KKsqKOHR4w9OMuEN) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:01 | 2023-01-12 | 2023-02-22 |
+| [Lady Moon](https://open.spotify.com/track/1VMBtwHltlJVdwcStLEMDM) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Greta Link](https://open.spotify.com/artist/7A4ESAV4ApIPjQRLJcm3ZJ) | [Age of Aquarius](https://open.spotify.com/album/3ZXd4o2kk2UjDcfpQnZjMN) | 6:55 | 2025-10-10 |  |
 | [LAST WISH](https://open.spotify.com/track/7ImDK6cahdEFf5A70IaHOE) | [DIGITAL REY](https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS) | [LAST WISH](https://open.spotify.com/album/6LCTBtZtq1ogCINSnDQrA3) | 3:23 | 2023-11-09 |  |
 | [Leave](https://open.spotify.com/track/7i0Y4Lmp5Zrvu3QvKn3H9C) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [Leave](https://open.spotify.com/album/6e1FsnxiW7AuqxhzrV5jM4) | 4:29 | 2023-03-07 | 2023-03-25 |
 | [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [leichter//kälter](https://open.spotify.com/album/1Q3Vo8cPBMEYDnCm5982vC) | 3:15 | 2021-09-01 |  |
@@ -263,7 +265,7 @@
 | [Untitled](https://open.spotify.com/track/0f8k3qp0vlq6yu5D7efb6d) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Untitled](https://open.spotify.com/album/0jOVn77SZIt7fjyRcXUZCf) | 5:13 | 2024-01-11 |  |
 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 | 2024-03-05 |  |
 | [Upir](https://open.spotify.com/track/1yLw4FiucJG69WPNpZ4bI9) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 2:47 | 2023-08-31 | 2024-03-20 |
-| [VCR Romance](https://open.spotify.com/track/2HC7gdKa77R16huReRtkKy) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Heretic](https://open.spotify.com/album/5yFEJUxc1N3y9WeOci3FyZ) | 3:12 | 2023-08-31 |  |
+| [VCR Romance](https://open.spotify.com/track/2HC7gdKa77R16huReRtkKy) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Heretic](https://open.spotify.com/album/5yFEJUxc1N3y9WeOci3FyZ) | 3:12 | 2023-08-31 | 2025-10-11 |
 | [Vengeance](https://open.spotify.com/track/0Bp3HwFfDlGzo7N5mePMxf) | [Cloud Battalion](https://open.spotify.com/artist/256QPBkvY5iLmc3mhwzoTO) | [Storm City](https://open.spotify.com/album/6rR86ssesqXKVIIVJMBz3q) | 4:24 | 2020-12-21 | 2023-02-10 |
 | [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Vertigo](https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI) | 3:30 | 2022-02-18 |  |
 | [vj \(vanished\)](https://open.spotify.com/track/3SNOoT0NKsb52IxemyU6Pb) | [subliminal](https://open.spotify.com/artist/6kmRsF1MGt0AnvUG9fE23J), [Gwead Sain](https://open.spotify.com/artist/41Agc0u7bE4avFlWx0jv19), [Jøwsdmn](https://open.spotify.com/artist/7MfcgWLLNM2ACzFvLjGCv5) | [vj \(vanished\)](https://open.spotify.com/album/06UhPBeAfdNY52ZHdo79Vq) | 2:28 | 2025-07-18 |  |

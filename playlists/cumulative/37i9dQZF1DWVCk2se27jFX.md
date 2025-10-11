@@ -4,7 +4,7 @@
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Margarita Siempre Viva
 
-152 songs - 9 hr 14 min
+153 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Matizando](https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH) | 3:34 | 2024-04-12 |  |
 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 | 2023-09-25 | 2024-04-19 |
 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 | 2023-09-25 |  |
+| [Mi Corazón de Miel](https://open.spotify.com/track/6WGpwvtVYk9Zl29EVk7VYw) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [El Principio](https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1) | 3:24 | 2025-10-10 |  |
 | [Mil Cartas](https://open.spotify.com/track/5VyGv0StDf6LE46h0l0Jv9) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Repetiría Todo](https://open.spotify.com/album/2oSfjx5ip4jvV52NTmu9jW) | 3:05 | 2024-06-28 |  |
 | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG) | 4:53 | 2024-06-28 |  |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-09-25 |  |
@@ -118,7 +119,7 @@
 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 | 2023-09-25 |  |
 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 | 2023-10-07 | 2024-04-19 |
 | [Odebrecht](https://open.spotify.com/track/4xUO5mZzFCqrjCCIGW17Gk) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Odebrecht](https://open.spotify.com/album/3kaM5FLz3mOlYKtjZnjBFs) | 3:57 | 2023-09-25 |  |
-| [Ojos de Fuego](https://open.spotify.com/track/1aRh3XyBcKOv9UlvNXq3Qn) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [El Principio](https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1) | 3:11 | 2025-10-09 |  |
+| [Ojos de Fuego](https://open.spotify.com/track/1aRh3XyBcKOv9UlvNXq3Qn) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [El Principio](https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1) | 3:11 | 2025-10-09 | 2025-10-11 |
 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 | 2023-09-25 |  |
 | [Piel](https://open.spotify.com/track/2Ak8AtgLD5XVH9MM8TEbBr) | [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu) | [Piel](https://open.spotify.com/album/1LYJicG4kuAtOxBM0C1rIy) | 3:32 | 2023-09-25 |  |
 | [Piensas en mi // Pienso en ti \(feat\. Fede Marín\)](https://open.spotify.com/track/1j9jL7UpWFYruhhKUnw2Xg) | [Chamo](https://open.spotify.com/artist/5WpP6hj7KfBJVId206LBwH), [Fede Marín](https://open.spotify.com/artist/7xZeHcOXvNdbt1z4n63z3m) | [Piensas en mi // Pienso en ti \(feat\. Fede Marín\)](https://open.spotify.com/album/4DQ6qP1hZ8tOh2PMmuyyEu) | 2:40 | 2023-09-25 |  |

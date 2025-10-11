@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -876,6 +894,24 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5"
+    },
+    {
+      "album": {
+        "name": "Bound",
+        "url": "https://open.spotify.com/album/74fddg32HWNLWswE2ZVFml"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238671,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/3ogo2xTItjR1seyKazMPLQ"
     },
     {
       "album": {
@@ -1764,7 +1800,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 202213,
       "name": "fOoL fOr YoU",
       "url": "https://open.spotify.com/track/6lvsJDZ7336YmpBzcNGhbe"
@@ -2324,10 +2360,32 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 170400,
       "name": "Holy Blindfold",
       "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159527,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
     },
     {
       "album": {
@@ -2786,7 +2844,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
@@ -3004,6 +3062,24 @@
       "duration_ms": 251333,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
       "album": {
@@ -4616,7 +4692,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
@@ -4962,7 +5038,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 201706,
       "name": "STRANGERS (feat. TINI)",
       "url": "https://open.spotify.com/track/682vct7cxeNq8i3RHKg61a"
@@ -4980,7 +5056,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 201538,
       "name": "Strawberries & Cigarettes",
       "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
@@ -5700,7 +5776,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -6004,6 +6080,24 @@
       "duration_ms": 242320,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0j3IS8wsqAnABrgEETEyQ9"
+    },
+    {
+      "album": {
+        "name": "Yours Forever",
+        "url": "https://open.spotify.com/album/6OAwyyPrXrOA1P9Pr1a1C9"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198513,
+      "name": "Yours Forever",
+      "url": "https://open.spotify.com/track/2A2Vrk5NJwPiiS0NCGZUpv"
     }
   ],
   "url": "https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v"

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Sekou
 
-556 songs - 1 day 9 hr 24 min
+558 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2021-09-10 | 2022-07-29 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 | 2023-01-28 |
 | [Carry My Name \- Magic Bus Sessions](https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Magic Bus Sessions](https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK) | 3:43 | 2025-02-07 |  |
-| [Caught Up](https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Caught Up](https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp) | 3:00 | 2025-07-04 |  |
+| [Caught Up](https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Caught Up](https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp) | 3:00 | 2025-07-04 | 2025-10-11 |
 | [Celeste](https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Celeste](https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m) | 3:15 | 2025-09-05 | 2025-09-27 |
 | [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-08-16 |  |
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
@@ -330,6 +330,7 @@
 | [Never Gonna Take Away My Love](https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Never Gonna Take Away My Love](https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR) | 4:12 | 2024-07-26 | 2024-08-31 |
 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 | 2025-10-03 |  |
 | [Never Learnt To Pray](https://open.spotify.com/track/4qKGMdTVoDhKnq1JCHvAAH) | [1ST VOWS](https://open.spotify.com/artist/2DLo7eCypgXm3ViDvElOWE) | [Never Learnt To Pray](https://open.spotify.com/album/26zH5zth76DXIT1qGYyVE8) | 3:25 | 2024-09-06 |  |
+| [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 | 2025-10-10 |  |
 | [No Longer Mine](https://open.spotify.com/track/733oDE8vOXBCzKK1EfnPCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [No Longer Mine](https://open.spotify.com/album/6alneeeLcSYWZyu293RloI) | 2:44 | 2024-05-03 | 2024-05-25 |
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-09 | 2025-07-19 |
 | [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 | 2023-06-09 | 2023-11-18 |
@@ -412,7 +413,7 @@
 | [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 | 2024-06-21 | 2025-06-14 |
 | [See Through](https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [See Through](https://open.spotify.com/album/64xN67Mp1r0LoKCyMJ9Jsb) | 4:13 | 2025-07-18 |  |
 | [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 | 2023-10-27 | 2025-08-23 |
-| [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 | 2025-05-30 |  |
+| [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 | 2025-05-30 | 2025-10-11 |
 | [Sentimental Fool](https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq) | 3:05 | 2022-08-19 | 2022-08-27 |
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-01-19 | 2025-09-13 |
 | [Shake Shake](https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Voli Contra](https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM) | [Shake Shake](https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B) | 2:25 | 2023-06-30 | 2023-08-26 |
@@ -493,6 +494,7 @@
 | [Through It All](https://open.spotify.com/track/4JHvgv3f9PytZ2g8GqdIhC) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2021-12-17 | 2023-02-18 |
 | [Tied To You](https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Tied To You](https://open.spotify.com/album/1glLyrDFBwTwsurwQiQlrh) | 3:17 | 2024-10-04 | 2024-10-19 |
+| [Tired of Missing You \- Radio Edit](https://open.spotify.com/track/0exhPe2ST90UidadzvLeiT) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Tired of Missing You](https://open.spotify.com/album/6Te4NGNMAiYFJNfeYEEeEq) | 3:35 | 2025-10-10 |  |
 | [Together](https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Together](https://open.spotify.com/album/4nd5WNhqkFX7CWuJbS2Hpq) | 3:19 | 2025-10-03 |  |
 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 | 2024-02-09 | 2025-08-31 |
 | [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 | 2024-08-16 | 2025-05-24 |

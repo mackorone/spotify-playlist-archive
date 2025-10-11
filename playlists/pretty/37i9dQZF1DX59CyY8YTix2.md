@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,730 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,739 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 25 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
 | 26 | [夜空を蝕んで](https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [泡沫の夢は幻に](https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2) | 3:08 |
 | 27 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
-| 28 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
+| 28 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 29 | [青の魔法](https://open.spotify.com/track/3j5DAn7RNoJj2Kl87FeOOZ) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [青の魔法](https://open.spotify.com/album/10w3OQKWjYbcUzztkdw4oP) | 3:46 |
-| 30 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
+| 30 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
 | 31 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
 | 32 | [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 |
 | 33 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 63 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
 | 64 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
 | 65 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
-| 66 | [あの夏が癖になっていく](https://open.spotify.com/track/3ZGqqgN5GYvsM130KCZ0HN) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [あの夏が癖になっていく](https://open.spotify.com/album/5xJRwQhyaqcfjkcEDmroO9) | 3:23 |
-| 67 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
+| 66 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
+| 67 | [あの夏が癖になっていく](https://open.spotify.com/track/3ZGqqgN5GYvsM130KCZ0HN) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [あの夏が癖になっていく](https://open.spotify.com/album/5xJRwQhyaqcfjkcEDmroO9) | 3:23 |
 | 68 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 |
 | 69 | [フラジャイル・ナイト](https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [フラジャイル・ナイト](https://open.spotify.com/album/1SzXBjLNyxHy73c04lYrVC) | 3:08 |
 | 70 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |

@@ -4,7 +4,7 @@
 
 > Playlist
 
-612 songs - 1 day 12 hr 13 min
+613 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [IknowhowIfeel](https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 5:27 | 2023-10-25 |  |
 | [In a New Way](https://open.spotify.com/track/2iUGljoQoak1plOfUETSV9) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 3:42 | 2023-10-25 |  |
 | [In Heaven \(Lady in the Radiator Song\)](https://open.spotify.com/track/39G7UPM6ujNpN17RmAhAEs) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 2:22 | 2023-10-25 |  |
+| [In Numbers](https://open.spotify.com/track/1oX2bQXVpS5vziV3bz0VaI) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [In Numbers](https://open.spotify.com/album/5DsFwwdySfCi1df9m4sO3P) | 3:57 | 2025-10-10 |  |
 | [In the Morning](https://open.spotify.com/track/7kIN2qFcq01enQVZv2bKKF) | [Santa Selva](https://open.spotify.com/artist/4LmaLtD3YAabZIacEIa3MG) | [In the Morning](https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu) | 2:57 | 2024-11-20 |  |
 | [In This Life](https://open.spotify.com/track/1TJNxZj0x71aWYF0VBl7Iy) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 3:02 | 2024-11-27 |  |
 | [Interlude](https://open.spotify.com/track/51DEOKQtG86h0Pq83rQhQx) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 1:47 | 2024-02-20 |  |

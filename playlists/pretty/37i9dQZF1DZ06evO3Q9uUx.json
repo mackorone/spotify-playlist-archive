@@ -1,33 +1,13 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15738,
+  "num_followers": 15744,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAAAn/ptNFGNSnFuRUVpqSdO8",
+  "snapshot_id": "aOb7AAAAAAB3/Mh38bpWeMVnw42Szep4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "DADE",
-        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 104415,
-      "name": "DADE",
-      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
-    },
     {
       "added_at": null,
       "album": {
@@ -123,6 +103,26 @@
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DADE",
+        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 104415,
+      "name": "DADE",
+      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAMES.",
-        "url": "https://open.spotify.com/album/3iJKtRqFUIbu7s2jjwvoQR"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 169925,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3568VPmvBoVC3Jb67JtWat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -639,22 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+        "name": "JAMES.",
+        "url": "https://open.spotify.com/album/3iJKtRqFUIbu7s2jjwvoQR"
       },
       "artists": [
         {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+      "duration_ms": 169925,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3568VPmvBoVC3Jb67JtWat"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
       "duration_ms": 217533,
       "name": "ONE THING",
       "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "FALLBACK",
-      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
         "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
       },
@@ -859,6 +843,42 @@
       "duration_ms": 231325,
       "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
       "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "SAME HANDS (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
     },
     {
       "added_at": null,
@@ -895,42 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "SAME HANDS (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "MILLIONS",
-      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
     },
     {
       "added_at": null,

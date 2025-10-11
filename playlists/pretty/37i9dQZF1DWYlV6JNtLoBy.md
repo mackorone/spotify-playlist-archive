@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,752 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,757 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 36 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 |
 | 37 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
 | 38 | [Praise The Lord](https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn) | 3:18 |
-| 39 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
-| 40 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |
+| 39 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |
+| 40 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
 | 41 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
 | 42 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 |
 | 43 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 47 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
 | 48 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 |
 | 49 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 |
-| 50 | [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 |
+| 50 | [I Set My Hope \(Hymn For A Deconstructing Friend\)](https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [I Set My Hope On Jesus](https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK) | 4:15 |
 
 Snapshot ID: `AAAAAOe5p0vbreiDqrzfSiLtCKBNlds5`

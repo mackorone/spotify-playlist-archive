@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658 likes - 161 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 161 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 93 | [New York City Lights](https://open.spotify.com/track/4axKdZZxEJ82NuhAtCTfLu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:52 |
 | 94 | [Starlite](https://open.spotify.com/track/50FsLjyg3LAjEyaw3IWt7R) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Prismophonic](https://open.spotify.com/album/5dx4v0NMzf2O6TCgfGrt0r) | 3:32 |
 | 95 | [Don't Let Me Down](https://open.spotify.com/track/6AHLNk8luePtX6bUjA3hEW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 4:46 |
-| 96 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
-| 97 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
+| 96 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
+| 97 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 98 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 |
 | 99 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 |
 | 100 | [Take Your Chances On Me](https://open.spotify.com/track/3PAEiOvBaLLB9WKMrNCv9i) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 3:02 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 160 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 161 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `Ab+b0AAAAAByMmcNJ206X08uE/bb4x+C`
+Snapshot ID: `Ab+hSAAAAADCvBAQl9HA4+Nb8EraX4MZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 88813,
+  "num_followers": 88857,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAABuR2SwAZC1+FlvOT7YUdGI",
+  "snapshot_id": "aOb7AAAAAAC05fTcDzCfC5SMGgM7CgdC",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
       "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 149986,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
+      "duration_ms": 199274,
+      "name": "Y Tu",
+      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
       "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 199274,
-      "name": "Y Tu",
-      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
+      "duration_ms": 149986,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
     },
     {
       "added_at": null,

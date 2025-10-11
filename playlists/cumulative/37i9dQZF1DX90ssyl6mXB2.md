@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover:  Chase Shakur
+> late night vibes – notifications off\. cover:  Pino
 
-264 songs - 12 hr 10 min
+268 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 | 2025-09-20 |
 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 | 2025-05-16 |  |
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 | 2025-06-07 |
+| [CONTAGIOUS](https://open.spotify.com/track/4L2Vv8QvsO4jfMPG3luF3z) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [CONTAGIOUS](https://open.spotify.com/album/5Pw0A6OC6N4sHCBimyfWgm) | 3:06 | 2025-10-10 |  |
 | [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 | 2025-03-21 |  |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
 | [Dangerously In Love](https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Dangerously In Love](https://open.spotify.com/album/3JksmbqVD1Nj94ptBNDpBH) | 1:59 | 2024-10-25 |  |
@@ -121,6 +122,7 @@
 | [how it goes](https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:28 | 2025-01-24 |  |
 | [hypnotized](https://open.spotify.com/track/08GUWwT14JBrVF9Dvp4AJ6) | [MASY.](https://open.spotify.com/artist/0mB5bRJsOsOb9sHlj264yE) | [red.](https://open.spotify.com/album/6EyjRzvcvh7ubTJ0De8c5r) | 1:40 | 2024-02-02 | 2025-09-20 |
 | [I Won't Forget](https://open.spotify.com/track/0ykZstlNr8TGpXsrcuYxEg) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [On Waters Ave](https://open.spotify.com/album/0nRN4Le9A5UMSeEo6kz5N6) | 2:55 | 2024-06-28 | 2025-03-22 |
+| [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 | 2025-10-10 |  |
 | [If I Say I Hate U I Mean It](https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [If I Say I Hate U I Mean It](https://open.spotify.com/album/1PJ74qpU6fHxEUuHCA5w0O) | 2:35 | 2025-06-20 |  |
 | [IMISSTORONTO \(Been A While\)](https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [IMISSTORONTO \(Been A While\)](https://open.spotify.com/album/72ycVbf7uebQHVHEPLRzEs) | 3:40 | 2024-07-05 |  |
 | [Impromptu](https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Impromptu](https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3) | 3:05 | 2024-03-15 |  |
@@ -135,6 +137,7 @@
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-12 | 2024-04-27 |
 | [La La La La La](https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:07 | 2025-02-21 | 2025-09-20 |
 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2025-09-05 |  |
+| [lame](https://open.spotify.com/track/34wbAs21eGvtDENb3h0QEn) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [lame](https://open.spotify.com/album/3uUsEtTwHfAud7DVXuNjIF) | 2:22 | 2025-10-10 |  |
 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 | 2025-02-14 | 2025-09-20 |
 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 | 2025-09-20 |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
@@ -256,6 +259,7 @@
 | [WASTING TIME](https://open.spotify.com/track/6VugsJRRgONLQmTBLuzTne) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [WASTING TIME](https://open.spotify.com/album/68DY4RzwVW4OdylAcRFONX) | 2:24 | 2025-08-29 |  |
 | [WATER](https://open.spotify.com/track/1vqRkUzvD2o0OIEVAN3cIg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 1:56 | 2024-02-16 |  |
 | [WE IN LUV](https://open.spotify.com/track/5gg3MMTeKLv6NRcwJEbwrU) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 2:00 | 2024-02-16 | 2025-09-20 |
+| [What happened 2 us](https://open.spotify.com/track/21sNIpVcxLC9VjGv3ODElQ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [2 Late To Be Toxic](https://open.spotify.com/album/4H0dbjvjzA2ycDzUUNixbc) | 2:31 | 2025-10-10 |  |
 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 | 2025-04-25 |  |
 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 | 2024-02-02 |  |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2024-02-02 | 2024-10-19 |

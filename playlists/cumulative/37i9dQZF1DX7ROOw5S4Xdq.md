@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-2,805 songs - 9 day 20 hr 12 min
+2,806 songs - 9 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 | 2025-01-17 | 2025-02-01 |
 | [Deus Imenso](https://open.spotify.com/track/2fOU7Qg9Bz6oHO0AZ9Zg5f) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Deus Imenso](https://open.spotify.com/album/6NTYbJua4S4mMFfHcJYkh1) | 4:41 | 2025-09-05 | 2025-09-26 |
 | [Deus Menino](https://open.spotify.com/track/1oupbI5PfV8ReaHgyutZPM) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Deus Menino](https://open.spotify.com/album/2MuXwUizTRZglqb33JEL2o) | 4:40 | 2023-12-22 | 2024-01-06 |
+| [Deus Meu](https://open.spotify.com/track/6UHFh9QWJLbc9yshLS6OCS) | [Veronica Sacer](https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v) | [Deus Meu](https://open.spotify.com/album/6BI3GvAIwVixejOxWO0BzR) | 3:02 | 2025-10-10 |  |
 | [Deus na Minha História](https://open.spotify.com/track/01DYbmbEQmxZ4g0FH7R2Sn) | [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Deus na Minha História](https://open.spotify.com/album/0AZMTlAIXhWO6j6tHStBKo) | 3:49 | 2025-02-28 | 2025-03-15 |
 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 | 2024-08-09 | 2024-08-24 |
 | [Deus no Comando](https://open.spotify.com/track/1xvM8EUvxGV9Nql03GkLS7) | [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Deus no Comando](https://open.spotify.com/album/5fruMBUNVcLkZkUGetyClw) | 5:01 | 2023-07-21 | 2023-07-29 |
@@ -875,7 +876,7 @@
 | [Eu Amo Teu Fogo \- Ao Vivo](https://open.spotify.com/track/7eSOw1wfGCCIdDMSSYcnM3) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu Amo Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/50aDOBi3i8BJjtj7P083fe) | 10:45 | 2025-01-17 | 2025-02-01 |
 | [Eu Amo Você](https://open.spotify.com/track/2ssd4kKXfItKoq4JPKXA8q) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Alice Rasec](https://open.spotify.com/artist/4PZr1Bsskcb36H8TKrb5NC) | [Eu Amo Você](https://open.spotify.com/album/6LIlNueK0AW79RB9cF8pQd) | 4:08 | 2024-11-22 | 2024-11-30 |
 | [Eu Busco as Coisas do Alto \- Ao Vivo](https://open.spotify.com/track/7zBJ2PPV9RnkxxTQML4QRK) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Eu Busco as Coisas do Alto \(Ao Vivo\)](https://open.spotify.com/album/1XELpNQVCPIzRwf6dpgk8A) | 4:26 | 2025-06-13 | 2025-07-04 |
-| [Eu Cansei](https://open.spotify.com/track/4uS4k5CDOipPExizZNkNkM) | [Marllon Ribeiro](https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l) | [](https://open.spotify.com/album/null) | 3:14 | 2025-10-10 |  |
+| [Eu Cansei](https://open.spotify.com/track/4uS4k5CDOipPExizZNkNkM) | [Marllon Ribeiro](https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l) | [Lado A](https://open.spotify.com/album/1VhUV32NGoLQ2kuaygzTKI) | 3:14 | 2025-10-10 |  |
 | [Eu Canto pra Ti \- Ao Vivo](https://open.spotify.com/track/749JwCkQdBwd6CVzGVa3bZ) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Adriene Nachtigal](https://open.spotify.com/artist/3SThgfykyOnxGBuMeuMMT2), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Temporal \(Ao Vivo\)](https://open.spotify.com/album/7rraIXg79Z1H4GPzs9vWyf) | 5:07 | 2024-04-19 | 2024-04-27 |
 | [Eu Confiarei \- Acústico](https://open.spotify.com/track/5PcUWa9cWbyQN7NH1aFKdN) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Saudade \(Acústico\)](https://open.spotify.com/album/4Z1DP7xIRjjfpb2FvZyWdv) | 4:34 | 2024-04-26 | 2024-06-15 |
 | [Eu Confio em Ti](https://open.spotify.com/track/1oq2GJ3tOiyPtQgkZSZiIn) | [Beatriz Guimarães](https://open.spotify.com/artist/46zP8vT3L2BJpgdTE51ihu), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Eu Confio em Ti](https://open.spotify.com/album/2C3Ccs0noaAS5V2uu6HxBE) | 4:41 | 2025-05-23 | 2025-06-06 |

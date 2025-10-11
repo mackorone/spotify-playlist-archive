@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10162,
+  "num_followers": 10182,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOWpgAAAAACwCmx/4fApf5pWAf4La4gp",
+  "snapshot_id": "aOb7AAAAAADcTVnmwX7iJq+80Pg696lX",
   "tracks": [
     {
       "added_at": null,
@@ -216,13 +216,13 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 130988,
-      "name": "Toc Toc Toc",
-      "url": "https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO"
+      "duration_ms": 179500,
+      "name": "Quero saber",
+      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
     },
     {
       "added_at": null,
@@ -308,21 +308,13 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 156374,
-      "name": "Sob a luz do seu olhar",
-      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
+      "duration_ms": 130988,
+      "name": "Toc Toc Toc",
+      "url": "https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO"
     },
     {
       "added_at": null,
@@ -428,13 +420,21 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Quero saber",
-      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
+      "duration_ms": 156374,
+      "name": "Sob a luz do seu olhar",
+      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Chavosa",
-        "url": "https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Diabelsmusic",
-          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
-        }
-      ],
-      "duration_ms": 217297,
-      "name": "Mina Chavosa",
-      "url": "https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 183005,
       "name": "P\u00e2nico",
       "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Chavosa",
+        "url": "https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Diabelsmusic",
+          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
+        }
+      ],
+      "duration_ms": 217297,
+      "name": "Mina Chavosa",
+      "url": "https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o"
     },
     {
       "added_at": null,

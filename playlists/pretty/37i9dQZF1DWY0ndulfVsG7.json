@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 61953,
+  "num_followers": 61967,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 206711,
       "name": "Kukira Kau Rumah",
       "url": "https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": "2024-11-29 03:37:32",

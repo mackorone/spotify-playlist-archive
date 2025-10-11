@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Ama Louise
 
-524 songs - 1 day 3 hr 12 min
+524 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,6 @@
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 | 2025-10-10 |
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 |  |
-| [Track 2](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-09-04 |  |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-22 | 2024-07-19 |
@@ -515,6 +514,7 @@
 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 | 2022-07-17 | 2023-05-15 |
 | [Where Have You Been All My Life?](https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Where Have You Been All My Life?](https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20) | 3:03 | 2024-10-03 | 2025-04-29 |
 | [White Tee \- Acoustic](https://open.spotify.com/track/4GDgtRrv59oHpOXiiKaNMP) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [White Tee / Long Walk](https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT) | 3:25 | 2023-11-17 | 2024-03-23 |
+| [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 | 2025-10-09 |  |
 | [Whole New Wardrobe](https://open.spotify.com/track/0h8KtXkpdruN69pSj6Jeav) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Whole New Wardrobe](https://open.spotify.com/album/6pECjeAHgRpfrukDkAJd8P) | 2:00 | 2025-07-24 | 2025-09-05 |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2025-06-26 |  |
 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 | 2022-07-17 | 2024-02-02 |

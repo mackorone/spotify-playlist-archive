@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10746,
+  "num_followers": 10744,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Zapiski z Landary",
+        "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        },
+        {
+          "name": "Hemp Gru",
+          "url": "https://open.spotify.com/artist/5xT1vs5QIozPsaUdUC5UjC"
+        }
+      ],
+      "duration_ms": 216869,
+      "name": "Tam gdzie Ty",
+      "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "LEVEL DOWN",
         "url": "https://open.spotify.com/album/56WnDQSLIcUlKqTIwtWmKp"
       },
@@ -1107,30 +1131,6 @@
       "duration_ms": 321702,
       "name": "LEVEL DOWN",
       "url": "https://open.spotify.com/track/1uU3qFjCD0NLpWco9f8mHD"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Zapiski z Landary",
-        "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        },
-        {
-          "name": "Hemp Gru",
-          "url": "https://open.spotify.com/artist/5xT1vs5QIozPsaUdUC5UjC"
-        }
-      ],
-      "duration_ms": 216869,
-      "name": "Tam gdzie Ty",
-      "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
     },
     {
       "added_at": "2025-04-24 21:35:46",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: \u30dd\u30eb\u30ce\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
-  "num_followers": 300830,
+  "num_followers": 300845,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-10-08 05:25:30",
       "album": {
-        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
-        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
-      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
-    },
-    {
-      "added_at": "2025-10-08 05:25:30",
-      "album": {
         "name": "\u7d46\u30ce\u5947\u8de1",
         "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
+    },
+    {
+      "added_at": "2025-10-08 05:25:30",
+      "album": {
+        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
     },
     {
       "added_at": "2025-10-08 05:25:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-08 05:25:30",
       "album": {
-        "name": "\u547d\u984c",
-        "url": "https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 290592,
-      "name": "\u547d\u984c",
-      "url": "https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0"
-    },
-    {
-      "added_at": "2025-10-08 05:25:30",
-      "album": {
         "name": "sakanaction",
         "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 322986,
       "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9"
+    },
+    {
+      "added_at": "2025-10-08 05:25:30",
+      "album": {
+        "name": "\u547d\u984c",
+        "url": "https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 290592,
+      "name": "\u547d\u984c",
+      "url": "https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0"
     },
     {
       "added_at": "2025-10-08 05:25:30",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-08 05:25:30",
       "album": {
-        "name": "\u8cdc\u7269",
-        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "\u8cdc\u7269",
-      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
-    },
-    {
-      "added_at": "2025-10-08 05:25:30",
-      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 195600,
       "name": "\u3042\u306a\u305f\u306b",
       "url": "https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja"
+    },
+    {
+      "added_at": "2025-10-08 05:25:30",
+      "album": {
+        "name": "\u8cdc\u7269",
+        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "\u8cdc\u7269",
+      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
     },
     {
       "added_at": "2025-10-08 05:25:30",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-10-08 05:25:30",
       "album": {
-        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
-    },
-    {
-      "added_at": "2025-10-08 05:25:30",
-      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "added_at": "2025-10-08 05:25:30",
+      "album": {
+        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
     },
     {
       "added_at": "2025-10-08 05:25:30",

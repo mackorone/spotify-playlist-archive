@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Henry Moodie
+> a little indie, a little pop, soda featuring MICO and Haiden Henderson
 
-1,469 songs - 3 day 1 hr 14 min
+1,472 songs - 3 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 | 2022-10-29 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
 | [I Keep On Messing It Up](https://open.spotify.com/track/3dGU74UBKhHkeCAO8kyyPK) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [I Keep On Messing It Up](https://open.spotify.com/album/03kfZ6iKeJfyJkYPAvt8py) | 2:43 | 2025-02-28 | 2025-05-24 |
+| [I KINDA LIKE THAT](https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [EARWORM](https://open.spotify.com/album/0oJB399Gh1l7rlzJXbsF85) | 3:18 | 2025-10-10 |  |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-10-29 | 2022-02-19 |
 | [i like ur glasses](https://open.spotify.com/track/1glMdie6TCNb8M6KQHZykY) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [i like ur glasses](https://open.spotify.com/album/6BoepCTOTlbPj9KtYTPRWj) | 2:21 | 2025-02-07 | 2025-03-22 |
 | [i love u](https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [i love u](https://open.spotify.com/album/6f3F3cp9VVYCFKerzAp82n) | 2:43 | 2022-02-25 | 2022-03-12 |
@@ -984,6 +985,7 @@
 | [parachute](https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [parachute](https://open.spotify.com/album/07KH3Fjsp0soupFKOhd025) | 2:55 | 2023-12-01 | 2024-02-03 |
 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 | 2023-08-26 |
 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 | 2022-11-25 | 2023-03-25 |
+| [Parasite](https://open.spotify.com/track/5YtYSUSeKI6jgNlY9Dprmr) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Parasite](https://open.spotify.com/album/7ycd7aaioLGruOwzSd5bw6) | 3:15 | 2025-10-10 |  |
 | [Paris](https://open.spotify.com/track/4057hA5K1RLBIVjE4sdQUi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Paris](https://open.spotify.com/album/0t1vCr6b7CmKEjGOZNOR5p) | 2:47 | 2023-08-08 | 2023-10-14 |
 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 | 2024-03-15 | 2024-04-27 |
 | [part time thing](https://open.spotify.com/track/3xlVGQ7uZhoErYlPNa0HB8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [part time thing](https://open.spotify.com/album/3RbW8HTCIc30mhFCiGa0N3) | 1:58 | 2025-03-21 | 2025-06-07 |
@@ -1016,6 +1018,7 @@
 | [Plot Twist](https://open.spotify.com/track/6uNvAvWVh3vkPtrIThBoZl) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Plot Twist](https://open.spotify.com/album/77YkI3d1q3PMUprknZdvuV) | 2:56 | 2023-10-13 | 2024-01-05 |
 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 | 2022-01-21 | 2022-03-18 |
 | [POINT](https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [POINT](https://open.spotify.com/album/5WE9RMc0mVpSoycGLg8cOW) | 3:26 | 2022-03-25 | 2022-05-28 |
+| [pollen](https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [kids](https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6) | 3:18 | 2025-10-10 |  |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2022-03-11 | 2022-06-18 |
 | [Potion](https://open.spotify.com/track/5MRvyJZtnXXTuWfEUIkSAS) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Potion](https://open.spotify.com/album/124qyryekaVBZATC3KjQHv) | 2:31 | 2022-04-29 | 2022-06-25 |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 | 2023-07-29 |
@@ -1153,7 +1156,7 @@
 | [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 | 2024-02-23 | 2024-03-02 |
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-10-29 | 2022-01-22 |
 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 | 2022-08-19 | 2022-09-03 |
-| [sore throat](https://open.spotify.com/track/3RdB7tA0M8IPDqZYoDdqAx) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [sore throat](https://open.spotify.com/album/5rE87P7Br0k6iXrC43ztZh) | 2:24 | 2025-09-19 |  |
+| [sore throat](https://open.spotify.com/track/3RdB7tA0M8IPDqZYoDdqAx) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [sore throat](https://open.spotify.com/album/5rE87P7Br0k6iXrC43ztZh) | 2:24 | 2025-09-19 | 2025-10-11 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-28 | 2025-06-21 |
 | [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-10 | 2024-06-29 |
 | [SOS](https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [SOS](https://open.spotify.com/album/6YhIk6y8ENfQN7qcSIwuvB) | 3:16 | 2024-01-26 | 2024-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Ernia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,901 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,923 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 37 | [BELLA MADONNINA](https://open.spotify.com/track/6hk4cRUBmCApsRNPP4DNFU) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BELLA MADONNINA](https://open.spotify.com/album/5YlhFIV83wsndnCY4e7L3D) | 2:42 |
 | 38 | [Maschio](https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Maschio](https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy) | 3:24 |
 | 39 | [Miss Oklahoma](https://open.spotify.com/track/59j1Z2zL2sKR492wdFFLqi) | [Simonetta](https://open.spotify.com/artist/0Au89T7jKeOnhX5xXbvzm1), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Miss Oklahoma](https://open.spotify.com/album/6T6oXrGH6zE9WVf6N5wfga) | 2:59 |
-| 40 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [](https://open.spotify.com/album/null) | 2:48 |
+| 40 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [quando nessuno ci vede](https://open.spotify.com/album/7b5L66twDwW0ESfwpFtho8) | 2:48 |
 | 41 | [Milano Baby \(feat\. Joan Thiele\)](https://open.spotify.com/track/5ccDm3bBhSgU2z9W5n6pLM) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:49 |
 | 42 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
 | 43 | [GOLPE](https://open.spotify.com/track/1FKgFqdJEcaXpIXyQPZn0c) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [GOLPE](https://open.spotify.com/album/7HiXBBlDDlLV2F2gYIC2vp) | 3:49 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks. Cover - Navaan Sandhu",
+  "description": "Catch the hottest Punjabi tracks. Cover - Param",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -216,6 +216,28 @@
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
+    },
+    {
+      "album": {
+        "name": "51 GLORIOUS DAYS",
+        "url": "https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220192,
+      "name": "Aadat (Feat. AP Dhillon)",
+      "url": "https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8"
     },
     {
       "album": {
@@ -2634,7 +2656,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-11",
       "duration_ms": 128098,
       "name": "Old Money",
       "url": "https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK"

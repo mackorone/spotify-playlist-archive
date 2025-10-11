@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,215 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,233 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 10 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |
 | 11 | [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 |
 | 12 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 |
-| 13 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [](https://open.spotify.com/album/null) | 2:21 |
+| 13 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
 | 14 | [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 |
 | 15 | [Manos \(I Like To Move It\)](https://open.spotify.com/track/7vAvWmlRWRwYdvCEqQ34sK) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS), [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [Noelia](https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i) | [Manos \(I Like To Move It\)](https://open.spotify.com/album/6KCUSjA7ofaICFq1TO56KV) | 2:03 |
 | 16 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |

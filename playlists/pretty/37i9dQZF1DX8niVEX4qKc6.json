@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 192371,
+  "num_followers": 192375,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
         "name": "No me pidas que no sea un inconsciente",
         "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 250573,
       "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
       "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1067,18 +1047,22 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1095,6 +1079,22 @@
       "duration_ms": 260813,
       "name": "Me Est\u00e1s Tratando Mal - En Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
         "name": "Lo Que Perd\u00ed",
         "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 223096,
       "name": "Lo Que Perd\u00ed",
       "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 279994,
-      "name": "Paloma - Romaphonic",
-      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
         "name": "Mundo Agradable (feat. Ricardo Mollo)",
         "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
+        "name": "Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 279994,
+      "name": "Paloma - Romaphonic",
+      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 242784,
       "name": "Acuarela",
       "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1391,6 +1375,22 @@
       "duration_ms": 221651,
       "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
       "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 186207,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
         "name": "Seminare",
         "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 101818,
       "name": "Fin de Fiesta",
       "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 186207,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1547,26 +1547,22 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "No Estes Triste (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf"
+        "name": "Mil Caminos",
+        "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
         }
       ],
-      "duration_ms": 178000,
-      "name": "No Estes Triste - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa"
+      "duration_ms": 234104,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1591,22 +1587,26 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "Mil Caminos",
-        "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
+        "name": "No Estes Triste (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf"
       },
       "artists": [
         {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         },
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 234104,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
+      "duration_ms": 178000,
+      "name": "No Estes Triste - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa"
     },
     {
       "added_at": "2025-08-01 16:01:14",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2025-08-01 16:01:14",
       "album": {
-        "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
-        "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
-      "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
-    },
-    {
-      "added_at": "2025-08-01 16:01:14",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 173209,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
+    },
+    {
+      "added_at": "2025-08-01 16:01:14",
+      "album": {
+        "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
+        "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
+      "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
     },
     {
       "added_at": "2025-08-01 16:01:14",

@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: 10\-FEET
 
-432 songs - 1 day 0 hr 52 min
+433 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Spicy Queen](https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [Spicy Queen](https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK) | 3:49 | 2025-05-27 |  |
 | [St.ROSALIA](https://open.spotify.com/track/4FoMGVrUBRZh7D4JDirfyE) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St.ROSALIA](https://open.spotify.com/album/0YxhoTCRy9YPRHVMCFSrXv) | 4:55 | 2023-08-01 | 2023-08-09 |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-20 |  |
-| [State Of Mind](https://open.spotify.com/track/4luQpgdQDlshLspiKfkmPI) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Matt Good](https://open.spotify.com/artist/2pAflbiYeStDJMRqKSZ4go) | [State Of Mind](https://open.spotify.com/album/0mykSFL8zFbdYEukPwm9RA) | 3:27 | 2025-03-25 |  |
+| [State Of Mind](https://open.spotify.com/track/4luQpgdQDlshLspiKfkmPI) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Matt Good](https://open.spotify.com/artist/2pAflbiYeStDJMRqKSZ4go) | [State Of Mind](https://open.spotify.com/album/0mykSFL8zFbdYEukPwm9RA) | 3:27 | 2025-03-25 | 2025-10-11 |
 | [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2023-11-23 | 2023-12-10 |
 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 | 2023-12-14 | 2024-04-19 |
 | [STAY GROUND](https://open.spotify.com/track/594mWwCmEPEUdbTylWSr5p) | [ISCREAM NEVER GROUND](https://open.spotify.com/artist/3VaWHUyDEoBjigERzadi1g) | [MAKING THE GROUND](https://open.spotify.com/album/0wYws2sv9puyf9jO7U2r0y) | 3:34 | 2025-06-24 | 2025-08-06 |
@@ -343,6 +343,7 @@
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 | 2023-09-26 | 2024-04-19 |
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 | 2023-09-26 |  |
 | [UNINSTALL](https://open.spotify.com/track/2L0PMoyeQ6u5jKxcbJM5N8) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [grunge is dead\. EP](https://open.spotify.com/album/4DT9L2A2N0aFSriNHLCRd8) | 2:19 | 2025-07-22 |  |
+| [Until You Die Out](https://open.spotify.com/track/2ijSj23nvR4Zo4NdNOpw4v) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Until You Die Out](https://open.spotify.com/album/4oSV62VjbA1f87S0VNZqkx) | 3:26 | 2025-10-07 |  |
 | [Useless](https://open.spotify.com/track/4w1n6SNwu8H0SlwzhsyaiV) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [Useless](https://open.spotify.com/album/5sEatstRNfjeRdXmu1pHBe) | 3:10 | 2025-05-28 |  |
 | [VANDALISM](https://open.spotify.com/track/6uZ8FTXfW15gerPPmaRZ9J) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [VANDALISM](https://open.spotify.com/album/5A2TMeemL5VEmN7lp8MvtX) | 2:53 | 2024-11-26 | 2025-01-30 |
 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2023-07-20 | 2024-04-19 |

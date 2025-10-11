@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 804848,
+  "num_followers": 804920,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "I Knew I Loved You",
-      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 192066,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Chicago 18 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 343280,
+      "name": "Will You Still Love Me? - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Never Forget: The Ultimate Collection",
         "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Chicago 18 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 343280,
-      "name": "Will You Still Love Me? - 2009 Remaster",
-      "url": "https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "You Deserve Better / At My Weakest",
         "url": "https://open.spotify.com/album/3M1MYH8SYxLaJfBWIAsAdL"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 217293,
       "name": "At My Weakest",
       "url": "https://open.spotify.com/track/6rcTyXe8W8kjQLyALBRj1v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Avalon Sunset",
-        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Have I Told You Lately",
-      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/1sgfTxlmBQblQTkhLMNVmM"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 241506,
       "name": "Have I Told You Lately - 2008 Remaster",
       "url": "https://open.spotify.com/track/7Lwj4BttdzmwGIL5pigaMV"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Best of 1980-1990 & B-Sides",
-        "url": "https://open.spotify.com/album/1WupyTEE8twuMK5iEoBcm2"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/2JZfTvWWtpaE8NohqRXqFr"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "In The Lonely Hour (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
@@ -2231,6 +2215,38 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "The Best of 1980-1990 & B-Sides",
+        "url": "https://open.spotify.com/album/1WupyTEE8twuMK5iEoBcm2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/2JZfTvWWtpaE8NohqRXqFr"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "David Soul",
+        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
+      },
+      "artists": [
+        {
+          "name": "David Soul",
+          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
         "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
       },
@@ -2243,6 +2259,22 @@
       "duration_ms": 335946,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2275,38 +2307,6 @@
       "duration_ms": 393640,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "David Soul",
-        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
-      },
-      "artists": [
-        {
-          "name": "David Soul",
-          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Don't give up on us",
-      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
     },
     {
       "added_at": "2022-08-26 12:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168001,
+  "num_followers": 167999,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2025-09-29 06:16:50",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-09-29 06:16:50",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2025-09-29 06:16:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
+        "name": "Breath From Another",
+        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+      },
+      "artists": [
+        {
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2025-09-29 06:16:50",
+      "album": {
         "name": "Walk Long",
         "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 248877,
       "name": "Walk Long",
       "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
-    },
-    {
-      "added_at": "2025-09-29 06:16:50",
-      "album": {
-        "name": "Breath From Another",
-        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
-      },
-      "artists": [
-        {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
     },
     {
       "added_at": "2025-09-29 06:16:50",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
-    },
-    {
-      "added_at": "2025-09-29 06:16:50",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 271506,
       "name": "Wicked Dreams",
       "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2025-09-29 06:16:50",
+      "album": {
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 213535,
+      "name": "Something to Feel",
+      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     },
     {
       "added_at": "2025-09-29 06:16:50",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Be On My Way (Full)",
+      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
+    },
+    {
+      "added_at": "2025-09-29 06:16:50",
+      "album": {
         "name": "ELEVATED LOVE",
         "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+        "name": "Scarlet Lamb",
+        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Be On My Way (Full)",
-      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
+      "duration_ms": 253417,
+      "name": "Reckless Sensation",
+      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
     },
     {
       "added_at": "2025-09-29 06:16:50",
@@ -1423,22 +1439,6 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
-    },
-    {
-      "added_at": "2025-09-29 06:16:50",
-      "album": {
-        "name": "Scarlet Lamb",
-        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 253417,
-      "name": "Reckless Sensation",
-      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
     },
     {
       "added_at": "2025-09-29 06:16:50",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2025-09-29 06:16:50",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 173949,
       "name": "honeymoon - Spotify Singles",
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "added_at": "2025-09-29 06:16:50",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2025-09-29 06:16:50",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-09-29 06:16:50",
       "album": {
-        "name": "Panda",
-        "url": "https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ"
-      },
-      "artists": [
-        {
-          "name": "Ley Soul",
-          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Fortune Eyes",
-      "url": "https://open.spotify.com/track/73nbjwGnfzLd7KsTU3H1mv"
-    },
-    {
-      "added_at": "2025-09-29 06:16:50",
-      "album": {
         "name": "Emo Regulation",
         "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 165500,
       "name": "Spirals On My Tongue",
       "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+    },
+    {
+      "added_at": "2025-09-29 06:16:50",
+      "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Fortune Eyes",
+      "url": "https://open.spotify.com/track/73nbjwGnfzLd7KsTU3H1mv"
     },
     {
       "added_at": "2025-09-29 06:16:50",

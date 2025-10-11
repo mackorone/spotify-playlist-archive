@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Chefwest
 
-1,532 songs - 3 day 14 hr 27 min
+1,532 songs - 3 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-03-16 | 2023-07-14 |
 | [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 | 2025-04-17 | 2025-08-01 |
 | [Make Believe](https://open.spotify.com/track/6jvcP9ivZyOfXHdBKwMX1P) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG) | [Regretopia](https://open.spotify.com/album/6GGks9hQ6Kzi8vO4bzIZUV) | 3:15 | 2024-09-26 | 2025-02-14 |
+| [MAKE IT RAIN](https://open.spotify.com/track/3jr24iK6HvCI0X4AQ2bHfa) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [Bye\. \(Deluxe\)](https://open.spotify.com/album/3CKAxeUlxZw1zGkcPZ6Vvt) | 2:41 | 2025-10-09 |  |
 | [Mama's Song](https://open.spotify.com/track/6bL7QOp9ou73SGGzMQFCF5) | [Kaelyn](https://open.spotify.com/artist/4cYAwDK42gnycP8fEyLisS) | [Mama's Song](https://open.spotify.com/album/4zjdkey6wFRBEM69zNZmRG) | 2:08 | 2025-05-01 | 2025-08-01 |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2023-05-04 | 2023-09-01 |
 | [Mayhem](https://open.spotify.com/track/2M17XSJDnyzWP3z9exWlMI) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Mayhem](https://open.spotify.com/album/0UHaYY78EnwiDxGZ2HzYcV) | 2:35 | 2023-07-20 | 2023-09-15 |
@@ -918,7 +919,6 @@
 | [TOLD U DAT](https://open.spotify.com/track/0CZ8sssUaH57ZOuXl7fhnP) | [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa), [DatBettie](https://open.spotify.com/artist/6ISxX5nIpeCWvvkxUihgOB) | [TOLD U DAT](https://open.spotify.com/album/5I874yTOuHrDLcKz8u4PZl) | 1:18 | 2022-12-29 | 2023-03-18 |
 | [Tomorrow Night](https://open.spotify.com/track/0wjwkMnKqV1DpoeWcXOgi5) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [FM 74.2](https://open.spotify.com/album/14adeW4GHg9BuX4XhtkbVC) | 3:50 | 2022-10-13 | 2023-03-18 |
 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 | 2025-09-25 |  |
-| [Track 13](https://open.spotify.com/track/3jr24iK6HvCI0X4AQ2bHfa) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tranquility](https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Tranquility](https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL) | 3:29 | 2023-10-19 | 2024-01-05 |
 | [TRIPPIN](https://open.spotify.com/track/5Zl1z10YibqcrDQhAeAYKw) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [TRIPPIN](https://open.spotify.com/album/7vNjpeuMAm22fVx44bqGZC) | 2:42 | 2022-05-26 | 2022-06-10 |
 | [tripwire interlude](https://open.spotify.com/track/6FTlPHrVdDWNnw6I3QCO8w) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [tripwire interlude](https://open.spotify.com/album/69xcrmDuW84ifqwojp3STZ) | 1:17 | 2025-07-24 |  |

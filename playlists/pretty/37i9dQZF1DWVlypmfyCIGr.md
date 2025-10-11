@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: りりあ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,804 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,818 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 8 | [ふたりでひとつ](https://open.spotify.com/track/1NoVbvAy9dCoPHq1NR3S0s) | [清野研太朗](https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep) | [ふたりでひとつ](https://open.spotify.com/album/45BD2E3qo9sVVAaz0xDa2X) | 3:44 |
 | 9 | [beat up](https://open.spotify.com/track/6JDRRxrjJYea1Mv091yExY) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [beat up](https://open.spotify.com/album/0l057GeLD9OXK35RJtPp7e) | 2:53 |
 | 10 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
-| 11 | [Hug](https://open.spotify.com/track/0g1NXf3iH1y9rfAqbER2Fd) | [No.men](https://open.spotify.com/artist/2mJxKhnktBHrIqHk7XUeBO) | [Hug](https://open.spotify.com/album/6M66CJjgOpee4IUuIfc5H3) | 4:04 |
+| 11 | [Hug](https://open.spotify.com/track/0g1NXf3iH1y9rfAqbER2Fd) | [No.MEN](https://open.spotify.com/artist/2mJxKhnktBHrIqHk7XUeBO) | [Hug](https://open.spotify.com/album/6M66CJjgOpee4IUuIfc5H3) | 4:04 |
 | 12 | [honnouji](https://open.spotify.com/track/4M3NJKPqncw0XoARhBni4u) | [佳苗](https://open.spotify.com/artist/3QE2AefsoyvHTdUxGMv5pq) | [honnouji](https://open.spotify.com/album/4ISKlYR0i4oEt9Embydjsr) | 2:32 |
 | 13 | [ネタ](https://open.spotify.com/track/0fGprAV4rf2lpeDzOcCJ0y) | [ザ・シスターズハイ](https://open.spotify.com/artist/1ByeRRQYUxMuVEzj2si1OH) | [ネタ](https://open.spotify.com/album/2K0a12pAthfKwFzc7JUXzU) | 4:42 |
 | 14 | [LOVE TRIGGER](https://open.spotify.com/track/4UsxpVN2lY5sS1pOXuoc9I) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [カ ミ ナ リ](https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y) | 3:48 |

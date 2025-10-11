@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,068 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,073 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 82 | [Ese Soy Yo \- FNX Omar Remix](https://open.spotify.com/track/3mJUgXTfXxzughUZZkoxNn) | [Hallex M](https://open.spotify.com/artist/0f270Jn8Iq2r631GA5429f), [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [Afrosideral](https://open.spotify.com/artist/6gwlTwJNBRJ8l8phOAQCEI), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Ese Soy Yo \(FNX Omar Remix\)](https://open.spotify.com/album/54d4wyTkL1la455QGBipug) | 7:34 |
 | 83 | [Dan Dale \- Ucha Remix](https://open.spotify.com/track/0RB5Epiaiewx4UdbInDDWD) | [Keyano](https://open.spotify.com/artist/3xEXhUZOzus3uL8jZ01rRH), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Dan Dale \(Ucha Remix\)](https://open.spotify.com/album/3F43VMK42YJQvoAnGG7AzO) | 3:28 |
 | 84 | [Mathura](https://open.spotify.com/track/6LgavHPcUhWatD4vXcdeOb) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Mathura](https://open.spotify.com/album/6D77LAeB7DSHY3Tgq0hcPn) | 2:48 |
-| 85 | [Aya \- THEMBA's Herd Remix](https://open.spotify.com/track/3GpHjXjwvoohxCit270wwR) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [House Of Infinity](https://open.spotify.com/album/0CeWIUxQExtXOaDAfo1J6F) | 2:51 |
+| 85 | [Aya \- THEMBA's Herd Remix](https://open.spotify.com/track/3GpHjXjwvoohxCit270wwR) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Luca Cazal](https://open.spotify.com/artist/2hbdxhfmHzxxkFXXuk5Fci), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [House Of Infinity](https://open.spotify.com/album/0CeWIUxQExtXOaDAfo1J6F) | 2:51 |
 | 86 | [Nirva](https://open.spotify.com/track/2vBZUSrurqmyNqt6N0a0UF) | [Kreisler](https://open.spotify.com/artist/3ZlOuTPjW2CyKznrhAjFBL), [Copal](https://open.spotify.com/artist/1LjHpgBTL94CVnf7IWq0es), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Nirva](https://open.spotify.com/album/3Id8Tch7WRXrYmwvZzXSPD) | 7:08 |
 | 87 | [D:evotion](https://open.spotify.com/track/3gcmh7rWcT1ppvVqQNfezy) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [D:evotion](https://open.spotify.com/album/03MR8BaM8z6HZ75ZQM6ulS) | 6:11 |
 | 88 | [Duende \- Derun Remix](https://open.spotify.com/track/0F3yxc47bdzD1pgDxLoyzp) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [UNER](https://open.spotify.com/artist/44CkOTmP33qUoft5iGVPov), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Duende \(Derun Remix\)](https://open.spotify.com/album/2UhA4Ain3n3gfsztBiqVmY) | 6:39 |

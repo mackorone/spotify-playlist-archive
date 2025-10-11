@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 364599,
+  "num_followers": 364775,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 304023,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "THE DRAIN",
         "url": "https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 225701,
       "name": "THE DRAIN",
       "url": "https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
-        "name": "Chokehold",
-        "url": "https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 304023,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
     },
     {
       "added_at": "2025-09-19 04:00:10",
