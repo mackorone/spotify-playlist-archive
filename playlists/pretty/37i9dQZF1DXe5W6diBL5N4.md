@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: izna\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,562 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,591 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 52 | [Ready](https://open.spotify.com/track/0qOnS0Cip2iG4SGx17RGjk) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Ready](https://open.spotify.com/album/3CNU8Q4RGoz9cS27gGBBUp) | 4:15 |
 | 53 | [We Go High](https://open.spotify.com/track/3mrugd3Xz5uHR9Q21u4HaX) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [We Go High](https://open.spotify.com/album/3Ds7YahBufGY0B35C9m7ba) | 3:21 |
 | 54 | [Mushroom House](https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI) | [Tomatomat](https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9) | [Mushroom House](https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG) | 2:54 |
-| 55 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN \(Stray Kids\)](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 |
+| 55 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 |
 | 56 | [I don't wanna hear it \(with g0nny\)](https://open.spotify.com/track/1rxqLUCOdanbEqJnCQa2ka) | [Yoo Se Yoon](https://open.spotify.com/artist/0Q0e0s8XZbQGe7vBYXnKyl), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [I don't wanna hear it \(with g0nny\)](https://open.spotify.com/album/1qpXn2GcbO594lYAssS2SW) | 2:32 |
 | 57 | [The End Of Love](https://open.spotify.com/track/47xcPKcy3jir6DZfWuDgTq) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [The End Of Love](https://open.spotify.com/album/1iXxxl40hz0I8gapVZwf0Z) | 3:23 |
 | 58 | [The season of our beginning](https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Youth \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6V8zQCogf0Nxlwm9CakIJu) | 4:09 |

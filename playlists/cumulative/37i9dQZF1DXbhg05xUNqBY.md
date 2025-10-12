@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-328 songs - 21 hr 53 min
+329 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Almighty](https://open.spotify.com/track/7K5DgWyMTMHBFJKH43fh5u) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Almighty](https://open.spotify.com/album/7C6GwCfNBIhV8QGN4NSKlA) | 3:33 | 2024-07-26 | 2025-04-05 |
 | [Altogether Good \- Live](https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [The Joy of Being Together](https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE) | 5:09 | 2024-07-26 | 2025-04-05 |
 | [At The Altar \(acoustic\)](https://open.spotify.com/track/4pD3LcBiP1HaINhC4j5QDi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [At The Altar \(acoustic\)](https://open.spotify.com/album/1FpQnlVxG5htZuiX3QtTiz) | 3:37 | 2025-04-05 |  |
+| [At The Table](https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [At The Table](https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3) | 1:34 | 2025-10-10 |  |
 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 | 2023-02-07 | 2024-06-23 |
 | [Be My Glory](https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Be My Glory](https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf) | 4:22 | 2024-07-26 |  |
 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 | 2021-10-31 | 2024-07-27 |
@@ -219,7 +220,7 @@
 | [Praise](https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Praise](https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs) | 4:38 | 2024-07-26 |  |
 | [Praise \- Acoustic](https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Praise \(Acoustic\)](https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8) | 3:35 | 2024-07-26 |  |
 | [Praise Be](https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Praise Be](https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV) | 4:11 | 2025-04-05 |  |
-| [Pray, Pray, Pray](https://open.spotify.com/track/0taxzffM52DcgsNzwU98a8) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Pray, Pray, Pray](https://open.spotify.com/album/3eGkYjPWt0pBn9vvaUHN8h) | 2:46 | 2025-10-10 |  |
+| [Pray, Pray, Pray](https://open.spotify.com/track/0taxzffM52DcgsNzwU98a8) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Pray, Pray, Pray](https://open.spotify.com/album/3eGkYjPWt0pBn9vvaUHN8h) | 2:46 | 2025-10-10 | 2025-10-12 |
 | [Prayers Filled With Praises \- ambient](https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Prayers Filled With Praises \(ambient\)](https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F) | 4:06 | 2025-04-05 | 2025-10-11 |
 | [Precious](https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 6:07 | 2023-02-07 | 2023-09-09 |
 | [Precious Gold](https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Precious Gold](https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J) | 3:36 | 2025-04-05 |  |

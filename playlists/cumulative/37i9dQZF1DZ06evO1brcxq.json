@@ -1722,6 +1722,24 @@
     {
       "album": {
         "name": "True Romance",
+        "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187878,
+      "name": "You (Ha Ha Ha)",
+      "url": "https://open.spotify.com/track/5cghqtgljxpGJ1XeXAIK4p"
+    },
+    {
+      "album": {
+        "name": "True Romance",
         "url": "https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu"
       },
       "artists": [
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 188360,
       "name": "You - Ha Ha Ha",
       "url": "https://open.spotify.com/track/6Eiu7cflRNm6pCSSo1XeE1"

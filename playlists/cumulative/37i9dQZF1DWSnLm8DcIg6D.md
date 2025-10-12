@@ -2,7 +2,7 @@
 
 ### [hot girl sh\*t](https://open.spotify.com/playlist/37i9dQZF1DWSnLm8DcIg6D)
 
-> the soundtrack to your girl dinner\. cover: Jamaica Moana
+> the soundtrack to your girl dinner\. cover: Charli XCX
 
 275 songs - 13 hr 40 min
 

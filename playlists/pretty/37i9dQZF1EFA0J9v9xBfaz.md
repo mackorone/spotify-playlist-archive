@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105 likes - 174 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 174 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 156 | [Party De Electrónica](https://open.spotify.com/track/140pAWVcH6vpI1z0eKt9pl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 3:38 |
 | 157 | [Nos Miran \(feat\. Eiby, Verzatyl & Italian Somali\)](https://open.spotify.com/track/3hF4uVG0Ne4sqYd3gmreQq) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Verzatyl](https://open.spotify.com/artist/6c4NXcvtAFvVIfD21zLIHv) | [Nos Miran \(feat\. Eiby, Verzatyl & Italian Somali\)](https://open.spotify.com/album/2IQDy4gyPKp8mxCwTyjDeK) | 3:20 |
 | 158 | [Intro](https://open.spotify.com/track/6MK8jdHLIWvzURJZlmPq64) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:40 |
-| 159 | [Mi Perfume](https://open.spotify.com/track/34CT4jk38DAodrTq4zZ6bk) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 2:33 |
-| 160 | [Me Quedé Off](https://open.spotify.com/track/3NsWqQ3AKc4wTlhd1KG67C) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:22 |
+| 159 | [Me Quedé Off](https://open.spotify.com/track/3NsWqQ3AKc4wTlhd1KG67C) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:22 |
+| 160 | [Mi Perfume](https://open.spotify.com/track/34CT4jk38DAodrTq4zZ6bk) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 2:33 |
 | 161 | [Chiste JAJA](https://open.spotify.com/track/72vArzlpP73tNgZlQfzxOl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:07 |
 | 162 | [Reggaeton Drugs](https://open.spotify.com/track/7KSnMnwu3FohntrwymoNfV) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 2:22 |
 | 163 | [jodona](https://open.spotify.com/track/3Rz9oKyMEI99OOKjw9FIFS) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [relaciones tóxicas](https://open.spotify.com/album/6n24N0gjwRDi9Nz4hr6CWc) | 2:44 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 173 | [Interludio](https://open.spotify.com/track/1BnmnbRmsZ6fG1qxlLJlZc) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 0:48 |
 | 174 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Ab+hSAAAAABmLIrw6/nI2Lbw3bbEVh/B`
+Snapshot ID: `Ab+nBgAAAADOIZu2G0sPXB8vFmX8FJ4H`

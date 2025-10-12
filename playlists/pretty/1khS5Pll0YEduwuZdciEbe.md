@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Babygirl
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,464 likes - 85 songs - 5 hr 14 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,462 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

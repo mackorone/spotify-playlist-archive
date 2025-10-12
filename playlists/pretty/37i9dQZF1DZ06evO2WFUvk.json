@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3960,
+  "num_followers": 3965,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOb7AAAAAADPNo3sYfSyMqD6otaskAzQ",
+  "snapshot_id": "aOhMgAAAAABdKCvLbiOITtK5jgKvF79K",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Amor De Telefono Esquinero",
-      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
+      "duration_ms": 154893,
+      "name": "\u00bfPor Que?",
+      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Puedes",
-      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
+      "duration_ms": 199653,
+      "name": "Amor De Telefono Esquinero",
+      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 154893,
-      "name": "\u00bfPor Que?",
-      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
+      "duration_ms": 230026,
+      "name": "Puedes",
+      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
       "duration_ms": 323301,
       "name": "Samambaila - Original Mix",
       "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,577 songs - 5 day 14 hr 28 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,580 songs - 5 day 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2585,5 +2585,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2575 | [Starlight Rhythm](https://open.spotify.com/track/0JVCMgGbIVNSPR4s5YFqUj) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Starlight Rhythm](https://open.spotify.com/album/4GpTUtKXrHxo9lYog45zfN) | 3:08 |
 | 2576 | [Lost](https://open.spotify.com/track/1BQrW9XSFfRWP9VKnc6vdm) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd) | [Lost](https://open.spotify.com/album/24y79Esiu86Ggo0UYqP4cQ) | 2:42 |
 | 2577 | [CERTIFIED CLASSIC](https://open.spotify.com/track/7mZ3LwFHylD2reWa5vPDd9) | [Unicorn On Ketamine](https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [RAINBOW COLORS](https://open.spotify.com/album/2u2vEw7apnMsjUzEKcCmE4) | 3:01 |
+| 2578 | [elevate \(Bumloco Remix\)](https://open.spotify.com/track/5WZcHaHfyrC8WR2dJlEmrd) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [elevate \(Bumloco Remix\)](https://open.spotify.com/album/1R7BGXpSqiFKRosc5R57yv) | 2:42 |
+| 2579 | [Heart Drumz](https://open.spotify.com/track/3I1U1R2W8jEuardXH1jzE3) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Heart Drumz](https://open.spotify.com/album/6Zh1X8R2nkfRITF1AOkuyF) | 2:30 |
+| 2580 | [2008](https://open.spotify.com/track/4qFXZQJzUfp1hlCyo6ne7q) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Everything Changes \(Deluxe\)](https://open.spotify.com/album/3dcqbyl39nPsTqnqffnAR6) | 3:33 |
 
-Snapshot ID: `AAAKXLaYl+b/YQTlJOCA+RJgkpfH8Uo8`
+Snapshot ID: `AAAKX5CI1efE9tE1rpdHt52pcbjiquhM`

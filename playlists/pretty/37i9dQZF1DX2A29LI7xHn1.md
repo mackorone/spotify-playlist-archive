@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: ZEDDY WILL
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,120,750 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,120,606 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 23 | [SHYNE](https://open.spotify.com/track/6YmZrYfrOd1ACzgsPmlliq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [SHYNE](https://open.spotify.com/album/1oPsvUo8WLjJmwHKVCZoLK) | 3:13 |
 | 24 | [Blow My High](https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Focus More On Me \(Deluxe\)](https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg) | 2:29 |
 | 25 | [The One I Want](https://open.spotify.com/track/2Bt1BfsbxOWqWFvs0Q1rYu) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 1:48 |
-| 26 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:39 |
+| 26 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:40 |
 | 27 | [Crack](https://open.spotify.com/track/39ojQfJNRgPCWwnlKaBzGQ) | [3Dcam](https://open.spotify.com/artist/0Ug8XunJs2uhubTHdELnG4) | [Save The Game](https://open.spotify.com/album/5rB5CLtJMfM4rfPOJymJLr) | 1:45 |
 | 28 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 29 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |

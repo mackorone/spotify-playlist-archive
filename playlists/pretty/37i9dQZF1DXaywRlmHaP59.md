@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,937 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,976 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 7 | [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 |
 | 8 | [Farek Men El Sama Lal Ard](https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Taghyeer El Fousoul](https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94) | 3:37 |
 | 9 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
-| 10 | [Rouh El Baher](https://open.spotify.com/track/3tDJsXij36UkVCvMUs3Tne) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Rouh El Baher](https://open.spotify.com/album/4kmByZdeUNhllYmdZlCONO) | 3:58 |
+| 10 | [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 |
 | 11 | [Chou B Oul](https://open.spotify.com/track/3svYE1Y2bTBiLWYeKukRxF) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Chou B Oul](https://open.spotify.com/album/79AMPUKJDB8qM7YhWJKi38) | 3:05 |
 | 12 | [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:54 |
 | 13 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 30 | [Wala Ghalta](https://open.spotify.com/track/3WWl6rIoWcDU5btMQgSfPk) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Wala Ghalta](https://open.spotify.com/album/2qyHTiNEvzM40oWZK5NG7C) | 2:11 |
 | 31 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 |
 | 32 | [Law Hobna Ghalta](https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Law Hobna Ghalta](https://open.spotify.com/album/0LkPtJJ55FE1xHqUoW4vCc) | 3:47 |
-| 33 | [mech nafs el chi](https://open.spotify.com/track/4kxpzN83RfuiPluSyCPXrC) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [mech nafs el chi](https://open.spotify.com/album/6P5LqXQQnyGM86ckpF2Gqk) | 3:12 |
-| 34 | [Min Awel Marra Shoftak](https://open.spotify.com/track/0wgeF2POWTOKQFdB7aiQ9m) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 4:14 |
+| 33 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
+| 34 | [mech nafs el chi](https://open.spotify.com/track/4kxpzN83RfuiPluSyCPXrC) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [mech nafs el chi](https://open.spotify.com/album/6P5LqXQQnyGM86ckpF2Gqk) | 3:12 |
 | 35 | [غمرني و شد](https://open.spotify.com/track/4F98LSm3RfkRIsA5WNx0Ln) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [My Maya](https://open.spotify.com/album/2gqEvisbIF9cd8SuTgWPJm) | 3:53 |
 | 36 | [Ana Aw La Ahad](https://open.spotify.com/track/0ku1qGWFryWckG7E1yKLpG) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ana Aw La Ahad](https://open.spotify.com/album/6PA9lhEqQT45GpsoVjLKcW) | 3:43 |
 | 37 | [Ghassa](https://open.spotify.com/track/3NgAMwYFwomQ1HIR36ZzXU) | [Antoine Massaad](https://open.spotify.com/artist/7boKi7t7z9sUCMBPulT3yy) | [Ghassa](https://open.spotify.com/album/7eZDhS8lvxUaZA7EEmCSxe) | 3:29 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 39 | [Hobbak Metl Beirut](https://open.spotify.com/track/2DYIRwjjr3oJ0LMoOsIlrs) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Hobbak Metl Beirut](https://open.spotify.com/album/43M4mL9yhmnSK0C8P4FhSS) | 4:03 |
 | 40 | [Shou Helou](https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP) | 3:31 |
 
-Snapshot ID: `AAAAAKpT6zDLuzp9VyFG2y5tQwuY/JzD`
+Snapshot ID: `AAAAAMqQnhZB8QDKbwGoXmCYpbNk8giL`

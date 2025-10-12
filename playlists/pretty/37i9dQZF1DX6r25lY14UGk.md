@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,153 likes - 196 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,301 likes - 196 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 5 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |
 | 6 | [Play The Chicken Way](https://open.spotify.com/track/2fFiSiVbZQfDiSjN7bktMH) | [The Baby Einstein Music Box Orchestra](https://open.spotify.com/artist/3TW7S3OjH8GmXtfvMHzOWb) | [Farm Explorers, Vol\. 1](https://open.spotify.com/album/63eQQ9FKM4PYhYtM8ywdwv) | 1:52 |
 | 7 | [Dollhouse World](https://open.spotify.com/track/0QQ4iDe9bstx2UuRuR3Gxn) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Gabby’s Dollhouse: The Movie Soundtrack](https://open.spotify.com/album/0RgJPSavha36mwICc8tjZR) | 3:11 |
-| 8 | [What Dinosaurs Do In The Morning \- Nursery Rhymes Remix](https://open.spotify.com/track/47gbMS0Bc34tvMHOdu8kgy) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Nick Jr\. Mix It Up! Vol\. 25: Blue’s Clues & You! Nursery Rhymes \(The Remixes\)](https://open.spotify.com/album/4z7ZLUasF7L44OG9TWM5ko) | 1:55 |
+| 8 | [What Dinosaurs Do In The Morning \- Nursery Rhymes Remix](https://open.spotify.com/track/47gbMS0Bc34tvMHOdu8kgy) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Nick Jr\. Mix It Up! Vol\. 25: Blue’s Clues & You! Nursery Rhymes \(The Remixes\)](https://open.spotify.com/album/4z7ZLUasF7L44OG9TWM5ko) | 1:55 |
 | 9 | [Pink!](https://open.spotify.com/track/6D7bjKhhwtdz5eUXB9fUHU) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa Pig Tales Vol\. 2](https://open.spotify.com/album/1kPLRVqCCpROYm6IGHRsCO) | 2:04 |
 | 10 | [Table Made of Wood](https://open.spotify.com/track/01MRUkIsLcadAxpUf7RL8s) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Table Made of Wood](https://open.spotify.com/album/5Cv6xGMFoWNiDORFBWPTPT) | 2:39 |
 | 11 | [Monster of the Century](https://open.spotify.com/track/2NNxlWYlJmmaCcOUSaiiXy) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Draculaura's Scary Sweet Birthday](https://open.spotify.com/album/7cjiTb1VHQXFxu3G8IQjao) | 1:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Oklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,372 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,365 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 11 | [tchelo rodrigues On The Radar Freestyle](https://open.spotify.com/track/45XaKLZAemjhKkhXoUocfj) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [tchelo rodrigues On The Radar Freestyle](https://open.spotify.com/album/4K8LyGSExRfK3CiqZZtIMp) | 2:17 |
 | 12 | [OQCSENTE](https://open.spotify.com/track/46J5muHM6imLvOUuncOj8q) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [BeatByDrey](https://open.spotify.com/artist/368y69JDrGHLlxFv2MLdBT), [Prod Lozer](https://open.spotify.com/artist/3yPsnusA1pzK25GXw4oasY) | [OQCSENTE](https://open.spotify.com/album/0p8NSwHbqbW7f0eHNF97ka) | 2:21 |
 | 13 | [Celular](https://open.spotify.com/track/2RDmYZtJE1vwmUQ0vJBNFe) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Pedrix](https://open.spotify.com/artist/6Kvajdlb4SCfkEuajloA3q) | [Celular](https://open.spotify.com/album/5sUT0eNXmwPIHM7v1zfl5B) | 3:31 |
-| 14 | [como ela não me quer?](https://open.spotify.com/track/3JTIJFR3EVud1Rah0HPRbA) | [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [?](https://open.spotify.com/album/74rfsx02SO5X8bbsGv08dA) | 2:25 |
+| 14 | [como ela não me quer?](https://open.spotify.com/track/3JTIJFR3EVud1Rah0HPRbA) | [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [?](https://open.spotify.com/album/74rfsx02SO5X8bbsGv08dA) | 2:25 |
 | 15 | ["Nossa, você sumiu"](https://open.spotify.com/track/1CfwmEc3EDMDJo8Jka56lX) | [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw) | [Áudios no whatsapp](https://open.spotify.com/album/3BychxOXNg8bU74ZdHXUsy) | 2:11 |
 | 16 | [GANA](https://open.spotify.com/track/3RZGqZDuEBMQWbIjCnuB62) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [GANA](https://open.spotify.com/album/7inohy3tgV0UYfHR9mLSJV) | 2:16 |
 | 17 | [Pra Sempre Onda](https://open.spotify.com/track/06wXLI3mjNWii1zIh5Ewok) | [Gabri](https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB), [Dudda D'Cria](https://open.spotify.com/artist/17ggYU9oz8jfMZMVWHoJ4z), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [Pra Sempre Onda](https://open.spotify.com/album/7pNWD2hvSkto4kJwYOol9c) | 2:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > David Guetta, Teddy Swims & Tones and I, Aya Nakamura et Helena au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,711 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,730 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 45 | [Baby Baby](https://open.spotify.com/track/6TVbM5us3GqQmY2kx8C83W) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Baby Baby](https://open.spotify.com/album/6PUQG8FDAAoav6lSORKCKy) | 2:37 |
 | 46 | [Yalemo](https://open.spotify.com/track/7JRzjVTE4WuFFEZLPqRmqj) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Balla Diabaté](https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA), [Mountaga Diabate](https://open.spotify.com/artist/1hCPDXhIEZIozMvfVZYcyx) | [Yalemo](https://open.spotify.com/album/7eYAus7etZpGshGrQEdGGI) | 2:29 |
 | 47 | [Naïf de Coeur](https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Naïf de Coeur](https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r) | 4:47 |
-| 48 | [LITTERALEMENT](https://open.spotify.com/track/0YfudQI8rnWLsJzik6KXLa) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [QUITTE OU DOUBLE](https://open.spotify.com/album/5EcsbghQuLiOaeQ8CSd6g4) | 2:43 |
+| 48 | [LITTÉRALEMENT](https://open.spotify.com/track/0YfudQI8rnWLsJzik6KXLa) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [QUITTE OU DOUBLE](https://open.spotify.com/album/5EcsbghQuLiOaeQ8CSd6g4) | 2:43 |
 | 49 | [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nighttime Thing](https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj) | 2:24 |
 | 50 | [BIG TIME \(feat\. Wizkid\)](https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 3:26 |
 | 51 | [Silence](https://open.spotify.com/track/73fb8ruS8vEYXKVLvrEeWm) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Silence](https://open.spotify.com/album/3bYiL28JV1UpdyEt6s6f7z) | 2:33 |

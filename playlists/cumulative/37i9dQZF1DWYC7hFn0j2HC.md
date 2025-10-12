@@ -2,7 +2,7 @@
 
 ### [Charros de Oro](https://open.spotify.com/playlist/37i9dQZF1DWYC7hFn0j2HC)
 
-> ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
+> ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
 122 songs - 6 hr 12 min
 

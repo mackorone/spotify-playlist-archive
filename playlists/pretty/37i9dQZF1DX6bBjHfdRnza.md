@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Ale Rossi\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,735 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,739 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ta Ligado](https://open.spotify.com/track/0Df6ecmGShZcwkukAHIAbe) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF) | [Orbita](https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV) | 2:04 |
+| 1 | [Sonidero](https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF) | [Orbita](https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV) | 2:30 |
 | 2 | [Turn Up The Sound](https://open.spotify.com/track/0eaatwR4Y32JUFtaYn4nba) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao) | [Turn Up The Sound](https://open.spotify.com/album/0zsIFbmGa0sA1UTBr9dI3w) | 2:44 |
 | 3 | [Volando](https://open.spotify.com/track/4hvqWEaRbKVyr13kTO6Mcs) | [EMPIRICAL](https://open.spotify.com/artist/6Fwz6qIroABMAYlvwsltUY), [Sussy Rohon](https://open.spotify.com/artist/0ot2zaeLu90z1Dn0bbKQnd) | [Volando](https://open.spotify.com/album/7tcGzQdMzyFjQ0KkXwIMbH) | 4:01 |
 | 4 | [Back To The](https://open.spotify.com/track/4gyABb1xA4dMRcTKxnAclX) | [KELLAR](https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz) | [Back To The](https://open.spotify.com/album/0rg1yNcnFkU413om1g7JWf) | 3:46 |
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 15 | [Missing](https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ) | [Ethanplus](https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s) | [Missing](https://open.spotify.com/album/63z2McWDqC8jLc2vFNZIBW) | 1:48 |
 | 16 | [IN\-BETWEEN](https://open.spotify.com/track/6uWeVvW11OizjkmqyyhO5K) | [glittr](https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ) | [IN\-BETWEEN / CRUX](https://open.spotify.com/album/3cECphjE3eqfuOZ4FfwQka) | 3:51 |
 | 17 | [Give It To Me](https://open.spotify.com/track/06SfMJI23CotYBB3d8R4Sa) | [S3PPA](https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO) | [Turn It Up](https://open.spotify.com/album/2e7Noh88nC8wcAENuEwJGH) | 6:13 |
-| 18 | [DESIDERIO](https://open.spotify.com/track/5HCOROrwg6GYBhDG4BcKpO) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [DESIDERIO](https://open.spotify.com/album/5SybuNi2Sqdmu4fj7i3C6S) | 3:11 |
-| 19 | [HOUSEDOEP](https://open.spotify.com/track/6KaJpDKjeKdsmTi0Ou9p4T) | [Simas](https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS), [ZoioCaio](https://open.spotify.com/artist/0KG8fmYtkAo5eIfrteO066), [Coni07](https://open.spotify.com/artist/4IpJx49LIfccInesIGn19s), [Jub](https://open.spotify.com/artist/7Fsrzvp6wVxQQ5yCUuFFJT) | [HOUSEDOEP](https://open.spotify.com/album/2pv5tTv8AzKKL4FKstkeE7) | 3:17 |
-| 20 | [Sonidero](https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF) | [Orbita](https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV) | 2:30 |
+| 18 | [Ta Ligado](https://open.spotify.com/track/0Df6ecmGShZcwkukAHIAbe) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF) | [Orbita](https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV) | 2:04 |
+| 19 | [DESIDERIO](https://open.spotify.com/track/5HCOROrwg6GYBhDG4BcKpO) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [DESIDERIO](https://open.spotify.com/album/5SybuNi2Sqdmu4fj7i3C6S) | 3:11 |
+| 20 | [HOUSEDOEP](https://open.spotify.com/track/6KaJpDKjeKdsmTi0Ou9p4T) | [Simas](https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS), [ZoioCaio](https://open.spotify.com/artist/0KG8fmYtkAo5eIfrteO066), [Coni07](https://open.spotify.com/artist/4IpJx49LIfccInesIGn19s), [Jub](https://open.spotify.com/artist/7Fsrzvp6wVxQQ5yCUuFFJT) | [HOUSEDOEP](https://open.spotify.com/album/2pv5tTv8AzKKL4FKstkeE7) | 3:17 |
 | 21 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 22 | [Best I've Found](https://open.spotify.com/track/0aTBWw56m2qpmy0WdEdjZq) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Best I've Found](https://open.spotify.com/album/0ahn66Llwp3h9JVXoNaT9k) | 2:51 |
 | 23 | [flowers](https://open.spotify.com/track/0hzGVIvqQw6BwjORJzxF4U) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [flowers](https://open.spotify.com/album/1ODyATZy7gpfEO6zUJ2cr5) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Heart Sign](https://open.spotify.com/track/1Qd0XxITbWBYj5rOxdRBR7) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Heart Sign](https://open.spotify.com/album/0hdD2IrVbfDzOh57yj37Vd) | 2:12 |
 | 100 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 
-Snapshot ID: `AAAAAMYDDjGepouhJGlpbXEK4REIN4j5`
+Snapshot ID: `AAAAAEGXBZCBytP9zwrUPVa3YFMGWGVb`

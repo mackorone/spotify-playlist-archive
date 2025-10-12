@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169764,
+      "name": "Half Life",
+      "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
       },

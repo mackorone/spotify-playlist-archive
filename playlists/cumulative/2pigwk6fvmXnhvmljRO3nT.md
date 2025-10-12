@@ -4,7 +4,7 @@
 
 > 
 
-7,815 songs - 20 day 4 hr 12 min
+7,816 songs - 20 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1827,6 +1827,7 @@
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2024-12-10 |  |
 | [Excitement](https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5) | 4:43 | 2025-01-15 |  |
 | [Excuse Me](https://open.spotify.com/track/3I8MbKRkS2IBDuslhCS3iT) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2024-12-05 |  |
+| [exhaust](https://open.spotify.com/track/6OMq061PfK52o7zvJBwNHP) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:29 | 2025-10-11 |  |
 | [Exhibit C](https://open.spotify.com/track/4Mb5DVgLbFjlSwcuMdOw7B) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Exhibit C](https://open.spotify.com/album/6U3XutCfhGxFFCDK1AFCbb) | 5:31 | 2025-01-03 |  |
 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 | 2025-01-15 |  |
 | [Exitlude](https://open.spotify.com/track/4fCs9oQGvZGbnYXBkL4hYh) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 2:26 | 2025-01-03 |  |
@@ -4105,7 +4106,7 @@
 | [Never Change](https://open.spotify.com/track/1ygITaWckccPnbVE2nadrz) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 3:57 | 2025-01-03 |  |
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2025-01-04 |  |
 | [Never Ending Story](https://open.spotify.com/track/0yamqkAFAmpdLNVcmJLSo8) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [새벽](https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH) | 4:13 | 2024-12-10 |  |
-| [Never Ending Story](https://open.spotify.com/track/6Qa7ooyOGYyf9oHA0I9Ay3) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [He's Coming](https://open.spotify.com/album/79G1oGLZPcyQAyPBRb8HJi) | 4:59 | 2025-01-03 |  |
+| [Never Ending Story](https://open.spotify.com/track/6Qa7ooyOGYyf9oHA0I9Ay3) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [He's Coming](https://open.spotify.com/album/79G1oGLZPcyQAyPBRb8HJi) | 4:59 | 2025-01-03 | 2025-10-12 |
 | [Never Ever Land](https://open.spotify.com/track/6YBUD3rcjkmzQPBn5uXgzz) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/4bJCgEvJNMhIxmufeJlFB9) | 2:26 | 2025-01-15 |  |
 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 | 2025-01-03 |  |
 | [Never Gon Lose](https://open.spotify.com/track/3XsiyMcsbIBazeYFb5SFxh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 3:07 | 2025-01-03 |  |

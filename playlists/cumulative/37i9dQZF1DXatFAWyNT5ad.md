@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-894 songs - 1 day 22 hr 0 min
+896 songs - 1 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-03-24 | 2022-05-05 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-06-23 | 2024-04-19 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2024-06-22 |
-| [Hold My Own](https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Something of Wonder](https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV) | 3:03 | 2025-07-18 |  |
+| [Hold My Own](https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Something of Wonder](https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV) | 3:03 | 2025-07-18 | 2025-10-12 |
 | [HOLD ON \(with Steve Stevens\)](https://open.spotify.com/track/3JhwL9yDHr4cJSofZMxUiR) | [The Blackmordia](https://open.spotify.com/artist/7swEODLC8v8gg4aKUznOuW), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [HOLD ON \(with Steve Stevens\)](https://open.spotify.com/album/0P0OW9GQNfrPFZSUNCCc5F) | 5:14 | 2025-02-14 | 2025-04-14 |
 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 | 2022-03-24 | 2022-04-17 |
 | [Home](https://open.spotify.com/track/08IlNH2lwTCUTROvlZdoPJ) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.1](https://open.spotify.com/album/1Uo3jSUXpBeApSIZU7T1M4) | 2:56 | 2022-03-24 | 2022-04-11 |
@@ -484,6 +484,7 @@
 | [let's consume](https://open.spotify.com/track/5sqSY6wfpHjShaAqP5jnRK) | [superserious](https://open.spotify.com/artist/34T4k3cBCZQWauiohowYjS) | [let's consume](https://open.spotify.com/album/2btuz86GHBkBEXsnbHAHFL) | 2:40 | 2022-03-24 | 2022-04-15 |
 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 | 2022-03-24 | 2023-03-18 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2022-04-14 | 2023-03-18 |
+| [LIFEBLOOD](https://open.spotify.com/track/1UCIAHa0RAVGY8sOyM6lma) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [LIFEBLOOD](https://open.spotify.com/album/3kPyvyNnnP6HA7H4raJmzE) | 4:15 | 2025-10-10 |  |
 | [Lightning and Thunder](https://open.spotify.com/track/01IQy9o6fgtw7ZCThALXgn) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [Lightning and Thunder](https://open.spotify.com/album/0o5i56t1PxK8yLG9MnCmsG) | 3:27 | 2024-05-31 | 2025-02-05 |
 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 | 2024-05-17 | 2025-09-20 |
 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 | 2022-03-17 | 2022-07-26 |
@@ -855,7 +856,7 @@
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-17 | 2022-07-29 |
 | [Wasting Time](https://open.spotify.com/track/5xTObgZhZ8WaKy0Zb0yCwZ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/1uYnR6GP38pTjEOIMccjcF) | 3:43 | 2022-03-24 | 2022-04-17 |
 | [Watershed](https://open.spotify.com/track/205M9RkLKErmy1vMcXm3RO) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Watershed](https://open.spotify.com/album/2A0aoSJq66kKCsoguXd6WJ) | 3:38 | 2022-03-24 | 2022-04-12 |
-| [WDYK](https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [WDYK](https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37) | 3:11 | 2025-02-14 |  |
+| [WDYK](https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [WDYK](https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37) | 3:11 | 2025-02-14 | 2025-10-12 |
 | [We Have To Move On](https://open.spotify.com/track/7LZlKjgyS1IG6BniUx9MOX) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [We Have To Move On](https://open.spotify.com/album/3Vwuh7l6MvX8tnn8Li2Lf2) | 4:12 | 2022-03-24 | 2022-04-14 |
 | [WebMD](https://open.spotify.com/track/0TybJvIlsxCXrAhxpEXC4U) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [WebMD](https://open.spotify.com/album/1uXwPpxRNTNOGfNdgqfTTV) | 2:17 | 2022-03-24 | 2022-04-06 |
 | [weird!](https://open.spotify.com/track/0mCR06PzcuMFPAFz4V4lOB) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/34H8ixOb4n9M8gKCx5SGRn) | 3:04 | 2022-03-24 | 2022-04-06 |
@@ -888,6 +889,7 @@
 | [Year of the Woman](https://open.spotify.com/track/0j8vD7lOS2c5IDKMU3LsIs) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Year of the Woman](https://open.spotify.com/album/2Vuel2cbTIlxIrwLvkYcGe) | 4:17 | 2022-03-24 | 2022-04-16 |
 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 | 2022-03-17 | 2022-07-29 |
 | [You \(feat\. Travis Barker\)](https://open.spotify.com/track/57CsOeLJrdI20fS4Z8pZPj) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [You \(feat\. Travis Barker\)](https://open.spotify.com/album/0EW257HwkJ1CblYgM9GIAY) | 3:51 | 2022-03-24 | 2022-04-15 |
+| [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 | 2025-10-10 |  |
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2024-03-08 | 2024-04-20 |
 | [You Don't Want Me When I'm Sober](https://open.spotify.com/track/6MBJDk7SS5KjnvqQGljcRT) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [You Don't Want Me When I'm Sober](https://open.spotify.com/album/3Bity8XJ0HAak6rs4kJt1q) | 2:50 | 2022-03-24 | 2022-07-04 |
 | [You Feel Like Depression](https://open.spotify.com/track/4iUHwOJQDcTEkMyo5DLuOD) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [You Feel Like Depression](https://open.spotify.com/album/0vtthYcFLEdqBsbCo8tCFM) | 2:50 | 2022-03-17 | 2022-07-10 |

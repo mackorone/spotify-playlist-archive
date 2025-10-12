@@ -4,7 +4,7 @@
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 54 min
+68 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Greater Antiphons: V\. O Morning Star](https://open.spotify.com/track/11LoTLEDTgI4dHYCj7MIDs) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tallinn Chamber Orchestra](https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Tractus](https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF) | 1:59 | 2025-09-02 |  |
 | [Greater Antiphons: VI\. O King of All People](https://open.spotify.com/track/6G6kVgCd0DDXpvCnIhCXST) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tallinn Chamber Orchestra](https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Tractus](https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF) | 1:31 | 2025-09-02 |  |
 | [Hymn to a Great City](https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 3:44 | 2025-09-18 |  |
+| [Hymn to a Great City for 2 Pianos](https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Arvo Pärt: Hymn to a Great City for 2 Pianos](https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg) | 3:15 | 2025-10-12 |  |
 | [Kanon Pokajanen: Ikos](https://open.spotify.com/track/0pHBH03L7OiV5kw7roU05Z) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Kanon Pokajanen](https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy) | 2:57 | 2025-09-02 | 2025-09-24 |
 | [Kanon Pokajanen: Kondakion](https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Kanon Pokajanen](https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy) | 2:21 | 2025-09-02 |  |
 | [Kanon Pokajanen: Ode IV](https://open.spotify.com/track/1pfJFjjsDj99ZyRSUvLlWA) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Kanon Pokajanen](https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy) | 7:12 | 2025-09-02 |  |

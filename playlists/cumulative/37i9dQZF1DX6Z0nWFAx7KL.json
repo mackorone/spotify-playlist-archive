@@ -2649,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "PHANTOMGRID",
+        "url": "https://open.spotify.com/album/0XGuZEfwEPlOXjgr5KiE2B"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "88Birds",
+          "url": "https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319137,
+      "name": "Happy Now?",
+      "url": "https://open.spotify.com/track/55HEIbHdH5EH2RDr6U3kRt"
+    },
+    {
+      "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj"
       },
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 161454,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8"
@@ -4197,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
+      },
+      "artists": [
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5Fhhsqq3bSRu0R6ZEss7jA"
       },
@@ -4390,7 +4430,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 124000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
@@ -5310,6 +5350,28 @@
       "duration_ms": 156375,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
+    },
+    {
+      "album": {
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167603,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
     },
     {
       "album": {
@@ -6762,7 +6824,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 165853,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Paul Kalkbrenner &amp; Stromae
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,841 likes - 130 songs - 6 hr 26 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,827 likes - 130 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 49 | [Walking On A Dream](https://open.spotify.com/track/3tDaxaj8DPYSpKuKLbYivr) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Walking On A Dream](https://open.spotify.com/album/0If2TvEiZbLz38TpWiAD9j) | 2:32 |
 | 50 | [Dream Machine](https://open.spotify.com/track/5InP3qeijJ8Ct2gn4Ri7BJ) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Dream Machine](https://open.spotify.com/album/2iguONF9gd6iYmXIbAi5wO) | 3:26 |
 | 51 | [HIDEAWAY](https://open.spotify.com/track/3Cju4hxTTHvFkb7OcLIk3f) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [HIDEAWAY](https://open.spotify.com/album/3v9D67n4NEiG0C62XrI9XW) | 3:07 |
-| 52 | [Love Has Gone \(feat\. Jess Glynne\)](https://open.spotify.com/track/2KUAdU39pNYHy0zHnr8xHd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALTA](https://open.spotify.com/artist/0PkXdpzJOcWmCvp4aqRsA5), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Love Has Gone \(feat\. Jess Glynne\)](https://open.spotify.com/album/5ym4LpHEltp18DJE3CcOgv) | 2:33 |
+| 52 | [Love Has Gone](https://open.spotify.com/track/2KUAdU39pNYHy0zHnr8xHd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALTA](https://open.spotify.com/artist/0PkXdpzJOcWmCvp4aqRsA5), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Love Has Gone](https://open.spotify.com/album/5ym4LpHEltp18DJE3CcOgv) | 2:33 |
 | 53 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 |
 | 54 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 |
 | 55 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |

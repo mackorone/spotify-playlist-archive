@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Ale Rossi. Artwork by Rewina Beshue.",
-  "num_followers": 207735,
+  "num_followers": 207739,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYDDjGepouhJGlpbXEK4REIN4j5",
+  "snapshot_id": "AAAAAEGXBZCBytP9zwrUPVa3YFMGWGVb",
   "tracks": [
     {
       "added_at": "2025-10-08 04:00:15",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
         }
       ],
-      "duration_ms": 124666,
-      "name": "Ta Ligado",
-      "url": "https://open.spotify.com/track/0Df6ecmGShZcwkukAHIAbe"
+      "duration_ms": 150206,
+      "name": "Sonidero",
+      "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
     },
     {
       "added_at": "2025-10-10 04:00:38",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/06SfMJI23CotYBB3d8R4Sa"
     },
     {
+      "added_at": "2025-10-08 04:00:15",
+      "album": {
+        "name": "Orbita",
+        "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
+      },
+      "artists": [
+        {
+          "name": "Ale Rossi",
+          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Ta Ligado",
+      "url": "https://open.spotify.com/track/0Df6ecmGShZcwkukAHIAbe"
+    },
+    {
       "added_at": "2025-09-19 15:46:18",
       "album": {
         "name": "DESIDERIO",
@@ -343,22 +359,6 @@
       "duration_ms": 197862,
       "name": "HOUSEDOEP",
       "url": "https://open.spotify.com/track/6KaJpDKjeKdsmTi0Ou9p4T"
-    },
-    {
-      "added_at": "2025-10-08 04:00:15",
-      "album": {
-        "name": "Orbita",
-        "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
-      },
-      "artists": [
-        {
-          "name": "Ale Rossi",
-          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
-        }
-      ],
-      "duration_ms": 150206,
-      "name": "Sonidero",
-      "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
     },
     {
       "added_at": "2025-09-12 04:00:15",

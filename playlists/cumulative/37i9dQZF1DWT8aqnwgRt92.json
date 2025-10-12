@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229009,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
+    },
+    {
+      "album": {
         "name": "ADRENALIZED",
         "url": "https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp"
       },
@@ -25526,7 +25544,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 225931,
       "name": "\u3068\u304d\u306f\u306a\u3066\uff01",
       "url": "https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny"

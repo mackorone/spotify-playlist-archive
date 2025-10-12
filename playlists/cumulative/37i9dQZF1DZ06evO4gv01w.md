@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-186 songs - 10 hr 50 min
+187 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,5 +194,6 @@
 | [Who Do You Love](https://open.spotify.com/track/5DNIg169F45rpChp5E6a6L) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 2:15 | 2024-01-03 | 2024-01-05 |
 | [With A Little Help From My Friends \- Live At The Ryman](https://open.spotify.com/track/3GLTVdKxnBHsTneZnx9166) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [With A Little Help From My Friends \(Live At The Ryman\)](https://open.spotify.com/album/36KnAqfnX3MbfH8TeKDtu6) | 3:52 | 2025-03-30 |  |
 | [You Are The River](https://open.spotify.com/track/1rKD0muT9YFii6cXoVOHHT) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 3:12 | 2025-01-27 | 2025-01-31 |
+| [You Are the River \- Unplugged](https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom + An Acoustic Companion Vol\. 2](https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4) | 4:04 | 2025-10-12 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

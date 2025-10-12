@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Witch Fever
 
-641 songs - 1 day 14 hr 28 min
+642 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-05-02 |  |
 | [RHINESTONE COWBOY](https://open.spotify.com/track/4x7QBdkjW2EtEIdXTToetB) | [Knives](https://open.spotify.com/artist/2YoHhPouaTT96k3dUQ8WZK) | [GLITTER](https://open.spotify.com/album/61A1odhmwGxO4babRpvu6q) | 2:23 | 2025-05-02 | 2025-09-12 |
 | [Roads Of The Lowly](https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Return Of Tomorrow](https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX) | 3:42 | 2024-06-15 | 2025-09-12 |
+| [rot.exe](https://open.spotify.com/track/3HAHQjEbEF0IVuRFlsyMa6) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [rot.exe / ra.exe](https://open.spotify.com/album/6E4AB1ezZM633pOFabjszx) | 3:54 | 2025-10-10 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-11-10 | 2023-07-26 |
 | [Round and Round We Go](https://open.spotify.com/track/7EuCLfYjzQhykjLAd8tGUg) | [Giant Walker](https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0) | [Silhouettes](https://open.spotify.com/album/5AwEaIG4gv6qspBryPH60F) | 4:10 | 2024-09-20 | 2025-09-12 |
 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 | 2023-07-25 | 2024-03-08 |
@@ -583,7 +584,7 @@
 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 | 2024-02-16 | 2025-09-12 |
 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-23 | 2025-10-04 |
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2023-12-01 |  |
-| [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-04-11 |  |
+| [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-04-11 | 2025-10-12 |
 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 | 2024-04-19 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 |  |
 | [Trap Door](https://open.spotify.com/track/1APoykMkL5FUMFnjkQ4del) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Trap Door](https://open.spotify.com/album/0NN283X0D0uwZBLNEBNblj) | 4:22 | 2025-08-11 | 2025-10-04 |

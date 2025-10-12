@@ -6237,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Hikari",
+        "url": "https://open.spotify.com/album/722j5U3DLZstV3QX4pqozB"
+      },
+      "artists": [
+        {
+          "name": "Ava Mills",
+          "url": "https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172921,
+      "name": "Hikari",
+      "url": "https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI"
+    },
+    {
+      "album": {
         "name": "Homelands",
         "url": "https://open.spotify.com/album/02mAAZSknW3RNscrlOl89i"
       },
@@ -8469,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Molecular Cloud",
+        "url": "https://open.spotify.com/album/706oYf7alJV2G6rZbMblpN"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Molecular Cloud",
+      "url": "https://open.spotify.com/track/42RwMJ0ZRV46CluZ5bTMWx"
+    },
+    {
+      "album": {
         "name": "Moment of Awareness",
         "url": "https://open.spotify.com/album/2IbgyoRJX0YMKAoSn8Yfso"
       },
@@ -9942,7 +9978,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 174000,
       "name": "Pegasus Prism",
       "url": "https://open.spotify.com/track/2WFNWNsGT2DXFLJMdC5eDG"
@@ -11940,7 +11976,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 161413,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/79VaizbXk2cpZy3nzUxjN7"

@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-318 songs - 21 hr 20 min
+319 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Another In The Fire \- Acoustic](https://open.spotify.com/track/77yuZSTyvX71hl5ip4SRfd) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:37 | 2020-08-31 | 2024-06-24 |
 | [Anywhere](https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Anywhere](https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD) | 4:57 | 2024-06-23 | 2025-10-11 |
 | [Ashes to Skies](https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ashes to Skies](https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX) | 4:34 | 2020-08-31 | 2024-06-24 |
+| [At The Table](https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [At The Table](https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3) | 1:34 | 2025-10-10 |  |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 | 2020-08-31 | 2023-09-14 |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [Avalanche \(Piano Version\)](https://open.spotify.com/album/6xmA1KDv1uCv8tccOoPqRK) | 4:06 | 2020-08-31 | 2022-07-29 |
 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 | 2025-08-06 |  |
@@ -313,7 +314,7 @@
 | [With Lifted Hands \(feat\. Martin Smith\) \- Acoustic](https://open.spotify.com/track/4YOy8xQckgK4b31Hnsi5nO) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [With Lifted Hands \(feat\. Martin Smith\) \[Acoustic\]](https://open.spotify.com/album/2dQBR1cgnp3QwPRefwzTT4) | 3:31 | 2020-08-31 | 2025-10-11 |
 | [With You](https://open.spotify.com/track/6oE6JvYUDR3aa9JAtFvN61) | [Narrow Skies](https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth) | [Seasons](https://open.spotify.com/album/2tA737IB2KdJprTDwHfmFT) | 2:49 | 2020-08-31 | 2022-07-25 |
 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 | 2024-06-23 | 2024-08-03 |
-| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-06 |  |
+| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-06 | 2025-10-12 |
 | [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 | 2020-08-31 |  |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-08-31 | 2025-10-11 |
 | [Wrote Us a Story \- To the Sea Remix](https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk) | [Jenny & Tyler](https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4) | [Wrote Us a Story \(To the Sea Remix\)](https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD) | 3:25 | 2020-08-31 | 2024-08-03 |

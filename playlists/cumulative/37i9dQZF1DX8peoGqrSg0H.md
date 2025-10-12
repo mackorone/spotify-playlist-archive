@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: KimGun
 
-777 songs - 1 day 21 hr 46 min
+778 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [WITH YOU](https://open.spotify.com/track/78iVXsaiRJuSkVE8kOXYV5) | [GULF KANAWUT](https://open.spotify.com/artist/232CbSfw9pgI0oz4c5UKZ2), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [WITH YOU](https://open.spotify.com/album/4X5Wd999DQrVtVKbf2HFDh) | 4:02 | 2024-09-05 | 2024-09-20 |
 | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/track/43YPcXdj8jlE3aRSD7sZNN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/album/1aIKEteG74pCnOWUGWmnIl) | 1:24 | 2024-02-22 | 2024-03-08 |
 | [Woh oh oh](https://open.spotify.com/track/5bX6cVBRNkMuLBeyQqc2i6) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Woh oh oh](https://open.spotify.com/album/3fbHuW3MOpRlCB897o89kb) | 2:38 | 2025-06-29 | 2025-07-25 |
+| [WONDERING](https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:48 | 2025-10-11 |  |
 | [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 | 2024-02-09 | 2024-03-02 |
 | [YES MAN](https://open.spotify.com/track/5imQCK9oeRB665CGgar7f8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [YES MAN](https://open.spotify.com/album/4EHQhdZSqQEY6eZ3uUZdlK) | 3:24 | 2024-10-17 | 2024-11-08 |
 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 | 2024-06-27 | 2024-07-12 |
@@ -262,7 +263,7 @@
 | [ก๊อก ก๊อก](https://open.spotify.com/track/5apV16Mj5WQ3OW2qPxMuu4) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ก๊อก ก๊อก](https://open.spotify.com/album/6Bq2DNYOVC2UhJ8OetxqEf) | 3:06 | 2022-10-26 | 2022-11-12 |
 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [TON THANASIT](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 | 2022-08-31 | 2022-09-24 |
 | [ขอร้องอย่าใจร้าย \(0%\)](https://open.spotify.com/track/6vWV47f7qrDRcsm7fi71qj) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [ขอร้องอย่าใจร้าย \(0%\)](https://open.spotify.com/album/4vJqDfa7bK1EsFCH8OPOku) | 4:02 | 2025-03-31 | 2025-04-25 |
-| [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [UNDRESS](https://open.spotify.com/album/21GT7FGL6WwKc6g3LqlJSB) | 2:46 | 2024-10-22 |  |
+| [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [UNDRESS](https://open.spotify.com/album/21GT7FGL6WwKc6g3LqlJSB) | 2:46 | 2024-10-22 | 2025-10-12 |
 | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/track/7I1n3XD4PbUyS8ZhMz6xhE) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/album/52rV9x3w4aN1BpTRLijUaA) | 3:40 | 2023-06-08 | 2023-07-01 |
 | [ขี้เกียจแล้วอ่ะ \(Done Looking\)](https://open.spotify.com/track/25CkWacg2tHqwFGk3hYRd1) | [MOBYE ](https://open.spotify.com/artist/3Z5VM48ceWJTBmVqoZKAK5) | [ขี้เกียจแล้วอ่ะ \(Done Looking\)](https://open.spotify.com/album/511Y0CqBoLkcJGO1aOc0JU) | 3:06 | 2024-09-19 | 2024-09-27 |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-07-28 | 2022-10-05 |

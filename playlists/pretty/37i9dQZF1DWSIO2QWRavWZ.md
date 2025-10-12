@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,358 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,383 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 70 | [Back In Bed](https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DUMBCRAZY](https://open.spotify.com/album/0EVrJ2VEFhjMeuYa0UC7LW) | 2:26 |
 | 71 | [Faces](https://open.spotify.com/track/4Q1pCz12OHeDwBuYgmqRki) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf) | [Faces](https://open.spotify.com/album/32mhSctEoshvXv1xoenks0) | 2:52 |
 | 72 | [24HRS](https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [24HRS](https://open.spotify.com/album/52dv4vbUbGNNOgkodgswJY) | 3:02 |
-| 73 | [Braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
+| 73 | [braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
 | 74 | [Red Flags \- Acoustic](https://open.spotify.com/track/1PULS6rIUtHeoTDnQvQQfG) | [Perri Jones](https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4) | [Red Flags \(Acoustic\)](https://open.spotify.com/album/2eYXshIxECS3p2VJiGvE4R) | 2:19 |
 | 75 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 76 | [Gravity](https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Who I Am](https://open.spotify.com/album/7oYlVvoOXd5vT7tH1Y6KNe) | 2:52 |

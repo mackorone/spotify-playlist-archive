@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Serrini
+> 感受女聲力量。Cover: Nancy Kwai
 
-577 songs - 1 day 10 hr 21 min
+584 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,8 @@
 | [POSH](https://open.spotify.com/track/4zNZ3wOmP7QDmA9W8DTfDi) | [Sumling 李芯駖](https://open.spotify.com/artist/3PS3bEACWBCBPRwfqsQBWg) | [POSH](https://open.spotify.com/album/0rW1LfKU2ZnpDYAtIjkGYO) | 2:59 | 2025-07-31 |  |
 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 | 2025-05-29 | 2025-09-12 |
 | [Pretty Good](https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [Pretty Good](https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu) | 3:15 | 2024-07-11 | 2025-09-12 |
+| [PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 | 2025-10-11 |  |
+| [Quiet Bliss](https://open.spotify.com/track/0KojIwQxoPPvnXUWKmRWgZ) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [Quiet Bliss](https://open.spotify.com/album/3ttovkejsAPsookiFNMrA3) | 3:59 | 2025-10-11 |  |
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [VAL CHO](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 | 2025-09-12 |
 | [Red Flag](https://open.spotify.com/track/1wbex2AZ9pwXpaGXsBJvb1) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Red Flag](https://open.spotify.com/album/23KmQS9hwU8uGgV7W69wnS) | 2:52 | 2025-05-01 |  |
 | [Ride It Out](https://open.spotify.com/track/72Gt3dMTL2sQvjzJ9WU5Dn) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Ride It Out](https://open.spotify.com/album/1M0RzGTeOkCoJohtc22lLG) | 3:20 | 2024-06-27 | 2025-09-12 |
@@ -264,6 +266,7 @@
 | [偷東西的女孩](https://open.spotify.com/track/7ptKqAuDW94DRMIFxKJHal) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [偷東西的女孩](https://open.spotify.com/album/21cpsk8V7cfhmSpQAKiisF) | 4:18 | 2024-06-27 | 2025-09-12 |
 | [傷心的時候別說話](https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [傷心的時候別說話](https://open.spotify.com/album/4vDyhiJ9rvoLdkJtH8t6Iy) | 3:21 | 2024-09-12 | 2025-09-12 |
 | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/track/1ZDS8ZRWeRRbYXECjFELhp) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/album/7Kdd5etsuHT1NuRDByBEFD) | 3:42 | 2024-06-27 | 2025-09-12 |
+| [光年（跟宇宙計時）](https://open.spotify.com/track/0J3XAwEtyryEr8KMwf0k6t) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [光年（跟宇宙計時）](https://open.spotify.com/album/6ndmERuh6xPo1wqaRRojvB) | 3:15 | 2025-10-11 |  |
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2024-06-27 | 2025-09-12 |
 | [兩個月亮 hirsk Remix](https://open.spotify.com/track/39DVBbBivh9J0uJxxg5AVb) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮 hirsk Remix](https://open.spotify.com/album/0e31QRXXBiJltLdFL2xZum) | 3:13 | 2024-06-27 | 2025-09-12 |
 | [公主不想努力了](https://open.spotify.com/track/0WMvn8mitLApwQANalt3RU) | [陳懿 Christy Chan Yi](https://open.spotify.com/artist/5D7tRtN81XKLxd4tW2NCPL) | [公主不想努力了](https://open.spotify.com/album/3Kn3eroUI6ScEeDP1hPuFG) | 3:41 | 2025-07-31 |  |
@@ -271,6 +274,7 @@
 | [公審法院](https://open.spotify.com/track/6ckM8jlHCubm0ad3DOz8hS) | [VAL CHO](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG), [Chloe Wong 黃筠兒](https://open.spotify.com/artist/2JLMtU26DC66HgEAq6TQY8), [Kilby Chan 超酸](https://open.spotify.com/artist/7MqXSsZ53ZvfcplaVcP43C) | [公審法院](https://open.spotify.com/album/66j7GnlvlEecqqpAKFHmny) | 3:38 | 2024-08-15 | 2025-09-12 |
 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 | 2024-06-27 | 2025-09-12 |
 | [其實你是我這人物的監製](https://open.spotify.com/track/5n5nazOFuKDzHtEVrWJ7iG) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [其實你是我這人物的監製](https://open.spotify.com/album/2FxbO9j3v7V6kxJmSakRLy) | 4:21 | 2024-09-26 | 2025-09-12 |
+| [其實我 不是那麼的純情](https://open.spotify.com/track/1ltNiugtHEE0XpjxFCZtr8) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [其實我 不是那麼的純情](https://open.spotify.com/album/2OBecsTPFO6uTRPo2ofoL5) | 3:51 | 2025-10-11 |  |
 | [其實痛是你的想像](https://open.spotify.com/track/66tc2mPGv7aP8ys4XcvQaq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [其實痛是你的想像](https://open.spotify.com/album/0P4nAn4MgMKk3Ig49BMRfK) | 4:27 | 2025-03-16 |  |
 | [再見有時](https://open.spotify.com/track/4u5nTCAJFJQMfLRpvHOObF) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [再見有時](https://open.spotify.com/album/7kp4JhNciF6fVBUXF3Wh3b) | 3:56 | 2024-06-27 | 2025-09-12 |
 | [出事 OOPS](https://open.spotify.com/track/79CnYUMohdUYH72JQOsxZg) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [REVOLVING: UP](https://open.spotify.com/album/4dOoaq4G65ff54rHCsNJgg) | 2:34 | 2025-08-21 |  |
@@ -340,6 +344,7 @@
 | [孤獨的戀愛家](https://open.spotify.com/track/4UuXDAnySNrnVcE7y1Xjwi) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [孤獨的戀愛家](https://open.spotify.com/album/5ycW8WPd14X1j7uxkC9Vl4) | 3:43 | 2024-06-27 | 2025-09-12 |
 | [安全駕駛](https://open.spotify.com/track/59Z3XOZ5qxfgjyiAvqjNev) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [安全駕駛](https://open.spotify.com/album/1uBaNTKO4ATifamnt6mEVa) | 3:48 | 2024-06-27 | 2025-09-12 |
 | [家傳秘方](https://open.spotify.com/track/0uUnlfoFQkFvUbdAUaWq0K) | [WinWin 楊安妮](https://open.spotify.com/artist/2AndESNVeA7nBIvYfv5BD9) | [家傳秘方](https://open.spotify.com/album/1fgYYF0puj95hclu6B4S9u) | 3:24 | 2025-09-11 |  |
+| [實況模擬異聞錄](https://open.spotify.com/track/7I05vjD4cgadVzjRuYdmnU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Persona Within](https://open.spotify.com/album/3dJE2QifQalKMeysswX2mc) | 3:23 | 2025-10-11 |  |
 | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/track/0WPVn5cAsN8f3Cjuqtmyfr) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/album/70qRv1iy64ecKwEP5d32GB) | 2:53 | 2025-01-16 |  |
 | [小傷疤](https://open.spotify.com/track/0OD7Vr8PYeTfYBHdsIVmuh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [小傷疤](https://open.spotify.com/album/7tKq50jFMSvK9KP7bLMknJ) | 4:20 | 2025-05-29 |  |
 | [小半生](https://open.spotify.com/track/1Pw9vrZzCGHBLHlGJJ4y9m) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [小半生](https://open.spotify.com/album/04zcfiPky1B6WcST77FusT) | 4:12 | 2024-06-27 | 2025-09-12 |
@@ -383,6 +388,7 @@
 | [我們曾經白頭到老 \- 電影《飯戲攻心2》歌曲](https://open.spotify.com/track/4cUHdZlYdd8HdNnn3r5qIi) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [我們曾經白頭到老 \(電影《飯戲攻心2》歌曲\)](https://open.spotify.com/album/13T8bMVqtADhdPLOeVSptM) | 3:58 | 2024-06-27 | 2025-09-12 |
 | [我們沒有在一起](https://open.spotify.com/track/2rUyO4jirsMSeZwvjZvbJr) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [我們沒有在一起](https://open.spotify.com/album/2Ee2fEZE7bkQGAwX3FAIpU) | 3:43 | 2025-03-27 |  |
 | [我們的愛](https://open.spotify.com/track/7MPYCnyGDMDhaA0O6L6NqU) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [我們的愛](https://open.spotify.com/album/0ZYOeGzoWt9l5yWrw64Jh3) | 3:19 | 2025-07-17 |  |
+| [我們還有幾多時間](https://open.spotify.com/track/5rx9oRDS1OLuXxpfxPrsEL) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [我們還有幾多時間](https://open.spotify.com/album/3dZyeacsFUIuFYYfLVkRaE) | 3:19 | 2025-10-11 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2024-06-27 | 2025-09-12 |
 | [我唔理啦](https://open.spotify.com/track/12k0pvhhmaDOGSZWLfZVFN) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [我唔理啦](https://open.spotify.com/album/7MuoZDHIAtiCsLzu3A0AQf) | 2:44 | 2024-07-25 | 2025-09-12 |
 | [我喜歡的你](https://open.spotify.com/track/4SZkrXq0buX9AXcU8JubkU) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [我喜歡的你](https://open.spotify.com/album/2YYqwb3x01qjd6rjKpCOcc) | 3:44 | 2024-06-27 | 2025-09-12 |
@@ -431,6 +437,7 @@
 | [有奶辯士梁](https://open.spotify.com/track/1A3ODSZhO52uC79UmXrkoz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [有奶辯士梁](https://open.spotify.com/album/4xft8kzvgbptDeBNNWUIf6) | 2:45 | 2025-03-06 |  |
 | [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 | 2025-09-12 |
 | [望年月](https://open.spotify.com/track/3VQKp2htObuxfdbh0280j3) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [望年月](https://open.spotify.com/album/3o4ADKOHZ4Rrmnn9xqusV9) | 3:50 | 2024-06-27 | 2025-09-12 |
+| [未來的歌](https://open.spotify.com/track/4KjnXaHhY2FQ09AXUe8MyP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [未來的歌](https://open.spotify.com/album/483w7AHmaDk6FzRu12frdN) | 4:11 | 2025-10-11 |  |
 | [未晚](https://open.spotify.com/track/2XTZLKd3f7qhNLjsFE4kzS) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [未晚](https://open.spotify.com/album/5NOlCZ8SQuvl8PNZtWiMyF) | 3:38 | 2024-06-27 | 2025-09-12 |
 | [未知色 Colours of π](https://open.spotify.com/track/3zOTvfTs6AP3llTHb94az0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [未知色 Colours of π](https://open.spotify.com/album/4lQmg5s13yrBbRcMPgU485) | 3:12 | 2024-06-27 | 2025-09-12 |
 | [未算壞](https://open.spotify.com/track/4CGMeckQyYkBtAKmmYFIOe) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [未算壞](https://open.spotify.com/album/51wtaTyuWQLGQ0gMQbeSkZ) | 3:02 | 2024-06-27 | 2025-09-12 |

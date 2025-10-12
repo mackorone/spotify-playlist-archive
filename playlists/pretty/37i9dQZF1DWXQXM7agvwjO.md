@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: LOR \(Indonesia\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
+> Hottest indie sounds from Asia\. Cover: Everydaze \(Taiwan\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,297 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,311 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 |
-| 2 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
-| 3 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
-| 4 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
-| 5 | [Nowhere To Go](https://open.spotify.com/track/3LbEeEvU39ZUnIS8hauoAz) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Movie Star](https://open.spotify.com/album/3ZJiFWu51wwR9OOw8mRAWL) | 3:09 |
-| 6 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
-| 7 | [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 |
-| 8 | [原來我自作多情](https://open.spotify.com/track/5cQe5xi5nxPbZwyz1q1DvF) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 2:44 |
-| 9 | [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 |
-| 10 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 |
-| 11 | [No Way Now](https://open.spotify.com/track/4tliFlZ0KKMkhPHneWEZkC) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [No Way Now](https://open.spotify.com/album/51mtVHG6ArBiyWoHZPI1uo) | 5:03 |
-| 12 | [Good Day](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 4:13 |
-| 13 | [How to forget you](https://open.spotify.com/track/5C7sbYwNmTuBm1FtWY7o5W) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [How to forget you](https://open.spotify.com/album/3EK8SMmw5adZpgyBn2I2qX) | 3:24 |
-| 14 | [MIA](https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [MIA](https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD) | 2:49 |
-| 15 | [Nasty Star](https://open.spotify.com/track/0z1ALQCFtIwVw4ge6eYLYi) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Nasty Star](https://open.spotify.com/album/6nSWbKT7Hp2UPipVWivxro) | 3:22 |
-| 16 | [lungs](https://open.spotify.com/track/1hBH6b5tTZAGPcerJKOcsf) | [izzy mariano](https://open.spotify.com/artist/1TC8lQaC63mXEXArQWLScf) | [lungs](https://open.spotify.com/album/0FvSjfCHtavppOoMJmwlXR) | 2:44 |
-| 17 | [Little Faster](https://open.spotify.com/track/3KmptynlYT8YJUxNSehCjg) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Little Faster](https://open.spotify.com/album/7CDbzucxGMDODM5zvwAy2E) | 4:00 |
-| 18 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
-| 19 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 |
+| 1 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 |
+| 2 | [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 |
+| 3 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
+| 4 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
+| 5 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
+| 6 | [Nowhere To Go](https://open.spotify.com/track/3LbEeEvU39ZUnIS8hauoAz) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Movie Star](https://open.spotify.com/album/3ZJiFWu51wwR9OOw8mRAWL) | 3:09 |
+| 7 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
+| 8 | [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 |
+| 9 | [原來我自作多情](https://open.spotify.com/track/5cQe5xi5nxPbZwyz1q1DvF) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 2:44 |
+| 10 | [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 |
+| 11 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 |
+| 12 | [No Way Now](https://open.spotify.com/track/4tliFlZ0KKMkhPHneWEZkC) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [No Way Now](https://open.spotify.com/album/51mtVHG6ArBiyWoHZPI1uo) | 5:03 |
+| 13 | [Good Day](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 4:13 |
+| 14 | [How to forget you](https://open.spotify.com/track/5C7sbYwNmTuBm1FtWY7o5W) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [How to forget you](https://open.spotify.com/album/3EK8SMmw5adZpgyBn2I2qX) | 3:24 |
+| 15 | [MIA](https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [MIA](https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD) | 2:49 |
+| 16 | [Nasty Star](https://open.spotify.com/track/0z1ALQCFtIwVw4ge6eYLYi) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Nasty Star](https://open.spotify.com/album/6nSWbKT7Hp2UPipVWivxro) | 3:22 |
+| 17 | [lungs](https://open.spotify.com/track/1hBH6b5tTZAGPcerJKOcsf) | [izzy mariano](https://open.spotify.com/artist/1TC8lQaC63mXEXArQWLScf) | [lungs](https://open.spotify.com/album/0FvSjfCHtavppOoMJmwlXR) | 2:44 |
+| 18 | [Little Faster](https://open.spotify.com/track/3KmptynlYT8YJUxNSehCjg) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Little Faster](https://open.spotify.com/album/7CDbzucxGMDODM5zvwAy2E) | 4:00 |
+| 19 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
 | 20 | [Mungkin](https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 4:03 |
 | 21 | [Annabelle](https://open.spotify.com/track/1tyv2KT1wqkJVuGlBf3KBE) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Annabelle](https://open.spotify.com/album/4Lb1ip97KpMT1OZjc1Q9i8) | 2:09 |
 | 22 | [Gundah](https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Aprilia Apsari](https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B) | [Gundah](https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [But What I Need](https://open.spotify.com/track/392Cv3yNSJfzlJgnsvT1dQ) | [Clave](https://open.spotify.com/artist/5m5BbvIBUCGtqMSYTqvlxN) | [But What I Need](https://open.spotify.com/album/1GHwMev2JpMchhkP1BIQou) | 5:18 |
 | 100 | [2019](https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [2019](https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM) | 3:15 |
 
-Snapshot ID: `AAAAAPliuXkf9ZTLQvQL/aE8dyflj1A+`
+Snapshot ID: `AAAAANZ/w2Nw8eG30v/g3J5hS2ntBVNU`

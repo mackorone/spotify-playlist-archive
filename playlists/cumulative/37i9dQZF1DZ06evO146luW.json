@@ -383,6 +383,28 @@
     },
     {
       "album": {
+        "name": "The Six String Sorrow Sessions",
+        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288128,
+      "name": "Gunshy - Rerecorded",
+      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
+    },
+    {
+      "album": {
         "name": "Happier Alone",
         "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },

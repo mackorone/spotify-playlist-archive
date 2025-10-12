@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Ilan Bluestone
 
-1,200 songs - 2 day 23 hr 59 min
+1,201 songs - 3 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [City of Angels](https://open.spotify.com/track/3cFlu8PFeAHDcRVOBM1Hz5) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Ready For Life](https://open.spotify.com/album/1sqCp414sxgyceCUTaWVXS) | 2:42 | 2021-12-17 | 2022-02-26 |
 | [City Of Lights](https://open.spotify.com/track/39UeSK4g00t3SIp7QbK1te) | [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL) | [City Of Lights](https://open.spotify.com/album/3kJf9Pq0LcgAlpouze7cT5) | 3:00 | 2023-11-10 | 2024-08-31 |
 | [Closer \(feat\. Chenai\)](https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [Closer \(feat\. Chenai\)](https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk) | 3:54 | 2024-04-12 | 2025-05-17 |
-| [Cold Apex](https://open.spotify.com/track/3AKi6t9TXns2AhbVsrty1X) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Cold Apex](https://open.spotify.com/album/2eez19ZvAfTdYqOxqZPFLK) | 3:49 | 2025-09-12 |  |
+| [Cold Apex](https://open.spotify.com/track/3AKi6t9TXns2AhbVsrty1X) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Cold Apex](https://open.spotify.com/album/2eez19ZvAfTdYqOxqZPFLK) | 3:49 | 2025-09-12 | 2025-10-12 |
 | [Colder](https://open.spotify.com/track/1bD4mJMfB4xNOyt6EaxFpg) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Colder](https://open.spotify.com/album/1GAb5vrYO6mt6zdwkvOytZ) | 3:43 | 2021-12-17 | 2022-02-26 |
 | [COLLIDE](https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [COLLIDE](https://open.spotify.com/album/6XvgbHcI3twBpmW6JIVG03) | 3:29 | 2022-09-30 | 2024-02-17 |
 | [Colour Me](https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Jan Burton](https://open.spotify.com/artist/5ESBqKoYWcMYwlngYyjcOB) | [Horizons \[Part 1\]](https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i) | 3:57 | 2022-05-20 | 2023-06-10 |
@@ -308,6 +308,7 @@
 | [Elevate](https://open.spotify.com/track/0iF3VTHA1QSrUZRjsaGpX2) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Elevate](https://open.spotify.com/album/7KbloOEzxIRrSzHobwFBLQ) | 3:46 | 2024-04-19 | 2025-05-17 |
 | [Ellipsis](https://open.spotify.com/track/4ItNI65feNcstJ0IzR8LWa) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Ellipsis](https://open.spotify.com/album/3dy2cumKj5MUB8PYNfruG8) | 3:39 | 2022-07-01 | 2023-04-22 |
 | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/album/49bCIw1A3H9YoBYcLemVNi) | 2:38 | 2024-03-08 | 2025-05-17 |
+| [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 | 2025-10-10 |  |
 | [Emotion FM](https://open.spotify.com/track/6KnFnI5Ki0DPLmR23AeDIb) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Emotion FM](https://open.spotify.com/album/3SoYH9xcNQNNL696KIaU0S) | 4:49 | 2024-07-19 | 2024-08-31 |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 | 2024-05-18 |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |

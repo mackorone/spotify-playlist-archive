@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 298921,
       "name": "Cuero Dudes",
       "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 180040,
       "name": "Everything Almost",
       "url": "https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe"
@@ -7512,7 +7512,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 193235,
       "name": "Slow morning",
       "url": "https://open.spotify.com/track/4Ljs5af1XQUEGL1LvyQV5P"
@@ -9253,6 +9253,24 @@
     },
     {
       "album": {
+        "name": "Town e.p",
+        "url": "https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Town",
+      "url": "https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf"
+    },
+    {
+      "album": {
         "name": "Take It All Away (U.S. Version)",
         "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
       },
@@ -10153,6 +10171,32 @@
     },
     {
       "album": {
+        "name": "Your Light",
+        "url": "https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ"
+      },
+      "artists": [
+        {
+          "name": "8WHAT",
+          "url": "https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i"
+        },
+        {
+          "name": "Alisara Arial",
+          "url": "https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP"
+        },
+        {
+          "name": "YiDD",
+          "url": "https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ"
+    },
+    {
+      "album": {
         "name": "Meet Me On the Beach",
         "url": "https://open.spotify.com/album/0CU1h7qbcpXxLpJjUvIIWI"
       },
@@ -10356,6 +10400,24 @@
       "duration_ms": 288586,
       "name": "\u306a\u307f\u3057\u3050\u3055",
       "url": "https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306b\u3085\u30fc",
+        "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260173,
+      "name": "\u306a\u3093\u3066\u3044\u3046",
+      "url": "https://open.spotify.com/track/4DEiaO0l7pCVHGM5rnH5XL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,019 songs - 4 day 8 hr 40 min
+2,020 songs - 4 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1659,6 +1659,7 @@
 | [Sunshine Trippin'](https://open.spotify.com/track/3Zvi71vJCbrGOBaYk2Bcp4) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Sunshine Trippin'](https://open.spotify.com/album/7wb8fuayEYDBAQrBYO0KSp) | 3:10 | 2023-10-19 | 2023-10-23 |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 | 2023-07-07 |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
+| [Superhjältar](https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Superhjältar](https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm) | 2:24 | 2025-10-09 |  |
 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 | 2025-05-01 |  |
 | [Supernatural \- Acoustic](https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU) | 3:15 | 2024-03-14 | 2024-04-19 |
 | [Supersonic P\*$$y](https://open.spotify.com/track/6LFL4S6pYuuR0836jcbheO) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Supersonic P\*$$y](https://open.spotify.com/album/3n3uxuWMGojBCn6KrIbhFN) | 2:47 | 2024-05-03 | 2024-06-01 |
@@ -1677,7 +1678,7 @@
 | [Svår](https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl) | [Nina Bring](https://open.spotify.com/artist/6jzQtWmDttXXZbdmLrOd2j) | [Svår](https://open.spotify.com/album/71B5YM1pJ7ZgMXX82ZgD06) | 3:16 | 2022-01-13 | 2022-04-01 |
 | [Svårt att förlåta](https://open.spotify.com/track/2YztAZvZvIGpeb0hT2vs7r) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Svårt att förlåta](https://open.spotify.com/album/5w1tBpgMghhcUHI25MUDe3) | 3:09 | 2024-10-04 | 2025-01-29 |
 | [Sweat](https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Sweat](https://open.spotify.com/album/41TGksDNlabLcOy0UIMUPT) | 3:19 | 2024-05-23 | 2024-06-21 |
-| [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-29 |  |
+| [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-29 | 2025-10-12 |
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Sweet Night \- Stripped](https://open.spotify.com/track/4vPVSQ77puCBdSP079AvXG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Sweet Night \(Stripped\)](https://open.spotify.com/album/79iEMzgCiHW4hsFXwPqP5V) | 3:29 | 2024-01-04 | 2024-03-08 |
 | [Sweet Tea](https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Sweet Tea](https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp) | 4:07 | 2023-08-03 | 2023-11-17 |

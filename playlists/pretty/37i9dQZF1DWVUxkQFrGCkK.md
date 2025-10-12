@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Last few weeks of 25' IBZ szn </3
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,133 likes - 337 songs - 21 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,195 likes - 337 songs - 21 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 336 | [Back To '89](https://open.spotify.com/track/4RYlANUIQAf8g4y6SEMQku) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Boogietraxx](https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof), [Akeem Raphael](https://open.spotify.com/artist/1QNHbzaaDt7sCdrRxn2rKE) | [Back To '89](https://open.spotify.com/album/7vK2XkzynM63vx6GD8kxgp) | 2:34 |
 | 337 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 |
 
-Snapshot ID: `AAAAAIBaufVIaNleVDrrMtERJsZPsnMv`
+Snapshot ID: `AAAAAMyC6TQt6G07RbGR6tvDZXMH85kg`

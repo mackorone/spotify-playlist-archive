@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-283 songs - 17 hr 50 min
+284 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 | 2023-05-26 | 2024-04-19 |
 | [Los Palos](https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Los Palos](https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY) | 3:19 | 2025-05-22 |  |
 | [Malo Para Mí](https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [Malo Para Mí](https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo) | 4:42 | 2023-03-07 |  |
+| [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 | 2025-10-10 |  |
 | [Mambo 1000](https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000 \(Deluxe Version\)](https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK) | 5:40 | 2022-08-31 | 2024-02-09 |
 | [Mambo 1000](https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000](https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD) | 5:40 | 2021-12-09 | 2022-10-01 |
 | [Mango Cool](https://open.spotify.com/track/32Swhq2ARQJ1pzBtuLt9rr) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Mango Cool](https://open.spotify.com/album/73D9hWUar5GKIV2KwRlxfW) | 3:00 | 2024-04-05 | 2024-05-18 |
@@ -225,7 +226,7 @@
 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2022-01-01 | 2023-03-08 |
 | [Represent](https://open.spotify.com/track/6t7JcobrG8uPND06S7ZJ0n) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Heather Headley](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0) | [Antidiotico](https://open.spotify.com/album/1enM4REsQap738QI86Qxbj) | 3:41 | 2022-01-01 | 2022-07-23 |
 | [Represent](https://open.spotify.com/track/6c1yoGbc74ea2vvjosjXYL) | [Ruzzo MC](https://open.spotify.com/artist/7tw4KqdyM5No5CMMNxKThP) | [A Lo Cubano](https://open.spotify.com/album/6sXdk6ER04z1G0ek4pfKNw) | 3:46 | 2022-01-01 | 2022-09-02 |
-| [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 | 2021-12-09 |  |
+| [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 | 2021-12-09 | 2025-10-12 |
 | [Rumbera](https://open.spotify.com/track/6UcB9gMHjY5VMGejDCe6k7) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tierra](https://open.spotify.com/album/69Ir7r4C79cTgSTBptkF54) | 3:32 | 2022-01-01 | 2022-07-29 |
 | [Sabor a Mi](https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 3:15 | 2022-01-01 | 2023-04-29 |
 | [Sabor a Mi](https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS) | 3:17 | 2021-12-09 | 2022-07-29 |

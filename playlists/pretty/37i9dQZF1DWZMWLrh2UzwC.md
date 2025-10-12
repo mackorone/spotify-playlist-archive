@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Syamel, Ernie Zakri, Anuar Zain, Ziana Zain, JISOO, ZAYN, TWICE, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,961 likes - 130 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,973 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,988 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,990 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 5 | [Siemis](https://open.spotify.com/track/2kqXy5VfY8683DXZo7WZ77) | [Liricas Analas](https://open.spotify.com/artist/5jkz9EwYPqPfknFOnhRnTH), [Jo\-Hannes](https://open.spotify.com/artist/3C7ID2KBOmWTE3vMKmvCUc), [Renzo Hendry](https://open.spotify.com/artist/2wGweckqVrFthNYfUHWlIs), [Johannes Just](https://open.spotify.com/artist/5CDZXmwFVn3T371G1Nny3I), [Roman](https://open.spotify.com/artist/0x6C8pK08G6plMlOkdTapy), [Roman Flepp](https://open.spotify.com/artist/4kmbfbb2WqDTCFOhsWL4Tk) | [Analfabad](https://open.spotify.com/album/1lOFtEufGCFM9Mwy3DgqLb) | 3:41 |
 | 6 | [So andersch](https://open.spotify.com/track/27anAv26kc5Wea1JUO8USD) | [Möchtegang](https://open.spotify.com/artist/6r6G2kcHgJ3kvjQgMElhfI), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr), [Fratelli\-B](https://open.spotify.com/artist/1N4ibK49V5vDhlErN0Akj0), [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS) | [Mittwuch Nami](https://open.spotify.com/album/4No2YOxPtetkFsu1kLsAKO) | 4:25 |
 | 7 | [Track 05](https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h) | [Temple of Speed](https://open.spotify.com/artist/3AWI9871W8BrYS6opessD9), [Sterneis](https://open.spotify.com/artist/2WkWYAv7rOry0WxWiDrcYE), [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [10 Tracks \- Vol\. 4](https://open.spotify.com/album/1ZAiyo0VLkq8hO4Ev6mEK0) | 6:40 |
-| 8 | [Tagebuach](https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF) | [LIV](https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA), [DJ Babon](https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41) | [Churer Dame König Gras](https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq) | 3:25 |
-| 9 | [Kei Respekt](https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ) | [Fratelli\-B](https://open.spotify.com/artist/4ZAFDRkLnkK7uLffBpuqFY), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [Mier macheds](https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb) | 3:20 |
+| 8 | [Kei Respekt](https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ) | [Fratelli\-B](https://open.spotify.com/artist/4ZAFDRkLnkK7uLffBpuqFY), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [Mier macheds](https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb) | 3:20 |
+| 9 | [Tagebuach](https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF) | [LIV](https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA), [DJ Babon](https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41) | [Churer Dame König Gras](https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq) | 3:25 |
 | 10 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
 | 11 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
 | 12 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |

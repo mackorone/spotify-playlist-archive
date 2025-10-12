@@ -14183,6 +14183,28 @@
     },
     {
       "album": {
+        "name": "Divas",
+        "url": "https://open.spotify.com/album/5z63e0VwWraQjtKdazWiEH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291093,
+      "name": "The Heart Is Slow To Learn",
+      "url": "https://open.spotify.com/track/1WOD48TEDG6s0bKivGA1QK"
+    },
+    {
+      "album": {
         "name": "The Woman In White",
         "url": "https://open.spotify.com/album/6eAfNFr3V29NoAVoH4cNT9"
       },

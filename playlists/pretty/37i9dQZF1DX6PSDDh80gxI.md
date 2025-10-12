@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Frah Quintale è tornato con un nuovo album ❤️ e in cover \(con un bellissimo cappellino\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,224 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,282 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

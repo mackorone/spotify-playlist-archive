@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-588 songs - 1 day 10 hr 41 min
+589 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [FOREVER AND A DAY](https://open.spotify.com/track/6PtuejZSD7DBAnftpmBxjW) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [FOREVER AND A DAY](https://open.spotify.com/album/13fqp10BnRBhLVHQQWMKl6) | 3:39 | 2025-10-03 |  |
 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 | 2022-10-14 | 2024-09-14 |
 | [forgive u](https://open.spotify.com/track/0YpOYlsdk1ZWlFrcatiQBd) | [ROSA](https://open.spotify.com/artist/4vNDe5ikZWdqMnQMc5Sj8g) | [forgive u](https://open.spotify.com/album/2c5kGOhmdX3tjruhULza1r) | 3:19 | 2024-05-31 | 2024-11-09 |
-| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 |  |
+| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2025-10-12 |
 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 | 2025-02-07 | 2025-09-27 |
 | [Gallery](https://open.spotify.com/track/6kxu0ldmBRCw6TBiFAUtYh) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace \(Deluxe\)](https://open.spotify.com/album/56UIycwfjE5IwLOwA3VAF8) | 2:46 | 2024-05-24 | 2024-06-29 |
 | [GEMINI \- LUV HRTS Remix](https://open.spotify.com/track/4XoNrtAWOAck8aj8wt5mLO) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [GEMINI \(LUV HRTS Remix\)](https://open.spotify.com/album/4j2M67ZX5yyHdPOkfZVyrz) | 3:04 | 2025-07-25 | 2025-09-13 |
@@ -501,6 +501,7 @@
 | [Taking From Me](https://open.spotify.com/track/2nOjWcO68EHkUFOBPCrzPy) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [JOY](https://open.spotify.com/album/1nFt80TVXEYDwS9IN7PNC8) | 4:24 | 2025-08-01 | 2025-08-30 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-14 | 2022-04-12 |
 | [Tear Drops](https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Tear Drops](https://open.spotify.com/album/6s3yibzHMpjWKIzsEWgpi4) | 2:49 | 2025-01-28 |  |
+| [Teardrop](https://open.spotify.com/track/5Va5bw06JZxkdhVBXnjo6X) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Teardrop](https://open.spotify.com/album/21Bmu3h6ta2AMaWnlQDEG0) | 3:11 | 2025-10-10 |  |
 | [Teardrops](https://open.spotify.com/track/04bzZNvXQCdIN9nT4IPFC2) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Teardrops](https://open.spotify.com/album/3WOfpLYrcSowPNT5XGUb5I) | 2:12 | 2025-05-09 | 2025-06-23 |
 | [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 | 2024-03-29 | 2025-01-04 |
 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 | 2024-09-30 | 2025-05-10 |

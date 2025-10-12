@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 甜約翰 \(Sweet John\)
 
-3,215 songs - 7 day 19 hr 33 min
+3,216 songs - 7 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Play It Cool](https://open.spotify.com/track/67xBDXNC0i2ysI5fNDtwVv) | [葉秉桓](https://open.spotify.com/artist/7x8FMmtil03ZC6oIEPz8xs) | [Play It Cool](https://open.spotify.com/album/3joKixwlrHw7CSicqydoXi) | 2:57 | 2025-05-15 | 2025-05-30 |
 | [Player 2077](https://open.spotify.com/track/6ZDH8JtKtdAtfulCdGFFYb) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [Ona](https://open.spotify.com/artist/6M63ck9Bo7EIAwH6m1dE6F), [Öne Cat](https://open.spotify.com/artist/7uYMKMyv6BVU3bnpzrng72), [Mister493](https://open.spotify.com/artist/6XRLFTBptDNpz2N3FrEXg5) | [Player 2077](https://open.spotify.com/album/6wEyplnIb7CBLPVnvuZtCk) | 2:45 | 2025-09-04 | 2025-09-26 |
 | [PLEASE TRUST ME](https://open.spotify.com/track/7guXplBzMwObJKRXYLQtNK) | [蘇菲花園樂隊](https://open.spotify.com/artist/3lrOoXaMTvHP5wzei7fNej) | [PLEASE TRUST ME](https://open.spotify.com/album/3mpnWvmiwy52bXwuRI9L9A) | 4:44 | 2025-10-02 | 2025-10-10 |
+| [POP\-UP LIFE cc](https://open.spotify.com/track/4Nn7Yalr9CYBh2vVujjTnR) | [Mola Oddity](https://open.spotify.com/artist/7cw3Yw21RFUzZA744fIYH7) | [Cave Crackers](https://open.spotify.com/album/19zYi4KKz5cGJ9tkEZpcBc) | 3:18 | 2025-10-09 |  |
 | [POPSTAR IN THE MAKING](https://open.spotify.com/track/3YnWu48vw1cLKTFIyIcprx) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1) | [POPSTAR IN THE MAKING](https://open.spotify.com/album/6vR888Yjx5OAwKqJT2Wzex) | 1:31 | 2025-09-04 | 2025-09-12 |
 | [Post Punk](https://open.spotify.com/track/0puyGlCHyrETtAdViXn0UO) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Pilot](https://open.spotify.com/album/7mcF805eSGYDKe1Qp34nkA) | 3:50 | 2025-04-10 | 2025-05-02 |
 | [POWER跳起來！](https://open.spotify.com/track/0r7SaiSE75Ox9s1fXtiSs1) | [Sauljaljui](https://open.spotify.com/artist/5U7enzUf0xuOMdiqj4tncy) | [POWER跳起來！](https://open.spotify.com/album/2Vb1F00Sj9zAG5Doe2De2W) | 3:49 | 2025-10-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,357 likes - 75 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,427 likes - 75 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 11 | [Synaesthesia](https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Synaesthesia](https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU) | 9:11 |
 | 12 | [Wish You Were Here \- Live from the Luck and Strange Concerts](https://open.spotify.com/track/2kV7mDLMhKGvRxDGP0uSV0) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Wish You Were Here \(Live from the Luck and Strange Concerts\)](https://open.spotify.com/album/5TiQGHUkNPIalX2lCqjhpo) | 5:26 |
 | 13 | [Frankenstein 1984 \- Human Version](https://open.spotify.com/track/7hK8iVmY1BYcDxf4yZRcUY) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [Frankenstein 1984](https://open.spotify.com/album/6TkH7hjTutAGOp2Gd04kL0) | 4:56 |
-| 14 | [Across the Universe](https://open.spotify.com/track/3wHje5G2q5mR6flX1SX0XI) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Across the Universe](https://open.spotify.com/album/2cwpEdpvD4OtntITIM1nYd) | 3:47 |
+| 14 | [Across the Universe \- Recorded 2015](https://open.spotify.com/track/3wHje5G2q5mR6flX1SX0XI) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Across the Universe \(Recorded 2015\)](https://open.spotify.com/album/2cwpEdpvD4OtntITIM1nYd) | 3:47 |
 | 15 | [A Hollywood Story](https://open.spotify.com/track/7jlq346eeBH0VSypzupaZk) | [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [A Hollywood Story](https://open.spotify.com/album/4ine6ALlKclAoonnoQgRDC) | 4:15 |
 | 16 | [No More](https://open.spotify.com/track/3ovNq4FsRGSyIZvRMpNSsk) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [No More](https://open.spotify.com/album/6NzzZ4GAYMcWeFuiT9GvPd) | 3:52 |
 | 17 | [Roundabout \- \(Live, Shoreline Amphitheatre, California, 1989\) \[2025 Remaster\]](https://open.spotify.com/track/5hnfi1rWf003uNGG4JN1KK) | [Anderson Bruford Wakeman Howe](https://open.spotify.com/artist/2XTWgA3XVWe1N4qWBTNQei) | [An Evening Of Yes Music Plus \(Live, Shoreline Amphitheatre, California, 1989\) \[2025 Remaster\]](https://open.spotify.com/album/2YTsxE5iBfQUff95KuOy3j) | 8:39 |

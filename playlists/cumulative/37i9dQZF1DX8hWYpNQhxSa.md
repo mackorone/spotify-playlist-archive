@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-223 songs - 15 hr 33 min
+224 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [\#39 新年に入りましたが、これをもって一旦おやすみ！という回！「この番組がなかったら、全然●●してなかった」](https://open.spotify.com/episode/240g0JTMFB0dFci1MH8gol) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | 28:16 | 2023-01-04 | 2023-01-20 |
 | [A Duty to Protect Our Country](https://open.spotify.com/track/6pA7rMd4vXTwDJPm51rn67) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 2:29 | 2025-10-03 |  |
 | [A Lively Chat](https://open.spotify.com/track/5ejnXL7ijqK4yUm1VvdSGZ) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 1:46 | 2025-10-03 |  |
+| [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 | 2025-10-11 |  |
 | [Adore Subordinate](https://open.spotify.com/track/0QCp0hf0MDJ20iAdyKvJei) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 2:08 | 2025-10-03 |  |
 | [Advisor](https://open.spotify.com/track/3qypXtwrVbqpGq3OpRvKSp) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 2:34 | 2025-10-03 |  |
 | [Allies in Action](https://open.spotify.com/track/7xacNb72Y86LGtODrQMnAQ) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 3:23 | 2025-10-03 |  |

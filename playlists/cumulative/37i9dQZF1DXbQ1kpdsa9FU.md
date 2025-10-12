@@ -4,7 +4,7 @@
 
 > Classic Contemporary Christian songs you can always count on! Cover: Phil Wickham
 
-365 songs - 1 day 3 hr 11 min
+366 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Even So Come \- Radio Version/Live](https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Even So Come \(Radio Version/Live\)](https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P) | 4:14 | 2023-02-18 | 2024-06-23 |
 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 | 2020-08-26 | 2024-04-19 |
 | [Even Then](https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK) | 3:16 | 2020-08-26 | 2022-07-29 |
-| [Ever Be](https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj) | 3:50 | 2024-12-11 |  |
+| [Ever Be](https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj) | 3:50 | 2024-12-11 | 2025-10-12 |
 | [Everlasting God](https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning \(Special Edition\)](https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd) | 4:22 | 2020-08-26 | 2024-06-23 |
 | [Everlasting God](https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Let the Praises Ring: The Best of Lincoln Brewster](https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE) | 4:47 | 2023-02-18 | 2024-12-12 |
 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/1CMUCe5mOF0EqTKqPz5k14) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/52gg77WRnRbxTrKYQaQ5mx) | 5:31 | 2020-08-26 | 2022-07-29 |
@@ -124,6 +124,7 @@
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2024-12-11 |  |
 | [Good Good Father \- Live](https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:19 | 2020-08-26 | 2022-07-28 |
 | [Good News](https://open.spotify.com/track/3QqTmV1zpTNEAMviQFUFkW) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 2:50 | 2023-02-18 | 2024-05-14 |
+| [Good To Be Alive](https://open.spotify.com/track/1QiBuT1DkSfo9ld0xjDPV8) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [A Way To See In The Dark](https://open.spotify.com/album/3E7uWZAn35nbYiwAHuya2l) | 3:24 | 2025-09-14 |  |
 | [Goodness of God \- Radio Version](https://open.spotify.com/track/665Ki3oftw2evstCgtmiSw) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Goodness of God \(Radio Version\)](https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE) | 3:56 | 2024-12-11 |  |
 | [Grace Got You](https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 3:35 | 2025-06-17 | 2025-09-28 |
 | [Grace Wins](https://open.spotify.com/track/3wF0rpX1njF2FLFGc45rxV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Live Forever](https://open.spotify.com/album/1IEA2W6BpAmDZVdZQ9G33u) | 4:24 | 2023-02-18 | 2024-06-23 |

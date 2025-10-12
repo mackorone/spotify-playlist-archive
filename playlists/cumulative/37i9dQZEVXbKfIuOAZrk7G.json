@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -4870,7 +4870,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 132573,
       "name": "Andrew in Drag",
       "url": "https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565"
@@ -8712,7 +8712,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 238320,
       "name": "Better",
       "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
@@ -23760,7 +23760,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
@@ -23782,7 +23782,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
@@ -49128,6 +49128,28 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "album": {
+        "name": "misses x brazil",
+        "url": "https://open.spotify.com/album/6wzpYKIA6FEJ6aC6jROZcL"
+      },
+      "artists": [
+        {
+          "name": "skyemane",
+          "url": "https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ"
+        },
+        {
+          "name": "Sapphink",
+          "url": "https://open.spotify.com/artist/3A1vU9TZUxn4li5CKliyoq"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "misses x brazil",
+      "url": "https://open.spotify.com/track/4HN3VOtkYK2fVAlWsYEEaz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > you don't know the life of a showgirl, babe
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,108,337 likes - 105 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,108,248 likes - 105 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

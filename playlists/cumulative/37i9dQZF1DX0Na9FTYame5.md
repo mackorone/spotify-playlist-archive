@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-278 songs - 12 hr 34 min
+279 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,8 @@
 | [100.000](https://open.spotify.com/track/3ONthFKTmjEkuxN6WCCRsZ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [100.000](https://open.spotify.com/album/1zK2tmCjG873OQ9UrbKjd1) | 4:03 | 2025-01-16 | 2025-03-25 |
 | [1000 Sterne](https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [1000 Sterne](https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc) | 2:03 | 2024-06-28 | 2025-03-25 |
 | [1402](https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [1402](https://open.spotify.com/album/21eTkiqy0EM7LDTSnGGOSK) | 2:15 | 2025-02-27 | 2025-05-01 |
-| [1995](https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [1995](https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK) | 2:46 | 2024-06-28 | 2025-10-10 |
-| [2 Meter tiefer](https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [2 Meter tiefer](https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu) | 3:54 | 2025-03-24 |  |
+| [1995](https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [1995](https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK) | 2:46 | 2024-06-28 |  |
+| [2 Meter tiefer](https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [2 Meter tiefer](https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu) | 3:54 | 2025-03-24 | 2025-10-12 |
 | [212 km/h](https://open.spotify.com/track/0snt282zjuoVMG6nBRPJBp) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [212 km/h](https://open.spotify.com/album/31ECHyDrYntbBAfW4uNLoa) | 2:38 | 2025-08-21 | 2025-10-05 |
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2024-06-28 |  |
 | [6 Kugeln](https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [6 Kugeln](https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T) | 3:04 | 2025-08-28 |  |
@@ -45,6 +45,7 @@
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2025-08-17 |
+| [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 | 2025-10-10 |  |
 | [Chat GPT](https://open.spotify.com/track/3lbzJMBosiFEjpyyRBAWrk) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Chat GPT](https://open.spotify.com/album/7wzvLGAY31cAsIowxkhqkp) | 2:41 | 2025-08-14 |  |
 | [Coming Home](https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Coming Home](https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s) | 2:44 | 2024-10-24 | 2025-04-13 |
 | [CUT](https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [CUT](https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe) | 2:31 | 2025-08-21 |  |
@@ -160,7 +161,7 @@
 | [luft holen](https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [nur liebe, immer.](https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD) | 2:26 | 2024-06-28 | 2024-07-31 |
 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 | 2024-06-28 |  |
 | [Lüg mich nicht an](https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Lüg mich nicht an](https://open.spotify.com/album/0i5bmeRJeIQpNQwqFaEWnM) | 2:29 | 2024-11-18 | 2025-01-17 |
-| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 |  |
+| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 | 2025-10-12 |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-06-28 |  |
 | [Malediven](https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:03 | 2025-09-18 |  |
 | [MAMAS HAUS](https://open.spotify.com/track/6aOwyg63SvKnnOho5FVjv5) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [MAMAS HAUS](https://open.spotify.com/album/36zUQg4IZhcCNPJXWBSWd0) | 2:26 | 2025-05-15 | 2025-06-24 |

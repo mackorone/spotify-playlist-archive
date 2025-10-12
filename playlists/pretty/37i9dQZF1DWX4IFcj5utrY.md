@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Argento Dust
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,580 likes - 65 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,719 likes - 65 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ekhoneni](https://open.spotify.com/track/12YzvBC1XT9dJv0oPsJhJJ) | [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Unkle Ken](https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH), [Madanon](https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ), [Rifle Deep](https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Ekhoneni](https://open.spotify.com/album/0DihIQXz0N6Ddqb31ium2x) | 6:40 |
-| 2 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
+| 2 | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 3 | [Umlolozi](https://open.spotify.com/track/713quELIbXIQxA77U2HQnI) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Umlolozi EP](https://open.spotify.com/album/254BHBOxSlJSDlMsuaR84s) | 6:33 |
 | 4 | [Elijah](https://open.spotify.com/track/73Ym9t4JNkarsity78xDNe) | [Issa sisdoh](https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI) | [Elijah](https://open.spotify.com/album/3OV6bmJqEX7l8qrQChhA2u) | 3:36 |
 | 5 | [Next To You](https://open.spotify.com/track/7gmv1r75k3U2M5UP8YIXoQ) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Next To You](https://open.spotify.com/album/5ubP0G1bC9dPLpbgDshPkp) | 3:52 |

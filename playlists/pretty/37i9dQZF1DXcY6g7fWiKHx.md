@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,442 likes - 297 songs - 1 day 0 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,450 likes - 297 songs - 1 day 0 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,4 +306,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 296 | [Sicko](https://open.spotify.com/track/2YFNkB1GccJEl5KP1T889j) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Sicko](https://open.spotify.com/album/1wRSp6Hm1SSodMQHKDeJfd) | 6:31 |
 | 297 | [Rio](https://open.spotify.com/track/5C6mkMYcZIueOXV5oAJBR8) | [100Hz](https://open.spotify.com/artist/1QJ9dmTGPiIjR9icOPETmX) | [Immersive](https://open.spotify.com/album/67GhSuQhyNheY9nxvYzCPK) | 8:41 |
 
-Snapshot ID: `AAAAAMZYQKWxFgtft3vnAUP3uVINlhTd`
+Snapshot ID: `AAAAANy0/N2QVMz7DjYBB7OTzlDOSa7G`

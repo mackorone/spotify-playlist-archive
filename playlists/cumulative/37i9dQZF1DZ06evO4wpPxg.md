@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-348 songs - 22 hr 15 min
+349 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Go Ahead](https://open.spotify.com/track/4wJtYioapm5OAkWoYZF2UT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 3:00 | 2024-05-16 | 2024-07-03 |
 | [God Be With You](https://open.spotify.com/track/2H7QwsOrqmJ889g2ckPnLB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 1:19 | 2023-07-04 | 2024-08-14 |
 | [God's Gonna Separate](https://open.spotify.com/track/0ABg6LnEmuwyFdYBTRi6Zx) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 2:49 | 2022-05-25 | 2024-10-29 |
-| [God's Gonna Separate](https://open.spotify.com/track/0ZrG6NTA6BoV4J30mAlXab) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 2:50 | 2025-09-02 |  |
+| [God's Gonna Separate](https://open.spotify.com/track/0ZrG6NTA6BoV4J30mAlXab) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 2:50 | 2025-09-02 | 2025-10-12 |
 | [Goin' to Chattanooga](https://open.spotify.com/track/1Yo8qxF2WwuCNlXbndYeDW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 5:06 | 2022-12-25 | 2022-12-28 |
 | [Goin' To Sit Down On The Banks Of The River](https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 2:55 | 2022-05-26 | 2025-10-11 |
 | [Got On My Traveling Shoes](https://open.spotify.com/track/6it4UJHJ6HuVqIpkDLQ8Vp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:06 | 2022-06-15 | 2024-10-25 |
@@ -119,6 +119,7 @@
 | [I Got a Little Woman Sweet As She Can Be](https://open.spotify.com/track/1kMRVhkONnGt9zgH7ZsHFs) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Manchester Free Trade Hall 1964](https://open.spotify.com/album/7M5RsF7I52IEt2caXi4WAA) | 4:53 | 2022-11-12 | 2023-07-23 |
 | [I Got Religion I'm So Glad \- From the Mariposa Folk Festival](https://open.spotify.com/track/1CGtsWqv6KzWNacoSYyAnO) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 8:00 | 2025-10-08 | 2025-10-11 |
 | [I Heard The Angels Sing](https://open.spotify.com/track/2GveI3ecvcQjqMKZwNlMlK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 4:18 | 2022-05-25 | 2025-08-31 |
+| [I Heard the Angels Sing](https://open.spotify.com/track/63jGHNqCzdlsCO3y8DoUwT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:18 | 2025-10-12 |  |
 | [I Saw The Light](https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:00 | 2022-05-25 | 2025-04-21 |
 | [I Want to Be Saved](https://open.spotify.com/track/3aSIzj6A54uukUV2BDGHY1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:10 | 2023-06-10 | 2023-07-17 |
 | [I Want to Be Saved](https://open.spotify.com/track/7nIhfz1xF04OUP7sipezbE) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 4:14 | 2022-10-09 | 2024-09-10 |

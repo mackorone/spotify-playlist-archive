@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-343 songs - 15 hr 32 min
+344 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Incancellabili](https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Otalay](https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b) | [Incancellabili](https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt) | 1:32 | 2023-11-09 | 2024-06-17 |
 | [Incredibile \(feat\. Kaash Paige\)](https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:40 | 2025-07-31 |  |
 | [Indelebile](https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Indelebile](https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9) | 2:48 | 2022-07-14 |  |
+| [industria figlia](https://open.spotify.com/track/4cKbfeCLnzQX6MVEp1ca9w) | [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd), [moth.](https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr), [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [industria figlia \(feat\. EMMA\)](https://open.spotify.com/album/49Lz6xPjETpMKqJP7i4oaN) | 3:51 | 2025-10-09 |  |
 | [IO E TE](https://open.spotify.com/track/1jS9xU5AESvZSh1oDdtYDi) | [POLDOWG](https://open.spotify.com/artist/66jtpmf7aFU5KZXlAavqai), [GIOVXNE XNGELO](https://open.spotify.com/artist/1pdz43cnj0LpwSKD2z1NiA), [MXLVE](https://open.spotify.com/artist/2OEOLS6EFBBeiKgS58NsRh) | [IO E TE](https://open.spotify.com/album/7AZ5f357ol3fZtu83pR6st) | 2:49 | 2022-06-23 | 2022-08-13 |
 | [Io non voglio più soffrire](https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Io non voglio più soffrire](https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1) | 2:36 | 2022-05-24 | 2023-12-17 |
 | [JAPANESE](https://open.spotify.com/track/58gzVKHQ3HTTJhUnt65XDP) | [ViraH](https://open.spotify.com/artist/69o2pHVfX91A567pn3hehS) | [JAPANESE](https://open.spotify.com/album/6AkuFnGVxtCpRVE4HRUWBP) | 3:06 | 2024-01-26 | 2025-07-12 |
@@ -295,7 +296,7 @@
 | [SittingInTheCar](https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [SittingInTheCar](https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC) | 1:26 | 2025-07-11 |  |
 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 | 2024-01-18 | 2025-03-22 |
 | [Sogni](https://open.spotify.com/track/3buQxxhqMFJlHAsvfsplnG) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Tempo](https://open.spotify.com/album/19HiQkbCvtCDfTtjCG3RJw) | 2:28 | 2022-12-15 | 2023-04-06 |
-| [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 | 2022-08-12 |  |
+| [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 | 2022-08-12 | 2025-10-12 |
 | [sola \(con me\)](https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [sola \(con me\)](https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM) | 2:51 | 2023-06-29 | 2023-10-20 |
 | [Soli assieme](https://open.spotify.com/track/6W8sIhqfWYgwzYvwRUQ9iG) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Soli assieme](https://open.spotify.com/album/747G8oEEwQcHz1alvW6Rpv) | 2:42 | 2022-07-28 | 2023-01-13 |
 | [Solita](https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [Solita](https://open.spotify.com/album/5kK7COihWbhVwFllUuD8gx) | 2:58 | 2022-04-21 | 2022-08-13 |

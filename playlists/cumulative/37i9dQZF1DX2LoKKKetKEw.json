@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: Festizie",
+  "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
   "name": "AfroGospel",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 183436,
       "name": "Agaba(My daddy run it)",
       "url": "https://open.spotify.com/track/1VGKNlz85roTgKnG24GXAJ"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 181871,
       "name": "Anointed",
       "url": "https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 174315,
       "name": "BABA SAANU",
       "url": "https://open.spotify.com/track/5solCPoM5lNcPkndd3LZMB"
@@ -2745,6 +2745,28 @@
     },
     {
       "album": {
+        "name": "Defender",
+        "url": "https://open.spotify.com/album/3ZHw0tjbVJQMgYYD7xphV0"
+      },
+      "artists": [
+        {
+          "name": "Oliver Lingk",
+          "url": "https://open.spotify.com/artist/3sJLO3PPCeDyrSGX8P29kJ"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136672,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/2MxTRGUSHOOyUhPLjXAANm"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw"
       },
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 225958,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45"
@@ -3508,7 +3530,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 172162,
       "name": "Favour - Remix",
       "url": "https://open.spotify.com/track/1EPeJoTN2UQasrteVE18Tx"
@@ -3622,6 +3644,24 @@
       "duration_ms": 160549,
       "name": "Fire on the Mountain",
       "url": "https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/1HoX2wZlHhk9HcLy9b17nh"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126643,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4dG969vV9Mp3kDjirWSCA0"
     },
     {
       "album": {
@@ -4414,7 +4454,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 127420,
       "name": "Good God",
       "url": "https://open.spotify.com/track/4Hpy8F1Sa2NBi8IaucroY8"
@@ -6878,7 +6918,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 272426,
       "name": "Miracle Season",
       "url": "https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx"
@@ -6918,6 +6958,24 @@
       "duration_ms": 166000,
       "name": "Mon Dieu",
       "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "album": {
+        "name": "More Than Able",
+        "url": "https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI"
+      },
+      "artists": [
+        {
+          "name": "Tosin Bee",
+          "url": "https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154282,
+      "name": "More Than Able",
+      "url": "https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg"
     },
     {
       "album": {
@@ -7522,7 +7580,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 146285,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/4T0a2a6F1d6jLZh7uXVILN"
@@ -8344,7 +8402,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 382824,
       "name": "Otua",
       "url": "https://open.spotify.com/track/0j7SDzXYdMozTH5uB1fgln"
@@ -8830,7 +8888,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 170123,
       "name": "Pray",
       "url": "https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2"
@@ -9336,7 +9394,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 153786,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD"
@@ -10565,6 +10623,28 @@
     },
     {
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/67A4vb4El0aFa2MuFxTBZd"
+      },
+      "artists": [
+        {
+          "name": "Rozil",
+          "url": "https://open.spotify.com/artist/7DKK0ozHbmXGIx5KsVL3uF"
+        },
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202370,
+      "name": "The Way (Feat. Sammy Hart)",
+      "url": "https://open.spotify.com/track/3fpHmr7jpkiagfSz393krC"
+    },
+    {
+      "album": {
         "name": "The Word",
         "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
       },
@@ -10993,6 +11073,32 @@
     },
     {
       "album": {
+        "name": "UNLIMITED",
+        "url": "https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "Samuel Okemiri",
+          "url": "https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ"
+        },
+        {
+          "name": "Oneskript",
+          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "UNLIMITED",
+      "url": "https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm"
+    },
+    {
+      "album": {
         "name": "Find Me Here Vol. 2 EP",
         "url": "https://open.spotify.com/album/3rWosonj5kaBym4y8tzzKx"
       },
@@ -11084,7 +11190,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 191910,
       "name": "Victory Sound",
       "url": "https://open.spotify.com/track/4tzA51379bjf05eXSQbJJD"
@@ -11332,7 +11438,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 164869,
       "name": "Winning",
       "url": "https://open.spotify.com/track/3RdQGVFW3pNwPumUyuPyo7"
@@ -11372,7 +11478,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 142582,
       "name": "WONDA",
       "url": "https://open.spotify.com/track/5CsoSWdYDUW6hqEuHZis2Q"
@@ -12108,7 +12214,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 179000,
       "name": "yours",
       "url": "https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk"

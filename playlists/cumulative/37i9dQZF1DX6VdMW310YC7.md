@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,821 songs - 5 day 3 hr 50 min
+1,822 songs - 5 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Between](https://open.spotify.com/track/4ZJXmXQeC0qL1nPVAWNRGd) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ) | [Between](https://open.spotify.com/album/6yMAZmRCZjavW98B0aF9Of) | 5:02 | 2022-03-04 | 2022-12-29 |
 | [Between Sessions](https://open.spotify.com/track/0MZu1wVuMKAbnAKmO5v1Sw) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Jabbu](https://open.spotify.com/artist/2z05oYAAyzrRNbWrNFSrDt) | [Between Sessions](https://open.spotify.com/album/3cePFVy5nn57bdF5Yik6kc) | 3:15 | 2020-11-03 | 2021-03-06 |
 | [Beyond Beliefs](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Beyond Beliefs](https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru) | 5:13 | 2021-07-09 | 2024-03-23 |
-| [Bigger Than All Of Us](https://open.spotify.com/track/4bzdeTvjrJZK4E6kLs7zm1) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [Bigger Than All Of Us](https://open.spotify.com/album/69Ci2CvI5ayPqzSVAFClos) | 4:22 | 2025-06-27 |  |
+| [Bigger Than All Of Us](https://open.spotify.com/track/4bzdeTvjrJZK4E6kLs7zm1) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [Bigger Than All Of Us](https://open.spotify.com/album/69Ci2CvI5ayPqzSVAFClos) | 4:22 | 2025-06-27 | 2025-10-12 |
 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 | 2020-03-17 | 2021-02-19 |
 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 | 2025-01-24 |  |
 | [Black Hole](https://open.spotify.com/track/6vaw1YNbDfuzgYhnkyUtC2) | [KILE](https://open.spotify.com/artist/7tVq7jbYa9q9BvANmPzc8H) | [Black Hole](https://open.spotify.com/album/3vGYxOst2YbFCiMPC8wCmH) | 4:20 | 2022-12-28 | 2023-01-06 |
@@ -1553,6 +1553,7 @@
 | [Take](https://open.spotify.com/track/1w5y06ufX6ji1rkNUI0Gd4) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Take](https://open.spotify.com/album/0TATPYRp07mP5s8qhlYBBn) | 3:16 | 2020-05-18 | 2020-07-03 |
 | [Take Flight](https://open.spotify.com/track/4NfsVyeG8e6uVPhu9e1j8i) | [David Marston](https://open.spotify.com/artist/38vIH7ZszEshcDGZIMgEYl), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Dan Izco](https://open.spotify.com/artist/5pnOf48CGxTEcDL7d61Xfh) | [Take Flight](https://open.spotify.com/album/1k1cgxnr4fTlEvvOkMzK0h) | 3:49 | 2020-07-18 | 2020-10-09 |
 | [Take It Slow](https://open.spotify.com/track/01ANyeSipc6cj0jUx1AoHO) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Chill House for Cruising](https://open.spotify.com/album/14gjm479rEw0pLbK30GMkT) | 4:36 | 2020-03-20 | 2022-04-20 |
+| [Take Me Home](https://open.spotify.com/track/05EXd5VOcSvEbjMhBn99dn) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Take Me Home](https://open.spotify.com/album/3l5cjOXlf0QfcvFvu49P6a) | 3:44 | 2025-10-10 |  |
 | [Take on Me \- Kygo Remix](https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Take on Me \(Kygo Remix\)](https://open.spotify.com/album/3R2Movau61LViutgG8JYtV) | 3:46 | 2020-05-22 | 2020-07-03 |
 | [Take You Home \- Undercatt Remix](https://open.spotify.com/track/1wPC1IHNwfxHrWIip2zNFA) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Take You Home \(Undercatt Remix\)](https://open.spotify.com/album/0f4Vlnw5XwRmfhrEcvfqLH) | 6:27 | 2020-02-29\* | 2020-03-16 |
 | [Take You There](https://open.spotify.com/track/5onowAwqn0Itow9DAdCJyF) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Take You There](https://open.spotify.com/album/5QhJ91EoYRkY3W6qhhDDZh) | 4:02 | 2020-05-22 | 2020-07-03 |

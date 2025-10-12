@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Stig Brenner, Roc Boyz,  SKAAR og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,969 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,983 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 66 | [BARATO](https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [BARATO](https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT) | 2:29 |
 | 67 | [An Per](https://open.spotify.com/track/5mLLe8W8gataY8eSgp2KQo) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [An Per](https://open.spotify.com/album/2QkzbWMsGN1NYxE16ms38T) | 2:33 |
 | 68 | [Ein utstrakt hånd](https://open.spotify.com/track/4J4c2TUWhsMl37InamltSP) | [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [Ein utstrakt hånd](https://open.spotify.com/album/2Jg5S8ps9e9YysRuZudJMe) | 7:32 |
-| 69 | [Jeg trenger et sted](https://open.spotify.com/track/0eHcTebXeKg7A8QyaMnEOW) | [Ingvild Homme](https://open.spotify.com/artist/49F9ZYgevXMvE1B25PaX9b), [Jon Solberg](https://open.spotify.com/artist/7fY5I70LGVJ7fnpO0RB6BB) | [Jeg trenger et sted](https://open.spotify.com/album/4lbR9NEMFwgGGJxNNhUrHZ) | 2:47 |
+| 69 | [Jeg trenger et sted](https://open.spotify.com/track/0eHcTebXeKg7A8QyaMnEOW) | [Ingvild Homme](https://open.spotify.com/artist/49F9ZYgevXMvE1B25PaX9b), [Jon Solberg](https://open.spotify.com/artist/2Zt0Gjh2C8Fcq76owhWux9) | [Jeg trenger et sted](https://open.spotify.com/album/4lbR9NEMFwgGGJxNNhUrHZ) | 2:47 |
 | 70 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
 | 71 | [Take Me To The Altar](https://open.spotify.com/track/5wXG16j2RKCLN5QBTJdY8z) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take Me To The Altar](https://open.spotify.com/album/5XFYYQxyC5Rb5vtFGxhJVn) | 2:36 |
-| 72 | [Min Gjeng](https://open.spotify.com/track/7hS3NyBSeZdVPhdIJ5RbHB) | [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b), [Angelo Reira](https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O), [Kars](https://open.spotify.com/artist/7KytES5VSQ06hfISDoE680), [Spacewave](https://open.spotify.com/artist/03h3gjHBkUp7VK8cAg4Nul) | [Min Gjeng](https://open.spotify.com/album/0jk9laALRtUJMTHe80y4tU) | 3:10 |
+| 72 | [Min Gjeng, Pt.2](https://open.spotify.com/track/7hS3NyBSeZdVPhdIJ5RbHB) | [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b), [Angelo Reira](https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O), [Kars](https://open.spotify.com/artist/7KytES5VSQ06hfISDoE680), [Spacewave](https://open.spotify.com/artist/03h3gjHBkUp7VK8cAg4Nul) | [Min Gjeng, Pt.2](https://open.spotify.com/album/0jk9laALRtUJMTHe80y4tU) | 3:10 |
 | 73 | [Past Lives](https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Past Lives](https://open.spotify.com/album/5xYi9SNcnF8kvwhIhsx6nf) | 2:57 |
 | 74 | [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 |
 | 75 | [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nighttime Thing](https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj) | 2:24 |

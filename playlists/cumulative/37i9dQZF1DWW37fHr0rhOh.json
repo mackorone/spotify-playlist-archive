@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Gaither Vocal Band",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Martins",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 165450,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1PZYQ7LrODJfDc5I0TFsV2"
+    },
+    {
+      "album": {
+        "name": "Brighten The Corner Where You Are",
+        "url": "https://open.spotify.com/album/1SFoFfNJBomLINZnVBwp4S"
+      },
+      "artists": [
+        {
+          "name": "Josh Townsend",
+          "url": "https://open.spotify.com/artist/25nGpqsOtAIeIECC8GFyvM"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141994,
+      "name": "Brighten The Corner Where You Are",
+      "url": "https://open.spotify.com/track/6vjCj6upYYjvpZpf6hmhAs"
     },
     {
       "album": {
@@ -506,7 +524,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 176550,
       "name": "Go Tell",
       "url": "https://open.spotify.com/track/4up36rNyfsFzZaQlTXlbvW"
@@ -835,6 +853,32 @@
     },
     {
       "album": {
+        "name": "Then Came the Morning",
+        "url": "https://open.spotify.com/album/7gpltwVlSsQJuFP5aG1jN4"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        },
+        {
+          "name": "Chris Blue",
+          "url": "https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv"
+        },
+        {
+          "name": "Gene McDonald",
+          "url": "https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135869,
+      "name": "Hard Trials Will Soon Be Over",
+      "url": "https://open.spotify.com/track/65U9OftPKogtjLgCS7CcBK"
+    },
+    {
+      "album": {
         "name": "Quartets",
         "url": "https://open.spotify.com/album/5M1DW1IAoNflo3s4FP9490"
       },
@@ -1146,10 +1190,28 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 184000,
       "name": "I Went Down",
       "url": "https://open.spotify.com/track/4mVgZGOqjA2LGTKdfIpYJY"
+    },
+    {
+      "album": {
+        "name": "Forgiven and Free",
+        "url": "https://open.spotify.com/album/1X9LNCjtYHbkXHT7x4pUvN"
+      },
+      "artists": [
+        {
+          "name": "Gene McDonald",
+          "url": "https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "I'd Rather Have Jesus",
+      "url": "https://open.spotify.com/track/4fhpTimL1Dfy879fUEEJxa"
     },
     {
       "album": {
@@ -1657,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Fortieth Anniversary",
+        "url": "https://open.spotify.com/album/140VTuCe8ICHb1NxWJKMxJ"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Heirs",
+          "url": "https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253336,
+      "name": "Medley - He Lifted Me/I've Passed Over/He Locked The Gates",
+      "url": "https://open.spotify.com/track/0QdHa7q2XyOvCKtqWcrHPP"
+    },
+    {
+      "album": {
         "name": "Country Bluegrass Homecoming (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/2QegcGhKqpVst8qu55lqIp"
       },
@@ -1940,7 +2020,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 276000,
       "name": "On Jordan's Stormy Banks",
       "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
@@ -2214,7 +2294,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 205162,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1tQi88s5DT5rE9hit2zwYe"
@@ -2622,7 +2702,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 151985,
       "name": "Sweet, Sweet Spirit",
       "url": "https://open.spotify.com/track/4YPxHaFJaQr2GzrVpzYCLm"
@@ -3106,10 +3186,28 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 326000,
       "name": "There's a Medicine for That",
       "url": "https://open.spotify.com/track/56FlVcErsldpsCHePXb0qQ"
+    },
+    {
+      "album": {
+        "name": "There's Something About That Name",
+        "url": "https://open.spotify.com/album/0Hipc9Biwb6AYpY2gYQBTz"
+      },
+      "artists": [
+        {
+          "name": "The Martins",
+          "url": "https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "There's Something About That Name",
+      "url": "https://open.spotify.com/track/7EqzbnOjhFeZ8WTkMcoLXl"
     },
     {
       "album": {
@@ -3182,6 +3280,24 @@
       "duration_ms": 217368,
       "name": "Through the Furnace Fire",
       "url": "https://open.spotify.com/track/5ztkQz8pTIDmI6XCfZo0xr"
+    },
+    {
+      "album": {
+        "name": "Time To Let Go And Let God",
+        "url": "https://open.spotify.com/album/4k3MjkDrWvI6ne5z1fmVRX"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Time To Let Go And Let God",
+      "url": "https://open.spotify.com/track/38GUyM2U1kqURiSluSCNOY"
     },
     {
       "album": {

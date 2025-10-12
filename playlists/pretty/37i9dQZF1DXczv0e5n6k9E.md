@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: DIFF, XRS
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,701 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,702 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 21 | [MYSTIKO](https://open.spotify.com/track/3dmu95RKqKkOZbzhqVWuPk) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [MYSTIKO](https://open.spotify.com/album/0U6Wd6QdndMT5hg79FAUm4) | 2:45 |
 | 22 | [DANNY PHANTOM](https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4) | [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [DANNY PHANTOM](https://open.spotify.com/album/0SyY81pSlirz049SGjE1JN) | 2:27 |
 | 23 | [PYRETOS](https://open.spotify.com/track/0yiPvFKz5ChU7jRpD1gI7C) | [Tanto](https://open.spotify.com/artist/2mn8rZRXusYSE0pwQkVN7t), [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5) | [PYRETOS](https://open.spotify.com/album/3EmI2oAgKTGJr5BSZaRjqU) | 3:13 |
-| 24 | [LOV€](https://open.spotify.com/track/4VMYNl6ASQD4bsryGRIuKm) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O) | [Paidia Tou Feggariou](https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3) | 2:56 |
+| 24 | [LOV€](https://open.spotify.com/track/4VMYNl6ASQD4bsryGRIuKm) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Paidia Tou Feggariou](https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3) | 2:56 |
 | 25 | [2 DIODIA](https://open.spotify.com/track/70uIhFrirDdHsmFcofSVHh) | [Kareem Kalokoh](https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [2 DIODIA](https://open.spotify.com/album/5dkR5iCCFe1JOKZpvO8AGw) | 2:46 |
 | 26 | [LOL](https://open.spotify.com/track/0EOonBs6kBhJgZukvmVAdI) | [TAFF](https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J), [TORO](https://open.spotify.com/artist/2WOOBiFlIFVqfzgr3zQhgd), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [LOL](https://open.spotify.com/album/5TZKH4uqy899mXbCYborib) | 2:56 |
 | 27 | [Somebody Gonna Die](https://open.spotify.com/track/74TkmC5Nrzqxz6PiPXtxiP) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [PAR1S](https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK) | [Somebody Gonna Die](https://open.spotify.com/album/7DAhOVWrC7rNyfEIjeujCY) | 3:09 |

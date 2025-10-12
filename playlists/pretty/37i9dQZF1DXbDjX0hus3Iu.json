@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 529761,
+  "num_followers": 529800,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -1021,38 +1021,6 @@
       "url": "https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI"
     },
     {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Bishop Black",
-        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
-      },
-      "artists": [
-        {
-          "name": "Bishop Black",
-          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "Southern Hospitality",
-      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
-      },
-      "artists": [
-        {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "It Hurts To Want It So Bad",
-      "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
-    },
-    {
       "added_at": "2025-07-11 17:42:51",
       "album": {
         "name": "Ain't Rocked in a While",
@@ -1071,6 +1039,38 @@
       "duration_ms": 281160,
       "name": "Ain't Rocked in a While",
       "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+      },
+      "artists": [
+        {
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "It Hurts To Want It So Bad",
+      "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Bishop Black",
+        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
+      },
+      "artists": [
+        {
+          "name": "Bishop Black",
+          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "Southern Hospitality",
+      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
     },
     {
       "added_at": "2025-06-20 04:06:02",

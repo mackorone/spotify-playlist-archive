@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover:  Pino
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,175 likes - 174 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,201 likes - 174 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

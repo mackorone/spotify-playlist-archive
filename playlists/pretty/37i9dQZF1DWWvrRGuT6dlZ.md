@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: WHYLUCAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,046 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 99 | [Hit and Run](https://open.spotify.com/track/4tVruBSvpYl2LLgpgBroxG) | [Elizabeth Wong](https://open.spotify.com/artist/61GAisNXTGSK0ZKtPYIEEy) | [Hit and Run](https://open.spotify.com/album/46UcPq8mmEqy2YPCiqzZ82) | 3:23 |
 | 100 | [Designer](https://open.spotify.com/track/3DmJpWGCg00d3fRAAKFP26) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Jimmy H.](https://open.spotify.com/artist/7t1OEceEW5WhtnUNsiljhr) | [Designer](https://open.spotify.com/album/5hMLjUS2ypB9v1BkzuQqvW) | 2:12 |
 
-Snapshot ID: `AAAAAPfprnHUaeqlXy/8L9EwyGtqZuGm`
+Snapshot ID: `AAAAAPImWnUXJlMHSlXRAN888bIRQIA1`

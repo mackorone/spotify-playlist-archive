@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 304933,
       "name": "6\u6708\u306e\u7a93",
       "url": "https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy"
@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/031ZxdGrMfQdhwJu4B2euP"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155021,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6aeeLI3C9U6yAnE0QRCce9"
+    },
+    {
+      "album": {
         "name": "Earth: my Home Planet",
         "url": "https://open.spotify.com/album/367AxTys5leFcc98kZP0Nr"
       },
@@ -1857,6 +1875,28 @@
     },
     {
       "album": {
+        "name": "I Don't Want To Leave",
+        "url": "https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC"
+      },
+      "artists": [
+        {
+          "name": "JELISA",
+          "url": "https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270058,
+      "name": "I Don't Want To Leave",
+      "url": "https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu"
+    },
+    {
+      "album": {
         "name": "Nisenhyakunen",
         "url": "https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n"
       },
@@ -2546,7 +2586,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 152915,
       "name": "Machibito",
       "url": "https://open.spotify.com/track/3JqO1F4xQ9t14M9nqs76RS"
@@ -3132,7 +3172,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 206000,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/1se24buU27xNkOp1WoUE5M"
@@ -3540,7 +3580,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 278518,
       "name": "Re-\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW"
@@ -3978,7 +4018,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 143000,
       "name": "something",
       "url": "https://open.spotify.com/track/7d8HOQ22xNRjUJLMTpNGKs"
@@ -4660,7 +4700,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 152312,
       "name": "Umegaoka-dori",
       "url": "https://open.spotify.com/track/2RRvnQkAPn05XPNTqCrS4V"
@@ -5206,7 +5246,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 240853,
       "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
@@ -6339,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Naked Vol.2",
+        "url": "https://open.spotify.com/album/66Ms7ZzSdvS5A5kF1jEhvr"
+      },
+      "artists": [
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8 - Naked Mix",
+      "url": "https://open.spotify.com/track/0Fq6qR6DCrNxrpG703jWqf"
+    },
+    {
+      "album": {
         "name": "\u30c1\u30ce\u30ab\u30c6",
         "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
@@ -6483,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u306b\u3085\u30fc",
+        "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337573,
+      "name": "\u30d4\u30a2\u30d5",
+      "url": "https://open.spotify.com/track/18dvOWJvmNvEkolNJ2tRNS"
+    },
+    {
+      "album": {
         "name": "DRAGON HEAD SHAKE",
         "url": "https://open.spotify.com/album/0RJcs09H53ijGdppi497wf"
       },
@@ -6624,7 +6700,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 250000,
       "name": "\u4e18",
       "url": "https://open.spotify.com/track/5YTiEQOoG3PqoKj7IeyDfS"
@@ -6748,6 +6824,24 @@
       "duration_ms": 249821,
       "name": "\u5149\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2"
+    },
+    {
+      "album": {
+        "name": "\u51ac\u306e\u306f\u3058\u307e\u308a",
+        "url": "https://open.spotify.com/album/1F44S2P7zYc8dElPmjqBd6"
+      },
+      "artists": [
+        {
+          "name": "HoSoVoSo",
+          "url": "https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "\u51ac\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/2NA611BGLKXlDKrV7JIJyF"
     },
     {
       "album": {
@@ -7322,7 +7416,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 279200,
       "name": "\u5fc3\u305f\u3061",
       "url": "https://open.spotify.com/track/0sZLz7L4gffnuuaB1yvVbl"
@@ -8218,7 +8312,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 166300,
       "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
@@ -8258,6 +8352,24 @@
       "duration_ms": 249200,
       "name": "\u7460\u7483\u8272\u306e\u5730\u7403(\u300c\u3053\u306e\u5730\u7403\u306e\u65e5\u3005\u305f\u3061\u3078\u300d\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u8a18",
+        "url": "https://open.spotify.com/album/1fzhvTFdiPT8AvSOsFa4vJ"
+      },
+      "artists": [
+        {
+          "name": "\u6a4b\u672c\u85ab",
+          "url": "https://open.spotify.com/artist/1aLamjkjjLUj31zHJoVLF5"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285334,
+      "name": "\u751f\u6d3b\u306e\u5831\u544a",
+      "url": "https://open.spotify.com/track/4hHdBdQHbf2bDyes288SQK"
     },
     {
       "album": {
@@ -8710,7 +8822,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 221799,
       "name": "\u80ce\u76e4 -Waterbird Habitat-",
       "url": "https://open.spotify.com/track/0hYBCjw2jA7KpDKABLzqJN"
@@ -8982,6 +9094,32 @@
       "duration_ms": 194760,
       "name": "\u904a\u89a7\u8239",
       "url": "https://open.spotify.com/track/2Uf76zPC65kpeIfkZkhqZ4"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/5JtTHTw6WF8eyENbzb9il0"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30b8\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4oG1rS76oxil9wNP9k3DFx"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "\u9ad8\u5ca9 \u907c",
+          "url": "https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272313,
+      "name": "\u9152\u3068\u6cea\u3068\u7537\u3068\u5973",
+      "url": "https://open.spotify.com/track/6mboagIZ1lSw5KbIN3kZNK"
     },
     {
       "album": {

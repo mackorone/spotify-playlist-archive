@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Big Stan en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,737 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,747 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 16 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
 | 17 | [Arde](https://open.spotify.com/track/05jsfTgGeVT0bXpkFdxM7x) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Arde](https://open.spotify.com/album/7gwK85I7N8ta4CXdqozA46) | 3:15 |
 | 18 | [No se pierde, se aprende](https://open.spotify.com/track/0bMveXzCFslR4VsX0sLfCV) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Deni Valo](https://open.spotify.com/artist/0F2dpQJSVo2riJoFKf5w2G), [Pedrito Palma](https://open.spotify.com/artist/0JLRKQgQbbJW0Wsd6XMQmW) | [No se pierde, se aprende](https://open.spotify.com/album/3Od1AGiRsz0IDiNnQyl92K) | 3:03 |
-| 19 | [Que Mueran](https://open.spotify.com/track/3HsuiHj3hvbraRaLZ0R1On) | [Blanco 03](https://open.spotify.com/artist/3z5SY175ATL5XnYzpyXCLO), [Rony Alca](https://open.spotify.com/artist/6f9dqXCJ5pB3tSOMnim6Qp) | [Que Mueran](https://open.spotify.com/album/4cTCUh9UOPlutXz67mTws3) | 2:48 |
+| 19 | [Que Mueran](https://open.spotify.com/track/3HsuiHj3hvbraRaLZ0R1On) | [Blanco 03](https://open.spotify.com/artist/3z5SY175ATL5XnYzpyXCLO), [David D.G.1](https://open.spotify.com/artist/6VJ9YhBi5s4euh7aCFnr3x) | [Que Mueran](https://open.spotify.com/album/4cTCUh9UOPlutXz67mTws3) | 2:48 |
 | 20 | [Tusinelli](https://open.spotify.com/track/6rLuprn1IerY7zUfY8T0vn) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr) | [Tusinelli](https://open.spotify.com/album/39ew6fy2e4DRYsjuAJHVn5) | 3:08 |
 | 21 | [La Murga](https://open.spotify.com/track/6NQlxaFdIcjZJ6Fjpr1l8g) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [La Murga](https://open.spotify.com/album/36LebxlvaNPDO9i6cxDXcX) | 3:05 |
 | 22 | [Fashion Week](https://open.spotify.com/track/5obyLxQPdVcINAcZdCkdkC) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Fashion Week](https://open.spotify.com/album/2XcHijg5OB0GxpaKo0AAAF) | 3:13 |

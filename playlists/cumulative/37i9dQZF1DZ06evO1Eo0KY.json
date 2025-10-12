@@ -1747,6 +1747,28 @@
     },
     {
       "album": {
+        "name": "No Blemishes",
+        "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "No Blemishes",
+      "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
+    },
+    {
+      "album": {
         "name": "No Pun Intended",
         "url": "https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL"
       },

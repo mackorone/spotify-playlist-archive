@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Flock of Dimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,900 likes - 203 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,977 likes - 203 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

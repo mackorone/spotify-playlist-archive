@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-625 songs - 2 day 3 hr 29 min
+626 songs - 2 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,10 +52,11 @@
 | [Amen Amen](https://open.spotify.com/track/2rA0d20J3R7IrtPjn8gUxm) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Grace Nelson](https://open.spotify.com/artist/7kd6Pd5WjhkImAYH9PWpuu) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 9:28 | 2024-01-26 | 2025-06-20 |
 | [Amen Amen Blessings And Glory](https://open.spotify.com/track/3U3iU0gQj3PLkDNUobfR73) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Amen Amen Blessings And Glory](https://open.spotify.com/album/5DUSSZbkmyVLp46o1L3H6G) | 3:07 | 2025-05-30 | 2025-06-20 |
 | [Amina](https://open.spotify.com/track/7bPosug1dWKjoN5EUbopsp) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [JOSH CLEOPA](https://open.spotify.com/artist/7nvpGpGRXcmzi40VoqVBfj), [Melanie Anthony](https://open.spotify.com/artist/3QxA7gV0hPreXmj1zvLp7g) | [Mungu Ni Mmoja](https://open.spotify.com/album/04njaHwnA3vn08lI2O4IGA) | 6:42 | 2025-05-30 | 2025-06-20 |
-| [Amour inconditionnel](https://open.spotify.com/track/5WHsP1k6Pho0PMc9aTtESm) | [Faveur Mukoko](https://open.spotify.com/artist/3wiVaKI0C7DDfscpe10yAp) | [Aksanti Mungu \(Live\)](https://open.spotify.com/album/1Z7ttJJG6nV9eUGlcFOuyk) | 10:38 | 2025-07-18 |  |
+| [Amour inconditionnel](https://open.spotify.com/track/5WHsP1k6Pho0PMc9aTtESm) | [Faveur Mukoko](https://open.spotify.com/artist/3wiVaKI0C7DDfscpe10yAp) | [Aksanti Mungu \(Live\)](https://open.spotify.com/album/1Z7ttJJG6nV9eUGlcFOuyk) | 10:38 | 2025-07-18 | 2025-10-12 |
 | [Anabadilisha Matokeo](https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anabadilisha Matokeo](https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra) | 3:49 | 2024-08-23 | 2025-05-30 |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 | 2025-06-20 |
 | [Anointed](https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed](https://open.spotify.com/album/6TLuuArTrMIL83ySvRbyeV) | 3:01 | 2025-07-04 | 2025-09-11 |
+| [Anointed](https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Anointed](https://open.spotify.com/album/3Zk2GrpqEBsraDxXPp9aKH) | 7:06 | 2025-10-10 |  |
 | [Anointed \(II\)](https://open.spotify.com/track/3J8xiSgYueHkxQeFkS8eWj) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed \(II\)](https://open.spotify.com/album/7w1mi7r30eNP3QZe4ElEeK) | 3:23 | 2025-07-25 | 2025-09-05 |
 | [Anointing](https://open.spotify.com/track/20HgSwpqVFZ7KGwXvqyn5o) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Anointing](https://open.spotify.com/album/0DX5TH4X6En3Loqa13PYXB) | 3:24 | 2025-06-20 | 2025-06-27 |
 | [Anointing](https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Anointing](https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3) | 2:33 | 2024-07-26 | 2025-03-24 |

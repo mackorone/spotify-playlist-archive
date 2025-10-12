@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,990 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,012 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |
 | 2 | [Kentucky Love](https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [KrispyLife Kidd](https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR) | [Kentucky Love](https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0) | 3:51 |
-| 3 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:39 |
+| 3 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:40 |
 | 4 | [The One I Want](https://open.spotify.com/track/2Bt1BfsbxOWqWFvs0Q1rYu) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 1:48 |
 | 5 | [Look Like](https://open.spotify.com/track/4jtF5coEPlEaoYzzr96iTE) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Still Bussin](https://open.spotify.com/album/0WFYOaHjMHBtu4vuoiWdAt) | 2:56 |
 | 6 | [L.O.A.T](https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [L.O.A.T](https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg) | 2:26 |

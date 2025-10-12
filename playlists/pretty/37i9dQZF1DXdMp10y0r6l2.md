@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 82 | [Kathaarian Life Code \- Studio](https://open.spotify.com/track/5gTMAY6YiojUKbOjhO1JeJ) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze In The Northern Sky](https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF) | 10:39 |
 | 83 | [Human Target Practice](https://open.spotify.com/track/22lfbnvupek3j4scoA55Hx) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/4wzvzYbAA13pK9zESHvSAd) | 3:54 |
 
-Snapshot ID: `AAAAADJou9qXhk0hwf8TmysMPezg6hEv`
+Snapshot ID: `AAAAADIOX0IR1ClZdeO9dqfol9994A7E`

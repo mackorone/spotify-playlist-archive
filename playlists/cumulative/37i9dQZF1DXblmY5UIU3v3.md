@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-207 songs - 9 hr 33 min
+208 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Getting High](https://open.spotify.com/track/1d2uBy3sqVEMtO7iCWkbHQ) | [Sina JVH](https://open.spotify.com/artist/1DVDIohCayrKO8UD8fcX1K), [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Getting High](https://open.spotify.com/album/2W6COpP6mnqIN3YJIWjy2N) | 2:15 | 2022-09-23 | 2022-11-18 |
 | [Go Away](https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1) | [Alieff Green](https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe), [Rio Bakoo](https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c) | [Go Away](https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr) | 2:57 | 2022-11-11 |  |
 | [Good to Me](https://open.spotify.com/track/2jLBtE7i1PwDd7M88qRo6A) | [RM](https://open.spotify.com/artist/06vJVRBMbp4o11xulzeT1z), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Good to Me](https://open.spotify.com/album/2GpOSxs2CXMfv7uZykxdng) | 2:28 | 2023-12-13 | 2024-01-27 |
+| [Goodnight](https://open.spotify.com/track/6oUOQf8bvwYMI0XGzI5qxO) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Goodnight](https://open.spotify.com/album/16vPs3aVNCBvttgaa8Idqo) | 4:51 | 2025-10-10 |  |
 | [Gore](https://open.spotify.com/track/16U8KWOWT1MKK4uyHkOUzF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Gore](https://open.spotify.com/album/1nglOPEW5ZV1TWj5ikk693) | 4:07 | 2022-09-02 | 2023-01-21 |
 | [GUCCI](https://open.spotify.com/track/1zJgOHtgI3SRPr76CQyWpO) | [Twoxi](https://open.spotify.com/artist/3sAZ1QyHMsIB3yeuIgDe5S) | [GUCCI](https://open.spotify.com/album/7xufIFECH7urcgCpKKisY3) | 2:42 | 2022-11-17 | 2022-12-24 |
 | [GVNG](https://open.spotify.com/track/1qeBLpAhPKExWU5PMtwm8K) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [GVNG](https://open.spotify.com/album/3cTNrgiZr6xJjh9Klm3ne7) | 2:19 | 2022-04-07 | 2022-06-17 |
@@ -126,7 +127,7 @@
 | [Mafia \- Remix](https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Mafia \(Remix\)](https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n) | 2:02 | 2023-01-20 | 2025-03-20 |
 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 | 2022-10-20 |  |
 | [Maia](https://open.spotify.com/track/5yXp9Gy10qZ3N7wU7okJjr) | [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J), [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz) | [Maia](https://open.spotify.com/album/6zTWICb0u8PGqjpENX5GFf) | 3:34 | 2022-07-15 | 2022-10-15 |
-| [MAKE IT](https://open.spotify.com/track/6gxQBmcgLhkzf8usSNPOCu) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [MAKE IT](https://open.spotify.com/album/5nGwjKgtkXf0EbOvH3isFJ) | 2:40 | 2022-10-27 |  |
+| [MAKE IT](https://open.spotify.com/track/6gxQBmcgLhkzf8usSNPOCu) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [MAKE IT](https://open.spotify.com/album/5nGwjKgtkXf0EbOvH3isFJ) | 2:40 | 2022-10-27 | 2025-10-12 |
 | [Mama I\`m A Criminal](https://open.spotify.com/track/7fTp06COFtWGAypdljZpJR) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Mama I\`m A Criminal](https://open.spotify.com/album/5nOu1y6ZdRDYhPQj7GBW3x) | 3:14 | 2022-05-06 | 2022-07-09 |
 | [Mantra](https://open.spotify.com/track/3RZvy7noS5NHPlfkSm23qo) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl) | [Mantra](https://open.spotify.com/album/5mWO53S6YHZHjvPv1hDFvI) | 2:25 | 2022-07-08 | 2022-08-19 |
 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 | 2024-01-26 |  |

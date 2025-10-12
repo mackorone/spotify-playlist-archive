@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-359 songs - 21 hr 5 min
+360 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 | 2021-12-24 | 2024-07-30 |
 | [Feel the Joy](https://open.spotify.com/track/2zpKh2EX5fw0XRfwk0FELr) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Feel the Joy](https://open.spotify.com/album/7MnXgA9yuAEPkAuELWgLnT) | 2:38 | 2023-12-15 | 2024-07-30 |
 | [Feeling Like Christmas](https://open.spotify.com/track/1e7LS0PWP7talj49ML8Q8i) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Feeling Like Christmas](https://open.spotify.com/album/3QZHJ8B1nZBgJHOGMdU9RE) | 4:34 | 2022-12-11 | 2024-03-16 |
+| [Feels Like Christmas](https://open.spotify.com/track/4s4GAKfmRRgnttXZFAAODm) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Feels Like Christmas](https://open.spotify.com/album/6egjmIejK5PFjc5iMOBc1e) | 2:17 | 2024-12-13 |  |
 | [Feels Like Joy](https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO) | 2:52 | 2021-12-24 | 2024-04-19 |
 | [Feels Like Joy](https://open.spotify.com/track/2Vheu6vUwGzHAj1MCKXKeC) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/3LMdY0W3O11CHXbIxHt1W0) | 2:52 | 2023-12-15 |  |
 | [Feliz Navidad](https://open.spotify.com/track/4h8gC82RmwrIsNYibTbXvs) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 1:59 | 2022-11-26 | 2023-11-27 |
@@ -167,7 +168,7 @@
 | [Joy to the World](https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P) | [Celtic Worship](https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep), [Blue Rose Code](https://open.spotify.com/artist/3fALQUIY93XYP9h7JyPeeb), [Norrie MacIver](https://open.spotify.com/artist/1Z2xJmAUbB6S5b1dZySWHp) | [Come Behold: Christmas Collaborations](https://open.spotify.com/album/6oaRMjkCHhJql0hanPBhcZ) | 3:57 | 2022-12-11 | 2024-07-30 |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 | 2023-11-04 |
 | [Joy To The World](https://open.spotify.com/track/0r4oEPAhF9s4CymumKpPnj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Joy To The World](https://open.spotify.com/album/1DUIGPji7naIzvcAHZqrbf) | 3:55 | 2021-12-24 | 2024-07-30 |
-| [Joy To The World](https://open.spotify.com/track/4g0sjUcO6twtXRqEC5RjGe) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Joy To The World](https://open.spotify.com/album/13olYnyfqvwxvASzzziCSE) | 2:04 | 2024-12-13 |  |
+| [Joy To The World](https://open.spotify.com/track/4g0sjUcO6twtXRqEC5RjGe) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Joy To The World](https://open.spotify.com/album/13olYnyfqvwxvASzzziCSE) | 2:04 | 2024-12-13 | 2025-10-12 |
 | [Joy To The World](https://open.spotify.com/track/3sgPVrKXSVvxPKzvLaSh8P) | [LOFI Worship](https://open.spotify.com/artist/7140i1cyhuEArRQcADGja9) | [LOFI Christmas](https://open.spotify.com/album/4cySFdHNpqV62fAOZDC93N) | 2:56 | 2022-12-11 | 2023-11-06 |
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2021-12-24 | 2023-11-27 |
 | [Joy to the World](https://open.spotify.com/track/2Xarvk1Y1pX0PgQEk4jMZU) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [Joy to the World](https://open.spotify.com/album/2ei11H4CTrurq6KYKfPwlg) | 3:34 | 2024-07-29 | 2024-11-30 |

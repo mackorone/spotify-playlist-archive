@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,531 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 69 | [Rescue Mission](https://open.spotify.com/track/7MwEY9R35kDsIjTk7aZ7Nn) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 5:19 |
 | 70 | [Nobody Owns My Soul \- Demo](https://open.spotify.com/track/4UWAHnHF4SJBGREIkcA4gb) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 3:01 |
 | 71 | [Slow Down](https://open.spotify.com/track/5zeRk6ZVXLnVlDJOZ0QbYF) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 3:05 |
-| 72 | [Star\-Spangled Bummer \(Whores Die Hard\)](https://open.spotify.com/track/1fcW2WTbU5rtCuaCAwmCjp) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:35 |
-| 73 | [The Law Is for Protection of the People \- Live at the Big Sur Folk Festival](https://open.spotify.com/track/7tv0rBrmz5DZVroCncC25E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live at the Big Sur Folk Festival](https://open.spotify.com/album/5WPZXuN93LKbYCi72ZMpwP) | 3:29 |
+| 72 | [The Law Is for Protection of the People \- Live at the Big Sur Folk Festival](https://open.spotify.com/track/7tv0rBrmz5DZVroCncC25E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live at the Big Sur Folk Festival](https://open.spotify.com/album/5WPZXuN93LKbYCi72ZMpwP) | 3:29 |
+| 73 | [Star\-Spangled Bummer \(Whores Die Hard\)](https://open.spotify.com/track/1fcW2WTbU5rtCuaCAwmCjp) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:35 |
 | 74 | [Good for Nothing Blues \- Demo](https://open.spotify.com/track/3TfF9u88vRLdwc5vlHBlNr) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:14 |
 | 75 | [One for the Money](https://open.spotify.com/track/2ELEvgKVUXg2A1qHelo8kZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:04 |
 | 76 | [Hitting Close to Home \- Demo](https://open.spotify.com/track/3TyfyjltEtQaB7JVRDuOHR) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:35 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Ab+hcAAAAACE1OtWe3d4vcG/yhrvST/e`
+Snapshot ID: `Ab+nBgAAAAAE1aN7wQUvwhe/WiCFukP5`

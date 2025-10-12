@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 254113,
       "name": "Min Awel Marra Shoftak",
       "url": "https://open.spotify.com/track/0wgeF2POWTOKQFdB7aiQ9m"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 238155,
       "name": "Rouh El Baher",
       "url": "https://open.spotify.com/track/3tDJsXij36UkVCvMUs3Tne"
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Mega Haifa",
+        "url": "https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234614,
+      "name": "Tawaam Hayati",
+      "url": "https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2"
+    },
+    {
+      "album": {
         "name": "Tawaam Hayati",
         "url": "https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE"
       },
@@ -2078,6 +2096,24 @@
       "duration_ms": 150570,
       "name": "Ya Albo",
       "url": "https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd"
+    },
+    {
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233232,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ"
     },
     {
       "album": {

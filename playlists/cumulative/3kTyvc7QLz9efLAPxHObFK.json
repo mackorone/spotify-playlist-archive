@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Everything Changes (Deluxe)",
+        "url": "https://open.spotify.com/album/3dcqbyl39nPsTqnqffnAR6"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/4qFXZQJzUfp1hlCyo6ne7q"
+    },
+    {
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1gz3wHvGsoswJVvpKvv5MD"
       },
@@ -13749,6 +13767,32 @@
     },
     {
       "album": {
+        "name": "elevate (Bumloco Remix)",
+        "url": "https://open.spotify.com/album/1R7BGXpSqiFKRosc5R57yv"
+      },
+      "artists": [
+        {
+          "name": "Bumloco",
+          "url": "https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M"
+        },
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "elevate (Bumloco Remix)",
+      "url": "https://open.spotify.com/track/5WZcHaHfyrC8WR2dJlEmrd"
+    },
+    {
+      "album": {
         "name": "elevate our mind",
         "url": "https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo"
       },
@@ -21290,6 +21334,24 @@
       "duration_ms": 199741,
       "name": "Heart Bass",
       "url": "https://open.spotify.com/track/44i1tIz1Iq0iY7wLJ34FLo"
+    },
+    {
+      "album": {
+        "name": "Heart Drumz",
+        "url": "https://open.spotify.com/album/6Zh1X8R2nkfRITF1AOkuyF"
+      },
+      "artists": [
+        {
+          "name": "Sghenny",
+          "url": "https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Heart Drumz",
+      "url": "https://open.spotify.com/track/3I1U1R2W8jEuardXH1jzE3"
     },
     {
       "album": {
@@ -45349,7 +45411,7 @@
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259874,
+      "duration_ms": 259875,
       "name": "The Blaster",
       "url": "https://open.spotify.com/track/10FHpP7tl7Vc2O3sezCwIh"
     },

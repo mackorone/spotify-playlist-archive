@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 253377,
+  "num_followers": 253440,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKj1hY9cazxWEN1AalwvIgenSxt6",
+  "snapshot_id": "AAAAAIxgOY5qTAzLrkKTLRO+jamCPuwb",
   "tracks": [
     {
       "added_at": "2025-09-26 08:40:01",
@@ -147,26 +147,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "VITAMINA",
-        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
       "artists": [
         {
-          "name": "Jombriel",
-          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         },
         {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        },
-        {
-          "name": "J\u00f8tta",
-          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         }
       ],
-      "duration_ms": 208743,
-      "name": "VITAMINA",
-      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -191,22 +187,26 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
         },
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
         }
       ],
-      "duration_ms": 224022,
-      "name": "Q U E V A S H A C E R H O Y ?",
-      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+      "duration_ms": 208743,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "REMEDIO",
-        "url": "https://open.spotify.com/album/1WFZ6u5evkcamtTSBfDjzk"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "REMEDIO",
-      "url": "https://open.spotify.com/track/3ofkZSquFA2tYHXd3Ei2z2"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
         "name": "BUENAS NOCHES",
         "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 165762,
       "name": "MR. MOONDIAL",
       "url": "https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
+        "name": "REMEDIO",
+        "url": "https://open.spotify.com/album/1WFZ6u5evkcamtTSBfDjzk"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "REMEDIO",
+      "url": "https://open.spotify.com/track/3ofkZSquFA2tYHXd3Ei2z2"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1423,30 +1423,6 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "NINFO",
-        "url": "https://open.spotify.com/album/5BkCOGoHQAPGoFEri4WDpH"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "MC Menor JP",
-          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "NINFO",
-      "url": "https://open.spotify.com/track/1R7o6txxwvIdDMtoKX5ddg"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
         "name": "Noventa (with J Balvin)",
         "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
       },
@@ -1487,6 +1463,30 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
+        "name": "NINFO",
+        "url": "https://open.spotify.com/album/5BkCOGoHQAPGoFEri4WDpH"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "NINFO",
+      "url": "https://open.spotify.com/track/1R7o6txxwvIdDMtoKX5ddg"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
         "name": "5202",
         "url": "https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00"
       },
@@ -1519,26 +1519,6 @@
       "duration_ms": 194680,
       "name": "GUAYA",
       "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
-        "name": "CELOSA",
-        "url": "https://open.spotify.com/album/5BmICRIlCzMfgGI9BtUtMM"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "CELOSA",
-      "url": "https://open.spotify.com/track/24oq20t1LgJiIoFDrbCiDF"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1611,6 +1591,26 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4P4PTxkt3GcWxRh0gYqhgr"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "duration_ms": 181261,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/5ufdUMpR5urDWj8LbsomJi"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
         "name": "RZR",
         "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
       },
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4P4PTxkt3GcWxRh0gYqhgr"
+        "name": "CELOSA",
+        "url": "https://open.spotify.com/album/5BmICRIlCzMfgGI9BtUtMM"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         },
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
         }
       ],
-      "duration_ms": 181261,
-      "name": "HALO",
-      "url": "https://open.spotify.com/track/5ufdUMpR5urDWj8LbsomJi"
+      "duration_ms": 146000,
+      "name": "CELOSA",
+      "url": "https://open.spotify.com/track/24oq20t1LgJiIoFDrbCiDF"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "Golfista",
-        "url": "https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 158927,
-      "name": "Golfista",
-      "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
         "name": "LowFlyer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1FrWQryCHNC95W7JwpKKiK"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 162000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/4yMBRvsI4aFxlgwqYfzKco"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
+        "name": "Golfista",
+        "url": "https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 158927,
+      "name": "Golfista",
+      "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 153571,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
         "name": "Natural (Remix)",
         "url": "https://open.spotify.com/album/3uqqbHxbIjfw6olSmogD65"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 283200,
       "name": "Natural - Remix",
       "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 153571,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX"
     },
     {
       "added_at": "2025-09-26 08:40:01",

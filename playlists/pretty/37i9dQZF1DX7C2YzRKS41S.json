@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 143362,
+  "num_followers": 143406,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-09-01 18:37:53",
       "album": {
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 177665,
+      "name": "Eu Sou Sentimental",
+      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
+    },
+    {
+      "added_at": "2025-09-01 18:37:53",
+      "album": {
         "name": "deixa que eu j\u00e1 vou",
         "url": "https://open.spotify.com/album/744yL93oUhidi5dTt32T7z"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2025-09-01 18:37:53",
       "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 177665,
-      "name": "Eu Sou Sentimental",
-      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
-    },
-    {
-      "added_at": "2025-09-01 18:37:53",
-      "album": {
         "name": "Mesma Sensa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500"
       },
@@ -851,6 +851,26 @@
       "duration_ms": 194547,
       "name": "Mesma Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f"
+    },
+    {
+      "added_at": "2025-09-01 18:37:53",
+      "album": {
+        "name": "N\u00e3o Tem Lua",
+        "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        },
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "N\u00e3o Tem Lua",
+      "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
     },
     {
       "added_at": "2025-09-01 18:37:53",
@@ -903,26 +923,6 @@
       "duration_ms": 220470,
       "name": "Minha Opini\u00e3o",
       "url": "https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf"
-    },
-    {
-      "added_at": "2025-09-01 18:37:53",
-      "album": {
-        "name": "N\u00e3o Tem Lua",
-        "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        },
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "N\u00e3o Tem Lua",
-      "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
     },
     {
       "added_at": "2025-09-01 18:37:53",

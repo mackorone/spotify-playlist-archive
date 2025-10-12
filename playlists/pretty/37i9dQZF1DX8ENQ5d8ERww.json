@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12988,
+  "num_followers": 12990,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "Churer Dame K\u00f6nig Gras",
-        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
-      },
-      "artists": [
-        {
-          "name": "LIV",
-          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
-        },
-        {
-          "name": "DJ Babon",
-          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
-        }
-      ],
-      "duration_ms": 205242,
-      "name": "Tagebuach",
-      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "Mier macheds",
         "url": "https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 200800,
       "name": "Kei Respekt",
       "url": "https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "Churer Dame K\u00f6nig Gras",
+        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
+      },
+      "artists": [
+        {
+          "name": "LIV",
+          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
+        },
+        {
+          "name": "DJ Babon",
+          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
+        }
+      ],
+      "duration_ms": 205242,
+      "name": "Tagebuach",
+      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
     },
     {
       "added_at": "2025-07-24 13:47:10",

@@ -61560,6 +61560,14 @@
           "url": "https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj"
         },
         {
+          "name": "Phoebe Wakefield",
+          "url": "https://open.spotify.com/artist/6tIJwJrCw1NopWcudAGX7I"
+        },
+        {
+          "name": "James Gooding",
+          "url": "https://open.spotify.com/artist/4TGpr1TwbR539W3hz5y1zs"
+        },
+        {
           "name": "Rupert Gough",
           "url": "https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG"
         }
@@ -290709,6 +290717,32 @@
     },
     {
       "album": {
+        "name": "Violin Concerto in F Minor, RV 297, Op.8 No.4 \"Winter\": II. Largo",
+        "url": "https://open.spotify.com/album/4aCgf4UyepwYiexDto0P2k"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Esther Abrami Ensemble",
+          "url": "https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113834,
+      "name": "The Four Seasons: Violin Concerto in F Minor, RV 297, Op.8 No.4 \"Winter\": II. Largo",
+      "url": "https://open.spotify.com/track/1hbolaeKjKmmBBy62UeNhF"
+    },
+    {
+      "album": {
         "name": "Richter: The Four Seasons: Winter 1",
         "url": "https://open.spotify.com/album/3oG0quWo6XHOFa3xrOwTxz"
       },
@@ -318228,32 +318262,6 @@
       "duration_ms": 190293,
       "name": "Violin Concerto in F Minor, RV 297 \"L'inverno\": I. Allegro non molto",
       "url": "https://open.spotify.com/track/0q2jxAKqisiPsPTLAtye0B"
-    },
-    {
-      "album": {
-        "name": "Violin Concerto in F Minor, RV 297, Op.8 No.4 \"Winter\": II. Largo",
-        "url": "https://open.spotify.com/album/4aCgf4UyepwYiexDto0P2k"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Esther Abrami",
-          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
-        },
-        {
-          "name": "Esther Abrami Ensemble",
-          "url": "https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz"
-        }
-      ],
-      "date_added": "2025-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 113834,
-      "name": "Violin Concerto in F Minor, RV 297, Op.8 No.4 \"Winter\": II. Largo",
-      "url": "https://open.spotify.com/track/1hbolaeKjKmmBBy62UeNhF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,223 songs - 5 day 17 hr 45 min
+2,224 songs - 5 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Across Universe](https://open.spotify.com/track/4UMIcGA3hFeE2QxD0Tmtfy) | [BPM15Q](https://open.spotify.com/artist/4kDBfLqLmHdtDG3BcTA21r) | [Across Universe](https://open.spotify.com/album/0xVwlwLU5HqnArd4JvajGE) | 2:48 | 2024-10-22 | 2024-12-04 |
 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 | 2025-10-02 |  |
 | [ACTION！](https://open.spotify.com/track/7ydifkUbDQAUlwyUayJHSE) | [八木海莉⚡️電音遊戯](https://open.spotify.com/artist/2h1lM3SKLPHkSNRv27obta), [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [ACTION！](https://open.spotify.com/album/12m09y4BvJMQPJzggEPLMq) | 3:10 | 2025-06-28 | 2025-09-24 |
+| [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 | 2025-10-11 |  |
 | [ADRENALIZED](https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp) | 3:41 | 2024-04-10 | 2024-05-29 |
 | [Afterglow](https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4) | 4:04 | 2023-10-10 | 2023-10-18 |
 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 | 2022-10-05 |
@@ -1357,7 +1358,7 @@
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2022-11-22 | 2023-01-11 |
 | [ちゅ、多様性。 \- from CrosSing](https://open.spotify.com/track/08Fm1W9xau49K2xotaMYsx) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [ちゅ、多様性。 \- from CrosSing](https://open.spotify.com/album/2NTGjyahX231PdHbLRBSMG) | 3:07 | 2024-06-12 | 2024-07-03 |
 | [つよがるガール](https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [つよがるガール](https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K) | 3:09 | 2024-07-23 | 2024-10-12 |
-| [ときはなて！](https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ときはなて！](https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9) | 3:45 | 2025-06-28 |  |
+| [ときはなて！](https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ときはなて！](https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9) | 3:45 | 2025-06-28 | 2025-10-12 |
 | [となりあわせ](https://open.spotify.com/track/4fvSpQzTsHOMevyvppbfut) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS) | [となりあわせ](https://open.spotify.com/album/47JPJhvwaFQWFluvjKX9EX) | 3:05 | 2023-04-11 | 2023-06-21 |
 | [となりのトトロ](https://open.spotify.com/track/6Bd9CvRfFDXnc2FDl1aF1b) | [Shigeru Kishida](https://open.spotify.com/artist/62TpalmxXUjLKyxJUgZt6W) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:31 | 2023-10-31 | 2023-11-08 |
 | [とりあえず今は](https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [とりあえず今は](https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD) | 4:29 | 2025-04-08 | 2025-04-25 |

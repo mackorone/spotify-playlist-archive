@@ -4,7 +4,7 @@
 
 > Discover the best hits of Lebanon.
 
-130 songs - 7 hr 40 min
+132 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Metlak Ma Fi](https://open.spotify.com/track/4nSfTAygr8Vl0AtvS8AJ4a) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Metlak Ma Fi](https://open.spotify.com/album/1M4JshjAUpkHouLBGN7Xys) | 4:05 | 2022-04-12 | 2024-04-19 |
 | [Metlak Ma Fi](https://open.spotify.com/track/6tSmvuuBYkj4JSYoRU8y0x) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Metlak Ma Fi](https://open.spotify.com/album/4B1QbOUYzP1GlPEf3Mls7x) | 4:05 | 2021-09-10 | 2025-10-11 |
 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 | 2021-09-10 | 2025-10-11 |
-| [Min Awel Marra Shoftak](https://open.spotify.com/track/0wgeF2POWTOKQFdB7aiQ9m) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 4:14 | 2025-10-10 |  |
+| [Min Awel Marra Shoftak](https://open.spotify.com/track/0wgeF2POWTOKQFdB7aiQ9m) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 4:14 | 2025-10-10 | 2025-10-12 |
 | [Miye w khamsin](https://open.spotify.com/track/3QcXQ5bjDW8zzUbgRXjrv0) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 2:54 | 2021-09-10 | 2025-10-11 |
 | [nachez](https://open.spotify.com/track/6EmFx7VxhLhyFMDVsUI8hw) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [nachez](https://open.spotify.com/album/2hFIgkwr7fyX9SJWCVwo77) | 3:42 | 2024-10-08 | 2025-10-11 |
 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 | 2021-09-10 | 2025-10-11 |
@@ -99,7 +99,7 @@
 | [Nehna Sawa](https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u) | [Adam](https://open.spotify.com/artist/4erzgk1ORABnHn0lhMf9Oo) | [Nehna Sawa](https://open.spotify.com/album/3toWTCcHZV03p4PG2aXzxr) | 3:35 | 2021-09-10 | 2025-10-11 |
 | [Nehna Sawa](https://open.spotify.com/track/6xlLV6mQYoeTPQfJHrhLVm) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Nehna Sawa](https://open.spotify.com/album/41yq2j3UuFKSNdr9PAPQWn) | 3:35 | 2023-03-13 | 2024-04-19 |
 | [Nerkab Hal Sayyara](https://open.spotify.com/track/3XUxrJGnjLvfIhYTHu5RrA) | [Abu Ward](https://open.spotify.com/artist/2xaYgmlluZUUKCcfJEUdYe) | [Nerkab Hal Sayyara](https://open.spotify.com/album/3Yfq6Dg9ONbAyM0ZuwhrJZ) | 3:18 | 2025-10-10 |  |
-| [Rouh El Baher](https://open.spotify.com/track/3tDJsXij36UkVCvMUs3Tne) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Rouh El Baher](https://open.spotify.com/album/4kmByZdeUNhllYmdZlCONO) | 3:58 | 2025-10-10 |  |
+| [Rouh El Baher](https://open.spotify.com/track/3tDJsXij36UkVCvMUs3Tne) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Rouh El Baher](https://open.spotify.com/album/4kmByZdeUNhllYmdZlCONO) | 3:58 | 2025-10-10 | 2025-10-12 |
 | [Sa Ahlomu](https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 3:16 | 2023-03-13 | 2025-10-11 |
 | [Saalouny El Nas](https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Emany Satea](https://open.spotify.com/album/5t2l5etHkIJ0l06RCI0bHt) | 3:32 | 2025-10-10 |  |
 | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/album/3C5WDsRahXqn1rCMj7Rm5e) | 1:31 | 2021-09-10 | 2024-11-22 |
@@ -114,12 +114,14 @@
 | [Shukran Al Azimi](https://open.spotify.com/track/3nEjEnNRyXNcN6nWoalMvp) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [12 Sa'a](https://open.spotify.com/album/7yWLsrNU17dhFesO9R7EZa) | 3:34 | 2021-09-10 | 2024-10-09 |
 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 | 2025-10-10 |  |
 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 | 2021-09-10 | 2025-10-11 |
+| [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 | 2025-10-11 |  |
 | [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 | 2025-10-10 |  |
 | [Tetsharrat](https://open.spotify.com/track/6PL3VX8CYX0U3wv1FaEjjg) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v), [الوليد الحلاني](https://open.spotify.com/artist/4U9LzmkjHgY6UFJHRcbDix) | [Tetsharrat](https://open.spotify.com/album/3o5Zl9oCbsU3Yyrkx2zoxM) | 2:53 | 2025-02-02 | 2025-10-11 |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2021-09-10 |  |
 | [Wala Ghalta](https://open.spotify.com/track/3WWl6rIoWcDU5btMQgSfPk) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Wala Ghalta](https://open.spotify.com/album/2qyHTiNEvzM40oWZK5NG7C) | 2:11 | 2025-10-10 |  |
 | [Wbghar](https://open.spotify.com/track/68o5JAOXXd5Zjwbwk6N5QG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Wbghar](https://open.spotify.com/album/3H3DYRKSjKC2VsiaNsirb9) | 3:09 | 2025-10-10 |  |
 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 | 2025-10-10 |  |
+| [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 | 2025-10-11 |  |
 | [Ya Hayat El Roh](https://open.spotify.com/track/3gxwUwOXIccG8PvxTtjkse) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Saharni El Shok](https://open.spotify.com/album/7q9gZCc4dh5gGOJQgxiid1) | 5:01 | 2024-10-22 | 2025-10-11 |
 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 | 2025-10-10 |  |
 | [Ya Mdallaa](https://open.spotify.com/track/3NjPre3o7IrY1OkBG97Opc) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/5VoAawJAUcU1ExRvABtQJJ) | 2:57 | 2021-09-10 | 2025-10-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 12057,
+  "num_followers": 12064,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "IZIBONGO",
+        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "duration_ms": 412966,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "When We Love",
         "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 338800,
       "name": "When We Love",
       "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "IZIBONGO",
-        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
-      },
-      "artists": [
-        {
-          "name": "Sibusiso Mash Mashiloane",
-          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
-        }
-      ],
-      "duration_ms": 412966,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
     },
     {
       "added_at": "2025-08-29 10:19:41",

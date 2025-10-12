@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: MISSION MUSICA
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,614 likes - 75 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,680 likes - 75 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 74 | [Cristo Ven](https://open.spotify.com/track/3HDlbCkTDba3goCB9hZUJp) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [CRISTO VEN](https://open.spotify.com/album/0jgo8xiXNpxIJCWKwkcAI5) | 13:07 |
 | 75 | [BENDITO AMOR \- LIVE](https://open.spotify.com/track/3RO0NmSkm3vbx8j9QG2VVi) | [Lorens Salcedo](https://open.spotify.com/artist/0jE7MuW4BnzjciUx3nTJYH) | [BENDITO AMOR \(LIVE\)](https://open.spotify.com/album/69snf6mroDZAYol6U5C3fd) | 14:34 |
 
-Snapshot ID: `AAAAAGTbF3Ff7UM4SZxLZ4j6AiwRiX/t`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "The Many Voices Of",
+        "url": "https://open.spotify.com/album/0i53uEknjxYukAQ8syuYhc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "Ntjilo Ntjilo",
+      "url": "https://open.spotify.com/track/1KSPHgUAFM8zwBBAYiaaty"
+    },
+    {
+      "album": {
         "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
         "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
       },
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 300573,
       "name": "The Lion Cries - Mbube",
       "url": "https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6"

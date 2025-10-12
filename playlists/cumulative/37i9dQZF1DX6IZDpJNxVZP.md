@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-335 songs - 14 hr 39 min
+336 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [12 Days of Christmas](https://open.spotify.com/track/1TVXMtKqEQxaW8SWioLWo5) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Finny the Shark](https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i) | [12 Days of Christmas](https://open.spotify.com/album/2jaaRcesnOWc8lydULfFrs) | 4:19 | 2024-11-29 | 2025-05-01 |
 | [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 1:53 | 2024-09-20 |  |
 | [5 Little Monsters](https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol\. 1](https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au) | 1:37 | 2021-09-24 |  |
-| [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 | 2021-09-10 |  |
+| [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 | 2021-09-10 | 2025-10-12 |
 | [A Nightmare On My Street](https://open.spotify.com/track/6z1MBaO36cMLtBnlVjJP2b) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:55 | 2021-09-10 | 2024-11-04 |
 | [A Nightmare On My Street](https://open.spotify.com/track/6z2ioD6ikzth6aTkYWFvSu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:55 | 2021-09-10 | 2023-10-03 |
 | [A Very Spooky Holiday](https://open.spotify.com/track/3F0bDAX59kpQhguYpweti3) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Halloween](https://open.spotify.com/album/7lueo2gtgPY3WMmsHjrcE5) | 2:03 | 2025-10-03 |  |
@@ -128,6 +128,7 @@
 | [Halloween Song](https://open.spotify.com/track/7lKVNgm75OpgfdCI3Kpkoc) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 2:38 | 2021-09-10 | 2024-04-19 |
 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 | 2024-09-20 |  |
 | [Halloween Train](https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Halloween Train](https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU) | 2:43 | 2022-09-27 |  |
+| [Halloween Witch on the Bus Song](https://open.spotify.com/track/1TozMIAqpNLZVpwUU2h8YX) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Halloween Witch on the Bus Song](https://open.spotify.com/album/2ji6fP2LmxJ37OjeN1BunJ) | 2:04 | 2025-10-10 |  |
 | [Happy Halloween](https://open.spotify.com/track/6sXyNJtkTkLXny7HEtQIhb) | [Sing\-A\-Saurus](https://open.spotify.com/artist/35u0nCaFF1RXsDjf0aYn8M) | [Happy Halloween](https://open.spotify.com/album/1ZrBWKo38JZcs4QwqwFrDU) | 3:14 | 2023-10-23 | 2024-09-21 |
 | [Happy Halloween](https://open.spotify.com/track/0lur0abhKPyoC1KB12W1Nu) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:17 | 2025-10-10 |  |
 | [Happy Happy Halloween](https://open.spotify.com/track/3RYEmRrhyNW8crprsaQDBh) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:52 | 2021-09-10 | 2024-09-21 |

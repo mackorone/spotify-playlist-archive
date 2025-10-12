@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-311 songs - 21 hr 54 min
+312 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Feed Me](https://open.spotify.com/track/3J77QHm3P3yqdxWiKfVFG3) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [BELLADONNA+](https://open.spotify.com/artist/0NU5js8LDGTh6b1baG2fjl) | [Feed Me](https://open.spotify.com/album/6yOVonhNTBzGyA0NAqmYxM) | 3:30 | 2024-04-19 | 2024-07-09 |
 | [FEEL THE BEAT](https://open.spotify.com/track/07lXTVglyFGmstcLnDpdAT) | [ABØV](https://open.spotify.com/artist/4k8953mhpM1f8sNe50ZPlm), [BLURREDMOVEMENT](https://open.spotify.com/artist/6OlOGcrJ8WIRYJXcsGjed4) | [RCKLSS011](https://open.spotify.com/album/3gAy86fN8Re5XXsPpG3jrg) | 5:30 | 2024-04-09 | 2024-08-29 |
 | [Feet Down](https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ) | [NineTed](https://open.spotify.com/artist/2Vo7TSjLpWTibQkpZeoEz7) | [COVEN, Vol\. 3](https://open.spotify.com/album/6btbrFS9tvKTEGk4idAK4r) | 6:09 | 2024-04-09 | 2025-01-17 |
-| [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 | 2024-04-09 |  |
+| [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 | 2024-04-09 | 2025-10-12 |
 | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/track/1ezQNsp5el8von7KkY99py) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE), [DJ Thomas Newson](https://open.spotify.com/artist/0tZlnuodIwYzEMCLP86mnt), [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/album/4AAypVDSpB05qmvIeArFso) | 3:07 | 2025-06-20 | 2025-09-05 |
 | [Follow Me](https://open.spotify.com/track/1GgYSbkGStGbUey8oyB5LH) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO) | [Follow Me](https://open.spotify.com/album/6pRYh2gOVr4GW3Qkv9Kmuh) | 3:42 | 2025-01-18 | 2025-06-16 |
 | [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-15 | 2025-08-22 |
@@ -261,6 +261,7 @@
 | [So Alive \(VIP\)](https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [So Alive \(VIP\)](https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB) | 4:13 | 2024-04-09 |  |
 | [So Druff](https://open.spotify.com/track/3WaHqDjGpOWAz7uHvA7ztc) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [So Druff](https://open.spotify.com/album/1R5lUR2oKdp2xAgwbCnIjn) | 2:40 | 2025-02-28 | 2025-03-07 |
 | [Sonne](https://open.spotify.com/track/2Gna1s0f2aYuCZDSw44QYD) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Sonne](https://open.spotify.com/album/4ruRlxBLMfWTxpxj3qz5qo) | 4:26 | 2025-10-01 |  |
+| [Sonne Geht Auf](https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Sonne Geht Auf](https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR) | 2:06 | 2025-10-10 |  |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2024-04-09 | 2024-06-01 |
 | [Subspace](https://open.spotify.com/track/67wppGWUHSa72Qfa12LH2r) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Move EP](https://open.spotify.com/album/73t7xyoQmF1bOsQYxdhUla) | 4:18 | 2024-04-09 | 2024-08-04 |
 | [Sucia](https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr) | [JODA & MARROW](https://open.spotify.com/artist/6Ar8R40O8JXTQ2FsCMsWuF) | [Sucia](https://open.spotify.com/album/4R82Tc7PJJf8CNFAkGusZH) | 3:03 | 2024-04-19 | 2024-08-06 |

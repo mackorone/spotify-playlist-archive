@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  أنغام
 
-1,584 songs - 3 day 16 hr 19 min
+1,586 songs - 3 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [Khod Debletak](https://open.spotify.com/track/55PIEMFEe6OtUNq3o46EkU) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Khod Debletak](https://open.spotify.com/album/2H6DLbXPJ4fWY3puMZb6Q0) | 2:46 | 2024-02-16 | 2024-02-24 |
 | [Khodni](https://open.spotify.com/track/4wZwR380rCHpIjS4x4w1J7) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Khodni](https://open.spotify.com/album/1quFJr0a9hUSJE9VESrmm4) | 3:16 | 2024-05-16 | 2024-07-12 |
 | [Khoshy Hayaty](https://open.spotify.com/track/6IZc9TCicWP7pV1yKjQ5c2) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Khoshy Hayaty](https://open.spotify.com/album/4L1MlEeeI7bYnitOdSgeds) | 2:55 | 2023-01-19 | 2023-03-04 |
-| [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 | 2025-07-10 |  |
+| [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 | 2025-07-10 | 2025-10-12 |
 | [Kobtan](https://open.spotify.com/track/4bHz4sVrmpeLLUsu0i9liP) | [Mohamed Adawya](https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN) | [Kobtan](https://open.spotify.com/album/2f4yayWGqNkfjocXF84vf7) | 3:06 | 2023-11-16 | 2024-01-18 |
 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 | 2024-02-16 | 2024-05-08 |
 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 | 2024-06-07 | 2024-07-24 |
@@ -802,6 +802,7 @@
 | [Rooh](https://open.spotify.com/track/1alCvQXJD5uHy6bb8G7grH) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Rooh](https://open.spotify.com/album/6UShlShgeqabbQ6gL4aslc) | 3:14 | 2024-12-31 | 2025-02-07 |
 | [Rooh](https://open.spotify.com/track/2qfg2K2fX4VDaWOcl2tEFh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Rooh](https://open.spotify.com/album/7gQvelMzNHp52llxlr1g4T) | 2:37 | 2023-12-20 | 2024-01-27 |
 | [Rouh](https://open.spotify.com/track/5sIBV8CrFL1NzVEZWu7B6T) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Rouh](https://open.spotify.com/album/08Rw6H6OHaOcCeAMBKFDlD) | 2:54 | 2024-07-31 | 2024-09-27 |
+| [Rouh El Baher](https://open.spotify.com/track/3tDJsXij36UkVCvMUs3Tne) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Rouh El Baher](https://open.spotify.com/album/4kmByZdeUNhllYmdZlCONO) | 3:58 | 2025-10-11 |  |
 | [Rozma](https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [Rozma](https://open.spotify.com/album/5zbqTtpHlYIahxnvZFqJAf) | 2:48 | 2024-09-12 | 2024-11-29 |
 | [S.N.I.T.C.H.](https://open.spotify.com/track/23M7HHUlytLFnFiVjYOq70) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:26 | 2022-08-18 | 2022-11-09 |
 | [Sa3ada Bas](https://open.spotify.com/track/6FXDazcZlxNdcx8q1lMltR) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Sa3ada Bas](https://open.spotify.com/album/4saMOO0D4cdeVsHpRUZEVF) | 4:08 | 2025-02-05 | 2025-04-11 |
@@ -1369,11 +1370,12 @@
 | [قادرين يا حب](https://open.spotify.com/track/4zrYrL1VFAkbsWXDTen23b) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [قادرين يا حب](https://open.spotify.com/album/1gcgTeMsTY05EAKeD2923b) | 4:16 | 2024-11-22 | 2025-01-03 |
 | [قال في حقي](https://open.spotify.com/track/19dsyTMSHs7MQTFwDGhuVv) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [قال في حقي](https://open.spotify.com/album/46v7vsj0UortqStmb0kEJg) | 3:20 | 2024-06-20 | 2024-07-30 |
 | [قبل ما امشي](https://open.spotify.com/track/5yrNNDJlB5kQw47NXAhTNA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [قبل ما امشي](https://open.spotify.com/album/0fbjKKgKsYCtJhdhwaZ7YR) | 3:09 | 2023-12-21 | 2024-01-31 |
-| [قبلت التحدي](https://open.spotify.com/track/2744eb5vPx5v0K9WtxNdCH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 3:47 | 2025-07-03 |  |
+| [قبلت التحدي](https://open.spotify.com/track/2744eb5vPx5v0K9WtxNdCH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 3:47 | 2025-07-03 | 2025-10-12 |
 | [قررنا نحن الآتي](https://open.spotify.com/track/5xD2mynFEvpCeiGhHQ1Bhs) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [قررنا نحن الآتي](https://open.spotify.com/album/2W1Mwi7IveKLYEY8xOGIYK) | 2:16 | 2025-07-17 |  |
 | [قرشين \- من مسلسل الصفارة](https://open.spotify.com/track/1QuYAH5uQbKbgwIIoNAyeY) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4) | [قرشين \(من مسلسل الصفارة\)](https://open.spotify.com/album/2xQ9rA1RUl12vpUZ6I8IKn) | 2:30 | 2023-04-05 | 2023-05-19 |
 | [قصة مزيفة](https://open.spotify.com/track/5KUNZ148oHYGRnJcr3bzfN) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [قصة مزيفة](https://open.spotify.com/album/0WobgoHP2uoUsLzmLCFdpt) | 3:39 | 2025-06-20 | 2025-08-08 |
 | [قطة](https://open.spotify.com/track/0v5nyqpVowUr0kts3vblsg) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [قطة](https://open.spotify.com/album/7IUL5SCeD6zuRAAwkbdQFQ) | 3:04 | 2024-09-06 | 2024-11-08 |
+| [قفل الكلام](https://open.spotify.com/track/4MwaSykMfnUKZCrEJZwoTx) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [قفل الكلام](https://open.spotify.com/album/5PAXuBpnWEvA3DwuAtr7D1) | 4:00 | 2025-10-11 |  |
 | [قلب إتدفن](https://open.spotify.com/track/6xTx0hhLkZQYIjM1uRnDJf) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [قلب إتدفن](https://open.spotify.com/album/7N12eSAx3UgGRPJKon4Kvs) | 3:11 | 2022-02-16 | 2022-05-19 |
 | [قلبك](https://open.spotify.com/track/1XgQfLsakDjS5xJyp2dOJW) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [قلبك](https://open.spotify.com/album/0oFivDs4AJxQ78OQi0HTlv) | 3:26 | 2023-06-22 | 2023-07-21 |
 | [قلبي الشقي](https://open.spotify.com/track/7oSXYJ4i7fCmLIssv6e80u) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [قلبي الشقي](https://open.spotify.com/album/2zccPRTAvgKoZdLYRiP3ks) | 3:36 | 2024-07-24 | 2024-09-13 |

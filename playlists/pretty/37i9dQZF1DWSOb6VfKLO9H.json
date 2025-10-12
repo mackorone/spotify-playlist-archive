@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 101819,
+  "num_followers": 101844,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "18 Plus",
+        "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Finest Sno",
+          "url": "https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "18 Plus",
+      "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Beats By Esko",
         "url": "https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 197290,
       "name": "Hey Meisje",
       "url": "https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "18 Plus",
-        "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Finest Sno",
-          "url": "https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "18 Plus",
-      "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "POSITIE",
-        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 200970,
-      "name": "POSITIE",
-      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Omlaag",
         "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 196958,
       "name": "Omlaag",
       "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "POSITIE",
+        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 200970,
+      "name": "POSITIE",
+      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
-      },
-      "artists": [
-        {
-          "name": "Dyna",
-          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Betasten",
         "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 185459,
       "name": "Betasten",
       "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
+      },
+      "artists": [
+        {
+          "name": "Dyna",
+          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
-      },
-      "artists": [
-        {
-          "name": "Priceless",
-          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "HIT-SIG",
         "url": "https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 179277,
       "name": "Ai",
       "url": "https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
+      },
+      "artists": [
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
     },
     {
       "added_at": "2024-07-19 06:38:33",

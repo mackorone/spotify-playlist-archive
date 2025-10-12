@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Jero Romero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,863 likes - 102 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,871 likes - 102 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

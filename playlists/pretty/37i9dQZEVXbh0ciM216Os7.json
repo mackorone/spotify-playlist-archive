@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAR3O+ZS4w9ufoTNF+hW9mg",
+  "snapshot_id": "AAAAAAAAAABrBE3BfH7mwvHvwajKr05E",
   "tracks": [
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 322881,
-      "name": "Girl Like Me + Kaytranada",
-      "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
-    },
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
@@ -51,62 +31,6 @@
       "duration_ms": 439125,
       "name": "The Manifesto (feat. Trueno and Proof)",
       "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
-        "url": "https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 343384,
-      "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
-      "url": "https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "I Am Blessed (Ginton Remix)",
-        "url": "https://open.spotify.com/album/0lXLKn06wP04Brjuh1DplB"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        }
-      ],
-      "duration_ms": 194606,
-      "name": "I Am Blessed - Ginton Remix",
-      "url": "https://open.spotify.com/track/0sg50sKNjateKRZbVURa9G"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "Don't Let It Get Ya Down",
-        "url": "https://open.spotify.com/album/2B4MBqHBcgLKl9JBS6V0zb"
-      },
-      "artists": [
-        {
-          "name": "Jackson Whalan",
-          "url": "https://open.spotify.com/artist/4DC3sI1OQyd1gYxmbNCKzX"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Don't Let It Get Ya Down",
-      "url": "https://open.spotify.com/track/0liIvGq65czcR3zNqrGzpD"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -135,6 +59,46 @@
       "duration_ms": 211765,
       "name": "Lost in the Rhythm",
       "url": "https://open.spotify.com/track/75FNuINS5GHcdnjjmumcQk"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
+        "name": "Don't Let It Get Ya Down",
+        "url": "https://open.spotify.com/album/2B4MBqHBcgLKl9JBS6V0zb"
+      },
+      "artists": [
+        {
+          "name": "Jackson Whalan",
+          "url": "https://open.spotify.com/artist/4DC3sI1OQyd1gYxmbNCKzX"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Don't Let It Get Ya Down",
+      "url": "https://open.spotify.com/track/0liIvGq65czcR3zNqrGzpD"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -243,22 +207,38 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
-        "name": "Don't Remind Me (with Anderson .Paak)",
-        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+        "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
+        "url": "https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
         }
       ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+      "duration_ms": 343384,
+      "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
+      "url": "https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 322881,
+      "name": "Girl Like Me + Kaytranada",
+      "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -303,6 +283,26 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
+        "name": "Bring More Bass",
+        "url": "https://open.spotify.com/album/6eFlbIP5AHAW37yweDF4eP"
+      },
+      "artists": [
+        {
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 138984,
+      "name": "Bring More Bass",
+      "url": "https://open.spotify.com/track/4UpNfIG3m3PtzliICnhZAb"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
         "name": "Straight In The Front Gay In The Back",
         "url": "https://open.spotify.com/album/34bqqSNl1zOgzwjLtJ2SfZ"
       },
@@ -315,6 +315,26 @@
       "duration_ms": 120256,
       "name": "Straight In The Front Gay In The Back",
       "url": "https://open.spotify.com/track/0WOk8RYT0ojKMsKd6M13PH"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
+        "name": "I Am Blessed (Ginton Remix)",
+        "url": "https://open.spotify.com/album/0ytJuZz6ZhOJWvQP7AZp6f"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        }
+      ],
+      "duration_ms": 194606,
+      "name": "I Am Blessed - Ginton Remix",
+      "url": "https://open.spotify.com/track/79KbAvCPvnjRZPeJGjqCLp"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -355,6 +375,22 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
+        "name": "Shame, Shame, Shame",
+        "url": "https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 245798,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
         "name": "War Pigs (Charity Version)",
         "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
@@ -375,42 +411,6 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
-        "name": "Shame, Shame, Shame",
-        "url": "https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 245798,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/2eIrVnq65F5EwNFm6vyFtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        },
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/2eAyPnMrdMLkuYaUQsWl8K"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
         "name": "Sincerely: P.S.",
         "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
@@ -427,26 +427,6 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "Dali Aint Dead",
-        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
-      },
-      "artists": [
-        {
-          "name": "Zelooperz",
-          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
-        },
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 102295,
-      "name": "Push Me Around",
-      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -491,18 +471,22 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
-        "name": "Zunge 2025",
-        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
+        "name": "Dali Aint Dead",
+        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
       },
       "artists": [
         {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        },
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
         }
       ],
-      "duration_ms": 212387,
-      "name": "Prostitution",
-      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
+      "duration_ms": 102295,
+      "name": "Push Me Around",
+      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -531,38 +515,18 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
-        "name": "Golden (Goes Metal)",
-        "url": "https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq"
+        "name": "Zunge 2025",
+        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
       },
       "artists": [
         {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        },
-        {
-          "name": "Artificial Fear",
-          "url": "https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr"
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
         }
       ],
-      "duration_ms": 212332,
-      "name": "Golden (Goes Metal)",
-      "url": "https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 115207,
-      "name": "GMFU",
-      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
+      "duration_ms": 212387,
+      "name": "Prostitution",
+      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -591,22 +555,18 @@
     {
       "added_at": "2025-10-10 04:00:00",
       "album": {
-        "name": "MadRaps",
-        "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 130263,
-      "name": "Daddy's Girl",
-      "url": "https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs"
+      "duration_ms": 115207,
+      "name": "GMFU",
+      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -623,74 +583,6 @@
       "duration_ms": 183489,
       "name": "Vacancy",
       "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "ROLLIN",
-        "url": "https://open.spotify.com/album/0PBa3a98a38IPY1MmIWXb0"
-      },
-      "artists": [
-        {
-          "name": "Steelz",
-          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "Bandhunta Izzy",
-          "url": "https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "ROLLIN",
-      "url": "https://open.spotify.com/track/3mollwQwxPP620GyKn5B8H"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "She's the One (with Surfer Girl & Tropidelic)",
-        "url": "https://open.spotify.com/album/5wuPyXzlUfPTFDdOIXjoFC"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "She's the One (with Surfer Girl & Tropidelic)",
-      "url": "https://open.spotify.com/track/7erVJFuGtHC9p7VvuMqxx4"
-    },
-    {
-      "added_at": "2025-10-10 04:00:00",
-      "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 145587,
-      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
-      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
     },
     {
       "added_at": "2025-10-10 04:00:00",
@@ -719,6 +611,22 @@
       "duration_ms": 221187,
       "name": "Stereo (High Contrast Remix)",
       "url": "https://open.spotify.com/track/0rFFjLdIq4SlFAZvKXrPUR"
+    },
+    {
+      "added_at": "2025-10-10 04:00:00",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 145587,
+      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
+      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
     },
     {
       "added_at": "2025-10-10 04:00:00",

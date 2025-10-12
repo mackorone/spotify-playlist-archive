@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-08 12:55:22",
       "album": {
-        "name": "\u5b9f\u9a13\u4e2d / \u767d\u65e5\u306e\u3082\u3068",
-        "url": "https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u767d\u65e5\u306e\u3082\u3068",
-      "url": "https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d"
-    },
-    {
-      "added_at": "2025-10-08 12:55:22",
-      "album": {
         "name": "\u58f0\u547d - Seimei",
         "url": "https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 177266,
       "name": "\u58f0\u547d - Seimei",
       "url": "https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8"
+    },
+    {
+      "added_at": "2025-10-08 12:55:22",
+      "album": {
+        "name": "\u5b9f\u9a13\u4e2d / \u767d\u65e5\u306e\u3082\u3068",
+        "url": "https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u767d\u65e5\u306e\u3082\u3068",
+      "url": "https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d"
     },
     {
       "added_at": "2025-10-08 12:55:22",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-10-08 12:55:22",
       "album": {
+        "name": "3%\u3068\u79c1\u3002",
+        "url": "https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 290218,
+      "name": "3%\u3068\u79c1\u3002",
+      "url": "https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt"
+    },
+    {
+      "added_at": "2025-10-08 12:55:22",
+      "album": {
         "name": "One Week",
         "url": "https://open.spotify.com/album/7s7QxgCO8l3E3Ifs8L0NrL"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2025-10-08 12:55:22",
       "album": {
-        "name": "3%\u3068\u79c1\u3002",
-        "url": "https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 290218,
-      "name": "3%\u3068\u79c1\u3002",
-      "url": "https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt"
-    },
-    {
-      "added_at": "2025-10-08 12:55:22",
-      "album": {
         "name": "\u30de\u30b8\u30ab\u30eb\u30b9\u30bf\u30fc\u30b7\u30e3\u30a4\u30f3\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u2606",
         "url": "https://open.spotify.com/album/4PTU9k1Iws0fagPE5U2zFe"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-10-08 12:55:22",
       "album": {
-        "name": "\u305f\u3086\u305f\u3046\u307e\u307e\u306b",
-        "url": "https://open.spotify.com/album/0UMRde9b3pNBHXTXUKDS3K"
+        "name": "On Your Marks",
+        "url": "https://open.spotify.com/album/12EuI81Qrwh0JEQ8g6Z9xw"
       },
       "artists": [
         {
-          "name": "\u307f\u3055\u304d",
-          "url": "https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 238426,
-      "name": "\u305f\u3086\u305f\u3046\u307e\u307e\u306b",
-      "url": "https://open.spotify.com/track/0CChuQNcBctCFFC17znqRd"
+      "duration_ms": 373068,
+      "name": "On Your Marks",
+      "url": "https://open.spotify.com/track/108CYp22He0dl3r50jdW4F"
     }
   ],
   "unique_name": "Women's Voice",

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:7nfBxjb99prCqaT3wk87u5">Samba Jean\-Baptiste</a> on cover\. Artwork by Thami Nabil
 
-2,102 songs - 6 day 19 hr 14 min
+2,103 songs - 6 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Automatic](https://open.spotify.com/track/3B8ozK6655EMpVkiHtGMns) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Purity](https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG) | 1:22 | 2025-09-24 |  |
 | [Automatic](https://open.spotify.com/track/3tbmLPdCNICzKpjBL1rbXj) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Automatic](https://open.spotify.com/album/3eWsdAMtE9W8CqyKItiFqm) | 1:22 | 2025-09-03 | 2025-09-26 |
 | [Avaz\-e\-Del](https://open.spotify.com/track/1aungVYjP15s0WNgRha9Rf) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Ground Groove](https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC) | 2:10 | 2023-03-15 | 2023-05-11 |
+| [Avenâl](https://open.spotify.com/track/1JvuhqlW3X2uFLvtstIraT) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Surtùm](https://open.spotify.com/album/4NsyYFWO27hfETGC7w2WK5) | 5:21 | 2025-10-10 |  |
 | [AWA](https://open.spotify.com/track/7J7wCNvDVQJn8jYyU5tPOY) | [FUJI\|\|\|\|\|\|\|\|\|\|TA](https://open.spotify.com/artist/4qM4BdTOGQcKYLUi8nrhhU) | [NOISEEM](https://open.spotify.com/album/6mYvo9iMRcunyNFiYtaFt1) | 22:32 | 2021-11-25 | 2021-12-02 |
 | [Awhile](https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Awhile](https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a) | 2:57 | 2024-01-10 | 2025-07-31 |
 | [Awkward Matriarch](https://open.spotify.com/track/3pEVcZMDjePXD9PoDHSQFl) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 5:06 | 2021-06-04 | 2021-08-05 |
@@ -1049,7 +1050,7 @@
 | [Lluviácida](https://open.spotify.com/track/2m0uz2JRA6tgjJOdOq08H5) | [Kenji Araki](https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi) | [Leidenzwang](https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8) | 3:13 | 2022-06-29 | 2022-08-25 |
 | [Lockdown](https://open.spotify.com/track/6GyOUBtRy4VUzy0JZ2Ekii) | [Pleasure Jail](https://open.spotify.com/artist/2NZdfKP93cYmTR78K6Qxu7), [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV), [Braille](https://open.spotify.com/artist/6guzHo8qNlMC96zsznV5NP) | [Lockdown](https://open.spotify.com/album/2emL74iUDdxJmcasi7vcyj) | 4:15 | 2021-02-26 | 2021-04-13 |
 | [London Tipton Remix](https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J) | [Fetish](https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [London Tipton Remix](https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09) | 2:44 | 2025-01-29 | 2025-06-06 |
-| [Lonely Woman](https://open.spotify.com/track/5q5cwKF98rdbbu3eyN125y) | [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03) | [Old and New Dreams chapter.1『序』](https://open.spotify.com/album/0ILOEUHGGyFUzN4SYDiYUs) | 7:04 | 2025-07-30 |  |
+| [Lonely Woman](https://open.spotify.com/track/5q5cwKF98rdbbu3eyN125y) | [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03) | [Old and New Dreams chapter.1『序』](https://open.spotify.com/album/0ILOEUHGGyFUzN4SYDiYUs) | 7:04 | 2025-07-30 | 2025-10-12 |
 | [Look](https://open.spotify.com/track/1MtQHHR98b9oq9yYcon0RB) | [Tek lintowe](https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx) | [Weird backwards path](https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1) | 2:41 | 2023-05-17 | 2023-08-31 |
 | [Look How Far We Have Come](https://open.spotify.com/track/76hh1Y1h27wPpS0GS7VkN6) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 9:08 | 2021-07-23 | 2021-09-30 |
 | [Loops of Retreat \- Single Edit](https://open.spotify.com/track/5V37ZuX3kSxew674fiSrnn) | [JJJJJerome Ellis](https://open.spotify.com/artist/3RYJmTI1Jxf3MfmxsBxWg0) | [Loops of Retreat](https://open.spotify.com/album/2EQVxmpvkBjLhzUfe6sJuG) | 5:09 | 2021-09-30 | 2021-11-27 |

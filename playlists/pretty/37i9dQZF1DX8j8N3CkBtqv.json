@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Bawari Basanti, Naalayak and other exciting artists.\n",
-  "num_followers": 98097,
+  "num_followers": 98101,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
         "name": "Sawaal",
         "url": "https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Raaz",
         "url": "https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "AKELE",
-        "url": "https://open.spotify.com/album/2oIwSmIxmfDH9Ii2PWBMCN"
-      },
-      "artists": [
-        {
-          "name": "Aditya Bhardwaj",
-          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
-        }
-      ],
-      "duration_ms": 164235,
-      "name": "AKELE",
-      "url": "https://open.spotify.com/track/2oqkFrmirTIKvSF7y2O73Y"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "DHA",
         "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 214545,
       "name": "DHA",
       "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "AKELE",
+        "url": "https://open.spotify.com/album/2oIwSmIxmfDH9Ii2PWBMCN"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "duration_ms": 164235,
+      "name": "AKELE",
+      "url": "https://open.spotify.com/track/2oqkFrmirTIKvSF7y2O73Y"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Sab Sahi",
-        "url": "https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE"
+        "name": "rang",
+        "url": "https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7"
       },
       "artists": [
         {
-          "name": "Dream Note",
-          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Sab Sahi",
-      "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
+      "duration_ms": 209224,
+      "name": "ahista",
+      "url": "https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "rang",
-        "url": "https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7"
+        "name": "Sab Sahi",
+        "url": "https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE"
       },
       "artists": [
         {
-          "name": "Anumita Nadesan",
-          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
         }
       ],
-      "duration_ms": 209224,
-      "name": "ahista",
-      "url": "https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4"
+      "duration_ms": 204000,
+      "name": "Sab Sahi",
+      "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
+        "name": "I\u2019m Done.",
+        "url": "https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Mazaak",
+          "url": "https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "I\u2019m Done.",
+      "url": "https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
         "name": "Thokro Ke Dhabe",
         "url": "https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb"
       },
@@ -775,30 +795,6 @@
       "duration_ms": 225416,
       "name": "Jaane Do Mujhe",
       "url": "https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
-        "name": "Aadha Adhoora",
-        "url": "https://open.spotify.com/album/5YWnke7xLv8imLicuEBpM5"
-      },
-      "artists": [
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
-        },
-        {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
-        }
-      ],
-      "duration_ms": 175362,
-      "name": "Aadha Adhoora",
-      "url": "https://open.spotify.com/track/4Nn9DFq3aybmKKp7tk9jYv"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -839,6 +835,30 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
+        "name": "Aadha Adhoora",
+        "url": "https://open.spotify.com/album/5YWnke7xLv8imLicuEBpM5"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "duration_ms": 175362,
+      "name": "Aadha Adhoora",
+      "url": "https://open.spotify.com/track/4Nn9DFq3aybmKKp7tk9jYv"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
         "name": "What Comes After",
         "url": "https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 305121,
       "name": "What Comes After",
       "url": "https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
-        "name": "I\u2019m Done.",
-        "url": "https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT"
-      },
-      "artists": [
-        {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
-        },
-        {
-          "name": "Mazaak",
-          "url": "https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "I\u2019m Done.",
-      "url": "https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm"
     },
     {
       "added_at": "2025-10-10 07:59:03",

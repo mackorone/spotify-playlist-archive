@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Huan62
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,992 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,067 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 56 | [Juguete](https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Juguete](https://open.spotify.com/album/4DPeS9ttivsTffSYPmBLGv) | 2:49 |
 | 57 | [Rap De La Mata](https://open.spotify.com/track/5nWhXXiBWBUaeX0PT7HSw8) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Rap De La Mata](https://open.spotify.com/album/3xvgo39y5SlwPX2hzYqOmN) | 2:59 |
 | 58 | [A Ella Le Gusta](https://open.spotify.com/track/0IBvsHS4XnQl1qUBy1qqmK) | [Lil Lighter](https://open.spotify.com/artist/5hTlODtx6UZrMYMSpiNFd8), [El Kable](https://open.spotify.com/artist/3hbiGjxZ86peyzzA5N4hil) | [A Ella Le Gusta](https://open.spotify.com/album/3xyT4FYEpHyXQ57Cdi1wxZ) | 2:22 |
-| 59 | [Que Mueran](https://open.spotify.com/track/3HsuiHj3hvbraRaLZ0R1On) | [Blanco 03](https://open.spotify.com/artist/3z5SY175ATL5XnYzpyXCLO), [Rony Alca](https://open.spotify.com/artist/6f9dqXCJ5pB3tSOMnim6Qp) | [Que Mueran](https://open.spotify.com/album/4cTCUh9UOPlutXz67mTws3) | 2:48 |
+| 59 | [Que Mueran](https://open.spotify.com/track/3HsuiHj3hvbraRaLZ0R1On) | [Blanco 03](https://open.spotify.com/artist/3z5SY175ATL5XnYzpyXCLO), [David D.G.1](https://open.spotify.com/artist/6VJ9YhBi5s4euh7aCFnr3x) | [Que Mueran](https://open.spotify.com/album/4cTCUh9UOPlutXz67mTws3) | 2:48 |
 | 60 | [Peluches](https://open.spotify.com/track/0mMclrCqn949LAAPLb35I3) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [Peluches](https://open.spotify.com/album/0MOLibd4rPZ7dg4LR4yfvO) | 1:49 |
 | 61 | [Por Amor](https://open.spotify.com/track/6OiLsc7FEiM9mLwW3W92cz) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Por Amor](https://open.spotify.com/album/1n64N2o7GxBsT700Zqvgor) | 2:16 |
 | 62 | [De To'](https://open.spotify.com/track/5FlG5nuarSJ2Ln7ffTnwNH) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb), [Mandrake El Malocorita](https://open.spotify.com/artist/7z4uW6xL36waxCZxj5MpN0) | [De To'](https://open.spotify.com/album/73rTxyUw6l968q4UZQgDOx) | 2:45 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 66 | [ALTITAJE](https://open.spotify.com/track/3QO1BO2Dy9IoxiKGjSemRU) | [LiI Naay](https://open.spotify.com/artist/6y3UJsRO3xybnwKBRx8diF) | [ALTITAJE](https://open.spotify.com/album/1sBwxycb6MCco6fYzpKTDc) | 2:19 |
 | 67 | [Hoy Me Levante](https://open.spotify.com/track/5pk8dbxZQLOTPX0zb5Cfld) | [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg) | [Hoy Me Levante](https://open.spotify.com/album/4UECoXGwzMGY9epoNB547Q) | 3:12 |
 | 68 | [MAMI](https://open.spotify.com/track/6kIgbMVOOiBvStNpTZffUp) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [MAMI](https://open.spotify.com/album/6Ms3bJNtv4GZYp2aZivLsg) | 1:45 |
-| 69 | [Tuya](https://open.spotify.com/track/1eUED5qyPWyCiKqmqTecn0) | [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg), [Tipo El Que Sabe](https://open.spotify.com/artist/2gqzuEr6ytKqa4KyrzlYmk) | [Tuya](https://open.spotify.com/album/4gW2cZwovkIxOn6FpASrF1) | 3:16 |
+| 69 | [Tuya](https://open.spotify.com/track/1eUED5qyPWyCiKqmqTecn0) | [Tipo El Que Sabe](https://open.spotify.com/artist/2gqzuEr6ytKqa4KyrzlYmk), [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg) | [Tuya](https://open.spotify.com/album/4gW2cZwovkIxOn6FpASrF1) | 3:16 |
 | 70 | [DIOS LO QUIZO ASÍ](https://open.spotify.com/track/0eYxHp5xLmvIgvVWs32BwG) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [DIOS LO QUIZO ASÍ](https://open.spotify.com/album/6YBJv6hSsmWvwsp7vqJ349) | 2:52 |
 | 71 | [La Blicky](https://open.spotify.com/track/5boz6LFoXBm0DdgYwhal9n) | [Jordani](https://open.spotify.com/artist/0it6z33DV0QPR7m85tyhjz), [Papy Crish](https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6) | [La Blicky](https://open.spotify.com/album/5SfWw63a91a9va5i7o6whc) | 2:00 |
 | 72 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 |

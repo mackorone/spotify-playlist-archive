@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 134643,
       "name": "Andere Niveau",
       "url": "https://open.spotify.com/track/3XonaIpRmNAxmbjZgTTvSy"
@@ -31197,6 +31197,28 @@
     },
     {
       "album": {
+        "name": "THE ESSENCE",
+        "url": "https://open.spotify.com/album/0F4VMwBs6WyLR8YVyZysJp"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176010,
+      "name": "QUE CE SOIT CLAIR",
+      "url": "https://open.spotify.com/track/2bwet19EI2xvhAlfMis6mH"
+    },
+    {
+      "album": {
         "name": "QUE CE SOIT CLAIR",
         "url": "https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx"
       },
@@ -31212,7 +31234,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 176010,
       "name": "QUE CE SOIT CLAIR",
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"
@@ -34604,7 +34626,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
@@ -37513,6 +37535,24 @@
     },
     {
       "album": {
+        "name": "Nina Blaze (Timeless Soul&Blues) Full Album",
+        "url": "https://open.spotify.com/album/2AY1EL1yiyv85YOWyvwkXt"
+      },
+      "artists": [
+        {
+          "name": "Nina Blaze",
+          "url": "https://open.spotify.com/artist/3ZqJbUCCCgtTCgGhWgrEOq"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237559,
+      "name": "The Hollow Hour",
+      "url": "https://open.spotify.com/track/17QTI91mSI8rVYVfN5h2a1"
+    },
+    {
+      "album": {
         "name": "The Last Airbender (VIP)",
         "url": "https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n"
       },
@@ -38694,7 +38734,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 238405,
       "name": "Traagskes Groeien",
       "url": "https://open.spotify.com/track/7x56DylaWz5SsQ1yPhO0wL"
@@ -41920,6 +41960,28 @@
       "duration_ms": 171008,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/1TixQRG8d8TbqUmq7vArHK"
+      },
+      "artists": [
+        {
+          "name": "scout7",
+          "url": "https://open.spotify.com/artist/0sScSsHzyQJkmdSkJhl9pd"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171235,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/05LJBYsf5AmcfOP6DXulRK"
     },
     {
       "album": {

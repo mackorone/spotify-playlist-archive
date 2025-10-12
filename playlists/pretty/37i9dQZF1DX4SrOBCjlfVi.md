@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, G Herbo, PLUTO and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,731 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,797 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 5 | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh) | 2:07 |
 | 6 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 |
 | 7 | [I Don't Mind](https://open.spotify.com/track/4d4QJL64iAgiHtLIl2I8S5) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Grit & Grace](https://open.spotify.com/album/2V3mfZot5KgRs2lZoEzkPO) | 2:46 |
-| 8 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:39 |
+| 8 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:40 |
 | 9 | [Love On An Island \(feat\. NoCap\)](https://open.spotify.com/track/6aLdesi5uOkzg9zTIrGXiT) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Love On An Island \(feat\. NoCap\)](https://open.spotify.com/album/6CtRCw71nNBxYSzCUhZXtz) | 3:01 |
 | 10 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
 | 11 | [Big League](https://open.spotify.com/track/0IJUlGQ63YekEKqOqCBAwW) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Big League](https://open.spotify.com/album/5i1A6MAX211sEepnn8kozo) | 1:58 |

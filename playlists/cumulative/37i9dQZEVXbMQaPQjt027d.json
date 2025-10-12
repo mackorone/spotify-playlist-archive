@@ -820,7 +820,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 187727,
       "name": "Boccaccio",
       "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 160208,
       "name": "Instant Moments",
       "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -6516,10 +6516,32 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
+    },
+    {
+      "album": {
+        "name": "TOPBOY : Tome 1",
+        "url": "https://open.spotify.com/album/5dZImBvYOJxHYOXtRrwJWy"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111764,
+      "name": "VIANO",
+      "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"
     },
     {
       "album": {
@@ -6545,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "46 - Vol avontuur",
+        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150734,
+      "name": "Vol avontuur",
+      "url": "https://open.spotify.com/track/1dWVNtxHec9l4iHg2YsymB"
+    },
+    {
+      "album": {
         "name": "Vol avontuur",
         "url": "https://open.spotify.com/album/1txxR6AhJym8skXydiLFci"
       },
@@ -6556,7 +6596,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 150734,
       "name": "Vol avontuur",
       "url": "https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ"
@@ -6826,6 +6866,28 @@
       "duration_ms": 171008,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/1TixQRG8d8TbqUmq7vArHK"
+      },
+      "artists": [
+        {
+          "name": "scout7",
+          "url": "https://open.spotify.com/artist/0sScSsHzyQJkmdSkJhl9pd"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171235,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/05LJBYsf5AmcfOP6DXulRK"
     },
     {
       "album": {

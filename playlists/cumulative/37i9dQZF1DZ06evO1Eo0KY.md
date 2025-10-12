@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 6 min
+132 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Murderous Tendencies](https://open.spotify.com/track/7e2dyHP03pkwPpHF9EEaTJ) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:29 | 2024-01-13 |  |
 | [Nice Try Wrong Guy](https://open.spotify.com/track/3m7eR0cEDZnrKuGJ6uTPhI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 3:06 | 2025-08-22 |  |
 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 | 2025-06-22 | 2025-08-10 |
+| [No Blemishes](https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [No Blemishes](https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX) | 2:46 | 2025-10-12 |  |
 | [No Pun Intended](https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [No Pun Intended](https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL) | 3:14 | 2023-12-13 | 2024-01-21 |
 | [No Pun Intended](https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:14 | 2024-01-20 |  |
 | [Notre Dame](https://open.spotify.com/track/5pEa8zLhRTC1jqSFxK7hU7) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:29 | 2025-05-07 | 2025-10-10 |

@@ -10255,6 +10255,24 @@
     },
     {
       "album": {
+        "name": "Instantes",
+        "url": "https://open.spotify.com/album/1aK8BH5vIpA1Qqj9ZKD0Fe"
+      },
+      "artists": [
+        {
+          "name": "Caio & Breno",
+          "url": "https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "Sem Flash",
+      "url": "https://open.spotify.com/track/6cwGVxzcIw5cbdETpuT88s"
+    },
+    {
+      "album": {
         "name": "Sem Flash",
         "url": "https://open.spotify.com/album/4wcsGvEjTc9vXnueCOQGwX"
       },
@@ -10266,7 +10284,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 157178,
       "name": "Sem Flash",
       "url": "https://open.spotify.com/track/3GNwCcnhPVyQYp2NDHgSsU"

@@ -1,6 +1,6 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2314488,
+  "num_followers": 2314490,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Helmet",
-      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
       "artists": [
         {
-          "name": "OK Go",
-          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 179813,
-      "name": "Here It Goes Again",
-      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
+      "duration_ms": 354139,
+      "name": "Islands of Men",
+      "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
+      },
+      "artists": [
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Here It Goes Again",
+      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
         "name": "Gone Now",
         "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 215546,
       "name": "Don't Take The Money",
       "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 354139,
-      "name": "Islands of Men",
-      "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 208980,
-      "name": "Temper Temper",
-      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
         "name": "help herself",
         "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 208980,
+      "name": "Temper Temper",
+      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "The Runarounds (Prime Video Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
-      },
-      "artists": [
-        {
-          "name": "The Runarounds",
-          "url": "https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY"
-        }
-      ],
-      "duration_ms": 241718,
-      "name": "Senior Year (From The Runarounds Original Series)",
-      "url": "https://open.spotify.com/track/0jzh6tm2MV1YmNi1xqUf1Z"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 236245,
       "name": "Before You I Just Forget",
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
+      },
+      "artists": [
+        {
+          "name": "The Runarounds",
+          "url": "https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY"
+        }
+      ],
+      "duration_ms": 241718,
+      "name": "Senior Year (From The Runarounds Original Series)",
+      "url": "https://open.spotify.com/track/0jzh6tm2MV1YmNi1xqUf1Z"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "The Runarounds (Prime Video Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
-      },
-      "artists": [
-        {
-          "name": "The Runarounds",
-          "url": "https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY"
-        }
-      ],
-      "duration_ms": 174109,
-      "name": "Minivan (From The Runarounds Original Series)",
-      "url": "https://open.spotify.com/track/4z139kKnG94XHJkYNc62wT"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178304,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
+      },
+      "artists": [
+        {
+          "name": "The Runarounds",
+          "url": "https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY"
+        }
+      ],
+      "duration_ms": 174109,
+      "name": "Minivan (From The Runarounds Original Series)",
+      "url": "https://open.spotify.com/track/4z139kKnG94XHJkYNc62wT"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2ZGmAsD1mMWyLpFF9WxpGR"
+        "name": "Dead Beat City",
+        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
       },
       "artists": [
         {
-          "name": "In Color",
-          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+          "name": "Kids That Fly",
+          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
         }
       ],
-      "duration_ms": 169927,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/7shaHtNeaR9wolLuJOLqfH"
+      "duration_ms": 233496,
+      "name": "Dead Beat City",
+      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Dead Beat City",
-        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2ZGmAsD1mMWyLpFF9WxpGR"
       },
       "artists": [
         {
-          "name": "Kids That Fly",
-          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
         }
       ],
-      "duration_ms": 233496,
-      "name": "Dead Beat City",
-      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
+      "duration_ms": 169927,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/7shaHtNeaR9wolLuJOLqfH"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "The Pit (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 187731,
-      "name": "What's In My Head",
-      "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
         "name": "No Place Like Home",
         "url": "https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 146904,
       "name": "Over You",
       "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "The Pit (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 187731,
+      "name": "What's In My Head",
+      "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Bad Bad News",
-        "url": "https://open.spotify.com/album/6Y989i2swgje49NjskB3o6"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
         "name": "Magpie",
         "url": "https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 241290,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "Bad Bad News",
+        "url": "https://open.spotify.com/album/6Y989i2swgje49NjskB3o6"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
+        "name": "Vickie",
+        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 223944,
+      "name": "Vickie",
+      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
         "name": "Weird",
         "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
-        "name": "Dayglow (Superbloom)",
-        "url": "https://open.spotify.com/album/6dUHXp9LdTRR4Xg8VJ8WlG"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 216048,
-      "name": "Self-Esteem",
-      "url": "https://open.spotify.com/track/7bMMM8BJdo7EmlkcTFlfaY"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
+        "name": "Dayglow (Superbloom)",
+        "url": "https://open.spotify.com/album/6dUHXp9LdTRR4Xg8VJ8WlG"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 216048,
+      "name": "Self-Esteem",
+      "url": "https://open.spotify.com/track/7bMMM8BJdo7EmlkcTFlfaY"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
       },
@@ -2287,38 +2303,6 @@
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
-        "name": "Vickie",
-        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 223944,
-      "name": "Vickie",
-      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
-        "name": "All the Noise",
-        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 179858,
-      "name": "All the Noise",
-      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -2343,18 +2327,18 @@
     {
       "added_at": "2025-10-10 04:00:39",
       "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
       },
       "artists": [
         {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Forbidden Doors",
-      "url": "https://open.spotify.com/track/397MnnXkJ3TTlqey1oWM51"
+      "duration_ms": 179858,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -2371,6 +2355,38 @@
       "duration_ms": 231466,
       "name": "Cold Reactor",
       "url": "https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Forbidden Doors",
+      "url": "https://open.spotify.com/track/397MnnXkJ3TTlqey1oWM51"
+    },
+    {
+      "added_at": "2025-10-10 04:00:39",
+      "album": {
+        "name": "Nights in Armor",
+        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Nights in Armor",
+      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -2419,22 +2435,6 @@
       "duration_ms": 203154,
       "name": "Ain\u2019t For The Faint",
       "url": "https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB"
-    },
-    {
-      "added_at": "2025-10-10 04:00:39",
-      "album": {
-        "name": "Nights in Armor",
-        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Nights in Armor",
-      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
     },
     {
       "added_at": "2025-10-10 04:00:39",

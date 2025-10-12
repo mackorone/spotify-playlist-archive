@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 248526,
+  "num_followers": 248564,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOb7AAAAAABYJFAT4c51WcpSdxGGsDn/",
+  "snapshot_id": "aOhMgAAAAAAFpxnA1+hCmxVGzqAV4zkb",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 341700,
       "name": "Qui\u00e9n la Quiere (Versi\u00f3n Cumbap)",
       "url": "https://open.spotify.com/track/5TalqlVwgpzztykdIECLTP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bend\u00edceme",
+        "url": "https://open.spotify.com/album/1HOnMrBOSfdRskbpWXxqes"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Juaninacka",
+          "url": "https://open.spotify.com/artist/6a7aRbyLNHHiwqgLh87Mpy"
+        }
+      ],
+      "duration_ms": 331150,
+      "name": "Bend\u00edceme",
+      "url": "https://open.spotify.com/track/6gVMbhZ9e9lRRcHymUK629"
     },
     {
       "added_at": null,
@@ -915,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        }
-      ],
-      "duration_ms": 166499,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
       },
@@ -951,6 +951,26 @@
       "duration_ms": 207000,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "duration_ms": 166499,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
     },
     {
       "added_at": null,
@@ -1031,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vela al Pastel",
-        "url": "https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 284500,
-      "name": "Otra Vela al Pastel",
-      "url": "https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -1075,18 +1071,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
+        "name": "Otra Vela al Pastel",
+        "url": "https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
+      "duration_ms": 284500,
+      "name": "Otra Vela al Pastel",
+      "url": "https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK"
     }
   ],
   "unique_name": "This Is Charles Ans",

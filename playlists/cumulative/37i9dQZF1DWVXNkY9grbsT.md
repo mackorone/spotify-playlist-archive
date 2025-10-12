@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-559 songs - 1 day 22 hr 39 min
+560 songs - 1 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Reflejo](https://open.spotify.com/track/6555TzyEWY0FMiR8QKKXIg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 9:06 | 2022-09-20 | 2023-04-30 |
 | [Relacional](https://open.spotify.com/track/0LXnwxKWZ21A2bmKe7Qm0m) | [Mucho Sueño](https://open.spotify.com/artist/0ohtInQhL4yYgwv7PdBCMM) | [Relacional](https://open.spotify.com/album/29Jd8KosRaZANCLxCg77dw) | 3:22 | 2021-12-26 | 2023-08-12 |
 | [Resonate](https://open.spotify.com/track/3vLRWk9nnsJ89ShbHm9LTI) | [Daniel\[i\]](https://open.spotify.com/artist/58LrfqsxqAGuNcS1DQuGmy), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [WHS 03](https://open.spotify.com/album/4BFWLUtEhCs9BjbjfLtRQ9) | 7:13 | 2021-12-26 | 2023-02-22 |
+| [Rest](https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [New Moon](https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI) | 3:30 | 2025-10-10 |  |
 | [Retour](https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl), [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Retour](https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8) | 7:05 | 2021-12-26 | 2023-08-12 |
 | [Ried\-Brig](https://open.spotify.com/track/0uvgTUYXQlyppvYnJ4sn87) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Ried\-Brig](https://open.spotify.com/album/0weTA3RmLBaGc9AOPkrOvl) | 5:33 | 2025-05-23 |  |
 | [Ripple Effect](https://open.spotify.com/track/2PVDBUJc1n0Ol2wQUUUiiG) | [Portable](https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR) | [Ripple Effect](https://open.spotify.com/album/5O81fNq7mq7GYbeUQUFbfu) | 4:17 | 2022-01-23 | 2022-07-12 |
@@ -548,7 +549,7 @@
 | [Who You Are](https://open.spotify.com/track/7B8kFfDxMuQxR0nB7ZD1RM) | [Etibar Asadli](https://open.spotify.com/artist/1pxYHvjHJul1t7PFTZaf9c) | [Who You Are](https://open.spotify.com/album/2flEFWLYGlxaX6JR3AY3Pl) | 4:24 | 2022-01-28 | 2022-07-12 |
 | [Wild Animal](https://open.spotify.com/track/04mOMGg8C8h8sJMALXhQB4) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/7wxd4u4qDhBamLFUUp4J2H) | 3:55 | 2022-04-01 | 2023-02-24 |
 | [Wild Animal](https://open.spotify.com/track/77lMQKLRs97Qoveegdf2TA) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU) | 3:55 | 2023-03-23 | 2023-08-12 |
-| [Wind Coda](https://open.spotify.com/track/0usjnwYFIaYMqQtx9IZ5HE) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Hudson River Wind Meditations](https://open.spotify.com/album/7yNcLjGJPVqmtkWQtzBwa9) | 5:22 | 2025-05-12 |  |
+| [Wind Coda](https://open.spotify.com/track/0usjnwYFIaYMqQtx9IZ5HE) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Hudson River Wind Meditations](https://open.spotify.com/album/7yNcLjGJPVqmtkWQtzBwa9) | 5:22 | 2025-05-12 | 2025-10-12 |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t) | 3:29 | 2023-12-01 |  |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF) | 3:29 | 2023-04-21 | 2024-04-19 |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/49w8Me7pwfgdHidun5OXEh) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/79FJtZq42O1z9ISnqZqMWL) | 3:29 | 2023-01-16 | 2023-04-30 |

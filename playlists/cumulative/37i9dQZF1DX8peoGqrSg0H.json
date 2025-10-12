@@ -4271,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "HOMETOWN",
+        "url": "https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "WONDERING",
+      "url": "https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1"
+    },
+    {
+      "album": {
         "name": "Space Shuttle No.8",
         "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
@@ -4780,7 +4798,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 166265,
       "name": "\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e25\u0e30\u0e01\u0e31\u0e19 (friend to friend)",
       "url": "https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl"

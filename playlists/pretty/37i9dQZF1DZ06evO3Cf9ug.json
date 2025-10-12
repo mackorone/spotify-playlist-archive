@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 126906,
+  "num_followers": 126941,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOb7AAAAAACNtzzTH8SLvoxAkkLSw+T3",
+  "snapshot_id": "aOhMgAAAAADIzuBkefiP3csS+0Inu3Kz",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/6SgqTgKf5zgaCLGecrp8Kn"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 213658,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/4Ieod2ueT9GEEz9ILN84qP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr Rebel",
         "url": "https://open.spotify.com/album/5j85aoLtCfduYh17a2Evlr"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 236382,
       "name": "Mr Rebel",
       "url": "https://open.spotify.com/track/4SYnhnD6V2sqa6Zc0SsGlq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackmagic Version 3.0 (Starving Artist)",
-        "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
-      },
-      "artists": [
-        {
-          "name": "Blackmagic",
-          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Palmwine Express",
         "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 168247,
       "name": "Tales By Moonlight",
       "url": "https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackmagic Version 3.0 (Starving Artist)",
+        "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
+      },
+      "artists": [
+        {
+          "name": "Blackmagic",
+          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 184799,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
     },
     {
       "added_at": null,

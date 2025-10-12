@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Beat Tub (Prod. STUTS)",
+        "url": "https://open.spotify.com/album/5awtrUBRl1i2aMDuISywYR"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250512,
+      "name": "Beat Tub (Prod. STUTS)",
+      "url": "https://open.spotify.com/track/3ljgp3F2ag2EdtUkm459tu"
+    },
+    {
+      "album": {
         "name": "because",
         "url": "https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG"
       },
@@ -1019,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Oh",
+        "url": "https://open.spotify.com/album/2qHLv0U8pxGV7nAHinJiuU"
+      },
+      "artists": [
+        {
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245613,
+      "name": "Oh",
+      "url": "https://open.spotify.com/track/4fWRIQBUH9VaWpz9E5ZFc7"
+    },
+    {
+      "album": {
         "name": "One Last Kiss",
         "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
       },
@@ -1260,7 +1300,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 222066,
       "name": "Send To You",
       "url": "https://open.spotify.com/track/2cZykG7K1deBkOsObi59s8"
@@ -1426,10 +1466,32 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 161066,
       "name": "THRIFTED",
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
+    },
+    {
+      "album": {
+        "name": "Timing (feat. Aile The Shota)",
+        "url": "https://open.spotify.com/album/1beJCTdsjyb0csYlFGLkYm"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200714,
+      "name": "Timing (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/4Y89nPuXPbDW25asqiYLN5"
     },
     {
       "album": {
@@ -1582,7 +1644,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 178946,
       "name": "\u304d\u3068\u304d\u3068",
       "url": "https://open.spotify.com/track/4NUFCzfamR4M5XDO0LrJEf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Helena, Eefje de Visser, David Guetta, Aya Nakamura and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,658 likes - 103 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,657 likes - 103 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 18 | [Sunlight](https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Sunlight](https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a) | 3:01 |
 | 19 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 |
 | 20 | [SENTIMENTAL](https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SENTIMENTAL](https://open.spotify.com/album/6yWYL1AlHmkWVbuHKppErm) | 3:15 |
-| 21 | [LITTERALEMENT](https://open.spotify.com/track/0YfudQI8rnWLsJzik6KXLa) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [QUITTE OU DOUBLE](https://open.spotify.com/album/5EcsbghQuLiOaeQ8CSd6g4) | 2:43 |
+| 21 | [LITTÉRALEMENT](https://open.spotify.com/track/0YfudQI8rnWLsJzik6KXLa) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [QUITTE OU DOUBLE](https://open.spotify.com/album/5EcsbghQuLiOaeQ8CSd6g4) | 2:43 |
 | 22 | [Bellingham](https://open.spotify.com/track/4RDHXWDAtconkH6iR27oPK) | [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Bellingham](https://open.spotify.com/album/16IdpYImUyote1klxlMr9s) | 2:48 |
 | 23 | [Colorado](https://open.spotify.com/track/1Ts0zlCzeDWxvkkkqFGtoS) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [Colorado](https://open.spotify.com/album/5ni9on7V15Zzyjs75M6jhP) | 3:04 |
 | 24 | [Wacht Op Mij](https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wacht Op Mij](https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV) | 3:06 |

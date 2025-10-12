@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e0\u05d2\u05d4 \u05d0\u05e8\u05d6",
-  "num_followers": 32720,
+  "num_followers": 32726,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-09 21:00:30",
       "album": {
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
+      },
+      "artists": [
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+    },
+    {
+      "added_at": "2025-10-09 21:00:30",
+      "album": {
         "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
         "url": "https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 308662,
       "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1"
-    },
-    {
-      "added_at": "2025-10-09 21:00:30",
-      "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
-      },
-      "artists": [
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     },
     {
       "added_at": "2025-10-09 21:00:30",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-10-09 21:00:30",
       "album": {
-        "name": "ZION",
-        "url": "https://open.spotify.com/album/38Z5tXyDoEyv6OGMlQhwjX"
+        "name": "\u05d0\u05d9\u05dc\u05d4 \u05d0\u05e9\u05dc\u05d7 \u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/1LcwE7siQHYJR0atJhbDkU"
       },
       "artists": [
         {
-          "name": "Ester Rada",
-          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+          "name": "Efrat Ben Zur",
+          "url": "https://open.spotify.com/artist/24Uedubv9DjcvC9AEXGv4X"
         }
       ],
-      "duration_ms": 235349,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/2V0D9VEUCZjGu4vsrSJUnJ"
+      "duration_ms": 249951,
+      "name": "\u05d0\u05d9\u05dc\u05d4 \u05d0\u05e9\u05dc\u05d7 \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/3QETeHZMMN1yWEbtiFeWDB"
     },
     {
       "added_at": "2025-10-09 21:00:30",

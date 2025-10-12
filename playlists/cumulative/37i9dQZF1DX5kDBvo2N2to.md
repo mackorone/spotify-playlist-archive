@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-423 songs - 22 hr 37 min
+424 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Dina Ögon Är Nakna](https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt) | [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Dina Ögon Är Nakna](https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX) | 3:20 | 2024-06-28 | 2025-01-19 |
 | [Ditt hjärta bor](https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om \(lyxversion\)](https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2) | 2:39 | 2024-06-28 | 2024-08-30 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2025-01-19 |
-| [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-12 |  |
+| [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-12 | 2025-10-12 |
 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 | 2025-04-24 |  |
 | [Driver dagg faller regn](https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Driver dagg faller regn](https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N) | 3:47 | 2024-11-08 | 2025-02-02 |
 | [Du kan inte ljuga för mig](https://open.spotify.com/track/7FUHlgux4d0OKwSfHr5GjR) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Du kan inte ljuga för mig](https://open.spotify.com/album/5wffGfpzCjHgaXe3SUndLN) | 2:27 | 2025-08-07 | 2025-09-14 |
@@ -292,6 +292,7 @@
 | [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 | 2025-09-25 |  |
 | [NYLON](https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [NYLON](https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm) | 2:38 | 2024-11-08 | 2025-05-23 |
 | [Någon annan än dig](https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Någon annan än dig](https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB) | 2:44 | 2025-05-29 |  |
+| [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 | 2025-10-09 |  |
 | [OKEJ](https://open.spotify.com/track/7c2lgsV1U2bWUoNMmctf0A) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [OKEJ](https://open.spotify.com/album/6fah1g2OizBaCkgx4NbZBj) | 3:02 | 2025-03-27 | 2025-04-04 |
 | [Old Memories](https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Old Memories](https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5) | 2:30 | 2024-09-13 | 2025-03-28 |
 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 | 2025-09-25 |  |

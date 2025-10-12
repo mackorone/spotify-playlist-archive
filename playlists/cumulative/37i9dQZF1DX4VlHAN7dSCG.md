@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 我是機車少女 \(I'mdifficult\)
 
-739 songs - 2 day 0 hr 11 min
+740 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Pay Money to Wonderland](https://open.spotify.com/track/79G0a7PcfACuuOHV4cOJIS) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [Pay Money to Wonderland](https://open.spotify.com/album/2JlrOB3nvj3oI18aTNRPvR) | 0:58 | 2024-11-14 | 2024-12-06 |
 | [Perfect Timing](https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ) | [Joshua Band](https://open.spotify.com/artist/0i6Ug2VPQVjkTAjxk8wLJK) | [You Fight For Me](https://open.spotify.com/album/0rMKfChBk4re59Vc1GJdgD) | 4:23 | 2025-01-23 | 2025-02-21 |
 | [PLEASE TRUST ME](https://open.spotify.com/track/7guXplBzMwObJKRXYLQtNK) | [蘇菲花園樂隊](https://open.spotify.com/artist/3lrOoXaMTvHP5wzei7fNej) | [PLEASE TRUST ME](https://open.spotify.com/album/3mpnWvmiwy52bXwuRI9L9A) | 4:44 | 2025-10-02 |  |
+| [POP\-UP LIFE cc](https://open.spotify.com/track/4Nn7Yalr9CYBh2vVujjTnR) | [Mola Oddity](https://open.spotify.com/artist/7cw3Yw21RFUzZA744fIYH7) | [Cave Crackers](https://open.spotify.com/album/19zYi4KKz5cGJ9tkEZpcBc) | 3:18 | 2025-10-09 |  |
 | [Post Punk](https://open.spotify.com/track/0puyGlCHyrETtAdViXn0UO) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Pilot](https://open.spotify.com/album/7mcF805eSGYDKe1Qp34nkA) | 3:50 | 2025-04-10 | 2025-05-09 |
 | [RAFFLESIA](https://open.spotify.com/track/2rsq4qTPtIxEUQ5ZhgfUT8) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [RAFFLESIA](https://open.spotify.com/album/718T0hpAgXHWc8qe4goBEq) | 3:16 | 2025-07-31 | 2025-08-15 |
 | [repeating](https://open.spotify.com/track/2HjDPVyT7mC5ZiajZUL55Y) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX), [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [repeating](https://open.spotify.com/album/1Tr4Exuyq9xIvmq6mPGLve) | 3:09 | 2024-07-25 | 2024-09-13 |

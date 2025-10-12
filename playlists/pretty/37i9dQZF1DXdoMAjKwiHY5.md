@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,439 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,450 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 58 | [Why Can't I?](https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:28 |
 | 59 | [Shattered \(Turn The Car Around\)](https://open.spotify.com/track/6jlqDfX8TQNxcaAz5oxYJA) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [All Sides \(Deluxe Edition\)](https://open.spotify.com/album/4zIj9ork17FV1FdYWAr4TG) | 4:15 |
 | 60 | [Amazing](https://open.spotify.com/track/3fbKJNrsPJwye98LTGm4Ok) | [Josh Kelley](https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW) | [For The Ride Home](https://open.spotify.com/album/249eg0DXm5sJegopxGvjhf) | 3:45 |
-| 61 | [Nothing Left to Lose](https://open.spotify.com/track/4MzV7oB4N73FD7pCQjzDIa) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose \(Expanded Edition\)](https://open.spotify.com/album/4QOiSutKuxZ50zokHhz4QN) | 4:23 |
+| 61 | [Nothing Left To Lose](https://open.spotify.com/track/4MzV7oB4N73FD7pCQjzDIa) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose \(Expanded Edition\)](https://open.spotify.com/album/4QOiSutKuxZ50zokHhz4QN) | 4:23 |
 | 62 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 |
 | 63 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 |
 | 64 | [Clarity](https://open.spotify.com/track/6atVS7UZBxoyJkkteM62u5) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 4:31 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,584 songs - 5 day 14 hr 52 min
+2,587 songs - 5 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [2 Clips Bitch \- EQUAL2 Remix](https://open.spotify.com/track/4lXE7wLqtv4lKXVVtwufbD) | [Trespassed](https://open.spotify.com/artist/4P64zOuVtzLwvGEMasQXl5), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Winner](https://open.spotify.com/album/5TJgu4LcL0eMjxRhFRnpGz) | 3:40 | 2023-02-25 |  |
 | [2 The Dancefloor](https://open.spotify.com/track/5tXRfttyAP6yKz4bszk4nC) | [Bioweapon](https://open.spotify.com/artist/3EfUmgy6o1IOQBL4vXKgwd) | [Time Capsule Part I](https://open.spotify.com/album/4FxEoj4IxGCTWHuqB00Ntj) | 3:13 | 2025-02-07 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2023-10-06 |  |
+| [2008](https://open.spotify.com/track/4qFXZQJzUfp1hlCyo6ne7q) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Everything Changes \(Deluxe\)](https://open.spotify.com/album/3dcqbyl39nPsTqnqffnAR6) | 3:33 | 2025-10-12 |  |
 | [4AM](https://open.spotify.com/track/5WOZ2Cd1q8cTtxXr1TEx8E) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY) | [4AM](https://open.spotify.com/album/1gz3wHvGsoswJVvpKvv5MD) | 3:03 | 2023-07-29 |  |
 | [4U](https://open.spotify.com/track/6bIKZ9Xl3NgX25JZmB9uWV) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [R3T3P](https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN), [Mr Ravage](https://open.spotify.com/artist/4iuVB9N1O8MsspGw4UTDsI) | [4U](https://open.spotify.com/album/1WjsFpd03L6R7dNBpclTye) | 2:40 | 2022-10-07 |  |
 | [666](https://open.spotify.com/track/30klniKPGoQthRjWQWgmsC) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [666](https://open.spotify.com/album/4C0peDBhRnYlGhlz62YYK5) | 2:44 | 2023-02-20 |  |
@@ -678,6 +679,7 @@
 | [Electronic Universe](https://open.spotify.com/track/2RNfcVb3cE39PztJECqdDI) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Electronic Universe](https://open.spotify.com/album/4Xb07nPtieoHVPNX5hZsGW) | 4:06 | 2024-06-28 |  |
 | [ElektraWave](https://open.spotify.com/track/3JhzSXcPe9EH76bENsBsYC) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:19 | 2024-05-23 |  |
 | [ELEVATE](https://open.spotify.com/track/06VY4MKBM2rcuKh8nV8eYK) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G) | [ELEVATE](https://open.spotify.com/album/3MWEqOBzIQBpCP9bCn9aL8) | 2:29 | 2025-06-21 |  |
+| [elevate \(Bumloco Remix\)](https://open.spotify.com/track/5WZcHaHfyrC8WR2dJlEmrd) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [elevate \(Bumloco Remix\)](https://open.spotify.com/album/1R7BGXpSqiFKRosc5R57yv) | 2:42 | 2025-10-12 |  |
 | [elevate our mind](https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [RE\-PULZE](https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd) | [elevate our mind](https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo) | 3:16 | 2024-05-29 |  |
 | [ELEVATION](https://open.spotify.com/track/6jzaIQzlZCf9rivDUQrXSn) | [Harde Kwark](https://open.spotify.com/artist/5SjhdpP4tRVwxaEujxIml3) | [ELEVATION](https://open.spotify.com/album/28hV7PEyPE6wjKRiTT9BON) | 3:00 | 2025-08-22 |  |
 | [Embrace The Madness](https://open.spotify.com/track/5OeI4NJFcLOWKrhIrFWuo4) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Embrace The Madness](https://open.spotify.com/album/7xg3KTzOiLsDv994OopLEz) | 2:54 | 2025-05-18 |  |
@@ -1040,6 +1042,7 @@
 | [Hear the beat commin](https://open.spotify.com/track/3cJUkJjyRXP6dbSBGqgssf) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [We Live for the Night](https://open.spotify.com/album/4FZjK9Sjw0ehnMtcR7km9S) | 3:06 | 2023-08-07 |  |
 | [Hear the Music](https://open.spotify.com/track/5Ef9gO7belTIl9Pqeor1wT) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [Hear the Music](https://open.spotify.com/album/3U7609hXFHG9zdXDrCaaWi) | 2:36 | 2025-07-22 |  |
 | [Heart Bass](https://open.spotify.com/track/44i1tIz1Iq0iY7wLJ34FLo) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Heart Bass](https://open.spotify.com/album/3f33K8wrd96oHZvZDucbai) | 3:19 | 2024-07-19 |  |
+| [Heart Drumz](https://open.spotify.com/track/3I1U1R2W8jEuardXH1jzE3) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Heart Drumz](https://open.spotify.com/album/6Zh1X8R2nkfRITF1AOkuyF) | 2:30 | 2025-10-12 |  |
 | [Heart Of Gold](https://open.spotify.com/track/5ePiJNuPV2zI72zM4MLx6I) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Heart Of Gold](https://open.spotify.com/album/0a6OozDCGdX8KtwIZTNG21) | 3:49 | 2025-06-01 |  |
 | [Heart On Fire \(Remix\) \- Radio Edit](https://open.spotify.com/track/3UwhfScDq8lObOLpOBOHZN) | [Fracus & Darwin](https://open.spotify.com/artist/07VU01S53IQXG9yXvqRKeL) | [Heart On Fire \(Remix\)](https://open.spotify.com/album/3n2OABR3rPovNvkOACVQUB) | 3:07 | 2022-09-05 |  |
 | [Heartache](https://open.spotify.com/track/6D58y0FkssslpxMqC2UfB9) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Heartache](https://open.spotify.com/album/3l79VbT1LAHSIVB3Scrsk4) | 3:11 | 2023-07-14 |  |

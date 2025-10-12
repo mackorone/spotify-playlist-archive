@@ -206,7 +206,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 166080,
       "name": "Can't Dance - Club Radio Edit",
       "url": "https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 175200,
       "name": "Can't Dance - Radio Edit",
       "url": "https://open.spotify.com/track/7KtcHEhIAIrTFqVIB0JoPH"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 162646,
       "name": "Do You Wanna Be Loved Like This?",
       "url": "https://open.spotify.com/track/4hgldGd2RGsSRV6w2ixAy3"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 177925,
       "name": "Get Lucky (With Kelli-Leigh)",
       "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
@@ -784,6 +784,28 @@
       "duration_ms": 174240,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0udQn3SIcXZYGwFyOO4jgi"
+    },
+    {
+      "album": {
+        "name": "Let's Get Out (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/1yUloZsZ8CrVgs7blLi6gX"
+      },
+      "artists": [
+        {
+          "name": "Kokiri",
+          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Let's Get Out (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/5Pdx1LMniboZdeF62JkPHW"
     },
     {
       "album": {
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 210303,
       "name": "Say Yes - Radio Edit",
       "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"

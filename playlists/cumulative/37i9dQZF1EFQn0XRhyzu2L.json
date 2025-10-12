@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-12",
       "duration_ms": 257088,
       "name": "Mind Blown",
       "url": "https://open.spotify.com/track/1vxAOvcfXfrVzjJntqrizw"
@@ -6836,6 +6836,32 @@
       "duration_ms": 216136,
       "name": "Mind Blown",
       "url": "https://open.spotify.com/track/6arAjuNdQKBBcaa6Ozkjr5"
+    },
+    {
+      "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/6WtNWoJQqSWkha9uv8Qst5"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "Mind Blown (feat. Future, Waka Flocka)",
+      "url": "https://open.spotify.com/track/6TBboQO46XROTn2NNtZRER"
     },
     {
       "album": {
