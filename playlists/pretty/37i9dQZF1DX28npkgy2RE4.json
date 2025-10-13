@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 420374,
+  "num_followers": 420367,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Pressure Machine (Abridged)",
-        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
         }
       ],
-      "duration_ms": 204466,
-      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
-      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -627,18 +623,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+        "name": "Pressure Machine (Abridged)",
+        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+      "duration_ms": 204466,
+      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
+      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "notes to self",
         "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Solid Heart",
-        "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 218017,
-      "name": "Solid Heart",
-      "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1511,6 +1495,22 @@
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Solid Heart",
+        "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 218017,
+      "name": "Solid Heart",
+      "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Watch The Stars",
         "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 225076,
       "name": "We Watch The Stars - Berlin Session",
       "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "100 Proof",
-        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        }
-      ],
-      "duration_ms": 238300,
-      "name": "100 Proof",
-      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mouth (feat. Luke Krutzke)",
         "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
       },
@@ -2071,18 +2055,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Bummer Year",
-        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
+        "name": "100 Proof",
+        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
       },
       "artists": [
         {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
         }
       ],
-      "duration_ms": 271120,
-      "name": "Bummer Year",
-      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
+      "duration_ms": 238300,
+      "name": "100 Proof",
+      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Slice of Life",
-        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
+        "name": "Bummer Year",
+        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
       },
       "artists": [
         {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
         }
       ],
-      "duration_ms": 283922,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
+      "duration_ms": 271120,
+      "name": "Bummer Year",
+      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2131,6 +2115,22 @@
       "duration_ms": 173008,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Slice of Life",
+        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 283922,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "On A Beach",
         "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Wilderness Within You",
-        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 230366,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Where I Should End",
         "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 224666,
       "name": "Turn Away",
       "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2025-02-07 05:00:36",

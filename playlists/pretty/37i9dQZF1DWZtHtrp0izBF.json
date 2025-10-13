@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 43453,
+  "num_followers": 43516,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 276581,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Desde Un Principio / From The Beginning",
-        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
     },
     {
       "added_at": "2024-09-06 20:51:37",

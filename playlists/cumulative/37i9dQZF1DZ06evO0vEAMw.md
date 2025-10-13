@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-168 songs - 9 hr 19 min
+169 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ALASKA \(feat\. Davido, Hell Raton & Shiva\)](https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:10 | 2022-10-12 | 2023-04-02 |
 | [All Of You](https://open.spotify.com/track/5N7a6DRcTKdym90PV9O3MC) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:07 | 2022-03-09 | 2022-04-16 |
 | [Anything](https://open.spotify.com/track/1eBS61fYNgOFTNdOVkyuJr) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:02 | 2025-04-20 | 2025-09-09 |
+| [Apala Drill](https://open.spotify.com/track/46nS1TZZF8HjLTk2Ew7R1L) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 2:15 | 2025-10-13 |  |
 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 | 2023-12-13 |  |
 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 | 2021-12-28 | 2023-08-17 |
 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 | 2023-04-01 |  |
@@ -175,6 +176,6 @@
 | [With You \(feat\. Omah Lay\) \- MoBlack Remix](https://open.spotify.com/track/5uh7yHRK2EzXfumYQgWDmL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [With You \(feat\. Omah Lay\) \[MoBlack Remix\]](https://open.spotify.com/album/0KE6nPhgkL0LxD2KccsnFa) | 3:19 | 2025-08-17 | 2025-09-09 |
 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 | 2021-12-28 |  |
 | [Wonder Woman](https://open.spotify.com/track/7Mlxx8SMVwG36rVGjvRCEP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Wonder Woman](https://open.spotify.com/album/2aMlq0mM1bhA2CdVChIclZ) | 3:56 | 2021-12-28 | 2022-10-13 |
-| [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 | 2024-08-03 |  |
+| [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 | 2024-08-03 | 2025-10-13 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -1095,6 +1095,32 @@
     },
     {
       "album": {
+        "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
+        "url": "https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234820,
+      "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
+      "url": "https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf"
+    },
+    {
+      "album": {
         "name": "Time Served (Deluxe)",
         "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
       },
@@ -1982,7 +2008,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"

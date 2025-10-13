@@ -4,7 +4,7 @@
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 41 min
+96 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Beautiful Thieves](https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 | 2022-10-25 |  |
 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 | 2023-12-13 |  |
 | [Begging For Trouble](https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 | 2022-10-25 | 2023-12-14 |
-| [Behind the Clock](https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Behind the Clock](https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED) | 3:57 | 2025-08-07 |  |
+| [Behind the Clock](https://open.spotify.com/track/1ivG7dgrhWN5I1oavQaIMF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:57 | 2025-10-13 |  |
+| [Behind the Clock](https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Behind the Clock](https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED) | 3:57 | 2025-08-07 | 2025-10-13 |
 | [Blasphemy & Excess](https://open.spotify.com/track/5BAA4TvfHuuOqNntDkxmXJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:04 | 2025-10-05 |  |
 | [Bleed Black](https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:14 | 2023-12-13 |  |
 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 | 2022-10-25 | 2023-04-20 |
@@ -58,7 +59,7 @@
 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 | 2022-10-25 |  |
 | [Miseria Cantare \- The Beginning](https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:56 | 2022-10-25 | 2023-12-14 |
 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 | 2022-10-25 |  |
-| [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 | 2022-10-25 | 2025-10-12 |
+| [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 | 2022-10-25 |  |
 | [Of Greetings And Goodbyes](https://open.spotify.com/track/1PzXACkaohcYjcWTZx4lWR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:04 | 2024-05-13 | 2024-07-24 |
 | [On Your Back](https://open.spotify.com/track/0uwDEG8QrLC9jN9okXGLJx) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 | 2022-10-29 | 2022-10-31 |
 | [On Your Back](https://open.spotify.com/track/5b9yz8F5xxHMEmBHflPn11) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 | 2025-03-02 | 2025-09-11 |
@@ -75,7 +76,7 @@
 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 | 2022-10-25 | 2025-10-05 |
 | [Summer Shudder](https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:06 | 2022-10-25 |  |
 | [Synthesthesia](https://open.spotify.com/track/4uMscEq4sURfrYTC7hQQxh) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:30 | 2024-10-07 | 2025-01-18 |
-| [The Bird of Prey](https://open.spotify.com/track/6hmoFL5DGUNpjyA5diJ2kk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:08 | 2025-10-05 |  |
+| [The Bird of Prey](https://open.spotify.com/track/6hmoFL5DGUNpjyA5diJ2kk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:08 | 2025-10-05 | 2025-10-13 |
 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 | 2022-10-25 |  |
 | [The Checkered Demon](https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:08 | 2024-05-10 | 2025-10-05 |
 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 | 2022-10-25 |  |

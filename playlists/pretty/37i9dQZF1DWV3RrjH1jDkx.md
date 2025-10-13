@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Stig Brenner, Roc Boyz,  SKAAR og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,983 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,997 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

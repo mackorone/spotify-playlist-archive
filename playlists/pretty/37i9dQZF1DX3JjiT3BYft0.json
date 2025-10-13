@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78134,
+  "num_followers": 78141,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
+        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 322546,
+      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
         "name": "Don't be afraid!",
         "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 266066,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
-        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 322546,
-      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
     },
     {
       "added_at": "2025-10-02 16:34:34",

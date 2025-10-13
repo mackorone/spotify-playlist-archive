@@ -4,7 +4,7 @@
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 43 min
+106 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,10 @@
 | [Chapo Guzmán](https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:41 | 2022-06-01 |  |
 | [Chuy Y Mauricio](https://open.spotify.com/track/04xO1gevudj8k7y2wTGTjC) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:51 | 2022-06-01 |  |
 | [Cien Por Uno](https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 | 2022-06-01 |  |
-| [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 | 2022-06-01 |  |
+| [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 | 2022-06-01 | 2025-10-13 |
 | [Compa Alfredito](https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:02 | 2022-06-07 | 2025-09-13 |
 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 | 2022-06-01 |  |
+| [Corazon Duro \(En Vivo\)](https://open.spotify.com/track/0fV373c5T4q4UbjiG64zdm) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En Vivo Desde Culiacan Con Servando ZL](https://open.spotify.com/album/50LIglz8oy1KJ9ys8GjEbB) | 3:44 | 2025-10-13 |  |
 | [Cuanto Me Gusta Este Rancho / La Prieta Linda \- En Vivo](https://open.spotify.com/track/5tQRDOJrTS2DRXIoNoqfoF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 7:13 | 2022-06-13 | 2022-07-12 |
 | [Cuanto Tienes Cuanto Vales](https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:26 | 2023-08-18 | 2024-06-12 |
 | [De Huarache y Sombrero / Huarache De Tres Piquetes](https://open.spotify.com/track/5NrcpNz06ZxDwjKFv13Ja5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Daniel Ortiz](https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8) | [Al Millon Y Medio Y Pasaditooo](https://open.spotify.com/album/6zM6WwCnlkpiLnLVJI9ksS) | 2:42 | 2022-06-29 | 2023-12-15 |

@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -882,6 +882,28 @@
       "duration_ms": 81446,
       "name": "Brainrot Rap",
       "url": "https://open.spotify.com/track/4RhxWMTPGToprUiU2mvWy4"
+    },
+    {
+      "album": {
+        "name": "Brainrot Rap (brr brr)",
+        "url": "https://open.spotify.com/album/1sS0FTiGUp8T9LghwV1TTK"
+      },
+      "artists": [
+        {
+          "name": "Gazzarino",
+          "url": "https://open.spotify.com/artist/4BoTna9gEMXM6YLxrM78w7"
+        },
+        {
+          "name": "Mandolino Pizzarino",
+          "url": "https://open.spotify.com/artist/216Dfpb87JLJDhy56h4CMj"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156452,
+      "name": "Brainrot Rap (brr brr) - Exteneded",
+      "url": "https://open.spotify.com/track/7KTmTezZjoo7c4lcYrFYkF"
     },
     {
       "album": {
@@ -2364,7 +2386,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 204168,
       "name": "Go Shawty",
       "url": "https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x"
@@ -6538,7 +6560,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"
@@ -6884,10 +6906,28 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 171235,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/05LJBYsf5AmcfOP6DXulRK"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/6OV7qwV1ERbmRWwcS0Ez61"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171284,
+      "name": "Where Have You Been - Orchestra",
+      "url": "https://open.spotify.com/track/7j1BIjEAE2Z9BosUwMk1Vg"
     },
     {
       "album": {

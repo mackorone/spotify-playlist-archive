@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Khalid
 
-1,152 songs - 2 day 11 hr 31 min
+1,153 songs - 2 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [FRAUD](https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FRAUD](https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ) | 3:00 | 2022-06-24 | 2022-07-16 |
 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 | 2021-12-17 | 2022-01-11 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-04-15 | 2022-09-24 |
-| [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-06-06 |  |
+| [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-06-06 | 2025-10-13 |
 | [Friends To Miami \(feat\. Meek Mill\)](https://open.spotify.com/track/4c0KvrQOCf05c4ED2MWmHC) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Friends To Miami \(feat\. Meek Mill\)](https://open.spotify.com/album/5Udw8gmbrtoUo6H3E0l0MA) | 3:36 | 2025-01-31 | 2025-02-15 |
 | [Frontin & Crushin \(with Arin Ray & Blackway\)](https://open.spotify.com/track/5SlJKOCunYf4HIkktFBr0M) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:19 | 2025-04-04 |  |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-02-24 | 2023-04-01 |
@@ -621,6 +621,7 @@
 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-12 | 2023-05-20 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 |  |
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-06 | 2024-03-16 |
+| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 |  |
 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-13 | 2023-11-25 |
 | [MIA \(feat\. Chlöe\)](https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:40 | 2024-12-06 | 2025-05-10 |
 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-18 | 2025-10-12 |

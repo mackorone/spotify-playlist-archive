@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Daniel Caesar
 
-1,504 songs - 3 day 7 hr 15 min
+1,505 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2023-12-22 | 2024-02-24 |
 | [Made to Fall in Love](https://open.spotify.com/track/67PfKFPREimYeu8UPAUVAK) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/2AxOupTQ54kHBQkqTLT03M) | 4:53 | 2021-03-19 | 2022-07-02 |
 | [Magazines](https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 2: Transformation](https://open.spotify.com/album/7mBzvKYy1dMv2jaeq8H6Ri) | 3:14 | 2021-03-19 | 2022-04-16 |
+| [Magnify](https://open.spotify.com/track/5SN0zJOEIA1nUlstP6QKee) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Magnify](https://open.spotify.com/album/60dw1Si8TWEXO57JG5XAK3) | 3:10 | 2025-10-10 |  |
 | [Magpie](https://open.spotify.com/track/2Mf5TqpbjwS5lPAjKBA4yJ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Butter\-Fly](https://open.spotify.com/album/4JffvJGAbqTkmnDRfkq2hf) | 3:34 | 2022-04-01 | 2022-04-07 |
 | [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 | 2024-03-29 | 2024-09-09 |
 | [Make Myself Happy](https://open.spotify.com/track/7INoWmYc2paIoyjqgNYqfo) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Make Myself Happy \(feat\. Floyd Fuji\)](https://open.spotify.com/album/6g6yhytUFFQ2vshNfEoC8y) | 2:57 | 2024-05-24 | 2024-08-10 |
@@ -1179,7 +1180,7 @@
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-04-01 | 2022-11-05 |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-05-20 | 2023-07-22 |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-05 | 2024-06-29 |
-| [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 | 2024-05-31 |  |
+| [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 | 2024-05-31 | 2025-10-13 |
 | [sPaCe \(528hz\)](https://open.spotify.com/track/23zct1MabUAB9WL1nR7WZW) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [sPaCe \(528hz\) / Coolest Girl In California](https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR) | 2:00 | 2023-09-08 | 2023-11-04 |
 | [Spacing Out](https://open.spotify.com/track/6YjAZ3ILDPH8AgTEtLrRrG) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spacing Out](https://open.spotify.com/album/6vX0B7KKVkzPJrPqTMnsQM) | 3:13 | 2022-04-01 | 2022-04-04 |
 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 | 2025-01-17 | 2025-03-04 |

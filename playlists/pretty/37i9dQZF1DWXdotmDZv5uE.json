@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
-  "num_followers": 133649,
+  "num_followers": 133647,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+      },
+      "artists": [
+        {
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
         "name": "Nostalgia Mexicana: El Salterio",
         "url": "https://open.spotify.com/album/2dNy6t9KGVA0xqwpWKY5It"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+        "name": "Caribe Mar Sincopado",
+        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
       },
       "artists": [
         {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+      "duration_ms": 294000,
+      "name": "El Balaj\u00fa",
+      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -187,22 +203,6 @@
       "duration_ms": 130493,
       "name": "El Siquisiri",
       "url": "https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Caribe Mar Sincopado",
-        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
-      },
-      "artists": [
-        {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "El Balaj\u00fa",
-      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
+        "name": "Nuestro M\u00e9xico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
+      },
+      "artists": [
+        {
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
+        }
+      ],
+      "duration_ms": 342933,
+      "name": "M\u00fasica de Mi Tierra: M\u00e9xico Lindo y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa",
+      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
         "name": "Por Los Caminos Del Sur",
         "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 158000,
       "name": "Por Los Caminos Del Sur",
       "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Nuestro M\u00e9xico",
-        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
-      },
-      "artists": [
-        {
-          "name": "Marimba Alma de Chiapas de Juan Palacios",
-          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
-        }
-      ],
-      "duration_ms": 342933,
-      "name": "M\u00fasica de Mi Tierra: M\u00e9xico Lindo y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa",
-      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
     },
     {
       "added_at": "2025-09-04 20:27:32",

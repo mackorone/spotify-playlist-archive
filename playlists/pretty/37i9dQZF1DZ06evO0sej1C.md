@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,844 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,853 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [⁠ ⁠⁠La Luz](https://open.spotify.com/track/25pDTDC3mcCHVEXwNICGDQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Mañana Será Otro Día](https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS) | 3:33 |
 | 50 | [Tú](https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tú](https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA) | 2:58 |
 
-Snapshot ID: `aOhMgAAAAAA5scDlAuOhGPdzaAtu+jJL`
+Snapshot ID: `aOmeAAAAAAD/W4BWOzK65b15x88Y5WtE`

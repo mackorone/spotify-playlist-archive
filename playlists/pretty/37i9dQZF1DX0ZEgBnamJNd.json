@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 52511,
+  "num_followers": 52527,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2021-03-29 13:28:49",
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Come Together - Remastered 2009",
-      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
-    },
-    {
       "added_at": "2020-04-20 05:39:13",
       "album": {
         "name": "The Dock of the Bay (Mono)",
@@ -139,6 +123,22 @@
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "added_at": "2021-03-29 13:28:49",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered 2009",
+      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163600,
       "name": "Eight Days A Week - Remastered 2009",
       "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Scarborough Fair / Canticle",
-      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
         "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "The Notorious Byrd Brothers",
-        "url": "https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B"
+        "name": "'Nuff Said (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
       },
       "artists": [
         {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 205840,
-      "name": "Goin' Back",
-      "url": "https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm"
+      "duration_ms": 176080,
+      "name": "Ain't Got No - I Got Life - Single Version",
+      "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "'Nuff Said (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
+        "name": "The Notorious Byrd Brothers",
+        "url": "https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
         }
       ],
-      "duration_ms": 176080,
-      "name": "Ain't Got No - I Got Life - Single Version",
-      "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
+      "duration_ms": 205840,
+      "name": "Goin' Back",
+      "url": "https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65"
     },
     {
+      "added_at": "2020-08-04 16:10:54",
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 276786,
+      "name": "The Green Manalishi (With the Two Prong Crown) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7nUVU3rsWpg4w01dahnAb9"
+    },
+    {
       "added_at": "2020-04-20 05:39:13",
       "album": {
         "name": "Complete Them (1964-1967) (feat. Van Morrison)",
@@ -1467,22 +1483,6 @@
       "duration_ms": 167346,
       "name": "Here Comes the Night (feat. Van Morrison)",
       "url": "https://open.spotify.com/track/3OfttbJAJNvkI4VwtZD2E7"
-    },
-    {
-      "added_at": "2020-08-04 16:10:54",
-      "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 276786,
-      "name": "The Green Manalishi (With the Two Prong Crown) - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7nUVU3rsWpg4w01dahnAb9"
     },
     {
       "added_at": "2020-04-20 05:39:13",

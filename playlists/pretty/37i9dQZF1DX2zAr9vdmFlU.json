@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 438152,
+  "num_followers": 438145,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 219252,
+      "name": "MALPORTADA",
+      "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 192075,
       "name": "White Wine",
       "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "MALPORTADA",
-        "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 219252,
-      "name": "MALPORTADA",
-      "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Harta",
         "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 185083,
       "name": "Harta",
       "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -723,6 +723,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 355019,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Esperando Verte",
         "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+        "name": "Danza de LA LOM",
+        "url": "https://open.spotify.com/album/7icPkLsJ0UZyyPmDTOoQg5"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
         }
       ],
-      "duration_ms": 355019,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
+      "duration_ms": 183428,
+      "name": "Danza de LA LOM",
+      "url": "https://open.spotify.com/track/01c4tTtVJjqo5iOanAaf6y"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -811,38 +827,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Danza de LA LOM",
-        "url": "https://open.spotify.com/album/7icPkLsJ0UZyyPmDTOoQg5"
-      },
-      "artists": [
-        {
-          "name": "LA LOM",
-          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Danza de LA LOM",
-      "url": "https://open.spotify.com/track/01c4tTtVJjqo5iOanAaf6y"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "inmortal",
-        "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 155601,
-      "name": "inmortal",
-      "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "inmortal",
+        "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 155601,
+      "name": "inmortal",
+      "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Curita",
-        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 206065,
-      "name": "Curita",
-      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Tiene Sabor",
         "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
@@ -975,6 +955,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Curita",
+        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 206065,
+      "name": "Curita",
+      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Rituales",
         "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Si estuvieras aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 302962,
-      "name": "Si estuvieras aqu\u00ed",
-      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
         "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 239800,
       "name": "Quien Sabe",
       "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Si estuvieras aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 302962,
+      "name": "Si estuvieras aqu\u00ed",
+      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 302000,
       "name": "Danz\u00f3n Para La Espera",
       "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Legados Bachata",
-        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 224261,
       "name": "Price of Life",
       "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Casa en el \u00e1rbol",
         "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 186000,
       "name": "Guapachosa",
       "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Desde Lejos",
+        "url": "https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Desde Lejos",
+      "url": "https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Desde Lejos",
-        "url": "https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Desde Lejos",
-      "url": "https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "La del bar",
-        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
-      },
-      "artists": [
-        {
-          "name": "G\u00e8rard",
-          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
-        }
-      ],
-      "duration_ms": 154378,
-      "name": "La del bar",
-      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Delicate & Jumpy",
         "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 223649,
       "name": "Together",
       "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "La del bar",
+        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
+      },
+      "artists": [
+        {
+          "name": "G\u00e8rard",
+          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "La del bar",
+      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
     },
     {
       "added_at": "2025-10-10 04:00:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37776,
+  "num_followers": 37784,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACL6pg0xW6XA61ltfd5POhZ",
+  "snapshot_id": "aOmeAAAAAAC89RPyRKi4vos3NSdkRxHl",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 315093,
-      "name": "How Come, How Long (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Night Out (Extended)",
         "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
       },
@@ -463,22 +443,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lips On Lips",
-        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
-          "name": "Tiffany Young",
-          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 315093,
+      "name": "How Come, How Long (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
+      },
+      "artists": [
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
         },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 226926,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+      "duration_ms": 79465,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
       "duration_ms": 233893,
       "name": "I Hope That You're Okay",
       "url": "https://open.spotify.com/track/1It1muRI7amf04F8W3Ufiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lips On Lips",
+        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 226926,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
     },
     {
       "added_at": null,
@@ -527,26 +547,6 @@
       "duration_ms": 239733,
       "name": "This Is for the Lover In You (feat. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels)",
       "url": "https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
-      },
-      "artists": [
-        {
-          "name": "Serayah",
-          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 79465,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
@@ -659,38 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "For The Cool In You",
-      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "It's No Crime",
-      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painted (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 217433,
       "name": "Shoulda (feat. Babyface)",
       "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "It's No Crime",
+      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Partners (Deluxe)",
         "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 194000,
       "name": "Evergreen (with Babyface)",
       "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-237 songs - 18 hr 10 min
+238 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Damsel in Distress: No\. 5\. Sing of Spring, "Spring is here" \(Version for Male Chorus by Jetse Bremer\)](https://open.spotify.com/track/3eeVCMS3jlw3ZPiop7Lfwh) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [The Gents](https://open.spotify.com/artist/6dWJvRTsfmxYqdp1t3TvoP), [Béni Csillag](https://open.spotify.com/artist/3j0FvSTCGzNlUt4IivrQcP) | [George Gershwin](https://open.spotify.com/album/791jmo8eC7Ot2KOZJPBJTX) | 3:05 | 2025-01-09 | 2025-04-12 |
 | [A Day to God Is 1000 Years](https://open.spotify.com/track/5nYrCeufU1KfSmgB5dm8bM) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Birth of a Prince](https://open.spotify.com/album/54TKCQqJTfYF7P730Nza5q) | 3:57 | 2024-07-24 |  |
 | [A Foggy Day](https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:32 | 2024-07-24 | 2025-03-17 |
-| [A Foggy Day \(In London Town\)](https://open.spotify.com/track/2YaDdaM7JTVqEPUSy9wAPh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 2:31 | 2024-07-24 |  |
+| [A Foggy Day \(In London Town\)](https://open.spotify.com/track/2YaDdaM7JTVqEPUSy9wAPh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 2:31 | 2024-07-24 | 2025-10-13 |
+| [A Foggy Day \(In London Town\)](https://open.spotify.com/track/2MVNhgdiNYG8x7fwQFaK06) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6hcG1Pv1KmRjcQoAx0rhQL) | 2:32 | 2025-10-12 |  |
 | [A Woman Is A Sometime Thing](https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:43 | 2024-07-24 |  |
 | [A Wonderful Party](https://open.spotify.com/track/1VuExMCK2JZ1mNolmDHu8R) | [Lady Be Good 2015 Encores! Cast](https://open.spotify.com/artist/2ssvP0QiRL1FqjEU48w4cU) | [Lady, Be Good! \(2015 Encores! Cast Recording\)](https://open.spotify.com/album/0hjieHsrt1NpFOVc59nn17) | 1:19 | 2024-07-24 |  |
 | [Adored One](https://open.spotify.com/track/2V7seRtD6QxS16PCs4LTPW) | [Alice Faye](https://open.spotify.com/artist/7Jr5Krm7sO2as96uMoDfhK), [Don Ameche](https://open.spotify.com/artist/22gGmNLnhoGsskm04ARcnD) | [I Feel a Song Coming On](https://open.spotify.com/album/03XQNwCMdlasuTVtT5yNjP) | 2:12 | 2025-01-09 | 2025-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,861 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,859 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 30 | [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(feat\. SKRYU\) \[Remix\]](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 |
 | 31 | [My Red Little Fox](https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:42 |
 | 32 | [解氷](https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [解氷](https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY) | 2:18 |
-| 33 | [illumination](https://open.spotify.com/track/0uqKMcnIFBGD2h0FAqsVf9) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [illumination](https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe) | 3:26 |
-| 34 | [愛をさわれたら](https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [愛をさわれたら](https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA) | 3:45 |
+| 33 | [愛をさわれたら](https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [愛をさわれたら](https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA) | 3:45 |
+| 34 | [illumination](https://open.spotify.com/track/0uqKMcnIFBGD2h0FAqsVf9) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [illumination](https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe) | 3:26 |
 | 35 | [火星の冬](https://open.spotify.com/track/4UHzBwKTPCCB6OkpNgDM7Q) | [baboon](https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL) | [火星の冬](https://open.spotify.com/album/1iuQx4uh0usnKThiGhSSOb) | 5:34 |
 | 36 | [スノースマイル](https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ユグドラシル](https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico) | 5:07 |
 | 37 | [City Love City Love City Love](https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [City Love City Love City Love](https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe) | 3:24 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 54 | [snow moon](https://open.spotify.com/track/5lPqjvCzMvEA5vtvhnol0c) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [snow moon](https://open.spotify.com/album/4USKwXE1Wmb5KqsJquxqgm) | 3:52 |
 | 55 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 |
 | 56 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
-| 57 | [Heaven](https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Heaven](https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4) | 2:35 |
-| 58 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 |
+| 57 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 |
+| 58 | [Heaven](https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Heaven](https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4) | 2:35 |
 | 59 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 |
 | 60 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
 | 61 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |

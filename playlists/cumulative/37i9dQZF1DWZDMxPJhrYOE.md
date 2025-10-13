@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-771 songs - 1 day 15 hr 43 min
+772 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-10 | 2025-02-09 |
 | [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-11-14 | 2025-02-25 |
 | [Samsø](https://open.spotify.com/track/1bXH7ivvqL31jE7pQs4tdA) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Samsø](https://open.spotify.com/album/0YhT8ZbJPvsQ0c8ZKAjQlV) | 2:30 | 2025-04-17 | 2025-05-02 |
+| [Sandheden](https://open.spotify.com/track/1pcAE3WQaCpKDcZZFgItv4) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Sandheden](https://open.spotify.com/album/4uzm0xt20gFcT9w0sGBKsd) | 2:47 | 2025-10-09 |  |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-05 | 2025-09-05 |
 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 | 2025-06-05 | 2025-09-05 |
 | [Say You Will Stay](https://open.spotify.com/track/3mDs94xh9kKYRnfIsp5dAb) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Say You Will Stay](https://open.spotify.com/album/17LPrwZa1b8DKHWJ6Ua2yY) | 2:42 | 2025-08-21 | 2025-09-26 |
@@ -716,7 +717,7 @@
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 | 2025-05-30 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-01 | 2024-09-13 |
 | [USA](https://open.spotify.com/track/4HYYZOR5yrMXFmBwy7B1Rr) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [USA](https://open.spotify.com/album/5bUj4hJuxkN4ukskJwmHW5) | 3:11 | 2025-03-20 | 2025-04-01 |
-| [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-07 |  |
+| [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-07 | 2025-10-13 |
 | [vampire diaries](https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [vampire diaries](https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O) | 2:35 | 2025-07-11 | 2025-09-14 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 | 2025-06-06 |
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-06-13 |

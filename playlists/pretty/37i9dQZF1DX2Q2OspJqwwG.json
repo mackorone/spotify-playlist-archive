@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 35457,
+  "num_followers": 35465,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-10-06 09:56:09",
@@ -939,38 +939,6 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -1003,18 +971,18 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2025-10-06 09:56:09",
@@ -1031,6 +999,38 @@
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2025-10-06 09:56:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
         "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 34400,
       "name": "Steve's Lava Chicken",
       "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2025-10-06 09:56:09",
@@ -1603,18 +1603,30 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
-        "url": "https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs"
+        "name": "Regele (From Buzz House: The Movie 2)",
+        "url": "https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk"
       },
       "artists": [
         {
           "name": "rares",
           "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+        },
+        {
+          "name": "rares bebelusul",
+          "url": "https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
-      "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
+      "duration_ms": 160000,
+      "name": "Regele - From Buzz House: The Movie 2",
+      "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
     },
     {
       "added_at": "2025-10-06 09:56:09",
@@ -1655,26 +1667,6 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA"
-      },
-      "artists": [
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 143505,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
         "name": "Dientes",
         "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
       },
@@ -1699,66 +1691,38 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "Regele (From Buzz House: The Movie 2)",
-        "url": "https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 143505,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
+        "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
+        "url": "https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs"
       },
       "artists": [
         {
           "name": "rares",
           "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        },
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
-        },
-        {
-          "name": "rares bebelusul",
-          "url": "https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Regele - From Buzz House: The Movie 2",
-      "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
-        "name": "ATIPIC",
-        "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 182452,
-      "name": "Marae",
-      "url": "https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0"
-    },
-    {
-      "added_at": "2025-10-06 09:56:09",
-      "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 159858,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID"
+      "duration_ms": 190000,
+      "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
+      "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
     },
     {
       "added_at": "2025-10-06 09:56:09",
@@ -1783,6 +1747,42 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "duration_ms": 159858,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
+        "name": "ATIPIC",
+        "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 182452,
+      "name": "Marae",
+      "url": "https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0"
+    },
+    {
+      "added_at": "2025-10-06 09:56:09",
+      "album": {
         "name": "LIKE ME",
         "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
       },
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2025-10-06 09:56:09",
       "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
+        "name": "Boca",
+        "url": "https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB"
       },
       "artists": [
         {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
+      "duration_ms": 124500,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

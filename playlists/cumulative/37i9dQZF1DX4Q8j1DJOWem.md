@@ -4,7 +4,7 @@
 
 > ฉลอง 1,000 ศิลปิน RADAR กับ 10 ศิลปิน RADAR ประเทศไทยที่มียอดสตรีมสูงที่สุด ปก: Saran
 
-274 songs - 17 hr 1 min
+275 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/track/7dTYl4jFvO8pP0C57r1WUA) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/album/1csBMznVHeDsC4LiJIc1W0) | 2:45 | 2025-03-27 |  |
 | [ถ้าต่อจากนี้ไม่มีฉันแล้ว](https://open.spotify.com/track/5eov9qKm4v1r0f7zUL33yD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ถ้าต่อจากนี้ไม่มีฉันแล้ว \(What if?\)](https://open.spotify.com/album/5Ix5ljszzUoHnVOaKO5uFB) | 3:49 | 2023-09-15 | 2024-02-19 |
 | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/track/0LJ5ZgcDdyt24akqtABCAg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/album/0dZTTJBdz0GQN9BWfB73XZ) | 3:36 | 2022-11-23 | 2023-04-14 |
-| [ทัก \(FIRST SIGHT\)](https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ทัก \(FIRST SIGHT\)](https://open.spotify.com/album/69zdewg8oYXQTd9E3GzhXA) | 3:27 | 2025-05-24 |  |
+| [ทัก \(FIRST SIGHT\)](https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ทัก \(FIRST SIGHT\)](https://open.spotify.com/album/69zdewg8oYXQTd9E3GzhXA) | 3:27 | 2025-05-24 | 2025-10-13 |
 | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2024-03-28 | 2024-10-26 |
 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 | 2023-05-13 |
 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 | 2025-03-27 |  |
@@ -249,6 +249,7 @@
 | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/track/6qfpY6fSeF8X25XaEEmBHm) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/album/11wS9KhiTUXdZhOAtBXn14) | 3:21 | 2022-09-15 | 2023-04-14 |
 | [เฟี้ยว \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/0H1rhRyBH1reSi3Qac8Y2j) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [เฟี้ยว \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/album/0qVPQ3HfsbAkdKyiakDBkr) | 4:20 | 2024-06-28 | 2024-10-05 |
 | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/track/2L12dZiM8puWFJBVg7R0wn) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M) | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/album/5wlDk0JcNyQnJmfLWMWa2v) | 3:13 | 2022-09-15 | 2022-11-24 |
+| [เสร็จ \(SOLITÁ\)](https://open.spotify.com/track/6hZx4yGVPPcbCaz0ZTgeY1) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q), [Siriporn Ampaipong](https://open.spotify.com/artist/63JRIk20Lc1tlo0W5zYkSf) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:34 | 2025-10-12 |  |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-09-15 | 2023-06-23 |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2023-11-21 | 2024-03-29 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-09-15 | 2023-04-14 |

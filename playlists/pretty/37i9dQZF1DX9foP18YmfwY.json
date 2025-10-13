@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 362767,
+  "num_followers": 362864,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-10-10 03:01:26",
       "album": {
+        "name": "Ora\u00e7\u00e3o De S\u00e3o Francisco",
+        "url": "https://open.spotify.com/album/3xUOd5fORtOZ9FoGm4UbRI"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "Ora\u00e7\u00e3o De S\u00e3o Francisco",
+      "url": "https://open.spotify.com/track/3dtnRL4N4yEZTfOXCb722D"
+    },
+    {
+      "added_at": "2025-10-10 03:01:26",
+      "album": {
         "name": "Em Sil\u00eancio",
         "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 228125,
       "name": "Em Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2025-10-10 03:01:26",
-      "album": {
-        "name": "Ora\u00e7\u00e3o De S\u00e3o Francisco",
-        "url": "https://open.spotify.com/album/3xUOd5fORtOZ9FoGm4UbRI"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "Ora\u00e7\u00e3o De S\u00e3o Francisco",
-      "url": "https://open.spotify.com/track/3dtnRL4N4yEZTfOXCb722D"
     },
     {
       "added_at": "2025-10-10 03:01:26",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-10-10 03:01:26",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
-    },
-    {
-      "added_at": "2025-10-10 03:01:26",
-      "album": {
         "name": "Acima dos Telhados (Acoustic)",
         "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
       },
@@ -1051,18 +1031,22 @@
     {
       "added_at": "2025-10-10 03:01:26",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
       "artists": [
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2025-10-10 03:01:26",
@@ -1083,6 +1067,22 @@
       "duration_ms": 333728,
       "name": "Abra\u00e7a-Me Forte",
       "url": "https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr"
+    },
+    {
+      "added_at": "2025-10-10 03:01:26",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2025-10-10 03:01:26",

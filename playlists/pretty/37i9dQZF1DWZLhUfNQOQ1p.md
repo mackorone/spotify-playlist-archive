@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,944 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,925 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 73 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
 | 74 | [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 |
 | 75 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 |
-| 76 | [Flying Away With You](https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flying Away With You](https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua) | 4:09 |
-| 77 | [Since I Left You](https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You](https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI) | 4:22 |
-| 78 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 76 | [Since I Left You](https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You](https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI) | 4:22 |
+| 77 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 78 | [Flying Away With You](https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flying Away With You](https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua) | 4:09 |
 | 79 | [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 |
 | 80 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 81 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 82 | [Leave My Home](https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX) | 3:41 |
-| 83 | [Good Life \(Remastered\)](https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK) | 3:16 |
-| 84 | [Bloom](https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd) | [Bloom](https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo) | 2:30 |
+| 83 | [Bloom](https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd) | [Bloom](https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo) | 2:30 |
+| 84 | [Good Life \(Remastered\)](https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK) | 3:16 |
 | 85 | [Lingua di Sole](https://open.spotify.com/track/2m0uaHMnqVr4b7ed70mXmW) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Stone Island](https://open.spotify.com/album/7bOyXQPzwjYlr4zRcqa3nf) | 5:30 |
 | 86 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 |
 | 87 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |

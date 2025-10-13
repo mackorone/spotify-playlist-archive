@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 141751,
+  "num_followers": 142096,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABl5yTdvZ8uXU5bGGt/q4SN",
+  "snapshot_id": "aOmeAAAAAABFF2I7uigKHie2RWjsvM+Q",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 211417,
+      "name": "Thank You (feat. RAYE)",
+      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Check (with RAYE)",
         "url": "https://open.spotify.com/album/0CoVa5cPLOwxR8Z3XeflhR"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 194880,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Thank You (feat. RAYE)",
-      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
     },
     {
       "added_at": null,
@@ -915,26 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number 1 Angel",
-        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
+        "name": "Live at Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
       },
       "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 238749,
-      "name": "Dreamer - Compound Version",
-      "url": "https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ"
+      "duration_ms": 419683,
+      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
     },
     {
       "added_at": null,
@@ -959,18 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Montreux Jazz Festival",
-        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+        "name": "Number 1 Angel",
+        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
       "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 419683,
-      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+      "duration_ms": 238749,
+      "name": "Dreamer - Compound Version",
+      "url": "https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ"
     }
   ],
   "unique_name": "This Is RAYE",

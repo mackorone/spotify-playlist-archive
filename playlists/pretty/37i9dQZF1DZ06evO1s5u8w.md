@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,238 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,272 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 5 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 |
 | 6 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 |
 | 7 | [Take Me to the River](https://open.spotify.com/track/1auuYcOrua5hrsGCS7idun) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 5:02 |
-| 8 | [Life During Wartime \- 2005 Remaster](https://open.spotify.com/track/7CqleiaEqHVazV19P532X9) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:41 |
+| 8 | [Burning Down the House \- 2005 Remaster](https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:01 |
 | 9 | [And She Was](https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 3:39 |
-| 10 | [Burning Down the House \- 2005 Remaster](https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:01 |
+| 10 | [Life During Wartime \- 2005 Remaster](https://open.spotify.com/track/7CqleiaEqHVazV19P532X9) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:41 |
 | 11 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
-| 12 | [Crosseyed and Painless \- 2005 Remaster](https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:45 |
-| 13 | [Wild Wild Life](https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories](https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO) | 3:39 |
-| 14 | [Girlfriend Is Better \- 2005 Remaster](https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:43 |
+| 12 | [Girlfriend Is Better \- 2005 Remaster](https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:43 |
+| 13 | [Crosseyed and Painless \- 2005 Remaster](https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:45 |
+| 14 | [Wild Wild Life](https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories](https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO) | 3:39 |
 | 15 | [This Must Be the Place \(Naive Melody\) \- Live](https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:57 |
 | 16 | [The Lady Don't Mind \- 2005 Remaster](https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:58 |
 | 17 | [Sugar on My Tongue \- 2024 Remaster](https://open.spotify.com/track/7kGecZXX5u2DZ68RSnbdYR) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [The Good Thing](https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:03 |
 | 50 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 |
 
-Snapshot ID: `aOhMgAAAAAAwxq5WZsjnb4mvjGuZwgQt`
+Snapshot ID: `aOmeAAAAAACslYnMo5ChJ/nrws82yiQA`

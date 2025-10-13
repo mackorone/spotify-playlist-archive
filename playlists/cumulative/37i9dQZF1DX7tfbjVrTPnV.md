@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-275 songs - 17 hr 38 min
+276 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 | 2022-09-23 |  |
 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/0Sf4Miqjok7iImlzEaSKHq) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/6T7XXP2wnOMgeEAyDhF03i) | 5:38 | 2023-08-11 | 2024-04-19 |
 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 | 2021-11-11 |  |
+| [Never Give In](https://open.spotify.com/track/1hO0UgZ2j5qY6qoUZ6pJ9u) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Never Give In](https://open.spotify.com/album/1gfai8PiMzjSugxZAUkWdJ) | 3:00 | 2024-08-30 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/72Ez9UKPw8JCjvFXrFgPiE) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/0wSfUE2PQehJRjUwmEVj4H) | 3:15 | 2023-08-11 | 2024-04-14 |
 | [New York City](https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Robby Hecht](https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4) | 3:41 | 2023-08-11 |  |
@@ -263,7 +264,7 @@
 | [What It Takes](https://open.spotify.com/track/5rOk4il7V3p5wEL5MmYwWc) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [Tambourine](https://open.spotify.com/album/7k8w4letUaaXpyV3IqbgmZ) | 3:57 | 2021-11-11 | 2022-07-26 |
 | [What It Takes](https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [Tambourine](https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn) | 3:57 | 2022-04-22 | 2024-04-19 |
 | [When You're Here](https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Songs](https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o) | 3:42 | 2021-11-11 |  |
-| [When You're My Age](https://open.spotify.com/track/3a4zsaK7wOl9Fz7o51bsvZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [When You're My Age](https://open.spotify.com/album/2IcWoQx2BDY1zFZUoy889t) | 5:11 | 2021-11-11 |  |
+| [When You're My Age](https://open.spotify.com/track/3a4zsaK7wOl9Fz7o51bsvZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [When You're My Age](https://open.spotify.com/album/2IcWoQx2BDY1zFZUoy889t) | 5:11 | 2021-11-11 | 2025-10-13 |
 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd) | 5:11 | 2022-10-14 | 2022-11-13 |
 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/7s5oiz0hI98X6FQ5cmvPlf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 5:11 | 2022-04-22 | 2024-04-19 |
 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 | 2021-11-11 |  |

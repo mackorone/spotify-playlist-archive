@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21129,
+  "num_followers": 21130,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF"
-      },
-      "artists": [
-        {
-          "name": "Rrag",
-          "url": "https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
         "name": "Let Me Begin",
         "url": "https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "Discopunkhead",
-        "url": "https://open.spotify.com/album/6sSnkZGa92joNiWAeFr44B"
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF"
       },
       "artists": [
         {
-          "name": "Closehead",
-          "url": "https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR"
+          "name": "Rrag",
+          "url": "https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV"
         }
       ],
-      "duration_ms": 265299,
-      "name": "Berdiri Teman",
-      "url": "https://open.spotify.com/track/2wzLryGH80h3RkzuzVOriD"
+      "duration_ms": 168480,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf"
     },
     {
       "added_at": "2025-09-26 09:30:14",
@@ -647,6 +631,22 @@
       "duration_ms": 118120,
       "name": "Kalam",
       "url": "https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
+        "name": "Discopunkhead",
+        "url": "https://open.spotify.com/album/6sSnkZGa92joNiWAeFr44B"
+      },
+      "artists": [
+        {
+          "name": "Closehead",
+          "url": "https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR"
+        }
+      ],
+      "duration_ms": 265299,
+      "name": "Berdiri Teman",
+      "url": "https://open.spotify.com/track/2wzLryGH80h3RkzuzVOriD"
     },
     {
       "added_at": "2025-09-26 09:30:14",

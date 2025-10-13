@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4107,
+  "num_followers": 4113,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADLfKgd4poVxW+a1eM7V3BH",
+  "snapshot_id": "aOmeAAAAAAA6iIMDNEBbZ3JqwMKbkvV5",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 46803,
+      "name": "Shatter Into Form I",
+      "url": "https://open.spotify.com/track/6EMoj6E5RIx4i3H3tJFI7V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -235,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
       },
       "artists": [
         {
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Pin It Down",
-      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
+      "duration_ms": 245426,
+      "name": "Mummy",
+      "url": "https://open.spotify.com/track/6HZlaijnxTAJvnDGpyCc5o"
     },
     {
       "added_at": null,
@@ -271,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
         {
@@ -280,29 +296,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 46803,
-      "name": "Shatter Into Form I",
-      "url": "https://open.spotify.com/track/6EMoj6E5RIx4i3H3tJFI7V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departures",
-        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+      "duration_ms": 246573,
+      "name": "Pin It Down",
+      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
     },
     {
       "added_at": null,
@@ -323,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 51746,
+      "name": "Shatter Into Form II",
+      "url": "https://open.spotify.com/track/0edZNzTmsogYgDdXVSnRk3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -339,6 +351,26 @@
       "duration_ms": 252960,
       "name": "Without A Leg To Stand On",
       "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
     },
     {
       "added_at": null,
@@ -372,25 +404,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Mummy",
-      "url": "https://open.spotify.com/track/6HZlaijnxTAJvnDGpyCc5o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+      "duration_ms": 298920,
+      "name": "Skeletree",
+      "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
     },
     {
       "added_at": null,
@@ -411,6 +427,22 @@
       "duration_ms": 214946,
       "name": "Long Distance Winner",
       "url": "https://open.spotify.com/track/0gpNdUkaWwi7SySXljnjd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
     },
     {
       "added_at": null,
@@ -444,25 +476,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Skeletree",
-      "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+      "duration_ms": 247013,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
     },
     {
       "added_at": null,
@@ -483,6 +499,22 @@
       "duration_ms": 151213,
       "name": "Lola (My Love)",
       "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
     },
     {
       "added_at": null,
@@ -516,29 +548,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 247013,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Golden Heart Protector",
-        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "The Book Of Love (with Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
+      "duration_ms": 330903,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
     },
     {
       "added_at": null,
@@ -579,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+        "name": "The Golden Heart Protector",
+        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
       },
       "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 51746,
-      "name": "Shatter Into Form II",
-      "url": "https://open.spotify.com/track/0edZNzTmsogYgDdXVSnRk3"
+      "duration_ms": 220622,
+      "name": "The Book Of Love (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 330903,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
       "duration_ms": 202895,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Dark (Live at RAK)",
-        "url": "https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 214467,
-      "name": "Perfect Dark - Live at RAK",
-      "url": "https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m"
     },
     {
       "added_at": null,

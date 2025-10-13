@@ -3696,7 +3696,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 150621,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf"
@@ -14826,7 +14826,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
@@ -33216,7 +33216,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -34626,7 +34626,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
@@ -41978,10 +41978,28 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 171235,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/05LJBYsf5AmcfOP6DXulRK"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/6OV7qwV1ERbmRWwcS0Ez61"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171284,
+      "name": "Where Have You Been - Orchestra",
+      "url": "https://open.spotify.com/track/7j1BIjEAE2Z9BosUwMk1Vg"
     },
     {
       "album": {

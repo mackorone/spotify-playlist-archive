@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-417 songs - 1 day 2 hr 2 min
+418 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Duniyaav](https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [BSM](https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3) | [Duniyaav](https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0) | 2:17 | 2024-03-08 | 2024-05-25 |
 | [Eda Mone Kollam Poli Alle](https://open.spotify.com/track/27FIzrQe7xWSCvcfwAGAS3) | [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [S\. Sreesanth](https://open.spotify.com/artist/4L9lPMNvEdreunDkSgARg6) | [Eda Mone Kollam Poli Alle](https://open.spotify.com/album/0LUyeasRyRHZSea1b9t14K) | 2:51 | 2024-09-04 | 2025-04-02 |
 | [EE PENMANE](https://open.spotify.com/track/4kXGXk1zBu9WYMTFYLQ1Eo) | [Jecin George](https://open.spotify.com/artist/5UcUhUt9RK09Wyy3twh7rN), [Nidhin Jo Jacob](https://open.spotify.com/artist/4MLMALTEsKnZaWnM0SbgUJ), [Dhanya Suresh Menon](https://open.spotify.com/artist/62zvb6JS6PPnQTHhH9s79a) | [EE PENMANE](https://open.spotify.com/album/45PH6yjW0fbCe8hekBoDWa) | 4:16 | 2025-05-30 | 2025-08-19 |
+| [Eerezhu Lokam](https://open.spotify.com/track/4pcDQb8DG551RbYB6jrw9i) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Eerezhu Lokam](https://open.spotify.com/album/1Nk19vcDcaQtdAfVSU1hl0) | 4:25 | 2025-10-12 |  |
 | [Ejjathi \- From "AYAKTIHIS"](https://open.spotify.com/track/0APH1Jj5zZCC75WxTpCzbr) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX) | [Ejjathi \(From "AYAKTIHIS"\)](https://open.spotify.com/album/5lgPxMNps0pcGuuIQ0iX1T) | 4:46 | 2025-04-02 | 2025-07-05 |
 | [ELELO](https://open.spotify.com/track/6pHfCAknAcqwPl1XiL2hq3) | [Amal Joseph](https://open.spotify.com/artist/6B00i8SePaASdF15tDKrTY), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Elelo](https://open.spotify.com/album/0JcmYTHMcITbUq8C0ibP2d) | 3:38 | 2025-04-29 | 2025-08-09 |
 | [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \(Live\)](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 | 2024-09-12 | 2025-06-30 |

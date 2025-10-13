@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,450 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,564 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 52 | [One Day](https://open.spotify.com/track/3z9DRLo5VolGPWO27Lapx5) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [One Day](https://open.spotify.com/album/5n4x0b0lhEqDA7BFFCrZI2) | 2:17 |
 | 53 | [MONEY ON THE DASH \- Armin van Buuren Remix](https://open.spotify.com/track/4JikZDJOw5YICLoqTWn9pX) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [MONEY ON THE DASH \- Armin van Buuren Remix](https://open.spotify.com/album/6iX8QGLkFvYsU48BkOStVP) | 2:19 |
 | 54 | [Dance All Night](https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Dance All Night](https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX) | 2:52 |
-| 55 | [The Chant](https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Chant](https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI) | 3:37 |
+| 55 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
 | 56 | [Right Here, Right Now](https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Right Here, Right Now](https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ) | 2:32 |
-| 57 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
+| 57 | [The Chant](https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Chant](https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI) | 3:37 |
 | 58 | [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 |
 | 59 | [Axel F](https://open.spotify.com/track/69NJgj9iXZbpd5mpFCNLIz) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Axel F](https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6) | 2:28 |
 | 60 | [Lift Off](https://open.spotify.com/track/4LGn8oQ0bzByeJ5XxUueIx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Lift Off](https://open.spotify.com/album/3IslzywfEKTs1f2MyP3H6X) | 2:36 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 76 | [Día de Muertos \- Thoby's Version](https://open.spotify.com/track/4N6gh8ftIZwG62grKQorsZ) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x) | [Día de Muertos \(Thoby's Version\)](https://open.spotify.com/album/2DXKZAkIlIt8KkWpDijYTy) | 2:34 |
 | 77 | [Miracle](https://open.spotify.com/track/196vYOLRFZbyUYXlIjDHf8) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo) | [Miracle](https://open.spotify.com/album/5FNVIQiCLGT9oCQPT2lfIt) | 3:30 |
 | 78 | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 |
-| 79 | [Find My Way](https://open.spotify.com/track/3lq6pKWj40gsbrTQn2ADYW) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Find My Way](https://open.spotify.com/album/5DU92D9mbcoBEGnc3pQSRz) | 2:27 |
-| 80 | [Save The Day \- Once Again](https://open.spotify.com/track/328CwkVImzoaI9cryh0I6V) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Save The Day \(Once Again\)](https://open.spotify.com/album/35EMyzHw7HcRrncq5VRDzN) | 3:30 |
+| 79 | [Save The Day \- Once Again](https://open.spotify.com/track/328CwkVImzoaI9cryh0I6V) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Save The Day \(Once Again\)](https://open.spotify.com/album/35EMyzHw7HcRrncq5VRDzN) | 3:30 |
+| 80 | [Outside World](https://open.spotify.com/track/5FriNJpgR0DT1p3ypBPhR9) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Outside World](https://open.spotify.com/album/05TsKnWBmFFER3b0K5VnW3) | 2:29 |
 
 Snapshot ID: `AAAAACSVwIMEA8GislHsVsj8in5wrlmQ`

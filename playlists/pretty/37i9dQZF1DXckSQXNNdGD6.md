@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  David Rees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,110 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,108 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 29 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
 | 30 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
 | 31 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
-| 32 | [x\. ave: renacer](https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [x\. ave: renacer](https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h) | 3:21 |
-| 33 | [Nada Bby](https://open.spotify.com/track/0Ds9Q3YUYDnJMmZSD6mcvx) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Nada Bby](https://open.spotify.com/album/7x7DbT2keyki21JNP8bqhI) | 2:12 |
+| 32 | [Nada Bby](https://open.spotify.com/track/0Ds9Q3YUYDnJMmZSD6mcvx) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Nada Bby](https://open.spotify.com/album/7x7DbT2keyki21JNP8bqhI) | 2:12 |
+| 33 | [x\. ave: renacer](https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [x\. ave: renacer](https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h) | 3:21 |
 | 34 | [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 |
 | 35 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 36 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
-| 37 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
-| 38 | [Castigo](https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Castigo](https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A) | 3:02 |
+| 37 | [Castigo](https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Castigo](https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A) | 3:02 |
+| 38 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
 | 39 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
 | 40 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 41 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |

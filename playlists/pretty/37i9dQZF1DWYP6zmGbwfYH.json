@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 324518,
+  "num_followers": 324640,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Malabares",
-      "url": "https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 220586,
       "name": "Due\u00f1o de Ti",
       "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Malabares",
+      "url": "https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 159466,
       "name": "Compr\u00e9 Una Cantina",
       "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
-        "name": "A Traves De Tus Ojos",
-        "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Chiquilla Bonita",
-      "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "A Traves De Tus Ojos",
+        "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+      "duration_ms": 286013,
+      "name": "Chiquilla Bonita",
+      "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -859,6 +843,22 @@
       "duration_ms": 239693,
       "name": "Deja Una Rosa En Tu Balc\u00f3n",
       "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 179600,
       "name": "Ya No Estoy Dolido",
       "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Y Sigue La Mata Dando",
-        "url": "https://open.spotify.com/album/1YJgoSpEeSlbQwDiZ5xcE5"
-      },
-      "artists": [
-        {
-          "name": "Montez de Durango",
-          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Esperanzas",
-      "url": "https://open.spotify.com/track/51ZHYoHvttRMggmb6M4KUV"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
+        "name": "Y Sigue La Mata Dando",
+        "url": "https://open.spotify.com/album/1YJgoSpEeSlbQwDiZ5xcE5"
+      },
+      "artists": [
+        {
+          "name": "Montez de Durango",
+          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Esperanzas",
+      "url": "https://open.spotify.com/track/51ZHYoHvttRMggmb6M4KUV"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Y Sigue La Mata Dando",
-        "url": "https://open.spotify.com/album/1YJgoSpEeSlbQwDiZ5xcE5"
-      },
-      "artists": [
-        {
-          "name": "Montez de Durango",
-          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "Quiero Saber De Ti",
-      "url": "https://open.spotify.com/track/6zBCVy9zWuNZ8qWEh9cMpM"
-    },
-    {
-      "added_at": "2025-08-13 19:18:55",
-      "album": {
         "name": "Amor, Familia Y Respeto",
         "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 194466,
       "name": "Te Quiero A T\u00ed",
       "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2025-08-13 19:18:55",
+      "album": {
+        "name": "Y Sigue La Mata Dando",
+        "url": "https://open.spotify.com/album/1YJgoSpEeSlbQwDiZ5xcE5"
+      },
+      "artists": [
+        {
+          "name": "Montez de Durango",
+          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Quiero Saber De Ti",
+      "url": "https://open.spotify.com/track/6zBCVy9zWuNZ8qWEh9cMpM"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "Tequendama de Oro, Vol. 4",
+        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Moab",
+          "url": "https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 224493,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
     },
     {
       "added_at": "2025-08-13 19:18:55",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2025-08-13 19:18:55",
       "album": {
-        "name": "Tequendama de Oro, Vol. 4",
-        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
       "artists": [
         {
-          "name": "Moab",
-          "url": "https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 224493,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2025-08-13 19:18:55",

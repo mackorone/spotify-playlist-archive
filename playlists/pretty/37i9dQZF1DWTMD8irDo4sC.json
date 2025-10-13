@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 75945,
+  "num_followers": 75962,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
-        "url": "https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h"
+        "name": "Ici et ailleurs",
+        "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
       },
       "artists": [
         {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
         },
         {
-          "name": "Amine Babylone",
-          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 254745,
-      "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
-      "url": "https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb"
+      "duration_ms": 333200,
+      "name": "La corrida (with Francis Cabrel)",
+      "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
     },
     {
       "added_at": "2025-10-06 14:50:07",
@@ -415,22 +415,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Ici et ailleurs",
-        "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
+        "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
+        "url": "https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h"
       },
       "artists": [
         {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
         },
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "Amine Babylone",
+          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
         }
       ],
-      "duration_ms": 333200,
-      "name": "La corrida (with Francis Cabrel)",
-      "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
+      "duration_ms": 254745,
+      "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
+      "url": "https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb"
     },
     {
       "added_at": "2025-10-06 14:50:07",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Nas Min Khashab",
-        "url": "https://open.spotify.com/album/7tfXtMiU14FZyrWdtDMkjQ"
-      },
-      "artists": [
-        {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Mirtaha",
-      "url": "https://open.spotify.com/track/2UAeUd6u3zZ4S6y0vpLz0i"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "Nas Min Khashab",
+        "url": "https://open.spotify.com/album/7tfXtMiU14FZyrWdtDMkjQ"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Mirtaha",
+      "url": "https://open.spotify.com/track/2UAeUd6u3zZ4S6y0vpLz0i"
     },
     {
       "added_at": "2025-10-06 14:50:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "Ya Zalamez",
         "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 233215,
       "name": "Albi",
       "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2025-10-06 14:50:07",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Skizosocial Live",
-        "url": "https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf"
-      },
-      "artists": [
-        {
-          "name": "Amin Kamal",
-          "url": "https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os"
-        }
-      ],
-      "duration_ms": 410448,
-      "name": "Warda 7amra - Live",
-      "url": "https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "3arousit Bkeseen",
         "url": "https://open.spotify.com/album/1nYSZVRS5Pz1Fb6cgO1ne8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 182189,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4RlXofPu1zxJppCftikBxm"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "Skizosocial Live",
+        "url": "https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf"
+      },
+      "artists": [
+        {
+          "name": "Amin Kamal",
+          "url": "https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os"
+        }
+      ],
+      "duration_ms": 410448,
+      "name": "Warda 7amra - Live",
+      "url": "https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn"
     },
     {
       "added_at": "2025-10-06 14:50:07",

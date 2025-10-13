@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 201882,
+  "num_followers": 201923,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAANmRHltgSScPqQ9YYGJQF1F28IdT",
   "tracks": [
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "A Lifetime Rolls By (annasara Rework)",
-        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        },
-        {
-          "name": "annasara",
-          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "A Lifetime Rolls By - annasara Rework",
-      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
-    },
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 137624,
       "name": "Kindred",
       "url": "https://open.spotify.com/track/1Lgp86lSj6NxeLHnr6VjXS"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "A Lifetime Rolls By (annasara Rework)",
+        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        },
+        {
+          "name": "annasara",
+          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "A Lifetime Rolls By - annasara Rework",
+      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "Debussy: Deux arabesques: Arabesque No. 1",
+        "url": "https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Tiffany Poon",
+          "url": "https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "Deux arabesques, L. 66: Arabesque No. 1",
+      "url": "https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "Motifs in F# Major (Reimagined)",
         "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 183764,
       "name": "Made To Be Wanting",
       "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Debussy: Deux arabesques: Arabesque No. 1",
-        "url": "https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Tiffany Poon",
-          "url": "https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Deux arabesques, L. 66: Arabesque No. 1",
-      "url": "https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 408791,
       "name": "Inside Me",
       "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
-      },
-      "artists": [
-        {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232105,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+      },
+      "artists": [
+        {
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
-      },
-      "artists": [
-        {
-          "name": "Ruben Fjellner",
-          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "The Sky Cracked",
         "url": "https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 112625,
       "name": "The Sky Cracked",
       "url": "https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
+      },
+      "artists": [
+        {
+          "name": "Ruben Fjellner",
+          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2025-10-03 10:20:21",

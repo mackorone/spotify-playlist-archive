@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8493,
+  "num_followers": 8495,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAD+YsztAimC+/4qv2V6N45I",
+  "snapshot_id": "aOmeAAAAAADqA4+7ef2/WQ1ZnS8Zacgd",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Justin Kawika Young",
+          "url": "https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope in the Ashes",
         "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 154713,
       "name": "Hope in the Ashes",
       "url": "https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Justin Kawika Young",
-          "url": "https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7c9b\u3005\u697d\u3005",
-        "url": "https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f"
-      },
-      "artists": [
-        {
-          "name": "BEGIN",
-          "url": "https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 174529,
-      "name": "\u7c9b\u3005\u697d\u3005",
-      "url": "https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio",
         "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u7c9b\u3005\u697d\u3005",
+        "url": "https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f"
+      },
+      "artists": [
+        {
+          "name": "BEGIN",
+          "url": "https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 174529,
+      "name": "\u7c9b\u3005\u697d\u3005",
+      "url": "https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Boy Meets Girl",
-      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5922\u3054\u3053\u3061",
         "url": "https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 271600,
       "name": "\u5922\u3054\u3053\u3061",
       "url": "https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Boy Meets Girl",
+      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 116426,
-      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
+      "duration_ms": 266053,
+      "name": "143 (Kelly's Song)",
+      "url": "https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 266053,
-      "name": "143 (Kelly's Song)",
-      "url": "https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u"
+      "duration_ms": 116426,
+      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
     },
     {
       "added_at": null,

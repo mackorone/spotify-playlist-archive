@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Alien Bass",
+        "url": "https://open.spotify.com/album/3oICpwGncm9QOBg5FSBeOd"
+      },
+      "artists": [
+        {
+          "name": "Truth",
+          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235181,
+      "name": "Alien Bass",
+      "url": "https://open.spotify.com/track/5kZTTsu9bMQ5gfPRsdpeic"
+    },
+    {
+      "album": {
         "name": "Alien Chant (Remixes)",
         "url": "https://open.spotify.com/album/1TSRtcfLwx9SVV4hqf1uT4"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 168495,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8"
@@ -4134,6 +4152,28 @@
       "duration_ms": 305497,
       "name": "Drunken Master",
       "url": "https://open.spotify.com/track/66P8ZVw62ZwQ9hWYvqWreG"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/1fOFQOtdznh58VLLnK7r4s"
+      },
+      "artists": [
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        },
+        {
+          "name": "BRAINWAVEZ",
+          "url": "https://open.spotify.com/artist/3gUZ7WGCtG0pzjHsRzQPhG"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134556,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/6QUPKGOrkaQGAzgB0NdUq5"
     },
     {
       "album": {
@@ -7464,7 +7504,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 134068,
       "name": "JUMP!!",
       "url": "https://open.spotify.com/track/6DXnIycKlFuuJ1lLR94OFI"

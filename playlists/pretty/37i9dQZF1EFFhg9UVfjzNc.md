@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 105 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 105 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 69 | [Que O Incenso Suba](https://open.spotify.com/track/21VLSQJOf5L8isar8COPbv) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:18 |
 | 70 | [Nada Mais Satisfaz](https://open.spotify.com/track/2M1KGKpjeIX9EberJruunh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:54 |
 | 71 | [SHEKINAH \- Ao Vivo](https://open.spotify.com/track/4dphbue2PtpS20x23hL254) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Manuela Oliveira](https://open.spotify.com/artist/5zGU65cu61yKhlsaEr8VAj) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:51 |
-| 72 | [Mistério Da Criação \- Ao Vivo](https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [É Sobre Ele \(Ao Vivo\)](https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15) | 8:39 |
-| 73 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
+| 72 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
+| 73 | [Mistério Da Criação \- Ao Vivo](https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [É Sobre Ele \(Ao Vivo\)](https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15) | 8:39 |
 | 74 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
 | 75 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
 | 76 | [Jesus \- English Version](https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 8:04 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 104 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 | 105 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `Ab+m3gAAAADzY873h+zwIU2Pdr5LC0cC`
+Snapshot ID: `Ab+ssAAAAACHAgBaHGb+7hGRXDO8OCeM`

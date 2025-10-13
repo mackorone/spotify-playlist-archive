@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 31796,
+  "num_followers": 31844,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -95,42 +95,6 @@
     {
       "added_at": "2025-08-28 07:59:31",
       "album": {
-        "name": "Biba Sada Dil",
-        "url": "https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj"
-      },
-      "artists": [
-        {
-          "name": "Bismil",
-          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
-        },
-        {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-        }
-      ],
-      "duration_ms": 249400,
-      "name": "Biba Sada Dil",
-      "url": "https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
-        "name": "Ikko - Mikke",
-        "url": "https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "Ikko - Mikke-Title Track",
-      "url": "https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
         "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
         "url": "https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL"
       },
@@ -155,6 +119,42 @@
       "duration_ms": 209117,
       "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
       "url": "https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
+        "name": "Ikko - Mikke",
+        "url": "https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "Ikko - Mikke-Title Track",
+      "url": "https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
+        "name": "Biba Sada Dil",
+        "url": "https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj"
+      },
+      "artists": [
+        {
+          "name": "Bismil",
+          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 249400,
+      "name": "Biba Sada Dil",
+      "url": "https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK"
     },
     {
       "added_at": "2025-08-28 07:59:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 139 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 139 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 33 | [Unsaid](https://open.spotify.com/track/5VEHaQwMTluOyIFRx6VrkZ) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:47 |
 | 34 | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8) | 2:15 |
 | 35 | [Above The Chinese Restaurant](https://open.spotify.com/track/4bQaYjJTtUC1tNlZGDwENU) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:43 |
-| 36 | [going out](https://open.spotify.com/track/3hDNIAnUnraurZCuiuPegu) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:54 |
-| 37 | [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 |
+| 36 | [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 |
+| 37 | [going out](https://open.spotify.com/track/3hDNIAnUnraurZCuiuPegu) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:54 |
 | 38 | [2021](https://open.spotify.com/track/49WWSaa9yKrvsj8PhsIWmc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [2021](https://open.spotify.com/album/4ffgttI9dtiW8lWDJ8uM5i) | 3:15 |
 | 39 | [Trouble](https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:51 |
 | 40 | [Morocco \(feat\. 6LACK\)](https://open.spotify.com/track/4ZTJdqEg6O4SnHzlaRQtfi) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:21 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 114 | [Leon Pt\. 2](https://open.spotify.com/track/008ZGLgUj3YCGQJs1TL92E) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:30 |
 | 115 | [Heaven](https://open.spotify.com/track/2xwIfJ0ErCJlr2qPJsytcH) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [En Route](https://open.spotify.com/album/17SKLbRtJHhodYuJthn36O) | 3:01 |
 | 116 | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/track/4QppwYvXCur9VbZXKDrFtO) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/album/7xHzBLtg5kyEa6TRHaEuHZ) | 3:02 |
-| 117 | [BAD HABITS](https://open.spotify.com/track/6XR59BEFC1Z2kQ7PayDNPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE DEPENDENCY PROJECT](https://open.spotify.com/album/3et7p7lFukbFP8RwL4io3G) | 3:20 |
-| 118 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
+| 117 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
+| 118 | [BAD HABITS](https://open.spotify.com/track/6XR59BEFC1Z2kQ7PayDNPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE DEPENDENCY PROJECT](https://open.spotify.com/album/3et7p7lFukbFP8RwL4io3G) | 3:20 |
 | 119 | [The Fall](https://open.spotify.com/track/5JVCVWcx9HayfZQRJBOwOS) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [WHY NOT](https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz) | 2:45 |
 | 120 | [Last Day That You Loved Me](https://open.spotify.com/track/2yTUscbTBLfBRITL23E8RT) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6) | 3:05 |
 | 121 | [East Side Love](https://open.spotify.com/track/3nbHIkBBHmaS9AyHMIjPJK) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Thank God](https://open.spotify.com/album/0EgK3iRxEr2vuokKSE2khi) | 2:21 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 128 | [Live It Up](https://open.spotify.com/track/5dZKshIBLX3U9JprsR75mV) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX) | [Popular Loner](https://open.spotify.com/album/7KiThVa9aW0ggvxbLMcTE5) | 2:21 |
 | 129 | [\(RAP SH\*T\)](https://open.spotify.com/track/59VbLC5AZPKDn5HKRPkCpQ) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:57 |
 | 130 | [DO OVER](https://open.spotify.com/track/5QsvwpZpAFZr3mZSiUfyJz) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:31 |
-| 131 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
-| 132 | [Norf Gun](https://open.spotify.com/track/5bFgVgHbZkatgRhI8LPgd4) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:00 |
+| 131 | [Norf Gun](https://open.spotify.com/track/5bFgVgHbZkatgRhI8LPgd4) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:00 |
+| 132 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
 | 133 | [Masterpiece](https://open.spotify.com/track/53P7tuwBSzScUiUW9TZqh1) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Masterpiece](https://open.spotify.com/album/25LjRMXzJmUlip21z0he9D) | 4:04 |
 | 134 | [Fear of Missing Out](https://open.spotify.com/track/12nV0dBwvdQ1h6IV3GRnc1) | [T:ME](https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F) | [Fear of Missing Out](https://open.spotify.com/album/5QTHJtgF26BPakoxDzmC2D) | 3:06 |
 | 135 | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/track/4iltNAyRQxT3EN4gmmnjxy) | [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx), [Carter Mansuy](https://open.spotify.com/artist/3P7GeWJAhrXnL5fiHhEPUm) | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/album/3m1zw94rrjEmgrwNqs3L9j) | 2:45 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 138 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 139 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `Ab+nBgAAAAC/m2gjw55LN1xmzapcF+ad`
+Snapshot ID: `Ab+snAAAAABDQvyJTE5lrqIaKsOUM5hi`

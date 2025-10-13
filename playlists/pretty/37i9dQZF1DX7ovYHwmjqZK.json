@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 260352,
+  "num_followers": 260413,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 167764,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 191174,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
-        }
-      ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+        }
+      ],
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Oliveira",
-          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
-        }
-      ],
-      "duration_ms": 238310,
-      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 204394,
       "name": "Cl\u00e1udia",
       "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Oliveira",
+          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+        }
+      ],
+      "duration_ms": 238310,
+      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Falando de Amor",
-        "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
-      },
-      "artists": [
-        {
-          "name": "Rosa Collins",
-          "url": "https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Falando de Amor",
-      "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "House Of Jade",
         "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 442000,
       "name": "Estate",
       "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Falando de Amor",
+        "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
+      },
+      "artists": [
+        {
+          "name": "Rosa Collins",
+          "url": "https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Falando de Amor",
+      "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Mano Que Zuera",
-        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Duro Na Queda",
-      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Giordano Rosa",
-        "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
+        "name": "Mano Que Zuera",
+        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
       },
       "artists": [
         {
-          "name": "Giordano Rosa",
-          "url": "https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Marinheiro",
-      "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+      "duration_ms": 270386,
+      "name": "Duro Na Queda",
+      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -675,6 +659,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Giordano Rosa",
+        "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
+      },
+      "artists": [
+        {
+          "name": "Giordano Rosa",
+          "url": "https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Marinheiro",
+      "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -687,38 +687,6 @@
       "duration_ms": 275370,
       "name": "Perto do Tom",
       "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Caminhos Cruzados",
-        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 152752,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
-      },
-      "artists": [
-        {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
-        }
-      ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -755,6 +723,38 @@
       "duration_ms": 193324,
       "name": "O Melhor Carinho",
       "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
+      },
+      "artists": [
+        {
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
+        }
+      ],
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Caminhos Cruzados",
+        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Bim Bom",
-        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 101793,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Semente Chorojazz",
         "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
       },
@@ -827,26 +811,6 @@
       "duration_ms": 267000,
       "name": "Sambete",
       "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Al\u00e9m da Bossa",
-        "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Al\u00e9m da Bossa",
-      "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -875,6 +839,42 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Bim Bom",
+        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 101793,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Al\u00e9m da Bossa",
+        "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Al\u00e9m da Bossa",
+      "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "D\u00e1jazz",
         "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Liberdade, vai",
-        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Liberdade, vai",
-      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Deslizando Na Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
+        "name": "Liberdade, vai",
+        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
       },
       "artists": [
         {
-          "name": "Marcos Lessa",
-          "url": "https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 173213,
-      "name": "Pega Esse Sambete A\u00ed",
-      "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
+      "duration_ms": 231500,
+      "name": "Liberdade, vai",
+      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1115,6 +1099,22 @@
       "duration_ms": 213800,
       "name": "Samba Doce",
       "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Deslizando Na Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
+      },
+      "artists": [
+        {
+          "name": "Marcos Lessa",
+          "url": "https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Pega Esse Sambete A\u00ed",
+      "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Liberta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
       },
       "artists": [
         {
-          "name": "Vidal Assis",
-          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
         }
       ],
-      "duration_ms": 176065,
-      "name": "Liberta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1199,22 +1199,6 @@
       "duration_ms": 240458,
       "name": "Cris",
       "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1243,30 +1227,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Feito \u00e0 M\u00e3o",
-        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
+        "name": "Liberta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
       },
       "artists": [
         {
-          "name": "Bisdr\u00e9 Santos",
-          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
-        },
-        {
-          "name": "Gabriel Gavi",
-          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
-        },
-        {
-          "name": "Stefano Moliner",
-          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
-        },
-        {
-          "name": "Beb\u00ea do G\u00f3es",
-          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
+          "name": "Vidal Assis",
+          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
         }
       ],
-      "duration_ms": 279456,
-      "name": "Bossa de Maio",
-      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
+      "duration_ms": 176065,
+      "name": "Liberta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1319,6 +1291,34 @@
       "duration_ms": 209983,
       "name": "Garoto - Ao Vivo",
       "url": "https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Feito \u00e0 M\u00e3o",
+        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
+      },
+      "artists": [
+        {
+          "name": "Bisdr\u00e9 Santos",
+          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
+        },
+        {
+          "name": "Gabriel Gavi",
+          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
+        },
+        {
+          "name": "Stefano Moliner",
+          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
+        },
+        {
+          "name": "Beb\u00ea do G\u00f3es",
+          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
+        }
+      ],
+      "duration_ms": 279456,
+      "name": "Bossa de Maio",
+      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
     },
     {
       "added_at": "2025-09-19 14:10:48",

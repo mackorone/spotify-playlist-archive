@@ -4,7 +4,7 @@
 
 > 
 
-7,816 songs - 20 day 4 hr 14 min
+7,818 songs - 20 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1369,6 +1369,7 @@
 | [Dancing Around The Truth](https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Dancing Around The Truth](https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe) | 3:50 | 2025-04-18 |  |
 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2024-12-10 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2025-01-15 |  |
+| [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 | 2025-10-12 |  |
 | [Dancing In The Rain](https://open.spotify.com/track/2UA2RRqm4t0xjlNodPSQZc) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Best Lyricist Underground \(2007\-2022\)](https://open.spotify.com/album/0tj56Cscy2T5qVErbuySYb) | 4:26 | 2024-12-10 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2024-12-05 |  |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2025-04-20 |  |
@@ -2612,6 +2613,7 @@
 | [Honesty](https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 3:53 | 2024-12-10 |  |
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2025-01-15 |  |
 | [Honey Caturra](https://open.spotify.com/track/6ec8TnXTEndhh2PI45dfkj) | [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [Honey Caturra](https://open.spotify.com/album/1dZUSyBy8hUd2LRd5Zp2Us) | 2:46 | 2025-04-28 |  |
+| [Honeymoon Avenue](https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 5:39 | 2025-10-12 |  |
 | [Honeymoon Avenue](https://open.spotify.com/track/5SmXEPnevlRjBPWBG7oKIi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:39 | 2025-04-24 |  |
 | [Hood Gone Love It \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Follow Me Home](https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9) | 4:05 | 2025-01-03 |  |
 | [Hood Politics](https://open.spotify.com/track/2UOYzhusMTypF7oAQwksCj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:52 | 2025-01-03 |  |

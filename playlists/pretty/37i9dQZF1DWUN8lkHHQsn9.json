@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:6Vkhs9MXgzLQ88k1rMay1a\">Aljas</a>",
-  "num_followers": 42776,
+  "num_followers": 42773,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "maybe someday",
-        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "maybe someday",
-      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/25nHYMN19qwn9Vd6bAcMs0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 229000,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4lfKw5cYb0TCBipYFhwLyt"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -759,6 +759,26 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
+        "name": "The Moon",
+        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
+      },
+      "artists": [
+        {
+          "name": "Youth Novels",
+          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
+        },
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 284422,
+      "name": "The Moon",
+      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
         "name": "Oprawieni Idole",
         "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 130500,
       "name": "blok-block",
       "url": "https://open.spotify.com/track/0JyC5PzSo8emUsAwACbCdI"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
-        "name": "The Moon",
-        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
-      },
-      "artists": [
-        {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 284422,
-      "name": "The Moon",
-      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "Mam co\u015b na bani",
-        "url": "https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 275299,
-      "name": "Mam co\u015b na bani",
-      "url": "https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
         "name": "Nie",
         "url": "https://open.spotify.com/album/199hvcH6xuvllSrgTu3wYE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184615,
       "name": "Nie",
       "url": "https://open.spotify.com/track/2QffcGEpWlwtZXcZ1zPtGW"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
+        "name": "Mam co\u015b na bani",
+        "url": "https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 275299,
+      "name": "Mam co\u015b na bani",
+      "url": "https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
+        "name": "Powiedz w twarz",
+        "url": "https://open.spotify.com/album/60J1tgMlltllzKXobAC1Fh"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 165762,
+      "name": "Powiedz w twarz",
+      "url": "https://open.spotify.com/track/2p1dXhYLtYwHu33Q0CEg7l"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
         "name": "Harakiri",
         "url": "https://open.spotify.com/album/0BYaFYCDcQ6KwikEbJw5ga"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "Powiedz w twarz",
-        "url": "https://open.spotify.com/album/60J1tgMlltllzKXobAC1Fh"
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
       "artists": [
         {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
         }
       ],
-      "duration_ms": 165762,
-      "name": "Powiedz w twarz",
-      "url": "https://open.spotify.com/track/2p1dXhYLtYwHu33Q0CEg7l"
+      "duration_ms": 194880,
+      "name": "bia\u0142y szum",
+      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -1151,18 +1167,22 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "nie pow\u00f3d do p\u0142aczu",
-        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+        "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
+        "url": "https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O"
       },
       "artists": [
         {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+          "name": "Zagorski",
+          "url": "https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac"
+        },
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
         }
       ],
-      "duration_ms": 194880,
-      "name": "bia\u0142y szum",
-      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+      "duration_ms": 192631,
+      "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
+      "url": "https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -1219,6 +1239,22 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 167642,
+      "name": "Hikikomori",
+      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
         "name": "Pani Baudelaire (Maryolkah Remix)",
         "url": "https://open.spotify.com/album/6aFikjxl82uRazcDv6jJHr"
       },
@@ -1251,22 +1287,6 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "Doskonale",
-        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
-      },
-      "artists": [
-        {
-          "name": "DIMoN",
-          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Drap mnie",
-      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
         "name": "1986",
         "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
       },
@@ -1283,18 +1303,18 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+        "name": "Doskonale",
+        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
       },
       "artists": [
         {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+          "name": "DIMoN",
+          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
         }
       ],
-      "duration_ms": 194250,
-      "name": "Dok\u0105d biegn\u0119",
-      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+      "duration_ms": 182493,
+      "name": "Drap mnie",
+      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -1315,6 +1335,22 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Dok\u0105d biegn\u0119",
+      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -1327,58 +1363,6 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
-        "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
-        "url": "https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O"
-      },
-      "artists": [
-        {
-          "name": "Zagorski",
-          "url": "https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac"
-        },
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
-      "url": "https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 167642,
-      "name": "Hikikomori",
-      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -1399,6 +1383,38 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
         "name": "Jaskrawe historie",
         "url": "https://open.spotify.com/album/6cgBvG0403ClRCNnJoJU66"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-09-08 22:00:12",
       "album": {
-        "name": "oddaj\u0119 Ci melodi\u0119",
-        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 143443,
-      "name": "oddaj\u0119 Ci melodi\u0119",
-      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2025-09-08 22:00:12",
+      "album": {
+        "name": "oddaj\u0119 Ci melodi\u0119",
+        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 143443,
+      "name": "oddaj\u0119 Ci melodi\u0119",
+      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
     },
     {
       "added_at": "2025-09-08 22:00:12",
@@ -1687,22 +1703,6 @@
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
-    },
-    {
-      "added_at": "2025-09-08 22:00:12",
-      "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
     },
     {
       "added_at": "2025-09-08 22:00:12",

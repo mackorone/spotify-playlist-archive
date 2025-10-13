@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 100816,
+  "num_followers": 100827,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Neptunes Lair",
+        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 387371,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Neptunes Lair",
-        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
     },
     {
       "added_at": "2025-08-29 04:00:36",

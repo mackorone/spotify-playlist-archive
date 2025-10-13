@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,965 likes - 29 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,967 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 26 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 27 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 |
 | 28 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
-| 29 | [Close The Door \- Original Mix](https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Decibels Loudness And Perception](https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg) | 9:19 |
 
-Snapshot ID: `aOhMgAAAAABdKCvLbiOITtK5jgKvF79K`
+Snapshot ID: `aOmeAAAAAAB5WRxo+wC6oa+67NgX1+03`

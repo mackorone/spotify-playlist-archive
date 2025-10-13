@@ -3099,6 +3099,36 @@
     },
     {
       "album": {
+        "name": "The Phantom Of The Opera: Global Edition",
+        "url": "https://open.spotify.com/album/7IL222Ma0TfNsf8hufqRNH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\"The Phantom Of The Opera\" 1990 German Cast",
+          "url": "https://open.spotify.com/artist/4a3dzAbCR71I5J4pvXG5ac"
+        },
+        {
+          "name": "Anna Maria Kaufmann",
+          "url": "https://open.spotify.com/artist/69Nf3BcltVI8usMR1DDd3n"
+        },
+        {
+          "name": "Hartwig Rudolz",
+          "url": "https://open.spotify.com/artist/7FnIOMugiaDNSTozSKcGsE"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221933,
+      "name": "Denk an mich - 1990 German Cast Recording Of \u201cThe Phantom Of The Opera\u201d",
+      "url": "https://open.spotify.com/track/3kHcKTmWuzOk3acby2dCay"
+    },
+    {
+      "album": {
         "name": "Cats (Deutschsprachige Gesamtaufnahme Ronacher 2021) [Live]",
         "url": "https://open.spotify.com/album/0AYCaAs0PjlOCDKerUuPwy"
       },
@@ -9354,7 +9384,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
@@ -14198,10 +14228,28 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 291093,
       "name": "The Heart Is Slow To Learn",
       "url": "https://open.spotify.com/track/1WOD48TEDG6s0bKivGA1QK"
+    },
+    {
+      "album": {
+        "name": "Divas",
+        "url": "https://open.spotify.com/album/1gBF2LqsribPgxgm2fGpkT"
+      },
+      "artists": [
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "The Heart Is Slow to Learn",
+      "url": "https://open.spotify.com/track/7jgWQdouACpB7eUNaKnrnj"
     },
     {
       "album": {
@@ -15933,6 +15981,24 @@
     },
     {
       "album": {
+        "name": "Divas",
+        "url": "https://open.spotify.com/album/1gBF2LqsribPgxgm2fGpkT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "Tire Tracks and Broken Hearts",
+      "url": "https://open.spotify.com/track/1oft3qFatfyOz4dckZ4QWX"
+    },
+    {
+      "album": {
         "name": "Whistle Down The Wind",
         "url": "https://open.spotify.com/album/47WID4iqmI8BYFjX9auw0m"
       },
@@ -15944,7 +16010,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 318973,
       "name": "Tire Tracks And Broken Hearts",
       "url": "https://open.spotify.com/track/2kQYRC0Y4mQ2FleuIiBMdA"

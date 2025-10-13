@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13293,
+  "num_followers": 13299,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABHL5dGU4XBpyU1AdOryRw+",
+  "snapshot_id": "aOmeAAAAAAC5G5o1bZjkzT1vMh95/xS9",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 229345,
+      "name": "Non Living Thing",
+      "url": "https://open.spotify.com/track/7H7XxS0Qbrs0NCnjijkqC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True To Self",
         "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/3KybqFROlrZOhTwyrByBPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 229345,
-      "name": "Non Living Thing",
-      "url": "https://open.spotify.com/track/7H7XxS0Qbrs0NCnjijkqC1"
     },
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jailer",
+        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Jailer",
+      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jailer",
-        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Jailer",
-      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disturbation 2",
+        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 163801,
+      "name": "DND (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -659,6 +679,26 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
     },
     {
       "added_at": null,
@@ -683,26 +723,6 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope (Brighter Day)",
-        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 316421,
-      "name": "Hope (Brighter Day)",
-      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 191719,
       "name": "Anadwo (feat. King Promise)",
       "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 316421,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
     },
     {
       "added_at": null,
@@ -903,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disturbation 2",
-        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 163801,
-      "name": "DND (feat. Sarkodie)",
-      "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Epistles of Mama",
         "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 247462,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disturbation",
         "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 223883,
       "name": "Confirm (feat. Sarkodie) - Remix",
       "url": "https://open.spotify.com/track/5faNR7l2oKzCAh9Hpnjnxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 247462,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Khalid, Of Monsters and Men, Malen og mörgum fleiri!
 
-8,201 songs - 18 day 8 hr 59 min
+8,202 songs - 18 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1554,7 +1554,7 @@
 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 | 2024-09-13 | 2024-09-20 |
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-30 | 2024-09-06 |
 | [Daggers](https://open.spotify.com/track/0vyOox9JgtqHMYqmTofFgx) | [Lemi](https://open.spotify.com/artist/6z7Xu7QkD7cqJ8brVwtb1c) | [Daggers](https://open.spotify.com/album/7cDgFT6OBIEmCKgKqjSNlp) | 2:39 | 2025-03-07 | 2025-03-14 |
-| [Dagsljós](https://open.spotify.com/track/0h133rP9Qj2nmfFrBuUgqd) | [Haukur Karlsson](https://open.spotify.com/artist/3iSBYm00XaY6RdKWs6th1Y) | [Dagsljós](https://open.spotify.com/album/605zfuNgmKtwHieaHwUp5U) | 3:27 | 2025-10-10 |  |
+| [Dagsljós](https://open.spotify.com/track/0h133rP9Qj2nmfFrBuUgqd) | [Haukur Karlsson](https://open.spotify.com/artist/3iSBYm00XaY6RdKWs6th1Y) | [Dagsljós](https://open.spotify.com/album/605zfuNgmKtwHieaHwUp5U) | 3:27 | 2025-10-10 | 2025-10-13 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 | 2024-07-12 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2025-07-18 |
 | [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-17 | 2025-01-24 |
@@ -3497,7 +3497,7 @@
 | [I Wanna Rock](https://open.spotify.com/track/4rBpe38oSQHOfdw0HTGlG8) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [I Wanna Rock](https://open.spotify.com/album/3BR2RTLgJR3EA74VgFjhf2) | 2:31 | 2024-11-15 | 2024-11-22 |
 | [I Wanna See](https://open.spotify.com/track/01UX0YmvesUSeuYorGldfv) | [JAOVA](https://open.spotify.com/artist/2fI5dsTenHeFqazjkcnLiK) | [I Wanna See](https://open.spotify.com/album/4L1Oq6jbp14LD9k6A9wwsm) | 2:18 | 2025-05-23 | 2025-05-24 |
 | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Niecy Nash](https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD) | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO) | 2:23 | 2024-05-24 | 2024-06-01 |
-| [I Want Back The Money](https://open.spotify.com/track/07XFxGlZCPgmFhKH7v9dwq) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [I Want Back The Money](https://open.spotify.com/album/2n3lUh44rLPniOkyYw2Cvc) | 2:48 | 2025-10-10 | 2025-10-11 |
+| [I Want Back The Money](https://open.spotify.com/track/07XFxGlZCPgmFhKH7v9dwq) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [I Want Back The Money](https://open.spotify.com/album/2n3lUh44rLPniOkyYw2Cvc) | 2:48 | 2025-10-10 |  |
 | [I Want You](https://open.spotify.com/track/0POZcZCXYeUF7fC4EnRlVp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [I Want You](https://open.spotify.com/album/5zWogd3YFW9oUU2fQHZdWQ) | 2:18 | 2025-09-19 | 2025-09-27 |
 | [I Want You](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Want You](https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL) | 3:27 | 2025-03-07 | 2025-03-14 |
 | [I want you \(Trip\)](https://open.spotify.com/track/4IyuKBbcKNj8p9MxWuc99Q) | [Doddi](https://open.spotify.com/artist/4uDjp80ACpBEbLavgAgD4R), [Erna Hrönn](https://open.spotify.com/artist/2G66JDENMNLKPpm5ys0DQY) | [I want you \(Remixes\)](https://open.spotify.com/album/7um6tPIGWxvv6Ca3hLXgEl) | 3:53 | 2025-03-07 | 2025-03-08 |
@@ -7012,6 +7012,7 @@
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-05 | 2025-09-12 |
 | [The Deeper The Dark](https://open.spotify.com/track/3EhziI3RFpI5Yu6SLzlRHr) | [Marie Fjeldsted](https://open.spotify.com/artist/7KnLpYdNw1AHZPXrDRaFOq) | [The Deeper The Dark](https://open.spotify.com/album/7mEenJdMo5Zw7jWiWgOlxi) | 4:01 | 2024-09-13 | 2024-09-20 |
 | [The Devil and The Deep Blue Se](https://open.spotify.com/track/0uWuFohvaeohT27Wlq47VX) | [Már Gunnarsson](https://open.spotify.com/artist/1EWJdUzA6wX50ksKqdtwTX) | [Orchestral Me](https://open.spotify.com/album/16IFplCSr5WQuaMA5wBN8y) | 3:16 | 2025-05-09 | 2025-05-10 |
+| [The diluted man](https://open.spotify.com/track/5m1R2fDMJbCwcALe7DwyrB) | [SÓT](https://open.spotify.com/artist/6Nc1Qeqwnbi0odTnFc0Lua) | [Beware](https://open.spotify.com/album/6GKVjHzzYvUn1W23HlrHNo) | 4:48 | 2025-10-10 |  |
 | [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-07-26 | 2024-08-03 |
 | [The Edge](https://open.spotify.com/track/4VUTrfsv4CPP9AwVLpyJEg) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [The Edge](https://open.spotify.com/album/1tXZYS2ULrdoOVFq98q36m) | 3:34 | 2024-07-19 | 2024-07-27 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2024-09-13 |
@@ -7904,7 +7905,7 @@
 | [Why Why Why](https://open.spotify.com/track/1lpoamZ7AhyXq8VukIU8eM) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Why Why Why](https://open.spotify.com/album/2s02TARBneDJSDw36o9wmg) | 2:32 | 2025-06-13 | 2025-06-20 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-08-16 |
 | [Why!](https://open.spotify.com/track/7aU4ncYupezuI6pgfBIo9D) | [Ireneusz Bukrabo](https://open.spotify.com/artist/0xpLExYadIj0pQ5HxLjnZv) | [Why!](https://open.spotify.com/album/6ggOJhlgzUnyXaONayeBpi) | 3:41 | 2025-07-11 | 2025-07-18 |
-| [WHYWEWAITIN?](https://open.spotify.com/track/5nqwtJC1obPZB03NSgFk9a) | [LEX1](https://open.spotify.com/artist/4KpmarSWMPNTPMWsNPGilb), [ripzan](https://open.spotify.com/artist/5vuNNlhR7JljUL5CPshvk6) | [WHYWEWAITIN?](https://open.spotify.com/album/4rW91scvPscd5NHt9O4Rbr) | 2:01 | 2025-10-10 |  |
+| [WHYWEWAITIN?](https://open.spotify.com/track/5nqwtJC1obPZB03NSgFk9a) | [LEX1](https://open.spotify.com/artist/4KpmarSWMPNTPMWsNPGilb), [ripzan](https://open.spotify.com/artist/5vuNNlhR7JljUL5CPshvk6) | [WHYWEWAITIN?](https://open.spotify.com/album/4rW91scvPscd5NHt9O4Rbr) | 2:01 | 2025-10-10 | 2025-10-13 |
 | [Wicked Game](https://open.spotify.com/track/3rja4owL55gkG5v5EmlJ88) | [Beta Ey](https://open.spotify.com/artist/0PMuVlEkkfnEJAvu7YJX6r) | [Wicked Game](https://open.spotify.com/album/3cC4pxNbP7nL4I8T6spKyI) | 4:08 | 2024-11-22 | 2024-11-24 |
 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 | 2024-07-26 | 2024-08-03 |
 | [Wickedest Game](https://open.spotify.com/track/0THat2WkSLZ4y5uW3xy2B6) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Wickedest Game](https://open.spotify.com/album/0nbAL66ZRCbJXcY4vWyOZY) | 2:50 | 2024-05-10 | 2024-05-17 |

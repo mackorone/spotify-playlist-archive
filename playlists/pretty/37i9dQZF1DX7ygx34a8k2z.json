@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 294634,
+  "num_followers": 294738,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -463,18 +447,34 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Porno For Pyros",
         "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 216916,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Son Of Sam",
-      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 196905,
       "name": "Disarm - 2011 Remaster",
       "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Son Of Sam",
+      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Gold Soundz",
-      "url": "https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 223640,
       "name": "Sandusky",
       "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Gold Soundz",
+      "url": "https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Fizzy Fuzzy Big & Buzzy",
-        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
-      },
-      "artists": [
-        {
-          "name": "The Refreshments",
-          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Banditos",
-      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "American Water",
         "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 238333,
       "name": "Random Rules",
       "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Fizzy Fuzzy Big & Buzzy",
+        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
+      },
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Banditos",
+      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Enter The Vaselines (Deluxe Edition)",
         "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 226600,
       "name": "Soul And Fire",
       "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Monster (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 278653,
-      "name": "Crush With Eyeliner - Remastered",
-      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Signals, Calls and Marches",
         "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 233573,
       "name": "That's When I Reach for My Revolver",
       "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Monster (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 278653,
+      "name": "Crush With Eyeliner - Remastered",
+      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
     }
   ],
   "unique_name": "Thrifted",

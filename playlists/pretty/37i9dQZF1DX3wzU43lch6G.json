@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 115051,
+  "num_followers": 115041,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Esirinim",
+      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Bi' Fazla",
         "url": "https://open.spotify.com/album/5ZytuhJ7mB6QwiUUQVbOFv"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 203588,
       "name": "Bi' Fazla",
       "url": "https://open.spotify.com/track/5CEDFlX2WDEwZNHv588tJc"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Esirinim",
-      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
     },
     {
       "added_at": "2025-07-10 21:06:57",

@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14364,
+  "num_followers": 14363,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAC25bNkA4GVzYJTcZWPnXA9",
+  "snapshot_id": "aOmeAAAAAADVtOXTBSG81FKMaB0Ymwt/",
   "tracks": [
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "I Could Have Done More",
-      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Violin Encores: Perlman",
         "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 228373,
       "name": "Paganini: Sonata for Violin and Guitar in E Minor, Op. 3 No. 6 (Version for Violin and Piano)",
       "url": "https://open.spotify.com/track/0OGRw2Ikkgszpe11t16mlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "I Could Have Done More",
+      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
-      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: \"Double\" Concerto for Two Violins in D minor; Violin Concertos Nos. 1 & 2 [Expanded Edition]",
         "url": "https://open.spotify.com/album/5ei1Nzj3ZmA7CnuXNNOIhX"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 232293,
       "name": "Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",
       "url": "https://open.spotify.com/track/4iYIRlCTOUE26lYwtvXEDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
+      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 86106,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
-      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 500293,
       "name": "Brahms: Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
       "url": "https://open.spotify.com/track/55NalIUC671ie5eaNJAHjt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 86106,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
+      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 144133,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
-      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero - Music from the Original Soundtrack",
         "url": "https://open.spotify.com/album/413ti22XjH5D5mT4iMh3oL"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 259600,
       "name": "For the World",
       "url": "https://open.spotify.com/track/5U2eLcIC0k1gHAnlJCLqai"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
+      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
     },
     {
       "added_at": null,
@@ -983,54 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mozart: The Violin Sonatas",
-        "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Violin Sonata in E Minor, K. 304: II. Tempo di menuetto \u2013 Dolce",
-      "url": "https://open.spotify.com/track/5hMdbFndHhgOcojT7KKwNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 164013,
-      "name": "The Garden Meeting",
-      "url": "https://open.spotify.com/track/1gyZVY9EM1DWwGg89tbHcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart: Violin Concertos Nos. 3 & 5",
         "url": "https://open.spotify.com/album/2oaky393ootB7Ar3CgRrMY"
       },
@@ -1059,22 +1011,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 100333,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
-      "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
+      "duration_ms": 164013,
+      "name": "The Garden Meeting",
+      "url": "https://open.spotify.com/track/1gyZVY9EM1DWwGg89tbHcS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
+      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mozart: The Violin Sonatas",
+        "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Violin Sonata in E Minor, K. 304: II. Tempo di menuetto \u2013 Dolce",
+      "url": "https://open.spotify.com/track/5hMdbFndHhgOcojT7KKwNA"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,26 @@
       "duration_ms": 212573,
       "name": "Tara's Theme (From \"Gone with the Wind\" 1939)",
       "url": "https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 100333,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
+      "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
     },
     {
       "added_at": null,
@@ -1148,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
-      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
+      "duration_ms": 267000,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
+      "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
     },
     {
       "added_at": null,
@@ -1183,37 +1203,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
-        "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
+        "name": "Cinema Serenade II - \"The Golden Age\"",
+        "url": "https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy"
       },
       "artists": [
         {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: II. Largo",
-      "url": "https://open.spotify.com/track/0nVKP5MIslzUa0Pf21fxVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+          "name": "Herman Hupfeld",
+          "url": "https://open.spotify.com/artist/6ys8UConnvI1LUcjd9it0Z"
         },
         {
           "name": "Itzhak Perlman",
@@ -1224,13 +1220,13 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 250066,
-      "name": "The Age of Innocence: Theme",
-      "url": "https://open.spotify.com/track/43wyMgvDfI5FZ9RHvpP5pF"
+      "duration_ms": 257533,
+      "name": "As Time Goes By from \"Casablanca\" (1942)",
+      "url": "https://open.spotify.com/track/5JCMmD3ysCoxTD8c04iG5L"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

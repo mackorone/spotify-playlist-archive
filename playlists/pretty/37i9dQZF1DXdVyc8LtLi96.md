@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,519 likes - 193 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,509 likes - 193 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 192 | [Solace](https://open.spotify.com/track/3tTODVYrvJiv6vmtlJ4Lk0) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Solace](https://open.spotify.com/album/3LE7JCtELLKIimtJaaPAiR) | 2:54 |
 | 193 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 |
 
-Snapshot ID: `AAAAAFJXGO0nB1D/KjdS0qHjpjLe9/z3`
+Snapshot ID: `AAAAAFfT9iF2OtgcHi6BX8lTKcdTrtFx`

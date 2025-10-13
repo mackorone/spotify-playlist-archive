@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Crescendo
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,295 likes - 83 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,294 likes - 83 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

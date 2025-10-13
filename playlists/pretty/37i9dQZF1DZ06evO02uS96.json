@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 168813,
+  "num_followers": 168828,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAA4Uv48InOextAdqgaC3nYy",
+  "snapshot_id": "aOmeAAAAAABDXYAzrosB8OR6/zlZk3TK",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 245065,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 227146,
       "name": "Deep down",
       "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 245065,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "escalate",
-        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "escalate",
-      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 245038,
       "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u767d\u8272\u8709\u8763",
-        "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 191803,
-      "name": "\u767d\u8272\u8709\u8763",
-      "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 371426,
       "name": "\u82b1\u306e\u5504",
       "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u767d\u8272\u8709\u8763",
+        "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 191803,
+      "name": "\u767d\u8272\u8709\u8763",
+      "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
     },
     {
       "added_at": null,

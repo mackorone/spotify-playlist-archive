@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 12 Oct 03:08 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 13 Oct 22:10 UTC.
 
-5,648 songs - 13 day 2 hr 44 min
+5,650 songs - 13 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Bang](https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Bang](https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr) | 2:58 | 2024-07-11 | 2024-07-13 |
 | [BANG! BANG!](https://open.spotify.com/track/4J3Cc849gxjt4Psz5D8afQ) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [BANG! BANG!](https://open.spotify.com/album/0yvWY2OGWbqcGJjI0kaRjE) | 2:03 | 2024-06-27 | 2024-06-29 |
 | [Bangin & Swangin](https://open.spotify.com/track/1ZVOOmDqzLRwpZREVnN6Jo) | [Bway Yungy](https://open.spotify.com/artist/7BDaqFWndPKDEGdbph2CNe) | [Bangin & Swangin](https://open.spotify.com/album/3xS2bT0J7WStBeE6L7ZWTX) | 2:08 | 2024-09-30 | 2024-10-03 |
-| [Bar Lis](https://open.spotify.com/track/7c4XrViMB9QrN6hcs03qWg) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bar Lis](https://open.spotify.com/album/3p43y2WV3sOwx6afL0N8y6) | 2:35 | 2025-10-01 |  |
+| [Bar Lis](https://open.spotify.com/track/7c4XrViMB9QrN6hcs03qWg) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bar Lis](https://open.spotify.com/album/3p43y2WV3sOwx6afL0N8y6) | 2:35 | 2025-10-01 | 2025-10-13 |
 | [BARMAN](https://open.spotify.com/track/2trw3sZEVbHxqzGX5mvgJI) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [BARMAN](https://open.spotify.com/album/1mByzAvZR3t9OIaqDtnpQ0) | 2:57 | 2024-08-23 | 2024-08-28 |
 | [Barnacles](https://open.spotify.com/track/5twkvcBhCfhvujp1TerwgX) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Barnacles](https://open.spotify.com/album/2JmRJPmuscTeGnrV2akaJi) | 1:37 | 2024-06-16 | 2024-06-20 |
 | [Barril Dobrado](https://open.spotify.com/track/1PF6ehDeyEsF8EjSBMc3wS) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Renato Matos](https://open.spotify.com/artist/0F0GzVvB2Rt8EfZkKiX9P9) | [Barril Dobrado](https://open.spotify.com/album/1vwZZ1TgrY3uFvCIQL9Sn1) | 3:53 | 2024-09-18 | 2024-09-21 |
@@ -2566,7 +2566,7 @@
 | [Itchy Scratchy](https://open.spotify.com/track/3AU0hykNQtcqOX4qpm1k6p) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Itchy Scratchy](https://open.spotify.com/album/7ux6l9kHz1x6tHl1runcDq) | 3:12 | 2025-08-14 | 2025-08-17 |
 | [Itchycoo Park](https://open.spotify.com/track/7cUdLPJHkDFdBUl7LMvHik) | [Robyn Hitchcock](https://open.spotify.com/artist/0O0g9JMOVNoIgLG6dgaYMY) | [Itchycoo Park](https://open.spotify.com/album/3Ws1ld02gXxWaXHk9qkon0) | 3:14 | 2024-07-08 | 2024-07-10 |
 | [ITS A FEE](https://open.spotify.com/track/5uGLdWkqGSE2DPDPasVp0k) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [ITS A FEE](https://open.spotify.com/album/6FVOnrqhJCtkCbVL8V79Iq) | 2:20 | 2025-04-25 | 2025-05-08 |
-| [Itsumo](https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Itsumo](https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5) | 4:11 | 2025-10-01 |  |
+| [Itsumo](https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Itsumo](https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5) | 4:11 | 2025-10-01 | 2025-10-13 |
 | [Itty Bitty](https://open.spotify.com/track/1Sm7bXFmjP6mmT8ApaYCqQ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/27vnaEWzQKbzyTcAHwVlxZ) | 2:42 | 2025-03-21 | 2025-04-02 |
 | [Ivy](https://open.spotify.com/track/3NaoUErYvsNDldn2cL8bIo) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Ivy](https://open.spotify.com/album/4FcOv4fcM8BGlnWNoJjaCp) | 1:04 | 2024-09-06 | 2024-09-11 |
 | [IWONTLETYOUDIE](https://open.spotify.com/track/1cAKzjWxDnsYf20JhZ7oBw) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [IWONTLETYOUDIE](https://open.spotify.com/album/2dHhAumusascVwLITieFyp) | 3:33 | 2024-09-17 | 2024-09-20 |
@@ -3646,6 +3646,7 @@
 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 | 2025-04-24 | 2025-05-03 |
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-07-30 | 2024-08-01 |
 | [Palo Santo](https://open.spotify.com/track/27N4GJFArHsaiJnY9pimri) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Palo Santo](https://open.spotify.com/album/4jiYDxiBdSP7rLFOHmUGb0) | 4:13 | 2024-05-22 | 2024-05-24 |
+| [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 | 2025-10-12 |  |
 | [Panavision](https://open.spotify.com/track/5DO8iVnJwb45iYWpDzIOse) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Panavision](https://open.spotify.com/album/18WG8VLTCQc7XI7xdk9VaF) | 4:09 | 2024-10-04 | 2024-10-09 |
 | [Panduricane](https://open.spotify.com/track/4WzKM7fhiI9qIquXfiJqN4) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Rei The Imperial](https://open.spotify.com/artist/0FXVFwfExhiohOaMQqBsVV) | [Panduricane](https://open.spotify.com/album/3fPU73CawexHqsEyBLeD7z) | 2:48 | 2024-08-29 | 2024-08-31 |
 | [panelinha do diabo \(DISS RAPKHAOS\)](https://open.spotify.com/track/62U12qdWdBd6E0U0JDQ33l) | [COPA](https://open.spotify.com/artist/7tYGxLSeKCdeKIBKltCi94), [IKU THE KID](https://open.spotify.com/artist/27rSFoEywL1cIeKc7hAswn), [YUNG EXU](https://open.spotify.com/artist/3DXjbJTy8X1dniEV37jd89) | [panelinha do diabo \(DISS RAPKHAOS\)](https://open.spotify.com/album/1xfKGJ5Pxh2xAvEhc7KGTq) | 11:25 | 2024-12-28 | 2025-01-11 |
@@ -4254,6 +4255,7 @@
 | [Shoulder To The Wheel](https://open.spotify.com/track/62gUFv2kvpLqRNTzCRZh38) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Shoulder To The Wheel / Lady In A Blue Dress](https://open.spotify.com/album/3TMRiU1ZypbVVdKRvFekVv) | 3:21 | 2024-10-10 | 2024-10-12 |
 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 | 2024-12-13 | 2024-12-17 |
 | [Show Me](https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Show Me](https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8) | 3:37 | 2024-12-13 | 2024-12-20 |
+| [Show Me Love](https://open.spotify.com/track/0c2Y7YWGOEDQTR1s7seczw) | [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc) | [Show Me Love](https://open.spotify.com/album/0bKTKn8gF2aYqqyH8h2maU) | 2:30 | 2025-10-12 |  |
 | [Show My Love](https://open.spotify.com/track/4IlZc2pTaBy3KS0CDQ2Y3l) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Show My Love](https://open.spotify.com/album/7pIu9h2ynbzntidblgFSHZ) | 3:15 | 2024-05-04 | 2024-05-08 |
 | [SHOW OFF](https://open.spotify.com/track/3LqokQxjMHl7U24DjGVaS4) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [SHOW OFF](https://open.spotify.com/album/7IkLPBnLaNKZEXVEq4RDfl) | 3:06 | 2024-06-05 | 2024-06-07 |
 | [SHOW THEM](https://open.spotify.com/track/7dbBa36xYlQcDOjUJ0qNGA) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [SHOW THEM](https://open.spotify.com/album/2kaaZQBTWB4BSQVyaqAJsz) | 3:15 | 2024-08-07 | 2024-08-10 |

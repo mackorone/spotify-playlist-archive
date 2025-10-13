@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,914 likes - 100 songs - 5 hr 6 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,913 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

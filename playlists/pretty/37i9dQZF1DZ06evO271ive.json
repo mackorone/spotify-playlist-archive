@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28162,
+  "num_followers": 28172,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAKAVMQcHeM+MXgbvD5idUn",
+  "snapshot_id": "aOmeAAAAAAA/RXYSOFMF99qFbYs/w/mS",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Like",
-        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 152157,
-      "name": "I Like It (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 152157,
+      "name": "I Like It (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4"
     },
     {
       "added_at": null,

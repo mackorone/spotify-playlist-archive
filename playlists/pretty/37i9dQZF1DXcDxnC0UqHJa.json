@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 451341,
+  "num_followers": 451301,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -427,38 +427,6 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -491,18 +475,18 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -519,6 +503,22 @@
       "duration_ms": 210604,
       "name": "Hey Me, Hey Mama",
       "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -667,30 +667,6 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
-        "name": "Western Pleasure",
-        "url": "https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C"
-      },
-      "artists": [
-        {
-          "name": "Chaparelle",
-          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
-        },
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        },
-        {
-          "name": "Jesse Woods",
-          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
-        }
-      ],
-      "duration_ms": 212552,
-      "name": "Dance with Somebody",
-      "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
         "name": "Nobody Dies Anymore",
         "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "Western Pleasure",
+        "url": "https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        },
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "duration_ms": 212552,
+      "name": "Dance with Somebody",
+      "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
-        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
-        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 216773,
-      "name": "Remembering Mountains",
-      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
+        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+      "duration_ms": 216773,
+      "name": "Remembering Mountains",
+      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2025-09-12 04:00:08",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {
-        "name": "i'm not okay",
-        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "i'm not okay",
-      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
         "name": "Talk to Me of Mendocino",
         "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 200666,
       "name": "Talk to Me of Mendocino",
       "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "i'm not okay",
+        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "i'm not okay",
+      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
     },
     {
       "added_at": "2025-09-12 04:00:08",

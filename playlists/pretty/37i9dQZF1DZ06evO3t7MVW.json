@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91510,
+  "num_followers": 91540,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAC1f8H2OKQ8XR8/QrZIw72A",
+  "snapshot_id": "aOmeAAAAAABF5tolsBtlNnfN3GcYJDg+",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Treasure (with Stick Figure)",
+        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
+      },
+      "artists": [
+        {
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Treasure (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Life (with Stick Figure) [2017]",
         "url": "https://open.spotify.com/album/5X1KWRLAGVcqe4OIgFI23P"
       },
@@ -655,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treasure (with Stick Figure)",
-        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
       "artists": [
-        {
-          "name": "Stay High",
-          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 202457,
-      "name": "Treasure (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,

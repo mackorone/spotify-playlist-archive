@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,682 likes - 75 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,845 likes - 75 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 15 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
 | 16 | [Blue Lines \- 2012 Mix/Master](https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Blue Lines \(2012 Mix/Master\)](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf) | 4:21 |
 | 17 | [Leave Home](https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 5:32 |
-| 18 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
-| 19 | [Sugar Water](https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb) | [Cibo Matto](https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6) | [Viva! La Woman](https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W) | 4:29 |
+| 18 | [Sugar Water](https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb) | [Cibo Matto](https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6) | [Viva! La Woman](https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W) | 4:29 |
+| 19 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
 | 20 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
 | 21 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
 | 22 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 |

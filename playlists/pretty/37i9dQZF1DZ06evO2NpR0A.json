@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 284215,
+  "num_followers": 284261,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACBpCDW/xu0nbHUO5LD8rcT",
+  "snapshot_id": "aOmeAAAAAABT2wCNRDAo3N7+X5QXMaXJ",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bon Iver, Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bon Iver, Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 298586,
-      "name": "Wash.",
-      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 182607,
       "name": "From",
       "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/0k4XDoI1iCB3fV2RstqiYA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200589,
-      "name": "THINGS BEHIND THINGS BEHIND THINGS",
-      "url": "https://open.spotify.com/track/0k4XDoI1iCB3fV2RstqiYA"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Lump Sum",
-      "url": "https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 210054,
       "name": "Everything Is Peaceful Love",
       "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Lump Sum",
+      "url": "https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 329266,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 213005,
       "name": "Day One",
       "url": "https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 329266,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tie you down",
         "url": "https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 176826,
       "name": "Tie you down",
       "url": "https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": null,
@@ -700,25 +700,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+      "duration_ms": 145720,
+      "name": "U (Man Like)",
+      "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 286661,
       "name": "I Can't Make You Love Me - AIR Studios \u2013 4AD/Jagjaguwar Session",
       "url": "https://open.spotify.com/track/2rCFBMdyuqqoO1LAuYggw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 145720,
-      "name": "U (Man Like)",
-      "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
     },
     {
       "added_at": null,

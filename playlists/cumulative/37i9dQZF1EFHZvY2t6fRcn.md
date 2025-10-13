@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-191 songs - 10 hr 26 min
+193 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Differently](https://open.spotify.com/track/4lZ7ulKpCoSkCu8mAbu2KE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [DONT PANIC!](https://open.spotify.com/album/3dAtB9xY7UrJAMgTOIeuQE) | 3:11 | 2021-12-27 |  |
 | [DLT](https://open.spotify.com/track/02ibTlP8OopGchPa4UNLDL) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 3:46 | 2021-12-27 |  |
 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 | 2023-12-13 |  |
-| [DON'T GO](https://open.spotify.com/track/5tUB2wLW8Cm7yovnJMNjNK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DON'T GO](https://open.spotify.com/album/099NpAg36lYBfjHhlm0cbC) | 2:27 | 2025-08-05 |  |
+| [DON'T GO](https://open.spotify.com/track/5tUB2wLW8Cm7yovnJMNjNK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DON'T GO](https://open.spotify.com/album/099NpAg36lYBfjHhlm0cbC) | 2:27 | 2025-08-05 | 2025-10-13 |
+| [DON'T GO](https://open.spotify.com/track/6MkhaNziqglynUlHoyTyXD) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:27 | 2025-10-12 |  |
 | [Don't Sweat It](https://open.spotify.com/track/4cWPQXwN7p0RKihlUlcOUf) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Don't Sweat It](https://open.spotify.com/album/5BuwJcN3VVB8p7jpcytX0W) | 2:47 | 2025-08-05 |  |
 | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN) | 2:53 | 2021-12-27 |  |
 | [Donuts \(feat\. Yung Bae\)](https://open.spotify.com/track/2xubfBD4QUOmcMUq1EZz6h) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Donuts \(feat\. Yung Bae\)](https://open.spotify.com/album/10GQ2AlvNYtpJ6yI577GFn) | 3:35 | 2021-12-27 |  |
@@ -107,7 +108,8 @@
 | [How Soon](https://open.spotify.com/track/3xYN1E1k2yKo542ORTXM0G) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK) | 3:10 | 2023-07-10 | 2023-07-17 |
 | [How Soon](https://open.spotify.com/track/1KUiTZjA5fEMT3MlBZNifv) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/6yQpOyThTfe6Za8iwCWFXZ) | 3:17 | 2023-12-13 | 2024-02-02 |
 | [How Soon](https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [How Soon](https://open.spotify.com/album/1JL6Vatn02HjOJtxL1eHrt) | 3:09 | 2023-07-05 | 2023-07-11 |
-| [Human](https://open.spotify.com/track/5XJcLojjlAJRtUagEZmP9N) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Human](https://open.spotify.com/album/5ql4aGdqDTQmVQK5lDUkoN) | 3:49 | 2025-05-05 |  |
+| [Human](https://open.spotify.com/track/0278TT9ll8EfDjGquqSKHD) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Made By Humans](https://open.spotify.com/album/3w32i0W8RFQKyieEtihWl1) | 3:49 | 2025-10-12 |  |
+| [Human](https://open.spotify.com/track/5XJcLojjlAJRtUagEZmP9N) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Human](https://open.spotify.com/album/5ql4aGdqDTQmVQK5lDUkoN) | 3:49 | 2025-05-05 | 2025-10-13 |
 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 | 2021-12-27 | 2022-10-14 |
 | [I Don't Love You](https://open.spotify.com/track/5lmNLpttoz07aUCITtAKhX) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/352YNkVFSV9KDvGlLpEwRc) | 3:24 | 2022-10-13 |  |
 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 | 2021-12-27 |  |

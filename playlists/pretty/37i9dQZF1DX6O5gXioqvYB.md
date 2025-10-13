@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Caleydo, Bassi Maestro e Willie Peyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,208 likes - 130 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,213 likes - 130 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 38078,
+  "num_followers": 38091,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABajCXaX95I3uTn/xFihIoM",
+  "snapshot_id": "aOmeAAAAAADlG6HedijBsOqpNR/KcWSU",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "FINE AS CAN BE (feat. Latto)",
-      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You For Believing",
-        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 168019,
-      "name": "5'5 (feat. Latto)",
-      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
+      "duration_ms": 212293,
+      "name": "FINE AS CAN BE (feat. Latto)",
+      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 144313,
       "name": "Another Nasty Song",
       "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You For Believing",
+        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "5'5 (feat. Latto)",
+      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wet (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 211917,
       "name": "Wet (feat. Latto) - Remix",
       "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": null,

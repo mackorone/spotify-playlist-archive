@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,292 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,362 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

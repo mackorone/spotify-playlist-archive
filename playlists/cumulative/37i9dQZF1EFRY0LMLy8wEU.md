@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 6 hr 45 min
+59 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Lost In Your Love \- Live](https://open.spotify.com/track/5sKovJKHO8vXmY6sXb2LMo) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:15 | 2024-06-13 |  |
 | [Made for This](https://open.spotify.com/track/2H1vftx4WiRdjS62Xt8eAR) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:36 | 2025-01-09 | 2025-04-12 |
 | [Mark My Hands](https://open.spotify.com/track/5WzwrBudvjpvUn3kR2vte8) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:43 | 2025-01-09 | 2025-04-12 |
-| [MARVELOUS](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [MARVELOUS](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 | 2025-03-02 |  |
+| [MARVELOUS](https://open.spotify.com/track/2KFCXdnAs7TODkyU0yKy2j) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [IT NEEDS TO BE SAID](https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY) | 6:54 | 2025-10-12 |  |
+| [MARVELOUS](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [MARVELOUS](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 | 2025-03-02 | 2025-10-13 |
 | [Marvelous \(Lion Of Judah\)](https://open.spotify.com/track/1xIACUXOMUSmg9n5PN147G) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Ethan Mizell](https://open.spotify.com/artist/0Z3GyEO2HxFkopxTnzmPfX) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 9:13 | 2025-06-06 |  |
 | [Name Above All Names](https://open.spotify.com/track/5HBJZ3m9HX1aAwAlI2CZQD) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 4:59 | 2025-04-27 |  |
 | [No One Else \(Tear Down The Idols\) \- Live](https://open.spotify.com/track/2BrWJMN0CXvsHiaJRY7HFP) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 10:36 | 2024-06-13 |  |

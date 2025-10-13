@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-408 songs - 1 day 2 hr 39 min
+409 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [The Best Rapper Alive](https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [The Best Rapper Alive](https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm) | 8:07 | 2021-07-24 | 2025-07-19 |
 | [The Road To Love \- Session Victim Remix](https://open.spotify.com/track/4YOixxEQ37yJAk8oCeayMt) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Road To Love \(Session Victim Remix\)](https://open.spotify.com/album/1ZqSIQICM4yNHYiH9axKKG) | 7:15 | 2024-05-03 | 2024-05-06 |
 | [The Sea](https://open.spotify.com/track/0vDyt6VTJtFzyfnE9il1pf) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT) | [The Sea](https://open.spotify.com/album/5GutsKyXeAmABV8n6xM3Ea) | 3:14 | 2021-07-24 | 2023-05-20 |
-| [The Way That I Found You](https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Val Fritz](https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6) | [The Way That I Found You](https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs) | 2:50 | 2025-06-20 |  |
+| [The Way That I Found You](https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Val Fritz](https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6) | [The Way That I Found You](https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs) | 2:50 | 2025-06-20 | 2025-10-13 |
 | [This Moment](https://open.spotify.com/track/2ZK0GG7qJJJQ6zxKYjNctf) | [tade kop](https://open.spotify.com/artist/3hRZovynAos5EBfchVKP1X) | [This Moment](https://open.spotify.com/album/4g4MdICF8uv9VKXU2jIqer) | 7:56 | 2022-06-20 | 2023-05-20 |
 | [This Moment](https://open.spotify.com/track/5dg97Wk0dj5LsywKrVEdRH) | [tade kop](https://open.spotify.com/artist/3hRZovynAos5EBfchVKP1X) | [This Moment](https://open.spotify.com/album/4yJmLaVjw7boUufKOxKHkb) | 7:56 | 2021-07-24 | 2023-03-19 |
 | [Tides \- Jean Tonique Remix](https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Tides \(Jean Tonique Remix\)](https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY) | 3:01 | 2024-05-10 | 2025-06-12 |
@@ -401,6 +401,7 @@
 | [When We're Together](https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt) | [Love Language](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Bodies in Motion](https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA) | 3:16 | 2024-10-11 | 2024-11-21 |
 | [Where Is Your Love?](https://open.spotify.com/track/6LpcEu4BJpfP17fRsSwwSm) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Where Is Your Love?](https://open.spotify.com/album/3P59XOkYAUdkVAgElTVRW0) | 3:50 | 2025-09-26 | 2025-10-11 |
 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 | 2025-07-25 |  |
+| [White Rose](https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [White Rose](https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa) | 2:27 | 2025-10-03 |  |
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2023-05-19 | 2023-07-18 |
 | [Wish I Knew You \- Poolside Remix](https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Wish I Knew You \(Poolside Remix\)](https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj) | 4:05 | 2025-06-27 |  |
 | [Without You](https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Sacha Vee](https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8) | [Without You](https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh) | 3:47 | 2023-05-19 |  |

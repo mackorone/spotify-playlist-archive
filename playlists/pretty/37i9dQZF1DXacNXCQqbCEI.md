@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,004 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,985 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 47 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
 | 48 | [Agüita del Equilibrio \- Remix](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 |
 | 49 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
-| 50 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 |
-| 51 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 |
+| 50 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 |
+| 51 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 |
 | 52 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 |
 | 53 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
 | 54 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 |

@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Didn't Wanna Know",
+        "url": "https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139706,
+      "name": "Didn't Wanna Know",
+      "url": "https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b"
+    },
+    {
+      "album": {
         "name": "die young",
         "url": "https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP"
       },
@@ -6220,7 +6242,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 242685,
       "name": "What You Came Here For",
       "url": "https://open.spotify.com/track/2LFuOES0fbFjpfIJpnLCjC"

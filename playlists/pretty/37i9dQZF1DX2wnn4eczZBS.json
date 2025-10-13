@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
-  "num_followers": 10903,
+  "num_followers": 10911,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        }
+      ],
+      "duration_ms": 142645,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "Onomkeerbaar",
         "url": "https://open.spotify.com/album/5Ml2XiiPL0prhJVxS6240H"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 172058,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        }
-      ],
-      "duration_ms": 142645,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "voor alles bang / h-e-l-p",
+        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 187408,
+      "name": "h-e-l-p",
+      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "Liefdesliedjes",
         "url": "https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz"
       },
@@ -595,6 +611,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 145361,
+      "name": "Kubus In Een Ballenbak",
+      "url": "https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "Voor Alles",
         "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
       },
@@ -611,38 +643,6 @@
       "duration_ms": 230971,
       "name": "Voor Alles",
       "url": "https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "voor alles bang / h-e-l-p",
-        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 187408,
-      "name": "h-e-l-p",
-      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 145361,
-      "name": "Kubus In Een Ballenbak",
-      "url": "https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "TOM",
-        "url": "https://open.spotify.com/album/6hXAOu7RS5VwjGyh2zNO1h"
-      },
-      "artists": [
-        {
-          "name": "Roosbeef",
-          "url": "https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5"
-        }
-      ],
-      "duration_ms": 261181,
-      "name": "TOM",
-      "url": "https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
         "name": "Partijtje (Deluxe)",
         "url": "https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "TOM",
+        "url": "https://open.spotify.com/album/6hXAOu7RS5VwjGyh2zNO1h"
+      },
+      "artists": [
+        {
+          "name": "Roosbeef",
+          "url": "https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5"
+        }
+      ],
+      "duration_ms": 261181,
+      "name": "TOM",
+      "url": "https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "narcose",
         "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 173816,
       "name": "narcose",
       "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 144782,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -787,6 +771,38 @@
       "duration_ms": 120833,
       "name": "Waarom Ik Zo Ben",
       "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
+        "name": "Doe Het Voor Het Geld",
+        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 190059,
+      "name": "Doe Het Voor Het Geld",
+      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -839,22 +855,6 @@
       "duration_ms": 215184,
       "name": "Wind In De Zeilen",
       "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Doe Het Voor Het Geld",
-        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
-      },
-      "artists": [
-        {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 190059,
-      "name": "Doe Het Voor Het Geld",
-      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     }
   ],
   "unique_name": "indie.nl",

@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 257533,
       "name": "As Time Goes By from \"Casablanca\" (1942)",
       "url": "https://open.spotify.com/track/5JCMmD3ysCoxTD8c04iG5L"
@@ -132,6 +132,28 @@
       "duration_ms": 946800,
       "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
       "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
+    },
+    {
+      "album": {
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
+      "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
     },
     {
       "album": {
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 250066,
       "name": "The Age of Innocence: Theme",
       "url": "https://open.spotify.com/track/43wyMgvDfI5FZ9RHvpP5pF"
@@ -1436,7 +1458,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 159266,
       "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: II. Largo",
       "url": "https://open.spotify.com/track/0nVKP5MIslzUa0Pf21fxVQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 67th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,367 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,356 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 122 | [Diamante](https://open.spotify.com/track/5eRN0FLIkrRDbpOBZtH6bi) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:41 |
 | 123 | [When The Sun Shines Again \[Feat\. Posdnuos\]](https://open.spotify.com/track/7dPzrE3hNzxtUIDqKmZY3B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [The Auditorium Vol\. 1](https://open.spotify.com/album/1wA3gsTb8pgnKuAyJbAsu0) | 4:45 |
 | 124 | [Underestimate Me](https://open.spotify.com/track/3zO4DFfpvGh8CXfN8nhiG0) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/30XLu62xz6MZPVHC64ZY7T) | 3:08 |
-| 125 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/1XeVdgCil539quM3POT69i) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE) | 4:46 |
+| 125 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 |
 
 Snapshot ID: `AAAAAIGF7/Q/XcR0lsTDl29hOFKQhvsr`

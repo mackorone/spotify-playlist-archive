@@ -3241,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Sodalite",
+        "url": "https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S"
+      },
+      "artists": [
+        {
+          "name": "Jaleesa",
+          "url": "https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248041,
+      "name": "Let Love In",
+      "url": "https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR"
+    },
+    {
+      "album": {
         "name": "Amager Forbr\u00e6nding",
         "url": "https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H"
       },
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 186681,
       "name": "Umuligt",
       "url": "https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1"

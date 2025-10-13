@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-569 songs - 1 day 11 hr 3 min
+570 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ghzelian](https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw) | [Lady Starlight](https://open.spotify.com/artist/0eoS0xkD1JAXJIEQi766Mf) | [Ghzelian](https://open.spotify.com/album/1Hmb3Wm0vqW6hqqlROGKVQ) | 5:57 | 2023-08-01 | 2023-08-05 |
 | [Gib Mir Mehr Bass](https://open.spotify.com/track/4hSIygkn86TpNKupbFD3oM) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Gib Mir Mehr Bass](https://open.spotify.com/album/3BeyoLz2TiUqRMcn04ImJS) | 4:42 | 2025-08-14 | 2025-10-10 |
 | [Gigolo](https://open.spotify.com/track/1oqKD9FYu3DJJcWJ5lPVmK) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:25 | 2025-04-17 | 2025-05-23 |
+| [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 | 2025-10-10 |  |
 | [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 | 2023-05-26 | 2025-02-01 |
 | [Global BBs](https://open.spotify.com/track/0HL34cP8CEovMTUKcjkcZr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ) | 5:14 | 2023-06-15 | 2023-06-23 |
 | [Go Slow](https://open.spotify.com/track/3pUdwCa5PmX0VrgED0GJ9v) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Go Slow](https://open.spotify.com/album/2dAyGQEbIQUzHFdlPuzrIm) | 5:20 | 2024-10-17 | 2024-10-26 |
@@ -544,7 +545,7 @@
 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 | 2024-11-11 |  |
 | [Walk \(feat\. Kwabs\)](https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Walk \(feat\. Kwabs\)](https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN) | 2:19 | 2025-10-02 |  |
 | [Walking Alone](https://open.spotify.com/track/1YHcwgrbsYdyyAFYiW8MNN) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Walking Alone](https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD) | 3:09 | 2023-05-05 | 2023-05-11 |
-| [Walking On A Dream \- Marlon Hoffstadt Remix](https://open.spotify.com/track/0NZdEb4FIYj30IVRlzaY30) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Walking On A Dream \(Marlon Hoffstadt Remix\)](https://open.spotify.com/album/21MFSVhoL9WvCfCWFcVB82) | 3:56 | 2025-08-28 |  |
+| [Walking On A Dream \- Marlon Hoffstadt Remix](https://open.spotify.com/track/0NZdEb4FIYj30IVRlzaY30) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Walking On A Dream \(Marlon Hoffstadt Remix\)](https://open.spotify.com/album/21MFSVhoL9WvCfCWFcVB82) | 3:56 | 2025-08-28 | 2025-10-13 |
 | [Wanna Feel](https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c) | [DJ IP](https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK), [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Wanna Feel](https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2) | 3:18 | 2025-04-17 |  |
 | [Want My Love](https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [WOLTERS](https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl) | [Want My Love](https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE) | 3:18 | 2025-01-30 | 2025-06-06 |
 | [Wasting My Time](https://open.spotify.com/track/3jMH2HPknbxm6tVC1OySSJ) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Wasting My Time](https://open.spotify.com/album/4b4sE5JJHgFlXwN4CKbzkQ) | 2:05 | 2024-10-25 | 2024-11-12 |

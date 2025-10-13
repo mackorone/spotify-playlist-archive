@@ -1,13 +1,29 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 146535,
+  "num_followers": 146551,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADov9mu4AYKl07eBEgp08cN",
+  "snapshot_id": "aOmeAAAAAADYk7dhNJRjNFdW9TqwPtSd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 344746,
+      "name": "Esoteric surgery",
+      "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
+    },
     {
       "added_at": null,
       "album": {
@@ -252,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 291626,
-      "name": "Vacuity",
-      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
+      "duration_ms": 321786,
+      "name": "Oroborus",
+      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
     },
     {
       "added_at": null,
@@ -316,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 321786,
-      "name": "Oroborus",
-      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
+      "duration_ms": 291626,
+      "name": "Vacuity",
+      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
     },
     {
       "added_at": null,
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 344746,
-      "name": "Esoteric surgery",
-      "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
+      "duration_ms": 309533,
+      "name": "A sight to behold",
+      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 399320,
       "name": "Explosia",
       "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 309533,
-      "name": "A sight to behold",
-      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 279826,
-      "name": "Embrace the world",
-      "url": "https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp"
+      "duration_ms": 103546,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 103546,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
+      "duration_ms": 279826,
+      "name": "Embrace the world",
+      "url": "https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp"
     },
     {
       "added_at": null,

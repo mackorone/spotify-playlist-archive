@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 31814,
+  "num_followers": 31824,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Nasheed Al Abtal",
+        "url": "https://open.spotify.com/album/1h6ZfXJnDh0Vvlrv7mj7yh"
+      },
+      "artists": [
+        {
+          "name": "Hani Mitwasi",
+          "url": "https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK"
+        }
+      ],
+      "duration_ms": 187643,
+      "name": "Nasheed Al Abtal",
+      "url": "https://open.spotify.com/track/0NWhRdPRI06ABKoOeRSgrb"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Black Iris",
         "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 200000,
       "name": "Affon Mennik",
       "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Nasheed Al Abtal",
-        "url": "https://open.spotify.com/album/1h6ZfXJnDh0Vvlrv7mj7yh"
-      },
-      "artists": [
-        {
-          "name": "Hani Mitwasi",
-          "url": "https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK"
-        }
-      ],
-      "duration_ms": 187643,
-      "name": "Nasheed Al Abtal",
-      "url": "https://open.spotify.com/track/0NWhRdPRI06ABKoOeRSgrb"
     },
     {
       "added_at": "2024-12-21 19:38:19",

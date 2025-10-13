@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1164345,
+  "num_followers": 1164456,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Lost In Yesterday",
+      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Lost In Yesterday",
-      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Murder on the Dancefloor (triple j Like A Version)",
         "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -539,6 +523,22 @@
       "duration_ms": 266884,
       "name": "In The Modern World",
       "url": "https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 117173,
       "name": "The Sunshine",
       "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Wraith Pinned to the Mist and Other Games",
-      "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "It Still Moves",
         "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 279240,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 255613,
+      "name": "Wraith Pinned to the Mist and Other Games",
+      "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 290360,
       "name": "Satanist",
       "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
-      },
-      "artists": [
-        {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
-        }
-      ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 175773,
       "name": "This Head I Hold",
       "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+      },
+      "artists": [
+        {
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "Grapes Upon the Vine",
-        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
     },
     {
       "added_at": "2025-06-23 14:31:12",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 58545,
+  "num_followers": 58558,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 203881,
+      "name": "Close Friends (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 203881,
-      "name": "Close Friends (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 207038,
-      "name": "Sauce It Up",
-      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 253533,
       "name": "Weston Road Flows",
       "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 207038,
+      "name": "Sauce It Up",
+      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "way back",
-      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 172320,
       "name": "Bacc Seat (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "way back",
+      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Lil Uzi Vert vs. The World",
+        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "You Was Right",
+      "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 146938,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Lil Uzi Vert vs. The World",
-        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "You Was Right",
-      "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253934,
+      "name": "30 for 30 Freestyle",
+      "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 166911,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253934,
-      "name": "30 for 30 Freestyle",
-      "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -571,26 +571,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe"
-        }
-      ],
-      "duration_ms": 135682,
-      "name": "Ain't Hard Enough (feat. Mozzy)",
-      "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 209299,
       "name": "Voice of the Heroes",
       "url": "https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe"
+        }
+      ],
+      "duration_ms": 135682,
+      "name": "Ain't Hard Enough (feat. Mozzy)",
+      "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+      "duration_ms": 156032,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 156032,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Flamerz Flow",
         "url": "https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 100465,
       "name": "Flamerz Flow",
       "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
     },
     {
       "added_at": "2022-10-01 20:14:07",

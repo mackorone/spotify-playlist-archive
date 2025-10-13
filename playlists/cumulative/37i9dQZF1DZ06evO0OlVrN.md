@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 20 min
+109 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [El Espejo](https://open.spotify.com/track/0fUjuxOomFIcRi7T0OKqlD) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:25 | 2022-06-01 | 2023-07-28 |
 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 | 2022-06-01 |  |
 | [El Mudo](https://open.spotify.com/track/0nPCdv3NceFCfG9hYUYR2y) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Carta Jugada](https://open.spotify.com/album/6hIdbrZ6oE86qovJBhQs1L) | 2:25 | 2022-12-21 | 2022-12-30 |
-| [Estamos en Algo](https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Estamos en Algo](https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3) | 2:53 | 2025-07-21 | 2025-09-05 |
+| [Estamos en Algo](https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Estamos en Algo](https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3) | 2:53 | 2025-07-21 |  |
 | [Falsa Ilusion](https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT) | 3:16 | 2025-09-11 |  |
 | [Hay Ojitos](https://open.spotify.com/track/7thQxNZ1gvjrOMO3uXE8E3) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:25 | 2025-05-13 |  |
 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 | 2022-06-01 | 2025-05-13 |
@@ -52,6 +52,7 @@
 | [La Calandria](https://open.spotify.com/track/7dMuUJav5z8sWek9KmiTz0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:43 | 2022-06-01 | 2023-12-25 |
 | [La Criminal](https://open.spotify.com/track/23j4mLQPGhJkGzafDm4krB) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [12 Mejores Éxitos con](https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2) | 2:23 | 2025-04-03 | 2025-07-21 |
 | [La Criminal](https://open.spotify.com/track/06sDSQea3CjpaAcmNn2ITE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 2:23 | 2023-01-27 | 2023-02-01 |
+| [La Criminal](https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 2:23 | 2025-10-13 |  |
 | [Llorar por Amor](https://open.spotify.com/track/1m8DK7AJnDmY96v35EzfC3) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:55 | 2023-03-02 | 2023-03-04 |
 | [Llorar por Amor](https://open.spotify.com/track/3csxQ4oZ6IxhAoNm1TroSp) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:55 | 2025-05-14 |  |
 | [Llorar por Amor](https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:55 | 2022-06-01 | 2023-02-08 |
@@ -73,7 +74,7 @@
 | [Mujer de Cabaret](https://open.spotify.com/track/6ImZIERaxITFJ7yy4RdVW9) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:49 | 2022-06-01 | 2023-11-11 |
 | [Mujer de Cabaret](https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 2:53 | 2025-06-15 |  |
 | [Ni Los Pleitos](https://open.spotify.com/track/1bTWYFOaOO5RCeZPjUmIK5) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 3:08 | 2023-01-19 | 2025-05-17 |
-| [Ni los Pleitos](https://open.spotify.com/track/4LB4xxzRzPdYbfdsEsBUOg) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 3:08 | 2025-06-07 |  |
+| [Ni los Pleitos](https://open.spotify.com/track/4LB4xxzRzPdYbfdsEsBUOg) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 3:08 | 2025-06-07 | 2025-10-13 |
 | [No Quiero Sobras](https://open.spotify.com/track/7tjpXxiYqQKeY0wV52T8Fc) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte](https://open.spotify.com/album/3MrkwTmOD0zCV35nuCwPws) | 2:00 | 2022-06-02 | 2022-08-09 |
 | [Pancha La Contrabandista](https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 3:17 | 2023-10-01 | 2025-04-06 |
 | [Pobre de Ti](https://open.spotify.com/track/1Ti5FPXoE0hCbNk94ooq5D) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 2:20 | 2025-03-14 | 2025-05-23 |

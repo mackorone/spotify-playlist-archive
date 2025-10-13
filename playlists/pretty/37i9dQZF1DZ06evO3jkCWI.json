@@ -1,29 +1,13 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 190453,
+  "num_followers": 190510,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAB/VLmP8gcI0H6Iz8RxdIm9",
+  "snapshot_id": "aOmeAAAAAACE5a1WLIzZW8lWlZXyjanV",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 168304,
-      "name": "La Mejor de Mis Tragedias",
-      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Vida O Muerte",
         "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 159013,
       "name": "Degenerado",
       "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 168304,
+      "name": "La Mejor de Mis Tragedias",
+      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Puedes Irte",
-      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 140333,
       "name": "Te Sorprend\u00ed Llorando",
       "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Puedes Irte",
+      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Derrotado Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0rCMtvxL1xtZe4qkEm2cix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
       },
       "artists": [
         {
@@ -816,9 +800,25 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 147373,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+      "duration_ms": 171493,
+      "name": "Derrotado Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0rCMtvxL1xtZe4qkEm2cix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Reproches Del Viento",
+      "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

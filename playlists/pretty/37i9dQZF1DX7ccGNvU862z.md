@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: NICECNX
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,310 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,323 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 22 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
 | 23 | [แค่ร้องไห้](https://open.spotify.com/track/4Xrtvtw0eUILFuUqBXLdIb) | [KRK](https://open.spotify.com/artist/69jmffWjz5TWglZkReTYJC), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40), [AISXXN](https://open.spotify.com/artist/63vkuspvn7cpk9eDi8pCna) | [แค่ร้องไห้](https://open.spotify.com/album/2rY0jwLpbidvMUOBuAt83u) | 3:50 |
 | 24 | [รออยู่อย่างนั้น](https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [SIMON](https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo) | [รออยู่อย่างนั้น](https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq) | 3:52 |
-| 25 | [Gemmie Green](https://open.spotify.com/track/6MAJum3pqKNgSSN261C4rs) | [PEE CLOCK](https://open.spotify.com/artist/6cSZFqw3uA0BoCchNwEXZd), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [Gemmie Green](https://open.spotify.com/album/18xNF27wmCl5JrjEnSl4Kt) | 3:11 |
+| 25 | [Gemmie Green](https://open.spotify.com/track/6MAJum3pqKNgSSN261C4rs) | [PEE CLOCK](https://open.spotify.com/artist/6cSZFqw3uA0BoCchNwEXZd) | [Gemmie Green](https://open.spotify.com/album/18xNF27wmCl5JrjEnSl4Kt) | 3:11 |
 | 26 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 |
 | 27 | [A STAR TO SUPERSTAR](https://open.spotify.com/track/0a6xIulJaKthHWFCIlU4pl) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [A STAR TO SUPERSTAR](https://open.spotify.com/album/5ZVp8jh4JMXKcwqMe3bcPU) | 3:34 |
 | 28 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |

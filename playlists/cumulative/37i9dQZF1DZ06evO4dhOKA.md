@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 24 min
+127 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [LST](https://open.spotify.com/track/5JG6WYVJ1tAS9xBB7e0dOK) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [LST](https://open.spotify.com/album/2NiDblmiV1cVK89jmRrpYu) | 3:02 | 2022-06-05 | 2022-06-24 |
 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 | 2022-06-01 |  |
 | [Lupe Rubalcava AKA Corrido De Lupe Rubalcava](https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:04 | 2022-10-18 | 2024-05-28 |
+| [Me acostumbré a tu ausencia](https://open.spotify.com/track/1lxhIBrEuFIjkE1hyppAN0) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguantala](https://open.spotify.com/album/5ztL60Ente5novB4BApxOj) | 2:20 | 2025-10-13 |  |
 | [Me la Rifo](https://open.spotify.com/track/3yjiLPEVHaYsPSdfekrm4Q) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:55 | 2022-06-17 | 2022-08-04 |
 | [Me Llega, Me Llega \(En Vivo\)](https://open.spotify.com/track/7xHx5S7Sd6ruj6syWrwljS) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3ioAkBCcr9y8ClSMNDSSaV) | 3:15 | 2024-11-29 | 2024-12-20 |
 | [Me Refiero A Ti](https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:13 | 2022-06-01 |  |
@@ -101,7 +102,7 @@
 | [Para Ti Mi Amor](https://open.spotify.com/track/2DgnPsg5oI4jiFLnTvuEBA) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:49 | 2022-07-22 | 2023-08-31 |
 | [Pcrct](https://open.spotify.com/track/2NFxWx1OMaZzpGKYumJRqs) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [Pcrct](https://open.spotify.com/album/5n4ScMcE5IpqkskLHGpTpE) | 3:00 | 2022-10-12 | 2022-10-14 |
 | [Pero Aprendí](https://open.spotify.com/track/35C1fOhRp44fgU8GhixoDf) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desilucionado](https://open.spotify.com/album/5enzZnUz32i62BGj5HwjNF) | 3:05 | 2025-09-04 | 2025-09-05 |
-| [Pero María](https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:07 | 2023-04-02 |  |
+| [Pero María](https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:07 | 2023-04-02 | 2025-10-13 |
 | [Perro Viejo](https://open.spotify.com/track/683mVjXRj66upXCE2s9tgj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:29 | 2022-07-27 | 2022-08-17 |
 | [Playa Sola](https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:48 | 2022-06-01 |  |
 | [Popurri / En Vivo Desde Monterrey \- En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008](https://open.spotify.com/track/0sPQ3zxRu4JqrPm3fbwL80) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo Desde Monterrey \(En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008\)](https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL) | 9:07 | 2022-08-05 | 2022-08-07 |

@@ -15499,6 +15499,24 @@
     },
     {
       "album": {
+        "name": "Magnify",
+        "url": "https://open.spotify.com/album/60dw1Si8TWEXO57JG5XAK3"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Magnify",
+      "url": "https://open.spotify.com/track/5SN0zJOEIA1nUlstP6QKee"
+    },
+    {
+      "album": {
         "name": "Butter-Fly",
         "url": "https://open.spotify.com/album/4JffvJGAbqTkmnDRfkq2hf"
       },
@@ -22566,7 +22584,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 183980,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 12 hr 31 min
+232 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Please](https://open.spotify.com/track/2mtjE61KBNeAeMFSm8O9Kp) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Please](https://open.spotify.com/album/41KVKULVd75hp1N3EVV3GA) | 3:00 | 2024-02-27 |  |
 | [Postcard](https://open.spotify.com/track/39YHUF4uf9XqkI9cnfcyvl) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [2.0](https://open.spotify.com/album/70Vir1HK39vDTcOQOWA1iP) | 3:09 | 2025-01-09 | 2025-04-12 |
 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 | 2024-02-27 |  |
-| [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-07-02 |  |
+| [PRIDE](https://open.spotify.com/track/4fHjAlhou3qMEgLUSbtvPP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 2:38 | 2025-10-12 |  |
+| [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-07-02 | 2025-10-13 |
 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 | 2024-02-27 |  |
 | [Psychic](https://open.spotify.com/track/2mZULc67KQ7PJ3pqGl1Uce) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9) | 2:21 | 2024-06-16 |  |
 | [Psychic](https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Psychic](https://open.spotify.com/album/4uqK3r60uam9Qy1a1KPZ2r) | 2:21 | 2024-05-09 | 2024-06-17 |

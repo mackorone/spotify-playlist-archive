@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Bum Motion Club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,489 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,492 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 45 | [ABR](https://open.spotify.com/track/384YwnEDoqxBZLDjTjnqhq) | [Menend](https://open.spotify.com/artist/7s2SDZOabRitXKgUdoXmXC) | [ABR](https://open.spotify.com/album/5b8hQoXhrGYB3qZ93mnlbv) | 3:42 |
 | 46 | [ShoW Me How](https://open.spotify.com/track/050iCra2LcH5fPBWxMIhHr) | [Roxy<3](https://open.spotify.com/artist/1mDIyqXE2yADrjDuC7SbFw) | [ShoW Me How](https://open.spotify.com/album/1xiWjbEs3RqmdXsnT16Kt6) | 2:09 |
 | 47 | [need U :3](https://open.spotify.com/track/5beIEMUIE6UQP1WMTcIfiA) | [Lexxi](https://open.spotify.com/artist/0Hq4VsUMJJSDMouXwWm0K3), [Jexer](https://open.spotify.com/artist/6YVg3kG0xBkIOz1cmuloZ0), [Trillfox](https://open.spotify.com/artist/09pT3LYxLNhME3Rp9D6Vob) | [need U :3](https://open.spotify.com/album/2iq6xFJfUBex5DIvetwOjN) | 3:20 |
-| 48 | [FWA](https://open.spotify.com/track/2D8J2o1DCHOiVwaqOPFInv) | [nuevesinko](https://open.spotify.com/artist/5d77smsqsQSbZ53VgWVPbQ), [Krivex](https://open.spotify.com/artist/4vdsFZnvLAorUuT4TSQgA3) | [FWA](https://open.spotify.com/album/6ri7nAsPoWs7yrtPZ3PMSx) | 2:08 |
+| 48 | [FWA](https://open.spotify.com/track/2D8J2o1DCHOiVwaqOPFInv) | [nuevesinko](https://open.spotify.com/artist/5d77smsqsQSbZ53VgWVPbQ), [Krivex](https://open.spotify.com/artist/4vdsFZnvLAorUuT4TSQgA3), [meiloo](https://open.spotify.com/artist/0TyjcrSugMLzG0yBEAMsvp) | [FWA](https://open.spotify.com/album/6ri7nAsPoWs7yrtPZ3PMSx) | 2:08 |
 | 49 | [OTW](https://open.spotify.com/track/6YwUWW2AVbDufuYTEPXk42) | [FIKUS](https://open.spotify.com/artist/5szRJH6PvPsvN61YlwkP1s) | [NO LOVE](https://open.spotify.com/album/5NjpWshnVoMc9t4BoalSUW) | 2:58 |
 | 50 | [La batalla de los cisnes](https://open.spotify.com/track/2X623oR7LpvA7wmTbREwrb) | [Musgö](https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT) | [La batalla de los cisnes](https://open.spotify.com/album/7wLog2Kyh5aXrlfAYAdxTb) | 3:24 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Oct 03:08 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Oct 22:10 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 155756,
       "name": "Bar Lis",
       "url": "https://open.spotify.com/track/7c4XrViMB9QrN6hcs03qWg"
@@ -48944,7 +48944,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 251477,
       "name": "Itsumo",
       "url": "https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw"
@@ -69497,6 +69497,24 @@
     },
     {
       "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
+    },
+    {
+      "album": {
         "name": "Panavision",
         "url": "https://open.spotify.com/album/18WG8VLTCQc7XI7xdk9VaF"
       },
@@ -81086,6 +81104,28 @@
       "duration_ms": 217417,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/0bKTKn8gF2aYqqyH8h2maU"
+      },
+      "artists": [
+        {
+          "name": "Mecdoux",
+          "url": "https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q"
+        },
+        {
+          "name": "Chill Covers",
+          "url": "https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150267,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0c2Y7YWGOEDQTR1s7seczw"
     },
     {
       "album": {

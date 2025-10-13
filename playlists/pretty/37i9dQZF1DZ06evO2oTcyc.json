@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 224122,
+  "num_followers": 224149,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACwhcIYPAJZJ82jRiEy7JjF",
+  "snapshot_id": "aOmeAAAAAABBSY4MO/I0R9ddQfviIWVk",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 196113,
-      "name": "There He Go",
-      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 276835,
       "name": "Sufro",
       "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 196113,
+      "name": "There He Go",
+      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imma Shoot",
-        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 206985,
-      "name": "Imma Shoot",
-      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 160266,
       "name": "how you did that (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imma Shoot",
+        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 206985,
+      "name": "Imma Shoot",
+      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 168312,
-      "name": "Day for Day",
-      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 213028,
       "name": "Gave It All I Got",
       "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 168312,
+      "name": "Day for Day",
+      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "Patty Cake",
-      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
     }
   ],
   "unique_name": "This Is Kodak Black",

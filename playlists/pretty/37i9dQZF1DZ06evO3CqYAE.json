@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13583,
+  "num_followers": 13597,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABq5mYxO/dnBOm9iOircerc",
+  "snapshot_id": "aOmeAAAAAACncZP1CQfzk0kz3v3L8otS",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
       "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": null,
@@ -195,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+      "duration_ms": 238226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
     },
     {
       "added_at": null,

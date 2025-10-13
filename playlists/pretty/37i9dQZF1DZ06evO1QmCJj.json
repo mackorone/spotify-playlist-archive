@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 46996,
+  "num_followers": 46992,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABIavoDoI+zVZ30gQXTAHxg",
+  "snapshot_id": "aOmeAAAAAADiST9Tqne7CG2jG9N6OZUe",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
     },
     {
       "added_at": null,

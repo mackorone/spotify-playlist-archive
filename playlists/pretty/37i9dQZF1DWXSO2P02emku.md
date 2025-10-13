@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Wuicho Kun & Macario Martínez en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,245 likes - 91 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,236 likes - 91 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 90 | [NO SÉ QUÉ PASÓ](https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:29 |
 | 91 | [CUÍDALA](https://open.spotify.com/track/0KQ4DeYVWAoIDDGGxHEKQo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:43 |
 
-Snapshot ID: `AAAAAFROr2EtABp3ryh9Ht0qiBZgZIRP`
+Snapshot ID: `AAAAABA/HZ0fOMwbXidlWX4iE3JtueIM`

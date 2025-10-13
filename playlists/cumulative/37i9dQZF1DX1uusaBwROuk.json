@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255586,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/4k80K0b6KZ2QjAYkXON7q6"
+    },
+    {
+      "album": {
         "name": "Single and Loving It",
         "url": "https://open.spotify.com/album/2PUAa4925N18G0R9RrhuPA"
       },
@@ -370,24 +388,6 @@
       "duration_ms": 255586,
       "name": "Blow Me (One Last Kiss)",
       "url": "https://open.spotify.com/track/3oZJiwyGeuecKrlv5p5kj2"
-    },
-    {
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "date_added": "2022-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255586,
-      "name": "Blow Me (One Last Kiss)",
-      "url": "https://open.spotify.com/track/4k80K0b6KZ2QjAYkXON7q6"
     },
     {
       "album": {

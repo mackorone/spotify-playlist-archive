@@ -619,6 +619,22 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
+        "name": "\u5316\u3051\u7269",
+        "url": "https://open.spotify.com/album/4J7pgtevvLL5ckPVAWIVmr"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 235503,
+      "name": "\u5316\u3051\u7269",
+      "url": "https://open.spotify.com/track/2E2vLhJXZPFEsy83jhqU7s"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
         "name": "\u30ca\u30c4\u30e1\u30b0",
         "url": "https://open.spotify.com/album/1gAxx7JgGph2JOxJ9SvU2s"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 233360,
       "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
       "url": "https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
-        "name": "\u5316\u3051\u7269",
-        "url": "https://open.spotify.com/album/4J7pgtevvLL5ckPVAWIVmr"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 235503,
-      "name": "\u5316\u3051\u7269",
-      "url": "https://open.spotify.com/track/2E2vLhJXZPFEsy83jhqU7s"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "YURU FUWA",
-        "url": "https://open.spotify.com/album/4HvIZYDn9lP7DokbhBAwjv"
-      },
-      "artists": [
-        {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
-        }
-      ],
-      "duration_ms": 218679,
-      "name": "YURU FUWA",
-      "url": "https://open.spotify.com/track/15kxYnOujPpPaKT9ogmnL1"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
         "name": "\u611b\u60f3\u82b1\u706b",
         "url": "https://open.spotify.com/album/0EPEKLTiD6vtjSGKKm1QM3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 203018,
       "name": "\u611b\u60f3\u82b1\u706b",
       "url": "https://open.spotify.com/track/7hCpVVDceLNnjakgX430AW"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
+        "name": "YURU FUWA",
+        "url": "https://open.spotify.com/album/4HvIZYDn9lP7DokbhBAwjv"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 218679,
+      "name": "YURU FUWA",
+      "url": "https://open.spotify.com/track/15kxYnOujPpPaKT9ogmnL1"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "It's myself",
-        "url": "https://open.spotify.com/album/1HUDo1KaR0nVzqr4QRDSD5"
-      },
-      "artists": [
-        {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "It's myself",
-      "url": "https://open.spotify.com/track/6HAqCmixSCi21kJEobLfQs"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
         "name": "FLASH BACK!!!!!!!!",
         "url": "https://open.spotify.com/album/4yzmhRTHmTSDdlrmRjAaZA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 210566,
       "name": "FLASH BACK!!!!!!!!",
       "url": "https://open.spotify.com/track/65VJ1MYXZOYuRcf1vFna3Z"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
+        "name": "It's myself",
+        "url": "https://open.spotify.com/album/1HUDo1KaR0nVzqr4QRDSD5"
+      },
+      "artists": [
+        {
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "It's myself",
+      "url": "https://open.spotify.com/track/6HAqCmixSCi21kJEobLfQs"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "\u6708\u8755",
-        "url": "https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC"
-      },
-      "artists": [
-        {
-          "name": "krage",
-          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "\u6708\u8755",
-      "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
         "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
         "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 227360,
       "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
+        "name": "\u6708\u8755",
+        "url": "https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC"
+      },
+      "artists": [
+        {
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "\u6708\u8755",
+      "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "\u5fd8\u611b",
-        "url": "https://open.spotify.com/album/1zyInbeCTglw09GThsJMps"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 204667,
-      "name": "\u5fd8\u611b",
-      "url": "https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
         "name": "POP OUT! \u2162",
         "url": "https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "\u706f\u706b\u306e\u307b\u3068\u308a",
-        "url": "https://open.spotify.com/album/5QZTSfYxStyS67dYkMUp3c"
+        "name": "\u5fd8\u611b",
+        "url": "https://open.spotify.com/album/1zyInbeCTglw09GThsJMps"
       },
       "artists": [
         {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
         }
       ],
-      "duration_ms": 159392,
-      "name": "\u706f\u706b\u306e\u307b\u3068\u308a",
-      "url": "https://open.spotify.com/track/3PYonTxH8oqw4JwuBC4ZHZ"
+      "duration_ms": 204667,
+      "name": "\u5fd8\u611b",
+      "url": "https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1127,6 +1111,22 @@
       "duration_ms": 198302,
       "name": "\u30d1\u30e1\u30e9",
       "url": "https://open.spotify.com/track/6HEGbxwJYMtWItvjzeFAxt"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
+        "name": "\u706f\u706b\u306e\u307b\u3068\u308a",
+        "url": "https://open.spotify.com/album/5QZTSfYxStyS67dYkMUp3c"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "duration_ms": 159392,
+      "name": "\u706f\u706b\u306e\u307b\u3068\u308a",
+      "url": "https://open.spotify.com/track/3PYonTxH8oqw4JwuBC4ZHZ"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "Hey!Calling",
-        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
+        "name": "Planetary",
+        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
       },
       "artists": [
         {
-          "name": "ChoQMay",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
         }
       ],
-      "duration_ms": 237333,
-      "name": "Hey!Calling",
-      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
+      "duration_ms": 177489,
+      "name": "Planetary",
+      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "Planetary",
-        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
+        "name": "Hey!Calling",
+        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
         }
       ],
-      "duration_ms": 177489,
-      "name": "Planetary",
-      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
+      "duration_ms": 237333,
+      "name": "Hey!Calling",
+      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
+        "name": "\u7d76\u547d",
+        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
+          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "\u7d76\u547d",
+      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
         "name": "Punk Head",
         "url": "https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 173700,
       "name": "Punk Head",
       "url": "https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
-        "name": "\u30cd\u30aa\u30f3\u30c6\u30c8\u30e9",
-        "url": "https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30e9\u30ce\u30a2",
-          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
-        }
-      ],
-      "duration_ms": 204736,
-      "name": "aquarium",
-      "url": "https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1471,18 +1471,34 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "\u7d76\u547d",
-        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
+        "name": "\u967d\u708e",
+        "url": "https://open.spotify.com/album/3mflbnscwixIKrLVNAbcCd"
       },
       "artists": [
         {
-          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
-          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
+          "name": "Cidergirl",
+          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
         }
       ],
-      "duration_ms": 276705,
-      "name": "\u7d76\u547d",
-      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
+      "duration_ms": 230100,
+      "name": "\u967d\u708e",
+      "url": "https://open.spotify.com/track/6InQXgBzElIEwneMkGHoFC"
+    },
+    {
+      "added_at": "2025-10-08 13:03:12",
+      "album": {
+        "name": "\u30cd\u30aa\u30f3\u30c6\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30ce\u30a2",
+          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
+        }
+      ],
+      "duration_ms": 204736,
+      "name": "aquarium",
+      "url": "https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A"
     },
     {
       "added_at": "2025-10-08 13:03:12",
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2025-10-08 13:03:12",
       "album": {
-        "name": "\u967d\u708e",
-        "url": "https://open.spotify.com/album/3mflbnscwixIKrLVNAbcCd"
+        "name": "\u6ce1\u6cab\u306e\u5922\u306f\u5e7b\u306b",
+        "url": "https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2"
       },
       "artists": [
         {
-          "name": "Cidergirl",
-          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
         }
       ],
-      "duration_ms": 230100,
-      "name": "\u967d\u708e",
-      "url": "https://open.spotify.com/track/6InQXgBzElIEwneMkGHoFC"
-    },
-    {
-      "added_at": "2025-10-08 13:03:12",
-      "album": {
-        "name": "Remember Summer Love",
-        "url": "https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4"
-      },
-      "artists": [
-        {
-          "name": "LET ME KNOW",
-          "url": "https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3"
-        }
-      ],
-      "duration_ms": 230233,
-      "name": "Remember Summer Love",
-      "url": "https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh"
+      "duration_ms": 188952,
+      "name": "\u591c\u7a7a\u3092\u8755\u3093\u3067",
+      "url": "https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

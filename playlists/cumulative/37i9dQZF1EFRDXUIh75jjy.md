@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-267 songs - 13 hr 42 min
+271 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [buttons](https://open.spotify.com/track/6a3PAfOxDpgBv0ZdJuH5Eo) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:07 | 2025-04-27 |  |
 | [buy me diamonds](https://open.spotify.com/track/7uki6xMVoqcnF5BnMakRuk) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:13 | 2024-06-07 |  |
 | [buy me presents](https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:57 | 2024-06-07 |  |
+| [By The End of the Night](https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:54 | 2025-10-12 |  |
 | [Call me Cruella \- From "Cruella"/Soundtrack Version](https://open.spotify.com/track/74985XdDOa0oF6C0cKyyUr) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Harder Than Hell](https://open.spotify.com/album/4X9nSf8xmYbemrz2IAXFgY) | 2:07 | 2024-06-07 |  |
 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 | 2024-06-07 |  |
 | [Carry It All](https://open.spotify.com/track/04Tsc0341Dca5YJCa61H6G) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Nolan Taylor](https://open.spotify.com/album/1q0SJmCvJjp3rGPJHtuwCD) | 2:46 | 2025-01-28 |  |
@@ -159,7 +160,8 @@
 | [Leave Me Alone](https://open.spotify.com/track/44t9rTRjK82lBbZwuePQOE) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:21 | 2025-08-03 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/07uMDONIdcNsmC6a5B9dhy) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/2cggd5i8TUskOfS2TdhgVS) | 3:12 | 2024-06-07 | 2025-04-29 |
 | [Let Me Down Easy](https://open.spotify.com/track/2azuks8nAnGfe3K9H0dKaJ) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/7swmVm1TlBGvcPiCKOuoxZ) | 3:12 | 2025-04-28 |  |
-| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-09-24 |  |
+| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-09-24 | 2025-10-13 |
+| [Let Me Love You](https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:32 | 2025-10-12 |  |
 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2024-06-07 |  |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2024-06-07 |  |
 | [Lonely \(Planet Earth\)](https://open.spotify.com/track/76XsgurVtL8tGAjMjXdOza) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Lonely \(Planet Earth\)](https://open.spotify.com/album/3zIogyJOASeiqBwLSnIF0k) | 2:07 | 2024-08-16 |  |
@@ -200,6 +202,7 @@
 | [Polaroid](https://open.spotify.com/track/2vCEEjiWtVjFEmuCsggbAY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:31 | 2024-06-07 |  |
 | [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2025-07-01 |  |
 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 | 2024-06-14 |  |
+| [Pretty Idea](https://open.spotify.com/track/2dm9ovqfua9wQFsepLvugc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:34 | 2025-10-12 |  |
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2024-06-07 |  |
 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 | 2024-06-07 |  |
 | [Reasons](https://open.spotify.com/track/4kPV7Tx30Ph0tQ4XrhgYCh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Reasons](https://open.spotify.com/album/5QWym2ctJvsr8pDCS38F9Y) | 2:42 | 2024-06-07 |  |
@@ -263,6 +266,7 @@
 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 | 2024-07-21 |  |
 | [Wait So Yeah](https://open.spotify.com/track/4KwjMTNV2EPshRxetSqz5h) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Wait So Yeah](https://open.spotify.com/album/7deI2VrFcQmkGusj5YQRvj) | 2:21 | 2024-11-21 | 2024-11-29 |
 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 | 2024-11-28 |  |
+| [Warhol](https://open.spotify.com/track/3Hg9VWyKKQLcI5NuMJcn1B) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/7b0YvwnCJ456w3KWpmxlpi) | 2:35 | 2025-10-12 |  |
 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 | 2024-11-16 |  |
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2024-06-07 |  |
 | [What If It Doesn't End Well](https://open.spotify.com/track/7iAONiacXnWa66oZD0aVHh) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:41 | 2024-06-07 |  |

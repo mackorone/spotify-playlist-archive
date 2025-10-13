@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 67606,
+  "num_followers": 67670,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAu1lFab0GaywXd5ai6QJW4",
+  "snapshot_id": "aOmeAAAAAACHlcQCCQo4Rl73dyBfGZeO",
   "tracks": [
     {
       "added_at": null,
@@ -743,42 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BIGGEST",
-        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        }
-      ],
-      "duration_ms": 163715,
-      "name": "'02 Lakers (feat. Ro$ama)",
-      "url": "https://open.spotify.com/track/04IDH5UZTNO5RdWpPwebnv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -803,6 +767,42 @@
       "duration_ms": 165114,
       "name": "TexUS - Intro",
       "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "duration_ms": 163715,
+      "name": "'02 Lakers (feat. Ro$ama)",
+      "url": "https://open.spotify.com/track/04IDH5UZTNO5RdWpPwebnv"
     },
     {
       "added_at": null,

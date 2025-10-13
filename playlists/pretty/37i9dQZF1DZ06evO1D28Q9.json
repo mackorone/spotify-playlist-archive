@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 154,
+  "num_followers": 155,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACVhlIHm+jmJKCMBC/2YeT6",
+  "snapshot_id": "aOmeAAAAAADk3SFhqmYtBL9bLfsmJ1w7",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Non Ducor Duco",
+        "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Porque Eu Rimo",
+      "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -91,38 +123,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Non Ducor Duco",
-        "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
-      },
-      "artists": [
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Porque Eu Rimo",
-      "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 172676,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip Hop Machine Temporada 2",
         "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 348314,
       "name": "Raio De Sol",
       "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 172676,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
     },
     {
       "added_at": null,
@@ -539,34 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Rap \u00e9 PRETO! pt. 2",
-        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
-      },
-      "artists": [
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Dropallien",
-          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 247745,
-      "name": "O Rap \u00e9 PRETO! pt. 2",
-      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Em Nome do Vento",
         "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 273365,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Rap \u00e9 PRETO! pt. 2",
+        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
+      },
+      "artists": [
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 247745,
+      "name": "O Rap \u00e9 PRETO! pt. 2",
+      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DCazz",
-          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elza",
         "url": "https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DCazz",
+          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
     },
     {
       "added_at": null,
@@ -875,34 +875,6 @@
       "duration_ms": 382450,
       "name": "N\u00f3s Somos Pesados",
       "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coroa de Flores",
-        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Coroa de Flores",
-      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
     },
     {
       "added_at": null,
@@ -975,6 +947,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coroa de Flores",
+        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Coroa de Flores",
+      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
         "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 187560,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/4PmQCWdTqSIXEUtxxrCsoC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
-        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
     },
     {
       "added_at": null,
@@ -1079,6 +1059,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
+        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chato",
         "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
       },
@@ -1115,34 +1115,6 @@
       "duration_ms": 179426,
       "name": "Ladies In tha House",
       "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Rima N\u00e3o Para",
-        "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Tifu",
-          "url": "https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "En\u00e9zimo",
-          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
-        },
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Fofoqueiro",
-      "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
     },
     {
       "added_at": null,
@@ -1187,6 +1159,34 @@
       "duration_ms": 219402,
       "name": "Paradoxo",
       "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Rima N\u00e3o Para",
+        "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Tifu",
+          "url": "https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Fofoqueiro",
+      "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
     },
     {
       "added_at": null,

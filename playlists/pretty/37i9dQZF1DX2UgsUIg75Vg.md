@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Josh Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,044 likes - 220 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,966 likes - 220 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

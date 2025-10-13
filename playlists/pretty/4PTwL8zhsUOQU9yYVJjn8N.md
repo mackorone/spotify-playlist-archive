@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > Includes instrumentals , collabs, ect ect
 
-[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 349 likes - 189 songs - 6 hr 13 min
+[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 349 likes - 195 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,5 +197,11 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 187 | [bumpin' tails](https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:31 |
 | 188 | [w](https://open.spotify.com/track/6qZglgzWHfGbyXODLz2x8l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 1:34 |
 | 189 | [BOARD GAME](https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [BOARD GAME](https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7) | 1:57 |
+| 190 | [Can you take it?](https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Can you take it?](https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8) | 3:33 |
+| 191 | [BEAR YOUR FANGS](https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:01 |
+| 192 | [UNDER THE MOON](https://open.spotify.com/track/4x6N95mRNVrJmzvAwAPIhW) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Luminives](https://open.spotify.com/artist/1ZTi4INXlrjdNBtcZTxh1y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:09 |
+| 193 | [Pity Party](https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [It's Been Fun](https://open.spotify.com/album/54xxREc9c1mjBqaOBlvf89) | 2:53 |
+| 194 | [i'm down](https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Heart After Dark](https://open.spotify.com/album/2I0VYlIm2Ilkojw3maV72G) | 4:38 |
+| 195 | [Anymore](https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf) | [MADAME SCARLETT](https://open.spotify.com/artist/4mg8GHGlnYZLHI57YAPU1P), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANYMORE](https://open.spotify.com/album/7zB4u0DjsIia8iT1Or7FXF) | 2:12 |
 
-Snapshot ID: `AAAAjtnA2USstp3RIvIfZ9NlsFRgLQJh`
+Snapshot ID: `AAAAlN8ECsevXVF1CNkVpQR+FjwR74Aq`

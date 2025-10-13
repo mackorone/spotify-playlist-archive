@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,984 likes - 215 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,985 likes - 215 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 141 | [Everything Sounds Like A Love Song](https://open.spotify.com/track/0TPsp6jaQHOcgL8bYUt4AT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 4:26 |
 | 142 | [Something Special](https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:06 |
 | 143 | [Home](https://open.spotify.com/track/29O6FQ41qJOLfHeJUenn6M) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Home](https://open.spotify.com/album/6MjqtsWcicPuNmTpBwdT2j) | 2:01 |
-| 144 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 |
-| 145 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 144 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 145 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 |
 | 146 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
 | 147 | [React, Respond](https://open.spotify.com/track/33rc0hKdMyHf6lz7WMTRdh) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:30 |
 | 148 | [Upper Hand](https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:57 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 156 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 |
 | 157 | [2step \(feat\. reezy\)](https://open.spotify.com/track/6Md7OetCK5pP3HzcX0ermc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 158 | [Setting Sun](https://open.spotify.com/track/3z1h5TgBojJ9ezQiD6IxVv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:43 |
-| 159 | [Ghost In My Head](https://open.spotify.com/track/6W1EBxpZcZpaqPoMubgHIC) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Ghost In My Head EP](https://open.spotify.com/album/2WFIJV7ySO8kurCIVYcUHt) | 3:33 |
-| 160 | [Can’t Stop the High](https://open.spotify.com/track/1d9AAVXN2uohnH4Fe07Xxn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:31 |
+| 159 | [Can’t Stop the High](https://open.spotify.com/track/1d9AAVXN2uohnH4Fe07Xxn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:31 |
+| 160 | [Ghost In My Head](https://open.spotify.com/track/6W1EBxpZcZpaqPoMubgHIC) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Ghost In My Head EP](https://open.spotify.com/album/2WFIJV7ySO8kurCIVYcUHt) | 3:33 |
 | 161 | [Got To Give](https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:37 |
 | 162 | [Mr Darkness \(feat\. Zakk Wylde\)](https://open.spotify.com/track/4xV2QwgyP4xOSjZgQ7heRN) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
 | 163 | [Swing For The Fences](https://open.spotify.com/track/5K1IDBdLzxEb6LYXsRyR6e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 3:22 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 214 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 215 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `Ab+m3gAAAAAhyB7FjHNOGLY6Uz2eHwJA`
+Snapshot ID: `Ab+siAAAAACymwKE9/PnJkidddK2qzEj`

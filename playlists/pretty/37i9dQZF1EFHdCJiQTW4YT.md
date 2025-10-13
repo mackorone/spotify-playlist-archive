@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 82 | [love to love u](https://open.spotify.com/track/74o9qZ2H16sN1xHpfrfhkf) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [love to love u](https://open.spotify.com/album/4fqBuL5Lw8mepsiZUyWugY) | 3:58 |
 | 83 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
 | 84 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
-| 85 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
-| 86 | [Side](https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:27 |
+| 85 | [Side](https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:27 |
+| 86 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
 | 87 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 88 | [Fabulous \(feat\. DMK\)](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 |
 | 89 | [this christmas](https://open.spotify.com/track/114PuZ41gfx73mseDNeRTa) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:16 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 145 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 146 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Ab+nBgAAAADFUyRilZ83tA8bcJO4bnri`
+Snapshot ID: `Ab+snAAAAAAwIoWnK6/DjWMKixtzgy5M`

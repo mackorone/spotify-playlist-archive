@@ -685,6 +685,32 @@
     },
     {
       "album": {
+        "name": "Bring The House Down",
+        "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222814,
+      "name": "Bring The House Down",
+      "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
+    },
+    {
+      "album": {
         "name": "CAN YOU SEE ME?",
         "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
       },

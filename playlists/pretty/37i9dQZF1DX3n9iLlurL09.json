@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 105622,
+  "num_followers": 105639,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue Jeans - Remastered 2011",
+      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 255400,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue Jeans - Remastered 2011",
-      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 219259,
-      "name": "Funtimes in Babylon",
-      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "Funtimes in Babylon",
+      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Let\u2019s Go",
-      "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Ekstasis",
         "url": "https://open.spotify.com/album/56xzuvliswzfM0K8Syn6PO"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 238173,
       "name": "In the Same Room",
       "url": "https://open.spotify.com/track/1ieauZ3MkAlRgA9YU1Tp92"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
+      },
+      "artists": [
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Let\u2019s Go",
+      "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
     },
     {
       "added_at": "2025-03-14 12:16:12",

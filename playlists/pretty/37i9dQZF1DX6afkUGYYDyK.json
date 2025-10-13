@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 66514,
+  "num_followers": 66560,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,26 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
+        "name": "The Essential Hezekiah Walker",
+        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+        }
+      ],
+      "duration_ms": 415640,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
         "name": "What A Miracle (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/7pAfxjEYm5QNs7O9JUCtRX"
       },
@@ -195,26 +215,6 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
-        "name": "The Essential Hezekiah Walker",
-        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Love Fellowship Choir",
-          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
-        }
-      ],
-      "duration_ms": 415640,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
         "name": "Praise The Lord",
         "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 198745,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
+        "name": "Thank You For It All",
+        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 264430,
+      "name": "Thank You For It All",
+      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -251,38 +267,6 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
-        "name": "Thank You For It All",
-        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 264430,
-      "name": "Thank You For It All",
-      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
+        "name": "Thank You Lord (Live)",
+        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 296179,
+      "name": "Thank You Lord - Live",
+      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
         "name": "Give Thanks To God",
         "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 214056,
       "name": "Give Thanks To God",
       "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
-        "name": "Thank You Lord (Live)",
-        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 296179,
-      "name": "Thank You Lord - Live",
-      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
         "name": "So Much (MultiTracks Session)",
         "url": "https://open.spotify.com/album/7Gut2BBkOjBJDDYaNEgFy4"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 327180,
       "name": "So Much - MultiTracks Session",
       "url": "https://open.spotify.com/track/5WeGtzWzGwdMIIGL3n50Pg"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
         "name": "You Find a Way",
         "url": "https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 186709,
       "name": "That Thank You Song!",
       "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2025-09-14 08:43:31",

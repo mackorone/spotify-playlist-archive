@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124209,
+  "num_followers": 124218,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAdFKyJdAID6SPk4/S43kcy",
+  "snapshot_id": "aOmeAAAAAADWU0xkZGcttF/1/Pa89BKE",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Sunshine Highway",
-      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 171026,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Sunshine Highway",
+      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
     },
     {
       "added_at": null,

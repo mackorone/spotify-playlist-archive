@@ -4,7 +4,7 @@
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-309 songs - 15 hr 30 min
+310 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Beast Mode](https://open.spotify.com/track/18SzRv5V3kIVMDtsHiLQnQ) | [D.Tail](https://open.spotify.com/artist/0EDDfddmyL0lSMIhMdWD5Y), [Turkish Dcypha](https://open.spotify.com/artist/5o6zDmcCIfP6RAdWUFBoEK) | [Beast Mode](https://open.spotify.com/album/5PTF3KKbHx3522w8ZgIL8D) | 3:35 | 2021-10-25 | 2023-05-17 |
 | [Beats n Bass \- Remix](https://open.spotify.com/track/3TYZ9NkJ4kesVhbK8SDn1N) | [Chowerman](https://open.spotify.com/artist/1h0juH599bpb0qZ8mnb6Zf), [Owlybeats](https://open.spotify.com/artist/6lcnXNJ8G5kB0YORcar5ea), [Joe Fire](https://open.spotify.com/artist/5m2RRNaXjF1FpG40ZHIQsh), [FR4NKIE](https://open.spotify.com/artist/37O3m9ooiDvU1MPVnT4lSv) | [Beats n Bass \(Remix\)](https://open.spotify.com/album/573aKfrCO5S8B1YqImaqrm) | 3:18 | 2023-11-24 | 2024-08-06 |
 | [Big Mood](https://open.spotify.com/track/7BgGiBQaTuqdxtRdaO8uYJ) | [Zefer](https://open.spotify.com/artist/63lkUTZYWny7rlcy00F0jE), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Big Mood](https://open.spotify.com/album/1AKUUfxlhS2o1Fg0giIJMw) | 3:00 | 2023-07-25 | 2024-11-29 |
-| [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 | 2025-05-08 |  |
+| [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 | 2025-05-08 | 2025-10-13 |
 | [Bine](https://open.spotify.com/track/5FgyfxTkE1KysK206WG76p) | [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [Bine](https://open.spotify.com/album/35l2jyirhnJzTIunWDRg5t) | 2:51 | 2025-03-07 |  |
 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 | 2021-10-25 | 2024-11-29 |
 | [Blatant](https://open.spotify.com/track/316WD7WTcwz5xMOHiDvMjz) | [Loon](https://open.spotify.com/artist/2SBo0Em84Nau9MoRiVzsG9) | [Blatant](https://open.spotify.com/album/77Df02oUPAoDzaHOU6BSa1) | 2:51 | 2025-05-08 | 2025-08-23 |
@@ -259,6 +259,7 @@
 | [Sleepless Nights](https://open.spotify.com/track/7xxekz2l6IJQkoWBYCPcxT) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih) | 3:56 | 2022-07-17 | 2024-04-19 |
 | [Slice of the Pie](https://open.spotify.com/track/484PQkrz1cx6S5AlPzpjkT) | [Shay D](https://open.spotify.com/artist/3g75KaSPS8HaMD5SIeHTLX), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Slice of the Pie](https://open.spotify.com/album/1x6tBUyhszS7hrAfyVxyf3) | 3:49 | 2021-10-25 | 2023-05-16 |
 | [Somebody Help?](https://open.spotify.com/track/4nVlovvJ5GnA7JgSBhNs7e) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Somebody Help?](https://open.spotify.com/album/5sUHs8jEOc4nwJkeWgfssW) | 2:44 | 2025-03-07 |  |
+| [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 | 2025-10-10 |  |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Sorry I'm Not Sorry](https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr) | 3:34 | 2022-06-17 | 2023-09-08 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4Zf5mePGslKje78fPv9D9T) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Streets, Love & Other Stuff](https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh) | 3:34 | 2023-07-25 | 2024-04-19 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/7szlrbvCCUOjGKPM5APXAZ) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Sorry I'm Not Sorry](https://open.spotify.com/album/1ovvNzmFjuR7wfdLzjwRqH) | 3:34 | 2023-07-25 | 2023-10-09 |

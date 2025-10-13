@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,012 likes - 130 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,060 likes - 130 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 27 | [If I Sit Still, Maybe I'll Get Out of Here](https://open.spotify.com/track/4pA7Q39tKh9k7NPjNGkMh2) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [This Town Needs Guns](https://open.spotify.com/album/4HIu9GFo8liRyJnUu6ex6U) | 6:02 |
 | 28 | [Delaylay](https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt) | [Stage Kids](https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU) | [Intra Mental](https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al) | 3:45 |
 | 29 | [Teleblister](https://open.spotify.com/track/0JQgWfYZJRgi6Xge4Qv7Cb) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
-| 30 | [Harvester](https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4) | [Monobody](https://open.spotify.com/artist/4jaeGVfIwCDJh18eP1rciA) | [Comma](https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd) | 3:53 |
-| 31 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
+| 30 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
+| 31 | [Harvester](https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4) | [Monobody](https://open.spotify.com/artist/4jaeGVfIwCDJh18eP1rciA) | [Comma](https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd) | 3:53 |
 | 32 | [Marsh Partition](https://open.spotify.com/track/3NrmXanmUQKkbJEUQlgQUv) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [The Second Floral \- EP](https://open.spotify.com/album/56WclCoxH3fyAe1Z8QmbKu) | 3:24 |
 | 33 | [When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.](https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [More Skin With Milk\-Mouth](https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV) | 3:52 |
 | 34 | [firebird](https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [catharsis](https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m) | 4:40 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 70 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
 | 71 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
 | 72 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
-| 73 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
+| 73 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
 | 74 | [You Eat Houmous, of Course You Listen to Genesis](https://open.spotify.com/track/1o4JR1GCZv5neEl6Djs71B) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Droids](https://open.spotify.com/album/2ZW4OKLdMjp53HgVckgOv0) | 3:40 |
-| 75 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
-| 76 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
+| 75 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
+| 76 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
 | 77 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 78 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
 | 79 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |

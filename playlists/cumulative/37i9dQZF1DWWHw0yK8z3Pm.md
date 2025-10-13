@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-587 songs - 1 day 11 hr 45 min
+588 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 | 2023-05-05 | 2024-04-19 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2023-09-08 |  |
 | [Knockin \- Single Version](https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin](https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN) | 3:23 | 2023-08-11 | 2023-11-18 |
+| [Knuckles](https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Knuckles](https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3) | 4:14 | 2025-10-09 |  |
 | [Ko'jua](https://open.spotify.com/track/4C7Lj6dioL1CbzjYFls0R6) | [Morgan Toney](https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv) | [Ko'jua](https://open.spotify.com/album/1sREECdv5BRRtA1qCpsiRE) | 3:30 | 2022-05-13 | 2022-10-01 |
 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 | 2022-05-20 | 2023-06-24 |
 | [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-05 | 2023-05-20 |
@@ -331,7 +332,7 @@
 | [Long White Veil](https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [As It Ever Was, So It Will Be Again](https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf) | 3:49 | 2024-06-21 | 2025-09-12 |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2022-07-22 | 2023-05-09 |
 | [Lose A Friend](https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL) | 3:35 | 2025-09-19 |  |
-| [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 | 2025-08-08 |  |
+| [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 | 2025-08-08 | 2025-10-13 |
 | [Lost for a While](https://open.spotify.com/track/5lLq0yhstHqi4Tz68qguqS) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Nowhere Land](https://open.spotify.com/album/34F00rG3BIf0CfY867Tn6W) | 3:46 | 2023-04-14 | 2023-05-08 |
 | [Love Is A Canyon](https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 3:48 | 2025-10-09 |  |
 | [Love Letters](https://open.spotify.com/track/75vo08Xe1zfo5PNvzd663o) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Pathways](https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS) | 3:04 | 2024-09-27 | 2024-10-12 |

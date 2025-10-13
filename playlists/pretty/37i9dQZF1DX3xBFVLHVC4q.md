@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,837 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,842 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 17 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
 | 18 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
 | 19 | [スリリング・ワンウェイ](https://open.spotify.com/track/0tJ6EW7EqnasppXMSXujDR) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:32 |
-| 20 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
-| 21 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 |
+| 20 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 |
+| 21 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
 | 22 | [ダイスキだったらダイジョウブ!](https://open.spotify.com/track/51118cg0D9k0F952AGtNou) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:32 |
 | 23 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
 | 24 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 47 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
 | 48 | [Shiny Racers](https://open.spotify.com/track/4oTMK1IRb2AbMoA2HhB1Du) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/07dOooBV026YI3SftNDkoM) | 3:37 |
 | 49 | [海岸通りで待ってるよ](https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 4:19 |
-| 50 | [1STAR](https://open.spotify.com/track/5AoBAHKO53yXadGIE4KFhZ) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Kurosawa Ruby](https://open.spotify.com/album/5Wtr1SAcAYDSBegAJX15Pm) | 5:53 |
+| 50 | [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
 
 Snapshot ID: `AAAAANxC0ru9GS11FDMUTClX4uMuUE1A`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Jos\u00e9 Madero en portada.",
-  "num_followers": 36808,
+  "num_followers": 36825,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-09-26 06:00:21",
       "album": {
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+    },
+    {
+      "added_at": "2025-09-26 06:00:21",
+      "album": {
         "name": "claroqno",
         "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 154488,
       "name": "claroqno",
       "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
-    },
-    {
-      "added_at": "2025-09-26 06:00:21",
-      "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "added_at": "2025-09-26 06:00:21",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-09-26 06:00:21",
       "album": {
-        "name": "Los de Siempre",
-        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
       },
       "artists": [
         {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Los de Siempre",
-      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
+      "duration_ms": 131628,
+      "name": "plan fatal",
+      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
     }
   ],
   "unique_name": "Pop Rock Latino",

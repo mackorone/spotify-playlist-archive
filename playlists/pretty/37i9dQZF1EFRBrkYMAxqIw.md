@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 36 | [Masochistic](https://open.spotify.com/track/43jcYOGtdpeEWjfiH1HP8w) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/0zvq9DXtDBvBO37aazJGGZ) | 2:40 |
 | 37 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 |
 | 38 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
-| 39 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
-| 40 | [My Birthday](https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [My Birthday](https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1) | 2:16 |
+| 39 | [My Birthday](https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [My Birthday](https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1) | 2:16 |
+| 40 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
 | 41 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 |
 | 42 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 |
 | 43 | [Close Your Eyes](https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Close Your Eyes](https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H) | 2:37 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 125 | [Parachute](https://open.spotify.com/track/4lViHb3L4irBiH26TOJFsj) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/4gzIENtoG03PRegwArlMA6) | 3:21 |
 | 126 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Ab+nBgAAAAD799gJdA6rd+4ccwZqKeTT`
+Snapshot ID: `Ab+siAAAAACjK9V2LytLR9mFlZexkU+J`

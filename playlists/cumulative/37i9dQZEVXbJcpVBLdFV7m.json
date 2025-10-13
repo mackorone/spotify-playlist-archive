@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 174910,
       "name": "1&Only",
       "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 216058,
       "name": "5 \u043c\u0438\u043d\u0443\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/5oYWlZScwlEOcfnfxtlHlU"
@@ -11558,7 +11558,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -16593,6 +16593,32 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/39yH7gBCTZYH2B5cpMwXZF"
+      },
+      "artists": [
+        {
+          "name": "Jedis",
+          "url": "https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN"
+        },
+        {
+          "name": "Gote",
+          "url": "https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal"
+        },
+        {
+          "name": "Nolep",
+          "url": "https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/3rVpuDRmwxFYaMNBx62xK9"
+    },
+    {
+      "album": {
         "name": "LOS VOLTAJE",
         "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
       },
@@ -17808,7 +17834,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -18146,6 +18172,24 @@
       "duration_ms": 171528,
       "name": "MATUSHKA ULTRAFUNK - Slowed",
       "url": "https://open.spotify.com/track/1xQjh33eSumLEdNbK9yrYI"
+    },
+    {
+      "album": {
+        "name": "A Kid Named Cudi",
+        "url": "https://open.spotify.com/album/2blXZboio9DF8VC39LmUag"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Maui Wowie",
+      "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
     },
     {
       "album": {
@@ -22394,7 +22438,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 112941,
       "name": "Panic",
       "url": "https://open.spotify.com/track/7eCiTvwXk0GEEhWyNmZ7Rv"
@@ -26748,7 +26792,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 248919,
       "name": "Slow Sip of Solitude",
       "url": "https://open.spotify.com/track/6GaF1uWS0BV1BF4GgVzArK"
@@ -26922,7 +26966,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 372643,
       "name": "So Hollow",
       "url": "https://open.spotify.com/track/0mf64IuFA6U9ZvwWTIlVFz"
@@ -30270,7 +30314,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 416194,
       "name": "Three Seconds To Goodbye",
       "url": "https://open.spotify.com/track/66AtMfsD0y7LV3OTt72HJu"
@@ -31070,7 +31114,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 168947,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/3d2IqDTT73zxsmlztbfloA"
@@ -33024,7 +33068,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
@@ -36014,7 +36058,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 160529,
       "name": "\u0414\u0436\u0443\u043c\u0431\u0430\u0440\u0435",
       "url": "https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq"
@@ -39340,7 +39384,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 194000,
       "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
       "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"

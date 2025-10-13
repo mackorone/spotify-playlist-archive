@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,504 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,570 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 70 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
 | 71 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 72 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
-| 73 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
+| 73 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
 | 74 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
-| 75 | [Anytime](https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc) | [NuBirth](https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 5:20 |
+| 75 | [Imagine \- Asylum Remix](https://open.spotify.com/track/7cQjdDB3ihCB7awAOZcfuE) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Pure Garage Reload \- The Very Best Of Old Skool Garage](https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa) | 5:41 |
 
 Snapshot ID: `AAAAAG5D8yptH9QhG3oT3//C/rb7sITz`

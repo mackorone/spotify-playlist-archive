@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TWICE
 
-1,588 songs - 3 day 12 hr 16 min
+1,589 songs - 3 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [BAD ENOUGH](https://open.spotify.com/track/1oeZ1eTnkh4KwCvLHlN7w1) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BAD ENOUGH](https://open.spotify.com/album/1vq1AQE3xWU0Bp568uIvim) | 2:58 | 2025-01-31 | 2025-03-07 |
 | [Bad Girls Like You \- English Version](https://open.spotify.com/track/3oKi7Fp9JhDLTKaW6fZLwO) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg), [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Bad Girls Like You \(English Version\)](https://open.spotify.com/album/4YutPe6yvcZk8u1a6zZ4ao) | 3:06 | 2025-03-06 | 2025-05-14 |
 | [BAD HOBBY](https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 2:11 | 2023-06-29 | 2023-08-11 |
-| [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 | 2025-09-07 |  |
+| [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 | 2025-09-07 | 2025-10-13 |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-07 | 2024-06-20 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/6FdfJYF7VY2BWe7NnRUKB2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/0HLaSJyrIVa0jXO3z0atmw) | 2:42 | 2024-05-21 | 2024-06-14 |
@@ -853,7 +853,7 @@
 | [MEOW](https://open.spotify.com/track/1uDkEnRotp0jjoGmtZ31rL) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [MEOW / Cheeky Icy Thang \(Japanese Ver.\)](https://open.spotify.com/album/04zQRW9brhcUtaDHQ8SH9u) | 2:13 | 2024-08-20 | 2024-09-25 |
 | [Message](https://open.spotify.com/track/7zcxUs7fDG2YPyYmbVDQlO) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Message](https://open.spotify.com/album/46CtRn5cgpV5xkTQ7xIb5u) | 4:05 | 2025-04-29 | 2025-09-18 |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-09 |  |
-| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-08-19 |  |
+| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-08-19 | 2025-10-13 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-02 | 2024-08-30 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-13 | 2025-09-19 |
 | [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 | 2025-01-23 | 2025-03-07 |
@@ -876,6 +876,7 @@
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-01 | 2025-08-07 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-16 | 2025-04-15 |
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-13 |  |
+| [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2025-10-12 |  |
 | [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-19 | 2025-05-02 |
 | [MY COLOR](https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [New Chapter](https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG) | 3:21 | 2023-07-25 | 2023-08-11 |
 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-20 | 2022-04-06 |

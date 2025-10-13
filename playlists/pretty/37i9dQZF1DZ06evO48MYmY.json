@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 346581,
+  "num_followers": 346589,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAK2CdD8TjXG8Z5JKEBK3TX",
+  "snapshot_id": "aOmeAAAAAACIFt4qJdL0Lq/GUcYsew9N",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 282706,
+      "name": "Slip Slidin' Away - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 141493,
       "name": "Leaves That Are Green",
       "url": "https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Wake up Little Susie - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Wake up Little Susie - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 167160,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 282706,
-      "name": "Slip Slidin' Away - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "The Sun Is Burning",
-      "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Concert in Central Park (Live)",
         "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 275240,
       "name": "American Tune - Live at Central Park, New York, NY - September 19, 1981",
       "url": "https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "The Sun Is Burning",
+      "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Concert in Central Park (Live)",
         "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 227693,
       "name": "Me and Julio Down by the Schoolyard - Live at Central Park, New York, NY - September 19, 1981",
       "url": "https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 133720,
-      "name": "Anji",
-      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Concert in Central Park (Live)",
         "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 181226,
       "name": "A Heart In New York - Live at Central Park, New York, NY - September 19, 1981",
       "url": "https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 133720,
+      "name": "Anji",
+      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live 1969",
-        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
-      "url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Concert in Central Park (Live)",
         "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 349613,
       "name": "Kodachrome / Mabellene - Live at Central Park, New York, NY - September 19, 1981",
       "url": "https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
+      "url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
     },
     {
       "added_at": null,

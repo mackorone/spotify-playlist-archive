@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Nemo, David Guetta, Teddy Swims, Tones and I, Damso, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,281 likes - 114 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,277 likes - 114 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

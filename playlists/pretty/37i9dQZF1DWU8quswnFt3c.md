@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,611 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,479 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 12 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 |
 | 13 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
-| 14 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 |
-| 15 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 |
+| 14 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 |
+| 15 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 |
 | 16 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 17 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 |
 | 18 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 |
 | 19 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
 | 20 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
-| 21 | [NA PARTY](https://open.spotify.com/track/0Y5AtDt5XzNznVhnM8jtuL) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [NA PARTY](https://open.spotify.com/album/3hjgrpN3seieIO27YfRQuw) | 2:15 |
-| 22 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
+| 21 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
+| 22 | [NA PARTY](https://open.spotify.com/track/0Y5AtDt5XzNznVhnM8jtuL) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [NA PARTY](https://open.spotify.com/album/3hjgrpN3seieIO27YfRQuw) | 2:15 |
 | 23 | [Dear Society](https://open.spotify.com/track/0Es6dDXHGqqQWoA8tlK4LG) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dear Society](https://open.spotify.com/album/3GBOhyIQRKTS8GiBgDaQLg) | 2:59 |
 | 24 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 25 | [Nada Na'](https://open.spotify.com/track/0HxT6CYkcZ96L5mnX6hLMh) | [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc) | [Nada Na'](https://open.spotify.com/album/5gbIDcb5DPvFkCfor6DA1L) | 2:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 |
 | 40 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
 | 41 | [The Flood](https://open.spotify.com/track/441D0QiPNeIe3OMeANF0Ll) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 4:29 |
-| 42 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
-| 43 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 42 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 43 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
 | 44 | [Баштани](https://open.spotify.com/track/1ultuLDrrteVddIQe1GnwY) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z), [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Баштани](https://open.spotify.com/album/4GNX4WqQs3G7P7ZDexopow) | 3:10 |
 | 45 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
 | 46 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 |
 | 51 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 |
 | 52 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 |
-| 53 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
-| 54 | [rewind](https://open.spotify.com/track/33urafSYTMfCWX7K4ABDR5) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [rewind](https://open.spotify.com/album/56jrsuouND7fFZFDDlzGnY) | 2:54 |
-| 55 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
-| 56 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 |
+| 53 | [rewind](https://open.spotify.com/track/33urafSYTMfCWX7K4ABDR5) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [rewind](https://open.spotify.com/album/56jrsuouND7fFZFDDlzGnY) | 2:54 |
+| 54 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
+| 55 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 |
+| 56 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 57 | [Gravity](https://open.spotify.com/track/4ADKoilUqU5jIwzXFdmdI1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Gravity](https://open.spotify.com/album/05T87IZuR7QiVw2dYYzTZa) | 5:00 |
 | 58 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 |
 | 59 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |

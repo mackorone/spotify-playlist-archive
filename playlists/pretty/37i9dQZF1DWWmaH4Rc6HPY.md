@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! José Madero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,808 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,825 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 33 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 34 | [110](https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [110](https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c) | 2:56 |
 | 35 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
-| 36 | [claroqno](https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [claroqno](https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7) | 2:34 |
-| 37 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
+| 36 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
+| 37 | [claroqno](https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [claroqno](https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7) | 2:34 |
 | 38 | [Lo bien que suenas](https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Lo bien que suenas](https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy) | 3:30 |
 | 39 | [El Méndigo Día Del Padre](https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Méndigo Día Del Padre](https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9) | 4:26 |
 | 40 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 72 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
 | 73 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuando Te Dejan De Querer](https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0) | 2:35 |
 | 74 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 |
-| 75 | [Los de Siempre](https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los de Siempre](https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP) | 3:09 |
+| 75 | [plan fatal](https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [donde quedé yo?](https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB) | 2:11 |
 
 Snapshot ID: `AAAAABfw6O6L+ZnEXTJQm+nD0Bo17evg`

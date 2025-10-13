@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,658 likes - 180 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,657 likes - 180 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 99 | [Ain't Easy](https://open.spotify.com/track/56ueOsKJI2VV9iSsMAozid) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:03 |
 | 100 | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/track/3gCBF4XZx7dmEtaRDoQLEd) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/album/2i7fwqOqVisYDooEIzk3Tr) | 2:50 |
 | 101 | [Two Of Us](https://open.spotify.com/track/24tbH4aOBKJjyEbn23VwYr) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Two Of Us](https://open.spotify.com/album/7hy70xAqaxXIE5TB51YvAe) | 3:30 |
-| 102 | [Tip Toe](https://open.spotify.com/track/6VvnGaWbDKB996r75bhIqJ) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Love and War](https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF) | 2:56 |
-| 103 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 102 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 103 | [Tip Toe](https://open.spotify.com/track/6VvnGaWbDKB996r75bhIqJ) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Love and War](https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF) | 2:56 |
 | 104 | [Build A Bae \(feat\. Yung Bleu\)](https://open.spotify.com/track/0NWvGQDRpy75rKB6ioHOQz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 2:36 |
 | 105 | [Thot Thoughts \(feat\. Sukihana\)](https://open.spotify.com/track/1ZXo3QiTqtQdZnO1t1oyCJ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:34 |
 | 106 | [Crack](https://open.spotify.com/track/65JWmfIcJj9NVhat47DogL) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:41 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 179 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 180 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Ab+nGgAAAAA/0af5OkQRY6h+aCCWm4xp`
+Snapshot ID: `Ab+siAAAAACIETB088nkMb7BF+SUV2MO`

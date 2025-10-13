@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 212607,
+  "num_followers": 212666,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABvH2/lJ/G/HMB1gIPmMlZF",
+  "snapshot_id": "aOmeAAAAAAAWud0tW1TFoFEJJvdMcBTw",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
     },
     {
       "added_at": null,
@@ -59,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mess It Up",
         "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
     },
     {
       "added_at": null,
@@ -127,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -155,6 +155,26 @@
       "duration_ms": 245629,
       "name": "I know it won't work",
       "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": null,
@@ -191,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Blowing Smoke",
+      "url": "https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ"
     },
     {
       "added_at": null,
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Blowing Smoke",
-      "url": "https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 260946,
-      "name": "Let It Happen",
-      "url": "https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 164109,
       "name": "Packing It Up",
       "url": "https://open.spotify.com/track/0D89q3d3eclowHBcDQZ4qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tough Love",
-      "url": "https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 249494,
       "name": "Block me out",
       "url": "https://open.spotify.com/track/1w0o2PLYzpFnnyEnOoD7qX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 193602,
       "name": "For Real This Time",
       "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": null,

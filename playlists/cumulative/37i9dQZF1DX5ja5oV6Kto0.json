@@ -4549,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "THE KIDS ARE JUST FINE",
+        "url": "https://open.spotify.com/album/40QVVbi1qzPuohebJYM2L6"
+      },
+      "artists": [
+        {
+          "name": "99 PHACES",
+          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160628,
+      "name": "DANCEFLOOR",
+      "url": "https://open.spotify.com/track/46VmQ751xavC1Iv3poT6Jj"
+    },
+    {
+      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/2yp6BWxIzvaJCSsWgrc3f8"
       },
@@ -10278,7 +10296,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 178676,
       "name": "lost my mind in the moment",
       "url": "https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf"

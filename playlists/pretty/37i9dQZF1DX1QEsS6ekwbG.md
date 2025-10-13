@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 
 > La mejor compañía mientras llueve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,340 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,406 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 10 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
 | 11 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 12 | [Besame](https://open.spotify.com/track/65BtSndvZ1MCeVNmOE7Q4Q) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m) | [Besame](https://open.spotify.com/album/26ljfUODo1x8BhsrxdpONj) | 3:03 |
-| 13 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
+| 13 | [Antología](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 14 | [no voy a estar mañana](https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [no voy a estar mañana](https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX) | 2:57 |
 | 15 | [Nada funciona con vos](https://open.spotify.com/track/7mFv9RQdTuoynfpYeIf4P0) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Nada funciona con vos](https://open.spotify.com/album/6DNZUYFcbgNbcDw5YaIbAZ) | 2:50 |
 | 16 | [PERFUME](https://open.spotify.com/track/08OeR6pKMoQG7VQP9O6yZr) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [PERFUME](https://open.spotify.com/album/1TlOvoz5ZV1hRsZUpSmcpH) | 3:41 |

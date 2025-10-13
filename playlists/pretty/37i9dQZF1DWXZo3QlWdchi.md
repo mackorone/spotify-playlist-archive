@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,921 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,967 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 31 | [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 |
 | 32 | [Ignorance \- Acoustic](https://open.spotify.com/track/2fW669XemOdBBStneImx2g) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Ignorance](https://open.spotify.com/album/3yrzFvMY394se6kudvIfwv) | 3:40 |
 | 33 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
-| 34 | [Dias de Luta, Dias de Glória \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 2:21 |
-| 35 | [O Papa É Pop \- Ao Vivo](https://open.spotify.com/track/3mBWUkpsvc7rQYOT50IfI1) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Revendo O Que Nunca Foi Visto](https://open.spotify.com/album/691kGDBO2A0Ba2omXqPxeo) | 3:44 |
+| 34 | [O Papa É Pop \- Ao Vivo](https://open.spotify.com/track/3mBWUkpsvc7rQYOT50IfI1) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Revendo O Que Nunca Foi Visto](https://open.spotify.com/album/691kGDBO2A0Ba2omXqPxeo) | 3:44 |
+| 35 | [Dias de Luta, Dias de Glória \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 2:21 |
 | 36 | [Regina Let's Go \- Live](https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM 22 \- Acústico](https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4) | 2:56 |
 | 37 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
 | 38 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 |

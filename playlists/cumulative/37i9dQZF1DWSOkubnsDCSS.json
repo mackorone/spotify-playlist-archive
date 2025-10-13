@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 173095,
       "name": "Big Shaq",
       "url": "https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb"
@@ -5744,6 +5744,24 @@
       "duration_ms": 164832,
       "name": "Somebody Help?",
       "url": "https://open.spotify.com/track/4nVlovvJ5GnA7JgSBhNs7e"
+    },
+    {
+      "album": {
+        "name": "Something Brand New",
+        "url": "https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY"
+      },
+      "artists": [
+        {
+          "name": "sbk",
+          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Something Brand New",
+      "url": "https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292"
     },
     {
       "album": {

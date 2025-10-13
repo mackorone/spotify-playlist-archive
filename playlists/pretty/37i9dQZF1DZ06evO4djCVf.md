@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,540 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,531 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 22 | [De Helft Van Mij](https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:24 |
 | 23 | [De Helft Van Wat Je Doet](https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:23 |
 | 24 | [Mag Ik Daar Even Stil Bij Staan](https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:27 |
-| 25 | [Dit Is Voor Jou \- Uit Liefde Voor Muziek](https://open.spotify.com/track/2X8NkOztikX2ilO0QkeLvl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 3:33 |
+| 25 | [Altijd Wel Iemand](https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 3:11 |
 | 26 | [Nooit Meer Regen](https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:20 |
-| 27 | [Altijd Wel Iemand](https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 3:11 |
+| 27 | [Dit Is Voor Jou \- Uit Liefde Voor Muziek](https://open.spotify.com/track/2X8NkOztikX2ilO0QkeLvl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 3:33 |
 | 28 | [Straks Is Het Te Laat](https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 2:51 |
 | 29 | [Als Ik Mezelf Verlies \- uit Liefde Voor Muziek](https://open.spotify.com/track/6BVWC6f3rZwBjgtbrsdSC1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:19 |
 | 30 | [Iemand Van Vroeger](https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:56 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 40 | [Voor Het Leven Voor Elkaar \- Uit Liefde Voor Muziek](https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:53 |
 | 41 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 
-Snapshot ID: `aOhMgAAAAADdwRJd7hCM1NHmzVzAfPGT`
+Snapshot ID: `aOmeAAAAAACc3hFkAJeiGtDvYjfvzUBM`

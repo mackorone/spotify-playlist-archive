@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11663,
+  "num_followers": 11666,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAiOg+0qJazwf7M0Xz46ij7",
+  "snapshot_id": "aOmeAAAAAACA5sEx/ky07p/c8Ni49kTI",
   "tracks": [
     {
       "added_at": null,
@@ -155,42 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Monkey On A Wire",
-      "url": "https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "This Flower",
-      "url": "https://open.spotify.com/track/2rzPn4z4u7vtOqGwExY4Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -211,6 +175,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "This Flower",
+      "url": "https://open.spotify.com/track/2rzPn4z4u7vtOqGwExY4Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Monkey On A Wire",
+      "url": "https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -223,26 +223,6 @@
       "duration_ms": 205346,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
     },
     {
       "added_at": null,
@@ -275,6 +255,26 @@
       "duration_ms": 224386,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 245156,
-      "name": "You Got The Car",
-      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 175053,
       "name": "Sleeping Cold",
       "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 245156,
+      "name": "You Got The Car",
+      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Last Hard Bible",
-      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+      "duration_ms": 177013,
+      "name": "Sweetest Waste Of Time",
+      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Last Hard Bible",
+      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 245866,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
     },
     {
       "added_at": null,
@@ -651,26 +671,6 @@
       "duration_ms": 155693,
       "name": "The Quiet Life",
       "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Sweetest Waste Of Time",
-      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
     },
     {
       "added_at": null,
@@ -755,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannot Buy My Soul: The Songs Of Kev Carmody (2020 Edition)",
-        "url": "https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Jimmy Barnes",
-          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
         }
       ],
-      "duration_ms": 229034,
-      "name": "Black Bess",
-      "url": "https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI"
+      "duration_ms": 194360,
+      "name": "Broken Cup",
+      "url": "https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6"
     },
     {
       "added_at": null,
@@ -791,22 +787,6 @@
       "duration_ms": 210899,
       "name": "My Kingdom Come",
       "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Broken Cup",
-      "url": "https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6"
     }
   ],
   "unique_name": "This Is Kasey Chambers",

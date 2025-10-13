@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: TJWAVE, HAYABUSA, Botje en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,209 likes - 78 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,206 likes - 78 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

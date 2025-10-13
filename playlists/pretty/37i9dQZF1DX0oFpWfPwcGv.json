@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71106,
+  "num_followers": 71118,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Music Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Nights on Broadway",
+      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Music Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Nights on Broadway",
-      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "The Changing Of The Gard",
-        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
-      },
-      "artists": [
-        {
-          "name": "Stargard",
-          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Wear It Out",
-      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Break Out (1983 Version - Expanded Edition)",
         "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 366360,
       "name": "Automatic - 12\" Special Remix",
       "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Changing Of The Gard",
+        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
+      },
+      "artists": [
+        {
+          "name": "Stargard",
+          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Wear It Out",
+      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
     },
     {
       "added_at": "2024-09-07 16:02:33",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABw2Jkqo7+4XUEeHrc0kkmK",
+  "snapshot_id": "aOmeAAAAAAARNZb5xY05lXumoZKU8esJ",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Make Bad Things Not Suck <3",
+        "url": "https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 153616,
+      "name": "You Make Bad Things Not Suck <3",
+      "url": "https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Make Bad Things Not Suck <3",
-        "url": "https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 153627,
-      "name": "You Make Bad Things Not Suck <3",
-      "url": "https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
       },
       "artists": [
         {
@@ -328,25 +328,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
     },
     {
       "added_at": null,
@@ -367,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gospel According to Meg Smith",
         "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
     },
     {
       "added_at": null,

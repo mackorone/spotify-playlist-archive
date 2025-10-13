@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Jonathan Groff in Just in Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,712 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,710 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Tulsa '67](https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX) | [Brody Grant](https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj), [Sky Lakota\-Lynch](https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI), [Original Broadway Cast of The Outsiders \- A New Musical](https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w) | [The Outsiders \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk) | 5:52 |
 | 50 | [My Days](https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU) | [Joy Woods](https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW) | [The Notebook \(Original Broadway Cast Recording\)](https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La) | 3:42 |
 
-Snapshot ID: `AAAAADc9M7QpMXLHR6NQFz6UHRbEJ5Qd`
+Snapshot ID: `AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G`

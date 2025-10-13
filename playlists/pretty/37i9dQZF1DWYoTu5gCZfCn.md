@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,822 likes - 54 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,884 likes - 54 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 | 53 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 |
 | 54 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 |
 
-Snapshot ID: `AAAAAHjYmNUkdm8qWL2fRVUAW866N2/1`
+Snapshot ID: `AAAAAMkJ74Q8NU7ji4he97Z+D4LIk5hD`

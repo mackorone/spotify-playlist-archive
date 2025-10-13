@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163204,
+  "num_followers": 163212,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
-      },
-      "artists": [
-        {
-          "name": "YANGOS",
-          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
-        }
-      ],
-      "duration_ms": 202206,
-      "name": "Rasguido Serrano",
-      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Sess\u00f5es Selo Sesc #7: Jo\u00e3o Donato + Projeto Coisa Fina",
         "url": "https://open.spotify.com/album/0JM3ipLsc4OhCGknNlvPrg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 349525,
       "name": "Emori\u00f4 - Live",
       "url": "https://open.spotify.com/track/4e8HAVbyiqpBs2MbCOwoyc"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
+      },
+      "artists": [
+        {
+          "name": "YANGOS",
+          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
+        }
+      ],
+      "duration_ms": 202206,
+      "name": "Rasguido Serrano",
+      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Consola\u00e7\u00e3o (Live)",
+        "url": "https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs"
+      },
+      "artists": [
+        {
+          "name": "Bola Sete",
+          "url": "https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW"
+        }
+      ],
+      "duration_ms": 283965,
+      "name": "Consola\u00e7\u00e3o - Live",
+      "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Harmonize",
         "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
       },
@@ -563,18 +579,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Consola\u00e7\u00e3o (Live)",
-        "url": "https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs"
+        "name": "Rala Coxa",
+        "url": "https://open.spotify.com/album/48RtZ8vrAFhgM28pBL9FjO"
       },
       "artists": [
         {
-          "name": "Bola Sete",
-          "url": "https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW"
+          "name": "Rodrigo Lessa",
+          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Pagode Jazz Sardinha\u00b4s Club",
+          "url": "https://open.spotify.com/artist/2oXJiHIEM3qLNRlgsi00ga"
         }
       ],
-      "duration_ms": 283965,
-      "name": "Consola\u00e7\u00e3o - Live",
-      "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
+      "duration_ms": 359869,
+      "name": "Rala Coxa",
+      "url": "https://open.spotify.com/track/1nfItvLmyX2YO2q0D6E6Jq"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -607,30 +631,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Rala Coxa",
-        "url": "https://open.spotify.com/album/48RtZ8vrAFhgM28pBL9FjO"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Lessa",
-          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Pagode Jazz Sardinha\u00b4s Club",
-          "url": "https://open.spotify.com/artist/2oXJiHIEM3qLNRlgsi00ga"
-        }
-      ],
-      "duration_ms": 359869,
-      "name": "Rala Coxa",
-      "url": "https://open.spotify.com/track/1nfItvLmyX2YO2q0D6E6Jq"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Fantasy '82",
         "url": "https://open.spotify.com/album/2fvvYZrVlJWLnBfjih849T"
       },
@@ -643,34 +643,6 @@
       "duration_ms": 366596,
       "name": "Fantasy '82",
       "url": "https://open.spotify.com/track/4qTu0YIRBY2MBE4AUSpFt9"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Harmonize",
-        "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Daniel Santiago",
-          "url": "https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        }
-      ],
-      "duration_ms": 402929,
-      "name": "Nasceu o Amor",
-      "url": "https://open.spotify.com/track/2D7B9s6wpCSlMMzroUXTlR"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -699,6 +671,30 @@
       "duration_ms": 395219,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Mister Am\u00e9rico / Bolero de M\u00e3e (feat. Thiago Rabello & Salom\u00e3o Soares)",
+        "url": "https://open.spotify.com/album/3v7S75Lv2e02tUHWQpbV6f"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Thiago Rabello",
+          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
+        },
+        {
+          "name": "Salom\u00e3o Soares",
+          "url": "https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL"
+        }
+      ],
+      "duration_ms": 237675,
+      "name": "Mister Am\u00e9rico (feat. Thiago Rabello & Salom\u00e3o Soares)",
+      "url": "https://open.spotify.com/track/4r3tvfkc2r0gawvdtvBtIV"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -775,30 +771,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Mister Am\u00e9rico / Bolero de M\u00e3e (feat. Thiago Rabello & Salom\u00e3o Soares)",
-        "url": "https://open.spotify.com/album/3v7S75Lv2e02tUHWQpbV6f"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Thiago Rabello",
-          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
-        },
-        {
-          "name": "Salom\u00e3o Soares",
-          "url": "https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL"
-        }
-      ],
-      "duration_ms": 237675,
-      "name": "Mister Am\u00e9rico (feat. Thiago Rabello & Salom\u00e3o Soares)",
-      "url": "https://open.spotify.com/track/4r3tvfkc2r0gawvdtvBtIV"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Suave (Bossa Samba Jazz)",
         "url": "https://open.spotify.com/album/1LXUKJfNgHAjUM3TupizDu"
       },
@@ -819,6 +791,34 @@
       "duration_ms": 367240,
       "name": "Quisiera Tenerte a Mi Lado",
       "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Harmonize",
+        "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Daniel Santiago",
+          "url": "https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
+        }
+      ],
+      "duration_ms": 402929,
+      "name": "Nasceu o Amor",
+      "url": "https://open.spotify.com/track/2D7B9s6wpCSlMMzroUXTlR"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Maldonado Quintet",
+          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
+        }
+      ],
+      "duration_ms": 270012,
+      "name": "With Ernesto",
+      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Sinal Dos Tempos - Cain\u00e3 Toca Garoto",
         "url": "https://open.spotify.com/album/2SdgCo1lYhqmP7JdOQ8FGK"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 302417,
       "name": "Lamentos do Morro",
       "url": "https://open.spotify.com/track/6fpRybolHTa4gjcuBbJnAE"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Maldonado Quintet",
-          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
-        }
-      ],
-      "duration_ms": 270012,
-      "name": "With Ernesto",
-      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1003,6 +1003,26 @@
       "duration_ms": 263694,
       "name": "Hubert",
       "url": "https://open.spotify.com/track/0EvvrHPNA2a63PRLX4le1p"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9li Silva",
+          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+        },
+        {
+          "name": "Z\u00e9li Silva Quarteto",
+          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Novidade",
+      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1051,26 +1071,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9li Silva",
-          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
-        },
-        {
-          "name": "Z\u00e9li Silva Quarteto",
-          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Novidade",
-      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "In The Still Of The Night",
         "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 289434,
       "name": "In The Still Of The Night",
       "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
-      },
-      "artists": [
-        {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
-        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
       "artists": [
         {
-          "name": "Mano a Mano Trio",
-          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
         }
       ],
-      "duration_ms": 244074,
-      "name": "Cobra Criada",
-      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1159,22 +1143,6 @@
       "duration_ms": 126647,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1211,6 +1179,38 @@
       "duration_ms": 310226,
       "name": "Afluente do Futuro",
       "url": "https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
+        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
+      },
+      "artists": [
+        {
+          "name": "Mano a Mano Trio",
+          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
+        }
+      ],
+      "duration_ms": 244074,
+      "name": "Cobra Criada",
+      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1283,34 +1283,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Choramundo",
-        "url": "https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU"
+        "name": "Experimento 1",
+        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
       },
       "artists": [
         {
-          "name": "Nelson Latif",
-          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
         },
         {
-          "name": "Pablo Nahar",
-          "url": "https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK"
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
         },
         {
-          "name": "Praful",
-          "url": "https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO"
-        },
-        {
-          "name": "Joeri de Graaf",
-          "url": "https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3"
-        },
-        {
-          "name": "Olaf Keus",
-          "url": "https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv"
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Costa da Mina",
-      "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
+      "duration_ms": 576170,
+      "name": "Experimento 1",
+      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1339,58 +1331,6 @@
       "duration_ms": 481925,
       "name": "Pro Carnaval Voltar",
       "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Experimento 1",
-        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
-      },
-      "artists": [
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        }
-      ],
-      "duration_ms": 576170,
-      "name": "Experimento 1",
-      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "When the Answer Is a Question",
-        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Sergio Reze",
-          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
-        }
-      ],
-      "duration_ms": 457386,
-      "name": "When the Answer Is a Question",
-      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1427,6 +1367,66 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "When the Answer Is a Question",
+        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Sergio Reze",
+          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 457386,
+      "name": "When the Answer Is a Question",
+      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Choramundo",
+        "url": "https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU"
+      },
+      "artists": [
+        {
+          "name": "Nelson Latif",
+          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
+        },
+        {
+          "name": "Pablo Nahar",
+          "url": "https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK"
+        },
+        {
+          "name": "Praful",
+          "url": "https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO"
+        },
+        {
+          "name": "Joeri de Graaf",
+          "url": "https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3"
+        },
+        {
+          "name": "Olaf Keus",
+          "url": "https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Costa da Mina",
+      "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1543,30 +1543,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "AMF",
-        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
-      },
-      "artists": [
-        {
-          "name": "Ana Azevedo",
-          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
-        },
-        {
-          "name": "Augusto Mattoso",
-          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
-        },
-        {
-          "name": "Andr\u00e9 Fr\u00f3es",
-          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
-        }
-      ],
-      "duration_ms": 334890,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "CasaBrancaBrinCadeira",
         "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
       },
@@ -1599,6 +1575,30 @@
       "duration_ms": 396331,
       "name": "CasaBrancaBrinCadeira",
       "url": "https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "AMF",
+        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
+      },
+      "artists": [
+        {
+          "name": "Ana Azevedo",
+          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
+        },
+        {
+          "name": "Augusto Mattoso",
+          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
+        },
+        {
+          "name": "Andr\u00e9 Fr\u00f3es",
+          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
+        }
+      ],
+      "duration_ms": 334890,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Rosi",
+        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
+      },
+      "artists": [
+        {
+          "name": "Rubinho Antunes",
+          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+        },
+        {
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+        },
+        {
+          "name": "Rosicler Barbosa",
+          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
+        }
+      ],
+      "duration_ms": 239992,
+      "name": "Rosi",
+      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Amilton Godoy 80 Anos",
         "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
@@ -1691,6 +1715,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+      },
+      "artists": [
+        {
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+        }
+      ],
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Fugindo do Sete",
         "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
       },
@@ -1715,42 +1755,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Funktastic",
-        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
-      },
-      "artists": [
-        {
-          "name": "Hammond Grooves",
-          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
-        }
-      ],
-      "duration_ms": 355961,
-      "name": "Funktastic",
-      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Sidiel Vieira Quinteto",
-        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
-      },
-      "artists": [
-        {
-          "name": "Sidiel Vieira Quinteto",
-          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 506440,
-      "name": "Atrevido",
-      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Espera",
         "url": "https://open.spotify.com/album/4IkJZkzG8MIb53basOfc8W"
       },
@@ -1771,6 +1775,26 @@
       "duration_ms": 397500,
       "name": "Espera",
       "url": "https://open.spotify.com/track/7yYfJBV4nnzPF8deMDvo2T"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Sidiel Vieira Quinteto",
+        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
+      },
+      "artists": [
+        {
+          "name": "Sidiel Vieira Quinteto",
+          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 506440,
+      "name": "Atrevido",
+      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1891,30 +1915,6 @@
       "duration_ms": 357646,
       "name": "Mestre Samuca",
       "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Rosi",
-        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
-      },
-      "artists": [
-        {
-          "name": "Rubinho Antunes",
-          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
-        },
-        {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
-        },
-        {
-          "name": "Rosicler Barbosa",
-          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
-        }
-      ],
-      "duration_ms": 239992,
-      "name": "Rosi",
-      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
     },
     {
       "added_at": "2025-09-19 14:12:16",

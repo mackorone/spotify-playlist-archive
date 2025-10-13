@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Purity Ring
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,940 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,955 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Drum Memory](https://open.spotify.com/track/5mxiqi7m8ylNW2UEGPIqrN) | [Jayemkayem](https://open.spotify.com/artist/6bshT0bIVHCNDfhP2P1OjL) | [Laptronica](https://open.spotify.com/album/1bBOO5ie8hV4skZ8tB984k) | 3:47 |
 | 100 | [Rush \(Missing Out On Me\)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [Rush \(Missing Out On Me\)](https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg) | 2:24 |
 
-Snapshot ID: `AAAAAI9nyjTD/wjenfrmopat5JnmfS3d`
+Snapshot ID: `AAAAAKlY/aidU2MpOcJcLTAgAsCBYV6Y`

@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18768,
+  "num_followers": 18770,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAjZ3vgraeF0ZE3jiHAN+4L",
+  "snapshot_id": "aOmeAAAAAADH7sDUs5UuG8jNUoWx3PTU",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 300493,
-      "name": "Come Ye Sinners, Poor and Needy",
-      "url": "https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Of Ages...Hymns & Faith",
         "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 219320,
       "name": "Rock Of Ages",
       "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 300493,
+      "name": "Come Ye Sinners, Poor and Needy",
+      "url": "https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Joyful, Joyful, We Adore Thee",
+      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 329680,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Of Ages...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Joyful, Joyful, We Adore Thee",
-      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lead Me On",
-        "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 336386,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 239493,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 336386,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 198546,
       "name": "Could I Have This Dance",
       "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 335960,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Love (Remastered)",
         "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 249386,
       "name": "Lucky One",
       "url": "https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 335960,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Alone (Remastered)",
         "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Fairest Lord Jesus",
-      "url": "https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U"
+      "duration_ms": 243226,
+      "name": "Softly And Tenderly",
+      "url": "https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1"
     }
   ],
   "unique_name": "This Is Amy Grant",

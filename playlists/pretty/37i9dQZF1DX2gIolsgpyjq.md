@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Spawner
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,876 likes - 109 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,879 likes - 109 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: UNFAIR RULE
 
-1,389 songs - 3 day 11 hr 51 min
+1,390 songs - 3 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-01-07 | 2025-04-02 |
 | [recall](https://open.spotify.com/track/04Wk3MtRXqnX7iNbcqszMQ) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [recall](https://open.spotify.com/album/5SYk8LvAZkkxmMVHpmkliD) | 4:46 | 2023-07-27 | 2023-11-16 |
 | [Record Dogs](https://open.spotify.com/track/22BJYbV3ldjwzgKnnHu3l2) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Record Dogs](https://open.spotify.com/album/5bwnn9spG9n2BR9Y6xpOyZ) | 3:20 | 2024-04-23 | 2024-09-04 |
-| [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 | 2025-08-01 |  |
+| [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 | 2025-08-01 | 2025-10-13 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-07-27 | 2024-01-20 |
 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-01-30 | 2024-04-19 |
 | [Replica](https://open.spotify.com/track/14dFUhkKABVRlkxKexlL8u) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Replica](https://open.spotify.com/album/5BPBhpLf4TXpnrbV0zt3wP) | 3:06 | 2024-02-13 | 2024-02-28 |
@@ -1100,6 +1100,7 @@
 | [夏恋センセイション](https://open.spotify.com/track/4jWIn8qaXFAIBssMhJQMzu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [夏恋センセイション](https://open.spotify.com/album/6N9JXrnY5nuf74KK25a4CN) | 2:16 | 2023-07-27 | 2023-12-13 |
 | [夕凪詠草](https://open.spotify.com/track/3ubz3X8CL6Fd1xUYh1L2IU) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夕凪詠草](https://open.spotify.com/album/0hz1H7b4aFsXSRsPfb4hj8) | 3:57 | 2023-09-26 | 2023-09-28 |
 | [夜に潜って](https://open.spotify.com/track/1Z4NHDfjLlqXw9oaZ5rGn2) | [春風レコード](https://open.spotify.com/artist/22XYJGn2ZmvGfY2FOwTfeD) | [夜に潜って](https://open.spotify.com/album/0m9zPuWR9SiOsd7OlJ7V4B) | 4:11 | 2025-09-16 | 2025-10-01 |
+| [夜空を蝕んで](https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [泡沫の夢は幻に](https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2) | 3:08 | 2025-10-08 |  |
 | [夜行列車](https://open.spotify.com/track/0DsAzRg1nlwaHsk4MzRQfd) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [夜行列車](https://open.spotify.com/album/3esqVMiQ0ZozcqBZbhnkdO) | 3:47 | 2023-08-29 | 2023-08-31 |
 | [夜行列車](https://open.spotify.com/track/4YlPOV9LxsRgoAJhGf7Kh5) | [RIP DISHONOR](https://open.spotify.com/artist/4aDGKnZOq8zStrKXfR3pWu) | [melt.](https://open.spotify.com/album/0dTDiz1cvmBfZVCWWQxph3) | 4:27 | 2023-08-10 | 2023-08-16 |
 | [夜送曲](https://open.spotify.com/track/57zWORHOkt8Y3QKWG8zwb8) | [メリクレット](https://open.spotify.com/artist/5WI6FCfigOqKiswq4J3XX7) | [夜送曲](https://open.spotify.com/album/24lMqtQV4lxyGQyzC2QNOu) | 5:27 | 2025-06-03 | 2025-06-12 |

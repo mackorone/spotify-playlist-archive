@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-423 songs - 1 day 5 hr 5 min
+425 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ahebak](https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Ahebak](https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA) | 4:33 | 2022-05-01 | 2022-11-08 |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-06-28 | 2023-01-13 |
 | [Ahla Khabar](https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Ahla Khabar](https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL) | 3:24 | 2023-05-24 | 2023-12-09 |
+| [Ahla Sodfa](https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ahla Sodfa](https://open.spotify.com/album/5Whxsm6Gg1VMp0pJxmmbwQ) | 3:38 | 2025-10-12 |  |
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-04-05 | 2022-11-08 |
 | [Ahmed Allah Aleek](https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ahmed Allah Aleek](https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB) | 2:26 | 2023-09-18 | 2024-04-11 |
 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 | 2025-01-31 |  |
@@ -160,6 +161,7 @@
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2021-12-23 | 2022-01-07 |
 | [Hobak Le Hayah](https://open.spotify.com/track/6yjtDOt9B6n1yWLgcwNK91) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Hobak Le Hayah](https://open.spotify.com/album/1pKzJdgiytjhSLTj9G73qE) | 3:31 | 2021-12-23 | 2022-03-12 |
 | [Ikhtiyari](https://open.spotify.com/track/7JDoh2Fjf8SGjUiXb4BcPh) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Ikhtiyari](https://open.spotify.com/album/3Dlse3mYeZCMfVZZOc64Va) | 1:24 | 2022-04-01 | 2022-08-27 |
+| [Jabal Chamekh](https://open.spotify.com/track/699UW50gxSh976xtnckNmg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Jabal Chamekh](https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR) | 3:45 | 2025-10-12 |  |
 | [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 | 2023-08-25 | 2023-08-27 |
 | [Jannat Al Hob](https://open.spotify.com/track/2mrgVjT6BNT46MFwhLmFO7) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Jannat Al Hob](https://open.spotify.com/album/7mKEvo2ScRVTcOvgfezrkR) | 3:56 | 2023-12-21 | 2024-07-25 |
 | [Jany Al Asmar](https://open.spotify.com/track/7zKTTQFVPcKpPuRzQUUr9X) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Jany Al Asmar](https://open.spotify.com/album/01Z9FR6JmU9LxLuDQfR6w7) | 3:51 | 2022-02-11 | 2022-02-12 |

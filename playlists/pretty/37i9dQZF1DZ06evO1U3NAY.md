@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,605 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,608 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 12 | [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 |
 | 13 | [Iron](https://open.spotify.com/track/3iSgRJUrMKHLglnrQrQ6kO) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:41 |
 | 14 | [What Have You Done \(feat\. Keith Caputo\)](https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Keith Caputo](https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:13 |
-| 15 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
-| 16 | [Whole World Is Watching \(feat\. Dave Pirner\)](https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Dave Pirner](https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:03 |
+| 15 | [Whole World Is Watching \(feat\. Dave Pirner\)](https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Dave Pirner](https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:03 |
+| 16 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
 | 17 | [Sinéad](https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 | 18 | [Endless War](https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:09 |
 | 19 | [Our Solemn Hour](https://open.spotify.com/track/6KaLRddxDnr9hufQCW3Kzx) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 49 | [Don't Pray For Me](https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:41 |
 | 50 | [Unbroken](https://open.spotify.com/track/7p54w8swC934fosq86wnRS) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 5:08 |
 
-Snapshot ID: `aOhMgAAAAAAX4ffJNEBlDk/BuliqWGQm`
+Snapshot ID: `aOmeAAAAAAC3eQahuyO85UOD6dM0HAIU`

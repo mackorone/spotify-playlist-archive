@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,809 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,820 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

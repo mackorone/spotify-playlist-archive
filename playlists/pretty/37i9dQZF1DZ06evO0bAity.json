@@ -1,12 +1,12 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1346,
+  "num_followers": 1347,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACOR60LxQ6lGgV0ayh+AdZ0",
+  "snapshot_id": "aOmeAAAAAACVn3ofVCZOwR/XgZYHv3Mg",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "IN-TO-IT",
+      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I felt all there is to feel",
         "url": "https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 202077,
       "name": "I felt all there is to feel",
       "url": "https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Rising (Pt. 1)",
-        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "IN-TO-IT",
-      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Positive Rising (Pt. 2/ Deluxe)",
         "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 114920,
       "name": "Fear The Anchor",
       "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "King B",
-      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Night Fever",
-        "url": "https://open.spotify.com/album/0YNMoXT9Cxp5BJcA33NLfo"
+        "name": "Like No Other",
+        "url": "https://open.spotify.com/album/340dgGTAgE7yRwyHlJdyIE"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 187146,
-      "name": "First Night Fever",
-      "url": "https://open.spotify.com/track/5mrS231CkYfC7eazO5H1pA"
+      "duration_ms": 151106,
+      "name": "Like No Other",
+      "url": "https://open.spotify.com/track/5Hjj61HTqfrvxORvRs7fDH"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like No Other",
-        "url": "https://open.spotify.com/album/340dgGTAgE7yRwyHlJdyIE"
+        "name": "First Night Fever",
+        "url": "https://open.spotify.com/album/0YNMoXT9Cxp5BJcA33NLfo"
       },
       "artists": [
         {
@@ -388,25 +388,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 151106,
-      "name": "Like No Other",
-      "url": "https://open.spotify.com/track/5Hjj61HTqfrvxORvRs7fDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
+      "duration_ms": 187146,
+      "name": "First Night Fever",
+      "url": "https://open.spotify.com/track/5mrS231CkYfC7eazO5H1pA"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 218739,
       "name": "My Mind is Eating Me Alive",
       "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 135373,
-      "name": "Tuff Luck",
-      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
+      "duration_ms": 136933,
+      "name": "Shadow Walk",
+      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 136933,
-      "name": "Shadow Walk",
-      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
+      "duration_ms": 135373,
+      "name": "Tuff Luck",
+      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 198692,
-      "name": "Feeling Good, Feeling Great",
-      "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
+      "duration_ms": 131101,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 131101,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
+      "duration_ms": 198692,
+      "name": "Feeling Good, Feeling Great",
+      "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Hypercolour",
-      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 276880,
       "name": "Dumb It Down",
       "url": "https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Hi Everyone",
-      "url": "https://open.spotify.com/track/6McRN5HKYwsAc8Fon7qDgR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 172400,
       "name": "Cops / Capacity",
       "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Hi Everyone",
+      "url": "https://open.spotify.com/track/6McRN5HKYwsAc8Fon7qDgR"
     },
     {
       "added_at": null,

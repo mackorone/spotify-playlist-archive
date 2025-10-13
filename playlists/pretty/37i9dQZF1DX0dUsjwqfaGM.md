@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: VƯƠNG BÌNH
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,110 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,109 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

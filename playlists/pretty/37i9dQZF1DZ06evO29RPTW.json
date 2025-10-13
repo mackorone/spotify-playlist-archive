@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 132366,
+  "num_followers": 132389,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAADbBPM+N5HR6Hc/7Anjz7+",
+  "snapshot_id": "aOmeAAAAAAAFJScWi2cmh3kkl8pi1t4h",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
+      "duration_ms": 239720,
+      "name": "Werewolf, Baby!",
+      "url": "https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Werewolf, Baby!",
-      "url": "https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca"
+      "duration_ms": 181253,
+      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Satanic Cyanide ! The Killer Rocks On !",
+      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn MF (feat. Rob Zombie)",
         "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
       },
@@ -791,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Halloween Hootenanny",
+        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Satanic Cyanide ! The Killer Rocks On !",
-      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
+      "duration_ms": 170066,
+      "name": "Halloween (She's So Mean)",
+      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
     },
     {
       "added_at": null,
@@ -819,26 +839,6 @@
       "duration_ms": 156800,
       "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
       "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Hands Of Death (Burn Baby Burn)",
-      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
     }
   ],
   "unique_name": "This Is Rob Zombie",

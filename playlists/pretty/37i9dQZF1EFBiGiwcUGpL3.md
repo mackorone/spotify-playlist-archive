@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 54 | [Soul Food](https://open.spotify.com/track/3aU7v3C5l6IBVkxGNfhqyU) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:36 |
 | 55 | [Georgia Woods](https://open.spotify.com/track/0TIk4vk0T7yQrlmvVBK74y) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:17 |
 | 56 | [Eu Quero Sempre Mais](https://open.spotify.com/track/5IVoRMwHAjjcwb3UFPX0CH) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [Eu Quero Sempre Mais](https://open.spotify.com/album/1EXUzzT8SmmU5nCD3ajq70) | 3:45 |
-| 57 | [Better Than I Am](https://open.spotify.com/track/4WRJRM32R7GGlsVxlv30pm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 4:31 |
-| 58 | [You're Not Alone Tonight](https://open.spotify.com/track/5dv6muRACFr2La8vGZgMcY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:31 |
+| 57 | [You're Not Alone Tonight](https://open.spotify.com/track/5dv6muRACFr2La8vGZgMcY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:31 |
+| 58 | [Better Than I Am](https://open.spotify.com/track/4WRJRM32R7GGlsVxlv30pm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 4:31 |
 | 59 | [Whenever I Run](https://open.spotify.com/track/7C3dQdZD2NrSsTvDxRluRA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:39 |
 | 60 | [Shut Out The Lights](https://open.spotify.com/track/3P3MBCqeKrfNYChwNgTfmQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:18 |
 | 61 | [Lucky Charm](https://open.spotify.com/track/60MFvf06siBV6IHNvCBBmm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 99 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 | 100 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `Ab+m3gAAAAAXXLKu6ukdJI7dGFbfTBI1`
+Snapshot ID: `Ab+ssAAAAAAMwT3hzW2rkvU3t15Hjl3E`

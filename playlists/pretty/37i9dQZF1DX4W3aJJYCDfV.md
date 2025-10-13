@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from PinkPantheress, Skepta, HAIM and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,907 likes - 119 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,885 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

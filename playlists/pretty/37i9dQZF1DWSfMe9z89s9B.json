@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Daniel Caesar",
-  "num_followers": 1338461,
+  "num_followers": 1338384,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1329,6 +1329,22 @@
       "url": "https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s"
     },
     {
+      "added_at": "2025-10-10 08:11:09",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "CAOS",
+      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
+    },
+    {
       "added_at": "2025-02-14 07:50:47",
       "album": {
         "name": "Paradigm",
@@ -1403,22 +1419,6 @@
       "duration_ms": 240263,
       "name": "Lord, Forgive Me",
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
-    },
-    {
-      "added_at": "2025-10-10 08:11:09",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "CAOS",
-      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
     },
     {
       "added_at": "2024-07-26 09:18:29",
@@ -1509,38 +1509,6 @@
       "url": "https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
-      "album": {
-        "name": "tell me why",
-        "url": "https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 192449,
-      "name": "tell me why",
-      "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"
-    },
-    {
-      "added_at": "2025-05-09 04:12:41",
-      "album": {
-        "name": "FROM FLORIDA'S FINEST",
-        "url": "https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "SOFT GIRL SUMMER",
-      "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
-    },
-    {
       "added_at": "2025-02-07 08:30:49",
       "album": {
         "name": "Soft Spot (Deluxe Edition)",
@@ -1559,6 +1527,38 @@
       "duration_ms": 250248,
       "name": "Soft Spot - 955 remix",
       "url": "https://open.spotify.com/track/32B5Ht7NQoanL8WHiE6GMA"
+    },
+    {
+      "added_at": "2025-05-09 04:12:41",
+      "album": {
+        "name": "FROM FLORIDA'S FINEST",
+        "url": "https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "SOFT GIRL SUMMER",
+      "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
+    },
+    {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "tell me why",
+        "url": "https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 192449,
+      "name": "tell me why",
+      "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"
     },
     {
       "added_at": "2024-05-03 04:03:47",
@@ -1593,10 +1593,10 @@
       "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 205773,
-      "name": "From Scratch",
-      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
+      "duration_ms": 265680,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
       "added_at": "2025-06-27 04:16:56",
@@ -1677,10 +1677,10 @@
       "url": "https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
@@ -1688,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 265680,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
       "added_at": "2024-06-28 18:42:06",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
+      "added_at": "2025-10-10 08:11:09",
+      "album": {
+        "name": "HEARTBREAK",
+        "url": "https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "duration_ms": 212299,
+      "name": "HEARTBREAK",
+      "url": "https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq"
+    },
+    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "don't text me back",
@@ -1893,6 +1909,22 @@
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "hillside",
+        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "hillside",
+      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
+    },
+    {
       "added_at": "2025-01-17 07:53:24",
       "album": {
         "name": "Without You",
@@ -1911,22 +1943,6 @@
       "duration_ms": 303157,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "hillside",
-        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "hillside",
-      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1961,6 +1977,22 @@
       "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
+      "added_at": "2024-08-16 04:08:50",
+      "album": {
+        "name": "I Could Be Forever",
+        "url": "https://open.spotify.com/album/2kVNFWogXJUmtjL1gyjrQ1"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 253728,
+      "name": "I Could Be Forever",
+      "url": "https://open.spotify.com/track/1f2MtVFQobJYlbHLQycFPm"
+    },
+    {
       "added_at": "2024-03-01 07:06:56",
       "album": {
         "name": "pretend",
@@ -1977,20 +2009,36 @@
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
-      "added_at": "2024-08-16 04:08:50",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "I Could Be Forever",
-        "url": "https://open.spotify.com/album/2kVNFWogXJUmtjL1gyjrQ1"
+        "name": "N.F.A. DEMOS",
+        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
       },
       "artists": [
         {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
         }
       ],
-      "duration_ms": 253728,
-      "name": "I Could Be Forever",
-      "url": "https://open.spotify.com/track/1f2MtVFQobJYlbHLQycFPm"
+      "duration_ms": 148533,
+      "name": "All A Dream",
+      "url": "https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW"
+    },
+    {
+      "added_at": "2025-04-25 06:37:11",
+      "album": {
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 192279,
+      "name": "What I Used To Get Into",
+      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -2013,38 +2061,6 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2025-04-25 06:37:11",
-      "album": {
-        "name": "Dark Nights",
-        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 192279,
-      "name": "What I Used To Get Into",
-      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
-    },
-    {
-      "added_at": "2025-10-10 08:11:09",
-      "album": {
-        "name": "HEARTBREAK",
-        "url": "https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 212299,
-      "name": "HEARTBREAK",
-      "url": "https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "New Friends (feat. Eem Triplin)",
@@ -2063,22 +2079,6 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "N.F.A. DEMOS",
-        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "All A Dream",
-      "url": "https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2229,6 +2229,22 @@
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
+      "added_at": "2024-06-28 18:42:06",
+      "album": {
+        "name": "ACCELERATOR",
+        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 228003,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "symptom of life",
@@ -2259,22 +2275,6 @@
       "duration_ms": 250000,
       "name": "Someone Asked Me How I've Been",
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
-    },
-    {
-      "added_at": "2024-06-28 18:42:06",
-      "album": {
-        "name": "ACCELERATOR",
-        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 228003,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2433,6 +2433,22 @@
       "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
     },
     {
+      "added_at": "2025-10-10 08:11:09",
+      "album": {
+        "name": "Magnify",
+        "url": "https://open.spotify.com/album/60dw1Si8TWEXO57JG5XAK3"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Magnify",
+      "url": "https://open.spotify.com/track/5SN0zJOEIA1nUlstP6QKee"
+    },
+    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "Satellite Business 2.0",
@@ -2473,22 +2489,6 @@
       "url": "https://open.spotify.com/track/3CarOVyNEOcK89v0o3elHk"
     },
     {
-      "added_at": "2024-07-26 09:18:29",
-      "album": {
-        "name": "Tempt Me",
-        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Tempt Me",
-      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Rolling Stone",
@@ -2503,26 +2503,6 @@
       "duration_ms": 118813,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2561,20 +2541,40 @@
       "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
     },
     {
-      "added_at": "2024-05-31 07:53:07",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
+      "duration_ms": 186666,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
+    },
+    {
+      "added_at": "2024-07-26 09:18:29",
+      "album": {
+        "name": "Tempt Me",
+        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Tempt Me",
+      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
     }
   ],
   "unique_name": "Vanguard",

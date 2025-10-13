@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 24432,
+  "num_followers": 24431,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Love All (with JAY-Z)",
-      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -183,6 +163,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "King Of Killbranch",
+        "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Allegations (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -203,22 +203,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "King Of Killbranch",
-        "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Allegations (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4"
+      "duration_ms": 228461,
+      "name": "Love All (with JAY-Z)",
+      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 168727,
       "name": "NEVER LEFT",
       "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Off-White (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 119715,
       "name": "2055 (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Senseless",
-        "url": "https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 143857,
-      "name": "Senseless",
-      "url": "https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "My Shit",
         "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 143857,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ"
     },
     {
       "added_at": "2022-10-01 16:17:17",

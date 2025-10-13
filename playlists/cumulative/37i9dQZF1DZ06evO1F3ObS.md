@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-119 songs - 8 hr 54 min
+121 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [YOU](https://open.spotify.com/track/3o3XXokoRYbLCgeS961bcj) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 4:07 | 2024-12-28 | 2025-03-01 |
 | [あしたはハレルヤ](https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 | 2022-06-09 | 2024-06-16 |
 | [おやすみの詩](https://open.spotify.com/track/078Zvw4Fd1PBx8efZdyuuY) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 3:46 | 2022-06-09 | 2024-12-28 |
+| [かたっぽの靴下](https://open.spotify.com/track/4nqWZMFugiaMgOHTbg1nP3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm) | 4:26 | 2025-10-13 |  |
 | [さよナラ](https://open.spotify.com/track/0aLjwTbwYAQJnUkfuWo0Oi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 3:54 | 2023-03-11 | 2023-08-26 |
 | [じゃあな](https://open.spotify.com/track/5P5VnHLh7dXkfeX36AT5hL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 4:48 | 2024-03-01 |  |
 | [ないない](https://open.spotify.com/track/3GsiCUipvdSCOSNVcHkJYl) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:12 | 2023-08-25 |  |
@@ -82,6 +83,7 @@
 | [カナリア](https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:47 | 2022-06-09 |  |
 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-01-09 |  |
 | [ガジュマル ～Heaven in the Rain～ \-TV size\-](https://open.spotify.com/track/1SSFwlcRoRb9dUVKd6PjM3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 1:35 | 2024-03-04 | 2024-08-08 |
+| [コ・コ・ロ](https://open.spotify.com/track/5Cin0YCToQrQo7cECQa37X) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm) | 3:34 | 2025-10-13 |  |
 | [シャル・ウィ・ダンス？](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス？](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-10 | 2025-04-16 |
 | [シャル・ウィ・ダンス？](https://open.spotify.com/track/1f6wH1mWgPfxoSfWWlmh0K) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:31 | 2025-04-16 |  |
 | [シャル・ウィ・ダンス？（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/0jMS7S4by55KgUdyvtebyh) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～](https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na) | 4:31 | 2023-09-18 | 2023-12-14 |
@@ -97,7 +99,7 @@
 | [ミミック](https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 5:53 | 2022-06-09 | 2025-07-14 |
 | [メメント・モリ](https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:09 | 2023-03-10 |  |
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-06-09 | 2022-09-02 |
-| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 | 2022-09-01 |  |
+| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 | 2022-09-01 | 2025-10-13 |
 | [ライフ・イズ・ビューティフォー \-Instrumental\-](https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:27 | 2022-06-09 | 2023-02-21 |
 | [一番星](https://open.spotify.com/track/0rFlCZTNJO8p9A7Jg7PYn3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:19 | 2022-12-09 | 2023-11-11 |
 | [不良少女白書](https://open.spotify.com/track/7I502VpOAeSR89Sc1xAfBG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 5:28 | 2024-03-06 | 2024-09-22 |
@@ -126,6 +128,6 @@
 | [革命](https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:56 | 2024-12-28 |  |
 | [黄金の輝き](https://open.spotify.com/track/6SBRo4xg4Uf0xVVlXztV4m) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [黄金の輝き](https://open.spotify.com/album/66G2FkqUWfqHF8FfPzinzb) | 4:59 | 2025-09-09 | 2025-09-20 |
 | [黄金の輝き](https://open.spotify.com/track/6zTUmYzeOn7wd6bfLLjfQV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [黄金の輝き](https://open.spotify.com/album/0W8cGloQ7NeIybHialOSvh) | 4:59 | 2022-06-09 | 2024-01-10 |
-| [３３４１よ](https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [３３４１よ](https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM) | 3:35 | 2024-02-13 |  |
+| [３３４１よ](https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [３３４１よ](https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM) | 3:35 | 2024-02-13 | 2025-10-13 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

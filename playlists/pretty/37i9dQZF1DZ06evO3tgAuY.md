@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,346 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 18 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 |
 | 19 | [FULL OF HOES](https://open.spotify.com/track/0R0Cn76nPYSyXC0Behn4Mr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [FULL OF HOES](https://open.spotify.com/album/6Rf4KhMAcuW7hqAqd0HBtq) | 3:00 |
 | 20 | [Bien Jalisco](https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Bien Jalisco](https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez) | 2:24 |
-| 21 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 |
-| 22 | [Romeo y Julieta](https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Romeo y Julieta](https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS) | 2:32 |
+| 21 | [Romeo y Julieta](https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Romeo y Julieta](https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS) | 2:32 |
+| 22 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 |
 | 23 | [Culichi Vibes](https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Culichi Vibes](https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS) | 3:09 |
 | 24 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 |
 | 25 | [Humildemente](https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [De Frente](https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV) | 1:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 40 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
 | 41 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
 | 42 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
-| 43 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
-| 44 | [No Te He Podido Olvidar](https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Clave A](https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu) | [No Te He Podido Olvidar](https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv) | 3:38 |
+| 43 | [No Te He Podido Olvidar](https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Clave A](https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu) | [No Te He Podido Olvidar](https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv) | 3:38 |
+| 44 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
 | 45 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 | 46 | [El Marin](https://open.spotify.com/track/5anAtF4GsmsWMeZ1z4HVkg) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/4eASAZRdq38xNSpvPnJULX) | 2:13 |
 | 47 | [El Brillo de Mis Ojos](https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Brillo de Mis Ojos](https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 |
 | 50 | [El Maserati \- En Vivo](https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 2:42 |
 
-Snapshot ID: `aOhMgAAAAACBoxahi/TPpc/emBvSvsR+`
+Snapshot ID: `aOmeAAAAAACUt24xFLeEGhIsZojwFrfY`

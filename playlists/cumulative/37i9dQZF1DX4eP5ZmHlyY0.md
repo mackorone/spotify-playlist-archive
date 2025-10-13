@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-746 songs - 1 day 16 hr 59 min
+747 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Bon Voyage](https://open.spotify.com/track/7BHlLqdDjNlweYXdmAeFzN) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 3:08 | 2025-04-01 | 2025-05-12 |
 | [BOOM BASH](https://open.spotify.com/track/22mbbvEHy4mRNuz4HbfCgo) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BOOM BASH](https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk) | 3:38 | 2025-04-17 | 2025-06-04 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 | 2024-10-02 |
+| [BOOST](https://open.spotify.com/track/0aZo9k3b4kOrtq36ZmcJLh) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BOOST](https://open.spotify.com/album/1f1Dqbf05nnLcoCPVOn9BN) | 3:44 | 2025-10-12 |  |
 | [BOSS IN THE BUILDING](https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOSS IN THE BUILDING](https://open.spotify.com/album/5rUDcK5BarwnVJhn86U2WB) | 4:30 | 2025-07-08 | 2025-08-05 |
 | [Bossa Bosa](https://open.spotify.com/track/67cHhblKt3ThjqAsvZJB2A) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Bossa Bosa](https://open.spotify.com/album/4gRM6Xt8jx7UpQm6Cworb4) | 2:22 | 2025-07-01 | 2025-08-25 |
 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-31 | 2025-04-02 |
@@ -598,7 +599,7 @@
 | [Treasure Believer](https://open.spotify.com/track/47kYfk9KuZppYzt1n7soRP) | [VΔLZ](https://open.spotify.com/artist/5NsoCPfSPuShXpS1xuLmPf) | [三華の樂](https://open.spotify.com/album/4GnRqlotGHfKskEIprHBEz) | 3:52 | 2024-06-04 | 2024-06-13 |
 | [Trendsetter](https://open.spotify.com/track/0KdRHPuaYxXmDkHPNMHo3l) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Unstoppable](https://open.spotify.com/album/2JJxm3mIqGHbrwDGxDoMQ8) | 3:15 | 2024-10-08 | 2024-11-13 |
 | [Tricky](https://open.spotify.com/track/3G6rXjTd5dzChNH3xTeTZj) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO／ミチシルベ](https://open.spotify.com/album/4na3Tzdx6VoIUy6J57Papr) | 3:23 | 2024-12-17 | 2025-04-03 |
-| [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 | 2025-10-06 |  |
+| [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 | 2025-10-06 | 2025-10-13 |
 | [True or Doubt](https://open.spotify.com/track/4rYthQE68476ZAuZCcz6g0) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [True or Doubt](https://open.spotify.com/album/5y1BmvP8eyXHn01gKycYso) | 3:07 | 2025-02-04 | 2025-02-12 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-03-06 | 2025-04-16 |
 | [Twilight Glitter](https://open.spotify.com/track/4w5oCahIkgM7DWsVdhYGPB) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BFX / Twilight Glitter](https://open.spotify.com/album/28cOFiqdYxgRmd26KYYjCW) | 3:15 | 2025-09-15 | 2025-10-01 |

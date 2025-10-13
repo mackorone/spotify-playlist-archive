@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,355 songs - 9 day 14 hr 11 min
+4,356 songs - 9 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2467,7 +2467,7 @@
 | [Miss You \- Sped Up Version](https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q) | 2:51 | 2022-11-08 | 2022-11-27 |
 | [Miss You \- Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 2:50 | 2022-11-08 | 2022-11-16 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-21 | 2024-05-29 |
-| [misses x brazil](https://open.spotify.com/track/4HN3VOtkYK2fVAlWsYEEaz) | [skyemane](https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ), [Sapphink](https://open.spotify.com/artist/3A1vU9TZUxn4li5CKliyoq) | [misses x brazil](https://open.spotify.com/album/6wzpYKIA6FEJ6aC6jROZcL) | 3:02 | 2025-10-11 |  |
+| [misses x brazil](https://open.spotify.com/track/4HN3VOtkYK2fVAlWsYEEaz) | [skyemane](https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ), [Sapphink](https://open.spotify.com/artist/3A1vU9TZUxn4li5CKliyoq) | [misses x brazil](https://open.spotify.com/album/6wzpYKIA6FEJ6aC6jROZcL) | 3:02 | 2025-10-11 | 2025-10-13 |
 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-09 | 2023-04-27 |
 | [Missing You](https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Missing You \(feat\. Nate Smith\)](https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh) | 3:07 | 2024-01-30 | 2024-02-01 |
 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 | 2023-11-05 | 2023-12-03 |
@@ -2740,6 +2740,7 @@
 | [Off Me](https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Off Me](https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo) | 2:53 | 2025-10-09 |  |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-23 | 2024-04-25 |
 | [OFPP](https://open.spotify.com/track/5h6lYFQE8eZdizKSIudYIs) | [conscience](https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC) | [OFPP](https://open.spotify.com/album/74IsKyRpF9tGRBsR3epIMi) | 2:00 | 2024-11-06 | 2024-11-13 |
+| [Oh Lord](https://open.spotify.com/track/3VOfcm1jnPfLNa2QhVsA4j) | [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk) | [Foxy Shazam](https://open.spotify.com/album/5jH30KAoJeXME7a2LVBdN8) | 4:10 | 2025-10-12 |  |
 | [Oh Mickey!](https://open.spotify.com/track/4EnlPNg3OWyqRBiEzAl8Kk) | [DreamWonder](https://open.spotify.com/artist/0VuMmgtAdyN6z3QfahzJsn) | [Oh Mickey!](https://open.spotify.com/album/6H7zjBd9w8zCzfFP1GX7fp) | 1:55 | 2023-01-22 | 2023-01-24 |
 | [Oh My Angel](https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf) | [Bertha Tillman](https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9) | [Presenting Bertha Tillman](https://open.spotify.com/album/2ITTUdZCFYz2oDvg2f75EU) | 2:22 | 2025-02-17 | 2025-03-05 |
 | [Oh My Angel](https://open.spotify.com/track/6WGFdJ3lRB7e0VDNEzpiAh) | [Bertha Tillman](https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9) | [Goodies Old Is New: Come Dance With Me](https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy) | 2:22 | 2025-02-22 | 2025-02-24 |

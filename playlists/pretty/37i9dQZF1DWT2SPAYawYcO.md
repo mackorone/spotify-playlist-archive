@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The 046, David Guetta, Teddy Swims, Tones And I, DJ Seinfeld, Confidence Man, The Belair Lip Bombs + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,845 likes - 96 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,850 likes - 96 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

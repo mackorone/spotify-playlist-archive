@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 132329,
+  "num_followers": 132370,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 406266,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
       "artists": [
         {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 331266,
       "name": "Two Not One",
       "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 494026,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 210533,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 494026,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 380240,
-      "name": "Old Folks",
-      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Blowing In From Chicago",
         "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 356746,
       "name": "Bo-Till - Rudy Van Gelder 24Bit Mastering",
       "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 380240,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "New Time, New 'Tet",
         "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 453133,
       "name": "From Dream to Dream",
       "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 504866,
-      "name": "Hat And Beard",
-      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Very Cool + Tranquillity",
         "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 208906,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 504866,
+      "name": "Hat And Beard",
+      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Swingin' Till The Girls Come Home",
-        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "Bye bye blackbird",
-      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 395440,
       "name": "Blight of the Fumble Bee",
       "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Swingin' Till The Girls Come Home",
+        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Bye bye blackbird",
+      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+        }
+      ],
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Triptykon",
         "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
@@ -2039,22 +2055,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
-        }
-      ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Contemporary Jazz",
+        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        }
+      ],
+      "duration_ms": 962320,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 363333,
       "name": "Lamenting",
       "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Contemporary Jazz",
-        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        }
-      ],
-      "duration_ms": 962320,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
     },
     {
       "added_at": "2024-07-17 12:24:10",

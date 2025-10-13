@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 5 hr 33 min
+106 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Graveyard](https://open.spotify.com/track/6XNg0qUmlEnKzYdIFypdYD) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/5o5qqikYY4EsOsoXlrYfze) | 2:20 | 2025-02-26 |  |
 | [Grow Up](https://open.spotify.com/track/7Lvpf3wHt9lk00ITGYaL8P) | [Baylee Littrell](https://open.spotify.com/artist/2RY2F1PetbKRbJetwN8DRd) | [770\-Country](https://open.spotify.com/album/42m2Zaw4Lf6ObBynT9nKYr) | 2:54 | 2025-01-09 | 2025-04-12 |
 | [Grow Young With You](https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Grow Young With You](https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93) | 3:08 | 2024-04-03 |  |
-| [He's My Man](https://open.spotify.com/track/62akVbk0TrvcI8wJtbmN6W) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [He's My Man](https://open.spotify.com/album/4g2BT27wACvwqgSCrjv3L3) | 3:01 | 2024-10-27 |  |
+| [He's My Man](https://open.spotify.com/track/62akVbk0TrvcI8wJtbmN6W) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [He's My Man](https://open.spotify.com/album/4g2BT27wACvwqgSCrjv3L3) | 3:01 | 2024-10-27 | 2025-10-13 |
+| [He's My Man](https://open.spotify.com/track/6tNnr37Jtf9JIqhYRy5KUQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 3:02 | 2025-10-12 |  |
 | [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 | 2024-10-13 |  |
 | [HEARTFIRST](https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:07 | 2024-04-03 |  |
 | [Heavyweight](https://open.spotify.com/track/4x0M6jNEij5TvgBDRAaNvH) | [Quinn L'Esperance](https://open.spotify.com/artist/6ToTVP91K1H3QoGG9iduDM) | [Heavyweight](https://open.spotify.com/album/79BhiaznS9LE2M6prxywrs) | 3:33 | 2025-01-09 | 2025-04-12 |

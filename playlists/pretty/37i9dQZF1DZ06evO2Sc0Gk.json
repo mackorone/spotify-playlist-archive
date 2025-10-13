@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20854,
+  "num_followers": 20855,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADZEwrKhxFFvLphn0ivH+St",
+  "snapshot_id": "aOmeAAAAAACIAA243LJ8TFD3LCmoysdC",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doyin",
-        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Doyin",
-      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Decline",
         "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doyin",
+        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Doyin",
+      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Files",
         "url": "https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 183484,
       "name": "Falling For U",
       "url": "https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,

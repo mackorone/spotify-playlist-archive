@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-143 songs - 8 hr 39 min
+144 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 | 2025-07-18 |  |
 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 | 2025-07-18 |  |
+| [Creator](https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [10K](https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV) | 3:14 | 2025-10-10 |  |
 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-25 | 2025-08-02 |
 | [Cry to Me](https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Junk](https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A) | 2:42 | 2025-07-18 |  |
 | [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-07-18 | 2025-07-29 |
@@ -108,7 +109,7 @@
 | [Save a Little Love for Me](https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Forward](https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC) | 3:32 | 2025-07-18 |  |
 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 | 2025-07-18 |  |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2025-07-18 |  |
-| [Silver Screens](https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Silver Screens](https://open.spotify.com/album/3OHp2k00Tx51yX33X2zyZw) | 3:21 | 2025-10-10 |  |
+| [Silver Screens](https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Silver Screens](https://open.spotify.com/album/3OHp2k00Tx51yX33X2zyZw) | 3:21 | 2025-10-10 | 2025-10-13 |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-07-18 | 2025-07-26 |
 | [So Be So Mine](https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [So Be So Mine](https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q) | 2:54 | 2025-09-25 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 | 2025-07-18 |  |

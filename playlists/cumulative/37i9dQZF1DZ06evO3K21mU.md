@@ -4,7 +4,7 @@
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 54 min
+97 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2023-11-10 |  |
 | [Intro](https://open.spotify.com/track/6wXUgYeIJznRMh1F6OBVB1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 0:54 | 2024-11-23 | 2024-11-29 |
 | [January 28th](https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:02 | 2023-11-10 |  |
+| [Johnny P's Caddy](https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:45 | 2025-10-13 |  |
 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 | 2025-02-08 | 2025-02-10 |
 | [Just To Get By](https://open.spotify.com/track/4eQuX80EZDUwXmEqEiEYg5) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Warm Up](https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY) | 1:37 | 2024-11-26 | 2024-12-19 |
 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 | 2023-11-10 |  |
@@ -82,7 +83,7 @@
 | [She's Mine Pt\. 1](https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:29 | 2023-11-10 |  |
 | [She's Mine Pt\. 2](https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 4:38 | 2023-11-10 | 2025-07-03 |
 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 | 2023-11-10 |  |
-| [Sideline Story](https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:57 | 2025-10-05 |  |
+| [Sideline Story](https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:57 | 2025-10-05 | 2025-10-13 |
 | [Simba](https://open.spotify.com/track/06ytsFiHQ1Y7mYAQcya4zS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 2:36 | 2024-11-25 | 2024-11-29 |
 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2023-12-13 |  |
 | [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 | 2024-04-10 |  |

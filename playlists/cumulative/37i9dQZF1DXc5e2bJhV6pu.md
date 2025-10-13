@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,515 songs - 3 day 13 hr 54 min
+1,516 songs - 3 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [100 Thousand](https://open.spotify.com/track/1mnFXM2plVPXiGzEYSwWcd) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [100 Thousand](https://open.spotify.com/album/5J6U3mSKPVBpdC3q7ozWMu) | 2:35 | 2019-08-26 | 2022-04-02 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-01-24 | 2025-02-17 |
 | [123](https://open.spotify.com/track/3gFgp6Ofp808Kc2qLQiN5e) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [123](https://open.spotify.com/album/0vNMHcbStXJLmjOJJyJ4wl) | 3:10 | 2019-08-10 | 2022-04-01 |
-| [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 | 2025-02-17 |  |
+| [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 | 2025-02-17 | 2025-10-13 |
 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 | 2019-08-06 | 2019-08-08 |
 | [1901](https://open.spotify.com/track/59wkbglKAR1nq60Iu5xBN3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/12bF0kb7344fnzq9W6Nq1t) | 3:13 | 2021-03-07 | 2021-03-16 |
 | [1955](https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:59 | 2019-08-02 | 2019-08-04 |
@@ -360,6 +360,7 @@
 | [Embrace](https://open.spotify.com/track/36OkygdRZI6Nhspmuzkpn9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/1ghXnO9IptRdjiNedwB6cv) | 5:29 | 2019-08-04 | 2022-04-01 |
 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 | 2022-04-05 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-03-29 | 2025-04-17 |
+| [Eraser](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Some Kind of Alchemy](https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3) | 3:29 | 2025-10-13 |  |
 | [Errol \- Remastered](https://open.spotify.com/track/1kxPRJGVKGqjJM7BB44p0p) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Sirocco \(Remastered\)](https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF) | 3:30 | 2019-08-09 | 2022-04-07 |
 | [Escape](https://open.spotify.com/track/2Dz8fiLHktTEPjnkysYGuT) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Escape](https://open.spotify.com/album/61UiZ8GzPHG5iRwaixyghM) | 2:42 | 2020-07-18 | 2022-04-14 |
 | [Ever Again](https://open.spotify.com/track/6kHhnC7AnWnHByI1hSkEFc) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/72VEyOnpNQTNL3aYEWocXw) | 4:24 | 2019-08-09 | 2022-04-12 |

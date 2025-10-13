@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 36863,
+  "num_followers": 36867,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -251,58 +251,6 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Ver\u00e3o Sereno",
-        "url": "https://open.spotify.com/album/7LVJXwalP3WB9IrrLFXcVl"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "Ver\u00e3o Sereno",
-      "url": "https://open.spotify.com/track/577kewRtdxMLv7jqULWEox"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Cumbia Don Juan",
-        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "Cumbia Don Juan",
-      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -327,6 +275,26 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
+        "name": "Ver\u00e3o Sereno",
+        "url": "https://open.spotify.com/album/7LVJXwalP3WB9IrrLFXcVl"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "Ver\u00e3o Sereno",
+      "url": "https://open.spotify.com/track/577kewRtdxMLv7jqULWEox"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -347,6 +315,22 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -383,6 +367,22 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
+        "name": "Cumbia Don Juan",
+        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "Cumbia Don Juan",
+      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
         "name": "Donde Estas?",
         "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
       },
@@ -411,6 +411,26 @@
       "duration_ms": 169491,
       "name": "Lo-fi Ma\u00f1ana en CDMX",
       "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Moonlight Juice",
+        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Moonlight Juice",
+      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -451,22 +471,50 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Moonlight Juice",
-        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 147786,
-      "name": "Moonlight Juice",
-      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Un Final",
+        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 235863,
+      "name": "Un Final",
+      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -491,90 +539,6 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Un Final",
-        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 235863,
-      "name": "Un Final",
-      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "la espera",
-        "url": "https://open.spotify.com/album/1WWq4XoeC07MZOBdxBce28"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 87529,
-      "name": "la espera",
-      "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
         "name": "Chola - Beat Tape",
         "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
       },
@@ -587,22 +551,6 @@
       "duration_ms": 129804,
       "name": "por ti",
       "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -627,6 +575,22 @@
       "duration_ms": 143294,
       "name": "Bolero lo-fi para el coraz\u00f3n",
       "url": "https://open.spotify.com/track/7oN0peZfa6jylWx4TinJP3"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "la espera",
+        "url": "https://open.spotify.com/album/1WWq4XoeC07MZOBdxBce28"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 87529,
+      "name": "la espera",
+      "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -659,6 +623,58 @@
       "duration_ms": 137923,
       "name": "Maranta",
       "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
         "name": "Cumbia Psicod\u00e9lica",
         "url": "https://open.spotify.com/album/35Km6XTEEYQCIB7YZ9Vrtb"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 135091,
       "name": "Cumbia Psicod\u00e9lica",
       "url": "https://open.spotify.com/track/1nlDoC4oPCrsyGn1TdpAGE"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Nadie sabe nada de nadie",
-        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Nadie sabe nada de nadie",
-      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -827,6 +811,38 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
+        "name": "Nostalgia en Ruta",
+        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 115052,
+      "name": "Nostalgia en Ruta",
+      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Nadie sabe nada de nadie",
+        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Nadie sabe nada de nadie",
+      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
         "name": "In the crown of the trees, I find you",
         "url": "https://open.spotify.com/album/3JSuSK1A0YzaPjO2f1CtAt"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 142222,
       "name": "In the crown of the trees, I find you",
       "url": "https://open.spotify.com/track/1E3ZcM10ZAUWtlibEHUd0P"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Nostalgia en Ruta",
-        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 115052,
-      "name": "Nostalgia en Ruta",
-      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -975,6 +975,26 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
+        "name": "Sailboat",
+        "url": "https://open.spotify.com/album/3Jo3dCor7i4wywve20cOLZ"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Sailboat",
+      "url": "https://open.spotify.com/track/6xtWuEaX4nn85FfOGVY0Lm"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
         "name": "lost in a dream",
         "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
       },
@@ -995,22 +1015,22 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Sailboat",
-        "url": "https://open.spotify.com/album/3Jo3dCor7i4wywve20cOLZ"
+        "name": "que chulada",
+        "url": "https://open.spotify.com/album/1VL31Ov2UyihVGEDQSoptV"
       },
       "artists": [
         {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         },
         {
-          "name": "Nicolas Kluzek",
-          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
         }
       ],
-      "duration_ms": 159642,
-      "name": "Sailboat",
-      "url": "https://open.spotify.com/track/6xtWuEaX4nn85FfOGVY0Lm"
+      "duration_ms": 134261,
+      "name": "que chulada",
+      "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1039,22 +1059,22 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "que chulada",
-        "url": "https://open.spotify.com/album/1VL31Ov2UyihVGEDQSoptV"
+        "name": "Chupacabras",
+        "url": "https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
         },
         {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+          "name": "Suerte Lo-Fi",
+          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
         }
       ],
-      "duration_ms": 134261,
-      "name": "que chulada",
-      "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
+      "duration_ms": 103562,
+      "name": "Chupacabras",
+      "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1099,26 +1119,6 @@
       "duration_ms": 133933,
       "name": "no tiene sentido - lofi",
       "url": "https://open.spotify.com/track/3AEi47jy9VlMllKVPXoofD"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "Chupacabras",
-        "url": "https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Suerte Lo-Fi",
-          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
-        }
-      ],
-      "duration_ms": 103562,
-      "name": "Chupacabras",
-      "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
         "name": "El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
       },
@@ -1319,8 +1303,24 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
         "name": "wandering through soft colors",
         "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 196721,
       "name": "wandering through soft colors",
       "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1759,18 +1759,34 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
       "artists": [
         {
-          "name": "slider beats",
-          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 123243,
-      "name": "Cafe y T\u00e9",
-      "url": "https://open.spotify.com/track/2DvU4WFADIqoGkvXgVQCqB"
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+    },
+    {
+      "added_at": "2025-09-19 06:00:21",
+      "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1795,18 +1811,18 @@
     {
       "added_at": "2025-09-19 06:00:21",
       "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
       "artists": [
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "slider beats",
+          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
         }
       ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+      "duration_ms": 123243,
+      "name": "Cafe y T\u00e9",
+      "url": "https://open.spotify.com/track/2DvU4WFADIqoGkvXgVQCqB"
     },
     {
       "added_at": "2025-09-19 06:00:21",
@@ -1847,22 +1863,6 @@
       "duration_ms": 110432,
       "name": "El Principio",
       "url": "https://open.spotify.com/track/2W23HpWRQhlHj3sIJb8MdI"
-    },
-    {
-      "added_at": "2025-09-19 06:00:21",
-      "album": {
-        "name": "making out",
-        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "making out",
-      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
     }
   ],
   "unique_name": "LoFi mexa",

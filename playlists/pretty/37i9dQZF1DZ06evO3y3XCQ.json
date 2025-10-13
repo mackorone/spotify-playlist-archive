@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5108,
+  "num_followers": 5110,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADU3CV/wm90+58gZA80J/o5",
+  "snapshot_id": "aOmeAAAAAADErwmy5JdoU8ovvqa1veYb",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 276760,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
       "duration_ms": 176133,
       "name": "At This Velocity",
       "url": "https://open.spotify.com/track/3H9eREtPUuMFijG1ryHqQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Fast to the End",
+      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Magnets Caught in a Metal Heart",
-      "url": "https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 242066,
-      "name": "Dying in New Brunswick",
-      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
+      "duration_ms": 276760,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
     },
     {
       "added_at": null,
@@ -463,6 +463,54 @@
       "duration_ms": 414040,
       "name": "Autumn Leaves Revisited",
       "url": "https://open.spotify.com/track/0nty9GkUJ6CD4Uj60IFT4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Magnets Caught in a Metal Heart",
+      "url": "https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 201532,
+      "name": "Fake Nostalgia",
+      "url": "https://open.spotify.com/track/42mEqTRpA8HghCXu63sHvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
     },
     {
       "added_at": null,
@@ -492,25 +540,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fast to the End",
-      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Ian Curtis",
-      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
+      "duration_ms": 293973,
+      "name": "Turnpike Divides",
+      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
     },
     {
       "added_at": null,
@@ -524,9 +556,25 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 202598,
-      "name": "Resuscitation of a Dead Man",
-      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
+      "duration_ms": 279160,
+      "name": "Love Has Led Us Astray",
+      "url": "https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 118440,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b"
     },
     {
       "added_at": null,
@@ -556,25 +604,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 293973,
-      "name": "Turnpike Divides",
-      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 118440,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b"
+      "duration_ms": 285226,
+      "name": "Sparks Against the Sun",
+      "url": "https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k"
     },
     {
       "added_at": null,
@@ -588,9 +620,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 201532,
-      "name": "Fake Nostalgia",
-      "url": "https://open.spotify.com/track/42mEqTRpA8HghCXu63sHvL"
+      "duration_ms": 202598,
+      "name": "Resuscitation of a Dead Man",
+      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
     },
     {
       "added_at": null,
@@ -620,9 +652,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 285226,
-      "name": "Sparks Against the Sun",
-      "url": "https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k"
+      "duration_ms": 219653,
+      "name": "A Darker Forest",
+      "url": "https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr"
     },
     {
       "added_at": null,
@@ -655,38 +687,6 @@
       "duration_ms": 98800,
       "name": "A Sketch For Time's Arrow",
       "url": "https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "A Darker Forest",
-      "url": "https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Love Has Led Us Astray",
-      "url": "https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4"
     },
     {
       "added_at": null,

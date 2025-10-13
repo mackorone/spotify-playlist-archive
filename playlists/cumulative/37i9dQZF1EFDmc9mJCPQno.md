@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 7 hr 20 min
+140 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 | 2024-07-03 |  |
 | [Star Potential](https://open.spotify.com/track/6TjqmtO3H55Ey6nNJCG0FE) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:02 | 2024-07-03 |  |
 | [Starcrossed](https://open.spotify.com/track/59IUfrI6ozN0ur45Dsye9r) | [20 Milk](https://open.spotify.com/artist/2bD5kxM2EMvXxZV4ReHZDX) | [Starcrossed](https://open.spotify.com/album/7sOC7GUbvR4DWDhzgmDKrd) | 2:48 | 2025-01-09 | 2025-04-12 |
+| [SUPA DUPA LUV](https://open.spotify.com/track/5S0QxfYABBoLI4sMk2aCa2) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 2:52 | 2025-10-12 |  |
 | [Superstar](https://open.spotify.com/track/3u3OnkOQocC1Lqx2UtvMqV) | [Oshea](https://open.spotify.com/artist/0OgGaYWmsCmqI5pAD4fJNe) | [Oshean View 2](https://open.spotify.com/album/5x5jN2DA9CUrW9lrJfPYOS) | 3:19 | 2025-01-09 | 2025-04-12 |
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2024-07-03 |  |
 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 | 2024-07-03 |  |

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277048,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/56qwKyIluESgf6AfXO3CAf"
+    },
+    {
+      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },

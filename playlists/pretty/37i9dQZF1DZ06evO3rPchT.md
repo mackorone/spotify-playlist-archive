@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,945 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,975 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 34 | [Bedrooms In The Sky \(feat\. Stephen Wilson Jr.\)](https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:38 |
 | 35 | [Bro Country \(feat\. ERNEST\)](https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Bro Country](https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f) | 4:45 |
 | 36 | [Luckiest Man Alive](https://open.spotify.com/track/24chu1f7CzjS0XdlJKv9T4) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 2:59 |
-| 37 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
+| 37 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:19 |
 | 38 | [Y’all Need Jesus](https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:52 |
-| 39 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:19 |
+| 39 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
 | 40 | [Buck On The Wall](https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG) | 3:04 |
 | 41 | [Girl With A Gun](https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 |
 | 42 | [Gun To My Head](https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [HAPPY HOUR \(feat\. Knox\)](https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:41 |
 | 50 | [The Better Me](https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:15 |
 
-Snapshot ID: `aOhMgAAAAACWFQ71jCNiDh02HZnQN5dB`
+Snapshot ID: `aOmeAAAAAAC/5cg/13FHcDY3W4oWQW3D`

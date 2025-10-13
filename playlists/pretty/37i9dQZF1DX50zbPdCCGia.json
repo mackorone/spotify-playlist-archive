@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 296961,
+  "num_followers": 297125,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -527,8 +527,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "The Stranger",
         "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 207059,
       "name": "Doolin-Dalton - 2013 Remaster",
       "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "What Were Once Vices Are Now Habits",
-        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Another Park, Another Sunday",
-      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Another Park, Another Sunday",
+      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "One Man Dog (2019 Remaster)",
-        "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 155343,
-      "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "One Man Dog (2019 Remaster)",
+        "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 155343,
+      "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
     },
     {
       "added_at": "2023-03-29 17:34:27",

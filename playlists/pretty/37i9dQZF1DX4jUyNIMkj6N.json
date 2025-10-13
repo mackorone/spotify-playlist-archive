@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 219653,
+  "num_followers": 219666,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-10-09 22:31:55",
       "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1"
+      },
+      "artists": [
+        {
+          "name": "Moreau",
+          "url": "https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK"
+        }
+      ],
+      "duration_ms": 170589,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv"
+    },
+    {
+      "added_at": "2025-10-09 22:31:55",
+      "album": {
         "name": "Summer Season",
         "url": "https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 218248,
       "name": "Brick by Brick",
       "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
-    },
-    {
-      "added_at": "2025-10-09 22:31:55",
-      "album": {
-        "name": "Peace Song",
-        "url": "https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1"
-      },
-      "artists": [
-        {
-          "name": "Moreau",
-          "url": "https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK"
-        }
-      ],
-      "duration_ms": 170589,
-      "name": "Peace Song",
-      "url": "https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv"
     },
     {
       "added_at": "2025-10-09 22:31:55",

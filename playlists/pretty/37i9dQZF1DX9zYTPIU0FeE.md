@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Kujenga
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,064 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,077 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 31 | [People of the South](https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu) | [Viwe Mkizwana Ensemble](https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [People of the South](https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd) | 5:45 |
 | 32 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
 | 33 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 |
-| 34 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 34 | [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 |
 | 35 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
-| 36 | [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 |
+| 36 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
 | 37 | [Elusive Freedom](https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m), [MoAfrika Wa Mokgathi](https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 4:18 |
 | 38 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
 | 39 | [When We Love](https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jacomo Bairos](https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3) | [When We Love](https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S) | 5:38 |

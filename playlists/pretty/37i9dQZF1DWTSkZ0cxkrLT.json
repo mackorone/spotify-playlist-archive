@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428771,
+  "num_followers": 428767,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-10-02 15:11:35",
       "album": {
+        "name": "Modelo Para Armar",
+        "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Las Cosas Tienen Movimiento",
+      "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
+    },
+    {
+      "added_at": "2025-10-02 15:11:35",
+      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2025-10-02 15:11:35",
-      "album": {
-        "name": "Modelo Para Armar",
-        "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Baglietto",
-          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
-        }
-      ],
-      "duration_ms": 260906,
-      "name": "Las Cosas Tienen Movimiento",
-      "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
     },
     {
       "added_at": "2025-10-02 15:11:35",

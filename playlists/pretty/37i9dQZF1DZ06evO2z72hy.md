@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,918 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,933 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 25 | [Volver A Sentir](https://open.spotify.com/track/3KGbrHIDaY7KnLbx91QXY7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 3:38 |
 | 26 | [Besándote](https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 3:24 |
 | 27 | [Defendamos](https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:14 |
-| 28 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 |
-| 29 | [Could You Be Loved](https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Could You Be Loved](https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK) | 5:38 |
+| 28 | [Could You Be Loved](https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Could You Be Loved](https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK) | 5:38 |
+| 29 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 |
 | 30 | [Pequeña dama](https://open.spotify.com/track/5m5vk2GSAwfKCI4FNFiUsc) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 4:45 |
 | 31 | [Pedigüeño](https://open.spotify.com/track/36Xd0R2zfa1r9Dk9z4Lcwd) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:50 |
 | 32 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 36 | [Para Quien Avanza](https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 3:56 |
 | 37 | [Nada Cambio](https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:07 |
 | 38 | [Mejor que intentes otra vez](https://open.spotify.com/track/6guOLD8ZATZLXlK7u6NdqT) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:56 |
-| 39 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 |
-| 40 | [Down Under](https://open.spotify.com/track/1lQYp5d5lSNTUZLLsVMjuQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Down Under](https://open.spotify.com/album/6qdt9fquwz1kjy5LZMmtuV) | 3:36 |
+| 39 | [Down Under](https://open.spotify.com/track/1lQYp5d5lSNTUZLLsVMjuQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Down Under](https://open.spotify.com/album/6qdt9fquwz1kjy5LZMmtuV) | 3:36 |
+| 40 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 |
 | 41 | [Sanándonos](https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj) | [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Tótem](https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys) | 4:05 |
 | 42 | [Absalom](https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:24 |
-| 43 | [We Push Away Good Memories](https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Matthew Jacquette](https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:24 |
-| 44 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 |
+| 43 | [Estoy Volviendo a Mi Hogar](https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:20 |
+| 44 | [We Push Away Good Memories](https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Matthew Jacquette](https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:24 |
 | 45 | [Quiero acercarme a ti](https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Rastrillos](https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy) | [Terc3ra Llamada](https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG) | 2:35 |
 | 46 | [Warning!](https://open.spotify.com/track/4YvGJze3VIIxtOQzSWaQLg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:42 |
-| 47 | [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 |
-| 48 | [Estoy Volviendo a Mi Hogar](https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:20 |
+| 47 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 |
+| 48 | [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 |
 | 49 | [Divina verdad](https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:25 |
 | 50 | [Jah Guide](https://open.spotify.com/track/49HlZ78uRJkjYvUIed53Ko) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:46 |
 
-Snapshot ID: `aOhMgAAAAACQOknE2XfJ6uyw55KZf0OE`
+Snapshot ID: `aOmeAAAAAADPJwWGTkYNuZRIbWfDa+/s`

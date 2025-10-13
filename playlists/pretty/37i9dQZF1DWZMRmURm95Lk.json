@@ -227,22 +227,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "The Island Chainsaw Massacre",
-        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 227944,
-      "name": "La prima volta",
-      "url": "https://open.spotify.com/track/4iHvUClvh0Tt277bvN1PZ8"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Io sono il viaggio",
         "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 333296,
       "name": "Io sono il viaggio",
       "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "The Island Chainsaw Massacre",
+        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 227944,
+      "name": "La prima volta",
+      "url": "https://open.spotify.com/track/4iHvUClvh0Tt277bvN1PZ8"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5MosfyfmZprrraxo4qt8rM"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 190565,
+      "name": "Attica",
+      "url": "https://open.spotify.com/track/7G9FEW3DjTlDV2NglprvLH"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "Scatola Nera",
         "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 173960,
       "name": "Veleno 7",
       "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/5MosfyfmZprrraxo4qt8rM"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 190565,
-      "name": "Attica",
-      "url": "https://open.spotify.com/track/7G9FEW3DjTlDV2NglprvLH"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "FoglieMorte (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "FoglieMorte (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "60 Hz II",
         "url": "https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM"
       },
@@ -595,22 +575,22 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
+        "name": "FoglieMorte (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
       },
       "artists": [
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         },
         {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
+      "duration_ms": 177333,
+      "name": "FoglieMorte (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -639,6 +619,22 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+      },
+      "artists": [
+        {
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "24/7 (feat. Ensi & Gemitaiz)",
         "url": "https://open.spotify.com/album/3xf6UBG5iCYpuCEm8B8qqy"
       },
@@ -663,18 +659,62 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "60 Hz II",
+        "url": "https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Baggy",
+      "url": "https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -707,22 +747,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "King Del Rap",
         "url": "https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir"
       },
@@ -735,66 +759,6 @@
       "duration_ms": 240080,
       "name": "King Del Rap",
       "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "60 Hz II",
-        "url": "https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "Baggy",
-      "url": "https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 159095,
-      "name": "DOPE BOY",
-      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -815,6 +779,22 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "Viscerale",
         "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 163000,
       "name": "Idiocracy (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "DOPE BOY",
+      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -943,6 +943,26 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
+        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 132919,
+      "name": "Hip Hop Snippet (feat. Dj Shocca)",
+      "url": "https://open.spotify.com/track/4XvOoyOmHrE9RwwTWNBh5Y"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
-        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 132919,
-      "name": "Hip Hop Snippet (feat. Dj Shocca)",
-      "url": "https://open.spotify.com/track/4XvOoyOmHrE9RwwTWNBh5Y"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1015,6 +1015,34 @@
       "duration_ms": 207474,
       "name": "L'unica amica leale",
       "url": "https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "BISTRO!",
+        "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
+      },
+      "artists": [
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Rev\u00e9",
+          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
+        }
+      ],
+      "duration_ms": 192814,
+      "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
+      "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1075,6 +1103,22 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "Il Battesimo (feat. Inoki)",
         "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
       },
@@ -1095,22 +1139,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "L'amico degli amici",
         "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
       },
@@ -1123,6 +1151,26 @@
       "duration_ms": 242880,
       "name": "Cosa vuoi da me",
       "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "duration_ms": 214721,
+      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1147,26 +1195,6 @@
       "duration_ms": 234525,
       "name": "La volta buona",
       "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
-      },
-      "artists": [
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        }
-      ],
-      "duration_ms": 214721,
-      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1215,34 +1243,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "BISTRO!",
-        "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Rev\u00e9",
-          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
-        }
-      ],
-      "duration_ms": 192814,
-      "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
-      "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -1255,6 +1255,38 @@
       "duration_ms": 250786,
       "name": "Lo straniero",
       "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Blocknotes",
+        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Quando un giorno tornerai",
+      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1279,38 +1311,6 @@
       "duration_ms": 147096,
       "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
       "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Blocknotes",
-        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Quando un giorno tornerai",
-      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1395,58 +1395,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1471,6 +1419,58 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "Vamos A La Playa",
+        "url": "https://open.spotify.com/album/5fr1wcOii3TO5Uzpu7I8nZ"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "Vamos A La Playa",
+      "url": "https://open.spotify.com/track/7olI7QYqmFdrHxLgtoLxtW"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "IncrEdible Freestyle, Pt. III",
         "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
       },
@@ -1723,26 +1743,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Vamos A La Playa",
-        "url": "https://open.spotify.com/album/5fr1wcOii3TO5Uzpu7I8nZ"
-      },
-      "artists": [
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "Vamos A La Playa",
-      "url": "https://open.spotify.com/track/7olI7QYqmFdrHxLgtoLxtW"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -1787,30 +1787,6 @@
       "duration_ms": 179213,
       "name": "Nak Su Kao - Parte 2 - Domo Version",
       "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Magico (RMX)",
-        "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        }
-      ],
-      "duration_ms": 166288,
-      "name": "Magico - RMX",
-      "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1891,6 +1867,30 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "Magico (RMX)",
+        "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        }
+      ],
+      "duration_ms": 166288,
+      "name": "Magico - RMX",
+      "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "Teoria Del Contrario",
         "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
       },
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 181346,
       "name": "Quelli come noi",
       "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "Fritz",
-        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
-      },
-      "artists": [
-        {
-          "name": "Fritz Da Cat",
-          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
-        },
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 204512,
-      "name": "Schiaffetto Correttivo - P.te 2",
-      "url": "https://open.spotify.com/track/2YaIP3cwj5xYzzt53qzrRh"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -1983,6 +1983,26 @@
       "duration_ms": 193122,
       "name": "Quante Notti (feat. Franco126)",
       "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Fritz",
+        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
+      },
+      "artists": [
+        {
+          "name": "Fritz Da Cat",
+          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
+        },
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 204512,
+      "name": "Schiaffetto Correttivo - P.te 2",
+      "url": "https://open.spotify.com/track/2YaIP3cwj5xYzzt53qzrRh"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2011,26 +2031,6 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "A volte ritorno",
-        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
-      },
-      "artists": [
-        {
-          "name": "Lou X",
-          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
-        }
-      ],
-      "duration_ms": 342933,
-      "name": "Cinque minuti di paura",
-      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Beat Coin",
         "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 187415,
       "name": "Sembra un film",
       "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "A volte ritorno",
+        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
+      },
+      "artists": [
+        {
+          "name": "Lou X",
+          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
+        }
+      ],
+      "duration_ms": 342933,
+      "name": "Cinque minuti di paura",
+      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Flaneur",
         "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 236000,
       "name": "Flaneur",
       "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 368156,
-      "name": "Delle Volte",
-      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Fuori di qua! (Stories) [2022 Remastered]",
         "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 159000,
       "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
       "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 368156,
+      "name": "Delle Volte",
+      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2571,30 +2571,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "A Fuoco Lento",
-        "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
-      },
-      "artists": [
-        {
-          "name": "Fid Mella",
-          "url": "https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp"
-        },
-        {
-          "name": "Zonta",
-          "url": "https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA"
-        },
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "A Fuoco Lento",
-      "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Ora Che La Musica Non C'\u00e8",
         "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
       },
@@ -2615,6 +2591,30 @@
       "duration_ms": 262338,
       "name": "Ora Che La Musica Non C'\u00e8",
       "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "A Fuoco Lento",
+        "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
+      },
+      "artists": [
+        {
+          "name": "Fid Mella",
+          "url": "https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp"
+        },
+        {
+          "name": "Zonta",
+          "url": "https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA"
+        },
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "A Fuoco Lento",
+      "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Generazione Di Sconvolti",
         "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
       },
@@ -2851,22 +2835,6 @@
     {
       "added_at": "2025-10-09 22:31:45",
       "album": {
-        "name": "La rivincita dei buoni",
-        "url": "https://open.spotify.com/album/6zE5zYm0iIQ0eRlXBIYF92"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 275920,
-      "name": "Grande",
-      "url": "https://open.spotify.com/track/12IMXVPVItGGUCPckxOjPl"
-    },
-    {
-      "added_at": "2025-10-09 22:31:45",
-      "album": {
         "name": "Mi fist (Remastered version)",
         "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
@@ -2879,6 +2847,22 @@
       "duration_ms": 221806,
       "name": "Cronache di resistenza - Hard to do",
       "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "La rivincita dei buoni",
+        "url": "https://open.spotify.com/album/6zE5zYm0iIQ0eRlXBIYF92"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 275920,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/12IMXVPVItGGUCPckxOjPl"
     },
     {
       "added_at": "2025-10-09 22:31:45",
@@ -2903,6 +2887,22 @@
       "duration_ms": 167625,
       "name": "il profumo delle rose (feat. Danno, Dj Craim)",
       "url": "https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j"
+    },
+    {
+      "added_at": "2025-10-09 22:31:45",
+      "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN"
     },
     {
       "added_at": "2025-10-09 22:31:45",

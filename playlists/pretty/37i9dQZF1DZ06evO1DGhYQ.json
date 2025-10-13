@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACtD5iQX6wzLVsebXn78Hle",
+  "snapshot_id": "aOmeAAAAAACpGRHLMX7kvkoEbITgM0Q0",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "R-Shitei",
-          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "TEENAGE CITY RIOT",
-      "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 289293,
       "name": "FEELIN' GOOD",
       "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "R-Shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "TEENAGE CITY RIOT",
+      "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
     },
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "EL MARIACHI",
-      "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
         "url": "https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 256006,
       "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
       "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "EL MARIACHI",
+      "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 209206,
+      "name": "Dance You, Matilda",
+      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 269106,
       "name": "IN THE MOOD FOR LOVE",
       "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 209206,
-      "name": "Dance You, Matilda",
-      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "MELLOW CRUISE",
-      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Side",
         "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 189466,
       "name": "Jungle Love",
       "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "MELLOW CRUISE",
+      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "CLIMAX BULLETS",
-      "url": "https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 347706,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "CLIMAX BULLETS",
+      "url": "https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8e0a\u6551\u6025\u7bb1",
         "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
       },
@@ -647,22 +631,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 246839,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+      "duration_ms": 265306,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAYING IN THE GROOVE",
+        "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 290833,
+      "name": "STAYING IN THE GROOVE",
+      "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAYING IN THE GROOVE",
-        "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 290833,
-      "name": "STAYING IN THE GROOVE",
-      "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
+      "duration_ms": 246839,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY LIFE. MY DESTINY",
         "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 239600,
       "name": "MY LIFE. MY DESTINY",
       "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,

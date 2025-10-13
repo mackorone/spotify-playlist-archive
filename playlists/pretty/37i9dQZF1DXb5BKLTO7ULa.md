@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR Benelux</a>\), Froukje & S10, Davina Michelle, Henkie T en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,200 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,209 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

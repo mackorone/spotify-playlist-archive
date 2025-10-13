@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 182571,
       "name": "CALM",
       "url": "https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D"
@@ -5722,6 +5722,36 @@
       "duration_ms": 198857,
       "name": "Make It Drop",
       "url": "https://open.spotify.com/track/2RyQYVS5q4LXCNAYOS58Hy"
+    },
+    {
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/5OQ23gjOohCUumTTdlv1g4"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "Azotix",
+          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
+        },
+        {
+          "name": "Blocksberg",
+          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260032,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/6Hx5g5BqynRUgdzOtjFWYh"
     },
     {
       "album": {

@@ -178,7 +178,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 296493,
       "name": "African Dialects",
       "url": "https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 278000,
       "name": "Business Before Pleasure",
       "url": "https://open.spotify.com/track/1gajkqzK3ZU47FFvcwZaX3"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9"
+    },
+    {
+      "album": {
         "name": "Enjoy Yourself",
         "url": "https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA"
       },
@@ -812,10 +830,46 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 249666,
       "name": "Feso Jaiye",
       "url": "https://open.spotify.com/track/1uIy2y0qJlC5ftcf2DjQjr"
+    },
+    {
+      "album": {
+        "name": "For(e)ward",
+        "url": "https://open.spotify.com/album/0dP4leyj3gAQrwqhRt3dKf"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1d\u00e9 Kuti",
+          "url": "https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320786,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2HRKzbvXhDvgLJLePxkwux"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/4apkW58D5z7xaxlbcxFtx0"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 881240,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/7LAWgqlzE9bvjWQ6vql5Q2"
     },
     {
       "album": {
@@ -920,7 +974,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 361124,
       "name": "Kana Sarakab\u00f6",
       "url": "https://open.spotify.com/track/3QOllXZu7hOPu3Vv29XVZG"
@@ -1022,6 +1076,46 @@
       "duration_ms": 203040,
       "name": "Lagos Sisi",
       "url": "https://open.spotify.com/track/6yM82PxMywRHehdoQgQT8p"
+    },
+    {
+      "album": {
+        "name": "Fela With Ginger Baker Live!",
+        "url": "https://open.spotify.com/album/3EX4xvWkN4vqnm3Iy1m8nc"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465280,
+      "name": "Let's Start",
+      "url": "https://open.spotify.com/track/28TlVEAk5TfgPYa1DFOhXM"
+    },
+    {
+      "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Loner (Alone)",
+      "url": "https://open.spotify.com/track/0zCLxldZNgkpdmJgOpabaE"
     },
     {
       "album": {
@@ -1166,7 +1260,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 343053,
       "name": "No Wrong Show",
       "url": "https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW"
@@ -1292,10 +1386,28 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 355250,
       "name": "Petit Sekou",
       "url": "https://open.spotify.com/track/7bJSFZJzWv8J7AyzZIGASJ"
+    },
+    {
+      "album": {
+        "name": "Chapter 1: Where Does Happiness Come From?",
+        "url": "https://open.spotify.com/album/50azNyaCfCfuyOCVTnFzvm"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1d\u00e9 Kuti",
+          "url": "https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1lqVnh2XcPgfde29lsfgrR"
     },
     {
       "album": {
@@ -1516,6 +1628,24 @@
       "duration_ms": 376946,
       "name": "Truth Don Die",
       "url": "https://open.spotify.com/track/1hPLyce401XBZN2Psi8klK"
+    },
+    {
+      "album": {
+        "name": "Shoki Shoki",
+        "url": "https://open.spotify.com/album/0iL5NHl4oL1gFquGBRRjbO"
+      },
+      "artists": [
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378133,
+      "name": "Truth Don Die",
+      "url": "https://open.spotify.com/track/78StHq4UryItPLuIVCCcuB"
     },
     {
       "album": {

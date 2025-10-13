@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 74547,
+  "num_followers": 74554,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADTb08dxNJ+huLRpoO1uuYr",
+  "snapshot_id": "aOmeAAAAAAD0zMh4PDxt7wQMYdBFXL3k",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven knows",
-        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/5CCr8msaN3MhgqBoa9yWhH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y2K!",
         "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/2BNcawEW0KlzLW9DeHzXZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/5CCr8msaN3MhgqBoa9yWhH"
     },
     {
       "added_at": null,
@@ -107,30 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 137952,
-      "name": "Hannah Montana (with NLE Choppa & DaBaby)",
-      "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -151,6 +127,30 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 137952,
+      "name": "Hannah Montana (with NLE Choppa & DaBaby)",
+      "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! (Bonus)",
-        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 114437,
-      "name": "GYAT",
-      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
+      "duration_ms": 158740,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+        "name": "Y2K! (Bonus)",
+        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 158740,
-      "name": "So What?",
-      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
+      "duration_ms": 114437,
+      "name": "GYAT",
+      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
     },
     {
       "added_at": null,

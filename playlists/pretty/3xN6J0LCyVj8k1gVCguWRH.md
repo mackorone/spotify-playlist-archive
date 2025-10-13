@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,987 likes - 169 songs - 10 hr 1 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,976 likes - 163 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 27 | [Following the Coast](https://open.spotify.com/track/650jV9a7MH35zltIt2TQ3u) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Following the Coast](https://open.spotify.com/album/5gAxS16f6vLN1CX3ucHakg) | 3:13 |
 | 28 | [Love Me Do](https://open.spotify.com/track/4BCLqsH9RVMbCupXCoa3uw) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Love Me Do](https://open.spotify.com/album/4lIKVgNu0NdzF5e6cqtxQu) | 2:14 |
 | 29 | [fake it](https://open.spotify.com/track/78yPzqR2Gyg9IcjRcdVLkz) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [fake it](https://open.spotify.com/album/3bozuqCf6u8SNLFwes2UQr) | 3:13 |
-| 30 | [Scratch](https://open.spotify.com/track/7eAO3Y3lC25uK7P7DcYDkK) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Sad Girl With A Punchline \- EP](https://open.spotify.com/album/0NyEoGaoLHB20yAQDztYQI) | 3:31 |
-| 31 | [Reach](https://open.spotify.com/track/0AWSqrxaIb9sYZ9QN92QQp) | [J Shep](https://open.spotify.com/artist/1rQeh4hmkhuQUE0BNAwOKW) | [REACH](https://open.spotify.com/album/0FtZA9rym4e0EQkmdT4HbT) | 3:07 |
-| 32 | [The Story](https://open.spotify.com/track/4pdhcVH0ugWaH2V0Ee1xC1) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 3:57 |
-| 33 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
-| 34 | [Cauchemar](https://open.spotify.com/track/0WjAg9u9EjD7ufrS92yMs2) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [What It Means To...](https://open.spotify.com/album/6k3GnyKxqSyNccoXzkWUfR) | 3:31 |
-| 35 | [Paraíso](https://open.spotify.com/track/2rqFTZRau9yWjKAZbCtky8) | [Lotus Collective](https://open.spotify.com/artist/4Urpa1JAxXdZw5MrrpDWmA), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Paraíso](https://open.spotify.com/album/7BerRN1MXhiHXvs7k4vapq) | 5:28 |
-| 36 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
-| 37 | [Admit It](https://open.spotify.com/track/0zjCFxTzKLfBXdUaHqM1gB) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Admit It](https://open.spotify.com/album/4RbIatP71ygLGXPfm4qPci) | 3:49 |
-| 38 | [Closer](https://open.spotify.com/track/48sXOZXdKt62isQ5hz6gxh) | [Joseph Nevels](https://open.spotify.com/artist/6gXOSQ7WdaujwyIgb2p0O0) | [Closer](https://open.spotify.com/album/1o6Q1HzJDkZgiQFzVZliVQ) | 2:45 |
-| 39 | [WHIMPER](https://open.spotify.com/track/4bDCvXkzZkjsRKe7WfxBuB) | [Kadeli](https://open.spotify.com/artist/3zip7JElymH3ui0PMfkMaf) | [WHIMPER](https://open.spotify.com/album/2NE4MEi5wqQkS0Cho6Rwnh) | 2:34 |
-| 40 | [The Endofme](https://open.spotify.com/track/5ew8JeIV65UcNvZ1E5JYsV) | [Jake Huffman](https://open.spotify.com/artist/5ije2IJTvj6TrlqCdPlqhR) | [The Endofme](https://open.spotify.com/album/4JesieQeooEGktvxVSaEep) | 4:25 |
-| 41 | [My Love](https://open.spotify.com/track/140U1hiFXkWppGU5GZv25H) | [Qancu](https://open.spotify.com/artist/3a6GdM9GeiSimrbOiYphdv) | [My Love](https://open.spotify.com/album/75vc6u36yQEofbktBH6e1h) | 2:45 |
-| 42 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
-| 43 | [Maybe](https://open.spotify.com/track/7b7nzMQZg9mvDcxGnQqDxg) | [Bets](https://open.spotify.com/artist/1UKb8fKzb3cCbapXoaMbqH) | [Future Color](https://open.spotify.com/album/7gQYWVPuXmRYKnt1q7RutF) | 2:58 |
-| 44 | [Toothpicks](https://open.spotify.com/track/7KIR7YHG12P8JkgD33O0a3) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Toothpicks](https://open.spotify.com/album/4paBIwg1rcqJVO3KFkk46y) | 2:16 |
+| 30 | [te quiero no te quiero](https://open.spotify.com/track/3wyGulC7jRzN574dPgcrje) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [te quiero no te quiero](https://open.spotify.com/album/4En6EUGkNrwRyXh5L4FA96) | 2:00 |
+| 31 | [Scratch](https://open.spotify.com/track/7eAO3Y3lC25uK7P7DcYDkK) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Sad Girl With A Punchline \- EP](https://open.spotify.com/album/0NyEoGaoLHB20yAQDztYQI) | 3:31 |
+| 32 | [Reach](https://open.spotify.com/track/0AWSqrxaIb9sYZ9QN92QQp) | [J Shep](https://open.spotify.com/artist/1rQeh4hmkhuQUE0BNAwOKW) | [REACH](https://open.spotify.com/album/0FtZA9rym4e0EQkmdT4HbT) | 3:07 |
+| 33 | [The Story](https://open.spotify.com/track/4pdhcVH0ugWaH2V0Ee1xC1) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 3:57 |
+| 34 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
+| 35 | [Cauchemar](https://open.spotify.com/track/0WjAg9u9EjD7ufrS92yMs2) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [What It Means To...](https://open.spotify.com/album/6k3GnyKxqSyNccoXzkWUfR) | 3:31 |
+| 36 | [Paraíso](https://open.spotify.com/track/2rqFTZRau9yWjKAZbCtky8) | [Lotus Collective](https://open.spotify.com/artist/4Urpa1JAxXdZw5MrrpDWmA), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Paraíso](https://open.spotify.com/album/7BerRN1MXhiHXvs7k4vapq) | 5:28 |
+| 37 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
+| 38 | [Admit It](https://open.spotify.com/track/0zjCFxTzKLfBXdUaHqM1gB) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Admit It](https://open.spotify.com/album/4RbIatP71ygLGXPfm4qPci) | 3:49 |
+| 39 | [Closer](https://open.spotify.com/track/48sXOZXdKt62isQ5hz6gxh) | [Joseph Nevels](https://open.spotify.com/artist/6gXOSQ7WdaujwyIgb2p0O0) | [Closer](https://open.spotify.com/album/1o6Q1HzJDkZgiQFzVZliVQ) | 2:45 |
+| 40 | [WHIMPER](https://open.spotify.com/track/4bDCvXkzZkjsRKe7WfxBuB) | [Kadeli](https://open.spotify.com/artist/3zip7JElymH3ui0PMfkMaf) | [WHIMPER](https://open.spotify.com/album/2NE4MEi5wqQkS0Cho6Rwnh) | 2:34 |
+| 41 | [The Endofme](https://open.spotify.com/track/5ew8JeIV65UcNvZ1E5JYsV) | [Jake Huffman](https://open.spotify.com/artist/5ije2IJTvj6TrlqCdPlqhR) | [The Endofme](https://open.spotify.com/album/4JesieQeooEGktvxVSaEep) | 4:25 |
+| 42 | [My Love](https://open.spotify.com/track/140U1hiFXkWppGU5GZv25H) | [Qancu](https://open.spotify.com/artist/3a6GdM9GeiSimrbOiYphdv) | [My Love](https://open.spotify.com/album/75vc6u36yQEofbktBH6e1h) | 2:45 |
+| 43 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
+| 44 | [Maybe](https://open.spotify.com/track/7b7nzMQZg9mvDcxGnQqDxg) | [Bets](https://open.spotify.com/artist/1UKb8fKzb3cCbapXoaMbqH) | [Future Color](https://open.spotify.com/album/7gQYWVPuXmRYKnt1q7RutF) | 2:58 |
 | 45 | [It'll Be](https://open.spotify.com/track/3dr3debzlY9kzVQMWeJZTq) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [It'll Be](https://open.spotify.com/album/1SSy1YKi3S9NDK8t3OpV18) | 3:57 |
 | 46 | [MESSI](https://open.spotify.com/track/4lAkxpPkhIJbF2FQNZ3xUb) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [MESSI](https://open.spotify.com/album/1ZYEqYDy8SNmEmZxkayAuV) | 3:18 |
 | 47 | [Burn \(Me Down\)](https://open.spotify.com/track/5zRFaD5L6ygQWUoSRyMBCM) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Burn \(Me Down\)](https://open.spotify.com/album/4Rf7mw4R4bbj1JwvNExtlM) | 2:17 |
@@ -171,11 +171,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 161 | [lost me where you found me](https://open.spotify.com/track/03xdIuR52GK0UQW8KHJhuy) | [Israel Wilson](https://open.spotify.com/artist/4xfk20sRrdkcWDg56jkXnS) | [Too Little Too Late II](https://open.spotify.com/album/2nsqGFWu8hqRlNcFjTVFPd) | 2:13 |
 | 162 | [Through the valley.](https://open.spotify.com/track/1xfzYCEu8nwQfp1Qfpii9U) | [Flyingboy Bobby](https://open.spotify.com/artist/1Elez1wU4It82utXDD9Bkh) | [Through the valley.](https://open.spotify.com/album/1cXWCdk3tNp7zoGpx7Zl4C) | 3:37 |
 | 163 | [Talk And Give](https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj) | [Júsef René](https://open.spotify.com/artist/6ZdIUy4nrwQ7KxZQX8804L), [Khaja](https://open.spotify.com/artist/7xvJ01VveC2vr3XZpfHTHm) | [Talk And Give](https://open.spotify.com/album/0xEISW2qpJKDxsKS2Y7a9e) | 2:21 |
-| 164 | [Things We Like](https://open.spotify.com/track/7bBYzIL0ellNkQAwGlSIlF) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD), [Cas](https://open.spotify.com/artist/29BouO2qiyOpQYb0oMVEDK) | [Things We Like](https://open.spotify.com/album/2dVRwvXtYzcoaXyUEfwnJL) | 3:15 |
-| 165 | [It's Finalized it's Everlasting](https://open.spotify.com/track/7mM8WZVIfjMBUeI6zRoqeu) | [Candee Sweet](https://open.spotify.com/artist/2r1A9yNEcaEMErzZ4AHugj) | [It's Finalized it's Everlasting](https://open.spotify.com/album/0D3ymzTgFnA8txU9aYHZ8b) | 3:12 |
-| 166 | [How Honest](https://open.spotify.com/track/2I3iyYXV1JwjvumNzmnPeA) | [SHYA](https://open.spotify.com/artist/3m7zDEYT0SS8Qcccsvg11m) | [How Honest](https://open.spotify.com/album/2dbMIYhLdMp1M4fnYxtvd1) | 3:08 |
-| 167 | [Hopeless In Ann Arbor](https://open.spotify.com/track/1CzvOSFFb6WQ6JRhtvi2xg) | [Lost Weekend](https://open.spotify.com/artist/2CidrduiHH6ZlejaE0Efiu) | [Escape To Aquarius Bay](https://open.spotify.com/album/0bSYgp4wXsB9C1Xu44WeWc) | 4:35 |
-| 168 | [Egos](https://open.spotify.com/track/4UWkxcutVJH5tkzLy9ZjID) | [1P4E Music Collective](https://open.spotify.com/artist/3SBblF02HmxdcBwb527LFl), [KA3](https://open.spotify.com/artist/3r0EsYuuWuoMIryA50auuv), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS) | [Egos](https://open.spotify.com/album/7EnuAt9A4zlx3FHyHybrgi) | 2:57 |
-| 169 | [Oh God](https://open.spotify.com/track/3H9CEHLTpUlthLW3eM7zEw) | [Caitlin Mar](https://open.spotify.com/artist/1XErytpdprOSvj7fchV9WE) | [Oh God](https://open.spotify.com/album/3OzNd4TDxUk7cXDv37pBI2) | 3:01 |
 
-Snapshot ID: `AAA04kdUoC8ass1q95n54L8aVesKG8mj`
+Snapshot ID: `AAA05TgVVlVwtvTA5vy+zElCwMKRxhvb`

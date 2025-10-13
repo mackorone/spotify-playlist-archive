@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 173781,
       "name": "Estamos en Algo",
       "url": "https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU"
@@ -810,6 +810,24 @@
       "duration_ms": 143438,
       "name": "La Criminal",
       "url": "https://open.spotify.com/track/06sDSQea3CjpaAcmNn2ITE"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143438,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
     },
     {
       "album": {
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 188630,
       "name": "Ni los Pleitos",
       "url": "https://open.spotify.com/track/4LB4xxzRzPdYbfdsEsBUOg"

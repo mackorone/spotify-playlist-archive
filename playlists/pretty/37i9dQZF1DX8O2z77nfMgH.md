@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Jhayco
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,247 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,122 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

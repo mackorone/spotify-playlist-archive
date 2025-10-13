@@ -1,6 +1,6 @@
 {
   "description": "Versos y barras de alto poder",
-  "num_followers": 155757,
+  "num_followers": 155827,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-09-05 06:00:13",
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "added_at": "2025-09-05 06:00:13",
+      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
-    },
-    {
-      "added_at": "2025-09-05 06:00:13",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2025-09-05 06:00:13",
@@ -1119,22 +1119,22 @@
     {
       "added_at": "2025-09-05 06:00:13",
       "album": {
-        "name": "Residente: Bzrp Music Sessions, Vol. 49",
-        "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
+        "name": "D\u00eda De Pago",
+        "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         },
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 519289,
-      "name": "Residente: Bzrp Music Sessions, Vol. 49",
-      "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
+      "duration_ms": 187295,
+      "name": "D\u00eda De Pago",
+      "url": "https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk"
     }
   ],
   "unique_name": "Ejercicio con Hip-Hop",

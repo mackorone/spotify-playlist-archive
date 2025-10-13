@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,310 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,314 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 46 | [Gabriela](https://open.spotify.com/track/0MGGSLk5473zXpYhEdxHT1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/7zDBcYSeMAVESJXnVJnzM4) | 3:17 |
 | 47 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 48 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
-| 49 | [Milagro](https://open.spotify.com/track/7bZvXUKrwdryZVShdT5ZvT) | [Machaka](https://open.spotify.com/artist/4rjc9hgUiWB2XppHcUoirz) | [Milagro](https://open.spotify.com/album/6acgB4kq8GOg2blKWGAABX) | 3:33 |
-| 50 | [El Malo](https://open.spotify.com/track/2yM99EvJ6U1BvGyLZwPvPC) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [El Malo](https://open.spotify.com/album/0IDTyQT7vLChxvp6vRYcSB) | 4:26 |
+| 49 | [El Malo](https://open.spotify.com/track/2yM99EvJ6U1BvGyLZwPvPC) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [El Malo](https://open.spotify.com/album/0IDTyQT7vLChxvp6vRYcSB) | 4:26 |
+| 50 | [Milagro](https://open.spotify.com/track/7bZvXUKrwdryZVShdT5ZvT) | [Machaka](https://open.spotify.com/artist/4rjc9hgUiWB2XppHcUoirz) | [Milagro](https://open.spotify.com/album/6acgB4kq8GOg2blKWGAABX) | 3:33 |
 | 51 | [BENDECIO](https://open.spotify.com/track/6GQLzrq2qr3hgAwlUODJ9k) | [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [BENDECIO](https://open.spotify.com/album/3fUw8rAFhm1QqFSThyQamr) | 3:50 |
 | 52 | [Amigos](https://open.spotify.com/track/2XLs6OkB9P064qsMq8q0qs) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:28 |
 | 53 | [Azrael](https://open.spotify.com/track/2xeNudarMjWk0szAYH7TQ8) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Trialog](https://open.spotify.com/album/25aj5x75VPuZ9NWz36ZT6v) | 7:34 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 64 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
 | 65 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
 | 66 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
-| 67 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
-| 68 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
+| 67 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
+| 68 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
 | 69 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
 | 70 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
 | 71 | [Ay de Mí](https://open.spotify.com/track/65bu8UhDJamcrDNaqOFri1) | [Zarigüeya](https://open.spotify.com/artist/0ez7ZBFnBaAeiKeimAyZtl) | [Verso Marsupial](https://open.spotify.com/album/7f4kK0Lk82lhEC6bp02Mmj) | 2:47 |

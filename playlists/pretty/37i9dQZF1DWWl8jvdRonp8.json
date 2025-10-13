@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 283747,
+  "num_followers": 283858,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "A Mi Ley",
-        "url": "https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x"
-      },
-      "artists": [
-        {
-          "name": "Patrulla 81",
-          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "A Mi Ley",
+        "url": "https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x"
+      },
+      "artists": [
+        {
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+        }
+      ],
+      "duration_ms": 179680,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Y Yo Sin Ti",
-        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Y Yo Sin Ti",
-      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Antes de Que Te Vayas",
         "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 205983,
       "name": "Antes de Que Te Vayas",
       "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Y Yo Sin Ti",
+        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Y Yo Sin Ti",
+      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
     },
     {
       "added_at": "2025-01-23 17:30:18",

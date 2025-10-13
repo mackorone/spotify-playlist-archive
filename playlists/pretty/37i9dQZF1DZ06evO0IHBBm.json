@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31146,
+  "num_followers": 31147,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADno3UBTA9bmIkChcDlTKY5",
+  "snapshot_id": "aOmeAAAAAABDu3liP0a9Pq7Fk0AMX3/o",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
       "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 340080,
-      "name": "Pode Ser Hoje",
-      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
+      "duration_ms": 278000,
+      "name": "Tudo Isso Vai Passar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Tudo Isso Vai Passar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
+      "duration_ms": 340080,
+      "name": "Pode Ser Hoje",
+      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
     },
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 294226,
-      "name": "Ressuscita",
-      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
+      "duration_ms": 355746,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
     },
     {
       "added_at": null,
@@ -375,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 355746,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Di\u00e1rio de um Vencedor",
         "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
       },
@@ -411,6 +395,42 @@
       "duration_ms": 322194,
       "name": "Di\u00e1rio de um Vencedor",
       "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 294226,
+      "name": "Ressuscita",
+      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "N\u00e3o Toque no Ungido",
+      "url": "https://open.spotify.com/track/7fNATW4jATKU0yhAmBJBOq"
     },
     {
       "added_at": null,
@@ -443,26 +463,6 @@
       "duration_ms": 470263,
       "name": "A Tenda (Ao Vivo)",
       "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "N\u00e3o Toque no Ungido",
-      "url": "https://open.spotify.com/track/7fNATW4jATKU0yhAmBJBOq"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36775,
+  "num_followers": 36783,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAA2fPxnmtUla3UxwX5tmSmi",
+  "snapshot_id": "aOmeAAAAAADsmNHeEqzd7qmA3RiesjPE",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 402844,
+      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In The South",
         "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 242362,
       "name": "Big Heart (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 402844,
-      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "The Blood Hymns Medley - Live",
+      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Maverick Way - EP",
         "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "The Blood Hymns Medley - Live",
-      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
     },
     {
       "added_at": null,

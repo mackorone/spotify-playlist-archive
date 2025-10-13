@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,522 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,531 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 34 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
 | 35 | [Salute](https://open.spotify.com/track/5sWjhIs29sp6rbgOicg4NS) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:34 |
 | 36 | [Girl Of Constant Sorrow](https://open.spotify.com/track/3UjmEplBH91KXo7PHPZKTU) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Girl Of Constant Sorrow](https://open.spotify.com/album/2kjhNUwtDsCfYHrh03TXOE) | 2:59 |
-| 37 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
-| 38 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
+| 37 | [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 |
+| 38 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
 | 39 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
 | 40 | [DON'T STRESS](https://open.spotify.com/track/2vkkMGqeuAtumFaYHA0CoX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [DON'T STRESS](https://open.spotify.com/album/11iY6153p0IYzUEK6yZfaE) | 2:51 |
 | 41 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
-| 42 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
-| 43 | [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 |
+| 42 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
+| 43 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 44 | [Dent](https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Dent](https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL) | 3:12 |
 | 45 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |
 | 46 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |

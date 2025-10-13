@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 316955,
+  "num_followers": 316995,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAASqbayBlwhb94rC6DsiVt4",
+  "snapshot_id": "aOmeAAAAAAAgcDPe8RecP/oerRqp6xCk",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "FlatBed Freestyle",
+      "url": "https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASA",
         "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 233142,
       "name": "Fire Your Manager (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "FlatBed Freestyle",
-      "url": "https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw"
     },
     {
       "added_at": null,

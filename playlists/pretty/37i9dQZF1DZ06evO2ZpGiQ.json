@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 469323,
+  "num_followers": 469355,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACPo1PwqEsuQqdyRM1ei92M",
+  "snapshot_id": "aOmeAAAAAAC7ABsRJZLCkbOaKix1OKSD",
   "tracks": [
     {
       "added_at": null,
@@ -283,30 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jay Jones",
-          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
-        }
-      ],
-      "duration_ms": 241335,
-      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
-      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -339,6 +315,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jay Jones",
+          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
+        }
+      ],
+      "duration_ms": 241335,
+      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
+      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -355,6 +355,26 @@
       "duration_ms": 181573,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
     },
     {
       "added_at": null,
@@ -399,26 +419,6 @@
       "duration_ms": 233000,
       "name": "Scared of the Dark (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Drop The World",
-      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Degreez",
         "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Drop The World",
+      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 156525,
-      "name": "Sorry 4 The Wait",
-      "url": "https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Ringz (Thr33 Ringz) [Expanded Edition]",
         "url": "https://open.spotify.com/album/2J2PDIvk1YCTFy0HbJjyr7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 273826,
       "name": "Can't Believe It (feat. Lil' Wayne)",
       "url": "https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 156525,
+      "name": "Sorry 4 The Wait",
+      "url": "https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"
     },
     {
       "added_at": null,

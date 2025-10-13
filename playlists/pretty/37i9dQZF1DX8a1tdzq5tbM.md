@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,966 likes - 120 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,189 likes - 120 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 61 | [Make Your Move \- Radio Edit](https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe) | [Dave Armstrong](https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7) | [Make Your Move](https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV) | 2:51 |
 | 62 | [Love Don't Let Me Go \(Walking Away\) \- David Guetta & Joachim Garraud's F\*\*\* Me I'm Famous Mix](https://open.spotify.com/track/2Wy13KxFZT49M05qcT4EJA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [DJ Ricardo! pres\. Out Anthems 2](https://open.spotify.com/album/5CahiejF4QqKoAAwjDkxSR) | 4:31 |
 | 63 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
-| 64 | [The World Is Mine](https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:39 |
-| 65 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
+| 64 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
+| 65 | [The World Is Mine](https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:39 |
 | 66 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
 | 67 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 68 | [Star 69 \- Timo Maas Mix](https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Star 69](https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ) | 6:11 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 92 | [Put Your Hands Up for Detroit \- MC Mario Edit](https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1) | 6:33 |
 | 93 | [The Longest Road \(feat\. Lissie\) \- Deadmau5 Remix Edit](https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [The Longest Road](https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt) | 3:59 |
 | 94 | [Go](https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4) | 3:37 |
-| 95 | [Take Me Away \- Vocal Radio Mix](https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn) | 3:10 |
-| 96 | [Sun Is Up \- Play & Win Radio Edit](https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am The Club Rocker](https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6) | 3:44 |
-| 97 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
+| 95 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
+| 96 | [Take Me Away \- Vocal Radio Mix](https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn) | 3:10 |
+| 97 | [Sun Is Up \- Play & Win Radio Edit](https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am The Club Rocker](https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6) | 3:44 |
 | 98 | [Halcyon and On and On](https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1T7efw93w96udljrPyL44G) | 9:27 |
 | 99 | [Sweet Misery](https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 7:33 |
 | 100 | [Release Me](https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Release Me](https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b) | 4:14 |

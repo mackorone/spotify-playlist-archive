@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: 1111
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,228 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,358 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Good Life](https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI) | 2:47 |
 | 58 | [Dappa Dan](https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Dappa Dan](https://open.spotify.com/album/5qRkINBz6wBrQxEAHe9DDC) | 4:08 |
 | 59 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
-| 60 | [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 |
-| 61 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
+| 60 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
+| 61 | [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 |
 | 62 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
 | 63 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 |
 | 64 | [2 Spirits](https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [2 Spirits](https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi) | 2:27 |

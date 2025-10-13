@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280613,
+      "name": "Vallende Engel",
+      "url": "https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1"
+    },
+    {
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
@@ -856,7 +874,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 263080,
       "name": "Zachtjes Zingen",
       "url": "https://open.spotify.com/track/1NXfPvlNg4kuJCgGWYH0Ct"

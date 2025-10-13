@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 39 min
+117 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Charanga Costeña](https://open.spotify.com/track/3TQxsPoOgAzOQonz5tbxL5) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:13 | 2022-06-01 | 2024-02-09 |
 | [Charanga Costeña](https://open.spotify.com/track/0zCnYNnewGSMLSkJuGOfAH) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 3:16 | 2024-02-08 | 2024-06-09 |
 | [Charanga Costeña](https://open.spotify.com/track/7riOaIGe43ftJHJzFBv09Z) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:16 | 2024-06-09 |  |
+| [Con Musica de Banda](https://open.spotify.com/track/3UGoxpTFjEBsoqYo5cjloc) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 2:30 | 2025-10-13 |  |
 | [Con Música De Banda](https://open.spotify.com/track/4UEa2SsoWhl5ksnFg97Luh) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:30 | 2024-06-07 | 2024-06-10 |
 | [Corrido De Los Perez](https://open.spotify.com/track/6cWMgbBpfV4bNSKGSBLWit) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 3:23 | 2022-06-01 | 2023-02-21 |
 | [Corrido De Los Perez](https://open.spotify.com/track/4gTErwdL2Tn8hrm1ow6JAz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 3:24 | 2024-08-31 | 2024-10-13 |
@@ -78,7 +79,7 @@
 | [La Primera Caricia](https://open.spotify.com/track/5UVrUzx3P58h5bOqEluApd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 2:25 | 2024-08-27 |  |
 | [La Vaquilla Prieta](https://open.spotify.com/track/0jhRgpAn9jcs4zoJ7h7v1m) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:21 | 2022-06-01 | 2024-02-12 |
 | [La Vaquilla Prieta](https://open.spotify.com/track/1vu1ZRj7rkFTtDMEJFOStD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:24 | 2024-02-11 | 2024-06-04 |
-| [La Vaquilla Prieta](https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 2:24 | 2024-06-13 |  |
+| [La Vaquilla Prieta](https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 2:24 | 2024-06-13 | 2025-10-13 |
 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 | 2022-06-01 |  |
 | [Maria Isabel](https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 | 2024-11-08 |
 | [Me Esta Esperando María](https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:48 | 2022-06-01 | 2024-08-03 |

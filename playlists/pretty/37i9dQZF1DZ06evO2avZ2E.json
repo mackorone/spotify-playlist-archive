@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3179,
+  "num_followers": 3181,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAARoqSx6rjoAc2KPfT5TOjj",
+  "snapshot_id": "aOmeAAAAAADoimDClVIKTk4ahP4KTdBO",
   "tracks": [
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESISTOL +",
-        "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
-      },
-      "artists": [
-        {
-          "name": "chicano wei",
-          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Chiquete",
-          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "RESISTOL +",
-      "url": "https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "m\u00fasica para una pel\u00edcula que no existe",
         "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 182849,
       "name": "Like Giants in The Sky - Le Tour Du Monde - Austin",
       "url": "https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RESISTOL +",
+        "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
+      },
+      "artists": [
+        {
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Chiquete",
+          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "RESISTOL +",
+      "url": "https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av"
     },
     {
       "added_at": null,

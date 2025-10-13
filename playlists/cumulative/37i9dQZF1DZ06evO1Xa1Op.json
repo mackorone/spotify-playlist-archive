@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384266,
+      "name": "Goye Kur",
+      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
+    },
+    {
+      "album": {
         "name": "The Source (2017 Remastered Version)",
         "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
       },

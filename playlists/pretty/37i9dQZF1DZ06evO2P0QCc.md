@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,592 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,611 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 13 | [Brindo por ti](https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Amar o Morir](https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u) | 4:12 |
 | 14 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
 | 15 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
-| 16 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
-| 17 | [Inspiracional](https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:56 |
+| 16 | [Inspiracional](https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:56 |
+| 17 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
 | 18 | [Las Tijeras](https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:05 |
 | 19 | [Deja Ya De Mentir \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/5mOsvFJvqMUohlPperHALl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Deja Ya De Mentir \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/7i1vAGc0dDsVWxMZAEZiEa) | 3:57 |
 | 20 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 39 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
 | 40 | [Luna \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Luna \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW) | 5:21 |
 | 41 | [El Año Viejo \(feat\. Celso Piña\)](https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:18 |
-| 42 | [Hoy Será \(feat\. Natalia Ramírez\)](https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:34 |
-| 43 | [Our House](https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:06 |
+| 42 | [Our House](https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:06 |
+| 43 | [Hoy Será \(feat\. Natalia Ramírez\)](https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:34 |
 | 44 | [Breve Historia de Amor y una Mujer](https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 3:25 |
 | 45 | [My Girl](https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 2:52 |
 | 46 | [No Puedo Ser Tu Amigo](https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | ["Lamba Do Ska" \(Llorando Se Fue\)](https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:48 |
 | 50 | [Te Faltó Corazón \- Versión Bolero](https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:27 |
 
-Snapshot ID: `aOhMgAAAAAAmmuprLDvLw7hxPvio8md2`
+Snapshot ID: `aOmeAAAAAAAGAuIzD/BgLCiZe5k879ZY`

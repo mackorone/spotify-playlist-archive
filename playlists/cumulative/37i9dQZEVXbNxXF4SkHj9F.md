@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,908 songs - 4 day 8 hr 29 min
+1,909 songs - 4 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1196,7 +1196,7 @@
 | [not the same](https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:04 | 2024-12-07 | 2024-12-10 |
 | [Nothing \(Feat\. Hwa Sa & MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/0cq9psWsFf2UKiYhbrbKwW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 3:47 | 2021-12-07 | 2021-12-08 |
 | [Nothing Hurts](https://open.spotify.com/track/6O1wh1RjqcdXLFpJ3ckUNN) | [End of Code](https://open.spotify.com/artist/2de2ccS1UK6mfdt5nz6fqA), [deerose](https://open.spotify.com/artist/2rEhAnL9VNrfzD3IeFFbC7) | [Nothing Hurts](https://open.spotify.com/album/04fwTLg32S28LgKzTVPoag) | 3:48 | 2023-03-03 | 2023-03-05 |
-| [Nothing Without Your Love](https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:56 | 2025-05-17 | 2025-10-12 |
+| [Nothing Without Your Love](https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:56 | 2025-05-17 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-04-04 | 2022-04-07 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-23 | 2024-12-08 |
 | [number one girl](https://open.spotify.com/track/0hDo3EPwvhCSggmqkVvJPX) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:36 | 2025-01-03 | 2025-01-05 |
@@ -1232,7 +1232,7 @@
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2021-07-01 | 2021-07-16 |
 | [Oort Cloud](https://open.spotify.com/track/7tOsgOjrzBVQqyaMDBlZV8) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album 'END THEORY'](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) | 3:26 | 2022-11-11 | 2023-01-07 |
 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 | 2025-10-04 | 2025-10-06 |
-| [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-11 |  |
+| [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-11 | 2025-10-13 |
 | [Opening Sequence](https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 2:57 | 2022-05-10 | 2022-05-14 |
 | [Our Blues, Our Life](https://open.spotify.com/track/0E5HSVbQI8O17Ez9wirh1c) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:27 | 2022-05-27 | 2022-07-02 |
 | [Our Blues, Our Life](https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:27 | 2022-07-01 | 2024-08-15 |
@@ -1297,7 +1297,8 @@
 | [PPAK \(Feat\. Paloalto, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/3lnn14odZPgqyNooN6jQBa) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:29 | 2022-12-25 | 2023-01-02 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [Press F5 \(Feat\. GRAY\)](https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473) | [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:34 | 2021-11-22 | 2021-11-27 |
-| [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2025-09-21 |  |
+| [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2025-09-21 | 2025-10-13 |
+| [Pretender](https://open.spotify.com/track/49h5Aav6yn1o1ACGyovDdZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/27xCJZ11HdYHgwqTo8ldWE) | 5:26 | 2025-10-12 |  |
 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-10-01 | 2025-10-04 |
 | [Privacy](https://open.spotify.com/track/4WxthDZgaQqmj5tIuneDNX) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:07 | 2021-04-01 | 2021-04-04 |
 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 | 2022-11-05 | 2022-11-07 |

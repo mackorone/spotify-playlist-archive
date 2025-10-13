@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray",
-  "num_followers": 41722,
+  "num_followers": 41732,
   "original_name": "Indie songs from 2024 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Ordinary Games",
+        "url": "https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc"
+      },
+      "artists": [
+        {
+          "name": "Vaughn",
+          "url": "https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259"
+        }
+      ],
+      "duration_ms": 304245,
+      "name": "Ordinary Games",
+      "url": "https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 260430,
       "name": "Glue",
       "url": "https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Ordinary Games",
-        "url": "https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc"
-      },
-      "artists": [
-        {
-          "name": "Vaughn",
-          "url": "https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259"
-        }
-      ],
-      "duration_ms": 304245,
-      "name": "Ordinary Games",
-      "url": "https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 161168,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Pivot & Scrape",
         "url": "https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 134388,
       "name": "Rattle Trap",
       "url": "https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 166228,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Susan",
         "url": "https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 198974,
       "name": "Susan",
       "url": "https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 166228,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "When a Thought Grows Wings",
-        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 161661,
-      "name": "Confusion Song",
-      "url": "https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M"
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
     }
   ],
   "unique_name": "Indie songs from 2024 you may have missed",

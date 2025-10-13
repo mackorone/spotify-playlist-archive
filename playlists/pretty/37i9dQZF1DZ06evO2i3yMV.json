@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8581,
+  "num_followers": 8582,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAB6wxA4aRVMc5aM9gj98Lu8",
+  "snapshot_id": "aOmeAAAAAACncmWR30EY5Kw0+6C6W0OR",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Trying",
-        "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Die Trying",
-      "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 205475,
       "name": "Phases - bad tuner Remix",
       "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die Trying",
+        "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
       "artists": [
         {
@@ -516,13 +516,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
     },
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 280022,
       "name": "Up and Out",
       "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 170567,
-      "name": "Lucky U",
-      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Floating (feat. Candy Crush Saga)",
-        "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 173096,
-      "name": "Floating - feat. Candy Crush Saga",
-      "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216726,
       "name": "Sweet Day",
       "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Floating (feat. Candy Crush Saga)",
+        "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Floating - feat. Candy Crush Saga",
+      "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
     },
     {
       "added_at": null,
@@ -751,38 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 113480,
-      "name": "Warm Water (Interlude)",
-      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Reverie Remixes",
         "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 187218,
       "name": "Sci Fi - Polar Youth Remix",
       "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 113480,
+      "name": "Warm Water (Interlude)",
+      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 191233,
-      "name": "Fried for the Night",
-      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO WAY",
         "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 204077,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,

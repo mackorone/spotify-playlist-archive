@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Witch Fever
 
-642 songs - 1 day 14 hr 32 min
+644 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 | 2022-11-10 | 2023-07-15 |
 | [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 | 2024-07-19 | 2025-09-12 |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-11-10 | 2023-03-25 |
-| [Holding On](https://open.spotify.com/track/5ESDRSXZD5k3UCBQAcffij) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Holding On / The Dark Glow](https://open.spotify.com/album/6DLUWbSqeAndqEcJ1Da24o) | 3:35 | 2025-10-03 |  |
+| [Holding On](https://open.spotify.com/track/5ESDRSXZD5k3UCBQAcffij) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Holding On / The Dark Glow](https://open.spotify.com/album/6DLUWbSqeAndqEcJ1Da24o) | 3:35 | 2025-10-03 | 2025-10-13 |
 | [HOLY HORROR](https://open.spotify.com/track/0giAGzqrMfpfdoFbCUV5Gi) | [Tropic Gold](https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP) | [HOLY HORROR](https://open.spotify.com/album/2XWbVQIM2PycPu2Qb40iY9) | 3:29 | 2025-02-07 | 2025-09-12 |
 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 | 2022-11-10 | 2023-07-26 |
 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 | 2024-10-04 | 2025-09-12 |
@@ -445,6 +445,7 @@
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2022-11-10 | 2023-07-26 |
 | [Punk's Dead](https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9) | 3:12 | 2023-12-08 | 2024-04-19 |
 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 | 2023-08-24 | 2025-09-12 |
+| [Punks And Demons](https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Punks And Demons](https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP) | 2:37 | 2025-10-10 |  |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-12 | 2024-04-20 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2025-09-12 |
 | [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 | 2025-08-11 |  |
@@ -456,7 +457,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-03 | 2023-04-17 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-10 | 2023-10-06 |
 | [Regret 101](https://open.spotify.com/track/7LTWdBRVymyvHO19q36mzX) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Regret 101](https://open.spotify.com/album/5dde3V2sxMHsaFVyaOLGIq) | 3:02 | 2025-09-01 | 2025-09-12 |
-| [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-05-02 |  |
+| [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-05-02 | 2025-10-13 |
 | [RHINESTONE COWBOY](https://open.spotify.com/track/4x7QBdkjW2EtEIdXTToetB) | [Knives](https://open.spotify.com/artist/2YoHhPouaTT96k3dUQ8WZK) | [GLITTER](https://open.spotify.com/album/61A1odhmwGxO4babRpvu6q) | 2:23 | 2025-05-02 | 2025-09-12 |
 | [Roads Of The Lowly](https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Return Of Tomorrow](https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX) | 3:42 | 2024-06-15 | 2025-09-12 |
 | [rot.exe](https://open.spotify.com/track/3HAHQjEbEF0IVuRFlsyMa6) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [rot.exe / ra.exe](https://open.spotify.com/album/6E4AB1ezZM633pOFabjszx) | 3:54 | 2025-10-10 |  |
@@ -628,6 +629,7 @@
 | [Welcome To The Show](https://open.spotify.com/track/04OvuoFBNK4eFlcHwE1bWV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Road](https://open.spotify.com/album/2dsOdHbpajIJVKkyDBSMZT) | 3:36 | 2023-08-24 | 2023-09-16 |
 | [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-10 | 2023-08-28 |
 | [We’ll Be Back](https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:29 | 2022-11-10 | 2023-07-26 |
+| [What Lies Within](https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [What Lies Within](https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY) | 5:06 | 2025-10-10 |  |
 | [What Remains](https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [What Remains](https://open.spotify.com/album/2NECnxiVMw84QBLNlm6x42) | 3:37 | 2024-08-09 | 2025-09-12 |
 | [When She Told Me](https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [When She Told Me](https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt) | 4:41 | 2024-03-22 | 2025-09-12 |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-11-10 | 2023-03-25 |

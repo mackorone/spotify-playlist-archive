@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-173 songs - 19 hr 50 min
+174 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2025-09-12 |  |
 | [Ital Orb \(Iron Chair\) \- Gaudi Remix](https://open.spotify.com/track/2x2b7BBPR6XjWd0pS84WWa) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Abolition of the Royal Familia \(Guillotine Mixes\)](https://open.spotify.com/album/750aWEljQEs90DHcS7DDsc) | 6:54 | 2022-05-29 | 2023-03-04 |
 | [Just Because I Really Really Luv Ya](https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:21 | 2022-10-06 | 2025-01-09 |
+| [Khàron](https://open.spotify.com/track/1sJQkDOxwIjI8qtdJA9xO1) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 12:01 | 2025-10-13 |  |
 | [Leaving Plymouth](https://open.spotify.com/track/3cfMWvdlP9BkOrenbJnnD8) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:06 | 2023-06-18 | 2025-10-10 |
 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 | 2022-05-29 |  |
 | [living in recycled times](https://open.spotify.com/track/7otmA1KAyXIJK8xp8OyNsP) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Rachel D'Arcy](https://open.spotify.com/artist/3fY9AUhR4OVrZrK2luHmZg) | [H.O.M.E\. \(high orbs mini earths\)](https://open.spotify.com/album/5evNpD3p6s9dqWEsdLPrfT) | 10:27 | 2023-06-08 | 2023-11-11 |
@@ -110,7 +111,7 @@
 | [Once More](https://open.spotify.com/track/1kzhbwCEbpHPw74AZf9sqc) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cydonia](https://open.spotify.com/album/104kapJ0A7RBMaNKzL4oD6) | 4:20 | 2022-05-29 |  |
 | [Orban Tumbleweed](https://open.spotify.com/track/0lB2DD7k0Jb3UdNQeEEHbd) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Baghdad Batteries \(Orbsessions Volume 3\)](https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0) | 3:32 | 2022-10-14 | 2025-08-30 |
 | [Outlands](https://open.spotify.com/track/2McI8eLgOMGov9kzZARkdC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 8:23 | 2022-06-07 | 2022-10-06 |
-| [Oxbow Lakes](https://open.spotify.com/track/52OYr2YEsRNKPkfgNFP8w5) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 7:28 | 2022-05-29 |  |
+| [Oxbow Lakes](https://open.spotify.com/track/52OYr2YEsRNKPkfgNFP8w5) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 7:28 | 2022-05-29 | 2025-10-13 |
 | [Pandaharmonium](https://open.spotify.com/track/13f4Hxbkwg6ZupCE46u76J) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Preludes, Airs And Yodels \(A Penguin Cafe Primer\)](https://open.spotify.com/album/3X09Qtfb6CNTLhV0JUrDWc) | 5:29 | 2022-05-29 | 2023-04-21 |
 | [Papillons](https://open.spotify.com/track/1uKYNk9ACyDMYMBOScdEua) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 10:51 | 2022-11-26 | 2023-01-28 |
 | [Pebbles](https://open.spotify.com/track/7cMs3QlXI82fsFtXiM439v) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Baghdad Batteries \(Orbsessions Volume 3\)](https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0) | 1:08 | 2023-04-27 | 2024-08-25 |

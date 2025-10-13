@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,523 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,603 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 67 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |
 | 68 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
 | 69 | [Greece 2000 \- Original Radio Edit](https://open.spotify.com/track/6ZgjpDZrm6uvD1aLtfsMRv) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 3:54 |
-| 70 | [Cream \- Radio Edit](https://open.spotify.com/track/5BkCd2617ac7yWP5WGCiO7) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Cream \(All Mixes\)](https://open.spotify.com/album/5MEGBwEwILYEroHl0tMMRK) | 3:18 |
-| 71 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
-| 72 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-Trance Essentials, Pt\. 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 |
-| 73 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
-| 74 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
+| 70 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
+| 71 | [Cream \- Radio Edit](https://open.spotify.com/track/5BkCd2617ac7yWP5WGCiO7) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Cream \(All Mixes\)](https://open.spotify.com/album/5MEGBwEwILYEroHl0tMMRK) | 3:18 |
+| 72 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
+| 73 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-Trance Essentials, Pt\. 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 |
+| 74 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
 | 75 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
 | 76 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 77 | [Seven Days And One Week \(Radio Edit\)](https://open.spotify.com/track/1VgynfAg0hHDxmH2d9cUlt) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Games](https://open.spotify.com/album/4tx2jtvzEaqjpIPjdDVOLc) | 4:29 |

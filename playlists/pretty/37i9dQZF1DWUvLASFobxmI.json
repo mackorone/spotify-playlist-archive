@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Palomo en portada.",
-  "num_followers": 518034,
+  "num_followers": 518048,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -1291,30 +1291,6 @@
     {
       "added_at": "2025-10-03 18:21:33",
       "album": {
-        "name": "El Gabacho",
-        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 162617,
-      "name": "El Gabacho",
-      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
-    },
-    {
-      "added_at": "2025-10-03 18:21:33",
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": "2025-10-03 18:21:33",
+      "album": {
+        "name": "El Gabacho",
+        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 162617,
+      "name": "El Gabacho",
+      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
     },
     {
       "added_at": "2025-10-03 18:21:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-10-03 18:21:33",
       "album": {
-        "name": "Atenci\u00f3n Al Cliente",
-        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Al Natural",
-      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
-    },
-    {
-      "added_at": "2025-10-03 18:21:33",
-      "album": {
         "name": "Y Te Vas (En Vivo)",
         "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 235230,
       "name": "Y Te Vas (En Vivo)",
       "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
+    },
+    {
+      "added_at": "2025-10-03 18:21:33",
+      "album": {
+        "name": "Atenci\u00f3n Al Cliente",
+        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Al Natural",
+      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
     },
     {
       "added_at": "2025-10-03 18:21:33",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-10-03 18:21:33",
       "album": {
+        "name": "Beso - Spotify Singles",
+        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 143231,
+      "name": "Beso - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+    },
+    {
+      "added_at": "2025-10-03 18:21:33",
+      "album": {
         "name": "Viejita Chula",
         "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 153377,
       "name": "Viejita Chula",
       "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
-    },
-    {
-      "added_at": "2025-10-03 18:21:33",
-      "album": {
-        "name": "Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 143231,
-      "name": "Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
     },
     {
       "added_at": "2025-10-03 18:21:33",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-10-03 18:21:33",
       "album": {
-        "name": "Mi Mula",
-        "url": "https://open.spotify.com/album/77ZUyIptzqnASMixrm9dtU"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Mi Mula",
-      "url": "https://open.spotify.com/track/0CIsUNjjxwCVhfut2wfxNj"
-    },
-    {
-      "added_at": "2025-10-03 18:21:33",
-      "album": {
         "name": "La Mochila",
         "url": "https://open.spotify.com/album/2Mb6ZNqUEcRRJUrqub0qpG"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 165755,
       "name": "La Mochila",
       "url": "https://open.spotify.com/track/7mgj2Qec2qtzLkAbHuFK6j"
+    },
+    {
+      "added_at": "2025-10-03 18:21:33",
+      "album": {
+        "name": "Mi Mula",
+        "url": "https://open.spotify.com/album/77ZUyIptzqnASMixrm9dtU"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Mi Mula",
+      "url": "https://open.spotify.com/track/0CIsUNjjxwCVhfut2wfxNj"
     },
     {
       "added_at": "2025-10-03 18:21:33",
@@ -2215,22 +2215,22 @@
     {
       "added_at": "2025-10-03 18:21:33",
       "album": {
-        "name": "Gente de Trabajo",
-        "url": "https://open.spotify.com/album/3Lamowt7A1mjTSJ9DsW9Ob"
+        "name": "Mi Mas Grande Error",
+        "url": "https://open.spotify.com/album/4D2HrRnNOjUCCSPz7S14EE"
       },
       "artists": [
         {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+          "name": "Privilegio",
+          "url": "https://open.spotify.com/artist/1Tg5nJ693I78m1KeZGiF6b"
         },
         {
-          "name": "Ur\u00edas Garate",
-          "url": "https://open.spotify.com/artist/0mD2dn6r4wKrom7pWIJb2Z"
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
         }
       ],
-      "duration_ms": 226296,
-      "name": "Gente de Trabajo",
-      "url": "https://open.spotify.com/track/1uMrioszCaZirToYfkwJMD"
+      "duration_ms": 164866,
+      "name": "Mi Mas Grande Error",
+      "url": "https://open.spotify.com/track/71KHZWC5lH7GHibnJuZTTt"
     }
   ],
   "unique_name": "Norte\u00f1o 2025",

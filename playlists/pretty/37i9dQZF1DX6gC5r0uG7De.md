@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,016 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

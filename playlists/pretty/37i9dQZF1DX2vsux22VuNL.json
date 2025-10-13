@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292278,
+  "num_followers": 292263,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,26 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 176050,
-      "name": "t\u00e3o bem",
-      "url": "https://open.spotify.com/track/1BNDkF22V7G872oUwwQ5Ca"
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -83,26 +87,22 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+      "duration_ms": 176050,
+      "name": "t\u00e3o bem",
+      "url": "https://open.spotify.com/track/1BNDkF22V7G872oUwwQ5Ca"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
-        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "Quem sabe?",
-      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
         "name": "Trama",
         "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 259591,
       "name": "Trama",
       "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
+        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
+        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "Quem sabe?",
+      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 200930,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
         "name": "Seu Z\u00e9",
         "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2025-07-25 20:22:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,682 likes - 132 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,918 likes - 132 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 131 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
 | 132 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 |
 
-Snapshot ID: `AAAAAMSXO4C1SzUA1tiI6YbwFIlhNKjf`
+Snapshot ID: `AAAAAF2boVUwLsm8OfDl8JDk4GrsM21g`

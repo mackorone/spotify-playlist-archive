@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 38 min 57 sec
+[royva06](https://open.spotify.com/user/royva06) - 26 likes - 11 songs - 43 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 2 | [A Couple Things](https://open.spotify.com/track/7KxGqubTbHqghydpuWz1AH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/4nYi7GOE0yrDKt0qbNaWPO) | 2:40 |
-| 3 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
-| 4 | [All Night](https://open.spotify.com/track/4l1f44Rl6f6pwuSZN7DjVR) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [Pretty](https://open.spotify.com/album/2mbRiwM3GFzekNyTiYgvur) | 3:15 |
-| 5 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |
-| 6 | [Civilian Ways](https://open.spotify.com/track/1bbwuyXB1Ppr3SYVwYVNn0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 4:11 |
-| 7 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 |
-| 8 | [A New Wave](https://open.spotify.com/track/2audHw8H7pcDViQBXAufEZ) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/1l7gMbzE7RRAdYddJSfM5B) | 3:38 |
-| 9 | [Garden](https://open.spotify.com/track/3ZkURqO753fN0SgtzqMmIs) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Sweep It Into Space](https://open.spotify.com/album/5nq7eeznlbbS4koADLXd5k) | 3:02 |
-| 10 | [He's so Shy](https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Special Things \(Bonus Track Version\)](https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB) | 3:38 |
-| 11 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
+| 1 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |
+| 2 | [Strange Currencies](https://open.spotify.com/track/22L2W5zBju0h7mFSfFzUJW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster](https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh) | 3:53 |
+| 3 | [Better Look Back](https://open.spotify.com/track/20qnNhvOOId2PNyePpprWD) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 3:42 |
+| 4 | [Bread Wine Body Blood](https://open.spotify.com/track/0YxK50YvRLghziXnEtmuxl) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [The Thief Next to Jesus](https://open.spotify.com/album/4fmC67uHti9BxWUNAUb6wy) | 2:53 |
+| 5 | [Let Down](https://open.spotify.com/track/4aOAzvRdOsZSwZIgwcdeL0) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:59 |
+| 6 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 |
+| 7 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 |
+| 8 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
+| 9 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
+| 10 | [Didn't Know What I Was In For](https://open.spotify.com/track/31nH2FO5og83YmI3K845Jn) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 4:03 |
+| 11 | [Shower Days](https://open.spotify.com/track/2gNOCytQkW3nxlITbwEBlK) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 2:11 |
 
-Snapshot ID: `AAAH3Qgl9dMnmZWI/ubBwLy0rCCKRm6p`
+Snapshot ID: `AAAH85ufZTAqWZuEuoF0Z8FkdwBAbqRz`

@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 147477,
       "name": "Amo, Amo",
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -8126,7 +8126,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -14684,7 +14684,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 198000,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4Hnz28zV4yVyc2J7U3ZR0x"
@@ -16062,7 +16062,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -16402,7 +16402,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -23750,7 +23750,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -24666,7 +24666,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -35292,7 +35292,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 236712,
       "name": "SHEGONDIE",
       "url": "https://open.spotify.com/track/4YOfOwu17u9I36mazMcXSR"
@@ -42968,7 +42968,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 217099,
       "name": "VIZZZCOL",
       "url": "https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly"
@@ -43198,7 +43198,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 149000,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
@@ -44362,7 +44362,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -44642,7 +44642,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 139772,
       "name": "Yabadabadu",
       "url": "https://open.spotify.com/track/2TGBsAo4RNtdV1EFH9kbpc"
@@ -45354,6 +45354,28 @@
       "duration_ms": 156865,
       "name": "\u00cen golul t\u0103u",
       "url": "https://open.spotify.com/track/2zGVTRYD96AYeu7OuE8TZq"
+    },
+    {
+      "album": {
+        "name": "In Lipsa Mea",
+        "url": "https://open.spotify.com/album/1CSt4L3WzT50LpYqRES3sF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        },
+        {
+          "name": "Uzzi",
+          "url": "https://open.spotify.com/artist/1u7VoUsRoA8TwydQXPLseH"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218178,
+      "name": "\u00cen lipsa mea",
+      "url": "https://open.spotify.com/track/3VZyMmBLWxBMKyse7Fza8z"
     },
     {
       "album": {

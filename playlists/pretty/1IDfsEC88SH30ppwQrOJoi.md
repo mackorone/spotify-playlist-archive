@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,237 likes - 159 songs - 8 hr 0 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,237 likes - 162 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,5 +167,8 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 157 | [SexyBack](https://open.spotify.com/track/0Zi3WlwXZAnTFju0NLAiFG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [SexyBack](https://open.spotify.com/album/2Itng7z3sjVM5iE0vxHj5P) | 2:50 |
 | 158 | [Paper Romance \- Purple Disco Machine Remix](https://open.spotify.com/track/4Q507WHVT2jAodOq49RqMf) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paper Romance \(Purple Disco Machine Remix \- Edit\)](https://open.spotify.com/album/422SWiQLySbuzPmJPYIDt8) | 6:50 |
 | 159 | [Nobody Else](https://open.spotify.com/track/5u9PwXYspEnurj0tNVxHFp) | [Dukwa](https://open.spotify.com/artist/7foiHDFvNIouC0QFaaKXeq) | [Nobody Else](https://open.spotify.com/album/0H7sfS5XJnC6OTpTcgWq2h) | 3:38 |
+| 160 | [Only Love Can Hurt Like This](https://open.spotify.com/track/5VeZaGmBavDvhsiFL4EvkP) | [YUNIQUE.](https://open.spotify.com/artist/6HDWnGhA5FASRhmZpA6GdP), [Celle](https://open.spotify.com/artist/5zNhqpTL0rfOK3zSFNtQdy) | [Only Love Can Hurt Like This](https://open.spotify.com/album/6dayZfClH8FWj7pOZJEeIt) | 3:08 |
+| 161 | [Right on Time](https://open.spotify.com/track/2OSw9weUcRFnwrhXNn3GsA) | [Freddie Lineker](https://open.spotify.com/artist/7hrFzMXtUWxM2zeCpBrx4w) | [Right on Time \(Because of Art Remix\)](https://open.spotify.com/album/5mf6S9iomvAvYT6DVFtmam) | 3:15 |
+| 162 | [Stranded](https://open.spotify.com/track/6RwXvxwAJk65cCauezOj9r) | [Alex Moretto](https://open.spotify.com/artist/3UelwLWbuCQkJvohXe9CIm), [YCONN](https://open.spotify.com/artist/0mrVLX0U7518hH5rmotjtY), [Tinah](https://open.spotify.com/artist/6xgWsftslneU9arF9YQeRX) | [Stranded](https://open.spotify.com/album/0cYhQ0KcET49VHK3BStVLv) | 2:25 |
 
-Snapshot ID: `AAAKd6yxkZuXPyBZDVSz49/8KvtNULa9`
+Snapshot ID: `AAAKevG6ZHuMzuUax2/gVPi2UU/3SUNx`

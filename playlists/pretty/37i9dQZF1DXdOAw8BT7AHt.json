@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Sn\u00f5\u00f5per",
-  "num_followers": 471275,
+  "num_followers": 471278,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Supermodels",
+        "url": "https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "Supermodels",
+      "url": "https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -429,38 +445,6 @@
       "url": "https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB"
     },
     {
-      "added_at": "2025-10-03 13:40:04",
-      "album": {
-        "name": "Ash Speck in a Green Eye",
-        "url": "https://open.spotify.com/album/1pOGfl98tX5KsawTEEUkzU"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 198003,
-      "name": "Ash Speck in a Green Eye",
-      "url": "https://open.spotify.com/track/2ORPaFO67SDgFrRwZ3lkkU"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Supermodels",
-        "url": "https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "Supermodels",
-      "url": "https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy"
-    },
-    {
       "added_at": "2025-09-11 23:00:08",
       "album": {
         "name": "Do It Again",
@@ -475,6 +459,22 @@
       "duration_ms": 148567,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W"
+    },
+    {
+      "added_at": "2025-10-03 13:40:04",
+      "album": {
+        "name": "Ash Speck in a Green Eye",
+        "url": "https://open.spotify.com/album/1pOGfl98tX5KsawTEEUkzU"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 198003,
+      "name": "Ash Speck in a Green Eye",
+      "url": "https://open.spotify.com/track/2ORPaFO67SDgFrRwZ3lkkU"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "And a Big Load",
-        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 173791,
-      "name": "And a Big Load",
-      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Gnash",
-        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
+        "name": "And a Big Load",
+        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 162706,
-      "name": "Gnash",
-      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
+      "duration_ms": 173791,
+      "name": "And a Big Load",
+      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -603,6 +587,22 @@
       "duration_ms": 130664,
       "name": "Watch You Go",
       "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Gnash",
+        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Gnash",
+      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "End Eric Sparrow and the Life of Him",
-        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "End Eric Sparrow and the Life of Him",
-      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "End Eric Sparrow and the Life of Him",
+        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "End Eric Sparrow and the Life of Him",
+      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 208970,
       "name": "100%",
       "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -751,22 +767,6 @@
       "duration_ms": 226266,
       "name": "Rabbit Run (From the \"Caught Stealing\" Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3prI01KDvDe7nNLlZ8UF85"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "LOOK OUT FOR ME",
-      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Who\u2019s Having Fun?",
+        "url": "https://open.spotify.com/album/23p4BaOChW46rIFZAnuoJr"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 172242,
+      "name": "Who\u2019s Having Fun?",
+      "url": "https://open.spotify.com/track/3AQU5I1rfYAPorSF4RyK31"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Radioactive Dreams",
         "url": "https://open.spotify.com/album/71CTf366ZVym2w6ett4dAV"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 175693,
       "name": "Radioactive Dreams",
       "url": "https://open.spotify.com/track/4av7jI8GRkkmstLsviD63M"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Who\u2019s Having Fun?",
-        "url": "https://open.spotify.com/album/23p4BaOChW46rIFZAnuoJr"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 172242,
-      "name": "Who\u2019s Having Fun?",
-      "url": "https://open.spotify.com/track/3AQU5I1rfYAPorSF4RyK31"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "16/25",
-        "url": "https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 151246,
-      "name": "16/25",
-      "url": "https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Earthkeeper",
         "url": "https://open.spotify.com/album/1T8drhwbWC7ksyrXvR8O0n"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Blue 42",
-        "url": "https://open.spotify.com/album/3ssXAKhKD9oHtnTqGxoOpB"
+        "name": "16/25",
+        "url": "https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9"
       },
       "artists": [
         {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 194781,
-      "name": "Blue 42",
-      "url": "https://open.spotify.com/track/2DFWAevfL1AfcarnQMrXOi"
+      "duration_ms": 151246,
+      "name": "16/25",
+      "url": "https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1271,6 +1255,22 @@
       "duration_ms": 249304,
       "name": "noitanitsarcorP",
       "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Blue 42",
+        "url": "https://open.spotify.com/album/3ssXAKhKD9oHtnTqGxoOpB"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 194781,
+      "name": "Blue 42",
+      "url": "https://open.spotify.com/track/2DFWAevfL1AfcarnQMrXOi"
     },
     {
       "added_at": "2025-09-11 23:00:08",

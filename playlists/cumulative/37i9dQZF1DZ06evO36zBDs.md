@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-115 songs - 7 hr 58 min
+116 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [コイセカイ](https://open.spotify.com/track/3OR2CPua0cNMJMrenVwhQ1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コイセカイ](https://open.spotify.com/album/1ltLeck3h6VmSpk8k7plNl) | 4:45 | 2023-07-15 |  |
 | [コネクト](https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:30 | 2022-06-09 |  |
 | [コネクト \-2017\-](https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:30 | 2022-06-09 |  |
-| [コネクト \-ゲームインスト\-](https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:34 | 2022-06-23 |  |
+| [コネクト \-season 03\-](https://open.spotify.com/track/7vV436E11To5C1zrrXOo2U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コネクト \-season 03\-](https://open.spotify.com/album/1vhAjY5a8RKFlSoaxXRiGg) | 4:30 | 2025-10-13 |  |
+| [コネクト \-ゲームインスト\-](https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:34 | 2022-06-23 | 2025-10-13 |
 | [サイレント・イヴ](https://open.spotify.com/track/6uAXBkG7WNNFa4qg2xEYoH) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:30 | 2022-12-23 | 2023-04-17 |
 | [サクラ・インカーネーション](https://open.spotify.com/track/2W8kYvrHBpYRMBXb40bjpB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/2DnrXLgjVCIhiSfam1nD3w) | 4:00 | 2024-05-12 | 2025-04-25 |
 | [サヨナラは言わない](https://open.spotify.com/track/19eLFMCNvcHFWhfDa4hZUa) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:54 | 2022-06-13 | 2025-03-16 |

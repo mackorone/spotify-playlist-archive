@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 
 > A beautifully wicked tale of privilege and desire\. Listen to the music from Saltburn, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,795 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,794 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

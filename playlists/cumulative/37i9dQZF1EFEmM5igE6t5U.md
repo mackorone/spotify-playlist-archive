@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-244 songs - 15 hr 37 min
+245 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Fallin'](https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Fallin' \(Official HD Video\)](https://open.spotify.com/album/2MjtMw3tO5lMcHHPaussio) | 3:26 | 2023-12-13 | 2024-02-02 |
 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 | 2023-03-09 |  |
 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 | 2023-03-09 |  |
-| [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 | 2023-03-09 | 2025-10-12 |
+| [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 | 2023-03-09 |  |
 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 | 2023-03-09 |  |
 | [Foolish Heart](https://open.spotify.com/track/1C1KvQ8BUB0rjEiX39P29C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 4:39 | 2023-03-09 | 2023-06-05 |
 | [Foolish Heart](https://open.spotify.com/track/3WfpkkRQPyg7m2rtqTELw3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 4:39 | 2023-06-04 |  |
@@ -118,7 +118,7 @@
 | [Like the Sea](https://open.spotify.com/track/3fnpMcMbhrep8wMIjKsNVS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:13 | 2023-03-09 |  |
 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 | 2023-03-09 |  |
 | [Like You'll Never See Me Again](https://open.spotify.com/track/6Cl7yuosuJMY29lzjoDrXW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Like You'll Never See Me Again \(Official Video\)](https://open.spotify.com/album/1H5CaDPauUH5BuDD65OvF2) | 4:27 | 2023-12-19 | 2024-01-31 |
-| [Like You'll Never See Me Again](https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 5:15 | 2023-03-09 | 2025-10-10 |
+| [Like You'll Never See Me Again](https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 5:15 | 2023-03-09 |  |
 | [Like You'll Never See Me Again \(feat\. Ludacris\) \- Remix](https://open.spotify.com/track/4TOTupO2zMhzYzzJhk0yU0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Like You'll Never See Me Again \(feat\. Ludacris\) \[Remix\]](https://open.spotify.com/album/6BWAOFet7xzf97KX9jR04I) | 3:57 | 2023-03-09 |  |
 | [Limitedless](https://open.spotify.com/track/4qbucOk69GoJdBCWFfHPhk) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:57 | 2023-03-09 |  |
 | [Listen to Your Heart](https://open.spotify.com/track/6o7wI6gmY7nmqOy5tAL5fq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:46 | 2023-03-09 |  |
@@ -216,7 +216,8 @@
 | [Time Machine](https://open.spotify.com/track/5mK9w8MYTh3SpmycLZ561K) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:26 | 2023-03-09 |  |
 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 | 2025-09-21 | 2025-10-03 |
 | [Too Much](https://open.spotify.com/track/6cxilGAlJ1Jbcg505ES7BD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/6oZrzRKyPumbpZ99hoEFgJ) | 2:46 | 2025-10-02 | 2025-10-05 |
-| [Too Much](https://open.spotify.com/track/71JXHX1aaLQEVcZpOSx4oc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/0yv3h3jYDrSEAwhmNaTllW) | 2:46 | 2025-10-04 |  |
+| [Too Much](https://open.spotify.com/track/71JXHX1aaLQEVcZpOSx4oc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/0yv3h3jYDrSEAwhmNaTllW) | 2:46 | 2025-10-04 | 2025-10-13 |
+| [Too Much](https://open.spotify.com/track/72eFHj1Bx5O6H6pUuDhQtJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:46 | 2025-10-12 |  |
 | [Trillions](https://open.spotify.com/track/4SRgSvPTF1xYFvDJYbyMG3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Trillions \(Official Video\)](https://open.spotify.com/album/1QPoaRO3pspXdIazm2XKl8) | 2:48 | 2023-12-15 | 2024-01-29 |
 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 | 2023-03-09 |  |
 | [Troubles](https://open.spotify.com/track/4QD2WHH386lGJ6OotpY17G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:28 | 2023-03-09 |  |

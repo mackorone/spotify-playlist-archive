@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 49208,
+  "num_followers": 49236,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 183861,
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+      "duration_ms": 366066,
+      "name": "Posthumous Forgiveness",
+      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 366066,
-      "name": "Posthumous Forgiveness",
-      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+      "duration_ms": 183861,
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -387,22 +371,6 @@
       "duration_ms": 226533,
       "name": "Black Madonna",
       "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -423,6 +391,38 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 153871,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -471,18 +455,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 268600,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
+      "duration_ms": 153871,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -499,6 +483,22 @@
       "duration_ms": 271200,
       "name": "Fallingwater",
       "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "OUTTA MY MIND",
-        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "OUTTA MY MIND",
-      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 192681,
       "name": "Joy",
       "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "OUTTA MY MIND",
+        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "OUTTA MY MIND",
+      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Your Girlfriend",
         "url": "https://open.spotify.com/album/6wK5L2FA5TwVIAjwh2B8ay"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/1f36D2fxgU2Mk1TxS7WhjG"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 199579,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 223909,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1287,6 +1287,22 @@
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "This Is How You Smile",
+        "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 264525,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf"
       },
@@ -1435,6 +1451,38 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Miss Universe",
+        "url": "https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 281170,
+      "name": "Baby Blu",
+      "url": "https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "U (Man Like)",
+      "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1467,22 +1515,6 @@
       "duration_ms": 219428,
       "name": "Fuzzybrain",
       "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "U (Man Like)",
-      "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1567,22 +1599,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "This Is How You Smile",
-        "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 264525,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
     }
   ],
   "unique_name": "Best of Indie 2019",

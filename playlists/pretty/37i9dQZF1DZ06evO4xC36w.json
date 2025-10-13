@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 982838,
+  "num_followers": 983034,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAQkUsAKwb66BlHZ4pvizvo",
+  "snapshot_id": "aOmeAAAAAAD2NmT7xIA1o92QZVWO6Gee",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176431,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 222476,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176431,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Celebrando El 13",
         "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 173786,
       "name": "Voy A Conquistarte",
       "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
         "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "El Viejo Joven",
-      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 162584,
       "name": "Inv\u00edtame Un Cigarro",
       "url": "https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
     },
     {
       "added_at": null,

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1991",
+        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227391,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
+    },
+    {
+      "album": {
         "name": "LOSER / \u30ca\u30f3\u30d0\u30fc\u30ca\u30a4\u30f3",
         "url": "https://open.spotify.com/album/7IZFdzxga2A1TMDSateh9A"
       },

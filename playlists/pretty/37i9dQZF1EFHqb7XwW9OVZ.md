@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 12 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 13 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 |
 | 14 | [Forget](https://open.spotify.com/track/7CgfLYNXmkKsOpI23Cjbkc) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Forget](https://open.spotify.com/album/7va1UjsOrCh9wEz0sscKFO) | 3:24 |
-| 15 | [Polite](https://open.spotify.com/track/6vBq30WUf7EJq0bQPEkBXr) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:24 |
-| 16 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 |
+| 15 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 |
+| 16 | [Polite](https://open.spotify.com/track/6vBq30WUf7EJq0bQPEkBXr) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:24 |
 | 17 | [Good Time](https://open.spotify.com/track/0ypj9uw3cJgqdumtA87LSD) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:37 |
 | 18 | [Lucky](https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:24 |
 | 19 | [The Flow](https://open.spotify.com/track/0Jp9blNEt2mOk0FSeDEd11) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:22 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 66 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
 | 67 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
 
-Snapshot ID: `Ab+m/AAAAAA4p93RNLHF7rGuYO6sN9fE`
+Snapshot ID: `Ab+siAAAAAC6tWwH7xwCzLerj24m07nf`

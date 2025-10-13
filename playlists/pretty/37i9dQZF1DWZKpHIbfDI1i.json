@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Millonario en portada ",
-  "num_followers": 801434,
+  "num_followers": 801562,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Pasta",
-        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 194858,
-      "name": "Pasta",
-      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "Tutankamon",
         "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 217959,
       "name": "Me Paseo",
       "url": "https://open.spotify.com/track/2XQnrr8gsvuGcJmPfk18iE"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 194858,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
         "name": "Haciendo Memoria",
         "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
       },
@@ -419,22 +439,6 @@
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Al\u00e9gale Al Umpire",
-      "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -459,22 +463,18 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 186494,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
+      "duration_ms": 208000,
+      "name": "Al\u00e9gale Al Umpire",
+      "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 233306,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Te Juro Que Te Amo",
-        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "SUPREME",
         "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 155294,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "Te Juro Que Te Amo",
+        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Piedras a la Luna",
-      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "Pens\u00e9 En Ti",
         "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 152599,
       "name": "Pens\u00e9 En Ti",
       "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Piedras a la Luna",
+      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Campo De Fuerza",
-        "url": "https://open.spotify.com/album/6IhAlXYc7SpLasMhtu645D"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 278456,
-      "name": "Campo De Fuerza",
-      "url": "https://open.spotify.com/track/1m38lWWKzmJqykCVawumPP"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "Campo De Fuerza",
+        "url": "https://open.spotify.com/album/6IhAlXYc7SpLasMhtu645D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 278456,
+      "name": "Campo De Fuerza",
+      "url": "https://open.spotify.com/track/1m38lWWKzmJqykCVawumPP"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Rexsexex",
-        "url": "https://open.spotify.com/album/0N75pJ0usO4zBt08Z5wSWj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252142,
-      "name": "Rexsexex",
-      "url": "https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "+ Perra + Bitch",
         "url": "https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "Mexicano Soy",
-        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+        "name": "Rexsexex",
+        "url": "https://open.spotify.com/album/0N75pJ0usO4zBt08Z5wSWj"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 152562,
-      "name": "Mexicano Soy",
-      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
+      "duration_ms": 252142,
+      "name": "Rexsexex",
+      "url": "https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -1039,6 +1023,22 @@
       "duration_ms": 230973,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "Mexicano Soy",
+        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Mexicano Soy",
+      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "VIBRA PERFECTA",
-        "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 148273,
-      "name": "VIBRA PERFECTA",
-      "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 210541,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "VIBRA PERFECTA",
+        "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 148273,
+      "name": "VIBRA PERFECTA",
+      "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
+        "name": "DPM",
+        "url": "https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "DPM",
+      "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
         "name": "Las Cuentas",
         "url": "https://open.spotify.com/album/0TIvuANOmxZzbDlojhslDI"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 170454,
       "name": "Las Cuentas",
       "url": "https://open.spotify.com/track/0eFzp1ymrkEmYi7seDlaPZ"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
-        "name": "DPM",
-        "url": "https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "DPM",
-      "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
+        "name": "Mi Carnal",
+        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 168679,
+      "name": "Mi Carnal",
+      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
         "name": "\u00bfQui\u00e9n + Como Yo?",
         "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 186285,
       "name": "EBVSY",
       "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
-        "name": "Mi Carnal",
-        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 168679,
-      "name": "Mi Carnal",
-      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
     },
     {
       "added_at": "2025-10-10 06:00:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-10-10 06:00:37",
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Que Emoci\u00f3n",
-      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
-    },
-    {
-      "added_at": "2025-10-10 06:00:37",
-      "album": {
         "name": "REGALO DE DIOS",
         "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
       },
@@ -1383,6 +1367,26 @@
       "duration_ms": 270328,
       "name": "REGALO DE DIOS",
       "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
+    },
+    {
+      "added_at": "2025-10-10 06:00:37",
+      "album": {
+        "name": "La Bestia",
+        "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186368,
+      "name": "La Bestia",
+      "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
     }
   ],
   "unique_name": "Top M\u00e9xico",

@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Not Forever",
+        "url": "https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04"
+      },
+      "artists": [
+        {
+          "name": "Iilysh Retallick",
+          "url": "https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194776,
+      "name": "Not Forever",
+      "url": "https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X"
+    },
+    {
+      "album": {
         "name": "One Eye Open",
         "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
       },

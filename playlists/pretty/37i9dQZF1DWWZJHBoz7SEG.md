@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Queridos socixs, les dejamos las novedades de esta semana 🤫 Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,583 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,715 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

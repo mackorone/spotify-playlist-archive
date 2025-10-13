@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 304087,
+  "num_followers": 304100,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACbwxy7OAL6BYtP504mYBuX",
+  "snapshot_id": "aOmeAAAAAADOQvtm+P7LBrngUWQQKd/e",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 165395,
       "name": "Rapunzel (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
       "added_at": null,
@@ -303,6 +303,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 171067,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Bigger In Texas",
+      "url": "https://open.spotify.com/track/5ZxajZr7QfIl60L8BOGvu5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Positions (Deluxe)",
         "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
       },
@@ -327,38 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Bigger In Texas",
-      "url": "https://open.spotify.com/track/5ZxajZr7QfIl60L8BOGvu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 171067,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -371,6 +371,26 @@
       "duration_ms": 113429,
       "name": "Megan's Piano",
       "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 137983,
+      "name": "Cry Baby (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH"
     },
     {
       "added_at": null,
@@ -411,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 137983,
-      "name": "Cry Baby (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 137107,
       "name": "Her",
       "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 154389,
+      "name": "Girls in the Hood",
+      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 154389,
-      "name": "Girls in the Hood",
-      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whenever",
         "url": "https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 165668,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 206461,
       "name": "B.A.S. (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 176749,
+      "name": "Captain Hook",
+      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 192539,
       "name": "Cash Shit (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 176749,
-      "name": "Captain Hook",
-      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
     },
     {
       "added_at": null,

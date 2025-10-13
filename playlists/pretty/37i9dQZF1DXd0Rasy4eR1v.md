@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Zoha Waseem
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,746 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,745 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 11 | [Yaad hai mujhe](https://open.spotify.com/track/20NE5mmfJUvoTl82xKA6b8) | [Asad Naeem](https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA) | [Yaad hai mujhe](https://open.spotify.com/album/5myRTApW8k7gwJdEJ3MOAm) | 3:34 |
 | 12 | [Bahanay](https://open.spotify.com/track/6KzOOYX0pm6FsxbbESwfCg) | [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk) | [Bahanay](https://open.spotify.com/album/6DmsOiG20hlhJ3UDo0aWWg) | 2:50 |
 | 13 | [Tu Mera Fitoor](https://open.spotify.com/track/1NVzuhK2SosXZykg47PAmE) | [Fahad Babar Ali](https://open.spotify.com/artist/07HaLDA8UgdpI8z8uQIaEl) | [Tu Mera Fitoor](https://open.spotify.com/album/79vM7e4C6Hy4BHEyqXNRfo) | 2:35 |
-| 14 | [ADDICTION HAI](https://open.spotify.com/track/6eH2Cc8AFFXJe92bQq82Fl) | [Maadi](https://open.spotify.com/artist/4PmtD2gc8C6qQQG4frPoZa), [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU) | [INVISBLE STRING](https://open.spotify.com/album/31Fo7eM7k2HjYyfFqpbnCb) | 2:28 |
+| 14 | [ADDICTION HAI](https://open.spotify.com/track/6eH2Cc8AFFXJe92bQq82Fl) | [Maadi](https://open.spotify.com/artist/4PmtD2gc8C6qQQG4frPoZa), [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU) | [INVISIBLE STRING](https://open.spotify.com/album/31Fo7eM7k2HjYyfFqpbnCb) | 2:28 |
 | 15 | [No Lie](https://open.spotify.com/track/5qXl3Ac11Pyba6gholqM7S) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Reggs](https://open.spotify.com/artist/5ZiXTiApJhxzxicjIznlLs) | [No Lie](https://open.spotify.com/album/4Zf1OQAPR7CXO2KBcFTSzV) | 2:15 |
 | 16 | [Sajna](https://open.spotify.com/track/5f2U40X0hhqD0PFUbtSr2L) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Sajna](https://open.spotify.com/album/18TeQ4oXoeaa7HaqYMtC7T) | 1:11 |
 | 17 | [Hoor](https://open.spotify.com/track/2VRrwP1Iafva23dIGFgS6o) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Hoor](https://open.spotify.com/album/6J9Wibfvd0xTBASHljqZn0) | 2:41 |

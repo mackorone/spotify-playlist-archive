@@ -4,7 +4,7 @@
 
 > layan je
 
-333 songs - 21 hr 59 min
+334 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Belaian Derita](https://open.spotify.com/track/0U4r7j4y1m58MENm4tUWIU) | [Fairuz Syazwan](https://open.spotify.com/artist/10FOQY6tUzPRMaO2Z5ZtzA) | [Belaian Derita](https://open.spotify.com/album/048zNlPgnMRvymNowveMTx) | 3:59 | 2025-07-28 |  |
 | [Belum Mulai](https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Belum Mulai](https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc) | 3:34 | 2024-06-27 | 2024-07-27 |
 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 | 2024-07-12 | 2024-07-27 |
-| [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 | 2024-10-17 |  |
+| [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 | 2024-10-17 | 2025-10-13 |
 | [Berbagi Hati \- Piano Version \- From "Berbagi Suami"](https://open.spotify.com/track/4ZjfH1wcBI8g1pXqXJtH7f) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Berbagi Hati \(Piano Version \- From "Berbagi Suami"\)](https://open.spotify.com/album/4rp4jhVmwsX0tUtJEa4Dju) | 2:33 | 2024-12-12 | 2025-01-17 |
 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2024-01-18 | 2024-10-04 |
 | [Berharap Kau Kembali](https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Berharap Kau Kembali](https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV) | 4:18 | 2024-02-01 | 2024-03-01 |
@@ -284,6 +284,7 @@
 | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/track/1ThFs1Gm7X8UmO0AGXcScC) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R) | 3:39 | 2024-09-19 | 2024-09-28 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2024-01-18 | 2024-07-31 |
 | [Separuh Jiwaku Mati](https://open.spotify.com/track/2Z5tMzBcdNUqgN38gIFIpg) | [Arul Rasheed](https://open.spotify.com/artist/2E4BVLpBfP9VdMBQs5c8Q1) | [Separuh Jiwaku Mati](https://open.spotify.com/album/6OVExTJqLL6yRqTKvd3VAW) | 3:44 | 2024-06-12 | 2024-06-21 |
+| [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2025-07-28 |  |
 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 | 2024-09-27 |  |
 | [Seribu Tahun Lagi](https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Seribu Tahun Lagi](https://open.spotify.com/album/3zN8nN9moCS4xIGcGqTmMV) | 4:22 | 2025-02-17 | 2025-04-19 |
 | [Seribu Tahun Lagi \- Acoustic](https://open.spotify.com/track/7Fy94oF76n7j5oGUp5dkxX) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Seribu Tahun Lagi \(Acoustic\)](https://open.spotify.com/album/3WJ5pUAOLwHLofd3FnmSct) | 4:26 | 2025-04-18 | 2025-04-25 |

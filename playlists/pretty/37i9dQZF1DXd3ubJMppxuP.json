@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84031,
+  "num_followers": 84045,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDGtjc5Bo5Wj/91bAiAi1Dfduk0",
+  "snapshot_id": "AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI",
   "tracks": [
     {
       "added_at": "2025-09-25 09:03:02",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
-        "name": "Bietje Bas",
-        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Schorre Chef & MC Vals",
-          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Bietje Bas",
-      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -699,26 +679,22 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+        "name": "Bietje Bas",
+        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
         },
         {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Schorre Chef & MC Vals",
+          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
         }
       ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
+      "duration_ms": 154616,
+      "name": "Bietje Bas",
+      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
     },
     {
       "added_at": "2025-09-25 09:03:02",
@@ -743,6 +719,30 @@
       "duration_ms": 213088,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2025-09-25 09:03:02",

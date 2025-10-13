@@ -2855,6 +2855,28 @@
     },
     {
       "album": {
+        "name": "NAGTTB+",
+        "url": "https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158150,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/4fHjAlhou3qMEgLUSbtvPP"
+    },
+    {
+      "album": {
         "name": "PRIDE",
         "url": "https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN"
       },
@@ -2870,7 +2892,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 158150,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"

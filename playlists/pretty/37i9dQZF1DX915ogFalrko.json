@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 181159,
+  "num_followers": 181191,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Yes I'm Changing",
+      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Yes I'm Changing",
-      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "The Fantastic Sound Of",
-        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
-      },
-      "artists": [
-        {
-          "name": "Gunter Kallmann Choir",
-          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "How To Live",
         "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 240043,
       "name": "How To Live",
       "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "The Fantastic Sound Of",
+        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
+      },
+      "artists": [
+        {
+          "name": "Gunter Kallmann Choir",
+          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Bleed (feat. Omar Apollo)",
-        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Bleed (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 206685,
       "name": "Love's a Stranger",
       "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "Bleed (feat. Omar Apollo)",
+        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
         "name": "Ordinary Creature",
         "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
-        "name": "You You You / Audrey Hepburn",
-        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 166983,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "Two of Diamonds",
         "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 177440,
       "name": "Out of Time Man",
       "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1087,6 +1087,22 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "Tarmac",
+        "url": "https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "Tarmac",
+      "url": "https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "Hits the Hits",
         "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 231706,
       "name": "Let Me Blow Your Mind",
       "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Tarmac",
-        "url": "https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Tarmac",
-      "url": "https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "In My Pocket",
-        "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 238223,
-      "name": "In My Pocket",
-      "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+        "name": "In My Pocket",
+        "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+      "duration_ms": 238223,
+      "name": "In My Pocket",
+      "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Press Pause",
-        "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
-      },
-      "artists": [
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 199380,
-      "name": "Press Pause",
-      "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
-    },
-    {
-      "added_at": "2025-10-10 12:41:17",
-      "album": {
         "name": "Junk",
         "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 162253,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+    },
+    {
+      "added_at": "2025-10-10 12:41:17",
+      "album": {
+        "name": "Press Pause",
+        "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 199380,
+      "name": "Press Pause",
+      "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "(I Can See) The Future",
-        "url": "https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q"
+        "name": "10K",
+        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
         }
       ],
-      "duration_ms": 169533,
-      "name": "(I Can See) The Future",
-      "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
+      "duration_ms": 194403,
+      "name": "Creator",
+      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
     },
     {
       "added_at": "2025-10-10 12:41:17",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-10-10 12:41:17",
       "album": {
-        "name": "Silver Screens",
-        "url": "https://open.spotify.com/album/3OHp2k00Tx51yX33X2zyZw"
+        "name": "(I Can See) The Future",
+        "url": "https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 201896,
-      "name": "Silver Screens",
-      "url": "https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH"
+      "duration_ms": 169533,
+      "name": "(I Can See) The Future",
+      "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
     }
   ],
   "unique_name": "D\u00eener entre amis",

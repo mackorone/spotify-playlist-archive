@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Demon Hunter
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,630 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,755 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [False Teacher](https://open.spotify.com/track/60mBBoz2oZPMaCyuhxVPSy) | [REFORMED](https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF) | [False Teacher](https://open.spotify.com/album/3PRPXE54dzg139VheNYLXN) | 4:20 |
 | 75 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 |
 
-Snapshot ID: `AAAAAAxPLbBDaXeFRfetqKaUhfrmJuUO`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

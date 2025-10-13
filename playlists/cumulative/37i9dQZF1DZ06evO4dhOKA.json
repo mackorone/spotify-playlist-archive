@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Aguantala",
+        "url": "https://open.spotify.com/album/5ztL60Ente5novB4BApxOj"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140504,
+      "name": "Me acostumbr\u00e9 a tu ausencia",
+      "url": "https://open.spotify.com/track/1lxhIBrEuFIjkE1hyppAN0"
+    },
+    {
+      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 187400,
       "name": "Pero Mar\u00eda",
       "url": "https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u"

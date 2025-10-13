@@ -4,7 +4,7 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 37 min
+56 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [you fake your british accent](https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [you fake your british accent](https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it) | 3:08 | 2024-08-18 | 2024-12-07 |
 | [you fake your british accent](https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:08 | 2025-10-10 |  |
 | [you fake your british accent](https://open.spotify.com/track/7BzOTBSCGMxwOQsrMPUC2W) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:08 | 2024-12-07 | 2025-10-10 |
-| [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 | 2024-01-10 |  |
+| [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13) | 2:33 | 2025-10-13 |  |
+| [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 | 2024-01-10 | 2025-10-13 |
 
 \*This playlist was first scraped on 2024-01-11. Prior content cannot be recovered.

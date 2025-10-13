@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 99Phaces
 
-950 songs - 1 day 22 hr 10 min
+951 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Dagger](https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Dagger](https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p) | 2:17 | 2023-02-10 | 2023-03-31 |
 | [Dami Duro \- Spotify Singles](https://open.spotify.com/track/3OsXnXDO9gIb0L8t4nHhGy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dami Duro \- Spotify Singles](https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE) | 3:20 | 2022-10-28 | 2023-04-15 |
 | [Dance](https://open.spotify.com/track/3JA0kbj6KphgPEEUbA0oCK) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Dance](https://open.spotify.com/album/0kBF3qqZJXTShw1ciBy2nz) | 2:29 | 2024-09-27 | 2024-11-08 |
+| [DANCEFLOOR](https://open.spotify.com/track/46VmQ751xavC1Iv3poT6Jj) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [THE KIDS ARE JUST FINE](https://open.spotify.com/album/40QVVbi1qzPuohebJYM2L6) | 2:40 | 2025-10-10 |  |
 | [Darling](https://open.spotify.com/track/1oOm8z9y0D2sg9za839HCC) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Chevy Kev](https://open.spotify.com/artist/2YUXCCjGjC1ggnAlmzxp0p) | [Darling](https://open.spotify.com/album/2yp6BWxIzvaJCSsWgrc3f8) | 2:52 | 2024-04-26 | 2024-08-31 |
 | [Daylight](https://open.spotify.com/track/1RbQkmd0Y5kyAM78G86brd) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Daylight](https://open.spotify.com/album/49uRQvXnQht8Wk3mTiGjmw) | 3:30 | 2022-06-23 | 2022-07-08 |
 | [Days On The Road](https://open.spotify.com/track/5Rhg5EEsoD1JDbtwxNtdLT) | [Antoi](https://open.spotify.com/artist/30hgDcEs2QHytNksy0pRJi) | [Days On The Road](https://open.spotify.com/album/3XHnS4oHKruQJk26BFgpxe) | 2:55 | 2024-02-23 | 2024-07-12 |
@@ -503,7 +504,7 @@
 | [London Girl](https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP) | [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [London Girl](https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju) | 2:14 | 2025-04-04 |  |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-19 | 2025-04-11 |
 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 | 2025-09-19 |  |
-| [lost my mind in the moment](https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [lost my mind in the moment](https://open.spotify.com/album/1HNl8ClkDQIsmEszfKOAWE) | 2:58 | 2025-08-15 |  |
+| [lost my mind in the moment](https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [lost my mind in the moment](https://open.spotify.com/album/1HNl8ClkDQIsmEszfKOAWE) | 2:58 | 2025-08-15 | 2025-10-13 |
 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 | 2024-07-12 | 2025-04-11 |
 | [Love Essential](https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 4:00 | 2021-11-04 | 2022-11-19 |
 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 | 2023-06-22 | 2023-10-20 |

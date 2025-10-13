@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABuCWLVh2LjAzYdGIyalm6d",
+  "snapshot_id": "aOmeAAAAAAD4ioUekniGX/mrFIKK3285",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Murda Murda",
+      "url": "https://open.spotify.com/track/40p0vevznrM6nfhbFviCUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alvinegro Praiano",
         "url": "https://open.spotify.com/album/35qVvVRuTpudHAmjXoF4Ru"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 160514,
       "name": "Qdo Ce Me V\u00ea",
       "url": "https://open.spotify.com/track/70wNUyEtORskV7HdNGFITx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt",
-        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Murda Murda",
-      "url": "https://open.spotify.com/track/40p0vevznrM6nfhbFviCUO"
     },
     {
       "added_at": null,
@@ -363,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mate Ou Morra",
-        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "Vai Gamar",
-      "url": "https://open.spotify.com/track/1HQztUZ9R0fV1BvcErnevI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Mundo Ama O Sol",
         "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 172035,
       "name": "Gato Preto",
       "url": "https://open.spotify.com/track/1uU4cYdQ0AKn2ptDrnoVPo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mate Ou Morra",
+        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "Vai Gamar",
+      "url": "https://open.spotify.com/track/1HQztUZ9R0fV1BvcErnevI"
     },
     {
       "added_at": null,
@@ -776,13 +776,21 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
         }
       ],
-      "duration_ms": 181626,
-      "name": "T\u00f4 Tranquila",
-      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
+      "duration_ms": 156923,
+      "name": "Iludida",
+      "url": "https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA"
     },
     {
       "added_at": null,
@@ -872,21 +880,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Iludida",
-      "url": "https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA"
+      "duration_ms": 181626,
+      "name": "T\u00f4 Tranquila",
+      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
     },
     {
       "added_at": null,
@@ -951,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+        "name": "Tira Uma Foto",
+        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 156183,
-      "name": "Luiza Mel",
-      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
+      "duration_ms": 129440,
+      "name": "Tira Uma Foto",
+      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
     },
     {
       "added_at": null,
@@ -991,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tira Uma Foto",
-        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 129440,
-      "name": "Tira Uma Foto",
-      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+      "duration_ms": 156183,
+      "name": "Luiza Mel",
+      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
     },
     {
       "added_at": null,
@@ -1119,6 +1119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ELAS",
+        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 160079,
+      "name": "Fa\u00e7o Valer",
+      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SET DO ECOLOGYK 1.0",
         "url": "https://open.spotify.com/album/67Zzg6YfQIULJrpt91LXUI"
       },
@@ -1163,26 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELAS",
-        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 160079,
-      "name": "Fa\u00e7o Valer",
-      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ECL\u00c9TICO",
         "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
       },
@@ -1207,50 +1207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Topo",
-        "url": "https://open.spotify.com/album/1orHc2D0k8TKzRIyCSnFXl"
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
       },
       "artists": [
         {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
-        },
-        {
-          "name": "Kadri",
-          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
-        },
-        {
-          "name": "Vk Mac",
-          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
         }
       ],
-      "duration_ms": 366857,
-      "name": "No Topo",
-      "url": "https://open.spotify.com/track/5gNR7OHe5ZAShqYItuYPmr"
+      "duration_ms": 185884,
+      "name": "Imaginei",
+      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
     },
     {
       "added_at": null,

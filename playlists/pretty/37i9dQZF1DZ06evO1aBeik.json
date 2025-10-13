@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2788494,
+  "num_followers": 2788550,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAA/62p1qYaLP7vWU6LhwZ9K",
+  "snapshot_id": "aOmeAAAAAACUEzFUUp6Z+3gVvJdIG+rT",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 165175,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 202638,
+      "name": "Hey Mercedes",
+      "url": "https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 257699,
       "name": "LEVII'S JEANS",
       "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 202638,
-      "name": "Hey Mercedes",
-      "url": "https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
-        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
-      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion: Long Bed",
         "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 213225,
       "name": "Dead At The Honky Tonk",
       "url": "https://open.spotify.com/track/0b89M5bonRIcsR781e4xGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
+        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
+      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 56388,
+  "num_followers": 56402,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Mahler 9",
-        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 984626,
-      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
-      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Mahler: Das klagende Lied / Berg: Lulu-Suite",
         "url": "https://open.spotify.com/album/4Ov78YRYesjbQrwv3QNRyh"
       },
@@ -611,8 +587,8 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
       },
       "artists": [
         {
@@ -620,29 +596,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
         },
         {
-          "name": "Eva Marton",
-          "url": "https://open.spotify.com/artist/33AceqtngCtsV5Ol0JUrl2"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Konzertvereinigung Wiener Staatsopernchor",
-          "url": "https://open.spotify.com/artist/1OLBWBWSvbUZOBKSVMl6bO"
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 2164733,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
-      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
+      "duration_ms": 984626,
+      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
     },
     {
       "added_at": "2025-09-15 14:00:15",
@@ -691,6 +655,42 @@
       "duration_ms": 2009653,
       "name": "Mahler: Symphony No. 3 in D Minor: I. Kr\u00e4ftig. Entschieden",
       "url": "https://open.spotify.com/track/5xw32PKkA42ObOxNntOMPF"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Eva Marton",
+          "url": "https://open.spotify.com/artist/33AceqtngCtsV5Ol0JUrl2"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Konzertvereinigung Wiener Staatsopernchor",
+          "url": "https://open.spotify.com/artist/1OLBWBWSvbUZOBKSVMl6bO"
+        }
+      ],
+      "duration_ms": 2164733,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
+      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
     },
     {
       "added_at": "2025-09-15 14:00:15",
@@ -1087,34 +1087,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Das Lied von der Erde: III. Von der Jugend",
-      "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Boulez - Mahler",
         "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
       },
@@ -1139,6 +1111,34 @@
       "duration_ms": 172906,
       "name": "Des Knaben Wunderhorn: Trost im Ungl\u00fcck - Live at Severance Hall, Cleveland, 2010",
       "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Das Lied von der Erde: III. Von der Jugend",
+      "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
     },
     {
       "added_at": "2025-09-15 14:00:15",

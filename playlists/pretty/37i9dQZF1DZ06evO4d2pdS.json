@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACcpe9LmdAnf6ewjEObWRGf",
+  "snapshot_id": "aOmeAAAAAAC4HbU/PwO/auVKugWtDxHo",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DTF (Different Type Freak)",
+        "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "DTF (Different Type Freak)",
+      "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Time (Gangsta Grillz: Special Edition)",
         "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 130098,
       "name": "In Person (With OG Parker feat. Tyga)",
       "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DTF (Different Type Freak)",
-        "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
-      },
-      "artists": [
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "DTF (Different Type Freak)",
-      "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 152094,
-      "name": "Young and Ratchet",
-      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
+      "duration_ms": 168997,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "Don\u2019t Go",
+      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ETHER",
         "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 178857,
-      "name": "Don\u2019t Go",
-      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 168997,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
+      "duration_ms": 152094,
+      "name": "Young and Ratchet",
+      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bridge Kard Blessings",
+        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "To The Money - feat. Lakeyah",
+      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -639,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridge Kard Blessings",
-        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
-      },
-      "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "To The Money - feat. Lakeyah",
-      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 217731,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FYT (Fuckin you tonight)",
-        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 254915,
-      "name": "FYT (Fuckin you tonight)",
-      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "FYT (Fuckin you tonight)",
+        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 124000,
-      "name": "2 Tone",
-      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
+      "duration_ms": 254915,
+      "name": "FYT (Fuckin you tonight)",
+      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
     },
     {
       "added_at": null,
@@ -759,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 163416,
-      "name": "A Letter To You",
-      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
+      "duration_ms": 124000,
+      "name": "2 Tone",
+      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
     },
     {
       "added_at": null,
@@ -799,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
       "artists": [
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+      "duration_ms": 163416,
+      "name": "A Letter To You",
+      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
     },
     {
       "added_at": null,
@@ -827,6 +811,46 @@
       "duration_ms": 133903,
       "name": "No Hesitation",
       "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Not Me It's You (Deluxe)",
+        "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
+      "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
     },
     {
       "added_at": null,
@@ -863,30 +887,6 @@
       "duration_ms": 117600,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Not Me It's You (Deluxe)",
-        "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
-      "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 126579,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Pressure (Pt. 2)",
         "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 238571,
       "name": "Worth The Wait (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 126579,
-      "name": "Pop Dat",
-      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
     },
     {
       "added_at": null,

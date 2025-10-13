@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 248564,
+  "num_followers": 248599,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAFpxnA1+hCmxVGzqAV4zkb",
+  "snapshot_id": "aOmeAAAAAABul9z50tIAoD1yW1bAzEGk",
   "tracks": [
     {
       "added_at": null,
@@ -251,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes del Alba",
-        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "T\u00fa Tienes el Son",
-      "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #9",
         "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 188387,
       "name": "LQRA Session #9",
       "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes del Alba",
+        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 181418,
+      "name": "T\u00fa Tienes el Son",
+      "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
     },
     {
       "added_at": null,
@@ -487,38 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "P\u00e9talos",
-      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 235483,
-      "name": "Andr\u00f3meda",
-      "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 235483,
+      "name": "Andr\u00f3meda",
+      "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "P\u00e9talos",
+      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "A Paso Lento",
-      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "No Hay Palabras Bonitas",
-      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
     },
     {
       "added_at": null,
@@ -731,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "No Hay Palabras Bonitas",
+      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ynlpa",
         "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 183472,
       "name": "Ynlpa",
       "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 198750,
       "name": "No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 238036,
       "name": "Ruego",
       "url": "https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 209737,
       "name": "Ma\u00f1ana Vas a Estar Ausente",
       "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
     },
     {
       "added_at": null,
@@ -999,30 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "No Se Sobrepase",
-      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 241000,
       "name": "En Lo Malo Me Va Bien",
       "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "No Se Sobrepase",
+      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
     },
     {
       "added_at": null,

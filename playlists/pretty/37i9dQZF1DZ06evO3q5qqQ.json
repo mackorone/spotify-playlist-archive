@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 115928,
+  "num_followers": 115938,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADBoq6isZyjxmYcUvZ36NEM",
+  "snapshot_id": "aOmeAAAAAACr8Vpd8Lh8DJCuuJ9d/B2w",
   "tracks": [
     {
       "added_at": null,
@@ -435,30 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El R\u00e1pido (En vivo)",
-        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
-      },
-      "artists": [
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "El R\u00e1pido - En vivo",
-      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -483,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pato Nada",
-        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
+        "name": "El R\u00e1pido (En vivo)",
+        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
       "artists": [
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         },
         {
-          "name": "Jando Cartagena",
-          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
         }
       ],
-      "duration_ms": 164989,
-      "name": "El Pato Nada",
-      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
+      "duration_ms": 208405,
+      "name": "El R\u00e1pido - En vivo",
+      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
     },
     {
       "added_at": null,
@@ -515,6 +495,26 @@
       "duration_ms": 171989,
       "name": "El Bolas",
       "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pato Nada",
+        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Jando Cartagena",
+          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "El Pato Nada",
+      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
     },
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Precio De La Soledad (En vivo)",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+        "name": "La Charla",
+        "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad - En vivo",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+      "duration_ms": 230426,
+      "name": "La Charla",
+      "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

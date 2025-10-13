@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-849 songs - 2 day 7 hr 29 min
+851 songs - 2 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ain't no time for hesitation](https://open.spotify.com/track/2gbRZlW7HUOaerKsGIwVol) | [Fake Two Piece](https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya), [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [MISSION 03](https://open.spotify.com/album/0WNGMI7NsAtveM63xmeDWM) | 3:26 | 2025-03-14 | 2025-09-20 |
 | [Alchemy](https://open.spotify.com/track/73py04vpalnu50NSBauCD2) | [Murkury](https://open.spotify.com/artist/6de3gCt7GOmcd8fylzCTgc) | [Heat Death of the Universe](https://open.spotify.com/album/150A7diobjuRH8obpCxwyH) | 3:19 | 2025-06-13 | 2025-07-22 |
 | [Alert](https://open.spotify.com/track/1uitYjxI2ADkWm8vUWzU9i) | [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [Alert](https://open.spotify.com/album/4kpc93sye3UGtzWNtfsPVh) | 3:39 | 2025-08-29 |  |
+| [Alien Bass](https://open.spotify.com/track/5kZTTsu9bMQ5gfPRsdpeic) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Alien Bass](https://open.spotify.com/album/3oICpwGncm9QOBg5FSBeOd) | 3:55 | 2025-10-10 |  |
 | [Alien Chant](https://open.spotify.com/track/6tLctMnDSO020zMBT81qMt) | [Vibe Emissions](https://open.spotify.com/artist/26C2HIRqDYjWa84z0WZVI4), [Nova](https://open.spotify.com/artist/5zjhAGHyfk64Uw0lV2czni) | [Alien Chant \(Remixes\)](https://open.spotify.com/album/1TSRtcfLwx9SVV4hqf1uT4) | 3:46 | 2022-02-17 | 2022-09-09 |
 | [ALL DAY, ALL NIGHT](https://open.spotify.com/track/7oniDV1HpNk4CkiRVxNi8J) | [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [ALL DAY, ALL NIGHT](https://open.spotify.com/album/2XomhVa8MDRh8zbFdEjmuB) | 2:33 | 2025-01-31 | 2025-09-21 |
 | [All Ways](https://open.spotify.com/track/1t8CseUn2l8xXtCLAV4NuQ) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [All Ways](https://open.spotify.com/album/3KIuuSsvqtJzJ7Ctf8JgNv) | 4:16 | 2022-07-08 | 2022-07-30 |
@@ -75,7 +76,7 @@
 | [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 | 2023-05-17 |
 | [Bhuta](https://open.spotify.com/track/3n5KOTr85y3NOdDPmMIFD9) | [Sabasonik](https://open.spotify.com/artist/1bJVUQC8Ag7LR15xEJS45G) | [Taala / Bhuta](https://open.spotify.com/album/4hDqxbvHFRRTGPQFFmI6Wi) | 3:52 | 2022-02-17 | 2022-07-30 |
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
-| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-15 |  |
+| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-15 | 2025-10-13 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
 | [Big Sound](https://open.spotify.com/track/6dlCxzq1BmPXFLArScNz2i) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/2fsd0lJ3k6Fig0x8eulNnB) | 4:39 | 2022-07-08 | 2023-01-14 |
 | [birds on \[tatooine\]](https://open.spotify.com/track/6alu8VrEPElH37Br4AViEg) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [The Great Migration of Memory](https://open.spotify.com/album/0P0egdkQPXPxkbv57Hu94R) | 1:16 | 2024-05-10 | 2024-09-14 |
@@ -218,6 +219,7 @@
 | [Drums](https://open.spotify.com/track/3w4OQNlvVEUUDIEC9DA3jF) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [JAÎRU](https://open.spotify.com/artist/763lGmiqTMo6prWDvNXgUr) | [Drums](https://open.spotify.com/album/0kkc2flVcDrQT62SE45q2I) | 3:38 | 2025-01-31 | 2025-08-30 |
 | [Drunken Master](https://open.spotify.com/track/0R3icIQILONMdTIEcKzUzv) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Drunken Master / Why Not](https://open.spotify.com/album/4E5Bttzteet92s8K9bCMfH) | 5:05 | 2022-02-17 | 2022-07-28 |
 | [Drunken Master](https://open.spotify.com/track/66P8ZVw62ZwQ9hWYvqWreG) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Drunken Master / Why Not](https://open.spotify.com/album/4N73NFvySlvxTCcbh7kSvI) | 5:05 | 2022-07-08 | 2022-09-22 |
+| [Duality](https://open.spotify.com/track/6QUPKGOrkaQGAzgB0NdUq5) | [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu), [BRAINWAVEZ](https://open.spotify.com/artist/3gUZ7WGCtG0pzjHsRzQPhG) | [Duality](https://open.spotify.com/album/1fOFQOtdznh58VLLnK7r4s) | 2:14 | 2025-10-10 |  |
 | [Dub from the East](https://open.spotify.com/track/3QvtX1G6et1Y5pBKT6vvGT) | [Under Dub](https://open.spotify.com/artist/21QBwNKwE7EjiLz03P2FCw) | [Man from the East](https://open.spotify.com/album/4myJHHrOTZEvdf64F9rUWC) | 3:45 | 2022-02-17 | 2022-06-01 |
 | [Dubstep For Kids](https://open.spotify.com/track/0iLDNo9ksayaz6cilK5kf6) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [juntos](https://open.spotify.com/album/5qicqkou3eYdsExTJDRC0n) | 1:49 | 2024-09-13 | 2024-12-11 |
 | [Ear Candy](https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Ear Candy](https://open.spotify.com/album/1yhUxyUJ6YV6etU9UfFow1) | 3:40 | 2024-10-25 |  |
@@ -386,7 +388,7 @@
 | [Juce](https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/6Quzmmpf3RmbIWPzRIYXsd) | 5:12 | 2022-02-17 | 2022-07-27 |
 | [JUDGMENT](https://open.spotify.com/track/5onP6GliL0YHed3aFXpcou) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [JUDGMENT/FREEFALL](https://open.spotify.com/album/2FoG5IIVpcjhJI0f7YkMiY) | 3:49 | 2024-04-19 | 2024-12-18 |
 | [Juggernaut](https://open.spotify.com/track/264EGoBnQlgF4mZb2yMztM) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Kyral X Banko](https://open.spotify.com/artist/2PLa4ADUFioknBIegBIZiY) | [Juggernaut](https://open.spotify.com/album/5OHMbs84fjN7Et1KU4Gr11) | 3:06 | 2022-12-02 | 2025-03-21 |
-| [JUMP!!](https://open.spotify.com/track/6DXnIycKlFuuJ1lLR94OFI) | [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR), [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [JUMP!!](https://open.spotify.com/album/1fBr8LZ22eSGhjHYhWrGDG) | 2:14 | 2024-11-04 |  |
+| [JUMP!!](https://open.spotify.com/track/6DXnIycKlFuuJ1lLR94OFI) | [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR), [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [JUMP!!](https://open.spotify.com/album/1fBr8LZ22eSGhjHYhWrGDG) | 2:14 | 2024-11-04 | 2025-10-13 |
 | [Junction](https://open.spotify.com/track/3kJ4RvvETkBYQlQ8A6egbf) | [COIDO](https://open.spotify.com/artist/3pY8LTXZvim2leLtFv1jej) | [Junction](https://open.spotify.com/album/3Ty3VNbHpoYP5KTBX5NSm9) | 4:14 | 2025-08-20 | 2025-09-27 |
 | [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 | 2022-11-11 | 2025-08-30 |
 | [Just 9](https://open.spotify.com/track/6UnDwA5llAiBExm9nlqato) | [Content](https://open.spotify.com/artist/14PVoXMAznefQRGFVrBRAA), [Krudkutter](https://open.spotify.com/artist/4uacqKlQmCHQz7VWgt0qKQ) | [ENC018](https://open.spotify.com/album/6hhZw4V8DX3FRilPlX92IX) | 4:06 | 2022-02-17 | 2022-07-28 |

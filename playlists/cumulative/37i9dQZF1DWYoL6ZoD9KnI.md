@@ -4,10 +4,11 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-132 songs - 8 hr 36 min
+133 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 | 2025-10-13 |  |
 | [amen](https://open.spotify.com/track/4bryMKHEjBRSHW8VNXUj7U) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/7IZFdzxga2A1TMDSateh9A) | 4:34 | 2024-04-08 |  |
 | [amen](https://open.spotify.com/track/6XZdQi6kAR6Ez0O998Erm3) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/3z72r7aIYUDpTElMaBQuxq) | 4:34 | 2022-11-22 | 2024-04-19 |
 | [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 | 2024-11-17 |  |

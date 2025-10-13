@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47564,
+  "num_followers": 47572,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 394173,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 330760,
-      "name": "Gettin' To It",
-      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "A Generation Ago Today",
         "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 368000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 330760,
+      "name": "Gettin' To It",
+      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
@@ -1231,6 +1215,22 @@
       "duration_ms": 261573,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
     },
     {
       "added_at": "2019-10-02 08:54:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,545 likes - 296 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,552 likes - 296 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 295 | [ethereal tides](https://open.spotify.com/track/2tJonjSMnRd4Y1UKCRGik2) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [ethereal tides](https://open.spotify.com/album/1sJYkODfpAonEcpsADQ9pC) | 2:48 |
 | 296 | [Harmonic Stillness](https://open.spotify.com/track/2y6g1EwBKPFhPyFo7HNvu1) | [Galaxies Stories](https://open.spotify.com/artist/0JgZLyaQxG308bo8e7QpY4) | [Harmonic Stillness](https://open.spotify.com/album/4r1O8cwvRLPZBcNPXMdGvK) | 3:18 |
 
-Snapshot ID: `AAAAAFjVj7xNurl11VuGqQUDZfHWZfrH`
+Snapshot ID: `AAAAAOg+V1Wdjn/HEc+Hs8u15nvhdckh`

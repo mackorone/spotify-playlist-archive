@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jan Roberts
 
-569 songs - 1 day 11 hr 33 min
+570 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ikaw](https://open.spotify.com/track/38KbpxXHaVIFApcm1M7nHR) | [JC Herrero](https://open.spotify.com/artist/5lsFhJDZsBRdTpm2aL4sRp) | [Ikaw](https://open.spotify.com/album/41jtxGqmlrlUqOl627HmvJ) | 3:28 | 2025-10-03 |  |
 | [Ikaw Ang Miss Universe Ng Buhay Ko](https://open.spotify.com/track/5vhFavY6RmzJKXyyUKu5Th) | [Andres Muhlach](https://open.spotify.com/artist/3g6gDjNOWyUSJOZgg7zIpy) | [Ikaw Ang Miss Universe Ng Buhay Ko](https://open.spotify.com/album/0VUMqyOL0mq2PV1asGZqo1) | 3:34 | 2025-04-15 | 2025-06-21 |
 | [Ikaw Lang](https://open.spotify.com/track/3yggn1rsLs9m7jYTjf3xRO) | [Jerome Banaay](https://open.spotify.com/artist/4YkvowYlmKG7m07nj31ymK) | [Ikaw Lang](https://open.spotify.com/album/2GqF73RNPHmywnrYsagSH2) | 3:19 | 2025-05-19 |  |
+| [Ikaw na yan eh](https://open.spotify.com/track/5R7JUpJZBY4rfSZgqbt6ex) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [Ikaw na yan eh](https://open.spotify.com/album/6Aubp9CmoVXbxTXzs90NxH) | 3:28 | 2025-10-13 |  |
 | [Ikaw Sana](https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ikaw Sana](https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW) | 6:27 | 2025-09-19 |  |
 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-05-02 | 2025-07-19 |
 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 | 2025-05-23 |  |

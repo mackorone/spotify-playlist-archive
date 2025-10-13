@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 27 min
+65 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Corrido De Olegario](https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 2:44 | 2024-01-29 |  |
 | [Corrido De Rosalino](https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro: Mis Mejores Corridos, Vol\. 1](https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu) | 2:41 | 2025-09-09 |  |
 | [Corrido De Rosalino](https://open.spotify.com/track/10TR4FENX2vDT599CGc8ls) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos Al Estilo Culiacán](https://open.spotify.com/album/23yzFm7WENzQArdhWNGoQK) | 2:41 | 2024-01-29 | 2025-09-04 |
-| [Corrido Del Gallito](https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:23 | 2024-01-29 |  |
+| [Corrido Del Gallito](https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:23 | 2024-01-29 | 2025-10-13 |
+| [Corrido Del Gallito](https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 3:22 | 2025-10-13 |  |
 | [Dinastía De Los Ochoa](https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:09 | 2024-01-29 | 2025-10-03 |
 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 | 2024-04-22 |  |
 | [El Crimen De Culiacán](https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:10 | 2024-01-29 |  |

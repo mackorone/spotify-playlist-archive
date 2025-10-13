@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 331849,
       "name": "10 Min\u00fat",
       "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
@@ -10737,6 +10737,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -14380,7 +14398,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 134693,
       "name": "G WAGON",
       "url": "https://open.spotify.com/track/4Y77GxNpAS16bGOVDwzagb"
@@ -20490,7 +20508,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -21130,7 +21148,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 181893,
       "name": "KDE SI?!",
       "url": "https://open.spotify.com/track/5EhpEj7rkZJmDkpZrtGPSw"
@@ -22138,7 +22156,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 149880,
       "name": "Krv neni voda",
       "url": "https://open.spotify.com/track/1lrKSZBEhQMJeM551eP71g"
@@ -29550,7 +29568,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 209077,
       "name": "NE\u017d NEJSEM DEAD",
       "url": "https://open.spotify.com/track/598cHY7anE9J900h1YC7Z3"
@@ -33010,7 +33028,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Pinokio",
       "url": "https://open.spotify.com/track/0kN7F9Hc6sjJ5WPuuyJJNi"
@@ -37080,7 +37098,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -41926,7 +41944,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 166299,
       "name": "Syndrom",
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
@@ -43904,7 +43922,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 147428,
       "name": "TINTED WINDOWS",
       "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"
@@ -47276,7 +47294,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 140940,
       "name": "V\u00cd\u0160 JAK BOL\u00cd \u0158\u00cdKAT RIP",
       "url": "https://open.spotify.com/track/5jIAUi4NrvDDqA9Ma32Ej2"

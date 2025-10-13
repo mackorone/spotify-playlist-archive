@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,374 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,403 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 4 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 | 5 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 |
 | 6 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
-| 7 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
-| 8 | [Loud](https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 |
+| 7 | [Loud](https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 |
+| 8 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
 | 9 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
 | 10 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
 | 11 | [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 24 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 |
 | 25 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
 | 26 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
-| 27 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |
-| 28 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
+| 27 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
+| 28 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |
 | 29 | [Burn The River](https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Same Day Cleaning](https://open.spotify.com/album/3Ph1OGPvuAHe4BN00WNYi9) | 3:46 |
 | 30 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
-| 31 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
-| 32 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
+| 31 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
+| 32 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
 | 33 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 |
 | 34 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 |
 | 35 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 39 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 40 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 41 | [Love How It Feels](https://open.spotify.com/track/6Fx3P9danCmSW1d8sZ9aAF) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Love How It Feels](https://open.spotify.com/album/6I4cQwheAaAfnlYylLoJeL) | 3:04 |
-| 42 | [Disco Life](https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Disco Life](https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw) | 3:32 |
-| 43 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
+| 42 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
+| 43 | [Disco Life](https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Disco Life](https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw) | 3:32 |
 | 44 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 |
 | 45 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
 | 46 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 |

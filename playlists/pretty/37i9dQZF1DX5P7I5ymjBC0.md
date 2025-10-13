@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Salim\-Sulaiman and Shankar Mahadevan
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,689 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,706 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 38 | [Garaj Garaj](https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Pandit Ajay Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 2:38 |
 | 39 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |
 | 40 | [Mora Saiyaan](https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 6:52 |
-| 41 | [Chal Chaliye](https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Chal Chaliye](https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB) | 3:54 |
-| 42 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
+| 41 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
+| 42 | [Chal Chaliye](https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Chal Chaliye](https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB) | 3:54 |
 | 43 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
 | 44 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 45 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |

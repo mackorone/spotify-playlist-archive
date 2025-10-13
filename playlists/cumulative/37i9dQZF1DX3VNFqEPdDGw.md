@@ -4,12 +4,12 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-360 songs - 18 hr 29 min
+361 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 0:00 | 2022-06-28 | 2023-07-27 |
-| [](https://open.spotify.com/track/4N0TO4VfONQDwynV2khBL1) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Unfuckwithable \(Bonus Track from Moosetape\)](https://open.spotify.com/album/2boT4LsTrMusn1fzSnM3Oq) | 0:00 | 2025-01-08 |  |
+| [](https://open.spotify.com/track/4N0TO4VfONQDwynV2khBL1) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Unfuckwithable \(Bonus Track from Moosetape\)](https://open.spotify.com/album/2boT4LsTrMusn1fzSnM3Oq) | 0:00 | 2025-01-08 | 2025-10-13 |
 | [18 Lakh Da](https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Preeta](https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 2:57 | 2025-01-08 |  |
 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 | 2023-09-01 |  |
 | [25/26](https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [V8](https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2) | 2:45 | 2025-06-10 |  |
@@ -208,6 +208,7 @@
 | [Leeran](https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN) | [Balkar Ankhila](https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be), [Manjinder Gulshan](https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw) | [Leeran](https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE) | 2:21 | 2025-02-04 | 2025-04-28 |
 | [Let 'em Play](https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW) | 3:12 | 2021-12-18 | 2025-01-09 |
 | [Let 'em Play](https://open.spotify.com/track/6S6HSSk9HzWe3pqvUJn6Vq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/3eo5DzbsNmG1KYZgwEUeLX) | 3:15 | 2022-07-05 | 2024-04-19 |
+| [Like This](https://open.spotify.com/track/5FnUJGAnUJti1D4X8G56Ow) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Like This](https://open.spotify.com/album/6yj73qy3PqcCdM35lseGJJ) | 3:41 | 2025-10-10 |  |
 | [Loktath](https://open.spotify.com/track/6y21aiaOaPjdTIaKT6ohvc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Babbu Brar](https://open.spotify.com/artist/5iVo4PE7XoDT1eDEh65gKj), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Loktath](https://open.spotify.com/album/6RaTOfyzqSqiMh5YubYGps) | 3:00 | 2025-08-02 | 2025-08-15 |
 | [Mada V Nai](https://open.spotify.com/track/4UE4ytRMvq2GOPbcWJLh6u) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Mada V Nai](https://open.spotify.com/album/4PNK0EtoPgbaGKEkKV9n6z) | 3:47 | 2025-07-08 | 2025-08-13 |
 | [Main Viyah Nahi Karona Tere Naal \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [The Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [Main Viyah Nahi Karona Tere Naal \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood) | 2:35 | 2025-01-08 |  |

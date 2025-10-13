@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > as gêmeas com uma enxurrada de refs e quem tem dó é cavaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,608 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,749 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 38 | [Excesso de liberdade](https://open.spotify.com/track/3WhCwoOIWoHBiMvljmP54T) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [Excesso de liberdade](https://open.spotify.com/album/1lL3h9qTidET81l9H0JqJK) | 2:58 |
 | 39 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
 | 40 | [Boy](https://open.spotify.com/track/6Q89NKKnKEwjXYUUXQZaqH) | [Gabi Landin](https://open.spotify.com/artist/4TiLPESUG1XZyfzC9p5h6n), [Lowis](https://open.spotify.com/artist/0AGcQlUM95htqzJww2nEiM) | [Boy](https://open.spotify.com/album/64DKfMSvifPtwOT9MMN1Vd) | 2:42 |
-| 41 | [Original](https://open.spotify.com/track/2mxXZMEsOT93txYtkHmWLb) | [Deeplick](https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY) | [Original](https://open.spotify.com/album/02VAL1s8Pv6lY8y2OrvC7E) | 3:32 |
-| 42 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
+| 41 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
+| 42 | [Original](https://open.spotify.com/track/2mxXZMEsOT93txYtkHmWLb) | [Deeplick](https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY) | [Original](https://open.spotify.com/album/02VAL1s8Pv6lY8y2OrvC7E) | 3:32 |
 | 43 | [Porque não](https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [S3X!](https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG) | [Porque não](https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq) | 2:45 |
 | 44 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
 | 45 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |

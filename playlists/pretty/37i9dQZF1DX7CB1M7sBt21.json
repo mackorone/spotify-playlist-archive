@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 132524,
+  "num_followers": 132528,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Talk That Talk (Explicit)",
+        "url": "https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Talk That Talk (Explicit)",
-        "url": "https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

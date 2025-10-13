@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Helena, Eefje de Visser, David Guetta, Aya Nakamura and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,657 likes - 103 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,653 likes - 103 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

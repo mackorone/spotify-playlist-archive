@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-213 songs - 11 hr 43 min
+214 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 | 2025-06-06 |  |
 | [Basement Party](https://open.spotify.com/track/4aJgVVpcUos92SAESRL2Si) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/2qmysBdftCYXRjYHTVK3qo) | 3:21 | 2025-06-06 |  |
 | [Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 3:38 | 2025-06-06 |  |
-| [Beautiful Problem \(feat\. Maty Noyes & gnash\)](https://open.spotify.com/track/5V6Z0byDlUIfvXY7xE5sCp) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 4:21 | 2025-06-06 |  |
+| [Beautiful Problem \(feat\. Maty Noyes & gnash\)](https://open.spotify.com/track/5V6Z0byDlUIfvXY7xE5sCp) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 4:21 | 2025-06-06 | 2025-10-13 |
+| [Beautiful Problem \(feat\. Maty Noyes & gnash\)](https://open.spotify.com/track/6Wg1Lc1Scu2Hqy9Uh7BCMr) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Movie](https://open.spotify.com/album/7aoeCm6NuOcvoGW4lbC3CE) | 4:21 | 2025-10-12 |  |
 | [Blu](https://open.spotify.com/track/4FUDWkguOUVpLRAVn5C20z) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:03 | 2025-06-06 |  |
 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 | 2025-06-06 |  |
 | [Calling Your Name](https://open.spotify.com/track/2Ga4ATsihCKFz3ge6UGeBl) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:56 | 2025-06-06 |  |
@@ -93,7 +94,7 @@
 | [high water](https://open.spotify.com/track/2c713T3XC5IHrLvSPPVrmZ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:48 | 2025-06-06 |  |
 | [Hip Replacement](https://open.spotify.com/track/3q557Vq0NZWyYexMpnNvFJ) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 4:13 | 2025-06-06 |  |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2025-06-06 |  |
-| [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2025-06-06 |  |
+| [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2025-06-06 | 2025-10-13 |
 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 | 2025-06-06 |  |
 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-08-06 |  |
 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 | 2025-06-06 |  |

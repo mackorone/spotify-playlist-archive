@@ -4,14 +4,14 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 50 min
+126 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Tender Lie](https://open.spotify.com/track/01jqak2GWNeXgYfqzibrvr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Train](https://open.spotify.com/album/1nzZhYtbe8GFuZewHrba0h) | 4:23 | 2022-11-22 | 2022-11-24 |
 | [A Woman Needs A Good Man](https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:19 | 2022-05-25 | 2024-02-02 |
 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 | 2022-05-25 | 2025-02-28 |
-| [Bodycheck](https://open.spotify.com/track/4zGey0xDrpJWmzRfs6qDIC) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 3:35 | 2024-10-31 |  |
+| [Bodycheck](https://open.spotify.com/track/4zGey0xDrpJWmzRfs6qDIC) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 3:35 | 2024-10-31 | 2025-10-13 |
 | [Can't You See What You're Doing To Me](https://open.spotify.com/track/7esa3lQi1Ixu8kK2lGF8YB) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:32 | 2022-05-25 |  |
 | [Caught Between Two Fires](https://open.spotify.com/track/2BmlYNJN4MTjm0VJQFkGpH) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:09 | 2025-05-08 | 2025-10-09 |
 | [Caught Between Two Fires](https://open.spotify.com/track/66FHvvHSCv8eSFzGeQmJYL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:09 | 2023-11-10 | 2023-12-14 |
@@ -96,6 +96,7 @@
 | [Streets](https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Delta](https://open.spotify.com/album/14BaP4HtDt9fZPg9BSawkL) | 3:23 | 2023-09-02 | 2024-12-23 |
 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 | 2022-08-05 |  |
 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 | 2022-05-25 |  |
+| [T.S.O.P\. \(The Sound Of Philadelphia\) \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [When Will I See You Again \(Re\-Recorded / Remastered\)](https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg) | 3:23 | 2025-10-13 |  |
 | [T.S.O.P\. \(The Sound Of Philadelphia\) \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 3:48 | 2022-05-25 | 2023-07-14 |
 | [T.S.O.P\. \- The Sound Of Philadelphia \- Rerecorded](https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Greatest Hits \(Re\-recorded\)](https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6) | 2:54 | 2023-07-29 | 2025-09-12 |
 | [Take Good Care of Yourself](https://open.spotify.com/track/5atFgDE8TM07EhCKkBIPlq) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:23 | 2023-05-02 | 2024-04-03 |

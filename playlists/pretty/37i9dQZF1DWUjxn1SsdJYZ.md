@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Allday
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,911 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,905 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,260 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,309 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 |
 | 2 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
-| 3 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
-| 4 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
-| 5 | [ROCK & ROLL](https://open.spotify.com/track/1GLaxuQ5M92J2rxQFO541O) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:05 |
-| 6 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
-| 7 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
-| 8 | [Mamma Mia](https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/2LfRsLiziLIEBljoMeH5VU) | 2:39 |
-| 9 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
+| 3 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 |
+| 4 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
+| 5 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
+| 6 | [ROCK & ROLL](https://open.spotify.com/track/1GLaxuQ5M92J2rxQFO541O) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:05 |
+| 7 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
+| 8 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
+| 9 | [Mamma Mia](https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/2LfRsLiziLIEBljoMeH5VU) | 2:39 |
 | 10 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
 | 11 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 |
 | 12 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/4amAvQMUbcN0DIyMbMmy7x) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/3EOXM6O9a3UZr5FaDyrgLL) | 2:48 |
@@ -69,24 +69,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 59 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 |
 | 60 | [HANDS UP](https://open.spotify.com/track/4mNPtNfIp4vSlW2z0I7Bgm) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:12 |
 | 61 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
-| 62 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
-| 63 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
-| 64 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
-| 65 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
-| 66 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 |
-| 67 | [コエ](https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [コエ](https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD) | 5:01 |
-| 68 | [La La Love Me](https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 3:05 |
-| 69 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 |
-| 70 | [Woh oh oh](https://open.spotify.com/track/5bX6cVBRNkMuLBeyQqc2i6) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Woh oh oh](https://open.spotify.com/album/3fbHuW3MOpRlCB897o89kb) | 2:38 |
-| 71 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
-| 72 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
-| 73 | [Icarus](https://open.spotify.com/track/2l2pKMAYOnoc9KcHPwiUCk) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus>](https://open.spotify.com/album/5h5Ort0gghTn9VgqsUzEvq) | 2:53 |
-| 74 | [WBTR](https://open.spotify.com/track/3KUk4lCHI6R247MAxTHjcw) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [WBTR](https://open.spotify.com/album/1EhaMdGrdxWwuEXekNJbrC) | 3:11 |
-| 75 | [TEA](https://open.spotify.com/track/2qYsC9SS321xSGXJe7TQME) | [VVS](https://open.spotify.com/artist/48I72itlO50Fhw7BImZ1XJ) | [TEA](https://open.spotify.com/album/6YlnFfeSTnmOAANOF19QA7) | 2:41 |
-| 76 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 |
-| 77 | [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 |
-| 78 | [LOVE, AFRAID](https://open.spotify.com/track/1pLMNDbYPRpYy1C5vtl3ke) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [MADEIN FOREVER](https://open.spotify.com/album/6HGJb9CKxgnIRdTsvY3Mey) | 3:12 |
-| 79 | [FREESTYLE](https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Growing Pain pt.1 : FREE](https://open.spotify.com/album/5Nfxo1U4jKI13JB4nPimOJ) | 2:20 |
-| 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
+| 62 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
+| 63 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
+| 64 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
+| 65 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 |
+| 66 | [コエ](https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [コエ](https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD) | 5:01 |
+| 67 | [La La Love Me](https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 3:05 |
+| 68 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 |
+| 69 | [Woh oh oh](https://open.spotify.com/track/5bX6cVBRNkMuLBeyQqc2i6) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Woh oh oh](https://open.spotify.com/album/3fbHuW3MOpRlCB897o89kb) | 2:38 |
+| 70 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
+| 71 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
+| 72 | [Icarus](https://open.spotify.com/track/2l2pKMAYOnoc9KcHPwiUCk) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus>](https://open.spotify.com/album/5h5Ort0gghTn9VgqsUzEvq) | 2:53 |
+| 73 | [WBTR](https://open.spotify.com/track/3KUk4lCHI6R247MAxTHjcw) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [WBTR](https://open.spotify.com/album/1EhaMdGrdxWwuEXekNJbrC) | 3:11 |
+| 74 | [TEA](https://open.spotify.com/track/2qYsC9SS321xSGXJe7TQME) | [VVS](https://open.spotify.com/artist/48I72itlO50Fhw7BImZ1XJ) | [TEA](https://open.spotify.com/album/6YlnFfeSTnmOAANOF19QA7) | 2:41 |
+| 75 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 |
+| 76 | [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 |
+| 77 | [LOVE, AFRAID](https://open.spotify.com/track/1pLMNDbYPRpYy1C5vtl3ke) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [MADEIN FOREVER](https://open.spotify.com/album/6HGJb9CKxgnIRdTsvY3Mey) | 3:12 |
+| 78 | [FREESTYLE](https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Growing Pain pt.1 : FREE](https://open.spotify.com/album/5Nfxo1U4jKI13JB4nPimOJ) | 2:20 |
+| 79 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAJFkX5v53LxGkd+PuygVzz35yasC`
+Snapshot ID: `AAAAACVb8SZCKRYchQDgJzw6sV3uevhL`

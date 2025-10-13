@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 63270,
+  "num_followers": 63287,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Only The Family - Lil Durk Presents: Loyal Bros",
         "url": "https://open.spotify.com/album/7HCh4HQHDNZkXphOzb6ugT"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 146844,
       "name": "Hellcats & Trackhawks",
       "url": "https://open.spotify.com/track/53tv6ZbyeAwfAUwFaxYbfO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Letter From Houston",
-      "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Letter From Houston",
+      "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Free Dem Boyz",
-        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Maybach (feat. Future)",
-      "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -347,26 +327,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Free Dem Boyz",
+        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+      "duration_ms": 199093,
+      "name": "Maybach (feat. Future)",
+      "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,6 +375,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Charlie, Last Name Wilson",
         "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 215866,
       "name": "Charlie, Last Name Wilson",
       "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -447,6 +431,42 @@
       "duration_ms": 212063,
       "name": "Already Won (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -479,66 +499,6 @@
       "duration_ms": 201546,
       "name": "Paid the Fine (feat. Lil Baby & YTB Trench)",
       "url": "https://open.spotify.com/track/0GqaZ1L5KAXMNngAZbGvLf"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Young & Turnt 2",
-        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 119409,
-      "name": "Been Turnt",
-      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 257604,
-      "name": "Way 2 Sexy (with Future & Young Thug)",
-      "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -579,26 +539,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Young & Turnt 2",
+        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 197133,
-      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
-      "url": "https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP"
+      "duration_ms": 119409,
+      "name": "Been Turnt",
+      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -615,6 +567,30 @@
       "duration_ms": 179997,
       "name": "Forever Set In Stone",
       "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 257604,
+      "name": "Way 2 Sexy (with Future & Young Thug)",
+      "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -639,42 +615,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Don\u2019t Matter To Me (with Michael Jackson)",
-      "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 195063,
-      "name": "Still Hood",
-      "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
+      "duration_ms": 197133,
+      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
+      "url": "https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -719,6 +679,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 195063,
+      "name": "Still Hood",
+      "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -751,22 +731,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Who Want Smoke?",
-        "url": "https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 152793,
-      "name": "Who Want Smoke?",
-      "url": "https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "SoulFly (Deluxe Version)",
         "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
@@ -783,6 +747,42 @@
       "duration_ms": 231771,
       "name": "Get Ready (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Don\u2019t Matter To Me (with Michael Jackson)",
+      "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Who Want Smoke?",
+        "url": "https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 152793,
+      "name": "Who Want Smoke?",
+      "url": "https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 126256,
       "name": "Vaccine",
       "url": "https://open.spotify.com/track/1t7H77FNwoit8U4NiXij66"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     }
   ],
   "unique_name": "Druski's Taste",

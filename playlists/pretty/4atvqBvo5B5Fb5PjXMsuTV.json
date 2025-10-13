@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Oct 03:08 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Oct 22:10 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVWeQyBWfuTcmmxJRSAvIPNsY4bpt0",
+  "snapshot_id": "AAAVW13UWl2Zu3RrnGhnO/BKxhIGthd5",
   "tracks": [
     {
       "added_at": "2025-10-10 08:10:50",
@@ -87,6 +87,22 @@
       "duration_ms": 198433,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/0Vtm21YdvqxfulouRscKMe"
+    },
+    {
+      "added_at": "2025-10-12 22:10:39",
+      "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
     },
     {
       "added_at": "2025-10-10 22:09:04",
@@ -211,6 +227,26 @@
       "duration_ms": 213990,
       "name": "homewrecker.",
       "url": "https://open.spotify.com/track/43pGFgVomDQYG4wB99ibJV"
+    },
+    {
+      "added_at": "2025-10-12 22:10:39",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/0bKTKn8gF2aYqqyH8h2maU"
+      },
+      "artists": [
+        {
+          "name": "Mecdoux",
+          "url": "https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q"
+        },
+        {
+          "name": "Chill Covers",
+          "url": "https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc"
+        }
+      ],
+      "duration_ms": 150267,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0c2Y7YWGOEDQTR1s7seczw"
     },
     {
       "added_at": "2025-10-09 22:06:31",
@@ -803,38 +839,6 @@
       "duration_ms": 211055,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF"
-    },
-    {
-      "added_at": "2025-10-01 22:04:51",
-      "album": {
-        "name": "Bar Lis",
-        "url": "https://open.spotify.com/album/3p43y2WV3sOwx6afL0N8y6"
-      },
-      "artists": [
-        {
-          "name": "Joeyy",
-          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
-        }
-      ],
-      "duration_ms": 155756,
-      "name": "Bar Lis",
-      "url": "https://open.spotify.com/track/7c4XrViMB9QrN6hcs03qWg"
-    },
-    {
-      "added_at": "2025-10-01 03:07:22",
-      "album": {
-        "name": "Itsumo",
-        "url": "https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 251477,
-      "name": "Itsumo",
-      "url": "https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw"
     }
   ],
   "unique_name": "New Singles Now",

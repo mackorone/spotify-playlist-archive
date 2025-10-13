@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-329 songs - 21 hr 55 min
+330 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [No One Ever Cared for Me Like Jesus](https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:53 | 2021-10-31 | 2024-06-23 |
 | [No One Knows](https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [No One Knows](https://open.spotify.com/album/67R1xZixrtROiZ1J6mBDlu) | 3:46 | 2025-08-08 |  |
 | [No Other King](https://open.spotify.com/track/79wC9jcNNVrLsLHRT85FsW) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Maria Segerholm](https://open.spotify.com/artist/1CbE4AxbU6uXsWuqNlHn5I) | [No Other King](https://open.spotify.com/album/0HbfaCYo5MGrbX4qDurc9T) | 4:18 | 2025-04-05 | 2025-08-09 |
+| [not alone](https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [not alone](https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o) | 2:17 | 2025-10-10 |  |
 | [Nothing but the Blood of Jesus](https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw) | [Lou Fellingham](https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ) | [Nothing but the Blood of Jesus](https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET) | 5:13 | 2024-07-26 | 2025-04-05 |
 | [Nothing Can Change Your Mind](https://open.spotify.com/track/140DfC12u1IlCu3JIvjNmo) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Nothing Can Change Your Mind](https://open.spotify.com/album/4Rb3YN9ZIiNiSut96h7usu) | 3:20 | 2025-08-08 |  |
 | [Nothing Else](https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [Nothing Else](https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm) | 4:24 | 2023-02-07 | 2024-04-19 |
@@ -240,7 +241,7 @@
 | [Return](https://open.spotify.com/track/7y4LIfIofUaaf3Oy2lPlFM) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [Return](https://open.spotify.com/album/5l2KQfrihfv6G3mKVORrGf) | 2:24 | 2025-04-05 | 2025-07-16 |
 | [Revelation Song \- Live](https://open.spotify.com/track/3SmrzlGlewpgvQHNTwrVOp) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Revelation Song \(Live\)](https://open.spotify.com/album/0lyBoS6KFAMvkRqxG24UrI) | 4:40 | 2023-02-07 | 2024-06-23 |
 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 | 2021-10-31 | 2025-08-09 |
-| [Rushing](https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Rushing](https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS) | 3:17 | 2024-07-26 |  |
+| [Rushing](https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Rushing](https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS) | 3:17 | 2024-07-26 | 2025-10-13 |
 | [Sabbath](https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Watobi](https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj) | [Sabbath](https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516) | 3:32 | 2024-06-23 | 2025-04-05 |
 | [Safe Place](https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:10 | 2023-02-07 | 2024-04-19 |
 | [Safe Place \- Acoustic](https://open.spotify.com/track/7Kz7ZQwo3NAGjGsdlc9rkQ) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place \(Acoustic\)](https://open.spotify.com/album/4AM1TkaWF2RRoHhgQ4i4te) | 2:58 | 2023-02-07 | 2024-04-19 |

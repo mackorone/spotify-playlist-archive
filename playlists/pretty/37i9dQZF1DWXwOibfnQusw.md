@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 26 | [Abre mis ojos Señor](https://open.spotify.com/track/5JtKa9IFa64S930qzTX26R) | [Niños Adorando](https://open.spotify.com/artist/1PYUF0VPXFO1yLg3heK1Nb) | [Niños Adorando Vol2](https://open.spotify.com/album/1sLgQdb9ZXuT8fXFClixPU) | 4:43 |
 | 27 | [Creemos Que Lo Harás](https://open.spotify.com/track/73T8cyCY1iKEYBBC4eC15p) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Buen Dios](https://open.spotify.com/album/0FQXX9CsG8UQzBirc7jLIy) | 3:41 |
 | 28 | [Tanto, Tanto](https://open.spotify.com/track/5BCH1ZplYx6KHsXN59Mn9e) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Jesús Es Super Fuerte](https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP) | 3:13 |
-| 29 | [El Amor de Dios](https://open.spotify.com/track/6i1GoQfwJdUvfibndDr5wE) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Colección](https://open.spotify.com/album/7IGAlGGKOpouXhOr9QY4oZ) | 3:02 |
-| 30 | [El Padre Abraham](https://open.spotify.com/track/4hFTrfayKWmdQWCiSbiq9T) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [El Guerrero David](https://open.spotify.com/album/6s6B6C8rvHS6pzDvJefB18) | 1:56 |
-| 31 | [La Creación](https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 3:09 |
+| 29 | [El Padre Abraham](https://open.spotify.com/track/4hFTrfayKWmdQWCiSbiq9T) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [El Guerrero David](https://open.spotify.com/album/6s6B6C8rvHS6pzDvJefB18) | 1:56 |
+| 30 | [La Creación](https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 3:09 |
+| 31 | [El Soñador José](https://open.spotify.com/track/1Iq30Zq9k9qFjGIxRLzeLG) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [Pequeños Heroes](https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl) | 2:59 |
 | 32 | [Creo en Ti](https://open.spotify.com/track/1RQnDgL3pRJzMUhog19Rol) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Creo en Ti](https://open.spotify.com/album/3BPOlDBdVoKcKSIkyjzk1V) | 3:22 |
-| 33 | [El Soñador José](https://open.spotify.com/track/1Iq30Zq9k9qFjGIxRLzeLG) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [Pequeños Heroes](https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl) | 2:59 |
-| 34 | [El Guerrero David](https://open.spotify.com/track/2aOEEgJcCikD2dqJLvpqfV) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [Pequeños Heroes](https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl) | 3:32 |
-| 35 | [Siempre Que Me Muevo](https://open.spotify.com/track/4ffiY4HwsRdFFmomDpthhS) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Siempre Que Me Muevo](https://open.spotify.com/album/3OpO3LBKii51mIGwH8uxBz) | 3:06 |
+| 33 | [El Guerrero David](https://open.spotify.com/track/2aOEEgJcCikD2dqJLvpqfV) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [Pequeños Heroes](https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl) | 3:32 |
+| 34 | [Siempre Que Me Muevo](https://open.spotify.com/track/4ffiY4HwsRdFFmomDpthhS) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Siempre Que Me Muevo](https://open.spotify.com/album/3OpO3LBKii51mIGwH8uxBz) | 3:06 |
+| 35 | [El Amor de Dios](https://open.spotify.com/track/6i1GoQfwJdUvfibndDr5wE) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Colección](https://open.spotify.com/album/7IGAlGGKOpouXhOr9QY4oZ) | 3:02 |
 
 Snapshot ID: `AAAAAKXd6v5efs0+3jVtK4N1Sxcro3c7`

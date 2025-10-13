@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,342 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,405 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 8 | [Arrival](https://open.spotify.com/track/0vWgUO8FjAaVNvddKmv0a9) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Arrival](https://open.spotify.com/album/1fCrE5s8CAoArPoFBRrQua) | 2:43 |
 | 9 | [A Sudden Change](https://open.spotify.com/track/3jcLMVueI71Vr1IS9LHLEU) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [A Sudden Change](https://open.spotify.com/album/7osoP3C0IrtpOyz2Zouike) | 2:48 |
 | 10 | [It's in the Details](https://open.spotify.com/track/5keTw2OzVACky7ElLZG9BV) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [It's in the Details](https://open.spotify.com/album/0Iid18lx8DrhR5UUZuk0mB) | 2:34 |
-| 11 | [New Years Ahead](https://open.spotify.com/track/6fcSVHWjOFkftmW0Ck3mS3) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [New Years Ahead](https://open.spotify.com/album/4dwpRqG7JlbdAYkXIpGdDF) | 2:16 |
-| 12 | [Conversations in the Night](https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Conversations in the Night](https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE) | 2:47 |
+| 11 | [Conversations in the Night](https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Conversations in the Night](https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE) | 2:47 |
+| 12 | [New Years Ahead](https://open.spotify.com/track/6fcSVHWjOFkftmW0Ck3mS3) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [New Years Ahead](https://open.spotify.com/album/4dwpRqG7JlbdAYkXIpGdDF) | 2:16 |
 | 13 | [Slowly Moving Forward](https://open.spotify.com/track/6Fd6aiIghztXABZu3yyMIi) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Slowly Moving Forward](https://open.spotify.com/album/09xYUcUWDC5UEHY9JKFKVy) | 2:31 |
-| 14 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
+| 14 | [Everything Happens to Me](https://open.spotify.com/track/34n5jH1GILDlv376VLMmDm) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Everything Happens to Me](https://open.spotify.com/album/1YCNmU1CSAyVsrEzw7oSNz) | 2:42 |
 | 15 | [Be Mine](https://open.spotify.com/track/3tPUKFwVYYA71e1rOlwIDb) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [Be Mine](https://open.spotify.com/album/42F6ToeNoU8B0P0hKLIutt) | 3:02 |
-| 16 | [Everything Happens to Me](https://open.spotify.com/track/34n5jH1GILDlv376VLMmDm) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Everything Happens to Me](https://open.spotify.com/album/1YCNmU1CSAyVsrEzw7oSNz) | 2:42 |
+| 16 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
 | 17 | [The last kiss](https://open.spotify.com/track/03jkyMuDhVI0nhpNxxvLgr) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [The last kiss](https://open.spotify.com/album/2KqrwvBUGKmKpJe7Z6uixJ) | 2:45 |
 | 18 | [Blue Note](https://open.spotify.com/track/0BzOZXNa54CINFXZMmphbX) | [Russell Preston](https://open.spotify.com/artist/4NsaPckmCaT1Va19CbRqig) | [Blue Note](https://open.spotify.com/album/0sPWUFAwOne7o6330rZeP2) | 2:42 |
 | 19 | [Summer with You](https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Summer with You](https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe) | 2:24 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 54 | [Carolina Sunset](https://open.spotify.com/track/2ac1BIT0RuWXRoDMXEN11v) | [James Auren](https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ) | [Carolina Sunset](https://open.spotify.com/album/1u4IEycALjH2c74yoRD6CD) | 3:40 |
 | 55 | [How Should I Know](https://open.spotify.com/track/0D3KPdUM0rYY455Lg6pnId) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [How Should I Know](https://open.spotify.com/album/1kgaRh1UG0wVAsroy0xWFO) | 2:47 |
 | 56 | [At Joe's](https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [At Joe's](https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma) | 2:26 |
-| 57 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
-| 58 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
+| 57 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
+| 58 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
 | 59 | [Slumber](https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Slumber](https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq) | 2:48 |
 | 60 | [Heart And Soul](https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs) | [Randall Peterson](https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140) | [Heart And Soul](https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4) | 3:13 |
 | 61 | [My Periscope](https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [My Periscope](https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb) | 2:23 |
-| 62 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
-| 63 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
+| 62 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
+| 63 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
 | 64 | [Last thought](https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Last thought](https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe) | 2:49 |
 | 65 | [I'm Safe with You](https://open.spotify.com/track/2GlF8jXAeJXy30Fz7xnHTY) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [I'm Safe with You](https://open.spotify.com/album/151qGQLppGbygpN7utgNj8) | 2:27 |
 | 66 | [A Trip Down Memory Lane](https://open.spotify.com/track/5vu73iGAuH5Lm5TYnEG46U) | [Nicola Gisin](https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s) | [A Trip Down Memory Lane](https://open.spotify.com/album/5imUoAQsH4jj4sBpG4oG5c) | 3:22 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 76 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
 | 77 | [Leave Us Fonder](https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe) | [Yuffin Joah](https://open.spotify.com/artist/33XuwZaY3Ku1OgM4f5xwz8) | [Leave Us Fonder](https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO) | 2:05 |
 | 78 | [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 |
-| 79 | [bygones](https://open.spotify.com/track/2HIMBX7Z4lUcgdXSQS33r5) | [Gabriel Haag](https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2) | [bygones](https://open.spotify.com/album/0HY70Iio9tJrqKfpO9289A) | 2:17 |
-| 80 | [Weekends with You](https://open.spotify.com/track/7gOcJewedIfxDJrPdqxHg2) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Weekends with You](https://open.spotify.com/album/28i4m64YAel0klLnDEbGat) | 3:01 |
+| 79 | [Weekends with You](https://open.spotify.com/track/7gOcJewedIfxDJrPdqxHg2) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Weekends with You](https://open.spotify.com/album/28i4m64YAel0klLnDEbGat) | 3:01 |
+| 80 | [bygones](https://open.spotify.com/track/2HIMBX7Z4lUcgdXSQS33r5) | [Gabriel Haag](https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2) | [bygones](https://open.spotify.com/album/0HY70Iio9tJrqKfpO9289A) | 2:17 |
 | 81 | [Peace is overrated](https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Peace is overrated](https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i) | 2:52 |
 | 82 | [You're glowing](https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [You're glowing](https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02) | 2:41 |
 | 83 | [All I Wanted](https://open.spotify.com/track/4bEsjrcPQhZuauI4adCc88) | [Akira Hashimoto](https://open.spotify.com/artist/1NLJJGw0aCGfG1lDNEbMMT) | [All I Wanted](https://open.spotify.com/album/5nBiVmlwgAj3rWSb87J2Ca) | 3:15 |

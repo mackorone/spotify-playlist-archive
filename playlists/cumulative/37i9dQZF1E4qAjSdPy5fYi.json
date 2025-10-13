@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, UrvTek, Joshua Lanuarii and more",
+  "description": "With UrvTek, STYXVII, Joshua Lanuarii and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 121110,
       "name": "$20",
       "url": "https://open.spotify.com/track/2T7CiH77MaDtr9I0pGL7iS"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 129417,
       "name": "Bees in my head - Remake",
       "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
@@ -963,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Can you take it?",
+        "url": "https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213683,
+      "name": "Can you take it?",
+      "url": "https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp"
+    },
+    {
+      "album": {
         "name": "CAN'T STOP",
         "url": "https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT"
       },
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
@@ -1304,7 +1326,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 201456,
       "name": "DEATHRAVE",
       "url": "https://open.spotify.com/track/6AcE5etPybYmRF656WUsae"
@@ -1376,7 +1398,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 140020,
       "name": "i talk to the stars",
       "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
@@ -2202,7 +2224,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 278700,
       "name": "i'm down",
       "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 99596,
       "name": "IDK",
       "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
@@ -2718,7 +2740,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -2914,7 +2936,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 96625,
       "name": "MANICa",
       "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
@@ -3590,7 +3612,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -4066,7 +4088,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 248000,
       "name": "Stay true",
       "url": "https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x"
@@ -4374,7 +4396,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 135529,
       "name": "The Ultimate Swag",
       "url": "https://open.spotify.com/track/3m5UPxagPp7T6hA7Kh7Iil"
@@ -4446,7 +4468,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
@@ -4544,7 +4566,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
@@ -4580,7 +4602,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 78233,
       "name": "want me dead",
       "url": "https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX"

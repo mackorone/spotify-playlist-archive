@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,592 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,599 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 11 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 12 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 |
 | 13 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
-| 14 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
-| 15 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
+| 14 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
+| 15 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
 | 16 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 |
-| 17 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
-| 18 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
-| 19 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
+| 17 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
+| 18 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
+| 19 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
 | 20 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 |
 | 21 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
 | 22 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |

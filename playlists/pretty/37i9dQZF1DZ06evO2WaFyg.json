@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 262284,
+  "num_followers": 262297,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAACUc9/hTovdjq5wEf5pKlPh",
+  "snapshot_id": "aOmeAAAAAADJbXe3NE3VqbfXZtQqBnUl",
   "tracks": [
     {
       "added_at": null,
@@ -42,15 +42,11 @@
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Pipe Down (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
+      "duration_ms": 230720,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/6D4FK8x2fG9edfjYo7yDON"
     },
     {
       "added_at": null,
@@ -119,22 +115,6 @@
       "duration_ms": 237983,
       "name": "Forever Ever (feat. Young Thug & Reese LAFLARE)",
       "url": "https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/6D4FK8x2fG9edfjYo7yDON"
     },
     {
       "added_at": null,
@@ -247,6 +227,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Pipe Down (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Season 3",
         "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
       },
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Walk Down (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Walk Down (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Yuck (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Yuck (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Pardon My Back (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Pardon My Back (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
     },
     {
       "added_at": null,
@@ -666,11 +666,15 @@
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Fucking Told U",
-      "url": "https://open.spotify.com/track/4NUUOQDq0W89tJCGYwXaW0"
+      "duration_ms": 220426,
+      "name": "On The News (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0fAyXonqZAgDQB2v5DjmNS"
     },
     {
       "added_at": null,
@@ -959,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -975,22 +995,6 @@
       "duration_ms": 160776,
       "name": "Never Hating (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,

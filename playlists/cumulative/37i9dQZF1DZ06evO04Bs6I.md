@@ -4,7 +4,7 @@
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 42 min
+69 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Guia\-me](https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Guia\-me](https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS) | 4:08 | 2023-07-09 | 2024-06-26 |
 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 | 2023-07-09 |  |
 | [História](https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:46 | 2023-07-09 |  |
+| [Lindo Jesus \- Ao Vivo](https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dependente de Deus \(Ao Vivo\)](https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh) | 4:02 | 2025-10-13 |  |
 | [Meu Filho \- Ao Vivo](https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN) | 6:42 | 2024-10-30 | 2025-09-10 |
 | [Minha Alma Te Ama \(Ao Vivo\)](https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:54 | 2024-08-24 |  |
 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 | 2023-07-09 |  |
@@ -56,7 +57,7 @@
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-09 |  |
 | [Palavras e Palavras \- Ao Vivo](https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Palavras e Palavras \(Ao Vivo\)](https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8) | 5:26 | 2025-07-04 |  |
 | [Preciso Entender \- Ao Vivo](https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:57 | 2023-07-09 |  |
-| [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 | 2023-07-09 |  |
+| [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 | 2023-07-09 | 2025-10-13 |
 | [Processo](https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:25 | 2023-07-09 |  |
 | [Resultado](https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Resultado](https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH) | 3:20 | 2023-07-09 |  |
 | [Saudade \- Ao Vivo](https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Saudade \(Ao Vivo\)](https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy) | 3:56 | 2023-07-22 |  |

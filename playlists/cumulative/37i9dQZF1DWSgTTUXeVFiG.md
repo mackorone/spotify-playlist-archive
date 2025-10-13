@@ -4,7 +4,7 @@
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-89 songs - 9 hr 20 min
+90 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Perdóname \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/2erJMHGqZ92OKvDIMuTut9) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:55 | 2022-03-18 |  |
 | [Perdóname / Lo Grande Que Es Perdonar \- Medley \(feat\. Vico C\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 8:20 | 2022-03-18 |  |
 | [Periódico De Ayer \- Live](https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:03 | 2022-03-18 | 2024-04-19 |
-| [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 | 2022-03-18 |  |
+| [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 | 2022-03-18 | 2025-10-13 |
 | [Que Manera De Quererte \- Live Version](https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 6:37 | 2024-03-19 |  |
 | [Quiero Morir en Tu Piel \- En Vivo](https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:04 | 2022-03-18 | 2024-04-19 |
 | [Quimbara \- Live](https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 6:01 | 2024-03-19 |  |
@@ -96,6 +96,7 @@
 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 | 2022-03-18 |  |
 | [Vivir Sin Ella \(feat\. Tito Nieves, Luis Enrique & Eddie Santiago\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 7:48 | 2022-03-18 |  |
 | [Vivir Sin Ella \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 8:37 | 2022-03-18 | 2023-08-30 |
+| [Yambeque \(feat\. José Alberto "El Canario"\)](https://open.spotify.com/track/0FcQUg9H6RC3fr7I8ecUpx) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [50 Aniversario, Vol.2](https://open.spotify.com/album/7ftFj2k39BuPU2jpiVAvkt) | 10:45 | 2024-09-24 |  |
 | [Yo No Sé Mañana \- Live Version](https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:43 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

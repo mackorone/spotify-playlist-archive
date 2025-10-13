@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41378,
+  "num_followers": 41379,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAZWAWwZJOey48IjYXggRIo",
+  "snapshot_id": "aOmeAAAAAACaufGgfFNpWIhj/ZXjwYMz",
   "tracks": [
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
       },
       "artists": [
         {
@@ -752,25 +752,9 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Santo (Tu Nombre Es)",
-      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Santo (Tu Nombre Es)",
+      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus People",
         "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 245621,
       "name": "Cristo Es Necesario",
       "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Pastor L\u00f3pez",
-  "num_followers": 127415,
+  "num_followers": 127412,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
         "name": "Mejor Que Antes",
         "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
+        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 7)",
+        "url": "https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 226184,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 248480,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 231890,
-      "name": "Entre Rejas",
-      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -503,18 +503,34 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 7)",
-        "url": "https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m"
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 226184,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8"
+      "duration_ms": 231890,
+      "name": "Entre Rejas",
+      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        }
+      ],
+      "duration_ms": 191772,
+      "name": "Todo el Mundo Necesita un Beso",
+      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -547,22 +563,6 @@
       "duration_ms": 243840,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        }
-      ],
-      "duration_ms": 191772,
-      "name": "Todo el Mundo Necesita un Beso",
-      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
         "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+        "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -839,6 +823,22 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 205893,
       "name": "Traicionera - Remastered",
       "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
-        "name": "Late Que Late",
-        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
-      },
-      "artists": [
-        {
-          "name": "Sonora Malec\u00f3n",
-          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Melosa",
-      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+        "name": "Late Que Late",
+        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
       },
       "artists": [
         {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+          "name": "Sonora Malec\u00f3n",
+          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
         }
       ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+      "duration_ms": 186293,
+      "name": "Melosa",
+      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -923,6 +907,22 @@
       "duration_ms": 220354,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "El P\u00e1jaro Amarillo",
-      "url": "https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
         "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
         "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 202673,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
+        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "El P\u00e1jaro Amarillo",
+      "url": "https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "Distancia 83",
-        "url": "https://open.spotify.com/album/3hxmMGEW4KzM4HBCsn0xUE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Bloom",
-          "url": "https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX"
-        }
-      ],
-      "duration_ms": 181001,
-      "name": "Distancia 83",
-      "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
-    },
-    {
-      "added_at": "2025-10-03 14:54:25",
-      "album": {
         "name": "Parrandero y Contentoso",
         "url": "https://open.spotify.com/album/7t3NeXK9jFRK42Z8dab5Tm"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2025-10-03 14:54:25",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+        "name": "Distancia 83",
+        "url": "https://open.spotify.com/album/3hxmMGEW4KzM4HBCsn0xUE"
       },
       "artists": [
         {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+          "name": "Lukas Bloom",
+          "url": "https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX"
         }
       ],
-      "duration_ms": 278826,
-      "name": "Quien Piensa En Ti",
-      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
+      "duration_ms": 181001,
+      "name": "Distancia 83",
+      "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
     },
     {
       "added_at": "2025-10-03 14:54:25",
@@ -1755,6 +1739,22 @@
       "duration_ms": 181269,
       "name": "El Mujeriego",
       "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
+    },
+    {
+      "added_at": "2025-10-03 14:54:25",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Quien Piensa En Ti",
+      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
     },
     {
       "added_at": "2025-10-03 14:54:25",

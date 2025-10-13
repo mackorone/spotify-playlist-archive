@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
-  "num_followers": 32106,
+  "num_followers": 32115,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "Synesthesia",
-        "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 309433,
-      "name": "Blue Bird",
-      "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
-    },
-    {
-      "added_at": "2025-10-07 15:00:17",
-      "album": {
         "name": "\u30de\u30a4\u30fb\u30c7\u30a3\u30a2\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 426600,
       "name": "\u30b5\u30d5\u30a1\u30ea",
       "url": "https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR"
+    },
+    {
+      "added_at": "2025-10-07 15:00:17",
+      "album": {
+        "name": "Synesthesia",
+        "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 309433,
+      "name": "Blue Bird",
+      "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
     },
     {
       "added_at": "2025-10-07 15:00:17",

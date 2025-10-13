@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-286 songs - 15 hr 2 min
+287 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Mama Aint Raise No Bitch](https://open.spotify.com/track/2mocjLoLMsV5ewrKWajuTI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 3:17 | 2024-06-14 |  |
 | [Maria](https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:34 | 2024-06-14 |  |
 | [Me vs\. Us](https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:17 | 2024-06-14 |  |
+| [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/7iCgU4gnWWpWu26kcSwtSC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:46 | 2025-10-12 |  |
 | [Mic Jack \[Feat\. Adam Levine, Sleepy Brown, Scar\]](https://open.spotify.com/track/4gQUCM9if4d2o081C90gEd) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D) | [BOOMIVERSE](https://open.spotify.com/album/2TT65TRU0tfy3wC8MhsX3F) | 3:22 | 2024-06-14 |  |
 | [Misunderstood](https://open.spotify.com/track/0jr7FK6kP2W9JFGsG4bYF4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:18 | 2025-07-02 |  |
 | [Money](https://open.spotify.com/track/2w3FZNLTxn91MqTc52VGgX) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs), [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1) | [Money](https://open.spotify.com/album/51aEjGuZ1s5o9dgiJBAiWT) | 2:18 | 2024-06-14 | 2025-06-28 |

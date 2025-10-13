@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,932 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,946 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 37 | [Cristo Te Amo](https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 5:59 |
 | 38 | [Danzando](https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 5:01 |
 | 39 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
-| 40 | [Milagros](https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 6:28 |
-| 41 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
+| 40 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
+| 41 | [Milagros](https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 6:28 |
 | 42 | [Eres Santo](https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK) | 6:51 |
 | 43 | [Pródigo](https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 7:30 |
 | 44 | [Encuentro Glorioso](https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Hacedor De Milagros](https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:42 |
 | 50 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
 
-Snapshot ID: `aOhMgAAAAADCKmr2WTqIzf2S9RU7F0g2`
+Snapshot ID: `aOmeAAAAAAD347h2ot37xmPu5Oyztn4O`

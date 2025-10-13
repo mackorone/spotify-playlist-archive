@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-833 songs - 1 day 16 hr 21 min
+835 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 | 2025-06-15 |
 | [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 |  |
 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 | 2024-12-13 |
-| [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 |  |
+| [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 | 2025-10-13 |
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2023-03-23 | 2024-03-21 |
 | [Adrift](https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Adrift](https://open.spotify.com/album/3nrhZs2qqfp7DtuofUjGfN) | 2:36 | 2024-02-08 | 2024-08-02 |
 | [Aere Perrenius](https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Aere Perrenius](https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y) | 3:22 | 2024-02-08 | 2025-02-02 |
@@ -39,6 +39,7 @@
 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 | 2024-01-17 | 2024-07-16 |
 | [Aetheris](https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma) | [Edge Of The Spiral](https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8) | [Aetheris](https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x) | 2:58 | 2024-06-18 | 2025-01-26 |
 | [Afterglow](https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Afterglow](https://open.spotify.com/album/3CBIrtuyWg8ZDqcnsw5tNu) | 2:39 | 2025-04-23 |  |
+| [Alleviation](https://open.spotify.com/track/4KfmNH5wWl4814cZ3Q84xe) | [Noctivelle](https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq) | [Alleviation](https://open.spotify.com/album/7uEi0Kp9gOsmgzalv0wL4x) | 2:21 | 2025-10-08 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2023-03-23 | 2024-02-09 |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2023-03-23 | 2024-02-09 |
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2023-03-23 | 2024-02-09 |
@@ -313,7 +314,7 @@
 | [Fractured Light](https://open.spotify.com/track/5blb4VAkKNX6wiPZia3ESb) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Fractured Light](https://open.spotify.com/album/7bmv0zkZnBOII4kEnAJRCd) | 3:20 | 2025-07-17 |  |
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-03-23 | 2024-02-09 |
 | [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-05 | 2025-01-09 |
-| [Fragmented Light](https://open.spotify.com/track/0CPyLkwaa3hTT0Pz9syd0l) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Fragmented Light](https://open.spotify.com/album/3uoMQghOUG6e3YNmJnPJl6) | 2:33 | 2025-02-04 |  |
+| [Fragmented Light](https://open.spotify.com/track/0CPyLkwaa3hTT0Pz9syd0l) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Fragmented Light](https://open.spotify.com/album/3uoMQghOUG6e3YNmJnPJl6) | 2:33 | 2025-02-04 | 2025-10-13 |
 | [Fragments of Time](https://open.spotify.com/track/6FbX0P2bgK1L3CYVSKerC3) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Fragments of Time](https://open.spotify.com/album/6USdPUjJ2RCIcwoZ7oaWcm) | 2:12 | 2024-12-12 | 2025-04-10 |
 | [Free Heart](https://open.spotify.com/track/20Swwc4vZdDM00QexotXce) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Completely](https://open.spotify.com/album/1i6EaebeCPg1TzIYjhFWhB) | 2:40 | 2023-03-23 | 2024-02-09 |
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-03-23 | 2024-06-21 |
@@ -839,6 +840,7 @@
 | [Zenthia](https://open.spotify.com/track/6A2swCV80Yu230xkYTPnlN) | [Mariam Ember](https://open.spotify.com/artist/4vzp7F6kLjddwAsJs1w7jK) | [Zenthia](https://open.spotify.com/album/5gJ78FZD42RWRspy2SjP4K) | 3:04 | 2025-09-23 |  |
 | [Zuma](https://open.spotify.com/track/29MAJChL6Clm5tKBCBvWTC) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Zuma](https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK) | 3:08 | 2024-01-17 | 2025-02-18 |
 | [Zweck](https://open.spotify.com/track/4izTO69HJBi2zPaOGMc75S) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Zweck](https://open.spotify.com/album/4bHRH3ucZjXAQbZfqes4rj) | 2:52 | 2023-03-23 | 2024-03-21 |
+| [Áureo](https://open.spotify.com/track/5TooMlsbZrt4LaLY454ncm) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Áureo](https://open.spotify.com/album/0g39Bu8NwE0N23T0DUSVAT) | 2:55 | 2025-10-08 |  |
 | [Éjszakai](https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Éjszakai](https://open.spotify.com/album/1L1moItugCPspJnsGIkKmL) | 2:32 | 2023-03-23 | 2024-01-18 |
 | [ÚðI](https://open.spotify.com/track/3m8XZRHnycaVI6hA1CDuBC) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [ÚðI](https://open.spotify.com/album/5lDrCt3Dz2aHYCd0aIoOKc) | 2:58 | 2024-07-09 | 2025-01-03 |
 

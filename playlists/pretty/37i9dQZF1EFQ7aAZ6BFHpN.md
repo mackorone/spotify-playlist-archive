@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537 likes - 158 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 539 likes - 158 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 9 | [I Love You Porgy \(from Porgy and Bess\)](https://open.spotify.com/track/1OLsRSQOgEj6jMjDaz0cOc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Legendary Best : High Priestess of Soul](https://open.spotify.com/album/0MvMsFq3B3aJiLQVxuAuq0) | 4:17 |
 | 10 | [It Ain't Necessarily So \- Remastered](https://open.spotify.com/track/3tUmRQBJARzfP9NINW0rl3) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Early Jazz \(Remastered\)](https://open.spotify.com/album/3tkyKRA9FbWaBBfccFQE0Z) | 4:42 |
 | 11 | [Nice Work If You Can Get It \- Remastered](https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:21 |
-| 12 | [A Foggy Day \(In London Town\)](https://open.spotify.com/track/2YaDdaM7JTVqEPUSy9wAPh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 2:31 |
+| 12 | [A Foggy Day \(In London Town\)](https://open.spotify.com/track/2MVNhgdiNYG8x7fwQFaK06) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6hcG1Pv1KmRjcQoAx0rhQL) | 2:32 |
 | 13 | [WISH \- Korean Ver.](https://open.spotify.com/track/7uRWaWF70gvKmLhpY3FuaJ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 |
 | 14 | [The Bones of You](https://open.spotify.com/track/6jbFN4H7mW6FK5kghNoWBQ) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 4:49 |
 | 15 | [Lullaby for String Quartet](https://open.spotify.com/track/2bOqEAbpUbCNeZmkUDJQo2) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Alexander String Quartet](https://open.spotify.com/artist/2d1RMcATjG2ZpHdFxxKhKS) | [Gershwin & Kern](https://open.spotify.com/album/4GNR8G5ihQV4gwm1FNC4ch) | 7:11 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `Ab+nBgAAAACnFpi55Cx62F6/y9kcZygF`
+Snapshot ID: `Ab+siAAAAADH8QVO9OGFjT6sB5zVQXtH`

@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 99164,
+  "num_followers": 99185,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABsDzy2BlPFSSOEeUG5x9oR",
+  "snapshot_id": "aOmeAAAAAAAD0EBsgUXPPqeTHdsScdix",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235711,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 194929,
       "name": "Chevrolet 4X4",
       "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235711,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
     },
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Charal",
-        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 202026,
-      "name": "El Charal",
-      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
+      "duration_ms": 172303,
+      "name": "Un Chamaco Sin Futuro",
+      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "El Charal",
+        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 172303,
-      "name": "Un Chamaco Sin Futuro",
-      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
+      "duration_ms": 202026,
+      "name": "El Charal",
+      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
     },
     {
       "added_at": null,

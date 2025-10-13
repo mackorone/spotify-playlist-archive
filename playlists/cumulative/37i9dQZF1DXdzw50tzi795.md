@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: WANYAi, Z9
 
-194 songs - 12 hr 35 min
+195 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-01-26 | 2024-02-01 |
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-04 | 2024-12-17 |
 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 | 2025-09-11 |  |
-| [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 |  |
+| [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 | 2025-10-13 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-08 |  |
 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 | 2025-04-28 |  |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2024-01-26 | 2024-03-11 |
@@ -160,6 +160,7 @@
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-26 |  |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-05-16 | 2025-04-17 |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2024-01-26 | 2024-04-12 |
+| [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 | 2025-10-12 |  |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-04-16 | 2025-06-20 |
 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 | 2024-01-26 | 2024-03-28 |
 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 | 2025-06-19 |  |

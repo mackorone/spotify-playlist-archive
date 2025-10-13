@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,010 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,134 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

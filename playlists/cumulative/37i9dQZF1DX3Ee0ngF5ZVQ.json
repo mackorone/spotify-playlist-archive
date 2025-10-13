@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Broke Umbrella",
+        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sacky Band",
+          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245589,
+      "name": "Broke Umbrella",
+      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
+    },
+    {
+      "album": {
         "name": "Bruised Orange (Chain of Sorrow)",
         "url": "https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE"
       },
@@ -6277,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "album": {
         "name": "Just Had to Be There",
         "url": "https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC"
       },
@@ -6426,7 +6462,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 212946,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
@@ -8260,7 +8296,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 182406,
       "name": "Over",
       "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"

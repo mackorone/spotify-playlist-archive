@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,796 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,844 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 3 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 |
 | 4 | [Zikr Tera](https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Rangrez](https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo) | 4:55 |
 | 5 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 |
-| 6 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 |
+| 6 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 |
 | 7 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 |
-| 8 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 |
+| 8 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 |
 | 9 | [Churi](https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz) | [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Naina De Buhe](https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp) | 6:00 |
 | 10 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 11 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |

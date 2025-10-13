@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 740132,
+  "num_followers": 740235,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366466,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 182733,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366466,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 287066,
-      "name": "Land of Confusion",
-      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 287066,
+      "name": "Land of Confusion",
+      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 160538,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "God's Gonna Cut You Down",
+        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
       },
       "artists": [
         {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
+      "duration_ms": 160538,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -831,6 +815,22 @@
       "duration_ms": 268560,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Age Of Ignorance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "Flagpole Sitta",
         "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 223003,
       "name": "Flagpole Sitta",
       "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "Age Of Ignorance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
         "name": "Rock 'n' Roll Fantasy",
         "url": "https://open.spotify.com/album/0RkumwOgVf3zr9AcYC4VdE"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 195133,
       "name": "Rock 'n' Roll Fantasy",
       "url": "https://open.spotify.com/track/2tnRDvnf6pldFNeHvGcBlc"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Wow That's What I Call Metalcore",
+          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
         }
       ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+      "duration_ms": 293732,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
     }
   ],
   "unique_name": "Rock Covers",

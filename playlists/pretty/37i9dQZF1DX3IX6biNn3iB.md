@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,780 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 29 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 30 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
 | 31 | [mis viejos](https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [mis viejos](https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5) | 4:00 |
-| 32 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
-| 33 | [LOSE YOURSELF.](https://open.spotify.com/track/3uwJeidmXdX89p197EV8u2) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [LOSE YOURSELF.](https://open.spotify.com/album/2yZFXPQdnKRwnuOcZkgaCo) | 2:59 |
+| 32 | [LOSE YOURSELF.](https://open.spotify.com/track/3uwJeidmXdX89p197EV8u2) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [LOSE YOURSELF.](https://open.spotify.com/album/2yZFXPQdnKRwnuOcZkgaCo) | 2:59 |
+| 33 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
 | 34 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
 | 35 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
 | 36 | [Me Tienes Loco](https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Me Tienes Loco](https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3) | 2:40 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 40 | [Luces](https://open.spotify.com/track/7sNJboWlN4I88AFP8b68Zb) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:22 |
 | 41 | [cuida](https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6) | [csndra](https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe), [Jvndro](https://open.spotify.com/artist/7e9EzUSlZ35veKoHzpa1P0) | [cuida](https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8) | 2:46 |
 | 42 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
-| 43 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
-| 44 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
+| 43 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
+| 44 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
 | 45 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
 | 46 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
 | 47 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |

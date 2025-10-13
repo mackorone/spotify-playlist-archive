@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26221,
+  "num_followers": 26228,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -531,34 +531,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Verklarte Nacht",
-        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Artemis Quartet",
-          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
-        },
-        {
-          "name": "Thomas Kakuska",
-          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
-        },
-        {
-          "name": "Valentin Erben",
-          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
-        }
-      ],
-      "duration_ms": 577160,
-      "name": "Strauss: Capriccio, Op. 85: Einleitung",
-      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Strauss, R.: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
       },
@@ -587,6 +559,34 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Verklarte Nacht",
+        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        },
+        {
+          "name": "Thomas Kakuska",
+          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
+        },
+        {
+          "name": "Valentin Erben",
+          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
+        }
+      ],
+      "duration_ms": 577160,
+      "name": "Strauss: Capriccio, Op. 85: Einleitung",
+      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -775,6 +775,30 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
+        "name": "Momentum [2]: Korngold, Strauss",
+        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Liya Petrova",
+          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
+        },
+        {
+          "name": "Alexandre Kantorow",
+          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
+        }
+      ],
+      "duration_ms": 508453,
+      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 276080,
       "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Momentum [2]: Korngold, Strauss",
-        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Liya Petrova",
-          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
-        },
-        {
-          "name": "Alexandre Kantorow",
-          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
-        }
-      ],
-      "duration_ms": 508453,
-      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
-      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
     },
     {
       "added_at": "2025-09-15 14:00:17",

@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Ahla Sodfa",
+        "url": "https://open.spotify.com/album/5Whxsm6Gg1VMp0pJxmmbwQ"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218734,
+      "name": "Ahla Sodfa",
+      "url": "https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE"
+    },
+    {
+      "album": {
         "name": "Ahla Watan",
         "url": "https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2"
       },
@@ -2782,6 +2800,24 @@
       "duration_ms": 84608,
       "name": "Ikhtiyari",
       "url": "https://open.spotify.com/track/7JDoh2Fjf8SGjUiXb4BcPh"
+    },
+    {
+      "album": {
+        "name": "Jabal Chamekh",
+        "url": "https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2025-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225815,
+      "name": "Jabal Chamekh",
+      "url": "https://open.spotify.com/track/699UW50gxSh976xtnckNmg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,836 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,856 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 21 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
 | 22 | [Zou Het Erg Zijn, Lieve Opa](https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi), [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Wilma](https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq) | 4:02 |
 | 23 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
-| 24 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |
-| 25 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
+| 24 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
+| 25 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |
 | 26 | [Teddybeer](https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Teddybeer](https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo) | 4:18 |
 | 27 | [Willem](https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1) | [Willem Duyn](https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c) | [Wat Maakt Dat Nou Uit](https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R) | 3:34 |
 | 28 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
 | 29 | [De Liefde Van De Man Gaat Door De Maag \(Worstjes Op M'n Borstjes\)](https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 3:20 |
 | 30 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
-| 31 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
-| 32 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
+| 31 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
+| 32 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
 | 33 | [Ik Zie Een Ster](https://open.spotify.com/track/36ZnMUDoSrGUV8moDcilOF) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 2:56 |
 | 34 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
 | 35 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |

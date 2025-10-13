@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Mos Def
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,144 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,387 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 2 | [Full Clip](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:37 |
 | 3 | [Dance With The Devil](https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa) | [Revolutionary, Vol\. 1](https://open.spotify.com/album/5oSeZDMpbXW5E9v13kDicA) | 9:39 |
 | 4 | [Mathematics](https://open.spotify.com/track/3gRlmtdCyNoKiyozn2pqc9) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 4:06 |
-| 5 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
+| 5 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
 | 6 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 |
 | 7 | [The Red](https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 3:22 |
 | 8 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 12 | [Hip Hop](https://open.spotify.com/track/4gQdwwPXSXnDkUh4jYqLoC) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:16 |
 | 13 | [For Da Love of Da Game](https://open.spotify.com/track/3foFOqlXGU5TvRP4yr4CcM) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Pauly Ymaz](https://open.spotify.com/artist/1DZ4Id03HYsTfcN7NqAtBS), [Baby Blak](https://open.spotify.com/artist/581JxgGYNqwk7jYPYswyTP) | [The Magnificent / Beat Generation](https://open.spotify.com/album/1yTx8UFW6xaNQrkAQQ6MOC) | 3:47 |
 | 14 | [Above The Clouds](https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:41 |
-| 15 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
+| 15 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
 | 16 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 |
 | 17 | [Fortfied Live](https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mr Man](https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 5:11 |
 | 18 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |

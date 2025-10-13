@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-187 songs - 10 hr 28 min
+188 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 | 2023-12-01 | 2025-05-03 |
 | [Bright Lights](https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:33 | 2023-12-01 | 2025-05-03 |
 | [Bring It Back](https://open.spotify.com/track/0buwgzsh8fD57lvbXxyROq) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Badrapper](https://open.spotify.com/artist/1Bl3QCicq2EeV9mY4GLtBP) | [Bring It Back](https://open.spotify.com/album/2ObKAtseS82uSdYRXVj7t0) | 2:30 | 2023-12-01 | 2025-03-15 |
+| [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 | 2025-10-12 |  |
 | [CAN YOU SEE ME?](https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [CAN YOU SEE ME?](https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O) | 2:21 | 2024-02-16 | 2024-11-09 |
 | [Celeste](https://open.spotify.com/track/752zVBaA1LL8glTSAE4NFF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Celeste](https://open.spotify.com/album/2tVjIqXhXzuAvvUrth1sHZ) | 3:58 | 2024-08-30 | 2024-11-09 |
 | [Check It](https://open.spotify.com/track/787DSlF1TBLbuhQpMwIfQP) | [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [2Point](https://open.spotify.com/artist/2UJ2r33q0mvsJAsixQZZCo) | [Check It](https://open.spotify.com/album/1MIzD3it6Op0anzYO6EbPc) | 3:46 | 2023-12-01 | 2025-03-15 |

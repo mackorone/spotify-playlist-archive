@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 9 hr 28 min
+180 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Out My Mind \(Radio Edit\)](https://open.spotify.com/track/70p6I136qdvKKQExxwfuHO) | [Kayper](https://open.spotify.com/artist/7eX82EeZz6qIASWIsheMlv) | [Out My Mind \(Radio Edit\)](https://open.spotify.com/album/5fp53L7e6svWWHj6Mqxi1z) | 3:36 | 2024-01-29 |  |
 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 | 2024-01-29 |  |
 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 | 2024-01-29 |  |
-| [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2024-01-29 |  |
+| [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2024-01-29 | 2025-10-13 |
+| [Past Life](https://open.spotify.com/track/6YOkAimrhx6nsLEwqfJoJv) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 3:16 | 2025-10-12 |  |
 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 | 2024-01-29 |  |
 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 | 2024-01-29 |  |
 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 | 2024-01-29 |  |

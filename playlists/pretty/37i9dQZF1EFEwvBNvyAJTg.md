@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 185 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 185 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 35 | [Side Effects](https://open.spotify.com/track/2aAksX61WFBUxWayOhEDJn) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:33 |
 | 36 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
 | 37 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
-| 38 | [LaserLight](https://open.spotify.com/track/1dG3YWhLiTyFfTJyT2DanJ) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:31 |
-| 39 | [Who's Laughing Now](https://open.spotify.com/track/4j0IWZ8k3r7BFhuAuCM4uc) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Int'l Version\)](https://open.spotify.com/album/3KJBsmsJQK5timf0TESYUg) | 3:54 |
+| 38 | [Who's Laughing Now](https://open.spotify.com/track/4j0IWZ8k3r7BFhuAuCM4uc) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Int'l Version\)](https://open.spotify.com/album/3KJBsmsJQK5timf0TESYUg) | 3:54 |
+| 39 | [LaserLight](https://open.spotify.com/track/1dG3YWhLiTyFfTJyT2DanJ) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:31 |
 | 40 | [Kite](https://open.spotify.com/track/41FeK6ujXWI509FfrRJ72L) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 2:45 |
 | 41 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
 | 42 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 71 | [HOT STEPPA](https://open.spotify.com/track/3XmtcI1fONYFrGHGVpGxPa) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [HOT STEPPA](https://open.spotify.com/album/3PexIX2Jh9Dpd9ol6dBqoV) | 2:49 |
 | 72 | [Why Can’t I Have Two? \(2468\)](https://open.spotify.com/track/2yxoUbky67EEftHoYZQqT0) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:19 |
 | 73 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
-| 74 | [Children](https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:41 |
-| 75 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 76 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 74 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 75 | [Children](https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:41 |
+| 76 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 77 | [TRU COLOURS](https://open.spotify.com/track/21hHgR94daVcQVeEcN5I9p) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [TRU COLOURS](https://open.spotify.com/album/1QfCrFRYFrTx5ylBDskthR) | 2:52 |
 | 78 | [Throw It Down](https://open.spotify.com/track/5HSncYIiSbQ7BQbhKBoHQh) | [Dominique Young Unique](https://open.spotify.com/artist/6e9YXVneoNtzARrkVUauiz) | [Throw It Down](https://open.spotify.com/album/288UGY9vHGwSEzz95hJYKp) | 3:16 |
 | 79 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 184 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 185 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab+nBgAAAADure6OLGHYwds7UDUaIp18`
+Snapshot ID: `Ab+snAAAAAAdiVjsLx84OkbJ87puvn3n`

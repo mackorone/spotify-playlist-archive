@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: NoSo",
-  "num_followers": 1675857,
+  "num_followers": 1675815,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
@@ -551,6 +567,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Feel It (From \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -563,22 +595,6 @@
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -615,22 +631,6 @@
       "duration_ms": 188198,
       "name": "Love Me Not (feat. Rex Orange County)",
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "d\u00a3aler",
-        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "d\u00a3aler",
-      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Just Two Girls",
-      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 232597,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1231,6 +1215,22 @@
       "duration_ms": 194038,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
@@ -1347,38 +1363,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "Two New Malcolm Todd Songs",
-        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "You Owe Me",
-      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Two New Malcolm Todd Songs",
+        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "You Owe Me",
+      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "tolerance",
         "url": "https://open.spotify.com/album/4sIcBCrZRD6yStBxSF3BnE"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Suburbs",
         "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 184970,
       "name": "Suburbs",
       "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": "2025-10-10 04:00:42",

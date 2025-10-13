@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16417,
+  "num_followers": 16420,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAABkEC3HO7uAvJPelLNV9kh1",
+  "snapshot_id": "aOmeAAAAAACe1Re80Xo81rfS3NlmFJ0V",
   "tracks": [
     {
       "added_at": null,
@@ -603,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Black Country: The Songs of Alice Randall",
-        "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Big Dream",
-      "url": "https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up and Rolling (feat. Son Little and Valerie June)",
         "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Black Country: The Songs of Alice Randall",
+        "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Big Dream",
+      "url": "https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg"
     },
     {
       "added_at": null,

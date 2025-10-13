@@ -4,7 +4,7 @@
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 34 min
+98 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Illuminate the Path](https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:48 | 2025-03-30 |  |
 | [In the Eye of the Storm](https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:09 | 2022-08-30 | 2025-08-24 |
 | [In the Eye of the Storm](https://open.spotify.com/track/7iBVUp42yQBW5y8nDXrXG1) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [In the Eye of the Storm](https://open.spotify.com/album/2tH0JMPopirEbcf3pbGwA0) | 4:09 | 2022-07-15 | 2022-08-27 |
+| [Lachrymatory](https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 3:50 | 2025-10-13 |  |
 | [Leader of the Rats](https://open.spotify.com/track/1qOzN09z3hBMfcUBaBi40Q) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:20 | 2022-05-30 |  |
 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 | 2024-10-19 | 2025-04-02 |
 | [March of the Miscreants](https://open.spotify.com/track/37S5w1GMtRSPamMfT7SOTH) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:49 | 2025-03-30 |  |

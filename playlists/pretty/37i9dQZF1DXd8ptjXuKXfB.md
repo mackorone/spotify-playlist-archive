@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,523 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,524 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 72 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 |
 | 73 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
 | 74 | [Beházasodtam](https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa) | [HRflow](https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk) | [Beházasodtam](https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY) | 2:26 |
-| 75 | [LOMBKORONÁK](https://open.spotify.com/track/20NIEH3lWXTxGbJ54YvMIT) | [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN) | [LOMBKORONÁK](https://open.spotify.com/album/3DOA9PecPwZ0Qsr5n0cPao) | 2:50 |
+| 75 | [JUICY](https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [JUICY](https://open.spotify.com/album/3dBxIm63bMFJfX2GUGkSRO) | 3:48 |
 | 76 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 |
 | 77 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
-| 78 | [JUICY](https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [JUICY](https://open.spotify.com/album/3dBxIm63bMFJfX2GUGkSRO) | 3:48 |
+| 78 | [LOMBKORONÁK](https://open.spotify.com/track/20NIEH3lWXTxGbJ54YvMIT) | [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN) | [LOMBKORONÁK](https://open.spotify.com/album/3DOA9PecPwZ0Qsr5n0cPao) | 2:50 |
 | 79 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
 | 80 | [Love Story](https://open.spotify.com/track/0BywaTkttaSOAoHTitOly3) | [Mikee Mykanic](https://open.spotify.com/artist/5PjhmqjtE8y3WeS96xSmQu), [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [NEHÉZFAME](https://open.spotify.com/album/7zivpKIat95GgeWt6wanUH) | 3:18 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,085 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,199 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

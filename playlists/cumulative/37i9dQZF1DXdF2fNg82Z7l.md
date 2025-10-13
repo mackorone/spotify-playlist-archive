@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-265 songs - 14 hr 0 min
+266 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 | 2025-04-29 | 2025-06-09 |
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2024-03-14 | 2024-10-05 |
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2024-10-04 |  |
-| [Lookin](https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:03 | 2024-10-04 |  |
+| [Lookin](https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:03 | 2024-10-04 | 2025-10-13 |
 | [Love Is All We Need](https://open.spotify.com/track/2HbfUVcfYzkrHVuWwaIz7B) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Sianne](https://open.spotify.com/artist/13KCq8jY8uENeNrmer60fO) | [Love Is All We Need](https://open.spotify.com/album/6IUVVQqYJTZQOQ3Iex2MGS) | 3:38 | 2025-05-23 | 2025-07-25 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-10-04 |  |
 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/5FFUDCkMjxuK6XQZNumN55) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:44 | 2024-10-04 | 2025-02-07 |
@@ -141,6 +141,7 @@
 | [Mrs Jackson](https://open.spotify.com/track/1iBNncmjjRszayirWYUIKd) | [ANESU](https://open.spotify.com/artist/2dBAfmK5RxUTftfnjDtfvO) | [Mrs Jackson](https://open.spotify.com/album/5X3a3g2WqASikPm7TyVQX7) | 2:39 | 2024-03-14 | 2024-07-30 |
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-10-04 |  |
 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 | 2025-04-29 |  |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-13 |  |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-10-04 |  |
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-10-04 |  |
 | [Never Unlove](https://open.spotify.com/track/5DAh70C3AD3mt4LZY6cUXT) | [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Never Unlove](https://open.spotify.com/album/66amADLG6u8BsffjbDFIS4) | 3:16 | 2025-05-23 | 2025-07-25 |

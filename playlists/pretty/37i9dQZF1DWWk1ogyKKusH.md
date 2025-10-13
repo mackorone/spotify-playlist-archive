@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk1ogyKKusH.md) - [plain]
 
 > Lose Yourself to Dance\. Listen to all music from Fortnite Daft Punk Experience here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,222 likes - 30 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,585 likes - 30 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk1ogyKKusH.md) - [plain]
 | 29 | [Robot Rock](https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:47 |
 | 30 | [Motherboard](https://open.spotify.com/track/79koEJRtKOOGJ0VSAF3FMk) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:41 |
 
-Snapshot ID: `AAAAAGiOoYGrprxar2K/T3dozT42OH5W`
+Snapshot ID: `AAAAAL7lqL4SDniqmVApSoz92U1d0vyS`

@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266440,
+      "name": "\u304b\u305f\u3063\u307d\u306e\u9774\u4e0b",
+      "url": "https://open.spotify.com/track/4nqWZMFugiaMgOHTbg1nP3"
+    },
+    {
+      "album": {
         "name": "HUMAN",
         "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
@@ -1450,6 +1468,24 @@
       "duration_ms": 95280,
       "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e -TV size-",
       "url": "https://open.spotify.com/track/1SSFwlcRoRb9dUVKd6PjM3"
+    },
+    {
+      "album": {
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214013,
+      "name": "\u30b3\u30fb\u30b3\u30fb\u30ed",
+      "url": "https://open.spotify.com/track/5Cin0YCToQrQo7cECQa37X"
     },
     {
       "album": {
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 266093,
       "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc",
       "url": "https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e"
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 215080,
       "name": "\uff13\uff13\uff14\uff11\u3088",
       "url": "https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC"

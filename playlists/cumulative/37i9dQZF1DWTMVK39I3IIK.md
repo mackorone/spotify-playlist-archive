@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Mathias Ranch
 
-327 songs - 16 hr 38 min
+328 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Lad Dig Gå](https://open.spotify.com/track/5aLQybTzAGTgbY9QFkMzMH) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Lad Dig Gå](https://open.spotify.com/album/2e4MVybCUxC94Ic5obJPvA) | 2:57 | 2025-04-17 | 2025-08-01 |
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
 | [Last Time](https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Last Time](https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5) | 2:42 | 2025-06-05 | 2025-06-13 |
+| [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [Sodalite](https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S) | 4:08 | 2025-10-09 |  |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 | 2025-07-24 |
 | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 | 2025-08-10 |
@@ -301,7 +302,7 @@
 | [Uheldig](https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Uheldig](https://open.spotify.com/album/2hE13utkQDgMP4jnbedxOd) | 2:34 | 2024-07-04 | 2024-08-26 |
 | [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 | 2024-08-23 | 2024-09-12 |
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 | 2025-01-10 |
-| [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 | 2025-07-31 |  |
+| [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 | 2025-07-31 | 2025-10-13 |
 | [Un \(Done\)](https://open.spotify.com/track/0NlQLgOZnIgeXnI33NgW8i) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [\(Un\) Done](https://open.spotify.com/album/2ZBw1VZX0sZeVUopv5pKT6) | 2:16 | 2025-07-03 | 2025-07-11 |
 | [Under Din Sne](https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ) | 4:24 | 2024-06-27 | 2025-01-24 |
 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 | 2025-05-01 | 2025-10-10 |

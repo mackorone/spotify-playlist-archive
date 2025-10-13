@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 927542,
+  "num_followers": 927582,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAA/KD4VGRNswJMf0W/69R1s",
+  "snapshot_id": "aOmeAAAAAAD7CkL5OgPdRBBnnvCdUFfR",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "on the street (with J. Cole)",
-        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 214701,
-      "name": "on the street (with J. Cole)",
-      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 278573,
       "name": "Crooked Smile (feat. TLC)",
       "url": "https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "on the street (with J. Cole)",
+        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 214701,
+      "name": "on the street (with J. Cole)",
+      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
       "added_at": null,
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
       },
       "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 237853,
-      "name": "Sideline Story",
-      "url": "https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f"
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
     }
   ],
   "unique_name": "This Is J. Cole",

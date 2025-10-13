@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mathias Ranch",
-  "num_followers": 47076,
+  "num_followers": 47074,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Kan Du M\u00e6rke Suset?",
+        "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 240917,
+      "name": "Klip Klap Sandaler",
+      "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "I Made It (feat. Andreas Odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 200875,
       "name": "Rend Mig I R\u00f8ven",
       "url": "https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Kan Du M\u00e6rke Suset?",
-        "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 240917,
-      "name": "Klip Klap Sandaler",
-      "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Dagdr\u00f8mmeri",
         "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
       },
@@ -375,22 +359,6 @@
       "duration_ms": 188963,
       "name": "Dagdr\u00f8mmeri",
       "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
-      },
-      "artists": [
-        {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
-        }
-      ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -411,18 +379,34 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Scandalous",
-        "url": "https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ"
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
       "artists": [
         {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 160914,
-      "name": "Scandalous",
-      "url": "https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK"
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -443,18 +427,18 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Goodbyehouse",
-        "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
+        "name": "Scandalous",
+        "url": "https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ"
       },
       "artists": [
         {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
         }
       ],
-      "duration_ms": 150416,
-      "name": "Driving me crazy",
-      "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
+      "duration_ms": 160914,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -479,18 +463,34 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+        "name": "Goodbyehouse",
+        "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
         }
       ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+      "duration_ms": 150416,
+      "name": "Driving me crazy",
+      "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
       "artists": [
         {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
-      },
-      "artists": [
-        {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
-        }
-      ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "P\u00c5 TIL DET SAMME",
         "url": "https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 116259,
       "name": "P\u00c5 TIL DET SAMME",
       "url": "https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "H\u00e6ng En Mand",
+        "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "H\u00e6ng En Mand",
+      "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "You Don't Wanna Be Mine",
         "url": "https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 159056,
       "name": "You Don't Wanna Be Mine",
       "url": "https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/56nT96slSLaC6UL8d0VIQH"
-      },
-      "artists": [
-        {
-          "name": "Holdo",
-          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/57zAO3UAUe7aP3rjrVAYJR"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/56nT96slSLaC6UL8d0VIQH"
+      },
+      "artists": [
+        {
+          "name": "Holdo",
+          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/57zAO3UAUe7aP3rjrVAYJR"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 199313,
       "name": "F\u00f8rhen",
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "H\u00e6ng En Mand",
-        "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "H\u00e6ng En Mand",
-      "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "How Does It Make U Feel",
-        "url": "https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg"
-      },
-      "artists": [
-        {
-          "name": "Betty Bass",
-          "url": "https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "How Does It Make U Feel",
-      "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Fanget I En Dr\u00f8m",
         "url": "https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 172235,
       "name": "Fanget I En Dr\u00f8m",
       "url": "https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "How Does It Make U Feel",
+        "url": "https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg"
+      },
+      "artists": [
+        {
+          "name": "Betty Bass",
+          "url": "https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "How Does It Make U Feel",
+      "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "shout pillow",
-        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
-      },
-      "artists": [
-        {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
-        }
-      ],
-      "duration_ms": 141677,
-      "name": "shout pillow",
-      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Fri",
         "url": "https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 167007,
       "name": "Fri",
       "url": "https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "shout pillow",
+        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
+      },
+      "artists": [
+        {
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+        }
+      ],
+      "duration_ms": 141677,
+      "name": "shout pillow",
+      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "R\u00f8dt Flag",
-        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
-      },
-      "artists": [
-        {
-          "name": "Zira",
-          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
-        }
-      ],
-      "duration_ms": 147739,
-      "name": "R\u00f8dt Flag",
-      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Words for Myself",
         "url": "https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z"
       },
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Umuligt",
-        "url": "https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI"
+        "name": "R\u00f8dt Flag",
+        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
       },
       "artists": [
         {
-          "name": "Patrick Walshe",
-          "url": "https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK"
+          "name": "Zira",
+          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
         }
       ],
-      "duration_ms": 186681,
-      "name": "Umuligt",
-      "url": "https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1"
+      "duration_ms": 147739,
+      "name": "R\u00f8dt Flag",
+      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Sodalite",
+        "url": "https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S"
+      },
+      "artists": [
+        {
+          "name": "Jaleesa",
+          "url": "https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4"
+        }
+      ],
+      "duration_ms": 248041,
+      "name": "Let Love In",
+      "url": "https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR"
     }
   ],
   "unique_name": "ung kniv ",

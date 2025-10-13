@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194403,
+      "name": "Creator",
+      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
+    },
+    {
+      "album": {
         "name": "Precipice",
         "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
       },
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-13",
       "duration_ms": 201896,
       "name": "Silver Screens",
       "url": "https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH"

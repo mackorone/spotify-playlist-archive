@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48537,
+  "num_followers": 48538,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADKczFhvrPuxG6T8hX3QmkA",
+  "snapshot_id": "aOmeAAAAAADu7qlLt4NnPwAbUMh5mEsQ",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+      "duration_ms": 242693,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 242693,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
+      "duration_ms": 191796,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+      "duration_ms": 171640,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
       "artists": [
         {
@@ -664,15 +664,15 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+      "duration_ms": 219906,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invented (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Movielike",
-      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 160826,
-      "name": "Action Needs An Audience",
-      "url": "https://open.spotify.com/track/4wWQfo5vHRiwDsAVVEPPVn"
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "You Are Free",
+      "url": "https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm"
     }
   ],
   "unique_name": "This Is Jimmy Eat World",

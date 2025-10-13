@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: BOY SODA
 
-471 songs - 1 day 2 hr 12 min
+472 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 | 2025-08-21 |  |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 |  |
 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-26 | 2025-07-25 |
-| [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 | 2025-06-26 |  |
+| [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 | 2025-06-26 | 2025-10-13 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-04-25 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2024-05-31 | 2024-11-02 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-31 |  |
@@ -417,6 +417,7 @@
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-05-22 | 2025-08-03 |
 | [The Long Road](https://open.spotify.com/track/1tQ4HWy7mZwHoValxwQD76) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [The Long Road](https://open.spotify.com/album/5kaT5I1IWXC0wzd1cFZtt5) | 3:47 | 2025-04-08 | 2025-04-18 |
 | [The Other Side \(feat\. Gordi\)](https://open.spotify.com/track/7qamM6CMbIDWh0o6XYiLdY) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [The Other Side](https://open.spotify.com/album/73IHBuG4978drite6milKs) | 3:49 | 2025-05-15 | 2025-05-23 |
+| [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 | 2025-10-09 |  |
 | [The Suburbs](https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw) | 3:08 | 2025-08-21 | 2025-10-03 |
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2024-05-31 | 2024-09-07 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2024-05-31 | 2025-04-04 |

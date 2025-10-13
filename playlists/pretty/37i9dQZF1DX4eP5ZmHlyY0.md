@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,395 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,428 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 3 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [CxM 1st Mini Album ‘HYPE VIBES’](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 |
 | 4 | [ICONIK](https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/5IW8xxg85CGHRAMsiW0VLJ) | 3:13 |
 | 5 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 |
-| 6 | [ATAMI](https://open.spotify.com/track/3ajXAg7HBTYXylCWh9PSkT) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 2:37 |
-| 7 | [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 |
+| 6 | [BOOST](https://open.spotify.com/track/0aZo9k3b4kOrtq36ZmcJLh) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BOOST](https://open.spotify.com/album/1f1Dqbf05nnLcoCPVOn9BN) | 3:44 |
+| 7 | [ATAMI](https://open.spotify.com/track/3ajXAg7HBTYXylCWh9PSkT) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 2:37 |
 | 8 | [PARADISE](https://open.spotify.com/track/1hnUnUBYHDwjTbz3UbYibb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/4OhWb329ph6bDQPT7YkYJ8) | 2:50 |
 | 9 | [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 |
 | 10 | [Ash](https://open.spotify.com/track/0k7wgQsVXg6ojBukAleznY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [n \(number of cases\)](https://open.spotify.com/track/33nC9lajf4bWI12PooiOKF) | [NouerA](https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI) | [n: number of cases](https://open.spotify.com/album/2TqBXeAVeC8lQ1ThQqjY4I) | 2:53 |
 | 80 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
 
-Snapshot ID: `AAAAAMITeOxFod1LmR0wFTs8Tl175u0G`
+Snapshot ID: `AAAAALZr7vXqZlpgzRK9SN1gheH6ZWYX`

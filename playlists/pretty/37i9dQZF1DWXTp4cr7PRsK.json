@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 9418,
+  "num_followers": 9417,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Pluto x Baby Pluto (Deluxe)",
+        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 186842,
+      "name": "Over Your Head",
+      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "hooligan / sons & critics",
         "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
       },
@@ -347,62 +367,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+        "name": "Dance Like No One's Watching",
+        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 207243,
-      "name": "Respect It (with Hit-Boy feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Pluto x Baby Pluto (Deluxe)",
-        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 186842,
-      "name": "Over Your Head",
-      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Barnacles",
-        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "Barnacles",
-      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
+      "duration_ms": 211396,
+      "name": "Dance Like No One\u2019s Watching",
+      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -431,18 +407,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Dance Like No One's Watching",
-        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
       "artists": [
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 211396,
-      "name": "Dance Like No One\u2019s Watching",
-      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
+      "duration_ms": 207243,
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
     },
     {
       "added_at": "2022-10-01 16:00:00",

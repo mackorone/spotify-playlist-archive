@@ -4,10 +4,11 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 30 min
+54 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5 dagen weekend](https://open.spotify.com/track/6NDzmMrUG5gUBAnmP1R0KU) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:28 | 2025-10-13 |  |
 | [Achtbaan](https://open.spotify.com/track/7p3slO869Q0TbfG0tG7zGf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:43 | 2025-08-19 |  |
 | [Avond4daagse](https://open.spotify.com/track/5imoXApElqf4AO2qII2154) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Avond4daagse](https://open.spotify.com/album/7MqclfatuiMarKIn6L5LBG) | 2:47 | 2025-08-19 |  |
 | [Baila bailalaa](https://open.spotify.com/track/3giTSv6iUSgwRxS7Op9Liv) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Baila bailalaa](https://open.spotify.com/album/3zMc3qEDZNtlrqlrZ9jKuH) | 2:56 | 2025-08-19 |  |
@@ -51,11 +52,12 @@
 | [Twee minuten stilte](https://open.spotify.com/track/7etqkP8tZod4ffgxA0Jv6k) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Twee minuten stilte](https://open.spotify.com/album/5x7NYtsI4DAzYyLPiWMXS1) | 3:13 | 2025-08-19 |  |
 | [Vakantie in de tuin](https://open.spotify.com/track/2auDClMxhLFb9A5zv6wuVt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vakantie in de tuin](https://open.spotify.com/album/4rRVf4VkJ0q1pW9rRXPxtN) | 2:54 | 2025-08-19 |  |
 | [Vol avontuur](https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vol avontuur](https://open.spotify.com/album/1txxR6AhJym8skXydiLFci) | 2:30 | 2025-09-16 |  |
-| [Voor Altijd Jong!](https://open.spotify.com/track/5CUyjQKT6G2yexTrboINLe) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:50 | 2025-08-19 |  |
+| [Voor Altijd Jong!](https://open.spotify.com/track/5CUyjQKT6G2yexTrboINLe) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:50 | 2025-08-19 | 2025-10-13 |
 | [Vreemde dingen](https://open.spotify.com/track/54zHNZbgxJeO30k6ppFoFl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:47 | 2025-08-19 |  |
 | [Vrienden met de monsters](https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [43 \- Gi\-ga\-groen](https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA) | 2:35 | 2025-08-19 |  |
 | [Vrijheid](https://open.spotify.com/track/06R2eJ0E7Ts63YwZRmXjcd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vrijheid](https://open.spotify.com/album/5uE4gcHs23QPXjIraFtnkh) | 2:45 | 2025-08-19 |  |
-| [Wakker Met Een Wijsje](https://open.spotify.com/track/5hxHyGZETHRbqwEvoR7YJc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [12 \- Kinderen voor Kinderen](https://open.spotify.com/album/7MnvsU1FVKBuPUqUDrjQg7) | 3:40 | 2025-08-19 |  |
+| [Wakker Met Een Wijsje](https://open.spotify.com/track/5hxHyGZETHRbqwEvoR7YJc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [12 \- Kinderen voor Kinderen](https://open.spotify.com/album/7MnvsU1FVKBuPUqUDrjQg7) | 3:40 | 2025-08-19 | 2025-10-13 |
+| [Wat is er met me aan de hand](https://open.spotify.com/track/7Fnt6DZNnB5LNzTg04g4H1) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:53 | 2025-10-13 |  |
 | [Worden wat je wil](https://open.spotify.com/track/71zLH40Kc5CDoFdC6LhJia) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Worden wat je wil](https://open.spotify.com/album/5JX7R70g4u0Fc5EwuiLM3P) | 2:41 | 2025-08-19 |  |
 | [ZiggZagg](https://open.spotify.com/track/1wQDlVfKgSBZs4IVn1X2Fk) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 3:05 | 2025-08-19 |  |
 | [Zij aan zij](https://open.spotify.com/track/5QGGDdqiTjGA8u8TS1xQRI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Zij aan zij](https://open.spotify.com/album/0VVyLi8EL6qVWRh7JsSQTu) | 3:07 | 2025-08-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 42970,
+  "num_followers": 42986,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAADXHm//fDSzsnnpeZC56pvG",
+  "snapshot_id": "aOmeAAAAAADEJdgZ90jeldtQY/a2BdV0",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
+      "duration_ms": 188701,
+      "name": "Green Room",
+      "url": "https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 188701,
-      "name": "Green Room",
-      "url": "https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj"
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+        "name": "Teen Bean",
+        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 176578,
-      "name": "Murda Musik (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
+      "duration_ms": 119248,
+      "name": "Teen Bean",
+      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
     },
     {
       "added_at": null,
@@ -475,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen Bean",
-        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 119248,
-      "name": "Teen Bean",
-      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
+      "duration_ms": 176578,
+      "name": "Murda Musik (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 244376,
+      "name": "Run + Ran",
+      "url": "https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 228326,
       "name": "MDMA (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6hJjp4IbXc5bddl6RKutJr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 244376,
-      "name": "Run + Ran",
-      "url": "https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 169889,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Heartz",
         "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 169889,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
     },
     {
       "added_at": null,

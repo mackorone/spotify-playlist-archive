@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 46 min
+72 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,13 +23,14 @@
 | [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 | 2023-01-14 |  |
 | [El Burro Siempre Hablando de Orejas](https://open.spotify.com/track/1UIOXV2J2exhh0NpSbDEr8) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:48 | 2024-05-01 | 2024-11-16 |
 | [El Vaquero Rocanrolero](https://open.spotify.com/track/5qIkSQH1NhKJlInZpmbsiy) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Lalo Tex](https://open.spotify.com/artist/32qNFnXBJ97qsGNVVOUJ7w) | [Pares y Duetos, Disco 3](https://open.spotify.com/album/2RP9lmCNj2n5vGL6POGWZU) | 4:30 | 2023-01-14 |  |
+| [Elvis Tenía Razón](https://open.spotify.com/track/7ztlnVish3bDLSiFB9M9Zb) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sobreviviente 33](https://open.spotify.com/album/0U9cpdzH8t5JN7rrkdsM73) | 4:35 | 2025-10-13 |  |
 | [Empanízame la Mojarra](https://open.spotify.com/track/0Si0jP8VqfXivdvhnQG6A2) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 3:25 | 2023-01-14 | 2024-12-18 |
 | [Es Que Te Amo, Pt\. 1](https://open.spotify.com/track/2i5YDMvJ10Wcx4tIquYgxx) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 4:52 | 2023-01-14 |  |
 | [Estoy Ardiendo](https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:16 | 2023-01-14 |  |
 | [Estoy Tan Solo](https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 3:12 | 2023-01-14 |  |
 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 | 2023-01-14 |  |
 | [Hotel](https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:54 | 2023-01-14 |  |
-| [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 |  |
+| [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 | 2025-10-13 |
 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 | 2025-03-08 |
 | [La Niña del Acordeón](https://open.spotify.com/track/5RUjpiH4aVDzpCJ5GQfE4p) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:40 | 2024-01-28 | 2024-01-30 |
 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 | 2023-01-14 |  |

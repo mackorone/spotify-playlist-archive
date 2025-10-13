@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,134 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,141 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 59 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy), [花音](https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
 | 60 | [DISCOTHEQUE \- Cover](https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 61 | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH) | 3:55 |
-| 62 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |
-| 63 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV:大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 |
-| 64 | [チョコレイトの低音レシピ](https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM) | [牛込りみ\(CV:西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 4:26 |
-| 65 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 5:22 |
+| 62 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 5:22 |
+| 63 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |
+| 64 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV:大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 |
+| 65 | [チョコレイトの低音レシピ](https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM) | [牛込りみ\(CV:西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 4:26 |
 | 66 | [クインティプル☆すまいる](https://open.spotify.com/track/5gXD2mjqtBkc7PKLdl2KXV) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy) | 4:04 |
 | 67 | [す、好きなんかじゃない!](https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 3:55 |
 | 68 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |

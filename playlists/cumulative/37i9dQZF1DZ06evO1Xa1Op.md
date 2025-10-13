@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-124 songs - 10 hr 23 min
+125 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Gomni \(with Ry Cooder\)](https://open.spotify.com/track/4ezXKef6PFAaunWQ0IFyyq) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:00 | 2021-12-28 | 2023-12-14 |
 | [Gomni \- with Ry Cooder](https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:00 | 2023-12-13 |  |
 | [Goydiotodam](https://open.spotify.com/track/2fqcpLdEA1wVrL3mGNQ32v) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 6:24 | 2021-12-28 | 2023-03-18 |
+| [Goye Kur](https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 6:24 | 2025-10-13 |  |
 | [Goye Kur \- 2017 Remastered Version](https://open.spotify.com/track/5VkD522syW1UKAEMHPNhF2) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 6:17 | 2021-12-28 | 2023-04-10 |
 | [Green: Sidi Gouro](https://open.spotify.com/track/45OnVsQZv5gc1LW4VMQwzy) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Red & Green](https://open.spotify.com/album/1unfmLA8C89Ay8uOVCEEyQ) | 3:46 | 2024-05-07 | 2024-06-26 |
 | [Hanana](https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 2:33 | 2023-11-10 | 2024-12-11 |

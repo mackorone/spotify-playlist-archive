@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3610,
+  "num_followers": 3612,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOhMgAAAAAAZB8v9eczCVcAEH+POFPJe",
+  "snapshot_id": "aOmeAAAAAACKkVXQuUhPcDQagdQkAbVk",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 323262,
+      "name": "Don\u2019t Ever Look Back",
+      "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -195,38 +227,6 @@
       "duration_ms": 447400,
       "name": "Brand New Feeling - Yoruba Soul Mix Part 1",
       "url": "https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 323262,
-      "name": "Don\u2019t Ever Look Back",
-      "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258617,
-      "name": "Plantation Earth",
-      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out (Sit Back And Relax)",
         "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
       },
@@ -403,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tambores Te Llaman",
-        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Carlos Mena",
-          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
         }
       ],
-      "duration_ms": 379360,
-      "name": "Los Tambores Te Llaman - Original Mix",
-      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
+      "duration_ms": 258617,
+      "name": "Plantation Earth",
+      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
     },
     {
       "added_at": null,
@@ -435,6 +415,26 @@
       "duration_ms": 200647,
       "name": "FLWN",
       "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tambores Te Llaman",
+        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Carlos Mena",
+          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Los Tambores Te Llaman - Original Mix",
+      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "ELYODCIRE",
+      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chocolate Puddin'",
         "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258604,
-      "name": "ELYODCIRE",
-      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
       },
@@ -527,6 +527,58 @@
       "duration_ms": 379160,
       "name": "Same Thing - Vocal Mix",
       "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Beings (Remixes)",
+        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "duration_ms": 414247,
+      "name": "Human Beings - Atjazz Remix",
+      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
     },
     {
       "added_at": null,
@@ -555,28 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Beings (Remixes)",
-        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        }
-      ],
-      "duration_ms": 414247,
-      "name": "Human Beings - Atjazz Remix",
-      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
         {
@@ -584,25 +616,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+      "duration_ms": 217756,
+      "name": "A Day Without U",
+      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 382274,
       "name": "Let's Invade the Amazon - Yoruba Soul Mix",
       "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "A Day Without U",
-      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258617,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -755,6 +739,38 @@
       "duration_ms": 275419,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natives Tongue",
+        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 236303,
+      "name": "Natives Tongue",
+      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258617,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
     },
     {
       "added_at": null,
@@ -783,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natives Tongue",
-        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
+        "name": "Cucumber Sweat",
+        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
       },
       "artists": [
         {
@@ -792,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 236303,
-      "name": "Natives Tongue",
-      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
+      "duration_ms": 212226,
+      "name": "Cucumber Sweat",
+      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
     },
     {
       "added_at": null,
@@ -815,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cucumber Sweat",
-        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
+        "name": "Iamone",
+        "url": "https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1"
       },
       "artists": [
         {
@@ -824,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Cucumber Sweat",
-      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
+      "duration_ms": 339578,
+      "name": "Water Mocassins",
+      "url": "https://open.spotify.com/track/7zxMIYo0C7P3W1mST4d6Lz"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
       "duration_ms": 346296,
       "name": "Bag Of Filters",
       "url": "https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iamone",
-        "url": "https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 339578,
-      "name": "Water Mocassins",
-      "url": "https://open.spotify.com/track/7zxMIYo0C7P3W1mST4d6Lz"
     },
     {
       "added_at": null,
