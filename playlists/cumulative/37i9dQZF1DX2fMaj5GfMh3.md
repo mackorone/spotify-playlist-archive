@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: JISOO & ZAYN
 
-1,148 songs - 2 day 10 hr 29 min
+1,150 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-02-24 | 2023-04-28 |
 | [Die For You](https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/6EetSjlBdamHHg82She66u) | 3:06 | 2025-05-26 | 2025-08-08 |
 | [Die for you](https://open.spotify.com/track/0jL713Cu6ZQwBhWdStzPru) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Die for you](https://open.spotify.com/album/5v0QJKNTLXRKldgxPNJexP) | 3:29 | 2025-05-01 | 2025-07-11 |
+| [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 | 2025-10-13 |  |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-02-24 | 2025-05-02 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-27 | 2024-10-23 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-13 | 2023-09-30 |
@@ -1102,6 +1103,7 @@
 | [What You Got \(Ayo\)](https://open.spotify.com/track/1mkwn1slwEWLC7mGyNKAyz) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [What You Got \(Ayo\)](https://open.spotify.com/album/5entj4s3IaDcQsdZ3X5sdh) | 3:11 | 2023-03-30 | 2023-07-11 |
 | [What You Meant To Me](https://open.spotify.com/track/0bvh4owohGyhv93QeIZJkr) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [What You Meant To Me](https://open.spotify.com/album/2v2gbLj8H0OJtAtwNmsJxc) | 2:48 | 2025-03-20 | 2025-06-06 |
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-02-24 | 2023-04-18 |
+| [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-13 |  |
 | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw) | 2:49 | 2023-05-25 | 2023-08-26 |
 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 | 2025-01-16 | 2025-02-25 |
 | [when you call me \(bby\)](https://open.spotify.com/track/74zHtCNlUNPg70ADkqbX6A) | [Anna\-Rose Clayton](https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS) | [when you call me \(bby\)](https://open.spotify.com/album/7aR2wIeSOyiGp9qF505yjC) | 2:32 | 2024-11-14 | 2025-01-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Os Garotin",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Urias",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -7548,7 +7548,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 149302,
       "name": "Seu Olhar",
       "url": "https://open.spotify.com/track/1VW2piIbq26AC64SxjzvGU"
@@ -8872,6 +8872,28 @@
       "duration_ms": 211351,
       "name": "Voc\u00ea nasceu para mudar",
       "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
+    },
+    {
+      "album": {
+        "name": "CARRANCA",
+        "url": "https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Voz Do Brasil",
+      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2"
     },
     {
       "album": {

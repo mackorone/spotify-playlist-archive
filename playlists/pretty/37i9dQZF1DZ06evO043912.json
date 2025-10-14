@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 6725,
+  "num_followers": 6728,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAA+TEqKo++EHU7oMsCy7Fqs",
+  "snapshot_id": "aOrvgAAAAACToAKNF5qKVysgaZ0Gbpmm",
   "tracks": [
     {
       "added_at": null,
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 464549,
-      "name": "Chief George Oyedele",
-      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+      "duration_ms": 148520,
+      "name": "Omo Se Koko",
+      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 116386,
       "name": "Ko Salapata",
       "url": "https://open.spotify.com/track/2mHxlK2KOfX85JNQu4vJFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 148520,
-      "name": "Omo Se Koko",
-      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
+      "duration_ms": 464549,
+      "name": "Chief George Oyedele",
+      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
     },
     {
       "added_at": null,

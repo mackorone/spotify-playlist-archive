@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,836 likes - 113 songs - 6 hr 25 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,837 likes - 113 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 81 | [MUR](https://open.spotify.com/track/3JUefsAGJqU94oLtRwgj0S) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [MUR/PONR](https://open.spotify.com/album/16A2LRFpa4pxjgBZ7dsn2k) | 5:01 |
 | 82 | [Cold at Night](https://open.spotify.com/track/4ijPmmfOtdbCxdNJMLQvF7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Cold at Night / Rocks in My Pockets](https://open.spotify.com/album/0w3lU79JVsl1XEgEGc9PWJ) | 3:30 |
 | 83 | [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 |
-| 84 | [Up \- with Rag'n'Bone Man](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Up \(with Rag'n'Bone Man\)](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 84 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
 | 85 | [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 |
 | 86 | [DIOS LO QUIERA](https://open.spotify.com/track/7aRdtQ5AgCuXIeDZX2ZbB8) | [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe) | [DIOS LO QUIERA](https://open.spotify.com/album/7J0oz5d6sbQ76VvI1xN57D) | 2:56 |
 | 87 | [Break The Jaw](https://open.spotify.com/track/6r6g7kpCMLLhWi93VwUPiw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Break The Jaw](https://open.spotify.com/album/0RKbTUhqnMC4UW1VmU173F) | 4:07 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 89 | [Keep Me in the Dark](https://open.spotify.com/track/1UXrY8dRPFVkkB8MiwpT3T) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [The Life You Save](https://open.spotify.com/album/7fuPhH0QTTl13WgshkTAP6) | 4:26 |
 | 90 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 91 | [Distancia](https://open.spotify.com/track/0v3gie3e7UZ9egWg6v0YjZ) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [EL CAMINO](https://open.spotify.com/album/5zC5z9y5quq0E7zws1Y7pi) | 2:13 |
-| 92 | [ME + YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |
+| 92 | [ME+YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |
 | 93 | [ON TIME](https://open.spotify.com/track/4L0NcvT5I8euv3yn97y0GK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [ON TIME](https://open.spotify.com/album/5vec9f0c8wCBp1BOIZgQss) | 1:32 |
 | 94 | [NEXO 08\. Ha pasado algo](https://open.spotify.com/track/25Em5XUehkOqgaM3qSjmxu) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 08\. Ha pasado algo](https://open.spotify.com/album/4ZQTuB4qHJPpeAvYbXObAT) | 2:44 |
 | 95 | [La Samaria](https://open.spotify.com/track/7ieuslYMSCaz2xTqq8jIPL) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Samaria](https://open.spotify.com/album/3z05HWXEIBe1YJhLS0K6bd) | 3:33 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 76878,
+  "num_followers": 76877,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAQ6q8cQ2uoMiwWI1+MbfmH",
+  "snapshot_id": "aOrvgAAAAADN710SoldzewnsEC0qrKJt",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo (En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX)",
-        "url": "https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 121480,
-      "name": "Jessica - En Vivo",
-      "url": "https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 223410,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo (En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX)",
+        "url": "https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 121480,
+      "name": "Jessica - En Vivo",
+      "url": "https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Canso Ganso",
-        "url": "https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 195326,
-      "name": "Me Canso Ganso",
-      "url": "https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Canso Ganso",
+        "url": "https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 195326,
+      "name": "Me Canso Ganso",
+      "url": "https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Serie (Remastered 2025)",
-        "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 203556,
-      "name": "Que G\u00fcera - Remastered 2025",
-      "url": "https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 204556,
       "name": "El Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de Serie (Remastered 2025)",
+        "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 203556,
+      "name": "Que G\u00fcera - Remastered 2025",
+      "url": "https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ"
     },
     {
       "added_at": null,

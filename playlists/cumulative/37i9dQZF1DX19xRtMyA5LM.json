@@ -3305,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "Uitleg",
+        "url": "https://open.spotify.com/album/0YQEun65Mm0QyRcR0NInym"
+      },
+      "artists": [
+        {
+          "name": "Saaff",
+          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
+        },
+        {
+          "name": "Araz",
+          "url": "https://open.spotify.com/artist/1rPMcrX4V33XyzbdAx7wAL"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Uitleg",
+      "url": "https://open.spotify.com/track/0lnivkeapkbfg6I4HGsSB1"
+    },
+    {
+      "album": {
         "name": "Rozengeur & Bloedsporen",
         "url": "https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og"
       },
@@ -3450,7 +3472,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 130560,
       "name": "Volgende Ronde",
       "url": "https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: TUANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,917 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,912 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 6 | [DEKOR](https://open.spotify.com/track/2Qukv7j4Miy71uOF2PAJXA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [DEKOR](https://open.spotify.com/album/0ASHdhW7cRjY2z5wL6uUtJ) | 2:09 |
 | 7 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 |
 | 8 | [Una Corda](https://open.spotify.com/track/7ta8KtajdtXTP5eEEJfmWv) | [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB) | [Una Corda](https://open.spotify.com/album/7rJV2JTgUB3ncJ3hTwWxn7) | 4:24 |
-| 9 | [Delikansız](https://open.spotify.com/track/18WYAs0AdHunxZ9Tl37Swp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Delikansız](https://open.spotify.com/album/0dGDQ9WNtXZVN7maSM73GC) | 3:27 |
+| 9 | [Delikansız](https://open.spotify.com/track/18WYAs0AdHunxZ9Tl37Swp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Muerte Beatz](https://open.spotify.com/artist/6sisQS5gts3lFgk68pfLEG) | [Delikansız](https://open.spotify.com/album/0dGDQ9WNtXZVN7maSM73GC) | 3:27 |
 | 10 | [IN A MOOD](https://open.spotify.com/track/7jq2d4lyn2WvP6m5v2Q4fD) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [IN A MOOD](https://open.spotify.com/album/5mW9cSLIMRs3QLz41HSGU8) | 2:50 |
 | 11 | [Hüznümün Tüccarı](https://open.spotify.com/track/69ElKQkvsrUkxqK8j3z6mP) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX), [Birsen Tezer](https://open.spotify.com/artist/3i5LEBNq1A00tgvcmB97vV) | [Hüznümün Tüccarı](https://open.spotify.com/album/2dql30ws7nYaTcx0cTrkGo) | 3:59 |
 | 12 | [Sadece Sevilmek İstedim](https://open.spotify.com/track/6h5nwlWNaaiH4Cwd9Hyb0A) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo) | [KABUL](https://open.spotify.com/album/1UIqLUEy7UJpwJl0N3prXB) | 3:38 |

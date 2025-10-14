@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-765 songs - 1 day 21 hr 1 min
+767 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-16 | 2025-07-04 |
 | [Devo](https://open.spotify.com/track/5gpvNp0THuMQEAkU1Kt0fB) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 1:40 | 2024-04-25 | 2024-05-16 |
 | [Diamonds and Gems](https://open.spotify.com/track/3W9d5rNGDNC3plYtX76Qy8) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:07 | 2025-04-02 | 2025-05-09 |
-| [Disco Divina](https://open.spotify.com/track/0OaIzsNk36CofcdcdAZGam) | [Il Guardiano Del Faro](https://open.spotify.com/artist/4PmDAzACdkCCxw0Yt17db8) | [Oasis](https://open.spotify.com/album/7hEiLSzmYKkFggRKacZ4kH) | 4:06 | 2025-09-16 |  |
+| [Disco Divina](https://open.spotify.com/track/0OaIzsNk36CofcdcdAZGam) | [Il Guardiano Del Faro](https://open.spotify.com/artist/4PmDAzACdkCCxw0Yt17db8) | [Oasis](https://open.spotify.com/album/7hEiLSzmYKkFggRKacZ4kH) | 4:06 | 2025-09-16 | 2025-10-14 |
 | [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 | 2025-03-06 | 2025-05-09 |
 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 | 2024-08-05 | 2024-08-29 |
 | [Dolly](https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1) | [Microdisney](https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb) | [Everybody Is Fantastic](https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO) | 3:20 | 2024-10-13 | 2024-11-14 |
@@ -191,6 +191,7 @@
 | [Evening In Paris](https://open.spotify.com/track/2zHLjLNLmQcxw7aF1FEBE9) | [Lois](https://open.spotify.com/artist/2TPN3wAFNOE6VN1OLNLBwH) | [Strumpet](https://open.spotify.com/album/55qFoYA2utC3qhqmutvSRX) | 2:37 | 2024-04-18 | 2024-05-16 |
 | [Evening Mirror \- From the Original Score of The Sweet East](https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4) | [Paul Grimstad](https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv), [Talia Ryder](https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl) | [Evening Mirror \(From the Original Score of The Sweet East\)](https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB) | 3:11 | 2024-02-21 | 2024-03-10 |
 | [Everglade](https://open.spotify.com/track/5ReNkBEft2t7iEzTx2GHBx) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Birds On The Playground](https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ) | 4:15 | 2025-08-04 | 2025-09-11 |
+| [Everglade](https://open.spotify.com/track/0RiPfGtEyv3nZVq3lUi7kR) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:21 | 2025-10-13 |  |
 | [Everglade](https://open.spotify.com/track/12Ly9pR2DxzNCWHauZWiYj) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/26QpVjamtdjHvXSfd7c7v7) | 4:26 | 2024-04-25 | 2024-05-16 |
 | [Every Time](https://open.spotify.com/track/4m6esDH7UC26ZfSQAaFG5e) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:17 | 2025-09-16 |  |
 | [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 | 2024-09-27 | 2024-11-14 |
@@ -392,8 +393,9 @@
 | [Let Me Speak](https://open.spotify.com/track/2r1yGtdhw3O9GmgD1ygTCe) | [Gemma Cullingford](https://open.spotify.com/artist/6WR6hPeb9Qq39fAm88GtcL) | [Let Me Speak](https://open.spotify.com/album/6VE153qE47R8O4ac49XxrM) | 3:37 | 2024-12-09 | 2025-01-12 |
 | [Let the Moon Get Into It](https://open.spotify.com/track/1stYzcsEDzXXKyjQ2zyLx5) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 6:29 | 2025-04-02 | 2025-05-09 |
 | [Life & Soul](https://open.spotify.com/track/06bQjjfW8ajdj6hTRcdbvk) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 2:37 | 2025-05-23 | 2025-07-04 |
-| [Life We Rent but Love Is Rent Free](https://open.spotify.com/track/4ng68R9MLaZc5xHsfAswY0) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 5:07 | 2025-09-25 |  |
+| [Life We Rent but Love Is Rent Free](https://open.spotify.com/track/4ng68R9MLaZc5xHsfAswY0) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 5:07 | 2025-09-25 | 2025-10-14 |
 | [Life with Life](https://open.spotify.com/track/1WFRSRLRhui8xKfIZR8LLa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52) | 2:08 | 2025-07-03 | 2025-09-11 |
+| [Liggers at Your Funeral \- 2006 Remaster](https://open.spotify.com/track/3sOGX9DFkn3HJzpJbFLrGU) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 5:32 | 2025-10-13 |  |
 | [Like Fire Like Ice](https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Alternity](https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx) | 1:58 | 2024-03-26 | 2024-05-16 |
 | [Like Lovers Do](https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Like Lovers Do](https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W) | 2:50 | 2024-06-08 | 2024-07-12 |
 | [Lip Reader](https://open.spotify.com/track/7ooMmZLFTrbHW0jZK97DsB) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 2:31 | 2024-09-08 | 2024-11-14 |

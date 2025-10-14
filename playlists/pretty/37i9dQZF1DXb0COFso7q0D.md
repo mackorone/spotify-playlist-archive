@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist oficial de <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/"> Belicofest </a> \- Elevando a la Música Mexicana\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,314,641 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,314,446 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

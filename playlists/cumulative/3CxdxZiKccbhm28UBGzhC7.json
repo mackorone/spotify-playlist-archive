@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Velociraptor!",
+        "url": "https://open.spotify.com/album/6lox5NV29L4QQmLuAvBXuP"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Switchblade Smiles",
+      "url": "https://open.spotify.com/track/4Qm13tC08v8k6a1UEr9Htb"
+    },
+    {
+      "album": {
         "name": "Brianstorm",
         "url": "https://open.spotify.com/album/3wes7jJ9Ig44rYtlYGwAh9"
       },

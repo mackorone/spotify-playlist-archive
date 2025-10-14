@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,864 likes - 140 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,874 likes - 140 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 139 | [Touching the sky](https://open.spotify.com/track/4D9S99PiDD7HfzGr2Tfmaf) | [Joseph Turley](https://open.spotify.com/artist/3c9Mx9mtyfI6gv5czq8GPa) | [Touching the sky](https://open.spotify.com/album/0REKGFTLinAJl18qAxhPXv) | 1:40 |
 | 140 | [Beneath a Summer Sky](https://open.spotify.com/track/3jqgSCeCfn179Gu9gVHFOL) | [Stan Curley](https://open.spotify.com/artist/2FjuSwXleCYb93E7k8NE2d) | [Beneath a Summer Sky](https://open.spotify.com/album/4qj5YJf1p4Qf0SA7Kxi5Jg) | 1:47 |
 
-Snapshot ID: `AAAAAGvMyFxiQ2JZZKQa7L2DoOY0U5uR`
+Snapshot ID: `AAAAAOxLiX7UlYcWDOfGh7VNoRc/DKXy`

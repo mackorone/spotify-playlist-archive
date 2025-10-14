@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  عمرو دياب
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  أنغام
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,109 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,199 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baba](https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:15 |
-| 2 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
-| 3 | [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 |
-| 4 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
+| 1 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
+| 2 | [Baba](https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:15 |
+| 3 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
+| 4 | [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 |
 | 5 | [Shams W Hawa](https://open.spotify.com/track/5KUBjmdPpamovUuXEit9z2) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 3:24 |
 | 6 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
 | 7 | [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 | 50 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
 
-Snapshot ID: `AAAAADfZJv63luRQUHWpdS3l1J3jEOCI`
+Snapshot ID: `AAAAAAHw7XJCBkQ3odcwrtIV5FoKpJpA`

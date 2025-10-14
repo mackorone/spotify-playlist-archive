@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,163 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,172 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 101 | [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 |
 | 102 | [The River](https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The River](https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE) | 4:44 |
 | 103 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
-| 104 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 |
-| 105 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 |
+| 104 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 |
+| 105 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 |
 | 106 | [Stay Out Of It](https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Stay Out Of It](https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc) | 3:05 |
 | 107 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 |
 | 108 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
@@ -128,18 +128,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 118 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 |
 | 119 | [Smoke & Ribbons](https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Tilt At The Wind No More](https://open.spotify.com/album/7p6kas933fJItm9YDJew2A) | 3:32 |
 | 120 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 |
-| 121 | [Honey](https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB) | [Farmer](https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [The Color That Suits You](https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa) | 4:53 |
-| 122 | [Scared](https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Scared](https://open.spotify.com/album/5jMvIY27hzHwpHIjA7fYeT) | 2:33 |
-| 123 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
+| 121 | [Scared](https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Scared](https://open.spotify.com/album/5jMvIY27hzHwpHIjA7fYeT) | 2:33 |
+| 122 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
+| 123 | [Honey](https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB) | [Farmer](https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [The Color That Suits You](https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa) | 4:53 |
 | 124 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
-| 125 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
-| 126 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
+| 125 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
+| 126 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
 | 127 | [Middle Class Dream](https://open.spotify.com/track/6eUuwMYJv8p68UGT5u4FZS) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Middle Class Dream](https://open.spotify.com/album/01e4Q6rMiRjcus0d2Qxrfz) | 4:23 |
 | 128 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
 | 129 | [Killer Queen \(What I Need\)](https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Killer Queen \(What I Need\)](https://open.spotify.com/album/1tHCJdeRE4oRYKd93t1XCy) | 3:18 |
 | 130 | [Heart To Heart](https://open.spotify.com/track/0ReAOLM3cKp3OQktV32ruJ) | [Now More Than Ever](https://open.spotify.com/artist/4rs2uBw6Y9uBQ1eJ0gFRwl) | [Heart To Heart](https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem) | 2:49 |
-| 131 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 |
-| 132 | [Flake](https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE) | 3:07 |
+| 131 | [Flake](https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE) | 3:07 |
+| 132 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 |
 | 133 | [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 |
 | 134 | [Inside Your Mind](https://open.spotify.com/track/5XwJIGnCtQqASIMdcbhbx1) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Inside Your Mind](https://open.spotify.com/album/69cUZMiLdowX4QgMjJCRI6) | 3:45 |
 | 135 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 146 | [Take a Look Inside](https://open.spotify.com/track/1pWu29hfLPWxqegK7ohVWt) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Take a Look Inside](https://open.spotify.com/album/63zgDmHLZgi5FtHJNLFt0R) | 4:28 |
 | 147 | [Blows](https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Strength](https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK) | 3:09 |
 | 148 | [Dangerous Game](https://open.spotify.com/track/2xPVwhmbfL7YiHaC6gkdml) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:01 |
-| 149 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 |
-| 150 | [Lean](https://open.spotify.com/track/7BavE1d2aOHrkGQPSyoDbh) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Lean](https://open.spotify.com/album/5xl7MDx30jHdHSYdDuYPwX) | 3:45 |
+| 149 | [Lean](https://open.spotify.com/track/7BavE1d2aOHrkGQPSyoDbh) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Lean](https://open.spotify.com/album/5xl7MDx30jHdHSYdDuYPwX) | 3:45 |
+| 150 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 |
 
 Snapshot ID: `AAAAAJkBKe4Q/0oJTBCjN9ycu2ch/SLH`

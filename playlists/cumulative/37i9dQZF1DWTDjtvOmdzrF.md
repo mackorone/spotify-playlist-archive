@@ -4,11 +4,11 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-168 songs - 11 hr 22 min
+169 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$20](https://open.spotify.com/track/3W0v9AEx1PlDgtefOJSdzJ) | [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Live Unplugged](https://open.spotify.com/album/28q2tdpI8lEasIntmtXhaE) | 5:42 | 2025-05-02 |  |
+| [$20](https://open.spotify.com/track/3W0v9AEx1PlDgtefOJSdzJ) | [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Live Unplugged](https://open.spotify.com/album/28q2tdpI8lEasIntmtXhaE) | 5:42 | 2025-05-02 | 2025-10-14 |
 | [17 Juni](https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK) | [Pascal Meliala](https://open.spotify.com/artist/1oChqfTEO3APBVjUaFI1DY), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Cecilia Morinta](https://open.spotify.com/artist/5BtNjjzw9yWPKtfh02cS3S) | [17 Juni](https://open.spotify.com/album/2sEqsb4bAdKvOQJbrmzsqM) | 5:32 | 2024-07-24 | 2024-09-03 |
 | [Aku Tenang](https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 3:49 | 2022-12-07 | 2024-04-19 |
 | [Alang\-Alang](https://open.spotify.com/track/63heXpwE42bSL8yAReGERs) | [Tigapagi](https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp), [Drs\. F\. Achmar](https://open.spotify.com/artist/58bjKFsimBsOP8JxPLI0JP) | [Roekmana's Repertoire \(Remastered\)](https://open.spotify.com/album/115rswXhVTkKcQ9DFFfgii) | 3:51 | 2024-07-24 | 2024-12-10 |
@@ -86,6 +86,7 @@
 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 | 2024-06-05 | 2025-10-09 |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2024-03-05 | 2025-08-11 |
 | [Lesung Pipi \- Acoustic Version](https://open.spotify.com/track/2FomcdoaNsKvXl4bJ5Abqj) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi \(Acoustic Version\)](https://open.spotify.com/album/3DZ5noaJRsZztDCB82LnfU) | 3:58 | 2025-04-17 |  |
+| [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 | 2025-10-13 |  |
 | [Lihatlah Lebih Dekat](https://open.spotify.com/track/25A5aUq56zPyiw583hOb5z) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Lihatlah Lebih Dekat](https://open.spotify.com/album/0CldqsbNN45kEsKJl3PP4k) | 4:24 | 2023-09-20 | 2025-05-27 |
 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-03-10 |  |
 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 | 2024-08-15 | 2024-10-30 |

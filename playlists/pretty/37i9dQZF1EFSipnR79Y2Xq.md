@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 703 likes - 89 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 89 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 65 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 |
 | 66 | [AQUÍ](https://open.spotify.com/track/31frlH6FhT5O8QC62cw5ND) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:25 |
 | 67 | [La Fogata](https://open.spotify.com/track/5PFQQv2uohG7pSYmNuWa4V) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [La Fogata](https://open.spotify.com/album/0kMcbCxUPRfWPHoBudf7HH) | 2:27 |
-| 68 | [Ya La Veo Dificil](https://open.spotify.com/track/6sugv8lSlcNzR8bHTkwcH5) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya La Veo Dificil](https://open.spotify.com/album/5877O9By2tixY4SVA2vS7T) | 2:50 |
+| 68 | [Ya la Veo Difícil](https://open.spotify.com/track/19KyWieXL61kcntVLCiiXY) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya la Veo Difícil](https://open.spotify.com/album/1hn24tli1MPN6EHoS78bCg) | 2:50 |
 | 69 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
 | 70 | [Doble T](https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B) | [Doble T](https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs) | 2:39 |
 | 71 | [EMPINANDO EL CODO](https://open.spotify.com/track/17va5TdLn0DsA8SSfKdSZ4) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:54 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 88 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 89 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `Ab+sugAAAAAezG+4iPekVfUF8kZu47EC`
+Snapshot ID: `Ab+yCgAAAAAiUabRweLX4YbEms04tqB+`

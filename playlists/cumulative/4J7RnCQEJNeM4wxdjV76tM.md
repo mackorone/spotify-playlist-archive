@@ -4,7 +4,7 @@
 
 > ⋆.
 
-638 songs - 1 day 10 hr 55 min
+641 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2022-03-03 |  |
 | [Don’t Matter To Me \(with Michael Jackson\)](https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:05 | 2023-09-27 |  |
 | [Doubted Me](https://open.spotify.com/track/3qLUFWj78toijJKAFxgSS1) | [Killnovember!](https://open.spotify.com/artist/2XXokwCywu4Fys5bSL1ZDA) | [Doubted Me](https://open.spotify.com/album/6QXUgtEdEUFyMWFA9ur0F3) | 2:03 | 2022-09-16 |  |
+| [Down Chick \(feat\. 3Three\)](https://open.spotify.com/track/4c1x1SYPM26MHCkJSYwknD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [3Three](https://open.spotify.com/artist/0Q4C0BC6ZjxW0ps1ItEpx8) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 3:46 | 2025-10-14 |  |
 | [Down On Me](https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [All About You](https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD) | 3:48 | 2023-12-08 |  |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0XO2hckt5aHvvwH7FFdVYF) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 4:11 | 2023-11-26 |  |
 | [Dreams, Fairytales, Fantasies \(feat\. Brent Faiyaz & Salaam Remi\)](https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 3:42 | 2024-01-04 |  |
@@ -192,6 +193,7 @@
 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 | 2022-07-31 |  |
 | [FWU](https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 4:55 | 2024-04-02 |  |
 | [Game Winner](https://open.spotify.com/track/27SF0VyxFsYf112UYvngjt) | [Joseph McFashion](https://open.spotify.com/artist/3Lwh1bdPJLqalxEUH5RANE), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Allstar JR](https://open.spotify.com/artist/5o9e9YHe1OVQcbMv3Rvk32), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw), [AllStar Lee](https://open.spotify.com/artist/6oBeiqyJmZO4EAJb728s0K) | [Game Winner](https://open.spotify.com/album/2YMotPLqMQD73yszPmqLeZ) | 3:17 | 2022-12-12 |  |
+| [Games Of War](https://open.spotify.com/track/0Bu4Ftm8pa65s690nhgGTV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 4:23 | 2025-10-14 |  |
 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 | 2023-09-14 |  |
 | [Gassed Up](https://open.spotify.com/track/6JjEVlMkfHWMeYavkEYzNO) | [Nebu Kiniza](https://open.spotify.com/artist/5lCY3tqdQxbeg5igSlObaT) | [Gassed Up](https://open.spotify.com/album/6YCcGxz3l1shgr3F7XbNee) | 3:13 | 2024-11-01 |  |
 | [Germantown](https://open.spotify.com/track/3uIeyUazuC5g7R6G9wCy41) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Black Smurf](https://open.spotify.com/artist/0roRnStSzF1uet2JvSM6U3) | [Black $uicide Side C: The Seventh Seal](https://open.spotify.com/album/2kx2zE6RYdyZ1IRhVz70xC) | 3:47 | 2022-10-27 |  |
@@ -487,6 +489,7 @@
 | [Rubba Band Wrist](https://open.spotify.com/track/1X75NaGGoza2GgVJOlzK6g) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Mafia Bidness \(Deluxe\)](https://open.spotify.com/album/3ORZJooQn1piUEFhHYd1W1) | 2:00 | 2022-06-01 |  |
 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 | 2022-06-26 |  |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2022-12-12 |  |
+| [Saferwaters](https://open.spotify.com/track/6e9s42iBN7bt5QvCvFlVUs) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Vena Sera](https://open.spotify.com/album/5FT5oo5IM2hBizZisoPKH3) | 4:11 | 2025-10-14 |  |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-15 |  |
 | [Salvatore](https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:41 | 2024-05-06 |  |
 | [Save Me](https://open.spotify.com/track/2hmvvpGAIqJSImIAoVWQTB) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Save Me](https://open.spotify.com/album/0dcmFEJnbc0LDUgfe5x3F8) | 3:08 | 2022-02-26 |  |

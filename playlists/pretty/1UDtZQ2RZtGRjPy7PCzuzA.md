@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,033 songs - 2 day 10 hr 58 min
+[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,034 songs - 2 day 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1041,5 +1041,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1031 | [Still / The Neva Flows \(Reprise\)](https://open.spotify.com/track/133aZXDAcYJZ8LbVyg07mf) | [Ramin Karimloo](https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP), [Christy Altomare](https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 2:22 |
 | 1032 | [Finale](https://open.spotify.com/track/5BtWMJRupEg4MyuNXooqnT) | [Mary Beth Peil](https://open.spotify.com/artist/2QQcdCmfjnTkoKVrEpERZT), [Ramin Karimloo](https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP), [Anastasia Company](https://open.spotify.com/artist/57S1h5W34KKpABIzAKE1Q8) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 1:34 |
 | 1033 | [Pothole \(feat\. Jaden Smith\)](https://open.spotify.com/track/5SxlUF7J8tyFIEF22EomeP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Alexander Brettin](https://open.spotify.com/artist/0VMO6LSExFeqYrtcR8VAre), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:57 |
+| 1034 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 |
 
-Snapshot ID: `AAAGyiV8XcBNySYJrwK7zaYRUdvDEXPJ`
+Snapshot ID: `AAAGy1B2IHy+SrDC7dsZMv9/HzKIpVFh`

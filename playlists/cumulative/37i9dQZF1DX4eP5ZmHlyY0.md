@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-747 songs - 1 day 17 hr 2 min
+748 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [HAPPY](https://open.spotify.com/track/5M2HzcdIN7jz6jSJsm3qn6) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 3:29 | 2024-07-30 | 2024-08-07 |
 | [HAPPY UNBIRTHDAY](https://open.spotify.com/track/2o0XgPxLvZKlVsuQjZ0WzO) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HAPPY UNBIRTHDAY](https://open.spotify.com/album/1pvXyLugVj8JLeCh8FraWv) | 3:25 | 2024-03-26 | 2024-05-01 |
 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-12 |  |
-| [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 | 2025-09-22 |  |
+| [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 | 2025-09-22 | 2025-10-14 |
 | [Headlines](https://open.spotify.com/track/5060fEQEvAIywQ8NMLJeOi) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/3pIxnSDUJ0I9KHdrahOC1s) | 2:19 | 2025-08-22 | 2025-09-26 |
 | [HEART](https://open.spotify.com/track/1xVHi6ppc8sZS33qCm2IyJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [HEART](https://open.spotify.com/album/0MD6Tt34i6Gb1dGbYPmvSP) | 3:48 | 2025-03-09 | 2025-06-04 |
 | [HEAVY GAMER](https://open.spotify.com/track/7A5w2FDIv8NERGk59C6dF9) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [HEAVY GAMER](https://open.spotify.com/album/5thtZUHXDTXNPvd5qKvnJV) | 3:24 | 2024-04-16 | 2024-05-08 |
@@ -435,6 +435,7 @@
 | [Over The Horizon!](https://open.spotify.com/track/3C8pzZ7Tr6nF1KRszCoKkk) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [BON BON VOYAGE](https://open.spotify.com/album/7E2mGyUx5Xntols2evvmm9) | 3:37 | 2025-07-15 | 2025-08-23 |
 | [Over The Moon](https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY](https://open.spotify.com/album/72JboNccBYyXR676YNfcYE) | 2:37 | 2025-03-06 | 2025-04-07 |
 | [OVERDRIVE](https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [OVERDRIVE](https://open.spotify.com/album/3VvUSMv126FUn8tyMak8WQ) | 3:18 | 2024-07-30 | 2024-09-04 |
+| [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 | 2025-10-13 |  |
 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 | 2025-03-27 | 2025-06-23 |
 | [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 | 2024-03-05 | 2024-05-03 |
 | [Parade](https://open.spotify.com/track/0IGr2xuMj48hjT6Vua9Qoc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3gWYgYUqqyz7BZgGiIGDql) | 3:06 | 2025-06-17 | 2025-08-11 |

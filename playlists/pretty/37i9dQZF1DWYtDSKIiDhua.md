@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,102 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,112 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 97481,
+  "num_followers": 97514,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADSSHPe5Zyl861G9G/7VJbC",
+  "snapshot_id": "aOrvgAAAAAAFdMx8P2VQF/2V6FIutUtZ",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 135989,
+      "name": "Apala Drill",
+      "url": "https://open.spotify.com/track/46nS1TZZF8HjLTk2Ew7R1L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
       },
@@ -683,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIA",
-        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "FIA",
-      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -715,6 +719,22 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIA",
+        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "FIA",
+      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
     },
     {
       "added_at": null,
@@ -783,22 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+        "name": "Like (feat. Kizz Daniel)",
+        "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
       "artists": [
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 135989,
-      "name": "Apala Drill",
-      "url": "https://open.spotify.com/track/46nS1TZZF8HjLTk2Ew7R1L"
+      "duration_ms": 150545,
+      "name": "Like (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
       "added_at": null,
@@ -839,30 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like (feat. Kizz Daniel)",
-        "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "Like (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/0jjnnEjMF5hoydjQeT8jky"
       },
@@ -879,6 +879,34 @@
       "duration_ms": 183335,
       "name": "Ada",
       "url": "https://open.spotify.com/track/3WMpfOFiAvYnLeqhCT67EN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "added_at": null,
@@ -915,34 +943,6 @@
       "duration_ms": 202222,
       "name": "FEM",
       "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "added_at": null,

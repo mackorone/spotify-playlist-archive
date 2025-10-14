@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Marvio.",
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Innellea & Peces Raros.",
   "name": "(AR)",
   "tracks": [
     {
@@ -4547,6 +4547,28 @@
     },
     {
       "album": {
+        "name": "Parte del Juego",
+        "url": "https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "Parte del Juego",
+      "url": "https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr"
+    },
+    {
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/0E3Ex7Qbkz6uXnCoAl6Ufj"
       },
@@ -6178,7 +6200,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 332500,
       "name": "Turnin'",
       "url": "https://open.spotify.com/track/36gthjpephERK8Il6W6o5p"

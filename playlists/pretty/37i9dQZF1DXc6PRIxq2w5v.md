@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,876 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,933 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 40 | [Metanoia](https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [DJ Richa](https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ) | [Metanoia](https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG) | 2:51 |
 | 41 | [O Apocalipse É Real](https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [O Apocalipse É Real](https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq) | 2:35 |
 | 42 | [Redenção](https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Redenção](https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO) | 2:17 |
-| 43 | [Bem Maior](https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k) | [Bem Maior](https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y) | 2:36 |
-| 44 | [Escolhas](https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Dima](https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Escolhas](https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V) | 3:20 |
+| 43 | [Escolhas](https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Dima](https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Escolhas](https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V) | 3:20 |
+| 44 | [Bem Maior](https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k) | [Bem Maior](https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y) | 2:36 |
 | 45 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
 | 46 | [Sem a Sua Presença](https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Clerick](https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5) | [Sem a Sua Presença](https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX) | 3:05 |
 | 47 | [É Real](https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Abençoado](https://open.spotify.com/album/3i4SxN0dS82ygV96GOzLws) | 2:14 |

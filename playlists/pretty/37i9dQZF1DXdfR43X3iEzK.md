@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: oklou & fka twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,101 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,104 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

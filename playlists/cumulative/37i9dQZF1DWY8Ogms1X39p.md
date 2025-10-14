@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-313 songs - 17 hr 37 min
+315 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-03 | 2025-07-28 |
 | [Malam Indah](https://open.spotify.com/track/6lDP4LBpYzmDLaP1HFth8G) | [Iwa K](https://open.spotify.com/artist/5V4Bmxj6CowUoOdcLUEQPt) | [Mesin Imajinasi](https://open.spotify.com/album/2P0IlK32yNtzrKKRDFuzuN) | 3:51 | 2025-08-03 | 2025-09-08 |
 | [MAMONEY](https://open.spotify.com/track/6wWzU1FELh7ioiuQtMZ7NA) | [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [MAMONEY](https://open.spotify.com/album/5j8kr0to3ALKqG9K8knJZD) | 3:04 | 2022-12-13 | 2023-06-26 |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-10-13 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-16 |  |
 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 | 2024-09-02 | 2024-09-10 |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2024-11-04 | 2025-03-25 |
@@ -321,5 +322,6 @@
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-12-13 | 2024-08-30 |
 | [youngbabydad](https://open.spotify.com/track/56Ao3MF2WwGrIFT9BCuqOb) | [Nara](https://open.spotify.com/artist/5ybvIfE3lpl0eExSuyRAnW), [Trigga Coca](https://open.spotify.com/artist/5z02WPA8hBN2qvPSdFC8Tn), [Fat Rorry](https://open.spotify.com/artist/1WSkNC0DRp1YSmbdxnyIq5) | [youngbabydad](https://open.spotify.com/album/1sI4RGXmBeDIPZdg4owfiw) | 2:30 | 2025-08-03 | 2025-09-08 |
 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 | 2024-03-26 | 2024-10-22 |
+| [Your Love](https://open.spotify.com/track/6TPpCbn9z0IY5Te048iy5R) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 2:53 | 2025-10-13 |  |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

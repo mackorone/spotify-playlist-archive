@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6POS73ero2jRR6OpAffzSr.md) - [plain]
 
 > 
 
-[Viny C](https://open.spotify.com/user/rzmh45lxncul8drutf0bu2p2n) - 206 likes - 36 songs - 2 hr 58 min
+[Viny C](https://open.spotify.com/user/rzmh45lxncul8drutf0bu2p2n) - 206 likes - 37 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/6POS73ero2jRR6OpAffzSr.md) - [plain]
 | 34 | [Don't Talk About It](https://open.spotify.com/track/6l0Ygty0TsJf0zmD9kdTXs) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4) | [Don't Talk About It](https://open.spotify.com/album/3F0I5ooKpjhOJrAaRlPP7Q) | 3:37 |
 | 35 | [If You Dream](https://open.spotify.com/track/4o3RtSukEmNuFEGRYXyuBQ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Steve Russell](https://open.spotify.com/artist/3vaIpIxoAmQpnsH2LTgjHq) | [More Than A Game](https://open.spotify.com/album/55UhXq8grzHPga0we8mEL3) | 5:03 |
 | 36 | [Don't Go \(feat\. Tamar Braxton\)](https://open.spotify.com/track/0Wli4hI5DR6AyhRpw3jX8u) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW), [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Love Session](https://open.spotify.com/album/0yr5uPbuRrbCUGpGbYevPM) | 6:55 |
+| 37 | [Salt \- Live](https://open.spotify.com/track/1m6Kho9THIuUWUcbSPgVMw) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq) | [I Got You \(Live\)](https://open.spotify.com/album/2Yr0vQ28b2cURPxZsDZY11) | 5:03 |
 
-Snapshot ID: `AAAAJjFzxW8vpj3856GDpTnRQxm6y86I`
+Snapshot ID: `AAAAJx0p7VcjodEVLO91V186RjdcS7iv`

@@ -11189,6 +11189,28 @@
     },
     {
       "album": {
+        "name": "No Blemishes",
+        "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "No Blemishes",
+      "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
+    },
+    {
+      "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/6u66sAgu3xFfKhQpBr4dSu"
       },
@@ -13876,7 +13898,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 176202,
       "name": "Sake",
       "url": "https://open.spotify.com/track/11Rny6gcS3koCDu6gKqd6h"

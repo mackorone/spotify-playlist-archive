@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【全セットリスト公開】5月10日\(土\)\~11日\(日\)に開催された「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストのセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,370 likes - 333 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,371 likes - 333 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,7 +232,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 222 | [UTAGE3.0](https://open.spotify.com/track/1oogQWeQZZQmHjBR8TAqY3) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [UTAGE3.0](https://open.spotify.com/album/3jOYnUVCuj73HGvheEIkpJ) | 2:34 |
 | 223 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 |
 | 224 | [Peter Son](https://open.spotify.com/track/0JsevMNlsPLe1J4rnAHUBh) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Maria](https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa), [yvyv](https://open.spotify.com/artist/6paODp3nno5zdU5nS28nkl) | [OZWORLD](https://open.spotify.com/album/36eFAkbCd4RZw4P2Qy3Vmo) | 5:45 |
-| 225 | [Gear 5 \- Remix](https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gear 5 \(feat\. MIYACHI & Jinmenusagi\) \[Remix\]](https://open.spotify.com/album/3p1RDGa2EFeq2T4tRIj15Q) | 3:45 |
+| 225 | [Gear 5 \(feat\. MIYACHI & Jinmenusagi\) \- Remix](https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gear 5 \(feat\. MIYACHI & Jinmenusagi\) \[Remix\]](https://open.spotify.com/album/3p1RDGa2EFeq2T4tRIj15Q) | 3:45 |
 | 226 | [MIKOTO 〜SUN NO KUNI〜 \(feat\. 唾奇 & Awich\)](https://open.spotify.com/track/2jU7SNfwT5AkRQn8aak0Eh) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [SUN NO KUNI](https://open.spotify.com/album/64svoq5jDGIA3PshBnkeQA) | 3:58 |
 | 227 | [NINOKUNI](https://open.spotify.com/track/4cszUCYBMe3KiyewKfU96B) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [OZWORLD](https://open.spotify.com/album/36eFAkbCd4RZw4P2Qy3Vmo) | 4:17 |
 | 228 | [I AM THE](https://open.spotify.com/track/51YDxBQPEtBhgUn4uhFPhz) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [HERO](https://open.spotify.com/album/0SD61FTKmzJoNMjFGANQaB) | 2:19 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Poppy, Amy Lee and Courtney LaPlante.
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Poppy, Amy Lee and Courtney LaPlante
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,672 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,736 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [God Terror](https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Blue Nowhere](https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh) | 6:41 |
 | 75 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 |
 
-Snapshot ID: `AAAAAC8mPJ4Xz64evH9BLo4kIz0UzVwN`
+Snapshot ID: `AAAAACfU3kIeqPO8hESOFgCdJD8boK0o`

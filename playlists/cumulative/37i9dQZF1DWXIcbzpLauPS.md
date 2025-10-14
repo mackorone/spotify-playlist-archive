@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,366 songs - 3 day 11 hr 29 min
+1,367 songs - 3 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Downpour](https://open.spotify.com/track/2AQyiYOl2fVe7ZYHOKkEbj) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Downpour](https://open.spotify.com/album/3zcbr2SwtMAry4XicwbKdV) | 3:34 | 2023-07-21 | 2024-02-24 |
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2022-07-13 | 2022-07-15 |
 | [Drag Me Out](https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Drag Me Out](https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs) | 3:21 | 2024-04-18 | 2024-09-21 |
-| [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-25 |  |
+| [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-25 | 2025-10-14 |
 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 | 2023-02-10 | 2024-01-13 |
 | [Dragged Through Glass](https://open.spotify.com/track/6JDNppd5JDF7UNwVRpuPE7) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Dragged Through Glass](https://open.spotify.com/album/3UuqCrn6qLccmSbYEeTkdU) | 3:03 | 2025-04-25 | 2025-08-24 |
 | [Drawn, Conned & Deceived](https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Drawn, Conned & Deceived](https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH) | 3:10 | 2025-01-17 | 2025-06-29 |
@@ -1201,6 +1201,7 @@
 | [The Wall](https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Enter The Wall](https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU) | 2:23 | 2024-03-27 | 2024-08-13 |
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2022-07-13 | 2022-07-19 |
 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 | 2022-08-12 | 2022-12-17 |
+| [The Weight of Sound](https://open.spotify.com/track/3ol4KdpmZFQShByBdkbU9K) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [The Weight of Sound](https://open.spotify.com/album/5Rxt3dNHaHb6aBRLeZ1eEs) | 4:32 | 2025-10-10 |  |
 | [The Welcome Party](https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [The Welcome Party](https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X) | 3:30 | 2024-03-27 | 2024-08-26 |
 | [The Will To Resist](https://open.spotify.com/track/0WV1TMGuajXst28TPvKLrK) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The Will To Resist](https://open.spotify.com/album/0ZVxTEzzR2ymyefQbsQGMV) | 3:35 | 2023-08-18 | 2023-10-28 |
 | [The Worst in Me](https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [The Worst in Me](https://open.spotify.com/album/0WGSrc4P7JfVAYdNzde2MQ) | 3:41 | 2024-09-20 | 2024-12-19 |

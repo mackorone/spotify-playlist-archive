@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Vivi\u00e1n Baeza\ud83c\udf39",
-  "num_followers": 366143,
+  "num_followers": 366152,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
+        "name": "Que Hare Sin Ti",
+        "url": "https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn"
+      },
+      "artists": [
+        {
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        }
+      ],
+      "duration_ms": 167231,
+      "name": "Que Hare Sin Ti",
+      "url": "https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
         "name": "Veracruz",
         "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 222236,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
-        "name": "Que Hare Sin Ti",
-        "url": "https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn"
-      },
-      "artists": [
-        {
-          "name": "Mirla Avila",
-          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
-        }
-      ],
-      "duration_ms": 167231,
-      "name": "Que Hare Sin Ti",
-      "url": "https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT"
     },
     {
       "added_at": "2025-10-03 06:00:05",

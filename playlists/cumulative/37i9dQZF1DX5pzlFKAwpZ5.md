@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-330 songs - 1 day 0 hr 17 min
+331 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |
 | [Hitotoki](https://open.spotify.com/track/7oihgOOxT7CvQrDNF1yDo8) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Hitotoki](https://open.spotify.com/album/3PoEsNjbgIkR1dQtnT1FYT) | 2:41 | 2022-12-20 | 2023-08-19 |
 | [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 | 2022-01-07 |  |
-| [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 | 2023-01-06 |  |
+| [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 | 2023-01-06 | 2025-10-14 |
 | [honnkakuha](https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kimi](https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX) | 2:33 | 2023-09-08 |  |
 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 | 2024-06-07 |  |
 | [horizon](https://open.spotify.com/track/19Rms0r43i2fLRAoaUEYuV) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [horizon](https://open.spotify.com/album/40Wq6rw9mbo4N4e0dNqMzJ) | 2:30 | 2024-11-15 | 2025-08-02 |
@@ -313,6 +313,7 @@
 | [What It Means to Me](https://open.spotify.com/track/1i4DbSvqM0zwMv0Ik3Shap) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4Sv4vIH0WR5PF1g35XiBeA) | 3:46 | 2023-04-28 | 2023-11-02 |
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 | 2023-04-30 |
 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 |  |
+| [when fossils dream](https://open.spotify.com/track/14fW5Ka6MstcnK7LczezYk) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [night museum](https://open.spotify.com/album/58EvMt6aO7smm3cFjWqkGf) | 5:12 | 2025-10-03 |  |
 | [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 | 2025-02-10 |
 | [Wrapped](https://open.spotify.com/track/2hP5fvJv3YlaHsKHauQo8g) | [Akira Noumi](https://open.spotify.com/artist/5tUffhZ8wsHXifLfzhwNPm) | [Wrapped](https://open.spotify.com/album/2NHnwthgoUZbyuddHdVamb) | 2:44 | 2024-06-15 | 2025-08-01 |
 | [YACHIMATA\_160308](https://open.spotify.com/track/6PO1iv4vQLphE9rnjQAtqa) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA](https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl) | 3:22 | 2022-01-07 | 2022-07-29 |

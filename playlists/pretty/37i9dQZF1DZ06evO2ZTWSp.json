@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 481795,
+  "num_followers": 481762,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAgfFjxAGAe9weVIqK9fRdS",
+  "snapshot_id": "aOrvgAAAAACmR2QIhQhHPFevUyw8c/KM",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'em Say",
-        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Caroline Smith",
-          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
         }
       ],
-      "duration_ms": 200578,
-      "name": "Let 'em Say",
-      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
+      "duration_ms": 191659,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN"
     },
     {
       "added_at": null,
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "Let 'em Say",
+        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Caroline Smith",
+          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
         }
       ],
-      "duration_ms": 191659,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN"
+      "duration_ms": 200578,
+      "name": "Let 'em Say",
+      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
     },
     {
       "added_at": null,

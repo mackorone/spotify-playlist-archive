@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8627,
+  "num_followers": 8630,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAB9FLUDcFN6UAefU3m3uOcX",
+  "snapshot_id": "aOrvgAAAAAAav/BqEjt3XfSOkmc0qYQ7",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
         "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 134014,
       "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
     },
     {
       "added_at": null,
@@ -287,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
       "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+      "duration_ms": 177426,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
     },
     {
       "added_at": null,
@@ -319,6 +299,26 @@
       "duration_ms": 152560,
       "name": "Dame Chance (Rayuela)",
       "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rakata",
         "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 182384,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Fue Por Algo",
+      "url": "https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bye Boy",
         "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 178261,
       "name": "Bye Boy",
       "url": "https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Fue Por Algo",
-      "url": "https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-263 songs - 15 hr 49 min
+264 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 | 2024-11-11 |  |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-07-03 | 2025-09-20 |
 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 | 2025-03-07 |  |
-| [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 | 2025-01-23 |  |
+| [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 | 2025-01-23 | 2025-10-14 |
 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 | 2024-09-19 | 2025-03-23 |
 | [House Song](https://open.spotify.com/track/5swZvDSi78Znk4rlmwHNnj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/5QrP2hgfkYqAtDmlexzNcZ) | 4:55 | 2025-07-03 | 2025-09-20 |
 | [How Do You Fall In Love So Easily?](https://open.spotify.com/track/6OC4SzaB9nuQE8JBqA1JSV) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:24 | 2025-07-03 | 2025-09-20 |
@@ -181,7 +181,7 @@
 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 | 2025-01-23 |  |
 | [Paper Paradise](https://open.spotify.com/track/3wjAjh8IjfBN8haVy0UOXf) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Paper Paradise](https://open.spotify.com/album/6zqEscbgAAXrUNBxzW4K82) | 3:02 | 2024-06-27 | 2025-01-24 |
 | [Patterns](https://open.spotify.com/track/6CP9LzE18KTX5FnvUnwXpc) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 4:20 | 2025-07-03 | 2025-09-20 |
-| [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 | 2025-02-27 |  |
+| [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 | 2025-02-27 | 2025-10-14 |
 | [Perfect Dark \- Live at RAK](https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Perfect Dark \(Live at RAK\)](https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc) | 3:34 | 2025-07-03 | 2025-09-20 |
 | [Picture](https://open.spotify.com/track/3je6Qe27q1ygRvYZ408wHM) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Picture](https://open.spotify.com/album/6rwvim3fD0WIOrbro1d0me) | 6:59 | 2024-12-18 | 2025-01-27 |
 | [Questions](https://open.spotify.com/track/3YdAWLU8Vty02nMjo0QIHU) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 1:27 | 2024-06-27 | 2024-07-19 |
@@ -245,12 +245,13 @@
 | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/track/69qQyuhXYMJLOZPVOAEFaT) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/album/0Z5SZepPMUB2OlzrvTDepR) | 2:48 | 2024-06-27 | 2024-09-20 |
 | [This House](https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [This House](https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW) | 2:39 | 2025-02-13 | 2025-05-16 |
 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 | 2025-01-23 | 2025-06-29 |
+| [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 | 2025-10-13 |  |
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-09-11 |  |
 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 | 2024-06-27 | 2025-07-04 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2025-07-03 | 2025-09-20 |
 | [Tough Love](https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Flyte](https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k) | 3:01 | 2025-07-03 | 2025-09-20 |
 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 | 2025-06-05 | 2025-07-04 |
-| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 | 2025-10-13 |
+| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 |  |
 | [True Love Will Find You In The End](https://open.spotify.com/track/4wSIoDdhXG9pgk4tG9fSAS) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [True Love Will Find You In The End](https://open.spotify.com/album/0UlGGy5YcX8yEGRvaxZNjK) | 3:35 | 2025-07-03 | 2025-09-20 |
 | [Turn Right](https://open.spotify.com/track/3lnyM5SSjbnz3V7HzdULqy) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man: Expanded Edition](https://open.spotify.com/album/0OUK0k2WX8CceF5Bgd6oCH) | 2:31 | 2024-06-27 | 2024-10-04 |
 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 | 2025-01-23 |  |

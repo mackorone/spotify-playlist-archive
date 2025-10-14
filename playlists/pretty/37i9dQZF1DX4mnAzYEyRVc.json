@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 63876,
+  "num_followers": 63891,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Terc3ra Llamada",
         "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 224669,
       "name": "Adi\u00f3s adi\u00f3s",
       "url": "https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -911,38 +911,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Weit, weit weg",
-        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
-      },
-      "artists": [
-        {
-          "name": "Sondaschule",
-          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Weit, weit weg",
-      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -963,18 +931,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
         }
       ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -995,18 +963,34 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
       },
       "artists": [
         {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
         }
       ],
-      "duration_ms": 141344,
-      "name": "Mind Your Business",
-      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Weit, weit weg",
+        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
+      },
+      "artists": [
+        {
+          "name": "Sondaschule",
+          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Weit, weit weg",
+      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1023,6 +1007,22 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 141344,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Contra-Revolucion Avenue",
-        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Spanish Bombs",
-      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/6vXaJCdxYv2UFNYQuvikUv"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 251133,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Rudy Come Home",
+        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
+      },
+      "artists": [
+        {
+          "name": "Death Of Guitar Pop",
+          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
+        }
+      ],
+      "duration_ms": 240429,
+      "name": "Rudy Come Home",
+      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Leven Het Groots",
         "url": "https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Rudy Come Home",
-        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
-      },
-      "artists": [
-        {
-          "name": "Death Of Guitar Pop",
-          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
-        }
-      ],
-      "duration_ms": 240429,
-      "name": "Rudy Come Home",
-      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Qui\u00e9n Devuelve El Tiempo?",
-        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
+        "name": "Hard Band For Dead",
+        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
         }
       ],
-      "duration_ms": 210164,
-      "name": "Qui\u00e9n devuelve el tiempo?",
-      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+      "duration_ms": 199560,
+      "name": "2-Tone Army",
+      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Hard Band For Dead",
-        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
+        "name": "Qui\u00e9n Devuelve El Tiempo?",
+        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
       "artists": [
         {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 199560,
-      "name": "2-Tone Army",
-      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+      "duration_ms": 210164,
+      "name": "Qui\u00e9n devuelve el tiempo?",
+      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Baladera",
-        "url": "https://open.spotify.com/album/7rrRRsnUGHvwWxHOBi75Nh"
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
       },
       "artists": [
         {
-          "name": "Kir\u00e1",
-          "url": "https://open.spotify.com/artist/5evsIati0nxhYN0yjq2yJG"
-        },
-        {
-          "name": "Murica",
-          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
         }
       ],
-      "duration_ms": 214050,
-      "name": "Baladera",
-      "url": "https://open.spotify.com/track/3a7IiaKpODhp59MsXmY4Mi"
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1575,18 +1571,38 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+        "name": "Baladera",
+        "url": "https://open.spotify.com/album/7rrRRsnUGHvwWxHOBi75Nh"
       },
       "artists": [
         {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+          "name": "Kir\u00e1",
+          "url": "https://open.spotify.com/artist/5evsIati0nxhYN0yjq2yJG"
+        },
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
         }
       ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
+      "duration_ms": 214050,
+      "name": "Baladera",
+      "url": "https://open.spotify.com/track/3a7IiaKpODhp59MsXmY4Mi"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Zombiler",
         "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 206129,
       "name": "Zombiler",
       "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1695,22 +1711,6 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2025-10-03 00:00:35",

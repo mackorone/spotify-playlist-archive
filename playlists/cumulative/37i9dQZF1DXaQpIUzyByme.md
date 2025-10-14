@@ -4,7 +4,7 @@
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-73 songs - 4 hr 54 min
+74 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Toen Ik Je Zag](https://open.spotify.com/track/0FzCKjXKz9FMwtRlrOFQpt) | [Hero](https://open.spotify.com/artist/15E5Lo5HxDSnNhUac2LUKo) | [Toen Ik Je Zag](https://open.spotify.com/album/3dIaI0iPa9ja1dXCyBPHoL) | 3:21 | 2024-07-09 |  |
 | [V.V.T.](https://open.spotify.com/track/32PR7yBDk99gKE1ihEcKQB) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hemel & Aarde](https://open.spotify.com/album/0Jgb5SBxUJOPRRL0H6SNMz) | 4:54 | 2024-07-09 | 2025-10-01 |
 | [Verliefd Zijn](https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:30 | 2024-07-09 |  |
+| [Vlieg Met Me Mee \- Live](https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Van U Wil Ik Zingen](https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo) | 5:11 | 2024-07-09 |  |
 | [Voltooid Verleden Tijd](https://open.spotify.com/track/4TH3WXOP0FcPm02PV81iOl) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Investigations](https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl) | 5:46 | 2024-07-09 |  |
 | [Wat Zou Je Doen?](https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:50 | 2024-07-09 |  |
 | [Wereld Zonder Jou](https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [De Waarheid](https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT) | 3:55 | 2024-07-09 |  |
@@ -80,6 +81,6 @@
 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 | 2024-07-09 |  |
 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 | 2024-07-09 |  |
 | [Zomer](https://open.spotify.com/track/7n6IVz6fc1yGRi1DSmkRom) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:39 | 2024-07-09 | 2025-07-29 |
-| [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-07-09 |  |
+| [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-07-09 | 2025-10-14 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

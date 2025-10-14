@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💙 with AFROJACK, Martin Garrix, David Guetta, and Amél
 
-855 songs - 1 day 19 hr 53 min
+856 songs - 1 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 | 2024-02-16 | 2025-06-10 |
 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 | 2021-10-08 | 2022-03-02 |
 | [Make It Home](https://open.spotify.com/track/0V4Qpos8Es6VdHalZ4GsqC) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Héritage](https://open.spotify.com/album/5Ry4TznOKaJjwA7nAPriKB) | 3:38 | 2021-12-03 | 2022-06-12 |
+| [Make Me Forget](https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [First Love](https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP) | 3:15 | 2025-10-10 |  |
 | [MAKI](https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5zGhZkuwcKxl2saMNt7h8H) | 3:20 | 2022-03-25 | 2022-07-19 |
 | [MASK OFF](https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [MASK OFF](https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W) | 2:09 | 2024-06-28 | 2024-09-07 |
 | [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 | 2024-01-26 | 2024-04-29 |
@@ -680,7 +681,7 @@
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-06-02 | 2022-07-29 |
 | [Sleepless Nights](https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sleepless Nights](https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW) | 3:00 | 2025-08-11 |  |
 | [Slide Away](https://open.spotify.com/track/0KNUBfQF5oGz8jjqM3u3FQ) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slide Away](https://open.spotify.com/album/1lOXFpDfRnpr6MVkANJUs8) | 3:08 | 2025-06-13 | 2025-07-20 |
-| [Smalltown Boy](https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Smalltown Boy](https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti) | 3:34 | 2024-05-10 |  |
+| [Smalltown Boy](https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Smalltown Boy](https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti) | 3:34 | 2024-05-10 | 2025-10-14 |
 | [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 | 2023-11-03 | 2024-04-19 |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 | 2023-11-11 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1h54366McXSNcici2LAiZP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Duncán](https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Smells Like Teen Spirit](https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY) | 2:40 | 2023-12-15 |  |

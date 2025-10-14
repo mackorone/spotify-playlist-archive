@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,878 likes - 48 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,897 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 45 | [Esa Soy Yo](https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [La Aplanadora de Cuba](https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG) | 5:03 |
 | 46 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
 | 47 | [La Bomba \(Yo Lo Sé\)](https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 4:55 |
-| 48 | [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 |
+| 48 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
 
 Snapshot ID: `AAAAAME7JTm/rRxN4AIzxxlRW06DzwzE`

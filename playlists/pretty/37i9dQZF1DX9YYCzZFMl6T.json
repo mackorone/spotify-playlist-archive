@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7068,
+  "num_followers": 7115,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
-        "name": "Sing: Christmas Songs",
-        "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "Sing: Christmas Songs",
+        "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 154440,
-      "name": "I Heard The Bells On Christmas Day",
-      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
+      "duration_ms": 179653,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -347,6 +331,22 @@
       "duration_ms": 143909,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "I Heard The Bells On Christmas Day",
+      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -455,22 +439,6 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
-        "name": "Light of the Stable (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "The First Noel - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
       },
@@ -487,6 +455,38 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Light of the Stable (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "The First Noel - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "For Christmas",
         "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
       },
@@ -499,38 +499,6 @@
       "duration_ms": 198088,
       "name": "Blame It on the Mistletoe",
       "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Everybody Knows It's Christmas",
-        "url": "https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Wrapping Presents For Myself",
-      "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -555,6 +523,22 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Everybody Knows It's Christmas",
+        "url": "https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Wrapping Presents For Myself",
+      "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "Christmas Tree in the Window",
         "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
       },
       "artists": [
         {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
         }
       ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -599,6 +583,22 @@
       "duration_ms": 245293,
       "name": "Kid On Christmas",
       "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 182333,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
+        "name": "Christmas is Right Here",
+        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 183966,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
+    },
+    {
+      "added_at": "2025-10-07 16:01:44",
+      "album": {
         "name": "Gone for Christmas (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
-    },
-    {
-      "added_at": "2025-10-07 16:01:44",
-      "album": {
-        "name": "Christmas is Right Here",
-        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 183966,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
     },
     {
       "added_at": "2025-10-07 16:01:44",
@@ -831,22 +831,18 @@
     {
       "added_at": "2025-10-07 16:01:44",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/0hs1LUkCfcNvSMNmTEAgxw"
+        "name": "Christmas Alone (Live from the Blue Room)",
+        "url": "https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
         }
       ],
-      "duration_ms": 231928,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3g0qK0NS7owXH1rKDbhRl4"
+      "duration_ms": 210508,
+      "name": "Christmas Alone - Live",
+      "url": "https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV"
     }
   ],
   "unique_name": "Americana Christmas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 615657,
+  "num_followers": 615872,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADIq3sFUlQ4e3FK0G37tRyS",
+  "snapshot_id": "aOrvgAAAAAAYmOquJJIUsqFZ3V9tE4VZ",
   "tracks": [
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Miss",
-        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 189729,
-      "name": "Dear Miss",
-      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/61GJoJVPyP7YPBIsGd3ZKX"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+        "name": "Dear Miss",
+        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/61GJoJVPyP7YPBIsGd3ZKX"
+      "duration_ms": 189729,
+      "name": "Dear Miss",
+      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
     },
     {
       "added_at": null,

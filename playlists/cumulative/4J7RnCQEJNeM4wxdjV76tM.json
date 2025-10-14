@@ -2693,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "38 Baby",
+        "url": "https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "3Three",
+          "url": "https://open.spotify.com/artist/0Q4C0BC6ZjxW0ps1ItEpx8"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Down Chick (feat. 3Three)",
+      "url": "https://open.spotify.com/track/4c1x1SYPM26MHCkJSYwknD"
+    },
+    {
+      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
       },
@@ -3566,6 +3588,24 @@
       "duration_ms": 197720,
       "name": "Game Winner",
       "url": "https://open.spotify.com/track/27SF0VyxFsYf112UYvngjt"
+    },
+    {
+      "album": {
+        "name": "MASA",
+        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263359,
+      "name": "Games Of War",
+      "url": "https://open.spotify.com/track/0Bu4Ftm8pa65s690nhgGTV"
     },
     {
       "album": {
@@ -9224,6 +9264,24 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+    },
+    {
+      "album": {
+        "name": "Vena Sera",
+        "url": "https://open.spotify.com/album/5FT5oo5IM2hBizZisoPKH3"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "Saferwaters",
+      "url": "https://open.spotify.com/track/6e9s42iBN7bt5QvCvFlVUs"
     },
     {
       "album": {

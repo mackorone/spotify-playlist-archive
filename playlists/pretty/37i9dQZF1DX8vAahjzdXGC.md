@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Afgan, Idgitaf, JISOO, ZAYN, dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,724 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,741 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 2 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 3 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/43Ed54bKecnKeq5MWhb2BC) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/3GikdpvnrtkUtfPbwzm9sy) | 3:50 |
 | 4 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 5 | [ME + YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |
+| 5 | [ME+YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |
 | 6 | [Cendana](https://open.spotify.com/track/0PKoCpeBjGdx6TTXPZVLbM) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Cendana](https://open.spotify.com/album/3tYfzqhCpTXLRrHzwSN2iA) | 3:57 |
 | 7 | [10 Menit Untuk Selamanya](https://open.spotify.com/track/5SLVY1sGV2keqf7lnphHZU) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [10 Menit Untuk Selamanya](https://open.spotify.com/album/5cV4r5GpL0DAYk31qbzKk5) | 4:04 |
 | 8 | [Bayangan Cinta Yang Lalu](https://open.spotify.com/track/7k5KS786ibuDQIU4YKRnQ7) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Bayangan Cinta Yang Lalu](https://open.spotify.com/album/3LAMMg0LKfDuIePDLgnTBH) | 3:44 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 66 | [My Lil' Heart Attack \- Live ver](https://open.spotify.com/track/7vysBoN3trLcwjRNZPAxGB) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [SHŪKAI FINAL in TOKYO \(Live Highlights\)](https://open.spotify.com/album/75b2vYlmHSmi44dQqzmTTQ) | 3:00 |
 | 67 | [PIMPIN'](https://open.spotify.com/track/6VG33RSohS6y0qfhARz57q) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [PIMPIN'](https://open.spotify.com/album/1cfJseIIMHCbHoHj2IEmiB) | 2:47 |
 | 68 | [Wall](https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Wall](https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a) | 2:51 |
-| 69 | [Up \- with Rag'n'Bone Man](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Up \(with Rag'n'Bone Man\)](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 69 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
 | 70 | [Tarmac](https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Tarmac](https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU) | 3:10 |
 | 71 | [All I Want Is You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Would You Marry Me?, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC) | 3:12 |
 | 72 | [목소리](https://open.spotify.com/track/43AhhglO7CAIbRqUPiUdJv) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p), [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1) | [From one blink to another](https://open.spotify.com/album/4pK2FjFAdOnexU0t06RlXX) | 2:38 |

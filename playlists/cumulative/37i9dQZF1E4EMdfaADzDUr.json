@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, winterburn, Birrd and more",
+  "description": "With After Cooking, winterburn, Leblanc and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 197386,
       "name": "Awake",
       "url": "https://open.spotify.com/track/0U3K9F9KgSh5SyDLehcsta"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 250373,
       "name": "Black Box",
       "url": "https://open.spotify.com/track/3J1itSdJFYDHf9LSIq2rbl"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 242705,
       "name": "Blind Sun",
       "url": "https://open.spotify.com/track/2Yd4m4c0ZlKrFYfJ1wUxMX"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 221317,
       "name": "DIA - Birrd Rework",
       "url": "https://open.spotify.com/track/3P6EZuulylLhdPtyP6x8LN"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 366512,
       "name": "Ghost (Find Me Again)",
       "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 438900,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 195585,
       "name": "i think i'm everything",
       "url": "https://open.spotify.com/track/1lXgcIT8pPEYpyWuPo6Hsr"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 339760,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4r4eTvYnjzyQnMpWei7Qgb"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -1544,10 +1544,28 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/0Gz7SiwdBUDaBlZWGyKEu1"
+    },
+    {
+      "album": {
+        "name": "From one blink to another",
+        "url": "https://open.spotify.com/album/4pK2FjFAdOnexU0t06RlXX"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335250,
+      "name": "Lueur",
+      "url": "https://open.spotify.com/track/4zgjUwITPoDoy7xZ2Keco1"
     },
     {
       "album": {
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 203779,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4UAxmiriWgNyu40rePrrsn"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 275348,
       "name": "Nevado Sorata",
       "url": "https://open.spotify.com/track/7xEFZweKnKVcs3OFczJAbd"
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 286080,
       "name": "Planet of the Tapes",
       "url": "https://open.spotify.com/track/5ATXnnGXtYhDWF0IAcFVXB"
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 240000,
       "name": "Premier contact",
       "url": "https://open.spotify.com/track/3fJPlwDCvx3dyKIoaSeANr"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 281920,
       "name": "Prince Caster",
       "url": "https://open.spotify.com/track/6XxJfXxQAeyUOVl8Pg0gMY"
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 185461,
       "name": "Pulse of Darkness",
       "url": "https://open.spotify.com/track/0sajNnAKzvBzM1hHUgY2fA"
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 293777,
       "name": "Space Invaders",
       "url": "https://open.spotify.com/track/30HIxjXprLyB52hwD5isso"
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 205403,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/3ZcSFBU313eFXCgZcs0TAp"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 241573,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/1dvyFEyi0TA0yHurmzhKjV"
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 206341,
       "name": "Verbier",
       "url": "https://open.spotify.com/track/7f8SsMWNbWM5Fyg9duonkz"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 245542,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 223125,
       "name": "you are not like the others",
       "url": "https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

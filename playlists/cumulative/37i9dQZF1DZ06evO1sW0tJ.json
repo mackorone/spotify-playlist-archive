@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/6HHRdpg1h2ugnc3ayNkh7W"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 244088,
       "name": "Drei Romanzen, Nr. 3 Leidenschaftlich schnell - Piano & Violin",
       "url": "https://open.spotify.com/track/3U010epOsIDfHOW9mx8p8Y"
@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Original Classics, Vol. 421: Clara Schumann, Voice of the Heart",
+        "url": "https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klaus Reimann",
+          "url": "https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190914,
+      "name": "Romance, Op. 22: No. 1, Andante Molto",
+      "url": "https://open.spotify.com/track/1Pi4QDHUHRF53djA05AS1P"
+    },
+    {
+      "album": {
         "name": "Female Power: Piano Works",
         "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
       },
@@ -1166,6 +1188,28 @@
       "duration_ms": 60147,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. V",
       "url": "https://open.spotify.com/track/4soPH2kdUzvS9A9aZfs00v"
+    },
+    {
+      "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70585,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. VI",
+      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
     },
     {
       "album": {

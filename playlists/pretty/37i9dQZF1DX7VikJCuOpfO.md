@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Vivián Baeza🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,143 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,152 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 23 | [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 |
 | 24 | [Bailando De A Cartón](https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Bailando De A Cartón](https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi) | 3:24 |
 | 25 | [Nuestro Camino](https://open.spotify.com/track/75ABFQC2lxBmgQ5kqE0Q0u) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Nuestro Camino](https://open.spotify.com/album/4mDn0pCJ5eepwk8zJ218ov) | 3:25 |
-| 26 | [Veracruz](https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [José Carrillo](https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz) | [Veracruz](https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5) | 3:42 |
-| 27 | [Que Hare Sin Ti](https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT) | [Mirla Avila](https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd) | [Que Hare Sin Ti](https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn) | 2:47 |
+| 26 | [Que Hare Sin Ti](https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT) | [Mirla Avila](https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd) | [Que Hare Sin Ti](https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn) | 2:47 |
+| 27 | [Veracruz](https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [José Carrillo](https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz) | [Veracruz](https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5) | 3:42 |
 | 28 | [A Dos De Borrarte](https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 3:09 |
 | 29 | [Mira Quién Lo Dice](https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:09 |
 | 30 | [Hubiéramos Sido](https://open.spotify.com/track/5EE4xqrePSzMIpwCnMXIRG) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Hubiéramos Sido](https://open.spotify.com/album/79S757DsRfH1K3wvyQHsPC) | 3:01 |

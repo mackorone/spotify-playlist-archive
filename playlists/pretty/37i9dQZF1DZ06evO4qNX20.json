@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 338322,
+  "num_followers": 338361,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABwMrgTrXXeOaXNzapnPcAU",
+  "snapshot_id": "aOrvgAAAAAAwdD5lwEdR6xS2iZxePmhN",
   "tracks": [
     {
       "added_at": null,
@@ -656,9 +656,25 @@
           "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 164942,
-      "name": "Corrido De Olegario",
-      "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
+      "duration_ms": 202675,
+      "name": "Corrido Del Gallito",
+      "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
+        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 191541,
+      "name": "La Muerte Del Pela Vacas",
+      "url": "https://open.spotify.com/track/7runa07mWUPQiou4sIWBsx"
     },
     {
       "added_at": null,
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
-        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
+        "name": "Colecci\u00f3n De Oro: Mis Mejores Corridos, Vol. 1",
+        "url": "https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu"
       },
       "artists": [
         {
@@ -688,9 +704,29 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 191541,
-      "name": "La Muerte Del Pela Vacas",
-      "url": "https://open.spotify.com/track/7runa07mWUPQiou4sIWBsx"
+      "duration_ms": 161343,
+      "name": "Corrido De Rosalino",
+      "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
+        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 164942,
+      "name": "Corrido De Olegario",
+      "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
     },
     {
       "added_at": null,
@@ -715,42 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
-        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 202675,
-      "name": "Corrido Del Gallito",
-      "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colecci\u00f3n De Oro: Mis Mejores Corridos, Vol. 1",
-        "url": "https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 161343,
-      "name": "Corrido De Rosalino",
-      "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 \u00c9xitos Con El Inolvidable",
         "url": "https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 213507,
       "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
       "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
-        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 270535,
-      "name": "Prajedes F\u00e9lix",
-      "url": "https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 207866,
       "name": "El Gallo de Sinaloa",
       "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
+        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 270535,
+      "name": "Prajedes F\u00e9lix",
+      "url": "https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 160777,
+      "name": "Juli\u00e1n del Real - Remastered 2025",
+      "url": "https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 161373,
       "name": "El Branco Fajiado",
       "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 160777,
-      "name": "Juli\u00e1n del Real - Remastered 2025",
-      "url": "https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci"
     },
     {
       "added_at": null,

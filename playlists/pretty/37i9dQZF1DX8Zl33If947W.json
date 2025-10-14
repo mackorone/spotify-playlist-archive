@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 195864,
+  "num_followers": 195900,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Demo (Letzter Tag)",
+      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 167873,
       "name": "Blaue Augen",
       "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Demo (Letzter Tag)",
-      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2025-03-26 13:54:44",

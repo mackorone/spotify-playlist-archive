@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Khalid, Alessia Cara, Dasha, Vandelux, Amber Mark, Sofia Camara and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,768 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,729 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 31 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
 | 32 | [Love Is An Action](https://open.spotify.com/track/4p5vOaWbhfLMdXmfHkPvEW) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:33 |
 | 33 | [Pretty Face](https://open.spotify.com/track/44OPAYWTOY8ju0L0Bi5H7E) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Pretty Face](https://open.spotify.com/album/2niUbgX06teCvBiFi4cFY4) | 3:47 |
-| 34 | [Up \- with Rag'n'Bone Man](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Up \(with Rag'n'Bone Man\)](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 34 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
 | 35 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |
 | 36 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 |
 | 37 | [Love The Right Way](https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Love The Right Way](https://open.spotify.com/album/0Sj2OyE8baABGE5iCPlXCM) | 3:12 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 77 | [Keep Me in the Dark](https://open.spotify.com/track/1UXrY8dRPFVkkB8MiwpT3T) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [The Life You Save](https://open.spotify.com/album/7fuPhH0QTTl13WgshkTAP6) | 4:26 |
 | 78 | [Debbie](https://open.spotify.com/track/1p6URvr4Aec0qoHsWpmKtX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Debbie](https://open.spotify.com/album/1jerxtUu2nOtEIMvvTG8L4) | 2:21 |
 | 79 | [Whatever U Want \(feat\. Jeremih\)](https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Whatever U Want](https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v) | 2:29 |
-| 80 | [Par hasard](https://open.spotify.com/track/2pWQsNOLo1NAI3i1tv4yZA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Par hasard](https://open.spotify.com/album/6Ht9OQ3Nfij8YumkGeXjZ2) | 3:12 |
+| 80 | [Par hasard \(avec Ariane Moffatt\)](https://open.spotify.com/track/2pWQsNOLo1NAI3i1tv4yZA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Par hasard \(avec Ariane Moffatt\)](https://open.spotify.com/album/6Ht9OQ3Nfij8YumkGeXjZ2) | 3:12 |
 | 81 | [Look it Up](https://open.spotify.com/track/1M3YqHTSgmfxigMGVqnSEa) | [Q052](https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE) | [Thunder Child](https://open.spotify.com/album/0NySTs4oxlVsEtMaAMaAy3) | 2:31 |
 | 82 | [Rhythm Of Love](https://open.spotify.com/track/60RypkrobnWcYBBBxgwSnS) | [Chloe Florence](https://open.spotify.com/artist/19QNbkHqVWtF8uXVQl8IUg) | [Endlessly Borrowed](https://open.spotify.com/album/4mlIksujTqA0Di1gV1EeBV) | 3:53 |
 | 83 | [the dread](https://open.spotify.com/track/6vHUVBj29hKFHKyEYcFuc0) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [the dread](https://open.spotify.com/album/5JaU8PS21OKmuyCqfys9mW) | 3:47 |

@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Bente
+> De beste Nederlandse liedjes\. Cover: Zoë Livay
 
 416 songs - 21 hr 17 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 328573,
+  "num_followers": 328608,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Graf Zahl",
         "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 332869,
       "name": "Graf Zahl",
       "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Turning Away (Parra for Cuva Remix)",
-        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 261538,
-      "name": "Turning Away - Parra for Cuva Remix",
-      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 259039,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Turning Away (Parra for Cuva Remix)",
+        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 261538,
+      "name": "Turning Away - Parra for Cuva Remix",
+      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Home (Remixes)",
-        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 334867,
-      "name": "Holy - Frank Wiedemann Remix",
-      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "What If I",
         "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
       },
@@ -1127,18 +1107,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Silence & Secrets",
-        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+        "name": "Home (Remixes)",
+        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
         }
       ],
-      "duration_ms": 268434,
-      "name": "Silence & Secrets",
-      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+      "duration_ms": 334867,
+      "name": "Holy - Frank Wiedemann Remix",
+      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Remote",
-        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
+        "name": "Silence & Secrets",
+        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
       },
       "artists": [
         {
-          "name": "MagnusTheMagnus",
-          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         }
       ],
-      "duration_ms": 198069,
-      "name": "Remote",
-      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
+      "duration_ms": 268434,
+      "name": "Silence & Secrets",
+      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1195,6 +1179,22 @@
       "duration_ms": 365069,
       "name": "Eyes Alive",
       "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Remote",
+        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
+      },
+      "artists": [
+        {
+          "name": "MagnusTheMagnus",
+          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Remote",
+      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1227,26 +1227,6 @@
       "duration_ms": 191260,
       "name": "Hold Your Breath",
       "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Serene",
-        "url": "https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC"
-      },
-      "artists": [
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 249806,
-      "name": "Serene",
-      "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1287,6 +1267,26 @@
       "duration_ms": 316840,
       "name": "Oh, Lover - NTO Remix",
       "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 249806,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"
     }
   ],
   "unique_name": "Afterhours",

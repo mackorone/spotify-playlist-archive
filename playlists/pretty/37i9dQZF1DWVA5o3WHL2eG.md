@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,841 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,838 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Ignorance is Bliss](https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Ignorance is Bliss](https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ) | 3:34 |
 | 9 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
 | 10 | [Open My Door](https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 2:33 |
-| 11 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
-| 12 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
+| 11 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
+| 12 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
 | 13 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
 | 14 | [Wo ist der Bus?](https://open.spotify.com/track/3K9w7OyVYqqdH3OCW1fitJ) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Wo ist der Bus?](https://open.spotify.com/album/32WbGkfl1nQ1BaOLEAzJlz) | 3:10 |
 | 15 | [Sommer](https://open.spotify.com/track/148ipTGpwMc6rqVLKv1Ni5) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Sommer](https://open.spotify.com/album/5eVuUpVYXKvRQHhD2wQlBn) | 2:43 |
 | 16 | [Superpower](https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Superpower](https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n) | 4:44 |
 | 17 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 18 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
-| 19 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
+| 18 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
+| 19 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
 | 20 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
 | 21 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
 | 22 | [1500 km](https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [1500 km](https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds) | 2:06 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [beine spüren](https://open.spotify.com/album/1u1SE1QyQgbP4A7KhTF1cF) | 2:52 |
 | 31 | [Du kannst nicht gut allein sein](https://open.spotify.com/track/2ZPIyzwaJ1fDdGdlqBq7Cy) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Du kannst nicht gut allein sein](https://open.spotify.com/album/0GdCyhce60HcUmnUugZV6W) | 3:03 |
 | 32 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |
-| 33 | [Glühwürmchen](https://open.spotify.com/track/0bkkcQ3GXWJLAUDnpwEFa2) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Glühwürmchen](https://open.spotify.com/album/3NSxwMjPi3mTANNAJ6IHFx) | 2:52 |
-| 34 | [Immerx3](https://open.spotify.com/track/3SLrSR2jkWiUWxx1ONzHOI) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Immerx3](https://open.spotify.com/album/6AtltYp1XUC8eKVV1zK5Kb) | 3:28 |
-| 35 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
+| 33 | [Immerx3](https://open.spotify.com/track/3SLrSR2jkWiUWxx1ONzHOI) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Immerx3](https://open.spotify.com/album/6AtltYp1XUC8eKVV1zK5Kb) | 3:28 |
+| 34 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
+| 35 | [Glühwürmchen](https://open.spotify.com/track/0bkkcQ3GXWJLAUDnpwEFa2) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Glühwürmchen](https://open.spotify.com/album/3NSxwMjPi3mTANNAJ6IHFx) | 2:52 |
 | 36 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
 | 37 | [Sun](https://open.spotify.com/track/5pVwBCaSao2mLhthyDVTc1) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Sun](https://open.spotify.com/album/6q9uLcgSr1lF6QVVxHJzaN) | 3:24 |
 | 38 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |

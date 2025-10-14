@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 317269,
+  "num_followers": 317401,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABrvggLYgjC0cQI4mBfF9y2",
+  "snapshot_id": "aOrvgAAAAADcgxn6SAuiidiaQxBRR4X9",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popular Monster",
-        "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 239592,
       "name": "Creature",
       "url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7"
     },
     {
       "added_at": null,

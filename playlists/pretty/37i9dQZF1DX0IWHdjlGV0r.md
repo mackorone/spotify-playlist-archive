@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Alcuni amori bruciano più di altri\. Cover: Emis Killa
+> Alcuni amori bruciano più di altri\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,697 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,721 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 67 | [Amore cieco \(feat\. Madame\)](https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:40 |
 | 68 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 |
 | 69 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
-| 70 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 |
-| 71 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 |
+| 70 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 |
+| 71 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 |
 | 72 | [MILANO 3AM](https://open.spotify.com/track/3ytJd1HfiP249QcPg7rvQP) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 3:03 |
 | 73 | [Soli \(Assieme\)](https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mercurio](https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj) | 3:25 |
 | 74 | [CCHIÙ BENE 'E ME \(feat\. Irama\)](https://open.spotify.com/track/6NfsDpez9CiGcvSonBdYWc) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/48XM18Azz6c6afvKV239IW) | 2:33 |

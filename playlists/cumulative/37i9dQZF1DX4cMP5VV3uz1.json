@@ -449,6 +449,28 @@
     },
     {
       "album": {
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222171,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
+    },
+    {
+      "album": {
         "name": "Baby G",
         "url": "https://open.spotify.com/album/2lnd0ppKdrXSCdaiAVe2EY"
       },
@@ -1150,6 +1172,36 @@
       "duration_ms": 224914,
       "name": "BODY DROP (Won't Stop)",
       "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "album": {
+        "name": "Body Rok",
+        "url": "https://open.spotify.com/album/3N35DmV7b492f1BhEi5gFC"
+      },
+      "artists": [
+        {
+          "name": "Deekline",
+          "url": "https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7"
+        },
+        {
+          "name": "Freq Nasty",
+          "url": "https://open.spotify.com/artist/5gv9zZbaJKdjKWNVwcDP2N"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Body Rok",
+      "url": "https://open.spotify.com/track/47VeBx96ltjkp0VYDIm3It"
     },
     {
       "album": {
@@ -3347,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Foreshadow / Third Kit",
+        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "Foreshadow",
+      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "album": {
         "name": "FOREVER WITH U",
         "url": "https://open.spotify.com/album/6FWcyk3l0v83nfVT6yNyg9"
       },
@@ -4528,7 +4598,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 157714,
       "name": "I've Got Feelings",
       "url": "https://open.spotify.com/track/63OmWSc19gAlsObR0H8RjK"
@@ -6338,7 +6408,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 300000,
       "name": "Negative Pressure",
       "url": "https://open.spotify.com/track/2tIy7pbjEl2qSCBcAQCpSn"
@@ -9302,7 +9372,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 190650,
       "name": "Still The Same (feat. CASISDEAD)",
       "url": "https://open.spotify.com/track/1h1M68zwESaPbUpZ6AU8oW"

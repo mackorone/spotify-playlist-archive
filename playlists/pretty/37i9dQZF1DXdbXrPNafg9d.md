@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Oklou x FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,193 likes - 176 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,132 likes - 176 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

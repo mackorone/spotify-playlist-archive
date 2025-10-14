@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: VLOSPA, Dof Twogee",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RACK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 166285,
       "name": "2 DIODIA",
       "url": "https://open.spotify.com/track/70uIhFrirDdHsmFcofSVHh"
@@ -494,6 +494,24 @@
       "duration_ms": 186250,
       "name": "Alaska.",
       "url": "https://open.spotify.com/track/69OPhkj4Kd8o1Tkl1r8RJH"
+    },
+    {
+      "album": {
+        "name": "ALEPOU",
+        "url": "https://open.spotify.com/album/03PfdPihxPMUX3HC8qcojr"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "ALEPOU",
+      "url": "https://open.spotify.com/track/6tVxDRTL0EnSL4ITFbv97R"
     },
     {
       "album": {
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
@@ -2386,6 +2404,28 @@
       "duration_ms": 272000,
       "name": "Europa League",
       "url": "https://open.spotify.com/track/10XT0sJ9X6mphdFnkPcutl"
+    },
+    {
+      "album": {
+        "name": "EUROSHARK",
+        "url": "https://open.spotify.com/album/40dQziKXhl1W6LzhnFCpmW"
+      },
+      "artists": [
+        {
+          "name": "SOTT",
+          "url": "https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178146,
+      "name": "EUROSHARK",
+      "url": "https://open.spotify.com/track/7JRewNHAApiynU6ep0FBt8"
     },
     {
       "album": {
@@ -3173,6 +3213,28 @@
     },
     {
       "album": {
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/6HwurAZCw1kbg2C1ihbP8M"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189089,
+      "name": "HAYABUSA",
+      "url": "https://open.spotify.com/track/2LOCrebeoS8jVdHvGYWb7k"
+    },
+    {
+      "album": {
         "name": "HELLO KITTY",
         "url": "https://open.spotify.com/album/6xRkMas5Vr3HcMWlPuNl9q"
       },
@@ -3822,7 +3884,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 253420,
       "name": "Kourastika Na S' Agapo",
       "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
@@ -4320,7 +4382,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 183428,
       "name": "MARTINEZ",
       "url": "https://open.spotify.com/track/6fXwyGSpKTbh7ZURCqU0RP"
@@ -4600,7 +4662,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 164506,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT"
@@ -6507,6 +6569,32 @@
     },
     {
       "album": {
+        "name": "SPEEDEX",
+        "url": "https://open.spotify.com/album/5nH4bF6V4gg7YAd3TDQUGG"
+      },
+      "artists": [
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        },
+        {
+          "name": "Ank Beats",
+          "url": "https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "SPEEDEX",
+      "url": "https://open.spotify.com/track/0SwtTrZ9iJMGSvcXprOmeT"
+    },
+    {
+      "album": {
         "name": "701",
         "url": "https://open.spotify.com/album/1Dj73xfi0uyUA6dPolWkvt"
       },
@@ -6654,6 +6742,28 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "TA AYTONOHTA",
+        "url": "https://open.spotify.com/album/58wuNHJdtfDCi4ATj3IF3z"
+      },
+      "artists": [
+        {
+          "name": "How",
+          "url": "https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi"
+        },
+        {
+          "name": "skinny",
+          "url": "https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127001,
+      "name": "TA AYTONOHTA",
+      "url": "https://open.spotify.com/track/7rqKwEwmjshCC5DzIpRTgP"
     },
     {
       "album": {

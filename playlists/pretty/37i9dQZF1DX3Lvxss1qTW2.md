@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,199 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,289 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 19 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
 | 20 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:08 |
 | 21 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 |
-| 22 | [Kanye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kanye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 |
+| 22 | [Kan Ye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kan Ye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 |
 | 23 | [Mmerepa](https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:06 |
 | 24 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
 | 25 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 |

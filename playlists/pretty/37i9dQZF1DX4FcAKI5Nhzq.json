@@ -1,15 +1,47 @@
 {
   "description": "Future K-Pop hits! (Cover: BABYMONSTER)",
-  "num_followers": 882978,
+  "num_followers": 883040,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwxjdeZrnVNjfDfkDoJXwTlYFR8",
+  "snapshot_id": "AAAAAF13FZFM+sOMqfQEfP7GI1CL8KFc",
   "tracks": [
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
+      "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw"
+    },
+    {
+      "added_at": "2025-10-13 10:41:28",
+      "album": {
+        "name": "TWS 4th Mini Album 'play hard'",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+    },
+    {
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Pretty Please",
         "url": "https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
@@ -65,7 +97,7 @@
       "url": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "EXchange4, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Not Just Pretty",
         "url": "https://open.spotify.com/album/2LfRsLiziLIEBljoMeH5VU"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "MAZE : AD ASTRA",
         "url": "https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Head Shoulders Knees Toes",
         "url": "https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Special Single 'Blue Whale'",
         "url": "https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J"
@@ -161,7 +193,23 @@
       "url": "https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/0MSgmHVfSLarMx6EqKV42V"
+      },
+      "artists": [
+        {
+          "name": "U-KNOW",
+          "url": "https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9"
+    },
+    {
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "I\u2019ll Never Love Again",
         "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Motivation",
         "url": "https://open.spotify.com/album/2VwK9HJ5y9KpKAnp2bOzek"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/2jp0nh8LhOihT6SbPfQGvb"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Love in the City",
         "url": "https://open.spotify.com/album/0QFqaVrdzz9qAcLllxknWI"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/6CR555XA7zP2P3N7KqLlnN"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "BOYS II PLANET \u2013 FINAL DEBUT BATTLE",
         "url": "https://open.spotify.com/album/3qdRplX3RGyQgzDPmmueIQ"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/2XTbl7e9ZcAr57dgRNrwUa"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Things we love : I",
         "url": "https://open.spotify.com/album/2jjFsmmJWEvCqOREZlqF9a"
@@ -257,7 +305,7 @@
       "url": "https://open.spotify.com/track/1RKdxCUdiyGSWscrdx7Aq6"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "My First Flip",
         "url": "https://open.spotify.com/album/2oPgsxzvXORR8pnYv9mYdz"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/6M7PEx3X111WwTAXc6vYCH"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "the a(e)nd",
         "url": "https://open.spotify.com/album/20AadKt47X13wv79tS33Yv"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/1mhkm2sS4ZCj2u7yHsVmBH"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Who Are You - The 4th Mini Album",
         "url": "https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB"
@@ -321,7 +369,7 @@
       "url": "https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "To The Moon, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/25G6zBCoaAbZxAORbFImB0"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/3IADXVr5gLIYzxifer9zFH"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/6QYmZNsB8JEqHybg99YYfM"
@@ -357,7 +405,7 @@
       "url": "https://open.spotify.com/track/5jqnpaGBgHNMTNIO6wZZzz"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
         "url": "https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "SLIDIN\u2019",
         "url": "https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA"
@@ -397,7 +445,7 @@
       "url": "https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "LIL FANTASY vol.1",
         "url": "https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "THRILLER",
         "url": "https://open.spotify.com/album/3WDzrUo4IO2A3ScJh6LWTW"
@@ -429,7 +477,7 @@
       "url": "https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Two Lights - \"believe\" (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wF0xg9C7NagI2fQEFWWI2"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/2NVtpYVk0PHX8vQsW9zlPd"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Love Your Flower",
         "url": "https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "I did it.",
         "url": "https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Bye, Summer",
         "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "The DECADE",
         "url": "https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "gonna love me, right?",
         "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "What You Want",
         "url": "https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "TASTE - The 1st Album",
         "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "NEVER SAY NEVER",
         "url": "https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/7srZ5Feiz5S4R4O9jL1Dx4"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "3rd MINI ALBUM [LOVE PULSE]",
         "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "WHAT HAVE WE DONE",
         "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "COLOR - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0"
@@ -645,7 +693,7 @@
       "url": "https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "VCF",
         "url": "https://open.spotify.com/album/3mNJ0XCdr6TbY3TPN0k0tn"
@@ -661,7 +709,7 @@
       "url": "https://open.spotify.com/track/1Vj1oP3Z1PJXsU2HpgEPvO"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "NO DAY",
         "url": "https://open.spotify.com/album/4nWtg5GjFNs1e4ThRi00aV"
@@ -677,7 +725,7 @@
       "url": "https://open.spotify.com/track/5BsfZFM6O8Prt7lG1GRkOz"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "CIX 8th EP Album GO Chapter 1 : GO Together",
         "url": "https://open.spotify.com/album/5dhQSeZvL4WtRwi4CaQBb6"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/1zn7W0MAMQSo0bZeY4jyyq"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "RODEO",
         "url": "https://open.spotify.com/album/4ZfhnQhFXNg4zfpW8TdI6P"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/7jd4sz1jTKa6yHU0171kYY"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "BADITUDE",
         "url": "https://open.spotify.com/album/0rrvytckaTbb4mE1H82iZ9"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/5cwvqvUg378HuUo5QRrU7B"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "take it anymore",
         "url": "https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "Me, Myself & I",
         "url": "https://open.spotify.com/album/1OsWJNxJABp62RsCo4Mcmb"
@@ -757,7 +805,7 @@
       "url": "https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "BUBBLE GUM",
         "url": "https://open.spotify.com/album/3pKcgDJmV3GZwgElcupVrg"
@@ -773,7 +821,7 @@
       "url": "https://open.spotify.com/track/3IUtLSW5FWB0K4RdkvOamG"
     },
     {
-      "added_at": "2025-10-10 06:25:21",
+      "added_at": "2025-10-13 10:41:28",
       "album": {
         "name": "BLUE!",
         "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
@@ -787,58 +835,6 @@
       "duration_ms": 196013,
       "name": "BLUE!",
       "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
-    },
-    {
-      "added_at": "2025-10-10 06:25:21",
-      "album": {
-        "name": "IVE SECRET",
-        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "XOXZ",
-      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
-    },
-    {
-      "added_at": "2025-10-10 06:25:21",
-      "album": {
-        "name": "CHA CHA CHA",
-        "url": "https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV"
-      },
-      "artists": [
-        {
-          "name": "Vince",
-          "url": "https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 175023,
-      "name": "CHA CHA CHA",
-      "url": "https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy"
-    },
-    {
-      "added_at": "2025-10-10 06:25:21",
-      "album": {
-        "name": "Closer To You",
-        "url": "https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 175056,
-      "name": "Closer To You",
-      "url": "https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl"
     }
   ],
   "unique_name": "K-Pop Rising",

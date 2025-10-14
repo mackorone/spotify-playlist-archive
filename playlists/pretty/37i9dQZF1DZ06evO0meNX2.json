@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 40741,
+  "num_followers": 40748,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAC8K2bCGZ2EWQt5IZGNuRl3",
+  "snapshot_id": "aOrvgAAAAAC3pT0I4TqZtUossSiX9iXU",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1o De Oro",
-        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 177704,
-      "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 153709,
       "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1o De Oro",
+        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 177704,
+      "name": "Relojito Adiamantado",
+      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 178500,
       "name": "Mexican Flan",
       "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Amor II",
-        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 160884,
       "name": "Yo Soy del Golfo",
       "url": "https://open.spotify.com/track/1HVE8VfDWqjQpcSxrDeJgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
     },
     {
       "added_at": null,

@@ -730,7 +730,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 147123,
       "name": "Du bist das Beste",
       "url": "https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8"
@@ -1358,6 +1358,24 @@
       "duration_ms": 156200,
       "name": "Ende der Strasse",
       "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
+    },
+    {
+      "album": {
+        "name": "Endorphine",
+        "url": "https://open.spotify.com/album/3GAHfpsReZrt8QYIeEtuE6"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128804,
+      "name": "Endorphine",
+      "url": "https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA"
     },
     {
       "album": {
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 150870,
       "name": "Ma Baby 2",
       "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"

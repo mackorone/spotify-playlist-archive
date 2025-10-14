@@ -5265,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/4y6bwdIAJcB0tbIJNg9ylD"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165008,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/00BixfjUHJiCcCNqmignmU"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS"
       },
@@ -6068,7 +6086,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 174250,
       "name": "Hades",
       "url": "https://open.spotify.com/track/0GH5T697QdbU6o9tBytyOI"
@@ -12750,7 +12768,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 171791,
       "name": "Steady State",
       "url": "https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN"
@@ -12898,6 +12916,24 @@
       "duration_ms": 180000,
       "name": "Still Repetition",
       "url": "https://open.spotify.com/track/33db5RDGZyV99IHB1RnlVk"
+    },
+    {
+      "album": {
+        "name": "Still Wave",
+        "url": "https://open.spotify.com/album/13KIC6bLCVGmEa4rd7bxMQ"
+      },
+      "artists": [
+        {
+          "name": "Mysticallity",
+          "url": "https://open.spotify.com/artist/7eEI21fbhljWItUT4biPTI"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Still Wave",
+      "url": "https://open.spotify.com/track/74JWsnkBZ3ZIFdBP2brhow"
     },
     {
       "album": {

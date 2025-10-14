@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Aaron, Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,828 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,955 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 |
-| 2 | [E\-Scooter](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Knutschen & Boxen](https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9) | 3:33 |
-| 3 | [Mach Was Ich Will](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [ALLE MEINE FREUNDE SIND TRÄUMER](https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj) | 2:34 |
-| 4 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 |
-| 5 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:21 |
-| 6 | [Benz](https://open.spotify.com/track/2myW2Gi0RmNBQ1nEUmgzDL) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Benz](https://open.spotify.com/album/0NTquXrtnzUP8poB33iDsh) | 2:36 |
-| 7 | [Alles von alleine](https://open.spotify.com/track/3kM1jCYKqxIZJTTvhFwWQ3) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Alles von alleine](https://open.spotify.com/album/4rNuisc4J6tThdjecgzXaF) | 2:27 |
-| 8 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 |
-| 9 | [Kalt gemacht](https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kalt gemacht](https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64) | 3:05 |
-| 10 | [Chemie!](https://open.spotify.com/track/1QKopFXR6uqTKR9wowDtTy) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Morgen hör ich auf! \(Club Mixtape\)](https://open.spotify.com/album/7gNVDiK2wJXWSdWRbR7VPI) | 2:44 |
-| 11 | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY) | 3:03 |
-| 12 | [in meinem zimmer sieht es aus wie in meinem kopf](https://open.spotify.com/track/5nB9wlMtsl6tbhY7dyvRJV) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [in meinem zimmer sieht es aus wie in meinem kopf](https://open.spotify.com/album/11J9fee0RH8PEcwKiFuzLl) | 2:08 |
-| 13 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
+| 2 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 |
+| 3 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:21 |
+| 4 | [Mach Was Ich Will](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [ALLE MEINE FREUNDE SIND TRÄUMER](https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj) | 2:34 |
+| 5 | [E\-Scooter](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Knutschen & Boxen](https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9) | 3:33 |
+| 6 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 |
+| 7 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
+| 8 | [in meinem zimmer sieht es aus wie in meinem kopf](https://open.spotify.com/track/5nB9wlMtsl6tbhY7dyvRJV) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [in meinem zimmer sieht es aus wie in meinem kopf](https://open.spotify.com/album/11J9fee0RH8PEcwKiFuzLl) | 2:08 |
+| 9 | [Benz](https://open.spotify.com/track/2myW2Gi0RmNBQ1nEUmgzDL) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Benz](https://open.spotify.com/album/0NTquXrtnzUP8poB33iDsh) | 2:36 |
+| 10 | [Alles von alleine](https://open.spotify.com/track/3kM1jCYKqxIZJTTvhFwWQ3) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Alles von alleine](https://open.spotify.com/album/4rNuisc4J6tThdjecgzXaF) | 2:27 |
+| 11 | [Kalt gemacht](https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kalt gemacht](https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64) | 3:05 |
+| 12 | [Chemie!](https://open.spotify.com/track/1QKopFXR6uqTKR9wowDtTy) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Morgen hör ich auf! \(Club Mixtape\)](https://open.spotify.com/album/7gNVDiK2wJXWSdWRbR7VPI) | 2:44 |
+| 13 | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY) | 3:03 |
 | 14 | [Wie du](https://open.spotify.com/track/2wgmhgtrg8mxD8Y7sBRXbo) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Wie du](https://open.spotify.com/album/56yu5IAes8T5s5uxD4zMqB) | 2:21 |
 | 15 | [Check In.](https://open.spotify.com/track/07AnguRBJlqQVRZWW7FgmP) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Check In.](https://open.spotify.com/album/26yOwxnV3NqG7hpuPcSM4c) | 2:51 |
 | 16 | [niemehrzurück](https://open.spotify.com/track/53pxXjDML6sQ5r78FigWYv) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [niemehrzurück](https://open.spotify.com/album/4W0SpUhrqlp3ZOnZHFaaJe) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Mailand](https://open.spotify.com/track/6yL8yqfzMPooUhF6PHe81x) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Mailand](https://open.spotify.com/album/22LFqHs3L8xqDRzK53B6XT) | 1:48 |
 | 75 | [himmelblau](https://open.spotify.com/track/03qw3JiUjQ8qEPVMndK2dt) | [jaydee](https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v) | [solang halt ich deine hand](https://open.spotify.com/album/0leykAyD7UcvzZxkhAm7eb) | 2:31 |
 
-Snapshot ID: `AAAAAPFieCGkhKNqJHsdF7qKlHtmA4bz`
+Snapshot ID: `AAAAAAk4U+Me5X1GdJ5MoyrPg42UQjET`

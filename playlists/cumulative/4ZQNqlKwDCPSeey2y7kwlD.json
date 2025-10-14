@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187215,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U"
+    },
+    {
+      "album": {
         "name": "Contemporary Love",
         "url": "https://open.spotify.com/album/2O5vTJTN8GAch6g0n9gBsJ"
       },
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 189666,
       "name": "magic",
       "url": "https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv"
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 177565,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
@@ -4277,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "album": {
         "name": "lost americana",
         "url": "https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6"
       },
@@ -4288,7 +4324,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
@@ -4618,6 +4654,24 @@
       "duration_ms": 139911,
       "name": "R U DOWN?",
       "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
+    },
+    {
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/1XiB70tVYlGskQ8psaDWMD"
+      },
+      "artists": [
+        {
+          "name": "Kuzi Cee",
+          "url": "https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160819,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/49b9x49lFyyIvFmaZK8fTa"
     },
     {
       "album": {
@@ -5465,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Taillight This Town",
+        "url": "https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186003,
+      "name": "Taillight This Town",
+      "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -5693,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
         "name": "inhale - E.P.",
         "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
       },
@@ -5870,7 +5960,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 255155,
       "name": "To Be Free",
       "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
@@ -6446,7 +6536,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
@@ -6558,7 +6648,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"

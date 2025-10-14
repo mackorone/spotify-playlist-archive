@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 142990,
+  "num_followers": 143019,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAMn1XGFfh1rS+6myowiM8h",
+  "snapshot_id": "aOrvgAAAAAAb3Q7YHmpho1SvNVGiJMJ1",
   "tracks": [
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4r9CNUedkwlMyy5taK7HN1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Triste Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0D3BtbSUocYBsqK2UiXzYA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 145093,
       "name": "Vicioso",
       "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triste Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4r9CNUedkwlMyy5taK7HN1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Triste Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0D3BtbSUocYBsqK2UiXzYA"
     },
     {
       "added_at": null,
@@ -707,26 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard to Handle",
-        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 190632,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+      "duration_ms": 239360,
+      "name": "L\u00e1grimas en la lluvia",
+      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
     },
     {
       "added_at": null,
@@ -763,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "L\u00e1grimas en la lluvia",
-      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 209578,
       "name": "Chavo De Onda",
       "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard to Handle",
+        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 190632,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
     },
     {
       "added_at": null,

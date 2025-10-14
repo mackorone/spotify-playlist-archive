@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Pe Lu, Magi",
-  "num_followers": 437176,
+  "num_followers": 437170,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "Aqu\u00e9m",
-        "url": "https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 154197,
-      "name": "Aqu\u00e9m",
-      "url": "https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Doce Feito Caramelo",
         "url": "https://open.spotify.com/album/5CsrNWDoLS1aD2EzQqJwll"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 166390,
       "name": "Doce Feito Caramelo",
       "url": "https://open.spotify.com/track/1w8UpTJKWx6PD00ODGsqEb"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "Aqu\u00e9m",
+        "url": "https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 154197,
+      "name": "Aqu\u00e9m",
+      "url": "https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "Croch\u00ea",
-        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 217100,
-      "name": "Croch\u00ea",
-      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "Croch\u00ea",
+        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 217100,
+      "name": "Croch\u00ea",
+      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -647,6 +631,42 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "olhos mar",
+        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Pedro Aranha",
+          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
+        }
+      ],
+      "duration_ms": 83467,
+      "name": "olhos mar",
+      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -691,26 +711,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "olhos mar",
-        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "Pedro Aranha",
-          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
-        }
-      ],
-      "duration_ms": 83467,
-      "name": "olhos mar",
-      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "sofrer por voc\u00ea",
         "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
       "artists": [
         {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 166692,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -907,6 +891,22 @@
       "duration_ms": 175176,
       "name": "Ombro Amigo",
       "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 166692,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 174817,
       "name": "Poder Amar",
       "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "Nosso Carnaval",
         "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 165490,
       "name": "Nosso Carnaval",
       "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-10-10 19:02:58",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-10 19:02:58",
       "album": {
-        "name": "O Amor \u00e9 uma Loucura",
-        "url": "https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw"
-      },
-      "artists": [
-        {
-          "name": "Manu Ramalho",
-          "url": "https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "O Amor \u00e9 uma Loucura",
-      "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
-    },
-    {
-      "added_at": "2025-10-10 19:02:58",
-      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
+    },
+    {
+      "added_at": "2025-10-10 19:02:58",
+      "album": {
+        "name": "O Amor \u00e9 uma Loucura",
+        "url": "https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw"
+      },
+      "artists": [
+        {
+          "name": "Manu Ramalho",
+          "url": "https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "O Amor \u00e9 uma Loucura",
+      "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
     },
     {
       "added_at": "2025-10-10 19:02:58",

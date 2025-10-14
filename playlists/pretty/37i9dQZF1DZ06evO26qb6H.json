@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3260,
+  "num_followers": 3262,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADJarTuNfiqi9wVXqkMNUUV",
+  "snapshot_id": "aOrvgAAAAAB7V/I16ePVJRaEyRnw3FvP",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRoCERIES",
+        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 226845,
+      "name": "GRoCERIES",
+      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Shit (feat. dj gummy bear)",
         "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
       },
@@ -531,30 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRoCERIES",
-        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 226845,
-      "name": "GRoCERIES",
-      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane 2",
         "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
       },
@@ -571,6 +571,26 @@
       "duration_ms": 193657,
       "name": "Bigger in Texas",
       "url": "https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
       "duration_ms": 251128,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MHSTD",
-        "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
-      },
-      "artists": [
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 159970,
-      "name": "MHSTD",
-      "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 255093,
       "name": "LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MHSTD",
+        "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 159970,
+      "name": "MHSTD",
+      "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
     },
     {
       "added_at": null,

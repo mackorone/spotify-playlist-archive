@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-76 songs - 3 hr 53 min
+77 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Lightning & Thunder \(feat\. John Legend\)](https://open.spotify.com/track/68q4iNShG47zCF2LBlkybk) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:30 | 2024-01-29 |  |
 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 | 2024-10-26 | 2025-03-31 |
 | [Limbo](https://open.spotify.com/track/6eOrihTpiGhyDNP4w0HEjI) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 | 2025-03-30 |  |
-| [Lonely](https://open.spotify.com/track/70YQBlE7bPLaCm1nbEHDvU) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely](https://open.spotify.com/album/4N5rLXDGNp8TK3ujskFMzF) | 2:29 | 2025-08-05 |  |
+| [Lonely](https://open.spotify.com/track/70YQBlE7bPLaCm1nbEHDvU) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely](https://open.spotify.com/album/4N5rLXDGNp8TK3ujskFMzF) | 2:29 | 2025-08-05 | 2025-10-14 |
+| [Lonely \[ALT\]](https://open.spotify.com/track/4cX0A4VkMHBN4hk5XuM6nR) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely \[ALT\]](https://open.spotify.com/album/7doIA7N1Rg5V51E3Dakhco) | 2:16 | 2025-10-13 |  |
 | [Loose](https://open.spotify.com/track/3PvL3oyt1EWMPlK7GoxzcH) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [These Things Take Time](https://open.spotify.com/album/6UGGX9D1WyEgpyhVctghWP) | 2:58 | 2025-09-24 |  |
 | [Loose](https://open.spotify.com/track/7s3ok6ckqSEEKd5kOECjVP) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose](https://open.spotify.com/album/5fF8Nmht8UuO7xoZAn6gVn) | 2:58 | 2025-09-25 | 2025-09-29 |
 | [Makings of a Man](https://open.spotify.com/track/0OpJOkPJtkrx3sF7NpJFwn) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Fisticuffs](https://open.spotify.com/artist/4vm80uLtL6Q7IQ4FoGJKRD) | [CLARITY](https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS) | 1:51 | 2025-01-09 | 2025-04-12 |

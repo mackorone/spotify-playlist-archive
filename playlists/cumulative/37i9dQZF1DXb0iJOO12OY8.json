@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Blueprint",
+        "url": "https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142428,
+      "name": "That\u00b4s Who",
+      "url": "https://open.spotify.com/track/6AvSGWqhIoS4rvlRw2NU0U"
+    },
+    {
+      "album": {
         "name": "Tilbake",
         "url": "https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y"
       },
@@ -3410,7 +3428,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 135737,
       "name": "Vil Ikke Dele",
       "url": "https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg"

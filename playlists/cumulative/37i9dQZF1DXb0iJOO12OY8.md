@@ -4,7 +4,7 @@
 
 > 🤝
 
-184 songs - 8 hr 37 min
+185 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 | 2024-07-11 | 2024-09-13 |
 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 | 2024-06-27 | 2025-03-02 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-27 | 2024-08-16 |
+| [That´s Who](https://open.spotify.com/track/6AvSGWqhIoS4rvlRw2NU0U) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Blueprint](https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv) | 2:22 | 2025-10-09 |  |
 | [Tilbake](https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Tilbake](https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y) | 2:07 | 2025-01-16 | 2025-05-12 |
 | [TIME](https://open.spotify.com/track/1RFT0A7lSYgLuFq90bGCqR) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [TIME](https://open.spotify.com/album/1nyjZWbJqcmuFo9eNGiXqx) | 1:55 | 2025-08-14 | 2025-10-03 |
 | [Tinnitus](https://open.spotify.com/track/1Vg8nVA7saUhI7DhJ2OuRQ) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Tinnitus](https://open.spotify.com/album/0rqpGmci0z8C9AGQQzwYB2) | 1:46 | 2025-05-15 | 2025-06-20 |
@@ -181,7 +182,7 @@
 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 | 2024-06-27 | 2025-01-02 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 | 2025-04-20 |
 | [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 | 2025-08-08 |
-| [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 |  |
+| [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 | 2025-10-14 |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 | 2025-03-03 |
 | [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 | 2025-02-17 |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 | 2025-02-09 |

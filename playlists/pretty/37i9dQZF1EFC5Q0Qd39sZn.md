@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,336 likes - 580 songs - 1 day 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,338 likes - 580 songs - 1 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 117 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 |
 | 118 | [The Crazy Ones](https://open.spotify.com/track/4GJAvLmyRubhcd9BaNd5F0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Crazy Ones](https://open.spotify.com/album/6H8zjjHJk5B2wB4w0qYaAT) | 4:05 |
 | 119 | [When Your Eyes Say It](https://open.spotify.com/track/30hSG0Is8yOGkFQtF20Lxu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 4:29 |
-| 120 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
-| 121 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
+| 120 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
+| 121 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
 | 122 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
 | 123 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
 | 124 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 274 | [Silent Partners](https://open.spotify.com/track/1TVvf6Cvf3domSqZTgKQ3R) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:04 |
 | 275 | [Breaking Out](https://open.spotify.com/track/0uLJIlGqtpEWhJ5xS7zSfO) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:44 |
 | 276 | [Here's To The Nights](https://open.spotify.com/track/5Ct9fD9hFSJuyFEzUlRG6w) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Here’s To The Nights](https://open.spotify.com/album/35Y28ilNoufC6tjau8ZdSB) | 4:06 |
-| 277 | [Times Like This](https://open.spotify.com/track/2rw5u17eoLKHdBizu0IOE2) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 4:08 |
-| 278 | [Devil's Got a New Disguise](https://open.spotify.com/track/47skqbxKffzIeyMUA6A6Q1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
+| 277 | [Devil's Got a New Disguise](https://open.spotify.com/track/47skqbxKffzIeyMUA6A6Q1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
+| 278 | [Times Like This](https://open.spotify.com/track/2rw5u17eoLKHdBizu0IOE2) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 4:08 |
 | 279 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 |
 | 280 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
 | 281 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
@@ -574,8 +574,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 564 | [Why Did You Stop Loving Me](https://open.spotify.com/track/2HibyaLoexsEzWr94mmp6Z) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Friday Night Forever](https://open.spotify.com/album/16LeE3kIE3aocqAp8aVxZH) | 3:28 |
 | 565 | [Saddest Song \- Leigh Bros Remix](https://open.spotify.com/track/1Spc7zWfB3hEumoxMoxnRy) | [Cherry](https://open.spotify.com/artist/2Wmsee5wZmPkrf9UEhYWwf), [The Leigh Brothers](https://open.spotify.com/artist/6H0oPL7VK46FUy3FuIOuP4) | [Saddest Song](https://open.spotify.com/album/7MybEbWCjSKVKPt2TSymYL) | 3:49 |
 | 566 | [Stand in the Fire](https://open.spotify.com/track/2yO7ZmuxCUsRlFt4KFKyAZ) | [Eric Thomas](https://open.spotify.com/artist/5URFLvsIMbJIqmQL36FmvW) | [Varnell Road](https://open.spotify.com/album/0aMt1oxaPk8NRkxWXknRzW) | 5:34 |
-| 567 | [You Already Did](https://open.spotify.com/track/1Mi40Eqg8WPLBIlO0bJewF) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 3:34 |
-| 568 | [S'aimer encore une fois](https://open.spotify.com/track/4esy8ec098swSvnaD4NaOM) | [Katee Julien](https://open.spotify.com/artist/79W4oQHcr998HPwQgh2vKo) | [Avec un peu d'amour](https://open.spotify.com/album/1YCBKHSg10udpZh6m8rb6p) | 3:49 |
+| 567 | [S'aimer encore une fois](https://open.spotify.com/track/4esy8ec098swSvnaD4NaOM) | [Katee Julien](https://open.spotify.com/artist/79W4oQHcr998HPwQgh2vKo) | [Avec un peu d'amour](https://open.spotify.com/album/1YCBKHSg10udpZh6m8rb6p) | 3:49 |
+| 568 | [You Already Did](https://open.spotify.com/track/1Mi40Eqg8WPLBIlO0bJewF) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 3:34 |
 | 569 | [U Can't Touch Me](https://open.spotify.com/track/0P27OQSKL8qb9PYnLOlWoJ) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Makin' My Way](https://open.spotify.com/album/4I2owAJAzxjTlCSQe7R8DP) | 3:33 |
 | 570 | [Don't Let My Heart Know](https://open.spotify.com/track/5rXmlyAvnaiWXbpesEHfMQ) | [Francisca](https://open.spotify.com/artist/5sVP7wbwGugD3vMykfphvR) | [Don't Let My Heart Know](https://open.spotify.com/album/15BrMsfVWURifTllaooGm0) | 4:02 |
 | 571 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab+snAAAAABPzX9TMlSbo04MglOvegaj`
+Snapshot ID: `Ab+yHgAAAAAj8boZ1rsexgeuTEMtAn32`

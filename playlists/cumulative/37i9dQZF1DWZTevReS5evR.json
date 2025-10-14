@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Bentang Jarak Asmara",
+        "url": "https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g"
+      },
+      "artists": [
+        {
+          "name": "Man Osman",
+          "url": "https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF"
+        },
+        {
+          "name": "Traffic Jam",
+          "url": "https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234224,
+      "name": "Bentang Jarak Asmara",
+      "url": "https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP"
+    },
+    {
+      "album": {
         "name": "better for you",
         "url": "https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm"
       },

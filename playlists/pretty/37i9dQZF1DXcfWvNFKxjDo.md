@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,050 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,062 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 28 | [Feeling](https://open.spotify.com/track/1DPDDqvSGXr9o44rRtl6pv) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Feeling](https://open.spotify.com/album/31o0nCaOPFrjC09EP96JZS) | 2:35 |
 | 29 | [Phantasy](https://open.spotify.com/track/2bNzRdSeIOxOM7iZEnwGck) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Phantasy](https://open.spotify.com/album/3CJ4UbkwJuHLXEeaQWgcPC) | 3:14 |
 | 30 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
-| 31 | [I Want My Freedom](https://open.spotify.com/track/4JJyCkIjB5l1axC1p5X3uN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [I Want My Freedom](https://open.spotify.com/album/2Xofyel5kKpV6EsFYc5AF5) | 5:10 |
+| 31 | [I Want My Freedom](https://open.spotify.com/track/4JJyCkIjB5l1axC1p5X3uN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [I Want My Freedom](https://open.spotify.com/album/2Xofyel5kKpV6EsFYc5AF5) | 5:10 |
 | 32 | [In My World](https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp) | 3:35 |
 | 33 | [Sagora](https://open.spotify.com/track/7cgPijTM61WxeVKPYoUyxq) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [Sagora](https://open.spotify.com/album/4tTuFGfCIpPJIFnz6cxYH5) | 3:16 |
 | 34 | [Miss Fatty \(ft\. Million Stylez\) \- Techno Mix](https://open.spotify.com/track/4xatqorrpLqVqgpL8tUUzC) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [PaSt](https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Miss Fatty \(ft\. Million Stylez\) \[Techno Mix\]](https://open.spotify.com/album/2GQWMs6W2uXFB0lOWHaLor) | 2:18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49774,
+  "num_followers": 49775,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADfzcE6B5BsBbUbL5ldg2bC",
+  "snapshot_id": "aOrvgAAAAAACXbGA3DiC+TIy1lpiZhzA",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Six String Sorrow Sessions",
+        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 288128,
+      "name": "Gunshy - Rerecorded",
+      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
@@ -467,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 Lives (Black Cat)",
         "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
       },
@@ -495,42 +515,6 @@
       "duration_ms": 204628,
       "name": "9 Lives (Black Cat)",
       "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Six String Sorrow Sessions",
-        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 288128,
-      "name": "Gunshy - Rerecorded",
-      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 260664,
-      "name": "FGA",
-      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 260664,
+      "name": "FGA",
+      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out on Parole",
         "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 272674,
       "name": "Wine Glass",
       "url": "https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 232326,
-      "name": "Sundy or Mundy",
-      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 156610,
       "name": "Money Spent",
       "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 232326,
+      "name": "Sundy or Mundy",
+      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
     },
     {
       "added_at": null,

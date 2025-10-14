@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,123 likes - 243 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,120 likes - 243 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 140 | [End of My World](https://open.spotify.com/track/6luWULgexFygt7r2xYQ5iP) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 3:41 |
 | 141 | [Out Of Your Mind](https://open.spotify.com/track/7LPTfbLRyfYcEpdN5gnpes) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Hi Viz](https://open.spotify.com/album/49AKBTCbQuHJm2w5G6MlPj) | 3:03 |
 | 142 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
-| 143 | [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 |
-| 144 | [You](https://open.spotify.com/track/3dtLjqr0rjNP61Q6fxL7cr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 |
-| 145 | [YOUR EYES \(feat\. Tayla Parx\)](https://open.spotify.com/track/5RJizYf3glrHlux3XymB2r) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:28 |
-| 146 | [Make You Mine](https://open.spotify.com/track/42PMnBInInWXdnkZTboVIu) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Make You Mine](https://open.spotify.com/album/0zmEwkMcEY5B5nDzDh0PSp) | 2:44 |
-| 147 | [Glass House](https://open.spotify.com/track/5QBSG4VI5um5WvNFrq6KxK) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 3:54 |
-| 148 | [Deserve](https://open.spotify.com/track/08UOwr56mqHnQOTF2HThmd) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:01 |
-| 149 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/7iCgU4gnWWpWu26kcSwtSC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:46 |
+| 143 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 144 | [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 |
+| 145 | [You](https://open.spotify.com/track/3dtLjqr0rjNP61Q6fxL7cr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 |
+| 146 | [YOUR EYES \(feat\. Tayla Parx\)](https://open.spotify.com/track/5RJizYf3glrHlux3XymB2r) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:28 |
+| 147 | [Make You Mine](https://open.spotify.com/track/42PMnBInInWXdnkZTboVIu) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Make You Mine](https://open.spotify.com/album/0zmEwkMcEY5B5nDzDh0PSp) | 2:44 |
+| 148 | [Glass House](https://open.spotify.com/track/5QBSG4VI5um5WvNFrq6KxK) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 3:54 |
+| 149 | [Deserve](https://open.spotify.com/track/08UOwr56mqHnQOTF2HThmd) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:01 |
 | 150 | [Bye Baby](https://open.spotify.com/track/6oeRqUBlcMVE4Z4948cNrQ) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [DK3](https://open.spotify.com/album/5oKuY2PaV7VcvpolsDZ0eH) | 4:16 |
 | 151 | [Slow Dancing](https://open.spotify.com/track/4lTdKQV6oaSZRQTmhnK1CU) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:24 |
 | 152 | [Woman](https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Woman](https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq) | 2:36 |
@@ -236,8 +236,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 226 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
 | 227 | [Down Under](https://open.spotify.com/track/5O6bekFbTUaLWeQ9YWnFkg) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:00 |
 | 228 | [Heartbroke](https://open.spotify.com/track/1xsMsAx0eXvVAGyDCaYlXo) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Heartbroke](https://open.spotify.com/album/573mdMCQmY2wZw2JiqyR2s) | 2:31 |
-| 229 | [10s](https://open.spotify.com/track/4Jzd5FnbzmeZBzzx3Ba7xx) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
-| 230 | [This Was Supposed To Be Our Wedding Song](https://open.spotify.com/track/2zN4frEO4JCRfnu3mDp0bo) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 1:58 |
+| 229 | [This Was Supposed To Be Our Wedding Song](https://open.spotify.com/track/2zN4frEO4JCRfnu3mDp0bo) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 1:58 |
+| 230 | [10s](https://open.spotify.com/track/4Jzd5FnbzmeZBzzx3Ba7xx) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
 | 231 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
 | 232 | [Everything I Want](https://open.spotify.com/track/0fERUGGluUJlCm6Zy0Yvwq) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:55 |
 | 233 | [When It's Time To Go](https://open.spotify.com/track/3uuc2Spd1SRvbW6oFdWz7U) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:01 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 242 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 243 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Ab+siAAAAADeV7THap8aiSy5Q2cUOsp+`
+Snapshot ID: `Ab+yHgAAAABXAmTcxPbI3Cp7UioWAJ/h`

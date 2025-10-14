@@ -1,13 +1,33 @@
 {
-  "description": "Last few weeks of 25' IBZ szn </3",
-  "num_followers": 405237,
+  "description": "IBZ season 25' officially over, ADE next up!",
+  "num_followers": 405290,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMyC6TQt6G07RbGR6tvDZXMH85kg",
+  "snapshot_id": "AAAAAOCzhQRnd052zylYJJfyzJUVgfSg",
   "tracks": [
+    {
+      "added_at": "2025-10-13 08:09:07",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5"
+    },
     {
       "added_at": "2025-09-26 08:58:08",
       "album": {
@@ -31,6 +51,34 @@
       "duration_ms": 264056,
       "name": "Cloudy Eyes (Dance Tonight)",
       "url": "https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB"
+    },
+    {
+      "added_at": "2025-10-13 08:09:07",
+      "album": {
+        "name": "Lady (Hear Me Tonight) - Remix",
+        "url": "https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "koshi",
+          "url": "https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915"
+        },
+        {
+          "name": "Daymaan",
+          "url": "https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd"
+        }
+      ],
+      "duration_ms": 244374,
+      "name": "Lady (Hear Me Tonight) - Remix",
+      "url": "https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI"
     },
     {
       "added_at": "2025-09-18 22:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > David Guetta, Teddy Swims & Tones and I, Aya Nakamura et Helena au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,721 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,703 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR\-artiest</a>\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,518 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,530 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
 | 2 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 |
-| 3 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 |
-| 4 | [Niemand hoeft te weten](https://open.spotify.com/track/2en1p3o2X5F6svzYt8JYE5) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Niemand hoeft te weten](https://open.spotify.com/album/5igcKSyFajYfNSwFkJCUAC) | 2:47 |
-| 5 | [Wat is dan liefde](https://open.spotify.com/track/15BYJbkRtN87Ze8YwWP6Kq) | [Otto Lagerfett](https://open.spotify.com/artist/6qKfBpLaksGRY7IAZaDldG), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Wat is dan liefde](https://open.spotify.com/album/6Au6PqEXL1ZZoWCI9rT6cW) | 3:16 |
-| 6 | [Laat Mij Maar Alleen](https://open.spotify.com/track/1d2IjBwB3urTKuPp4vNmnC) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Laat Mij Maar Alleen](https://open.spotify.com/album/6VXounYiBoSoqfnCEeGoog) | 2:49 |
-| 7 | [Ik Bewonder Jou](https://open.spotify.com/track/2XhkRtb9zt9vYRhGkDC756) | [Roy Donders](https://open.spotify.com/artist/4UuqYrvax6M2JXhQ3lwB1L) | [Ik Bewonder Jou](https://open.spotify.com/album/6pXXpLRnCANGGxoVzfNSMJ) | 2:18 |
-| 8 | [Hey Buurvrouw](https://open.spotify.com/track/1LaCmbx2Ovb0w7vzvd68aT) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc) | [Hey Buurvrouw](https://open.spotify.com/album/56S2FGZ9O5mRXjIOZ9F9HM) | 2:16 |
-| 9 | [Stop de Tijd](https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Stop de Tijd](https://open.spotify.com/album/7yhLj8tTL789nmI2K3Z4JS) | 3:23 |
-| 10 | [Het Maakt Niet Uit](https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Het Maakt Niet Uit](https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO) | 2:23 |
-| 11 | [Koekoek](https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Koekoek](https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0) | 2:29 |
+| 3 | [Koekoek](https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Koekoek](https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0) | 2:29 |
+| 4 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 |
+| 5 | [Niemand hoeft te weten](https://open.spotify.com/track/2en1p3o2X5F6svzYt8JYE5) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Niemand hoeft te weten](https://open.spotify.com/album/5igcKSyFajYfNSwFkJCUAC) | 2:47 |
+| 6 | [Wat is dan liefde](https://open.spotify.com/track/15BYJbkRtN87Ze8YwWP6Kq) | [Otto Lagerfett](https://open.spotify.com/artist/6qKfBpLaksGRY7IAZaDldG), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Wat is dan liefde](https://open.spotify.com/album/6Au6PqEXL1ZZoWCI9rT6cW) | 3:16 |
+| 7 | [Laat Mij Maar Alleen](https://open.spotify.com/track/1d2IjBwB3urTKuPp4vNmnC) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Laat Mij Maar Alleen](https://open.spotify.com/album/6VXounYiBoSoqfnCEeGoog) | 2:49 |
+| 8 | [Ik Bewonder Jou](https://open.spotify.com/track/2XhkRtb9zt9vYRhGkDC756) | [Roy Donders](https://open.spotify.com/artist/4UuqYrvax6M2JXhQ3lwB1L) | [Ik Bewonder Jou](https://open.spotify.com/album/6pXXpLRnCANGGxoVzfNSMJ) | 2:18 |
+| 9 | [Hey Buurvrouw](https://open.spotify.com/track/1LaCmbx2Ovb0w7vzvd68aT) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc) | [Hey Buurvrouw](https://open.spotify.com/album/56S2FGZ9O5mRXjIOZ9F9HM) | 2:16 |
+| 10 | [Stop de Tijd](https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Stop de Tijd](https://open.spotify.com/album/7yhLj8tTL789nmI2K3Z4JS) | 3:23 |
+| 11 | [Het Maakt Niet Uit](https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Het Maakt Niet Uit](https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO) | 2:23 |
 | 12 | [Met Je Moeder Niks Te Maken](https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Met Je Moeder Niks Te Maken](https://open.spotify.com/album/6ZkNv9kkbPfcIiyQjtWmgI) | 2:39 |
 | 13 | [Vanaf Vandaag](https://open.spotify.com/track/1doSpLKE5WQq8WWkaADG5I) | [Donny den Heijer](https://open.spotify.com/artist/2wkF6FM62mmhOmWWArIpaI) | [Vanaf Vandaag](https://open.spotify.com/album/3u4A88Em1cy0G9hReiFXAd) | 2:32 |
 | 14 | [Bonte Avond](https://open.spotify.com/track/3OwiBXdE9Rzu0hi3paV0w9) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Bonte Avond](https://open.spotify.com/album/2SHtV85XBq6Ox1IXZz1PQS) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Alles komt goed](https://open.spotify.com/track/0IMvO1xxbalY1O50LQbUp9) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Alles komt goed](https://open.spotify.com/album/7KfVOzv3gB8dJtDRu4GoXC) | 2:46 |
 | 80 | [Wijnen, wijnen, wijnen](https://open.spotify.com/track/030kBX05FaihQuIxFQDJLY) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Wijnen, wijnen, wijnen](https://open.spotify.com/album/7MEbdDEf1jsW8XcVpm26Se) | 3:20 |
 
-Snapshot ID: `AAAAAElWiiaw9UhdfqpppcZsjEMUUDCi`
+Snapshot ID: `AAAAAP9eDGz/ueM9lZtnE0v9L8LWmFEr`

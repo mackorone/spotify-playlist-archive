@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80048,
+  "num_followers": 80049,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
-    },
-    {
-      "added_at": "2025-10-09 22:00:28",
-      "album": {
         "name": "Og s\u00e5 kom resten av livet",
         "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 311453,
       "name": "E du nord",
       "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
+    },
+    {
+      "added_at": "2025-10-09 22:00:28",
+      "album": {
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2025-10-09 22:00:28",
@@ -123,26 +123,6 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
-        "name": "Godmorgen, s\u00f8ster",
-        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        },
-        {
-          "name": "Rita Eriksen",
-          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
-        }
-      ],
-      "duration_ms": 270693,
-      "name": "Tir n'a Noir",
-      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
-    },
-    {
-      "added_at": "2025-10-09 22:00:28",
-      "album": {
         "name": "Underlig Frihet",
         "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 265400,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+    },
+    {
+      "added_at": "2025-10-09 22:00:28",
+      "album": {
+        "name": "Godmorgen, s\u00f8ster",
+        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        },
+        {
+          "name": "Rita Eriksen",
+          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Tir n'a Noir",
+      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
     },
     {
       "added_at": "2025-10-09 22:00:28",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+      },
+      "artists": [
+        {
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+    },
+    {
+      "added_at": "2025-10-09 22:00:28",
+      "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 230973,
       "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
-    },
-    {
-      "added_at": "2025-10-09 22:00:28",
-      "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
-      },
-      "artists": [
-        {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2025-10-09 22:00:28",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "Kj\u00e6rlighetsvisa",
-      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
-    },
-    {
-      "added_at": "2025-10-09 22:00:28",
-      "album": {
         "name": "Mosaikk (16 Biter)",
         "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2025-10-09 22:00:28",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Kj\u00e6rlighetsvisa",
+      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
     },
     {
       "added_at": "2025-10-09 22:00:28",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
-        "name": "Under deg",
-        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Under deg",
-      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
-    },
-    {
-      "added_at": "2025-10-09 22:00:28",
-      "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 223760,
       "name": "Til deg - Single Version",
       "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+    },
+    {
+      "added_at": "2025-10-09 22:00:28",
+      "album": {
+        "name": "Under deg",
+        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Under deg",
+      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
       "added_at": "2025-10-09 22:00:28",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
+        "name": "Ikke slipp",
+        "url": "https://open.spotify.com/album/6uI7b5qmPwZ4dioH3m39oD"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Ikke slipp",
+      "url": "https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs"
+    },
+    {
+      "added_at": "2025-10-09 22:00:28",
+      "album": {
         "name": "Annen som du",
         "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2025-10-09 22:00:28",
       "album": {
-        "name": "Ikke slipp",
-        "url": "https://open.spotify.com/album/6uI7b5qmPwZ4dioH3m39oD"
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
       "artists": [
         {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 263706,
-      "name": "Ikke slipp",
-      "url": "https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs"
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
     },
     {
       "added_at": "2025-10-09 22:00:28",
@@ -827,22 +843,6 @@
       "duration_ms": 264693,
       "name": "Heile veien ned",
       "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
-    },
-    {
-      "added_at": "2025-10-09 22:00:28",
-      "album": {
-        "name": "Aldri i livet",
-        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 188796,
-      "name": "Aldri i livet",
-      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
     }
   ],
   "unique_name": "Norske viser",

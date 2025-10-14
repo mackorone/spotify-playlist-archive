@@ -23219,6 +23219,24 @@
     },
     {
       "album": {
+        "name": "Don't Cry",
+        "url": "https://open.spotify.com/album/3mU7HxSrGM7gcZAr2WPGpA"
+      },
+      "artists": [
+        {
+          "name": "katrina sotera",
+          "url": "https://open.spotify.com/artist/4hJ7CYCEtGiBm9grF0TRUq"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169740,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/0YZRYiErLmoT389ZKts0Cc"
+    },
+    {
+      "album": {
         "name": "The Second Time Around",
         "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
       },
@@ -59572,7 +59590,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 165176,
       "name": "My Love",
       "url": "https://open.spotify.com/track/140U1hiFXkWppGU5GZv25H"
@@ -83855,6 +83873,24 @@
     },
     {
       "album": {
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/0D7K5szxAfqxDNmkZpEg33"
+      },
+      "artists": [
+        {
+          "name": "ORA BLU",
+          "url": "https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236785,
+      "name": "Supernatural Thing",
+      "url": "https://open.spotify.com/track/2gYkIkZQvcbSfdy7nwL9D8"
+    },
+    {
+      "album": {
         "name": "54",
         "url": "https://open.spotify.com/album/59HHmrCBW0a4HXkPPc8eXz"
       },
@@ -85290,7 +85326,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 141897,
       "name": "Talk And Give",
       "url": "https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj"

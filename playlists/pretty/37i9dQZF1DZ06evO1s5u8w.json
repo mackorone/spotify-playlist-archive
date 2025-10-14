@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 198272,
+  "num_followers": 198289,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACslYnMo5ChJ/nrws82yiQA",
+  "snapshot_id": "aOrvgAAAAADdb/NBiziKrV66TQyNErjb",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
         "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 257685,
       "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
       "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
     },
     {
       "added_at": null,

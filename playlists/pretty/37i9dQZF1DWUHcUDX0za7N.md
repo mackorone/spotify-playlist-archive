@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Odumodublvck
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,033 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,109 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 67 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
 | 68 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 |
 | 69 | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n) | 1:54 |
-| 70 | [Latansa](https://open.spotify.com/track/3gwl7yvUPSEMjfsECI4vAx) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Latansa](https://open.spotify.com/album/0yiwF8hPRZ5EWqOJTkzHgB) | 1:53 |
+| 70 | [Velvet](https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:43 |
 
 Snapshot ID: `AAAAAO5S+TpXU5BYZAJh73JzdfhnQUT8`

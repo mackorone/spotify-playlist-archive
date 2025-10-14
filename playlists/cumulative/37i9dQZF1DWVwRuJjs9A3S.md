@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Markus Krunegård.
 
-939 songs - 2 day 6 hr 6 min
+940 songs - 2 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [This Time \(It's Forever\)](https://open.spotify.com/track/7rxNIy3ZDUD3itKaQvlw3w) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Endless War In The Summer](https://open.spotify.com/album/5BrvaGqqfSkmigAbfBYvcF) | 3:32 | 2025-05-22 | 2025-10-10 |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/67HUPUbKERncrFL0oRDjCW) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/album/5pP4ENzT90iXLawJvJyPDg) | 3:11 | 2024-08-29 | 2024-11-01 |
 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 | 2024-06-27 | 2024-08-09 |
+| [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 | 2025-10-13 |  |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-05 | 2024-11-01 |
 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 | 2024-06-27 | 2024-07-27 |
 | [Time Moves](https://open.spotify.com/track/3HNBUxmA65NuwLBgJu6Kc8) | [Tussilago](https://open.spotify.com/artist/4t6RTEVNwReIHzr23UUF25), [Petter Sebastian](https://open.spotify.com/artist/02qM8e0kuLtDBx9BEQIg5e) | [Time Moves](https://open.spotify.com/album/4t8PvsCUalhrCQUV7lKQ30) | 4:49 | 2025-05-08 | 2025-10-10 |

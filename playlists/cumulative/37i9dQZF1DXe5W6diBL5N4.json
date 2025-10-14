@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: izna) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: TWS) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -21225,6 +21225,24 @@
     },
     {
       "album": {
+        "name": "beautiful",
+        "url": "https://open.spotify.com/album/6Tesrm78R6HujygeuC74l8"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "beautiful",
+      "url": "https://open.spotify.com/track/2iTIccPiyyQDATAk32V1jq"
+    },
+    {
+      "album": {
         "name": "The Destiny changer (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/3JtFn5pVt6PQz1q2sivhS3"
       },
@@ -27871,6 +27889,24 @@
     },
     {
       "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw"
+    },
+    {
+      "album": {
         "name": "Trip:Tape #03",
         "url": "https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9"
       },
@@ -28172,6 +28208,24 @@
       "duration_ms": 153733,
       "name": "Body Cream",
       "url": "https://open.spotify.com/track/48TrutebPxVB4oXNH9nV6Z"
+    },
+    {
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/0MSgmHVfSLarMx6EqKV42V"
+      },
+      "artists": [
+        {
+          "name": "U-KNOW",
+          "url": "https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9"
     },
     {
       "album": {
@@ -51511,6 +51565,32 @@
     },
     {
       "album": {
+        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
+        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "UWA",
+          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "DIRTY BOY (feat. JAMIE & UWA)",
+      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+    },
+    {
+      "album": {
         "name": "Dirty Love",
         "url": "https://open.spotify.com/album/6RYGVKbkA1RbdrD1jRrVMy"
       },
@@ -61238,6 +61318,24 @@
       "duration_ms": 243386,
       "name": "Endless",
       "url": "https://open.spotify.com/track/5ni50rYxwFqaVxEQTDrJb7"
+    },
+    {
+      "album": {
+        "name": "Endless (Music from the Original Game Soundtrack \"Kalpa Of Universe\")",
+        "url": "https://open.spotify.com/album/6HprczToRJs1UhrZD104kt"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "Endless (Music from the Original Game Soundtrack \"Kalpa Of Universe\")",
+      "url": "https://open.spotify.com/track/4r1PMgmwixLqclA0ImxT3J"
     },
     {
       "album": {
@@ -119357,6 +119455,24 @@
     },
     {
       "album": {
+        "name": "last night",
+        "url": "https://open.spotify.com/album/6dL8YhhybPjchhTjuZBNKD"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "last night",
+      "url": "https://open.spotify.com/track/2xdnCJX9jCHqn3JSuwLeoq"
+    },
+    {
+      "album": {
         "name": "LAST NIGHT",
         "url": "https://open.spotify.com/album/7iBYNYZpoDwB8b7eaVSI5N"
       },
@@ -146407,6 +146523,24 @@
     },
     {
       "album": {
+        "name": "Ms. Incognito, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1w1Pofj48H56gYW8mlrWIt"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "My Chapter : You",
+      "url": "https://open.spotify.com/track/0fYdsLQE7ZWF8jebf3LmkO"
+    },
+    {
+      "album": {
         "name": "My Chick",
         "url": "https://open.spotify.com/album/0E3exhlkZLi8QX4CiLItkq"
       },
@@ -163902,6 +164036,24 @@
       "duration_ms": 175373,
       "name": "OVERDRIVE",
       "url": "https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT"
+    },
+    {
+      "album": {
+        "name": "TWS 4th Mini Album 'play hard'",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "album": {
@@ -195625,6 +195777,24 @@
     },
     {
       "album": {
+        "name": "Song of the White Moon",
+        "url": "https://open.spotify.com/album/6o3QVbSFw4zYXhIZAoswrt"
+      },
+      "artists": [
+        {
+          "name": "Lee Sang Soon",
+          "url": "https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270800,
+      "name": "Song of the White Moon",
+      "url": "https://open.spotify.com/track/245tXIPYpAmeBOYJaCD3Xg"
+    },
+    {
+      "album": {
         "name": "The Real has come! (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/08wSqKZjYyKu9ov7BRTUlg"
       },
@@ -201252,6 +201422,24 @@
       "duration_ms": 164565,
       "name": "STILL",
       "url": "https://open.spotify.com/track/4YJYldcNOT4tFhjcdLN1Nc"
+    },
+    {
+      "album": {
+        "name": "still",
+        "url": "https://open.spotify.com/album/3GS3iKU4by2W8XKnY4e8fV"
+      },
+      "artists": [
+        {
+          "name": "Ju Yoon Ha",
+          "url": "https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "still",
+      "url": "https://open.spotify.com/track/2kiABKZjniwCaJf4HmMc9B"
     },
     {
       "album": {

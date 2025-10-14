@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 745089,
+  "num_followers": 745131,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADcchqmzqgKIwZKLVEd9e0o",
+  "snapshot_id": "aOrvgAAAAACTH9H0NpZ0goEbaHQv8que",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 202013,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 187249,
-      "name": "You Broke Me Too (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambitions",
         "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 218992,
       "name": "Listen (featuring Avril Lavigne)",
       "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
     }
   ],
   "unique_name": "This Is Avril Lavigne",

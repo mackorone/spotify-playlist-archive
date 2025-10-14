@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,460 likes - 149 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,432 likes - 149 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

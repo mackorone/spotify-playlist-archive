@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535 likes - 162 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 536 likes - 162 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 89 | [better alone](https://open.spotify.com/track/1m43PeB6kOKy4LYt75iOwB) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 4:31 |
 | 90 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
 | 91 | [Doll House](https://open.spotify.com/track/6U8ckPIrR0xi2a4BdtHDJk) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:11 |
-| 92 | [Superpower](https://open.spotify.com/track/0yRzqM7uTC2B2yvvmeqwft) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:10 |
-| 93 | [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 |
+| 92 | [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 |
+| 93 | [Superpower](https://open.spotify.com/track/0yRzqM7uTC2B2yvvmeqwft) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:10 |
 | 94 | [Sometimes](https://open.spotify.com/track/1e7pxGLAfvzg5JYeLN8TNm) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [KES KROSS](https://open.spotify.com/artist/6INR7y82RLRv1uKwfortrB), [Jackson Penn](https://open.spotify.com/artist/0RIQOtjWn0zYKSKfDYgukS) | [Sometimes](https://open.spotify.com/album/68sGqBCEHWt8tV4vs3z6E7) | 3:13 |
 | 95 | [Truth \(feat\. Alicia Keys & The Last Artful, Dodgr\)](https://open.spotify.com/track/36m0ktASmXMN1Co2TCfIl2) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:48 |
 | 96 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 112 | [2 AM \(feat\. Lykke Li\)](https://open.spotify.com/track/5PfxsAZ3KT29lZQ1lO5KRm) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:18 |
 | 113 | [Unfinished](https://open.spotify.com/track/2pOds6Kh8EFPgJj12UmPKR) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:53 |
 | 114 | [Tell Me Twice](https://open.spotify.com/track/6CNF9QXnGiiYKAVVK2Cq91) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Tell Me Twice](https://open.spotify.com/album/32JyPkgX8mKS5uL5szgL5D) | 4:26 |
-| 115 | [Woman](https://open.spotify.com/track/6PJuKJ0bamILUakPbkSbmu) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:19 |
-| 116 | [Dust and Smoke](https://open.spotify.com/track/1b6qaORLV7CzsUukna3N2W) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:26 |
+| 115 | [Dust and Smoke](https://open.spotify.com/track/1b6qaORLV7CzsUukna3N2W) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:26 |
+| 116 | [Woman](https://open.spotify.com/track/6PJuKJ0bamILUakPbkSbmu) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:19 |
 | 117 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
 | 118 | [Late Night Prelude](https://open.spotify.com/track/0mGXLwtTjzuTcARIr1pPQg) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 1:29 |
 | 119 | [Masochist](https://open.spotify.com/track/26lqwcYiFPNmEKTBtR04NF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:30 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 133 | [Silent Night \(feat\. Ilsey\)](https://open.spotify.com/track/319QeKXVvPyCO82wqMnvDG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:50 |
 | 134 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 |
 | 135 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
-| 136 | [If It Ain't Love](https://open.spotify.com/track/13JNBBhATtY4Naa7LeslpI) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:26 |
-| 137 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 136 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 137 | [If It Ain't Love](https://open.spotify.com/track/13JNBBhATtY4Naa7LeslpI) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:26 |
 | 138 | [Last Thing I Do](https://open.spotify.com/track/0XVnoq2OcuWH2b8LNiBHqQ) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Last Thing I Do](https://open.spotify.com/album/2x7ZpyuydRC4viG7nfr9os) | 3:21 |
 | 139 | [Thicker Than Water](https://open.spotify.com/track/3DUDmYlLCnp0bdVfJGwe9k) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EZEE](https://open.spotify.com/artist/3BRnVKHvAQEdENW8XCjeb9) | [Thicker Than Water](https://open.spotify.com/album/0kY5zsvfsr74b1a76ZHRGe) | 3:03 |
 | 140 | [Send Me Your Love \- KDrew Remix](https://open.spotify.com/track/5pYngSQa1LIT2WZ14sTKKD) | [Taryn Manning](https://open.spotify.com/artist/5XuruQMEsXHJZ7AIREr8Yv) | [Send Me Your Love \(KDrew Remix\) \- Single](https://open.spotify.com/album/28NaVVA9vrBQZEac8iIVVM) | 4:54 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 161 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 162 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `Ab+ssAAAAAD96roB2tFA9iL3/let6fy0`
+Snapshot ID: `Ab+yCgAAAACORF211u0GE0fAl7C8o6SJ`

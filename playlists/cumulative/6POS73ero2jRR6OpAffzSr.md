@@ -4,7 +4,7 @@
 
 > 
 
-36 songs - 2 hr 58 min
+37 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 | 2020-08-29 |  |
 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 | 2020-08-29 |  |
 | [Reckless](https://open.spotify.com/track/38QsfWFIBnnrU8zhCWuYWQ) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [8:34](https://open.spotify.com/album/1LQMjeYnhq8bhLbi0Kx0Vw) | 3:14 | 2020-08-29 |  |
+| [Salt \- Live](https://open.spotify.com/track/1m6Kho9THIuUWUcbSPgVMw) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq) | [I Got You \(Live\)](https://open.spotify.com/album/2Yr0vQ28b2cURPxZsDZY11) | 5:03 | 2025-10-14 |  |
 | [Something Has To Break \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 | 2020-09-05 |  |
 | [Song For You](https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Song For You](https://open.spotify.com/album/04Qos9tg4OsBifMkV1SQY1) | 5:29 | 2020-08-29 |  |
 | [Speak To Me](https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Speak To Me](https://open.spotify.com/album/6GiPLtoDGqnOIiZtarBE6r) | 2:46 | 2020-09-05 |  |

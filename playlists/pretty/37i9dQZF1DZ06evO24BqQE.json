@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 41915,
+  "num_followers": 41942,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABlgEtXg5EkUbvV02GGbAKT",
+  "snapshot_id": "aOrvgAAAAAAzhv68+y/quJ0eWVJP4Qon",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 125106,
-      "name": "Oshimiri",
-      "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
+      "duration_ms": 170322,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
     },
     {
       "added_at": null,
@@ -175,22 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
+      "duration_ms": 125106,
+      "name": "Oshimiri",
+      "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
     },
     {
       "added_at": null,
@@ -699,26 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ATSG, Vol. 1",
-        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 189038,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS"
+      "duration_ms": 175777,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
     },
     {
       "added_at": null,
@@ -743,22 +739,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "ATSG, Vol. 1",
+        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
         },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 189038,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Spoil My Steeze",
+        "url": "https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6"
+      },
+      "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 175777,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
+      "duration_ms": 211652,
+      "name": "No Spoil My Steeze",
+      "url": "https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 130918,
       "name": "Your Body (feat. Buju)",
       "url": "https://open.spotify.com/track/4McaZmsBZNV4sa7DzNYDFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Spoil My Steeze",
-        "url": "https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 211652,
-      "name": "No Spoil My Steeze",
-      "url": "https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz"
     },
     {
       "added_at": null,

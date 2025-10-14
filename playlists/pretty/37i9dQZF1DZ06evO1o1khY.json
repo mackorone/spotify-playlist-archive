@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 41650,
+  "num_followers": 41673,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAmR68M0vKGx1pMcCWA6Opu",
+  "snapshot_id": "aOrvgAAAAACTJiC7SBEHRUO97Y7JomYY",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finesse (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Finesse (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 163631,
       "name": "Cowboy (with GloRilla) - GloRilla Remix",
       "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finesse (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Finesse (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "added_at": null,

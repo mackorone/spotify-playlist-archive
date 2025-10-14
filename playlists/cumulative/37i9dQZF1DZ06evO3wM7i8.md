@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 59 min
+61 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [I Saw Stars \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:27 | 2025-07-20 |  |
 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 | 2025-07-20 |  |
 | [Improvisation on Tchaikowsky's "Pathétique" Andante](https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [The Essential Django Reinhardt](https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP) | 3:42 | 2025-07-20 |  |
+| [Improvisation sur le 1er mvt concerto ré mineur](https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:18 | 2025-10-14 |  |
 | [Just One Of Those Things](https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stephane Grappelli](https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z) | [Limitless Jazz, Vol\. 31](https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur) | 2:54 | 2025-07-20 |  |
 | [Limehouse Blues](https://open.spotify.com/track/6lMMTn73wVaDh1gJW3rsBu) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:46 | 2025-07-20 |  |
 | [Menilmontant \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:02 | 2025-07-20 |  |

@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: ששון איפרם שאולוב
 
-175 songs - 9 hr 18 min
+177 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-08-05 | 2025-09-30 |
 | [אני מסתובב](https://open.spotify.com/track/7362lWsAM9fv1ZF3tjNG1K) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 2:47 | 2025-07-14 |  |
 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 | 2025-09-01 |  |
-| [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 |  |
+| [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 | 2025-10-14 |
 | [אתה אני אולי](https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אתה אני אולי](https://open.spotify.com/album/7CYBMe7sZn9IiXVEMGPVv0) | 3:18 | 2024-12-16 | 2025-02-11 |
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-07-01 | 2025-06-10 |
 | [בגלגול הבא](https://open.spotify.com/track/1b8Zi0VlYH3M7eeXQZ7APz) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בגלגול הבא](https://open.spotify.com/album/0GZd3y2xiKoHiTtOhItUzs) | 2:41 | 2024-07-01 | 2024-08-20 |
@@ -107,6 +107,7 @@
 | [השם ירחם](https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:53 | 2025-06-30 |  |
 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 | 2024-12-02 | 2025-10-07 |
 | [ואיך שלא](https://open.spotify.com/track/0SMDtYt5HghaTMFc61nCnP) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [ואיך שלא](https://open.spotify.com/album/77Th0DmusP9RkETEPjFBRx) | 3:24 | 2024-07-01 | 2024-11-01 |
+| [ואן דאם](https://open.spotify.com/track/3gdSZLWC594njZXkwWh7lQ) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [Van da'M](https://open.spotify.com/album/4f4oaIUkUWwveb5KZe1pNx) | 3:01 | 2025-10-13 |  |
 | [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 | 2025-02-17 | 2025-09-02 |
 | [חולמת](https://open.spotify.com/track/3N48942rc1DKId7vmDDcy0) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [חולמת](https://open.spotify.com/album/5jcb6kq6QA3ts3wQ4xMczF) | 3:11 | 2025-03-10 |  |
 | [חומר ממכר](https://open.spotify.com/track/2vR9gmLutur2qzskoEcYna) | [Ben Chen](https://open.spotify.com/artist/0C6NuuWwuMV3uBmsFAboVl) | [חומר ממכר](https://open.spotify.com/album/0WEAhwC2G8U70VAlga0yZs) | 3:16 | 2024-07-01 | 2024-11-26 |
@@ -170,10 +171,11 @@
 | [רובים ותלתלים](https://open.spotify.com/track/5qOxJdYpngdcI4shMGYo8S) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 2:13 | 2025-06-03 | 2025-09-02 |
 | [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 | 2024-07-01 | 2025-04-23 |
 | [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-05 |  |
+| [רוקי](https://open.spotify.com/track/1oZbzZEpWVtmwMjxo12SzV) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [Van da'M](https://open.spotify.com/album/4f4oaIUkUWwveb5KZe1pNx) | 3:09 | 2025-10-13 |  |
 | [רק הזמן](https://open.spotify.com/track/1KMT5j1608afIjko14UBNP) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [רק הזמן](https://open.spotify.com/album/63bIatX9uWOdWXiq0lxTQl) | 2:55 | 2024-09-30 | 2024-11-26 |
 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 | 2024-07-01 | 2025-03-18 |
 | [רשימת קניות](https://open.spotify.com/track/5AjrNeUIzRkWzMz5hgujD2) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רשימת קניות](https://open.spotify.com/album/0Ib14azeY0eTF80dpEqqIk) | 2:34 | 2025-04-07 |  |
-| [שאנל אזולאי](https://open.spotify.com/track/1I2O2LqFIUSndJW0NSUdfq) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [שאנל אזולאי](https://open.spotify.com/album/6OYqiaYNXBH5Q8QJbido1I) | 2:38 | 2025-04-14 |  |
+| [שאנל אזולאי](https://open.spotify.com/track/1I2O2LqFIUSndJW0NSUdfq) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [שאנל אזולאי](https://open.spotify.com/album/6OYqiaYNXBH5Q8QJbido1I) | 2:38 | 2025-04-14 | 2025-10-14 |
 | [שוב אני בדד](https://open.spotify.com/track/1EZj3gwDRCDVTxJAIGUtMQ) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [שוב אני בדד](https://open.spotify.com/album/6VooCgGF8j8NRBiOclQHUF) | 3:13 | 2024-08-19 | 2024-10-08 |
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-09 | 2025-01-21 |
 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-07-01 | 2024-11-19 |

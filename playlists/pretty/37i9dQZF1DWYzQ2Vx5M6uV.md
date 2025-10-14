@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Ysa C
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,498 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,505 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 99 | [Normal](https://open.spotify.com/track/0kfTRces8TqfRbtoj6QQye) | [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Normal](https://open.spotify.com/album/0NfyRwPqxtCqpbxgMDBSuZ) | 2:33 |
 | 100 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 |
 
-Snapshot ID: `AAAAAKEFX/BllW1u+qJI1HfHgk0RANdS`
+Snapshot ID: `AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt`

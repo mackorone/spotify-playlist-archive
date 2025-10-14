@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 138764,
+  "num_followers": 138793,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABMEByW+ozV5sxNbDQCrFBA",
+  "snapshot_id": "aOrvgAAAAACf2Mh+SxEEA5LzgEKcshzp",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Oblivion Community Center",
-        "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
       "artists": [
-        {
-          "name": "Better Oblivion Community Center",
-          "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
-        },
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        },
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Dylan Thomas",
-      "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": null,
@@ -775,18 +767,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+        "name": "Better Oblivion Community Center",
+        "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
       },
       "artists": [
+        {
+          "name": "Better Oblivion Community Center",
+          "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
+        },
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        },
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+      "duration_ms": 216786,
+      "name": "Dylan Thomas",
+      "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
     },
     {
       "added_at": null,

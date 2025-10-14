@@ -4,7 +4,7 @@
 
 > The most chill instrumental oud sounds.
 
-68 songs - 5 hr 13 min
+69 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Caravan](https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [The Dancing Oud](https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk) | 6:22 | 2023-10-23 |  |
 | [Cetacea](https://open.spotify.com/track/0pvwii7cZPahFOflWwsbmL) | [Amanaska](https://open.spotify.com/artist/1OVwwL5UzympXO9NrpDUuY) | [Buddha Bar \- Best Of](https://open.spotify.com/album/4yUEy000KIV0TmU7AlDGne) | 4:12 | 2023-10-23 | 2024-04-19 |
 | [D'un crépuscule, l'autre](https://open.spotify.com/track/4XOYQUsG8n48Q7HoTKahOX) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA) | [Contes d'un misérable luth](https://open.spotify.com/album/0cCrNAvXZNoi4EDGPZgE5n) | 6:49 | 2023-10-23 | 2024-04-19 |
-| [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 | 2023-10-23 |  |
+| [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 | 2023-10-23 | 2025-10-14 |
 | [Dreams Of A Dying City](https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Jarrod Cagwin](https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Gavino Murgia](https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP), [Michel Godard](https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav) | [Hungry People](https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof) | 5:34 | 2023-10-23 |  |
 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 | 2024-02-27 |  |
 | [Evasion](https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 4:57 | 2023-10-23 |  |
@@ -34,10 +34,11 @@
 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 | 2024-02-27 |  |
 | [Hal Asmar El\-Lon](https://open.spotify.com/track/1LJfErM0iTdKxp2BOM3sEA) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 5:22 | 2023-10-23 |  |
 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 | 2024-02-27 |  |
+| [Hayati \- Ma vie / My Life](https://open.spotify.com/track/60635lzVqtNc2lgjLbqH2z) | [Kamilya Jubran](https://open.spotify.com/artist/0ZV2R4aq7rkX0pWXLGa42d), [Sarah Murcia](https://open.spotify.com/artist/1ExeCHfthEFbhdaZb401mF) | [Nhaoul'](https://open.spotify.com/album/1ilshQ4SuHvYDETtL8rHB2) | 9:35 | 2025-10-13 |  |
 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 | 2023-10-23 |  |
 | [Interl'Oud](https://open.spotify.com/track/0rxhy4Vi3vo1TH8ylMZOY3) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 1:43 | 2023-10-23 | 2024-07-30 |
 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 | 2024-02-27 |  |
-| [iSVEÇ BAHARI](https://open.spotify.com/track/0qInJsghBH20hwv1yQkaUr) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 3:30 | 2024-02-27 |  |
+| [iSVEÇ BAHARI](https://open.spotify.com/track/0qInJsghBH20hwv1yQkaUr) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 3:30 | 2024-02-27 | 2025-10-14 |
 | [Johny Guitar](https://open.spotify.com/track/71RIAQgC2zK6hU1Y5g6mtE) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 3:06 | 2023-10-23 | 2024-04-19 |
 | [Kolaymi](https://open.spotify.com/track/3tT7GisdKZYPW1suW2GVqm) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Beyond The Sky](https://open.spotify.com/album/1hQroOWdQx1RXgmjIjrWtS) | 5:19 | 2023-10-23 | 2024-04-19 |
 | [L'obstinée I](https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Chkrrr](https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB) | [The Last Flight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA) | 1:52 | 2023-10-23 |  |
@@ -47,7 +48,7 @@
 | [Lotus Feet](https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 6:18 | 2023-10-23 |  |
 | [Lourga](https://open.spotify.com/track/5unbdTVuyBjvXe3OUHZTNV) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Zykrayati](https://open.spotify.com/album/1QGk8YXeOBGIZ8mEQCnsle) | 18:42 | 2024-02-27 |  |
 | [Makam Ajam / Tala'a Mint Beit Abouha \- Takassim](https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n) | 4:10 | 2023-10-23 |  |
-| [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 | 2024-07-29 | 2024-08-26 |
+| [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 | 2024-07-29 |  |
 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 | 2024-02-27 |  |
 | [Miss A](https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55) | [Joseph Tawadros](https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih) | [The Bluebird, the Mystic and the Fool](https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO) | 1:05 | 2023-10-23 |  |
 | [More Than Once](https://open.spotify.com/track/67Amwno0hyp64jMbP0HbA9) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:22 | 2023-10-23 | 2024-04-19 |

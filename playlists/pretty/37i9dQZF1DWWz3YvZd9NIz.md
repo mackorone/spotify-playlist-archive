@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,374 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,460 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 27 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 |
 | 28 | [Sweater Weather](https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87) | [Jomarijan](https://open.spotify.com/artist/5iHZxQtcP3E5hjuzPeocgW) | [Sweater Weather](https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc) | 3:22 |
 | 29 | [Everytime We Touch \- Sound Rush Remix](https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Everytime We Touch \(Sound Rush Remix\)](https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj) | 3:36 |
-| 30 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
-| 31 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 |
+| 30 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 |
+| 31 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
 | 32 | [Don't Let Me Down \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(Hardwell & Sephyx Remix\)](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 |
 | 33 | [Another Love \- Hardstyle \- Sped Up](https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Another Love \(Hardstyle \- Sped Up\)](https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9) | 2:09 |
 | 34 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
 | 70 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
 
-Snapshot ID: `AAAAAJ/wWweq7ap/cbjX9XymUfGr7YpK`
+Snapshot ID: `AAAAAMWDLCRxchhIFKgoASs3ey4opViU`

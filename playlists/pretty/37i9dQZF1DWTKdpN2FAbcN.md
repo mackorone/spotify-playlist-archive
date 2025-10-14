@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 
 > ...ok but what if we have a crush on both of them? Role Model & Hilary Duff at ACL ˚ʚ♡ɞ˚
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,625 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,636 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

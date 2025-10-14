@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127085,
+  "num_followers": 127090,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 228842,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "He's Not Me",
         "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 207762,
       "name": "He's Not Me",
       "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 228842,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Don't Forget About Us (KAYTRANADA Remix)",
-        "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 243125,
-      "name": "Don't Forget About Us - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
       },
@@ -439,22 +419,6 @@
       "duration_ms": 229879,
       "name": "Summer in November",
       "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -475,6 +439,42 @@
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "Don't Forget About Us (KAYTRANADA Remix)",
+        "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 243125,
+      "name": "Don't Forget About Us - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "The Beauty Created",
         "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 271453,
       "name": "Come To My Room",
       "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
     },
     {
       "added_at": "2025-10-10 03:01:29",

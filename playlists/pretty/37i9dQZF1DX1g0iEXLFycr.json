@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1073729,
+  "num_followers": 1073684,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAAxM5J5tCpwdP17fUBlYLirzff/P",
   "tracks": [
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+    },
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "The Guest (Expanded Edition)",
         "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 202213,
       "name": "Sweet Lovin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "I Wanna Feel (Radio Edit)",
-        "url": "https://open.spotify.com/album/68UKcs1Vr4HgREXQ3Dvzrg"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03"
       },
       "artists": [
         {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+          "name": "Simon Webbe",
+          "url": "https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH"
         }
       ],
-      "duration_ms": 185934,
-      "name": "I Wanna Feel - Radio Edit",
-      "url": "https://open.spotify.com/track/77jaOS5YDCDGPto5Pomi4h"
+      "duration_ms": 209586,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03"
+        "name": "I Wanna Feel (Radio Edit)",
+        "url": "https://open.spotify.com/album/68UKcs1Vr4HgREXQ3Dvzrg"
       },
       "artists": [
         {
-          "name": "Simon Webbe",
-          "url": "https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH"
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
         }
       ],
-      "duration_ms": 209586,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS"
+      "duration_ms": 185934,
+      "name": "I Wanna Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/77jaOS5YDCDGPto5Pomi4h"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/7InaLclfE0Cs1BK4HqAvJr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Jordan",
-          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 325266,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/7InaLclfE0Cs1BK4HqAvJr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP"
     },
     {
       "added_at": "2024-03-22 16:40:22",

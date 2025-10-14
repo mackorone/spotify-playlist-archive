@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Léa Mendonça, Nathália Braga
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,067 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,126 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 54 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
 | 55 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 56 | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN) | 6:23 |
-| 57 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
+| 57 | [Deus Está Cuidando](https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Deus Está Cuidando](https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X) | 4:02 |
 | 58 | [Gerando Intimidade](https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Gerando Intimidade](https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6) | 4:14 |
 | 59 | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Passar pela Moenda \(Ao Vivo\)](https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc) | 5:21 |
 | 60 | [Não Abrimos Mão do Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Não Abrimos Mão do Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD) | 10:47 |
 | 61 | [Estou Entrando em Ação](https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Estou Entrando em Ação](https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR) | 3:55 |
-| 62 | [Deus Está Cuidando](https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Deus Está Cuidando](https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X) | 4:02 |
+| 62 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
 | 63 | [Exército de Deus](https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Exército de Deus](https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB) | 4:14 |
 | 64 | [Na Mesa do Rei \- Ao Vivo](https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Na Mesa do Rei \(43 Anos Louvor Eterno\) \[Ao Vivo\]](https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco) | 5:39 |
 | 65 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 |

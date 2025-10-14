@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-419 songs - 21 hr 36 min
+420 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Chosen One](https://open.spotify.com/track/6dqTj5gKTMni9esU8TO5jd) | [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Chosen One](https://open.spotify.com/album/4VQXn7Ine5IpFCHWGrJxKJ) | 1:44 | 2025-05-15 | 2025-05-23 |
 | [Clean](https://open.spotify.com/track/6Bl5lqZBzc2tgH6fbBoaor) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Clean](https://open.spotify.com/album/6fzC2pvNHICrZG8j5YUX06) | 3:37 | 2025-05-15 | 2025-05-23 |
 | [Close To You](https://open.spotify.com/track/7l5Zm7d4veyUk6iHX6QkOW) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Close To You](https://open.spotify.com/album/2AtTsN3JdjAyA6ZTIWROCG) | 2:53 | 2025-05-22 | 2025-06-08 |
-| [closer somehow](https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [closer somehow](https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0) | 2:46 | 2025-03-21 |  |
+| [closer somehow](https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [closer somehow](https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0) | 2:46 | 2025-03-21 | 2025-10-14 |
 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 | 2024-10-03 | 2025-10-10 |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 | 2025-08-01 |
 | [Constellations](https://open.spotify.com/track/1GakQzqEOnzvi5dbPxvrBt) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [SPOT](https://open.spotify.com/album/0yNivuBBzDNgyRzkq5mEQU) | 2:54 | 2025-09-12 |  |
@@ -362,6 +362,7 @@
 | [Telefone](https://open.spotify.com/track/71wA37ZBebeJG2ckJ9FsLv) | [Film 2](https://open.spotify.com/artist/7IVcyzxxgbupWxn6R2SFhZ) | [Telefone](https://open.spotify.com/album/2rzOpU8XegetRKR8Vstbrm) | 3:09 | 2025-04-24 | 2025-05-02 |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
+| [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 | 2025-10-09 |  |
 | [THE LOVER](https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr) | [Kae](https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm) | [XAOS](https://open.spotify.com/album/5GYm9Ud8aGdBB86V5PDU1g) | 2:20 | 2025-05-29 |  |
 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-20 |  |
 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 | 2024-11-29 | 2025-03-08 |

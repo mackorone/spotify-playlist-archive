@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 1024156,
+  "num_followers": 1024953,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 311186,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
+      "duration_ms": 202066,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1051,6 +1035,22 @@
       "duration_ms": 155413,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 246333,
       "name": "Be Without You - Kendu Mix",
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
-      },
-      "artists": [
-        {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Whole Again",
-      "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "There You'll Be",
-        "url": "https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
         }
       ],
-      "duration_ms": 222120,
-      "name": "There You'll Be",
-      "url": "https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq"
+      "duration_ms": 185013,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1703,6 +1687,22 @@
       "duration_ms": 193240,
       "name": "Best In Me",
       "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "There You'll Be",
+        "url": "https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "There You'll Be",
+      "url": "https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Taylor Swift (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "All Rise",
         "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 207560,
       "name": "If You Come Back",
       "url": "https://open.spotify.com/track/6nV2SYnWxCg0Cnmz1GSh2H"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Taylor Swift (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Coyote Ugly",
-        "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Divine Discontent",
         "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 243960,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Coyote Ugly",
+        "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 240679,
-      "name": "All the Love in the World",
-      "url": "https://open.spotify.com/track/1kDWRREI28eCvDpJvSRd9b"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 287226,
       "name": "Rise & Fall (feat. Sting)",
       "url": "https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "duration_ms": 240679,
+      "name": "All the Love in the World",
+      "url": "https://open.spotify.com/track/1kDWRREI28eCvDpJvSRd9b"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "I'm Yours",
-        "url": "https://open.spotify.com/album/0hmfkAEc0WQcv1dplyLYte"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 243494,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/03yc0G2OoH1Eeyu7Piy8fK"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/0hmfkAEc0WQcv1dplyLYte"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 243494,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/03yc0G2OoH1Eeyu7Piy8fK"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Servicio De Lavander\u00eda",
-        "url": "https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Underneath Your Clothes",
-      "url": "https://open.spotify.com/track/6biR1gMwcN71SDt3Eh4eEu"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 209453,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/3g9nxeJPQM4CxhHt1iNlB4"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Servicio De Lavander\u00eda",
+        "url": "https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Underneath Your Clothes",
+      "url": "https://open.spotify.com/track/6biR1gMwcN71SDt3Eh4eEu"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Wisemen",
-      "url": "https://open.spotify.com/track/3fl78noR9kt12JYKuTAP4a"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Bring You Home (exclusive online bundle)",
         "url": "https://open.spotify.com/album/3XUMJwJz331NSZ8BXTASsX"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 235666,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/5evi4LXGYKiSzxWL8utI4l"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Wisemen",
+      "url": "https://open.spotify.com/track/3fl78noR9kt12JYKuTAP4a"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 304013,
-      "name": "The Voice Within",
-      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 195506,
       "name": "Eternal Flame - Single Version",
       "url": "https://open.spotify.com/track/3qzcM6SmbzBnGXSJe6hYdy"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 304013,
+      "name": "The Voice Within",
+      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
     },
     {
       "added_at": "2024-02-12 15:05:39",

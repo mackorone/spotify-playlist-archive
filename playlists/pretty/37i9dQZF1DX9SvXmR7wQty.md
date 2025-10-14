@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Pierre Lapointe, Voyou
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,480 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,494 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fallait pas nous inviter](https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Fallait pas nous inviter](https://open.spotify.com/album/0A6uj8p3OaEdTQn5Uw68L0) | 3:07 |
 | 2 | [Fais semblant](https://open.spotify.com/track/1GUNjxdu6bXXNCDarEHRWX) | [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Je rêve en couleur](https://open.spotify.com/album/4pSHHyrcLVAjaWoxtTBOHK) | 3:37 |
-| 3 | [Par hasard](https://open.spotify.com/track/2pWQsNOLo1NAI3i1tv4yZA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Par hasard](https://open.spotify.com/album/6Ht9OQ3Nfij8YumkGeXjZ2) | 3:12 |
+| 3 | [Par hasard \(avec Ariane Moffatt\)](https://open.spotify.com/track/2pWQsNOLo1NAI3i1tv4yZA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Par hasard \(avec Ariane Moffatt\)](https://open.spotify.com/album/6Ht9OQ3Nfij8YumkGeXjZ2) | 3:12 |
 | 4 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 5 | [Sans elle](https://open.spotify.com/track/259pYLwNBgR32gPCgjau8c) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Sans elle](https://open.spotify.com/album/2akr3g6eyPENkTFdooKYUl) | 3:16 |
 | 6 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO) | 2:52 |

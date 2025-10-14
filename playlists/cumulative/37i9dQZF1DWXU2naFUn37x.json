@@ -8899,6 +8899,28 @@
     },
     {
       "album": {
+        "name": "Invincibile",
+        "url": "https://open.spotify.com/album/0ioh25cYIvvplbbax3OQ45"
+      },
+      "artists": [
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Fresh Beatz",
+          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159403,
+      "name": "Invincibile",
+      "url": "https://open.spotify.com/track/5VLkfva2Q2W9FJRYPLvtL7"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA FINE DELLA GUERRA (Strettamente)",
         "url": "https://open.spotify.com/album/6JCwE35AVItM5U2SX095oO"
       },
@@ -13916,7 +13938,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 150949,
       "name": "PERICOLOSO (feat. Lazza, Geolier)",
       "url": "https://open.spotify.com/track/5bFGJCWniODboiGjiZXKl1"

@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 171753,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
         "url": "https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me"
       },
@@ -335,22 +319,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
         "url": "https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn"
       },
@@ -367,6 +335,38 @@
       "duration_ms": 217142,
       "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
       "url": "https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 171753,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "PASSPORT",
+        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 131152,
+      "name": "PASSPORT",
+      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
+        "name": "kill for me?",
+        "url": "https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 160417,
+      "name": "kill for me?",
+      "url": "https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
         "name": "Na dno",
         "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 220840,
       "name": "Na dno",
       "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
-        "name": "kill for me?",
-        "url": "https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        }
-      ],
-      "duration_ms": 160417,
-      "name": "kill for me?",
-      "url": "https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "Chamy",
         "url": "https://open.spotify.com/album/2SHWbu3gF4G9vaUTDOMSDx"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 141284,
       "name": "Chamy",
       "url": "https://open.spotify.com/track/3YyCRTXnD7MkTKeqCkrM0M"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "Berek",
-        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
-      },
-      "artists": [
-        {
-          "name": "Odet",
-          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Berek",
-      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "Za d\u0142ugo",
         "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
       },
@@ -1003,6 +983,26 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
+        "name": "Berek",
+        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Berek",
+      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
         "name": "\u017cyczenie",
         "url": "https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 283068,
       "name": "\u017cyczenie",
       "url": "https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "ernest",
+        "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
+      },
+      "artists": [
+        {
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "ernest",
+      "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2025-10-07 22:00:26",
       "album": {
-        "name": "ernest",
-        "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "ernest",
-      "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
         "name": "wifey material",
         "url": "https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 122571,
       "name": "wifey material",
       "url": "https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN"
-    },
-    {
-      "added_at": "2025-10-07 22:00:26",
-      "album": {
-        "name": "Bez siebie",
-        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
-      },
-      "artists": [
-        {
-          "name": "Ola Olszewska",
-          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "Bez siebie",
-      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "added_at": "2025-10-07 22:00:26",
@@ -1103,6 +1087,22 @@
       "duration_ms": 225680,
       "name": "MAMY CZAS",
       "url": "https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh"
+    },
+    {
+      "added_at": "2025-10-07 22:00:26",
+      "album": {
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+      },
+      "artists": [
+        {
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "added_at": "2025-10-07 22:00:26",

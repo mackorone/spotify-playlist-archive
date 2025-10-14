@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: TWICE)",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: K-Pop Demon Hunters)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+    },
+    {
+      "album": {
         "name": "BLUE!",
         "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
       },
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 157000,
       "name": "BUBBLE GUM",
       "url": "https://open.spotify.com/track/3IUtLSW5FWB0K4RdkvOamG"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
@@ -7888,7 +7906,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175000,
-      "name": "ME + YOU",
+      "name": "ME+YOU",
       "url": "https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH"
     },
     {
@@ -11070,6 +11088,24 @@
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "SPINNIN\u2032 ON IT",
+      "url": "https://open.spotify.com/track/4pH8rClaLsi6QcDGrw2VgV"
     },
     {
       "album": {

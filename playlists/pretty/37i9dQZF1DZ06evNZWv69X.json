@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADfsnJJSXsco7+F9aJNBbV1",
+  "snapshot_id": "aOrvgAAAAAALhLDeh9+fXpx415EYDw2b",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seis",
-        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "C\u00f3mo Pensar Que No Te Quise",
-      "url": "https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si algo as\u00ed como el amor est\u00e1 en el aire",
         "url": "https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 293386,
       "name": "Ni por un Segundo",
       "url": "https://open.spotify.com/track/3arauHGIZskCf50BMT1m1I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seis",
+        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "C\u00f3mo Pensar Que No Te Quise",
+      "url": "https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seis",
-        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 249586,
-      "name": "Siglo XX",
-      "url": "https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8"
+      "duration_ms": 347733,
+      "name": "Lo Que Tu Gesto Da",
+      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seis",
+        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Siglo XX",
+      "url": "https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suna",
         "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 347733,
-      "name": "Lo Que Tu Gesto Da",
-      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "A Dios",
-      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 163173,
+      "name": "A Dios",
+      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
     },
     {
       "added_at": null,

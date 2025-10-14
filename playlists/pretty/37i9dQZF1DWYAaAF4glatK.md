@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle l'été 2025 🌞 Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,412 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,455 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 50 | [Butterfly](https://open.spotify.com/track/6Ncd71fbUwqLo5N9FCVR8z) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [OK KO](https://open.spotify.com/album/3W7ssPZxdz92hFHir6g8IT) | 3:43 |
 
-Snapshot ID: `AAAAAE5SNoirwwaHMg1afPtPYQPzb6zR`
+Snapshot ID: `AAAAANIPfplcppRBvsV9jxVhyjoIkW0w`

@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61829,
+  "num_followers": 61827,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 324200,
       "name": "Skating In Central Park",
       "url": "https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Autumn Nocturne",
-      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/0cbgMntTRsvEASZAdPCrFo"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 250364,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/4MQoAgfCZsw6iyv1olPb92"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Standard Time Vol. 3: The Resolution Of Romance",
-        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 447280,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Standard Time Vol. 3: The Resolution Of Romance",
+        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "The Body & The Soul",
-        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "The Body & The Soul",
+        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Last Night at the Cedar Tavern",
-        "url": "https://open.spotify.com/album/1GzIyAbAPg3jTeiKUB93KI"
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
       "artists": [
         {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 189016,
-      "name": "Last Night at the Cedar Tavern",
-      "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+        "name": "Last Night at the Cedar Tavern",
+        "url": "https://open.spotify.com/album/1GzIyAbAPg3jTeiKUB93KI"
       },
       "artists": [
         {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
         }
       ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+      "duration_ms": 189016,
+      "name": "Last Night at the Cedar Tavern",
+      "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -579,6 +579,22 @@
       "duration_ms": 236840,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -611,22 +627,6 @@
       "duration_ms": 227202,
       "name": "I'll Give You My Heartache",
       "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Reacquainted",
-        "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
-      },
-      "artists": [
-        {
-          "name": "Eric Rowland",
-          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
-        }
-      ],
-      "duration_ms": 209594,
-      "name": "Reacquainted",
-      "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Reacquainted",
+        "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Rowland",
+          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+        }
+      ],
+      "duration_ms": 209594,
+      "name": "Reacquainted",
+      "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 416986,
-      "name": "Mule - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "All Blues (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 404026,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 416986,
+      "name": "Mule - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Mingus Ah Um",
         "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 187866,
       "name": "Self-Portrait in Three Colors",
       "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "And Suddenly There Was Love",
-        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
-      },
-      "artists": [
-        {
-          "name": "Jonah Aardekker",
-          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
-        }
-      ],
-      "duration_ms": 267142,
-      "name": "And Suddenly There Was Love",
-      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 246066,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "And Suddenly There Was Love",
+        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Aardekker",
+          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+        }
+      ],
+      "duration_ms": 267142,
+      "name": "And Suddenly There Was Love",
+      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 387733,
+      "name": "Surprises",
+      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+        "name": "return to casual",
+        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
       },
       "artists": [
         {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
         }
       ],
-      "duration_ms": 387733,
-      "name": "Surprises",
-      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
+      "duration_ms": 247253,
+      "name": "Mother Stands for Comfort",
+      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "return to casual",
-        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
+        "name": "Plays Ballads",
+        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
       },
       "artists": [
         {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Mother Stands for Comfort",
-      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
+      "duration_ms": 385219,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1215,22 +1231,6 @@
       "duration_ms": 175606,
       "name": "Five Years Ago",
       "url": "https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "Plays Ballads",
-        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 385219,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2025-09-29 06:51:08",

@@ -2,9 +2,9 @@
 
 ### [\(AR\)](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Marvio.
+> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Innellea & Peces Raros.
 
-326 songs - 1 day 7 hr 14 min
+327 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Overflow \- Fiama Molina Remix](https://open.spotify.com/track/2spNlmReyMDsZanz79yjQG) | [Miss Adk](https://open.spotify.com/artist/1P8ulwWeuGIL12delhvGEz), [Fiama Molina](https://open.spotify.com/artist/2O2QR0JbQ4Rkv9fN3HvRew) | [Overflow](https://open.spotify.com/album/58E9QSlo17wnE07iXwpzIo) | 6:27 | 2024-01-05 | 2025-07-08 |
 | [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 | 2025-04-11 |  |
 | [Paradiso \- Radio Edit](https://open.spotify.com/track/1PSAEH5HKR35xGAy0dV6KF) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp), [Marvio \(AR\)](https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Paradiso](https://open.spotify.com/album/6bFHz7BXHgLrX0fHR0d5eM) | 3:39 | 2025-09-26 |  |
+| [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 | 2025-10-13 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3Uvnf9Kqgj2QLkPrcGj91F) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [Peace Of Mind](https://open.spotify.com/album/0E3Ex7Qbkz6uXnCoAl6Ufj) | 4:54 | 2024-02-16 | 2025-03-20 |
 | [Petih](https://open.spotify.com/track/35c5oiMKqvnSUjZ4P5ZM09) | [Carl OS](https://open.spotify.com/artist/5XWqZtLEwd0w2E2QH3gIc1) | [Petih](https://open.spotify.com/album/3GPlVHcRFbHi9DttFg9P6v) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Pinto](https://open.spotify.com/track/1dreniBF17P2HIn9cdQKSf) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw), [Pedro Perelman](https://open.spotify.com/artist/6PDer1TABluN09lZ2CWdbD), [Yuvi Gerstein](https://open.spotify.com/artist/34xoo5Pk2CLFHpBrMFwKDD) | [Pinto](https://open.spotify.com/album/6f3AnOqx9larx53QPSArrP) | 5:46 | 2025-07-04 |  |
@@ -305,7 +306,7 @@
 | [TRIBOT](https://open.spotify.com/track/6eD1z2Kzk06haPpMBZkGqD) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [CYBERIA](https://open.spotify.com/album/3zFrhLAlu0Ht0CufgIO1Vd) | 5:30 | 2024-04-12 | 2025-03-20 |
 | [Tribute To Miles Davis](https://open.spotify.com/track/0Kira2tDs8pI6osxYqusdZ) | [Franco Cinelli](https://open.spotify.com/artist/2Wxm8dZxYdfcNfDxJR2dfe) | [Cuts From The Vault, Pt\. 2 EP](https://open.spotify.com/album/1T7937typ9OL34vhl386lJ) | 10:47 | 2025-03-19 |  |
 | [TUMBANDO LA RAVE](https://open.spotify.com/track/6HqpjqQrxXGxarnzF8e9Bj) | [BRYCHTTA](https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Jose Bonetto](https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [TUMBANDO LA RAVE](https://open.spotify.com/album/1r6Jfo7tDkfvxKIaBIHPOF) | 4:58 | 2025-02-28 | 2025-03-20 |
-| [Turnin'](https://open.spotify.com/track/36gthjpephERK8Il6W6o5p) | [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx), [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk) | [Turnin'](https://open.spotify.com/album/3sKJ56NDEShQDzY3ZxPGMl) | 5:32 | 2025-06-06 |  |
+| [Turnin'](https://open.spotify.com/track/36gthjpephERK8Il6W6o5p) | [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx), [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk) | [Turnin'](https://open.spotify.com/album/3sKJ56NDEShQDzY3ZxPGMl) | 5:32 | 2025-06-06 | 2025-10-14 |
 | [Ultravox \- Hernan Cattaneo & Kevin Di Serna Remix \- Mixed](https://open.spotify.com/track/6aNtarWyRbmgiI0I7BXJq5) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [The Soundgarden 05 \(DJ Mix\)](https://open.spotify.com/album/2sCThKiVcLYrgqQuZ7uySJ) | 5:51 | 2025-02-28 | 2025-03-20 |
 | [Under Depth](https://open.spotify.com/track/4w1UBTHdo7aGxTSsseoj2n) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Under Depth](https://open.spotify.com/album/4L7PONnkfJ5ZZ3iqdYtGwJ) | 4:24 | 2025-03-19 | 2025-06-06 |
 | [Undertones 2](https://open.spotify.com/track/4p6A0iRwk566yuZysJdv7z) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Undertones 2](https://open.spotify.com/album/3OPQ2Kjn717hUsHhmBMx64) | 5:46 | 2023-12-07 | 2025-06-27 |

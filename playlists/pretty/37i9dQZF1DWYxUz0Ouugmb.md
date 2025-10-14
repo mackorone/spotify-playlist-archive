@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,546 likes - 58 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,558 likes - 58 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 57 | [Denah Rumahmu](https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu](https://open.spotify.com/album/5JAL8mW3bGLe5yu40In446) | 3:55 |
 | 58 | [Tanpa Batas Waktu](https://open.spotify.com/track/1UY33OSDxSwBHmPfYmCUfh) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Tanpa Batas Waktu](https://open.spotify.com/album/4fxoL7dYH5vNu15gH0UJkb) | 4:27 |
 
-Snapshot ID: `AAAAAE1cUhfP5cioUkwsmPwDpU9VbUY7`
+Snapshot ID: `AAAAAE0WsrSZUy14dBJiMpXswRrRaSVe`

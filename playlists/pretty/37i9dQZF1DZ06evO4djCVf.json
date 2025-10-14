@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 94531,
+  "num_followers": 94537,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACc3hFkAJeiGtDvYjfvzUBM",
+  "snapshot_id": "aOrvgAAAAABPrbPsYKzlxivrPrdKGZSR",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batterij",
-        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Batterij",
-      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 205714,
       "name": "Als Het Avond Is",
       "url": "https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batterij",
+        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 182694,
       "name": "Blauwe Dag",
       "url": "https://open.spotify.com/track/0N1sqwppd1BwhNdjcIDEG2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 197845,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 168066,
       "name": "Spiegelbeeld",
       "url": "https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 197845,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gedeeld Door Ons",
+        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Deze Is Voor Mij",
+      "url": "https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 204154,
       "name": "Hou Vol Hou Vast",
       "url": "https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gedeeld Door Ons",
-        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Deze Is Voor Mij",
-      "url": "https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liefde Voor Muziek 2024",
-        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Liefde Gegeven - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/2G2Vl8sDYYeXKyvPStUxeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 173596,
       "name": "Nog Even Dit",
       "url": "https://open.spotify.com/track/7aESh0sw6yPw7yTNgC4gwi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Liefde Gegeven - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2G2Vl8sDYYeXKyvPStUxeI"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "De Helft Van Wat Je Doet",
-      "url": "https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 207548,
       "name": "Mag Ik Daar Even Stil Bij Staan",
       "url": "https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "De Helft Van Wat Je Doet",
+      "url": "https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1"
     },
     {
       "added_at": null,

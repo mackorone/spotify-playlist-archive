@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-647 songs - 2 day 5 hr 24 min
+648 songs - 2 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Downpour Of Blessings](https://open.spotify.com/track/13ofhF3akKSze47em3ihua) | [Yone\-ko](https://open.spotify.com/artist/5lpbbYojKrSoU2FoNlah10) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 6:59 | 2022-02-21 | 2022-07-25 |
 | [A Power Over Me](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [A Power Over Me EP](https://open.spotify.com/album/78uWTRjStnaxMpfeFj9MR1) | 5:34 | 2023-07-14 |  |
 | [A Sheltered Place \- Phaeleh Remix](https://open.spotify.com/track/38CngZw3TDi2XDCQPMKHJR) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z), [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Tuesday Maybe \(Remixed\)](https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw) | 3:48 | 2021-12-08 | 2023-01-06 |
+| [About U](https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [About U](https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti) | 2:37 | 2025-10-10 |  |
 | [After](https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [After](https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk) | 4:01 | 2025-04-11 |  |
 | [After The Rain](https://open.spotify.com/track/59bxpViKiAgqDu1gkd2slW) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [After The Rain](https://open.spotify.com/album/0w1ldBaax7UOp17zdqUknF) | 4:30 | 2025-07-25 |  |
 | [Again](https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Again](https://open.spotify.com/album/3iGyQOA9EcfQyEPNw65dsg) | 4:18 | 2023-12-15 | 2025-09-29 |
@@ -519,7 +520,7 @@
 | [Solace](https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/07vqdHo7zpz7GiykpxWGbi) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 | 2021-12-08 | 2022-11-13 |
 | [Solid Gold Love](https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Solid Gold Love](https://open.spotify.com/album/2S2xWb8NSimNm5D4jz6vSp) | 4:05 | 2021-12-08 | 2024-07-13 |
-| [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 | 2024-05-10 |  |
+| [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 | 2024-05-10 | 2025-10-14 |
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 | 2024-07-19 |  |
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |

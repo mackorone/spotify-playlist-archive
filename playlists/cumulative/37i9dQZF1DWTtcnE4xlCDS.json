@@ -4136,7 +4136,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184000,
-      "name": "Hyper Bass - KOTONOHOUSE Remix",
+      "name": "Hyper Bass (feat. \u306d\u306d\u308b\u306d\u308b (CV:\u82fa\u308a\u306a\u306f\u3080), \u516b\u6ce2\u96f6\u97f3 (CV:yAmmy) & \u53f6\u30d2\u30ab\u30ea (CV:\u3041\u3043\u3041\u3043)) - KOTONOHOUSE Remix",
       "url": "https://open.spotify.com/track/2OUoy5Un6MhywLtieUeJ4I"
     },
     {
@@ -11185,40 +11185,6 @@
     },
     {
       "album": {
-        "name": "\u96fb\u97f3\u90e8 (HARAJUKU Kawaii Halloween REMIX)",
-        "url": "https://open.spotify.com/album/2Re25IXWyXHvQKY1rtNkwR"
-      },
-      "artists": [
-        {
-          "name": "\u96fb\u97f3\u90e8",
-          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
-        },
-        {
-          "name": "Hideya Kojima",
-          "url": "https://open.spotify.com/artist/3qrYUk6aQclmjm55p4P3P6"
-        },
-        {
-          "name": "\u685c\u4e43\u7f8e\u3005\u514e (CV: \u5c0f\u5742\u4e95\u7950\u8389\u7d75)",
-          "url": "https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk"
-        },
-        {
-          "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
-          "url": "https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2"
-        },
-        {
-          "name": "\u72ac\u5420\u57fc\u7d2b\u674f (CV: \u9577\u8c37\u5ddd\u73b2\u5948)",
-          "url": "https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf"
-        }
-      ],
-      "date_added": "2024-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 335225,
-      "name": "\u30b7\u30ed\u30d7\u30b9\u03b1 - HIDEYA KOJIMA REMIX",
-      "url": "https://open.spotify.com/track/3p3q9N7BGPYjyWWcJxXUfk"
-    },
-    {
-      "album": {
         "name": "\u30b7\u30ed\u30d7\u30b9\u03b1 (feat. \u306d\u306d\u308b\u306d\u308b (CV:\u82fa\u308a\u306a\u306f\u3080), \u516b\u6ce2\u96f6\u97f3 (CV:yAmmy) & \u53f6\u30d2\u30ab\u30ea (CV:\u3041\u3043\u3041\u3043)) [KOERU Remix]",
         "url": "https://open.spotify.com/album/0FkBeh89I7lVjIyoK7yxG7"
       },
@@ -11252,8 +11218,42 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246750,
-      "name": "\u30b7\u30ed\u30d7\u30b9\u03b1 - KOERU Remix",
+      "name": "\u30b7\u30ed\u30d7\u30b9\u03b1 (feat. \u306d\u306d\u308b\u306d\u308b (CV:\u82fa\u308a\u306a\u306f\u3080), \u516b\u6ce2\u96f6\u97f3 (CV:yAmmy) & \u53f6\u30d2\u30ab\u30ea (CV:\u3041\u3043\u3041\u3043)) - KOERU Remix",
       "url": "https://open.spotify.com/track/0borukC53xCEuLn992x7r1"
+    },
+    {
+      "album": {
+        "name": "\u96fb\u97f3\u90e8 (HARAJUKU Kawaii Halloween REMIX)",
+        "url": "https://open.spotify.com/album/2Re25IXWyXHvQKY1rtNkwR"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Hideya Kojima",
+          "url": "https://open.spotify.com/artist/3qrYUk6aQclmjm55p4P3P6"
+        },
+        {
+          "name": "\u685c\u4e43\u7f8e\u3005\u514e (CV: \u5c0f\u5742\u4e95\u7950\u8389\u7d75)",
+          "url": "https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk"
+        },
+        {
+          "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
+          "url": "https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2"
+        },
+        {
+          "name": "\u72ac\u5420\u57fc\u7d2b\u674f (CV: \u9577\u8c37\u5ddd\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335225,
+      "name": "\u30b7\u30ed\u30d7\u30b9\u03b1 - HIDEYA KOJIMA REMIX",
+      "url": "https://open.spotify.com/track/3p3q9N7BGPYjyWWcJxXUfk"
     },
     {
       "album": {

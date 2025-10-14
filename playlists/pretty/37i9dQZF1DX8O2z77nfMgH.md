@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Jhayco
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,122 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,938 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 3 | [SE SUPONE](https://open.spotify.com/track/62QcYAIRQ9VGJ7eyS1S3ek) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [SE SUPONE](https://open.spotify.com/album/5mHD4ryfrB2GKXGh2v0VxP) | 2:44 |
 | 4 | [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 |
 | 5 | [Unfollow](https://open.spotify.com/track/6XmgziZuWHy5wbBVVbE4uv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Underwater](https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y) | 2:52 |
-| 6 | [ASI NOMAS](https://open.spotify.com/track/4keu2x6B3dFX21vob5dNsE) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ASI NOMAS](https://open.spotify.com/album/72VpF3GK0EOTqhiY888vN3) | 3:06 |
+| 6 | [ASÍ NOMÁS](https://open.spotify.com/track/4keu2x6B3dFX21vob5dNsE) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ASÍ NOMÁS](https://open.spotify.com/album/72VpF3GK0EOTqhiY888vN3) | 3:06 |
 | 7 | [Chamba](https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chamba](https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg) | 3:22 |
 | 8 | [FINGI DEMENCIA \- CUARTETO](https://open.spotify.com/track/39iGn4eAHCC65DJz0aKKJR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [FINGI DEMENCIA \(CUARTETO\)](https://open.spotify.com/album/3ao7cKNrpwidDeQzf1fmKg) | 2:39 |
 | 9 | [Quién Pensaría](https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ) | 3:32 |

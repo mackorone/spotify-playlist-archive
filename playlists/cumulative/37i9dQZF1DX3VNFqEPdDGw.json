@@ -203,6 +203,32 @@
     },
     {
       "album": {
+        "name": "32 Dand",
+        "url": "https://open.spotify.com/album/167zp2W8XeoyZZg6z8EOkg"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Guri Nimana",
+          "url": "https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163887,
+      "name": "32 Dand",
+      "url": "https://open.spotify.com/track/1fbswZJRi9UJq35TJmtJ7c"
+    },
+    {
+      "album": {
         "name": "4 Mint",
         "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
       },
@@ -1448,7 +1474,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 148000,
       "name": "Challenge",
       "url": "https://open.spotify.com/track/7acSj1YYyMsSisFthsQ5ZX"
@@ -2106,7 +2132,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Don't Know",
       "url": "https://open.spotify.com/track/09Zu1UjZQ4U78pUIWuZedj"
@@ -6692,7 +6718,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 143030,
       "name": "Soohe Ve Cheere Waleya - From \"Soohe Ve Cheere Waleya\"",
       "url": "https://open.spotify.com/track/3WawaDHSNhv7uv50HZkAeP"

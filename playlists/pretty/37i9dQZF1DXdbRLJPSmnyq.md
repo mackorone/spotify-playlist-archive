@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Kenshi Yonezu
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,679 likes - 73 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,693 likes - 73 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

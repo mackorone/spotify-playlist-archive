@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Jonna Fraser & Lil Kleine
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,251 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,254 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 34 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |
 | 35 | [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 |
 | 36 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
-| 37 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 |
-| 38 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 |
+| 37 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 |
+| 38 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 |
 | 39 | [Je Bent Leuk](https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Je Bent Leuk](https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt) | 2:02 |
 | 40 | [Broski’s](https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Broski’s](https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V) | 2:59 |
 | 41 | [Tiffany](https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT) | 2:50 |

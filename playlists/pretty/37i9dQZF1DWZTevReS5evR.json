@@ -1,29 +1,13 @@
 {
   "description": "I really wish your real name is my last name \ud83e\udd21",
-  "num_followers": 440540,
+  "num_followers": 440529,
   "original_name": "membadut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADAXOnLFvIiis5BQs3+2ivOLeHh",
+  "snapshot_id": "AAAAABtnphy7lx1urMbAw3fDvzSdFp+O",
   "tracks": [
-    {
-      "added_at": "2025-10-03 04:01:42",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Backburner",
-      "url": "https://open.spotify.com/track/4kkWvBCT6wq5NHoJjYRaPU"
-    },
     {
       "added_at": "2025-10-08 01:48:51",
       "album": {
@@ -45,22 +29,6 @@
       "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
     },
     {
-      "added_at": "2025-10-03 04:01:42",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220564,
-      "name": "Ruin The Friendship",
-      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
-    },
-    {
       "added_at": "2025-10-08 01:48:51",
       "album": {
         "name": "Ingin Mencintai & Dicintai",
@@ -79,18 +47,38 @@
     {
       "added_at": "2025-10-03 04:01:42",
       "album": {
-        "name": "Pejantan Tangguh",
-        "url": "https://open.spotify.com/album/5XDIG1UnNJ4jLVwsCFbc7l"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Pemuja Rahasia",
-      "url": "https://open.spotify.com/track/1Ib0UNLoqBEWTmBvXeFSni"
+      "duration_ms": 220564,
+      "name": "Ruin The Friendship",
+      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
+    },
+    {
+      "added_at": "2025-10-13 05:12:31",
+      "album": {
+        "name": "Bentang Jarak Asmara",
+        "url": "https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g"
+      },
+      "artists": [
+        {
+          "name": "Man Osman",
+          "url": "https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF"
+        },
+        {
+          "name": "Traffic Jam",
+          "url": "https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM"
+        }
+      ],
+      "duration_ms": 234224,
+      "name": "Bentang Jarak Asmara",
+      "url": "https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP"
     },
     {
       "added_at": "2025-10-08 01:48:51",
@@ -107,6 +95,38 @@
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-10-03 04:01:42",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Backburner",
+      "url": "https://open.spotify.com/track/4kkWvBCT6wq5NHoJjYRaPU"
+    },
+    {
+      "added_at": "2025-10-03 04:01:42",
+      "album": {
+        "name": "Pejantan Tangguh",
+        "url": "https://open.spotify.com/album/5XDIG1UnNJ4jLVwsCFbc7l"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Pemuja Rahasia",
+      "url": "https://open.spotify.com/track/1Ib0UNLoqBEWTmBvXeFSni"
     },
     {
       "added_at": "2025-10-03 04:01:42",

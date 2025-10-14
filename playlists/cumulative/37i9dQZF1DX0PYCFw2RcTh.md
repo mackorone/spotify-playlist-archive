@@ -2,7 +2,7 @@
 
 ### [RADAR Creators Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0PYCFw2RcTh)
 
-> Poddar att ha på din RADAR\. Omslag: Fri Roll \- Studion
+> Poddar att ha på din RADAR\. Omslag: Inte pojkvänner
 
 20 songs - 17 hr 13 min
 

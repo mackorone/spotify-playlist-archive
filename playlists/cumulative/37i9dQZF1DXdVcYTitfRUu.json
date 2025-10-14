@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
+    },
+    {
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
       },
@@ -674,6 +692,28 @@
       "duration_ms": 248213,
       "name": "By your side",
       "url": "https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt"
+    },
+    {
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Bye Bye (Feat. LEE MU JIN)",
+      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
     },
     {
       "album": {
@@ -1061,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Emergency Room",
+        "url": "https://open.spotify.com/album/1l5PtAZAZpzOiDx58tHE6R"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Emergency Room",
+      "url": "https://open.spotify.com/track/1oeHVF6CDlC4dXrYtYhsG7"
+    },
+    {
+      "album": {
         "name": "End of a Day, You (Original Soundtrack from Just For Meeting You)",
         "url": "https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik"
       },
@@ -1350,7 +1408,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
@@ -1404,7 +1462,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 213000,
       "name": "Gravity of You",
       "url": "https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev"
@@ -2172,7 +2230,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 243853,
       "name": "Let's Say Goodbye",
       "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"

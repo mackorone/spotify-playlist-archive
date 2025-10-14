@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Odumodublvck, Lojay, Peruzzi, t.i blaze  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,957 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,078 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 18 | [DANS LE DOS](https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18) | [NO PAIN NO GAIN](https://open.spotify.com/artist/4jMatNAUw3usV6EGr74CsJ), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [DANS LE DOS](https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d) | 3:10 |
 | 19 | [2K225 \(feat Didi B, Bolemvn\)](https://open.spotify.com/track/3WKMbWc1UEqtDXaSRc098g) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225 \(feat Didi B, Bolemvn\)](https://open.spotify.com/album/7BfTWRAGcDbQ8FQsngLPbq) | 2:39 |
 | 20 | [My Brother](https://open.spotify.com/track/5qylaX9UellSaEdjvEz2sv) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [My Brother](https://open.spotify.com/album/3TWw68c6ry3uFzWsc6vZJd) | 2:35 |
-| 21 | [Kanye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kanye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 |
+| 21 | [Kan Ye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kan Ye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 |
 | 22 | [Shoda](https://open.spotify.com/track/0prNbCHO4fO9RCmbUMmmLh) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shoda](https://open.spotify.com/album/0S0W8HKfy6dHCmArthtZ0Z) | 2:47 |
 | 23 | [Why Always Me?](https://open.spotify.com/track/2CBhGKAr2rcxdNd2BE0bRf) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Why Always Me?](https://open.spotify.com/album/4nXfyOZtInjR4xqLwq0DpA) | 2:54 |
 | 24 | [Mad Oh](https://open.spotify.com/track/29cqKwAx1roM3IrgfNMYL6) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:30 |

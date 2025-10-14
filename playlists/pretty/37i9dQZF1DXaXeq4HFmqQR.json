@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Seamoon en portada. ",
-  "num_followers": 14818,
+  "num_followers": 14819,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-07-02 16:39:46",
       "album": {
-        "name": "FICA PAPI",
-        "url": "https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 145228,
-      "name": "FICA PAPI",
-      "url": "https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq"
-    },
-    {
-      "added_at": "2025-07-02 16:39:46",
-      "album": {
         "name": "Triste, Linda y Bellaka: El \u00c1lbum",
         "url": "https://open.spotify.com/album/6HlyIfhKuYTdTN79aYvpXQ"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 164516,
       "name": "Triste y Linda",
       "url": "https://open.spotify.com/track/2NPJMuB6vJV7aqinVvjO42"
+    },
+    {
+      "added_at": "2025-07-02 16:39:46",
+      "album": {
+        "name": "FICA PAPI",
+        "url": "https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 145228,
+      "name": "FICA PAPI",
+      "url": "https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq"
     },
     {
       "added_at": "2025-07-02 16:39:46",
@@ -623,22 +623,26 @@
     {
       "added_at": "2025-07-02 16:39:46",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/7vjHz9VqvjJJGUHgO5DGpu"
+        "name": "Solteras",
+        "url": "https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl"
       },
       "artists": [
         {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
         },
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Sicario En los controles",
+          "url": "https://open.spotify.com/artist/301UYYFYUIRMyNbMmCwTyd"
         }
       ],
-      "duration_ms": 248550,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/79ZxTFIe1mM6qKLL2uBEmc"
+      "duration_ms": 166530,
+      "name": "Solteras",
+      "url": "https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM"
     }
   ],
   "unique_name": "EQUAL Chile",

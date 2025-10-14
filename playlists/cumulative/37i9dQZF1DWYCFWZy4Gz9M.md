@@ -4,7 +4,7 @@
 
 > Guembri, rhythmic krakebs and soulful chants.
 
-96 songs - 10 hr 7 min
+97 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Allah ya so](https://open.spotify.com/track/16KO2soQytOZYMKzEtopOw) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Allah ya so](https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0) | 5:24 | 2021-08-25 | 2022-02-03 |
 | [Alwali Ya Moulay Ahmed](https://open.spotify.com/track/6IBs1Ihaw7bL2oghbcJRAK) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Soirées Gnawa Neurasys Remaster, Vol\. 5](https://open.spotify.com/album/1yADz9TsbPu4nrlIPOwL02) | 11:25 | 2021-08-25 | 2025-09-29 |
 | [Arabiato](https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Africa Soyo](https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx) | 6:28 | 2021-08-25 |  |
+| [Assamaoui / السماوي](https://open.spotify.com/track/42aJRHXGbshALWX7IUAoaN) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Al bahraoui](https://open.spotify.com/album/3oqVSW913qGvIbgGiBuCyH) | 7:22 | 2025-10-13 |  |
 | [Aïcha Hamdouchia](https://open.spotify.com/track/4evPwj9nBVXW6i9BdXTvDX) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 9:47 | 2025-02-19 |  |
 | [Baba Al Arabi](https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 4:14 | 2021-08-25 |  |
 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 | 2021-08-25 | 2025-06-12 |
@@ -92,7 +93,7 @@
 | [Shaba Kouria](https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Colours of the Night](https://open.spotify.com/album/4pCHBjS3nULoQ3NEy3WI0g) | 8:50 | 2021-08-25 | 2022-11-09 |
 | [Shaba Kouria](https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Colours of the Night](https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA) | 8:50 | 2022-03-10 | 2024-04-19 |
 | [Sidi Koumy](https://open.spotify.com/track/15pwgz1YF0jYkXhGsZTCnD) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61), [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5), [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Zef Zaf](https://open.spotify.com/artist/1cs08TsXSdpGOwfbOmm4yq), [Abdelkebir Amlil](https://open.spotify.com/artist/7GhnTjzgICUgcz64gGZuGh) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 9:29 | 2021-08-25 | 2023-04-25 |
-| [Sidi Musa](https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn) | [Hassan Hakmoun](https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur) | [The Fire Within: Gnawa Music of Morocco](https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk) | 3:59 | 2021-08-25 |  |
+| [Sidi Musa](https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn) | [Hassan Hakmoun](https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur) | [The Fire Within: Gnawa Music of Morocco](https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk) | 3:59 | 2021-08-25 | 2025-10-14 |
 | [Soltani](https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Allah ya so](https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0) | 6:12 | 2021-08-25 | 2022-12-07 |
 | [Soudablanki\-kamamelou](https://open.spotify.com/track/1Ewzeb4h7Ku9aM1ItPQAqV) | [Maalem Abdenbi El Meknassi](https://open.spotify.com/artist/4l130Po1e8BjGIOQuY4W1u) | [Swakn, Gnawa du Maroc](https://open.spotify.com/album/2pIdjpRX4MLQNzfJoidlW1) | 4:27 | 2024-12-10 | 2025-01-09 |
 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 | 2021-08-25 |  |

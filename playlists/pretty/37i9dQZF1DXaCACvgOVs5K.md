@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,935 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,197 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 26 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
 | 27 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 |
 | 28 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 |
-| 29 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
-| 30 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
+| 29 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
+| 30 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
 | 31 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 |
 | 32 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 |
 | 33 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 66 | [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 |
 | 67 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 |
 | 68 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 |
-| 69 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
-| 70 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 |
+| 69 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 |
+| 70 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 71 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
 | 72 | [Savana](https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Savana](https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH) | 2:30 |
 | 73 | [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 97 | [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 |
 | 98 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
 | 99 | [Rendezvous](https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Rendezvous](https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv) | 3:28 |
-| 100 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 |
+| 100 | [Somebody To Love](https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Somebody To Love](https://open.spotify.com/album/09slJUG8d40lineidFdYCN) | 1:53 |
 
 Snapshot ID: `AAAAAOK1gYte8FkXvAz/2ENVvL39WPaO`

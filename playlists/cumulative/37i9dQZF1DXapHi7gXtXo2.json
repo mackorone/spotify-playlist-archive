@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Cicuta",
+        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149950,
+      "name": "Cicuta",
+      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+    },
+    {
+      "album": {
         "name": "COMETIERRA REMIX",
         "url": "https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 272500,
       "name": "el gil",
       "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"

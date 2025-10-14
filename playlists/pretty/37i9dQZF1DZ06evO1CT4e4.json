@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9812,
+  "num_followers": 9816,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABeli/8F0MkCu/vQnG+R3eg",
+  "snapshot_id": "aOrvgAAAAABIrP8Fr6XZRwmvTjpMuAbJ",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: In Principio",
         "url": "https://open.spotify.com/album/5u4qMT1veM8e7AT1Kbx8YM"
       },
@@ -307,8 +287,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Tractus",
-        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
+        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
       },
       "artists": [
         {
@@ -316,17 +316,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         },
         {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Greater Antiphons: II. O Adonai",
-      "url": "https://open.spotify.com/track/0iz1xlYV6bYLIpXbutCxbN"
+      "duration_ms": 195760,
+      "name": "Hymn to a Great City for 2 Pianos",
+      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
     },
     {
       "added_at": null,
@@ -351,6 +351,30 @@
       "duration_ms": 141731,
       "name": "7 Magnificat-Antiphons: No. 5, O Morgenstern",
       "url": "https://open.spotify.com/track/3JYiZbWHhodannmHLo2TtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Greater Antiphons: II. O Adonai",
+      "url": "https://open.spotify.com/track/0iz1xlYV6bYLIpXbutCxbN"
     },
     {
       "added_at": null,
@@ -399,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
-        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Hymn to a Great City for 2 Pianos",
-      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 250746,
       "name": "The Deer's Cry",
       "url": "https://open.spotify.com/track/4Fjv84kmmnz02yCyAsHYxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 706693,
+      "name": "Fratres (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 706693,
-      "name": "Fratres (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 362613,
       "name": "Summa",
       "url": "https://open.spotify.com/track/7a6AlKiNWFSA33WzF2SBi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 105973,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
-      "url": "https://open.spotify.com/track/1yy2T2ieV6q2GlCi8zDNCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 92146,
       "name": "Drei Hirtenkinder aus F\u00e1tima",
       "url": "https://open.spotify.com/track/2Z8H9xYg27MLnviLZ1uMfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 105973,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
+      "url": "https://open.spotify.com/track/1yy2T2ieV6q2GlCi8zDNCY"
     },
     {
       "added_at": null,
@@ -715,50 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "Da pacem Domine",
-      "url": "https://open.spotify.com/track/50aQeTHs9CMhVNhc7kUvhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -779,6 +735,26 @@
       "duration_ms": 238520,
       "name": "Sequentia",
       "url": "https://open.spotify.com/track/6qiehLuElgUdQlxN0CGgYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
     },
     {
       "added_at": null,
@@ -835,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "Da pacem Domine",
+      "url": "https://open.spotify.com/track/50aQeTHs9CMhVNhc7kUvhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Kanon Pokajanen",
         "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
       },
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 401800,
+      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
         "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 206240,
       "name": "Berliner Messe: I. Kyrie",
       "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 401800,
-      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
     },
     {
       "added_at": null,

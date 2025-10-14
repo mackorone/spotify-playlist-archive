@@ -1,13 +1,29 @@
 {
-  "description": "De beste Nederlandse liedjes. Cover: Bente",
-  "num_followers": 521998,
+  "description": "De beste Nederlandse liedjes. Cover: Zo\u00eb Livay",
+  "num_followers": 522074,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADeSMgtwg8fSO+QwA9YfOrZpR8HU",
+  "snapshot_id": "AAAAAOPrXARVubqF/Uim3ZcQkU7ELhF/",
   "tracks": [
+    {
+      "added_at": "2025-10-02 22:00:34",
+      "album": {
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
+    },
     {
       "added_at": "2025-10-02 22:00:34",
       "album": {
@@ -127,22 +143,6 @@
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
-    },
-    {
-      "added_at": "2025-10-02 22:00:34",
-      "album": {
-        "name": "Huisje Aan De Zee",
-        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "Huisje Aan De Zee",
-      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
       "added_at": "2025-10-02 22:00:34",

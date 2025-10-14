@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "ADAMN",
+        "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
+      },
+      "artists": [
+        {
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "ADAMN",
+      "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
+    },
+    {
+      "album": {
         "name": "421",
         "url": "https://open.spotify.com/album/0i3IirLVHTlg7JqMvv45tE"
       },
@@ -3558,7 +3576,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 190343,
       "name": "L\u1ed1i S\u1ed1ng",
       "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
@@ -4200,7 +4218,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 158905,
       "name": "NG\u00c2N",
       "url": "https://open.spotify.com/track/1TcmqSx576eBcuTxTtcEAk"
@@ -4226,6 +4244,44 @@
       "duration_ms": 213384,
       "name": "NG\u01af\u1edcI",
       "url": "https://open.spotify.com/track/2tOzq3YDrvNOYmLEZ3z8tJ"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" 2025, T\u1eacP 2",
+        "url": "https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        },
+        {
+          "name": "Phuc Du",
+          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
+        },
+        {
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+        },
+        {
+          "name": "Dillan Ho\u00e0ng Phan",
+          "url": "https://open.spotify.com/artist/2VVveD3cVA7Pf61XKeJQDs"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "NG\u01af\u1edcI Y\u00caU CH\u01afA SINH RA",
+      "url": "https://open.spotify.com/track/2ix8KB1Xm7rRGzkh3i8P1d"
     },
     {
       "album": {

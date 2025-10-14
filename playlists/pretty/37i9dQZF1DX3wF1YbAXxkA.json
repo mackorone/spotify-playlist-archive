@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 120601,
+  "num_followers": 120620,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Flicker of Light",
-        "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 199085,
-      "name": "Flicker of Light",
-      "url": "https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Flicker of Light",
+        "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 199085,
+      "name": "Flicker of Light",
+      "url": "https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Dark Times",
-        "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 198630,
-      "name": "Black&Blue",
-      "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 200706,
       "name": "Prove It To You",
       "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 198630,
+      "name": "Black&Blue",
+      "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
     },
     {
       "added_at": "2024-09-16 11:00:00",

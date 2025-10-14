@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-700 songs - 1 day 10 hr 25 min
+701 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Drifting \(Arodes Remix\)](https://open.spotify.com/track/6Oy2VKOZ2sduYfNu7Eje3f) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Drifting \(Arodes Remix\)](https://open.spotify.com/album/5bbRJwFsL9GVfBW4PHFIlt) | 3:03 | 2025-08-01 |  |
 | [Drifting \(KREAM Remix\)](https://open.spotify.com/track/1EUTDw9E70ewmIi5pDCu4b) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Drifting \(Remixes\)](https://open.spotify.com/album/2rCBDFnr6sMOrei4zh2kvS) | 3:00 | 2024-08-23 | 2024-08-31 |
 | [Drifting \(SISTEK Remix\)](https://open.spotify.com/track/0wYI9ob0NLlUJTkSC3a4yV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Drifting \(Remixes\)](https://open.spotify.com/album/2rCBDFnr6sMOrei4zh2kvS) | 3:58 | 2024-08-23 | 2024-08-31 |
+| [Driver's Seat \(feat\. Clarees\)](https://open.spotify.com/track/63tt59iVJvIHJxyEH1gX2V) | [Zoom.Like](https://open.spotify.com/artist/5k6kvNUPLfYzKCBXNqTbkQ), [Clarees](https://open.spotify.com/artist/5preGCl6y5PCh5UYFQSlDl) | [Driver's Seat \(feat\. Clarees\)](https://open.spotify.com/album/6qK5yB1wk8YlVhf9BZlbHy) | 2:24 | 2025-10-13 |  |
 | [Droppin' Hot \(feat\. Sonny Wilson\)](https://open.spotify.com/track/4tua0l4jgHSvV0FlgsmiUp) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Droppin' Hot \(feat\. Sonny Wilson\)](https://open.spotify.com/album/4YT3rXNwTHQzwENlihD6CP) | 2:23 | 2024-06-20 | 2024-06-29 |
 | [Drowning](https://open.spotify.com/track/5tisE7bVn5EfLSrVdvonVQ) | [Okan](https://open.spotify.com/artist/6yJ1OtlKUP9lUzxrOwBwBP) | [Drowning](https://open.spotify.com/album/6pNeVt2EVVJ3F4ImA1RLYV) | 2:30 | 2025-10-10 |  |
 | [Drumroll Please](https://open.spotify.com/track/4lIeR1zvv0J8lEVRVI58NQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [Drumroll Please](https://open.spotify.com/album/2qoUIOVBI5xG8NqBziLCYd) | 2:19 | 2024-07-26 | 2024-08-02 |

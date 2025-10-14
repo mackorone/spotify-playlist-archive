@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: KIM, Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,957 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,954 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 4 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 |
 | 5 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 6 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 7 | [ME + YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |
+| 7 | [ME+YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |
 | 8 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
 | 9 | [Selamanya](https://open.spotify.com/track/11LEqls3KznxOu7Azr5pw4) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Selamanya](https://open.spotify.com/album/0BYWpVwLgQn0pkmisLkqJX) | 3:48 |
 | 10 | [Siap Kehilangan](https://open.spotify.com/track/4OduQXi4TfGPOcgizKhy5S) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU), [Meltho](https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs), [Rayen Pono](https://open.spotify.com/artist/19rdG4N7SsX2jtbCndgeK5) | [Siap Kehilangan](https://open.spotify.com/album/3c8wSWrdaddZLAFFEcypMu) | 3:54 |

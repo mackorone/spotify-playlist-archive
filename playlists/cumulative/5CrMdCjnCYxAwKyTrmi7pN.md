@@ -4,7 +4,7 @@
 
 > Them: So sad Summer is over..\. Me: Listening to Autumn music all day
 
-197 songs - 10 hr 32 min
+198 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 | 2025-07-25 | 2025-09-23 |
 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:38 | 2025-10-10 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-07-17 | 2025-09-23 |
-| [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-07-25 |  |
+| [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-07-25 | 2025-10-14 |
 | [Douha \(Mali Mali\) \(Edit\)](https://open.spotify.com/track/1supkf9D4Obm2yTHqug3m8) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Douha \(Mali Mali\)](https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py) | 2:51 | 2025-07-17 | 2025-09-23 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-09-22 |  |
 | [Déjà Vu](https://open.spotify.com/track/1OkFX11LjOELGogZyTHVVa) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Déjà Vu](https://open.spotify.com/album/5HTYaaS1l5AN84J3MN42Oc) | 2:45 | 2025-07-17 | 2025-10-11 |
@@ -84,6 +84,7 @@
 | [I Like You \(Me Gustas Tu\)](https://open.spotify.com/track/1LS2VGqz4RRH2NbxOmLtcm) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [I Like You \(Me Gustas Tu\)](https://open.spotify.com/album/4NuRFkgbhr5WADRRHQwUlh) | 2:49 | 2025-07-17 | 2025-09-23 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2025-09-22 |  |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-09-22 |  |
+| [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4) | 3:38 | 2025-10-13 |  |
 | [I Wasn’t Gonna](https://open.spotify.com/track/7iFKTblH3I5rrjDxH518He) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon](https://open.spotify.com/album/4t8DrPUjK7LlVh1wLP22gn) | 3:23 | 2025-09-22 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2025-09-22 |  |
 | [in love with us](https://open.spotify.com/track/2oqn2SM8KnJeYIQMTboKAX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/0IlLTDo99PpMqQKMnvLN3f) | 2:40 | 2025-07-18 | 2025-09-23 |
@@ -111,7 +112,7 @@
 | [Multicolor](https://open.spotify.com/track/2ExdbieQffMXpY7ygN2YN9) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Multicolor](https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m) | 3:28 | 2025-07-17 | 2025-09-02 |
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2025-09-22 |  |
 | [Never Forget You](https://open.spotify.com/track/2j5qmVNEUwsdOWeSIAYWUT) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/5AI1a7reUwdeJZRS5h9LcR) | 3:04 | 2025-08-11 | 2025-10-11 |
-| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-07-17 |  |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-07-17 | 2025-10-14 |
 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2025-07-17 | 2025-09-23 |
 | [Not Going Anywhere](https://open.spotify.com/track/2xawDSDpOeTSi45sKtSwSZ) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Not Going Anywhere](https://open.spotify.com/album/2m01wy7UZxqCGtpi65l7tw) | 2:54 | 2025-09-22 | 2025-10-08 |
 | [Not Like That Anymore](https://open.spotify.com/track/5w3QajymKhToSPpjWvvfHt) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/0zTUqsyAhao4AVSW1gNcNP) | 3:22 | 2025-07-17 | 2025-08-30 |

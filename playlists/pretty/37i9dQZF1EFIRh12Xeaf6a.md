@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,161 likes - 276 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,163 likes - 276 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 118 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
 | 119 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
 | 120 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
-| 121 | [Big Mouth \( Going Through Changes\)](https://open.spotify.com/track/1D4vY3qrFTeYjg8wsErED5) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Gogglebox \- The 80 Greatest TV Shows Of All Time](https://open.spotify.com/album/0uLk96XBFeFv6h0pnh2mbs) | 3:02 |
-| 122 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
-| 123 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
+| 121 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
+| 122 | [Big Mouth \( Going Through Changes\)](https://open.spotify.com/track/1D4vY3qrFTeYjg8wsErED5) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Gogglebox \- The 80 Greatest TV Shows Of All Time](https://open.spotify.com/album/0uLk96XBFeFv6h0pnh2mbs) | 3:02 |
+| 123 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
 | 124 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
 | 125 | [Surely](https://open.spotify.com/track/76QndCpwsOKj5Wp8oNYVBm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 4:57 |
 | 126 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
@@ -236,8 +236,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 226 | [Ride the Music](https://open.spotify.com/track/2ksn4hYRvqgpS0GGr6LZJ8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:11 |
 | 227 | [All My Time](https://open.spotify.com/track/2zi3yUv881emZtNSXmmBZz) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:17 |
 | 228 | [Venusian Diamond](https://open.spotify.com/track/2GiZdXGzE1M0Vmpyy0pvOQ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:30 |
-| 229 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
-| 230 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 229 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 230 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 231 | [Eagle](https://open.spotify.com/track/5XDIXl4gjvb3DiD9F7lV2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:41 |
 | 232 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 |
 | 233 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab+ssAAAAAB66xkNqDG3+BVyGSlMXoGp`
+Snapshot ID: `Ab+yCgAAAAC+2JTZxNx+wd3BkZ/bi1Dm`

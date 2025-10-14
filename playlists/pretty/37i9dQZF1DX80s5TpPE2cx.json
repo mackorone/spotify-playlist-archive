@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 18286,
+  "num_followers": 18303,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,38 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "MASTA",
+        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "duration_ms": 160879,
+      "name": "Confess",
+      "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "La Meme Tape",
         "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
       },
@@ -675,38 +707,6 @@
       "duration_ms": 201115,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "MASTA",
-        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "Confess",
-      "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+        "name": "Coconut Lips",
+        "url": "https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q"
       },
       "artists": [
         {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
+        },
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
         }
       ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+      "duration_ms": 215066,
+      "name": "Coconut Lips",
+      "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

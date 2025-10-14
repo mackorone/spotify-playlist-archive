@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jan Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,461 likes - 208 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,524 likes - 208 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

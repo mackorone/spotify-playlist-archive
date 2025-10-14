@@ -467,22 +467,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Emmanuel (Radio Version)",
         "url": "https://open.spotify.com/album/0FNDIjl0hgxR1c1t9p4WYz"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 292223,
       "name": "Emmanuel - Radio Version",
       "url": "https://open.spotify.com/track/4xK5WBymQU0EqDl52bWtDm"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -663,42 +663,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Venid Adoremos",
-        "url": "https://open.spotify.com/album/69wGxND0aHSUyxOwNgeoh4"
-      },
-      "artists": [
-        {
-          "name": "Celines",
-          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
-        },
-        {
-          "name": "Via Cantus",
-          "url": "https://open.spotify.com/artist/69sPIyuRT6adJGWHUQsSi0"
-        }
-      ],
-      "duration_ms": 286058,
-      "name": "Venid Adoremos",
-      "url": "https://open.spotify.com/track/3RDCKY0YJ9eJCfoup9VgFv"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "DIOS HA SIDO BUENO (Navidad)",
-        "url": "https://open.spotify.com/album/4jivxEdtpPnZ6sD5yTDXiG"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 156017,
-      "name": "DIOS HA SIDO BUENO - Navidad",
-      "url": "https://open.spotify.com/track/201J2P3W3Ib5JN58US3Moi"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Diciembre o Junio",
         "url": "https://open.spotify.com/album/7q3p0OYnGu4pc9ktkJ9ysR"
       },
@@ -731,6 +695,42 @@
       "duration_ms": 161408,
       "name": "Diciembre o Junio",
       "url": "https://open.spotify.com/track/1e5W0GpegvfZWusIYaSLAG"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "DIOS HA SIDO BUENO (Navidad)",
+        "url": "https://open.spotify.com/album/4jivxEdtpPnZ6sD5yTDXiG"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 156017,
+      "name": "DIOS HA SIDO BUENO - Navidad",
+      "url": "https://open.spotify.com/track/201J2P3W3Ib5JN58US3Moi"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Venid Adoremos",
+        "url": "https://open.spotify.com/album/69wGxND0aHSUyxOwNgeoh4"
+      },
+      "artists": [
+        {
+          "name": "Celines",
+          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
+        },
+        {
+          "name": "Via Cantus",
+          "url": "https://open.spotify.com/artist/69sPIyuRT6adJGWHUQsSi0"
+        }
+      ],
+      "duration_ms": 286058,
+      "name": "Venid Adoremos",
+      "url": "https://open.spotify.com/track/3RDCKY0YJ9eJCfoup9VgFv"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -775,6 +775,46 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Welcome Home (Este Es Tu Hogar)",
+        "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
+      },
+      "artists": [
+        {
+          "name": "mixtr",
+          "url": "https://open.spotify.com/artist/65Vs3f2mQK6jublzD06io7"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Adarga",
+          "url": "https://open.spotify.com/artist/3ce7pTvRVGA2WRMS2KXT3r"
+        },
+        {
+          "name": "Vanesa Keeley",
+          "url": "https://open.spotify.com/artist/7i5UxlHBlg97SSFYVAHNjY"
+        },
+        {
+          "name": "David Borraez Archila",
+          "url": "https://open.spotify.com/artist/7zMJFYQNSPh2pIgD6teTUN"
+        },
+        {
+          "name": "Molly Sirvatka",
+          "url": "https://open.spotify.com/artist/0LLCLGEu7Zlsp3EPHOPsET"
+        },
+        {
+          "name": "Lauren Welter",
+          "url": "https://open.spotify.com/artist/3NFbaB9hwhnXk5STfaroAc"
+        }
+      ],
+      "duration_ms": 186792,
+      "name": "Venid Fieles Todos",
+      "url": "https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -815,46 +855,6 @@
       "duration_ms": 214670,
       "name": "Estas Navidades",
       "url": "https://open.spotify.com/track/2waxGQNGUaeLrdY0l29iPB"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Welcome Home (Este Es Tu Hogar)",
-        "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
-      },
-      "artists": [
-        {
-          "name": "mixtr",
-          "url": "https://open.spotify.com/artist/65Vs3f2mQK6jublzD06io7"
-        },
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        },
-        {
-          "name": "Adarga",
-          "url": "https://open.spotify.com/artist/3ce7pTvRVGA2WRMS2KXT3r"
-        },
-        {
-          "name": "Vanesa Keeley",
-          "url": "https://open.spotify.com/artist/7i5UxlHBlg97SSFYVAHNjY"
-        },
-        {
-          "name": "David Borraez Archila",
-          "url": "https://open.spotify.com/artist/7zMJFYQNSPh2pIgD6teTUN"
-        },
-        {
-          "name": "Molly Sirvatka",
-          "url": "https://open.spotify.com/artist/0LLCLGEu7Zlsp3EPHOPsET"
-        },
-        {
-          "name": "Lauren Welter",
-          "url": "https://open.spotify.com/artist/3NFbaB9hwhnXk5STfaroAc"
-        }
-      ],
-      "duration_ms": 186792,
-      "name": "Venid Fieles Todos",
-      "url": "https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "La Navidad es para Compartir (Por Caminos)",
+        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
+      },
+      "artists": [
+        {
+          "name": "Raya Real",
+          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "La Navidad es para Compartir - Por Caminos",
+      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Lo Que Quiero Dar",
         "url": "https://open.spotify.com/album/50cFEKt1gJlJH2g01I4wCt"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 191893,
       "name": "Lo Que Quiero Dar",
       "url": "https://open.spotify.com/track/1amaEOLFqVQPu0xAQ202AH"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "La Navidad es para Compartir (Por Caminos)",
-        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
-      },
-      "artists": [
-        {
-          "name": "Raya Real",
-          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "La Navidad es para Compartir - Por Caminos",
-      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Ya naci\u00f3",
-        "url": "https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI"
-      },
-      "artists": [
-        {
-          "name": "Moises Cancel",
-          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
-        }
-      ],
-      "duration_ms": 240641,
-      "name": "Ya naci\u00f3",
-      "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/4M3g8HcYnCJmA99uh2456G"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 187665,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Ya naci\u00f3",
+        "url": "https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI"
+      },
+      "artists": [
+        {
+          "name": "Moises Cancel",
+          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
+        }
+      ],
+      "duration_ms": 240641,
+      "name": "Ya naci\u00f3",
+      "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Jes\u00fas Es Navidad",
-        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
-      },
-      "artists": [
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "Jes\u00fas Es Navidad",
-      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Navidad en Miami",
         "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 160500,
       "name": "Navidad en Miami",
       "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Jes\u00fas Es Navidad",
+        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 157833,
+      "name": "Jes\u00fas Es Navidad",
+      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Happy Birthday Jesus (Merry Christmas)",
         "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 219798,
       "name": "Espiritu Santo",
       "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 251951,
+      "name": "Es Navidad",
+      "url": "https://open.spotify.com/track/0rRdEddErYghJMBrrIeGGp"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Alabanzas Al Rey",
-      "url": "https://open.spotify.com/track/6xPQCiesZvH1jIi78UGo4p"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D"
       },
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
         }
       ],
-      "duration_ms": 251951,
-      "name": "Es Navidad",
-      "url": "https://open.spotify.com/track/0rRdEddErYghJMBrrIeGGp"
+      "duration_ms": 209626,
+      "name": "Alabanzas Al Rey",
+      "url": "https://open.spotify.com/track/6xPQCiesZvH1jIi78UGo4p"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Se Oye Un Son En Alta Esfera",
-        "url": "https://open.spotify.com/album/54rtcCGdy9xNW1kGM1SmHW"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 196038,
-      "name": "Se Oye Un Son En Alta Esfera",
-      "url": "https://open.spotify.com/track/7qNLT77rnE6ZkUhLGbiBQP"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Navidad Lleg\u00f3",
         "url": "https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 232777,
       "name": "\u00c1ngeles Cantando Est\u00e1n",
       "url": "https://open.spotify.com/track/4pbUXK8NtfkGh876JtOR6Q"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Se Oye Un Son En Alta Esfera",
+        "url": "https://open.spotify.com/album/54rtcCGdy9xNW1kGM1SmHW"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 196038,
+      "name": "Se Oye Un Son En Alta Esfera",
+      "url": "https://open.spotify.com/track/7qNLT77rnE6ZkUhLGbiBQP"
     },
     {
       "added_at": "2024-12-13 04:11:31",

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Rivs  y Alex Favela en portada.",
-  "num_followers": 67915,
+  "num_followers": 67941,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "Cantus",
-        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 184051,
-      "name": "Cantus",
-      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
         "name": "FFM",
         "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 193770,
       "name": "FFM",
       "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
+        "name": "Cantus",
+        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 184051,
+      "name": "Cantus",
+      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1063,6 +1063,42 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
         "name": "Te quiero",
         "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
       },
@@ -1095,42 +1131,6 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
-        "name": "EXTAPHORIC!",
-        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 85520,
-      "name": "THIRST FOR ME!",
-      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
         "name": "Sin Sentir",
         "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 219098,
       "name": "Sin Sentir",
       "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1195,18 +1211,22 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+        "name": "SUSTANCIAS",
+        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
         }
       ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+      "duration_ms": 228923,
+      "name": "SUSTANCIAS",
+      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1231,22 +1251,18 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "SUSTANCIAS",
-        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/2uRZYoFo5UrI7d8AlUHLLK"
       },
       "artists": [
         {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
-        },
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         }
       ],
-      "duration_ms": 228923,
-      "name": "SUSTANCIAS",
-      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+      "duration_ms": 147540,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/0CTaBZCRrQVsxdEFTYUByb"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1263,6 +1279,26 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1287,22 +1323,6 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/2uRZYoFo5UrI7d8AlUHLLK"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 147540,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/0CTaBZCRrQVsxdEFTYUByb"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
         "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
         "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "HOUSE PA LAS BANDIS",
-        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
-      },
-      "artists": [
-        {
-          "name": "REYPA",
-          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
-        },
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 182989,
-      "name": "HOUSE PA LAS BANDIS",
-      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
-    },
-    {
-      "added_at": "2025-10-03 06:00:05",
-      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
+    },
+    {
+      "added_at": "2025-10-03 06:00:05",
+      "album": {
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1763,18 +1763,26 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 160258,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
+      "duration_ms": 169761,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     },
     {
       "added_at": "2025-10-03 06:00:05",
@@ -1799,26 +1807,18 @@
     {
       "added_at": "2025-10-03 06:00:05",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 169761,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
+      "duration_ms": 160258,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
     },
     {
       "added_at": "2025-10-03 06:00:05",

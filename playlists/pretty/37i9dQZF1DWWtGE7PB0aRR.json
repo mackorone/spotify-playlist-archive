@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 175376,
+  "num_followers": 175429,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "3 O'Clock Blues - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Street Corner Talking",
         "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 323733,
       "name": "Tell Mama",
       "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "3 O'Clock Blues - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
       "added_at": "2021-04-22 22:35:02",

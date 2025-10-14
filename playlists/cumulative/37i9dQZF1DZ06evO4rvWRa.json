@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "The Walkers",
+          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160153,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/65iIFIjmHtzK0GrNw7RAEU"
+    },
+    {
+      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -1084,7 +1106,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 191830,
       "name": "Heartbreak Melody",
       "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"

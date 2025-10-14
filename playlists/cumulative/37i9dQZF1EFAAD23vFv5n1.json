@@ -1098,10 +1098,28 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 171348,
       "name": "GBYE",
       "url": "https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5"
+    },
+    {
+      "album": {
+        "name": "GBYE",
+        "url": "https://open.spotify.com/album/0xDaSqw3I7D2bWXGpi0EQV"
+      },
+      "artists": [
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171348,
+      "name": "GBYE",
+      "url": "https://open.spotify.com/track/6f1Q1nOeM35YcydV40V8F0"
     },
     {
       "album": {

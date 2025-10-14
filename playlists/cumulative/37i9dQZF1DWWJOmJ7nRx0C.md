@@ -2,7 +2,7 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Poppy, Amy Lee and Courtney LaPlante.
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Poppy, Amy Lee and Courtney LaPlante
 
 1,586 songs - 3 day 22 hr 52 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n",
-  "num_followers": 293078,
+  "num_followers": 293195,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "Rocanlover",
         "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "La Gusana Ciega",
-        "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Tornasol (Vuelves a Ser)",
-      "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 238266,
       "name": "No Dejes Que",
       "url": "https://open.spotify.com/track/3XluhR9U6ToARwWAl9W1QU"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "La Gusana Ciega",
+        "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Tornasol (Vuelves a Ser)",
+      "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
     },
     {
       "added_at": "2024-06-12 20:40:05",

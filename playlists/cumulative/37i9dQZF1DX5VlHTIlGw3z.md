@@ -4,7 +4,7 @@
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-43 songs - 2 hr 49 min
+44 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2025-05-29 |  |
 | [Crazy Dancer](https://open.spotify.com/track/2iM4ZRQaL44nDu3nQe3irq) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [DANCEABLE](https://open.spotify.com/album/0o3RQWikYCF9w9wtUdV6bO) | 3:10 | 2025-06-03 |  |
 | [everything is my guitar](https://open.spotify.com/track/4Vks1EVnEVZzMLpddCVx6e) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [andymori](https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z) | 2:27 | 2025-05-29 |  |
+| [IGGY POP FAN CLUB](https://open.spotify.com/track/6NkIytZwFeUreuosblTrcI) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 ～BEST & B\-SIDES～](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 4:17 | 2025-10-14 |  |
 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 | 2025-09-03 |  |
 | [UFOを呼ぶダンス](https://open.spotify.com/track/0Ty3ogHHmgHmoH4JrW5Gtz) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [戦略的生存](https://open.spotify.com/album/3YThqweWZRKmnAt8ibr5PM) | 3:43 | 2025-05-29 |  |
 | [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 | 2025-06-03 |  |

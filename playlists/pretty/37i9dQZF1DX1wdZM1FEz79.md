@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김필선\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,407 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,430 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Station](https://open.spotify.com/track/2GQaE2w5jxVTCiip5lTefL) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Station](https://open.spotify.com/album/7AnB8RCM50MszNxiNVSZFz) | 2:45 |
-| 2 | [We, the young](https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [We, the young](https://open.spotify.com/album/43LOnMWEXJJDUpHPN64m31) | 3:25 |
+| 2 | [love](https://open.spotify.com/track/3EBQWpqJIB4wQolY1lbPri) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Naive](https://open.spotify.com/artist/1b2tnewS90sAeuYNbBsAPi) | [love](https://open.spotify.com/album/6c1ilhD7EFlRsxlN5NV09M) | 2:18 |
 | 3 | [Us \- Acoustic](https://open.spotify.com/track/2VzMN0k5UMrv8xUQFFpVFI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.0 \(Acoustic\)](https://open.spotify.com/album/0T7A42knWzQPbhaROLloi6) | 4:06 |
-| 4 | [Sapporo](https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [Sapporo](https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty) | 3:18 |
-| 5 | [Where the Love Has Gone](https://open.spotify.com/track/3h3Lt6G1VehgObtEZd0XnE) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [Where the Love Has Gone](https://open.spotify.com/album/58MOtVJbjtbjaNk6aVmqxc) | 4:34 |
-| 6 | [Love Game❤️](https://open.spotify.com/track/7qN4XytpczA1ndx5q050Kp) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love Game❤️](https://open.spotify.com/album/3OTJkQvTdUeImiTgp4zXYy) | 2:22 |
-| 7 | [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 |
-| 8 | [Worry Monster](https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [Worry Monster](https://open.spotify.com/album/0DxeZn68faBLSdUZeoPLDv) | 2:47 |
+| 4 | [A Moment](https://open.spotify.com/track/26meVuaD3L1KfN3LIxmG35) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [A Moment](https://open.spotify.com/album/4mtWqybpYoXvH4JiFNCZSw) | 2:48 |
+| 5 | [Only you can](https://open.spotify.com/track/30YqTJfYT1K5ZtsjCui2co) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [Only you can](https://open.spotify.com/album/1ti2YfJzmugX8JEl5r1f6x) | 3:32 |
+| 6 | [Sapporo](https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [Sapporo](https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty) | 3:18 |
+| 7 | [Where the Love Has Gone](https://open.spotify.com/track/3h3Lt6G1VehgObtEZd0XnE) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [Where the Love Has Gone](https://open.spotify.com/album/58MOtVJbjtbjaNk6aVmqxc) | 4:34 |
+| 8 | [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 |
 | 9 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 10 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 11 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 12 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 |
-| 13 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
-| 14 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
+| 13 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
+| 14 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
 | 15 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 16 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
 | 17 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
-| 18 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
-| 19 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
+| 18 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
+| 19 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
 | 20 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 | 21 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 22 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
 | 50 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
 
-Snapshot ID: `AAAAAIEKkeMayL4eZtj5+ZZoQ5hyjdqS`
+Snapshot ID: `AAAAAPAS2OYirYCekwK6Au79ztp0WxiV`

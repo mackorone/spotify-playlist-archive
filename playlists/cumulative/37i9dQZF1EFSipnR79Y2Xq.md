@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 6 hr 28 min
+130 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Una Cerveza Más](https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Cerveza Más](https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC) | 2:50 | 2022-10-11 |  |
 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 | 2022-09-16 |  |
 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 | 2023-05-22 |  |
-| [Ya La Veo Dificil](https://open.spotify.com/track/6sugv8lSlcNzR8bHTkwcH5) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya La Veo Dificil](https://open.spotify.com/album/5877O9By2tixY4SVA2vS7T) | 2:50 | 2025-05-18 |  |
+| [Ya La Veo Dificil](https://open.spotify.com/track/6sugv8lSlcNzR8bHTkwcH5) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya La Veo Dificil](https://open.spotify.com/album/5877O9By2tixY4SVA2vS7T) | 2:50 | 2025-05-18 | 2025-10-14 |
+| [Ya la Veo Difícil](https://open.spotify.com/track/19KyWieXL61kcntVLCiiXY) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya la Veo Difícil](https://open.spotify.com/album/1hn24tli1MPN6EHoS78bCg) | 2:50 | 2025-10-13 |  |
 | [YA PEDO QUIÉN SABE](https://open.spotify.com/track/4Zi9mV1mTF5ZcqwvhV95vQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:11 | 2025-01-09 | 2025-04-12 |
 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr) | 3:42 | 2025-01-09 | 2025-04-12 |
 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/230KSxk14541umr44W2vCM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669) | 3:09 | 2024-05-11 |  |

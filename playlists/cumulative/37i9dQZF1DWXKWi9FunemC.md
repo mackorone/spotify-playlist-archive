@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-319 songs - 21 hr 22 min
+320 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [on Christ the solid rock i stand.](https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW) | [on Christ the solid rock i stand.](https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r) | 2:34 | 2024-08-03 |  |
 | [ON TIME](https://open.spotify.com/track/4L0NcvT5I8euv3yn97y0GK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [ON TIME](https://open.spotify.com/album/5vec9f0c8wCBp1BOIZgQss) | 1:32 | 2025-10-10 |  |
 | [One Good Try](https://open.spotify.com/track/6wdW7RIXNx64DH6HqDOgSf) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [One Good Try](https://open.spotify.com/album/6Dvwl5Ss1vis3sNVJ0yKbj) | 3:49 | 2020-08-31 | 2024-10-10 |
+| [one step](https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [one step](https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f) | 3:36 | 2025-10-10 |  |
 | [One Thing](https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Glory Hour](https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4) | 7:01 | 2023-07-28 | 2024-08-03 |
 | [One Too Many Reasons](https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Conquering Eden](https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp) | 4:00 | 2024-08-03 | 2025-10-11 |
 | [Open My Eyes](https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [The Antidote](https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3) | 3:51 | 2020-08-31 |  |
@@ -314,7 +315,7 @@
 | [With Lifted Hands \(feat\. Martin Smith\) \- Acoustic](https://open.spotify.com/track/4YOy8xQckgK4b31Hnsi5nO) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [With Lifted Hands \(feat\. Martin Smith\) \[Acoustic\]](https://open.spotify.com/album/2dQBR1cgnp3QwPRefwzTT4) | 3:31 | 2020-08-31 | 2025-10-11 |
 | [With You](https://open.spotify.com/track/6oE6JvYUDR3aa9JAtFvN61) | [Narrow Skies](https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth) | [Seasons](https://open.spotify.com/album/2tA737IB2KdJprTDwHfmFT) | 2:49 | 2020-08-31 | 2022-07-25 |
 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 | 2024-06-23 | 2024-08-03 |
-| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-06 |  |
+| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-06 | 2025-10-14 |
 | [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 | 2020-08-31 |  |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-08-31 | 2025-10-11 |
 | [Wrote Us a Story \- To the Sea Remix](https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk) | [Jenny & Tyler](https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4) | [Wrote Us a Story \(To the Sea Remix\)](https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD) | 3:25 | 2020-08-31 | 2024-08-03 |

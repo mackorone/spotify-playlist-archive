@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw"
+    },
+    {
+      "album": {
         "name": "Special Single 'Blue Whale'",
         "url": "https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J"
       },

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 
 ### [RADAR Creators Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0PYCFw2RcTh)
 
-> Poddar att ha på din RADAR\. Omslag: Fri Roll \- Studion
+> Poddar att ha på din RADAR\. Omslag: Inte pojkvänner
 
 [Spotify](https://open.spotify.com/user/spotify) - 62 likes - 9 songs - 7 hr 46 min
 
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 | 8 | [31\. Mai\-Lis Hellenius \- påverkar vår livsstil hur länge vi lever? ](https://open.spotify.com/episode/1rNLYyz2vaiPgoACY9J76m) | [Faktor Podcast](https://open.spotify.com/show/05V6hL9IRvIh0XvK66W8Ru) | [Faktor Podcast](https://open.spotify.com/album/05V6hL9IRvIh0XvK66W8Ru) | 53:31 |
 | 9 | [1\. Blattetjejer är the original tradwives](https://open.spotify.com/episode/2xDKQMHfoC24OwfnNJaqy4) | [Lanas podd](https://open.spotify.com/show/33udL6c6lNBHjHwHdQ7fbs) | [Lanas podd](https://open.spotify.com/album/33udL6c6lNBHjHwHdQ7fbs) | 49:09 |
 
-Snapshot ID: `AAAAAB99zcF6M7te1OAtWXytNWZBwA6g`
+Snapshot ID: `AAAAAK/pYZalxlNJl924kkI90mPciWWm`

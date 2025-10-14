@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18494,
+  "num_followers": 18495,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAr31w+q7j0PAQkfcJ9H84v",
+  "snapshot_id": "aOrvgAAAAABwDcx3SsOnLVHNaDqC+zRE",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
+        "name": "Do What You Like",
+        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
       },
       "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 173119,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
+      "duration_ms": 200340,
+      "name": "Do What You Like",
+      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What You Like",
-        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
       },
       "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 200340,
-      "name": "Do What You Like",
-      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
+      "duration_ms": 173119,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
     },
     {
       "added_at": null,

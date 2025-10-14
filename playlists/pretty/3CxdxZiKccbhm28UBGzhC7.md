@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 96 songs - 5 hr 32 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 97 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 94 | [What Will You Do \(When The Money Goes\)?](https://open.spotify.com/track/1gnVTNttw3HN7tMYeU2dEh) | [Milburn](https://open.spotify.com/artist/1KlihEB7FggW8e9cMbPXAz) | [These Are The Facts](https://open.spotify.com/album/2vS6cs06CitxnzkWSfOLHg) | 3:53 |
 | 95 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 | 96 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 |
+| 97 | [Switchblade Smiles](https://open.spotify.com/track/4Qm13tC08v8k6a1UEr9Htb) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Velociraptor!](https://open.spotify.com/album/6lox5NV29L4QQmLuAvBXuP) | 4:13 |
 
-Snapshot ID: `AAAAzQkd0igUYR2FZRMel+z7ukyWEYBF`
+Snapshot ID: `AAAAzlBo+90SdoNqnoyRTA2BM6SI0j0P`

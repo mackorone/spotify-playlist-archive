@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: sor
 
-172 songs - 7 hr 49 min
+173 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,12 +158,13 @@
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |
 | [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 | 2025-09-11 |  |
+| [Uitleg](https://open.spotify.com/track/0lnivkeapkbfg6I4HGsSB1) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Araz](https://open.spotify.com/artist/1rPMcrX4V33XyzbdAx7wAL) | [Uitleg](https://open.spotify.com/album/0YQEun65Mm0QyRcR0NInym) | 2:38 | 2025-10-13 |  |
 | [Uomini d’Onore](https://open.spotify.com/track/6cpG23bMKBRor5ZPBTxIRS) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Heinek'n](https://open.spotify.com/artist/5ed6V9Y0zJ86tgeKvgDRKo) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 2:54 | 2025-08-28 | 2025-09-19 |
 | [Vdv](https://open.spotify.com/track/6qB66SFVZSTTWlWT8POSlM) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793) | [Noéden](https://open.spotify.com/album/1v80U9kA5nNBvJXlCQbEFW) | 3:31 | 2025-08-14 |  |
 | [Vertrouwen In Mij](https://open.spotify.com/track/5nZImbRFbiYuNZu8Zc3grD) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 3:33 | 2025-08-28 |  |
 | [VIES WERK](https://open.spotify.com/track/5YXASMbz3rIxOO81oTk06V) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [VIES WERK](https://open.spotify.com/album/7tsbtwIYLw9oiF3CeLagJw) | 2:40 | 2025-09-17 | 2025-10-03 |
 | [Voetbalshirtjes](https://open.spotify.com/track/1Vi1s0DvH0BPPgJtIODbJO) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Voetbalshirtjes](https://open.spotify.com/album/6fDzSgKJAS7D0DVLPWv1fL) | 2:17 | 2025-07-17 | 2025-09-12 |
-| [Volgende Ronde](https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Volgende Ronde](https://open.spotify.com/album/3yyw8WO5ipyBhnnETNsR5v) | 2:10 | 2025-09-18 |  |
+| [Volgende Ronde](https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Volgende Ronde](https://open.spotify.com/album/3yyw8WO5ipyBhnnETNsR5v) | 2:10 | 2025-09-18 | 2025-10-14 |
 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 | 2025-09-25 |  |
 | [Wat Als](https://open.spotify.com/track/3MH1FEbQMawB7jR0s6PCpv) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [Wat Als](https://open.spotify.com/album/3B2CIvHGONdPbd8S9WrSwG) | 2:19 | 2025-08-07 | 2025-09-04 |
 | [Weinig Liefde](https://open.spotify.com/track/3t990TZlINj5GWoqxK3wBc) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Weinig Liefde](https://open.spotify.com/album/6RPr65uVZIIxuiB4powm3i) | 3:26 | 2025-07-17 | 2025-09-19 |

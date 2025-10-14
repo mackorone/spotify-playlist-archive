@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 52527,
+  "num_followers": 52537,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -843,6 +827,22 @@
       "duration_ms": 190346,
       "name": "Scarborough Fair / Canticle",
       "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
-        "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
-      },
-      "artists": [
-        {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Brandend Zand",
-      "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Little Green Bag",
         "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 182680,
       "name": "Dear Ann",
       "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
+        "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Brandend Zand",
+      "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
+        "name": "Golden Years Of Dutch Pop Music - The Seventies Part 1",
+        "url": "https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA"
+      },
+      "artists": [
+        {
+          "name": "Amsterdam",
+          "url": "https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Lucy Lucy",
+      "url": "https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
         "name": "Complete Them (1964-1967) (feat. Van Morrison)",
         "url": "https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 167346,
       "name": "Here Comes the Night (feat. Van Morrison)",
       "url": "https://open.spotify.com/track/3OfttbJAJNvkI4VwtZD2E7"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Golden Years Of Dutch Pop Music - The Seventies Part 1",
-        "url": "https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA"
-      },
-      "artists": [
-        {
-          "name": "Amsterdam",
-          "url": "https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Lucy Lucy",
-      "url": "https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A"
     },
     {
       "added_at": "2020-04-20 05:39:13",

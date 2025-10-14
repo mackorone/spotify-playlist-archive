@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: DADADA\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Izykite\) \(Meet the emerging talents of Korea!\)
 
-1,610 songs - 3 day 18 hr 23 min
+1,611 songs - 3 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,7 +801,7 @@
 | [LOSER](https://open.spotify.com/track/7KAvcnTKlXBhN7MAXUgqYt) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [LOSER](https://open.spotify.com/album/0EDRr76XSD4pmoK0SPgPPs) | 3:28 | 2024-07-03 | 2024-09-25 |
 | [lost in you](https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA) | [Oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [lost in you](https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0) | 3:20 | 2022-05-11 | 2022-06-19 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-06-19 |
-| [LOVE](https://open.spotify.com/track/3VVn7mGHHr9NB5SIXmDljM) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [LOVE](https://open.spotify.com/album/4Q8t9TQrVVfa9Y4B1t2rhX) | 2:53 | 2025-06-26 |  |
+| [LOVE](https://open.spotify.com/track/3VVn7mGHHr9NB5SIXmDljM) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [LOVE](https://open.spotify.com/album/4Q8t9TQrVVfa9Y4B1t2rhX) | 2:53 | 2025-06-26 | 2025-10-14 |
 | [Love & Care](https://open.spotify.com/track/20DJydWFasUXuGiNRAPLNA) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau), [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Love & Care](https://open.spotify.com/album/1GQqMT6zPFX1AiFWSsZmyd) | 3:54 | 2022-09-29 | 2022-12-01 |
 | [Love and Cough♥](https://open.spotify.com/track/0IgbkpnCfM1c5dOlVnALXS) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love & Cough♥](https://open.spotify.com/album/1ML4GnpXa6DLUjJTSnREW0) | 2:35 | 2025-05-09 | 2025-09-13 |
 | [LOVE CLOUD](https://open.spotify.com/track/5eojMPE0A6IUhHDVzWydDy) | [김켄지](https://open.spotify.com/artist/6s7w7nCTjc5kXyFJfOQieZ) | [LOVE CLOUD](https://open.spotify.com/album/6lMheBKbvNxJ7WyqoJYXjE) | 2:58 | 2025-05-19 | 2025-09-02 |
@@ -1362,6 +1362,7 @@
 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 | 2022-06-09 | 2022-07-05 |
 | [To You](https://open.spotify.com/track/6ahbBXhhqxliPL3K7qmrSa) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [To You](https://open.spotify.com/album/0q6scHkQEGEp9rCYjjyl6k) | 3:34 | 2022-07-04 | 2022-08-13 |
 | [To you \(Feat\. Hash Swan\)](https://open.spotify.com/track/73nHbiqRikVIta8TFtRBPi) | [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Time tgt you](https://open.spotify.com/album/4xbx8LxlhJDNKk93DzmT5e) | 2:47 | 2022-10-14 | 2023-02-01 |
+| [To you.](https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224) | [myojin](https://open.spotify.com/artist/1CAP5RxIYcoJ5aosA5xCC3) | [To you.](https://open.spotify.com/album/2cnQUJet3W9uEuPJ87RfZ6) | 3:52 | 2025-10-13 |  |
 | [To\. My Lover](https://open.spotify.com/track/7rkeveVL1gfK3PR4x5VCj7) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [To\. My Lover](https://open.spotify.com/album/06mJgu9S5v4Bnlw5MxlPkg) | 3:55 | 2023-05-01 | 2023-07-06 |
 | [To\. 나의 너에게](https://open.spotify.com/track/2jOQeGOsILKKYMXa4HLeAz) | [Grynia](https://open.spotify.com/artist/2g7hSTAqrLrPg7WrftlckL) | [To\. 나의 너에게](https://open.spotify.com/album/40Fa1grxvhVaL2ikEBc6Ua) | 3:33 | 2022-07-04 | 2022-08-19 |
 | [Tofu](https://open.spotify.com/track/6hoWgvN5PeOKFYC3Y2KIFo) | [PAXXWORD](https://open.spotify.com/artist/14P3Qvy0EDuTyGt5kzL8wP), [badhoc](https://open.spotify.com/artist/5xwx9SdSdoidhNo9rhvowT) | [Tofu](https://open.spotify.com/album/7sfeTQw5yMFwE2wXVA194o) | 2:32 | 2024-09-02 | 2025-02-04 |

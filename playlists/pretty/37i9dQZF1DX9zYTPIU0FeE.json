@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 12077,
+  "num_followers": 12085,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "People of the South",
         "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 345520,
       "name": "People of the South",
       "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "P (x) J",
+        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+      },
+      "artists": [
+        {
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+        }
+      ],
+      "duration_ms": 272120,
+      "name": "P (x) J",
+      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "When We Love",
         "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 338800,
       "name": "When We Love",
       "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "P (x) J",
-        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
-      },
-      "artists": [
-        {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
-        }
-      ],
-      "duration_ms": 272120,
-      "name": "P (x) J",
-      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "Wrapped in Rhythm, Vol. 1",
-        "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
         "name": "Sinamanga (uMagebhula)",
         "url": "https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "We Have Been Here Before",
-        "url": "https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE"
+        "name": "Wrapped in Rhythm, Vol. 1",
+        "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
       },
       "artists": [
         {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
         }
       ],
-      "duration_ms": 290846,
-      "name": "We Have Been Here Before",
-      "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
+      "duration_ms": 210280,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -883,6 +867,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "We Have Been Here Before",
+        "url": "https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        }
+      ],
+      "duration_ms": 290846,
+      "name": "We Have Been Here Before",
+      "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "Apho Kungenje",
         "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 413906,
       "name": "Ebhedini",
       "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
+        "name": "Inkehli",
+        "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 413864,
+      "name": "Inkehli",
+      "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -927,22 +943,6 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "Inkehli",
-        "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 413864,
-      "name": "Inkehli",
-      "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
     }
   ],
   "unique_name": "Jazz NXT",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,811 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,834 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 31 | [Birdlike \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 10:15 |
 | 32 | [Libra](https://open.spotify.com/track/64KJlRhJmdws647AvXw3mX) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Members Don't Get Weary](https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96) | 4:55 |
 | 33 | [Mr\. Kenyatta \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 8:43 |
-| 34 | [Israel](https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 6:11 |
-| 35 | [E's Flat Ah's Flat Too](https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Blues & Roots](https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e) | 6:42 |
-| 36 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
+| 34 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
+| 35 | [Israel](https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 6:11 |
+| 36 | [E's Flat Ah's Flat Too](https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Blues & Roots](https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e) | 6:42 |
 | 37 | [Gingerbread Boy](https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 7:44 |
 | 38 | [Most Like Lee](https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:49 |
 | 39 | [Prophet Jennings \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 5:31 |

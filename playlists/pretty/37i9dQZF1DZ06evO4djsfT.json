@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27674,
+  "num_followers": 27678,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABuWoQlJbtgYQ+5zPi0MDu5",
+  "snapshot_id": "aOrvgAAAAACR5MG0Z6TfiXHTC4rKHv0E",
   "tracks": [
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Start Right Here (HGA Version)",
         "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 173575,
       "name": "Start Right Here (HGA Version)",
       "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
     },
     {
       "added_at": null,

@@ -3011,6 +3011,28 @@
     },
     {
       "album": {
+        "name": "Welcome Home (Live)",
+        "url": "https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461772,
+      "name": "Rain - Live",
+      "url": "https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/142bg9yEm9VVD0l4jVnTDv"
       },

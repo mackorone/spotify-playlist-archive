@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 
 > Tous les classiques du rap français dans une seule playlist ! Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,804 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,824 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 | 35 | [La Playa](https://open.spotify.com/track/1gsaKZJuYe7R30yFdHo1aw) | [La Clinique](https://open.spotify.com/artist/47NHcwh7V1kVlxr9Co6k1r) | [Tout saigne](https://open.spotify.com/album/60bz36gQcN2xLdJQ3y3Rvf) | 4:52 |
 | 36 | [Les flammes du mal](https://open.spotify.com/track/341Hd6DCztJk6CW6j0tTzz) | [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul), [White & Spirit](https://open.spotify.com/artist/7vnq1R9eOl216EvDl4wcpa) | [Ma 6\-t va crack\-er \(Bande originale du film\)](https://open.spotify.com/album/4gjm9znE6pvMv0gf6X8BCw) | 4:09 |
 | 37 | [93 Hardcore](https://open.spotify.com/track/4DuwzGFbaUnYRWicJ7XsWN) | [Tandem](https://open.spotify.com/artist/5r4KrJXWxLsbym4vjcRv1i) | [C'est Toujours Pour Ceux Qui Savent](https://open.spotify.com/album/1pra5et5eagbEjfgh0DnjE) | 5:11 |
-| 38 | [Aiguisé comme une lame](https://open.spotify.com/track/4JTviRADkTsRQiP2XciEXn) | [Raggasonic \- NTM](https://open.spotify.com/artist/6bqUlAEF6W29zSunM9jJxs) | [raggasonic](https://open.spotify.com/album/2X2celqGIyavwzarmQaPG7) | 4:03 |
+| 38 | [Aiguisé comme une lame](https://open.spotify.com/track/4JTviRADkTsRQiP2XciEXn) | [Raggasonic](https://open.spotify.com/artist/4OrbnwBMY5oJJZuJpxr66U), [Suprême NTM](https://open.spotify.com/artist/4ko6Ysxtvx9EY9GEFslrIz) | [raggasonic](https://open.spotify.com/album/2X2celqGIyavwzarmQaPG7) | 4:03 |
 | 39 | [Pas l'temps pour les regrets](https://open.spotify.com/track/2wbOsLvN17xwcNsOLFZdBy) | [Lunatic](https://open.spotify.com/artist/2T94BUd6X8J1G5EfJj3hZr) | [Mauvais Oeil](https://open.spotify.com/album/0qc2G99LJTbEeSBuTcVqZ9) | 4:40 |
 | 40 | [Mon papa à moi est un gangster](https://open.spotify.com/track/230WQfgxWrDowOttZT7Lhq) | [Stomy Bugsy](https://open.spotify.com/artist/6vDYFCXQbWPqlUEyBaVbMW) | [Le calibre qu'il te faut](https://open.spotify.com/album/5IuN6I7Al7EaSNEhlE2SMe) | 6:01 |
 | 41 | [Undaground connexion](https://open.spotify.com/track/0HHG5v9DKrvsCuXG1pUJ5p) | [Assasin](https://open.spotify.com/artist/5Rvs4rQWz3s8S1U9HQDJXO), [Supernatural](https://open.spotify.com/artist/3imos1CMHVKIIqsh3RWcl9) | [100% Classique Rap Français, vol\. 1](https://open.spotify.com/album/52EIzWwL809gvcGzoVGCrr) | 6:13 |

@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 55 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
 | 56 | [Don't I Know It](https://open.spotify.com/track/1x9oYJbwtUZMBckVuOMxOO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp) | [Hiding](https://open.spotify.com/album/23B2wzAEcAqJ4g8ttTR8U6) | 3:28 |
 | 57 | [Green Light](https://open.spotify.com/track/7fhdizjor9wMZ5J0rIbMWA) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Ay Em](https://open.spotify.com/artist/1IiTy72Esd2mIfGuvsvdQB) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:03 |
-| 58 | [Lonely](https://open.spotify.com/track/70YQBlE7bPLaCm1nbEHDvU) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely](https://open.spotify.com/album/4N5rLXDGNp8TK3ujskFMzF) | 2:29 |
+| 58 | [Lonely \[ALT\]](https://open.spotify.com/track/4cX0A4VkMHBN4hk5XuM6nR) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely \[ALT\]](https://open.spotify.com/album/7doIA7N1Rg5V51E3Dakhco) | 2:16 |
 | 59 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
 | 60 | [Ever Since You Said I'm Leaving](https://open.spotify.com/track/5pn6tvCHNJknDG9J6wiHWp) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Ever Since You Said I'm Leaving](https://open.spotify.com/album/5VYr0zSGsVUiyXpO8DiH84) | 2:29 |
 | 61 | [Tempo](https://open.spotify.com/track/68Dp3Ha2XlXoX3jM3mc00M) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Tempo](https://open.spotify.com/album/3cHeKy1rYx7jySSS09uQ22) | 1:56 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 63 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 64 | [Loose](https://open.spotify.com/track/3PvL3oyt1EWMPlK7GoxzcH) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [These Things Take Time](https://open.spotify.com/album/6UGGX9D1WyEgpyhVctghWP) | 2:58 |
 
-Snapshot ID: `Ab+ssAAAAAAooeKq/unKCMy23PyknFDJ`
+Snapshot ID: `Ab+yHgAAAADlIyGTawoHeW9hid+Di90g`

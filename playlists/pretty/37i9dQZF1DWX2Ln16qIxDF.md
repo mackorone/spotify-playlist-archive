@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenes que escuchar  📸 TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,668 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,661 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 4 | [Extraño](https://open.spotify.com/track/5x6i2WhMqy5W3x5xi0UecQ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Extraño](https://open.spotify.com/album/0AP7kMvvI7U1DAFrIUBAL7) | 3:28 |
 | 5 | [FINGI DEMENCIA \- CUARTETO](https://open.spotify.com/track/39iGn4eAHCC65DJz0aKKJR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [FINGI DEMENCIA \(CUARTETO\)](https://open.spotify.com/album/3ao7cKNrpwidDeQzf1fmKg) | 2:39 |
 | 6 | [Cicactrices](https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [La Casa De La Cumbia vol.1](https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi) | 3:24 |
-| 7 | [ASI NOMAS](https://open.spotify.com/track/4keu2x6B3dFX21vob5dNsE) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ASI NOMAS](https://open.spotify.com/album/72VpF3GK0EOTqhiY888vN3) | 3:06 |
+| 7 | [ASÍ NOMÁS](https://open.spotify.com/track/4keu2x6B3dFX21vob5dNsE) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ASÍ NOMÁS](https://open.spotify.com/album/72VpF3GK0EOTqhiY888vN3) | 3:06 |
 | 8 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 |
 | 9 | [WIFE MATERIAL\*](https://open.spotify.com/track/2rRf0QyHyweHJgWw7pgT7p) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [WIFE MATERIAL\*](https://open.spotify.com/album/45OKTplPmo1X9JMvv63n5R) | 3:34 |
 | 10 | [In the City](https://open.spotify.com/track/4DQZKpUgBpF9ziGboNAGFg) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [In the City](https://open.spotify.com/album/22bZNVYw96xAOKsgwAfbyv) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI x Modd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,665 likes - 49 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,709 likes - 49 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 11 | [SON](https://open.spotify.com/track/0pYQmBtGKPpzKvJgStaIvO) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [SON](https://open.spotify.com/album/7wyy2xEHw9Wl5xZoQ6Qd80) | 2:40 |
 | 12 | [PERDE](https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [BARIŞ](https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y) | 3:39 |
 | 13 | [SHEVCHENKO](https://open.spotify.com/track/4GJEkYQVl6CSxh0qaS5O0Q) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SHEVCHENKO](https://open.spotify.com/album/67VaNB2V6tWiuwr7DhSgci) | 1:40 |
-| 14 | [Delikansız](https://open.spotify.com/track/18WYAs0AdHunxZ9Tl37Swp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Delikansız](https://open.spotify.com/album/0dGDQ9WNtXZVN7maSM73GC) | 3:27 |
+| 14 | [Delikansız](https://open.spotify.com/track/18WYAs0AdHunxZ9Tl37Swp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Muerte Beatz](https://open.spotify.com/artist/6sisQS5gts3lFgk68pfLEG) | [Delikansız](https://open.spotify.com/album/0dGDQ9WNtXZVN7maSM73GC) | 3:27 |
 | 15 | [WAG1](https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [WAG1](https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT) | 2:06 |
 | 16 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 |
 | 17 | [Ağır Ol Abi](https://open.spotify.com/track/4e3VLVgDXAe21ns9sB6rPv) | [Stap](https://open.spotify.com/artist/3R27mVPp04i87RNmvysZfY), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Neşesi̇ne](https://open.spotify.com/album/6ED0yhMWhlzJbcTt3jNVDz) | 2:53 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 15422,
+  "num_followers": 15425,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "No More Parties",
+        "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140920,
+      "name": "No More Parties",
+      "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Dum and Dummer 2",
         "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 166333,
       "name": "Aspen",
       "url": "https://open.spotify.com/track/2u8rtHHaBCnhS2qKu9jVgL"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "No More Parties",
-        "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "No More Parties",
-      "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     },
     {
       "added_at": "2022-10-01 16:09:56",

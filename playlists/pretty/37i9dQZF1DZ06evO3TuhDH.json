@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18727,
+  "num_followers": 18733,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADqN/dr96aUujJwNDeuNVLT",
+  "snapshot_id": "aOrvgAAAAABL6l9qId52bnx6eortKbLp",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 245621,
       "name": "Impatient (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -571,42 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TWINNEM (Remix)",
-        "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "TWINNEM (Remix) (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135613,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Upnow (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
       },
@@ -627,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 198670,
       "name": "CUFFIN (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TWINNEM (Remix)",
+        "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "TWINNEM (Remix) (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
     },
     {
       "added_at": null,
@@ -815,38 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Happened To Forever?",
-        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 76424,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1738 (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
       },
@@ -867,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
         "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 231470,
       "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
       "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 76424,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
     },
     {
       "added_at": null,

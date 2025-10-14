@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,020 songs - 3 day 13 hr 21 min
+1,021 songs - 3 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 | 2022-07-08 | 2023-11-04 |
 | [Never Too Late](https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Never Too Late](https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN) | 4:47 | 2023-04-28 | 2023-08-20 |
 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 | 2024-09-27 | 2025-08-30 |
-| [New Day](https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [New Day](https://open.spotify.com/album/60Jd60j8HijpYtIIFi1IQy) | 5:40 | 2025-08-29 |  |
+| [New Day](https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [New Day](https://open.spotify.com/album/60Jd60j8HijpYtIIFi1IQy) | 5:40 | 2025-08-29 | 2025-10-14 |
 | [Ngeke](https://open.spotify.com/track/2YU8o3X8Oyp9Ljdf7TTlNp) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ngeke](https://open.spotify.com/album/7A4IhGJIySOF9ZxbDdANk0) | 3:31 | 2024-09-27 | 2025-08-23 |
 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-08-19 | 2023-02-25 |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-08-19 | 2022-12-15 |
@@ -798,6 +798,7 @@
 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2024-01-05 | 2024-05-11 |
 | [Shaman](https://open.spotify.com/track/0CCTuZS9cObjmWjfwYOaPM) | [Azedia](https://open.spotify.com/artist/19YDv4gY8HMpdJgABGIVJn) | [Shaman](https://open.spotify.com/album/1O1d80c9ux5acX2CIPDtrs) | 5:41 | 2021-08-20 | 2022-07-28 |
 | [Shimova](https://open.spotify.com/track/7uVSGwfkpnOJP3SLkg8Rxc) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Shimova](https://open.spotify.com/album/3n3f1lT9mBJIxdp3iejIBx) | 6:36 | 2025-08-01 | 2025-08-30 |
+| [Shoda](https://open.spotify.com/track/0prNbCHO4fO9RCmbUMmmLh) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shoda](https://open.spotify.com/album/0S0W8HKfy6dHCmArthtZ0Z) | 2:47 | 2025-10-10 |  |
 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 | 2024-12-13 | 2025-06-16 |
 | [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-04 | 2025-06-07 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-07 |  |

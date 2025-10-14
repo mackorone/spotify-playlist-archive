@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1FoQEkZ5w2uIax.md) - [plain](/playlists/plain/37i9dQZF1FoQEkZ5w2uIax) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1FoQEkZ5w2uIax)
 
-### [הכהן ארנון's Top Songs 2024](https://open.spotify.com/playlist/37i9dQZF1FoQEkZ5w2uIax)
+### [ארנון's Top Songs 2024](https://open.spotify.com/playlist/37i9dQZF1FoQEkZ5w2uIax)
 
 > The songs you played most in 2024.
 
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1FoQEkZ5w2uIax.md) - [plain]
 | 99 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 100 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 
-Snapshot ID: `Z0YMuQAAAAAWw0g8l29Yv1DmCRKDTzDp`
+Snapshot ID: `Z0YMuQAAAABZXGHBPUkR/pNSkT7mG6oB`

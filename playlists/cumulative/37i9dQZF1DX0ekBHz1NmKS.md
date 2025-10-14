@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,020 songs - 4 day 8 hr 42 min
+2,021 songs - 4 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1276,6 +1276,7 @@
 | [Någon kommer älska dig igen](https://open.spotify.com/track/3ZiSSGYuMe8pfCZcUnktZs) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Någon kommer älska dig igen](https://open.spotify.com/album/7dGKpA9bFVYoVEKKsX2VMK) | 3:19 | 2025-02-06 | 2025-05-23 |
 | [Någon någonsin](https://open.spotify.com/track/5pU720mII2FlXPVF2eALff) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Någon någonsin](https://open.spotify.com/album/0GTKBK5CRMNryQ9Xy95SPx) | 2:29 | 2022-04-22 | 2022-07-29 |
 | [Nån annan](https://open.spotify.com/track/3P8yoq6ztDKZnJKE9EXZr3) | [Hanna Raf](https://open.spotify.com/artist/0wJIlyUsEBrhbWh97uyqwW) | [Nån annan](https://open.spotify.com/album/6udwzmJoBJyXvgehKuVF0A) | 3:08 | 2024-04-18 | 2024-05-10 |
+| [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 | 2025-10-09 |  |
 | [Nån annans säng](https://open.spotify.com/track/4aVGpY7xdFsdESoPT2sP9H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Nån annans säng](https://open.spotify.com/album/63rEMPx6dcCOO5s22kI4Ke) | 2:43 | 2023-09-14 | 2024-01-14 |
 | [Nåt i vattnet](https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Nåt i vattnet](https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6) | 3:33 | 2022-10-15 | 2023-10-06 |
 | [Nåt på fickan](https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Nåt på fickan](https://open.spotify.com/album/0Oh2dhmJjIxXz2sh5dV7mT) | 2:30 | 2022-05-05 | 2022-07-29 |
@@ -1338,7 +1339,7 @@
 | [Pad Thai](https://open.spotify.com/track/2V4WavDKcWrlmzFXmlNv7k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Pad Thai](https://open.spotify.com/album/3ThGd1eoD9xHmzpUxqAqIS) | 3:01 | 2024-05-16 | 2024-06-14 |
 | [Painkiller](https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Painkiller](https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI) | 2:24 | 2023-11-30 | 2024-02-09 |
 | [Painkiller](https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Painkiller](https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU) | 2:53 | 2022-04-28 | 2022-06-21 |
-| [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-19 |  |
+| [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-19 | 2025-10-14 |
 | [Palmer](https://open.spotify.com/track/0aMzUj7X6jjBQupSdub2sK) | [Jim Castro](https://open.spotify.com/artist/7cjiIC3JhIHpmJ7ruYvyNx) | [Palmer](https://open.spotify.com/album/3Y6ATUkor5VVya9RsHUb4w) | 2:33 | 2024-06-20 | 2024-08-23 |
 | [Pannkaksfrukost](https://open.spotify.com/track/3ldBwzqcOSe4iefDalhUN7) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Pannkaksfrukost](https://open.spotify.com/album/24BGAjPh4QNr4brfBFgeM0) | 2:14 | 2024-02-02 | 2024-03-22 |
 | [Pappa](https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Pappa](https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM) | 3:09 | 2024-06-27 | 2024-09-26 |

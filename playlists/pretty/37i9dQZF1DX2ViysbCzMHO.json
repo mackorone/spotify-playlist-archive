@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 174710,
+  "num_followers": 174728,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Heartbreaker (Acoustic)",
-        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Acoustic",
-      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Studio 900 Sessions",
-        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 185847,
-      "name": "Waiting For You - Acoustic",
-      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Pretty Little Poison (Piano Version)",
         "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 216866,
       "name": "Pretty Little Poison - Piano Version",
       "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Studio 900 Sessions",
+        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 185847,
+      "name": "Waiting For You - Acoustic",
+      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
     },
     {
       "added_at": "2025-10-10 04:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marte e Young Hash,  Ele A, Nitro, Disme e Mambolosco, Néza e Nabi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,404 likes - 111 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,398 likes - 111 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 82 | [Ninna Nanna \(feat\. Inoki\)](https://open.spotify.com/track/542em8gMEna3Jjag0VHD6K) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Ninna Nanna \(feat\. Inoki\)](https://open.spotify.com/album/7pY6K2kI7XCRkVXhrTwkjc) | 2:58 |
 | 83 | [6 A.M.](https://open.spotify.com/track/5LLhIn21GXFh64b1jFepRx) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [6 A.M](https://open.spotify.com/album/4ESKBQy4ysR2rBwOiDLOdT) | 2:42 |
 | 84 | [FOR CA CAP](https://open.spotify.com/track/691fL1mW35gZ7BrgiRpG01) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [FOR CA CAP](https://open.spotify.com/album/0xDe4YNIiP3Qg8BZ9Hc2Ke) | 2:26 |
-| 85 | [Vida Du Crimi](https://open.spotify.com/track/768ekJEIZH9tZPXWNxDKrF) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Vida Du Crimi](https://open.spotify.com/album/5ftS64jbvK6oyxlqXpK9Qn) | 2:21 |
+| 85 | [Vida Du Crimi](https://open.spotify.com/track/768ekJEIZH9tZPXWNxDKrF) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD) | [Vida Du Crimi](https://open.spotify.com/album/5ftS64jbvK6oyxlqXpK9Qn) | 2:21 |
 | 86 | [PRIMA CLASSE](https://open.spotify.com/track/2j1i3F7aODC8CbiBXpaFIy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [PRIMA CLASSE](https://open.spotify.com/album/6qSngHRzaaf6ml8NjwERAY) | 2:45 |
 | 87 | [SPINE](https://open.spotify.com/track/5RIVdYGPzyyiZka8hNQnhn) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m) | [SPINE](https://open.spotify.com/album/2oJHYGkwruFLvBkNA61DCL) | 2:48 |
 | 88 | [1%](https://open.spotify.com/track/5jFSDUyjMISEkU5GxMDs64) | [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi) | [1%](https://open.spotify.com/album/1uZaM377xhToT1Wp5zSOfm) | 2:39 |

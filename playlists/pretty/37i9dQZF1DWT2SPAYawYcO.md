@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The 046, David Guetta, Teddy Swims, Tones And I, DJ Seinfeld, Confidence Man, The Belair Lip Bombs + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,850 likes - 96 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,839 likes - 96 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 64 | [Strobe Lights](https://open.spotify.com/track/6EDTeQ7XffMle49ZjePUZo) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Strobe Lights](https://open.spotify.com/album/3NWXIT8eHLaerkpd5kmUhd) | 3:02 |
 | 65 | [Was Hannin \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/7gimGFAQusX7Rf6UNZKN3u) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [CORINIAN](https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW) | 3:05 |
 | 66 | [All Over Me](https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [All Over Me](https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB) | 2:37 |
-| 67 | [Up \- with Rag'n'Bone Man](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Up \(with Rag'n'Bone Man\)](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 67 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
 | 68 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 |
 | 69 | [Undignified](https://open.spotify.com/track/3ADYJkEkaAxGk9RXu6R5m6) | [Jack Ladder](https://open.spotify.com/artist/7nMCtlEV4oVcC7cAN2MlLn) | [Separation Rock](https://open.spotify.com/album/2JutL8eCH0j2gGFoGwzBIT) | 5:01 |
 | 70 | [­WAMEYO](https://open.spotify.com/track/4F51Hm0R8Z3kPOUv7RNExz) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [WAMEYO](https://open.spotify.com/album/2xa7dIVuOSgz8tI20CBjQB) | 3:06 |

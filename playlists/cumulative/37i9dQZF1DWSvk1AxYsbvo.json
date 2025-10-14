@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 224537,
       "name": "Daffodil",
       "url": "https://open.spotify.com/track/3pH8kBf8rosKbeIw7QRaki"
@@ -1586,10 +1586,28 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 144391,
       "name": "Han River 220625",
       "url": "https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4"
+    },
+    {
+      "album": {
+        "name": "Hankie",
+        "url": "https://open.spotify.com/album/6WiM4nVU7MWR42IuZvKFx6"
+      },
+      "artists": [
+        {
+          "name": "Today",
+          "url": "https://open.spotify.com/artist/4fh0MgO2XFfnS9F9H5G52R"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Hankie",
+      "url": "https://open.spotify.com/track/50RgCamXxpoCw4GLcxfNN3"
     },
     {
       "album": {
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 251560,
       "name": "If",
       "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
@@ -3897,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "To you.",
+        "url": "https://open.spotify.com/album/2cnQUJet3W9uEuPJ87RfZ6"
+      },
+      "artists": [
+        {
+          "name": "myojin",
+          "url": "https://open.spotify.com/artist/1CAP5RxIYcoJ5aosA5xCC3"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232956,
+      "name": "To you.",
+      "url": "https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224"
+    },
+    {
+      "album": {
         "name": "My Home",
         "url": "https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT"
       },
@@ -4696,6 +4732,24 @@
       "duration_ms": 190520,
       "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
       "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+    },
+    {
+      "album": {
+        "name": "\ud488",
+        "url": "https://open.spotify.com/album/0ZAuHxNh45KR8wbAe6sOO8"
+      },
+      "artists": [
+        {
+          "name": "Sosohan Project",
+          "url": "https://open.spotify.com/artist/3YN24bHhrQmyyBLxlfF6Y0"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217085,
+      "name": "\ud488",
+      "url": "https://open.spotify.com/track/14vbDsZympKPZsSJvGsYhg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvk1AxYsbvo"

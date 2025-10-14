@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Skepta, Finessekid
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,774 likes - 79 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,790 likes - 79 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

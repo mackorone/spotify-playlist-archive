@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > ⋆.
 
-[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 637 songs - 1 day 10 hr 48 min
+[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 640 songs - 1 day 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -645,5 +645,8 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 635 | [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 |
 | 636 | [Kiss Kiss \(feat\. T\-Pain\)](https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:10 |
 | 637 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
+| 638 | [Saferwaters](https://open.spotify.com/track/6e9s42iBN7bt5QvCvFlVUs) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Vena Sera](https://open.spotify.com/album/5FT5oo5IM2hBizZisoPKH3) | 4:11 |
+| 639 | [Games Of War](https://open.spotify.com/track/0Bu4Ftm8pa65s690nhgGTV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 4:23 |
+| 640 | [Down Chick \(feat\. 3Three\)](https://open.spotify.com/track/4c1x1SYPM26MHCkJSYwknD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [3Three](https://open.spotify.com/artist/0Q4C0BC6ZjxW0ps1ItEpx8) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 3:46 |
 
-Snapshot ID: `AAAENtniumSPZh6NM8G3fwE360grI2mG`
+Snapshot ID: `AAAEOUEwkcz+I231ydw9KyGSjDWS8t6l`

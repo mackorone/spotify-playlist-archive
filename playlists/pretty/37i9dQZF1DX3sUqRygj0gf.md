@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 10 | [It's Christmas Once Again](https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [It's Christmas Once Again](https://open.spotify.com/album/3sBWTdjo4daMRXYjFGll31) | 3:00 |
 | 11 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN) | 1:51 |
 | 12 | [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 |
-| 13 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 |
+| 13 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
 | 14 | [Last Christmas](https://open.spotify.com/track/6bTev95WovVYs0JbQ8I6Vi) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:21 |
-| 15 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
+| 15 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 |
 | 16 | [Green Grows The Holly](https://open.spotify.com/track/3rmZq65IMXxP3jE2h0aIjJ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Green Grows The Holly](https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw) | 4:32 |
 | 17 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 |
 | 18 | [That's Christmas to Me](https://open.spotify.com/track/5PefLhPGTBDvHLNvCqgDVp) | [Tiffany Thomas](https://open.spotify.com/artist/3v2c2YbSY9F2DxmF88MbUw), [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [That's Christmas to Me](https://open.spotify.com/album/3JzHEhbSkMYTBUBI77C793) | 3:04 |

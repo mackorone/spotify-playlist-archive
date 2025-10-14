@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,178 likes - 104 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,196 likes - 104 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

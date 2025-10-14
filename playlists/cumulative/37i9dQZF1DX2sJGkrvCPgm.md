@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-454 songs - 1 day 4 hr 20 min
+455 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [O Come All Ye Faithful](https://open.spotify.com/track/6ZZ89AH8oApLLAWIgRKdPO) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Christmastime Is Here](https://open.spotify.com/album/0bKR3ZcGedHogpTXS6Vk1E) | 3:50 | 2021-12-24 | 2022-07-17 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/3PFcVGs3EfcUyoWsNIKf6w) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [O Come All Ye Faithful](https://open.spotify.com/album/7pAmb07Wl3TAYUREaimnwA) | 3:19 | 2021-12-24 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Wonderful Christmas](https://open.spotify.com/album/3HApLuo9xoWzb7ISKhWmHV) | 3:01 | 2024-08-01 |  |
-| [O Come All Ye Faithful](https://open.spotify.com/track/6LV93sQ81G08CT54tcgsYk) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Joey Stamper](https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD) | [O Come All Ye Faithful](https://open.spotify.com/album/1craun4qiu5rctK7GcfWni) | 3:15 | 2024-11-17 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/6LV93sQ81G08CT54tcgsYk) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Joey Stamper](https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD) | [O Come All Ye Faithful](https://open.spotify.com/album/1craun4qiu5rctK7GcfWni) | 3:15 | 2024-11-17 | 2025-10-14 |
 | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 | 2022-12-11 | 2023-11-04 |
 | [O Come All Ye Faithful \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [O Come All Ye Faithful \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha) | 3:44 | 2021-12-24 |  |
 | [O Come Let Us Adore Him \(The Day Has Dawned\)](https://open.spotify.com/track/38FmD454zYfNBaZjod4Gc8) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4vvhoYO8yr3FdvvTvKXAb6) | 2:37 | 2023-12-15 | 2024-04-19 |
@@ -354,6 +354,7 @@
 | [Shine So Bright](https://open.spotify.com/track/2VgaxOAwxWcFH3iHl86bXS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:21 | 2021-12-24 | 2024-11-18 |
 | [Silent Night](https://open.spotify.com/track/6X3o5CZvqtWFF1avJYeb6V) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Silent Night](https://open.spotify.com/album/6sttWYLWoJmJktbTWFfEVt) | 3:58 | 2021-12-24 | 2022-07-29 |
 | [Silent Night](https://open.spotify.com/track/45KKfVd7fY9h3hy1Sc04y2) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Silent Night](https://open.spotify.com/album/36qg5S8nmyMrWobCNJZDlE) | 2:41 | 2024-12-13 |  |
+| [Silent Night](https://open.spotify.com/track/498pab81KyI2e5zQESbqqa) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Silent Night](https://open.spotify.com/album/0wl1jAv2fphEdjEp1VPjHS) | 2:13 | 2024-12-13 |  |
 | [Silent Night](https://open.spotify.com/track/4F2Aul3vwBCvTijuay0E4B) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Silent Night](https://open.spotify.com/album/3oVxHEriWbXgq3utKjblzD) | 3:44 | 2024-11-17 |  |
 | [Silent Night](https://open.spotify.com/track/3c1eBuKnrBKcZqfUI0RkFw) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/0VjtZbHdvOsatE7kRybEzZ) | 3:47 | 2023-12-15 | 2024-03-26 |
 | [Silent Night](https://open.spotify.com/track/64tmdM5ETIdidw0ycwRiXK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/3JnPOv7W9fhXZqrlIxnWRo) | 3:47 | 2021-12-24 | 2024-11-18 |

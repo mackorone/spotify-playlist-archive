@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Ghost",
-  "num_followers": 422847,
+  "num_followers": 423026,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
+        "name": "Make Me A Martyr",
+        "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Make Me A Martyr",
+      "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
         "name": "CONCRETE JUNGLE [THE OST]",
         "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 235092,
       "name": "ANYTHING > HUMAN",
       "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
-        "name": "Make Me A Martyr",
-        "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Make Me A Martyr",
-      "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
+        "name": "The Only Heaven You'll Know",
+        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "The Only Heaven You'll Know",
+      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
         "name": "Three Six Five / Dance, Kid, Dance",
         "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
-        "name": "The Only Heaven You'll Know",
-        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "The Only Heaven You'll Know",
-      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "Losing Faith",
-        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 185569,
-      "name": "Losing Faith",
-      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
         "name": "DARK THINGS",
         "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 280776,
       "name": "DARK THINGS",
       "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
+        "name": "Losing Faith",
+        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 185569,
+      "name": "Losing Faith",
+      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
+        "name": "Darkness Always Wins",
+        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 290309,
+      "name": "Darkness Always Wins",
+      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
         "name": "TOKSIK",
         "url": "https://open.spotify.com/album/0lQauEzDsukvFsjxeU5pAB"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 197886,
       "name": "I Really Wanna",
       "url": "https://open.spotify.com/track/11x02p5bvdaVdiK1qY3uEC"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
-        "name": "Darkness Always Wins",
-        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 290309,
-      "name": "Darkness Always Wins",
-      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "GOD IS AN ANIMAL",
-        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 235745,
-      "name": "GOD IS AN ANIMAL",
-      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 213010,
       "name": "The End",
       "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
+        "name": "GOD IS AN ANIMAL",
+        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 235745,
+      "name": "GOD IS AN ANIMAL",
+      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -2087,42 +2087,6 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "Say It Again (feat. The Rasmus)",
-        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 263571,
-      "name": "Say It Again (feat. The Rasmus)",
-      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
         "name": "Safehouse",
         "url": "https://open.spotify.com/album/2vGUAmehavRZ3ufYeWKuoL"
       },
@@ -2147,18 +2111,38 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/4KPMUpAhf3IGMgsV1RAdY1"
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
       },
       "artists": [
         {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 175578,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0OoWd8aynOJkAn3QCyAhhe"
+      "duration_ms": 190000,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
+        "name": "Say It Again (feat. The Rasmus)",
+        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 263571,
+      "name": "Say It Again (feat. The Rasmus)",
+      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -2203,18 +2187,18 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "Gnash",
-        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/4KPMUpAhf3IGMgsV1RAdY1"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
         }
       ],
-      "duration_ms": 162706,
-      "name": "Gnash",
-      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
+      "duration_ms": 175578,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0OoWd8aynOJkAn3QCyAhhe"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -2239,6 +2223,22 @@
       "duration_ms": 150636,
       "name": "One Last Dance (From \"Venom: The Last Dance\")",
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
+        "name": "Gnash",
+        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Gnash",
+      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "Addicted To The Violence",
-        "url": "https://open.spotify.com/album/6CWO5GdXfUd6mjbDDD5Hln"
-      },
-      "artists": [
-        {
-          "name": "Daron Malakian and Scars On Broadway",
-          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Done Me Wrong",
-      "url": "https://open.spotify.com/track/01ywKW2yXAkTjnttwrZgGm"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
         "name": "Gods Of Rock N Roll",
         "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 316160,
       "name": "Gods Of Rock N Roll",
       "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
+        "name": "Addicted To The Violence",
+        "url": "https://open.spotify.com/album/6CWO5GdXfUd6mjbDDD5Hln"
+      },
+      "artists": [
+        {
+          "name": "Daron Malakian and Scars On Broadway",
+          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Done Me Wrong",
+      "url": "https://open.spotify.com/track/01ywKW2yXAkTjnttwrZgGm"
     },
     {
       "added_at": "2025-10-10 04:00:22",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2025-10-10 04:00:22",
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 287633,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB"
-    },
-    {
-      "added_at": "2025-10-10 04:00:22",
-      "album": {
         "name": "WORSHIP",
         "url": "https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 189494,
       "name": "WORSHIP",
       "url": "https://open.spotify.com/track/7IF328weNbUocWsxzosLsB"
+    },
+    {
+      "added_at": "2025-10-10 04:00:22",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 287633,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB"
     }
   ],
   "unique_name": "Hard Rock",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-302 songs - 15 hr 46 min
+303 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Oui mais Non \- Nicolas Julian Remix](https://open.spotify.com/track/36ZvYgWivlGx3G11YXReLL) | [SM:LY](https://open.spotify.com/artist/51mRBkF1rU3x37NMHJ5teX), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Oui mais Non \(Nicolas Julian Remix\)](https://open.spotify.com/album/0lkocvL7as5pbxEVzm83lD) | 2:42 | 2023-10-26 | 2024-12-03 |
 | [Out of Control](https://open.spotify.com/track/78GFKnGSRPUIKG1huKpIyh) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [7 SKIES](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5) | [Out of Control](https://open.spotify.com/album/09WB6ev1KyKXszq0kCvK9q) | 2:50 | 2024-08-16 | 2024-11-01 |
 | [Overdose Of Bass](https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Overdose Of Bass](https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN) | 3:14 | 2024-11-22 | 2025-03-30 |
-| [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-08-11 |  |
+| [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-08-11 | 2025-10-14 |
 | [Paint It Red](https://open.spotify.com/track/1I3YPOEyTzpPp3zlYfO99o) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Paint It Red](https://open.spotify.com/album/4IbeCtmBfrUUKQMApQhHI4) | 2:45 | 2025-05-16 | 2025-09-12 |
 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-01 |  |
 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 | 2024-02-16 | 2025-05-17 |
@@ -218,6 +218,7 @@
 | [Play It Loud](https://open.spotify.com/track/2OzIpR52uwLnHJgjbeMIsT) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Play It Loud](https://open.spotify.com/album/6pcUFkYv5xtyV6t3APaXHX) | 2:51 | 2025-03-14 | 2025-06-07 |
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 | 2023-12-15 |  |
+| [Pretty Friends](https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Pretty Friends](https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp) | 1:59 | 2025-10-10 |  |
 | [Pulse](https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Pulse](https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj) | 1:59 | 2024-11-29 | 2024-12-07 |
 | [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 | 2023-08-18 |
 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-10 | 2024-06-08 |

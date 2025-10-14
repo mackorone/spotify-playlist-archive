@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35567,
+  "num_followers": 35572,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADFtZ3fTqbwwpxYIrQscqpJ",
+  "snapshot_id": "aOrvgAAAAADsNGKY9R6TY/xvRP8judqq",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palomita Blanca",
-        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "Donde Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas",
         "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 190080,
       "name": "Un Dia De Tus Dias",
       "url": "https://open.spotify.com/track/2ftI7Ue2E2zT33z6OkDhA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "Donde Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 944040,
-      "name": "Mamalluca",
-      "url": "https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aconcagua",
         "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 181573,
       "name": "Huairuro",
       "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 944040,
+      "name": "Mamalluca",
+      "url": "https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS"
     },
     {
       "added_at": null,

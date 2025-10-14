@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,312 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,304 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 42 | [deu pra sentir? \(Kaya Conky & DJ Ramemes RMX\)](https://open.spotify.com/track/7EWSKc1dhPGjk1mz1996n1) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [SOBRECARGA \(ALTA TENSÃO DELUXE\)](https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC) | 2:37 |
 | 43 | [nada sério](https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [nada sério](https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV) | 2:46 |
 | 44 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 |
-| 45 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
+| 45 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 46 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 |
 | 47 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
-| 48 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
+| 48 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
 | 49 | [Telefone Mudo](https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Telefone Mudo](https://open.spotify.com/album/34rO65UAJshV92udKc3cxs) | 2:32 |
 | 50 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
 | 51 | [SEM FREIO](https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [SEM FREIO](https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr) | 3:21 |

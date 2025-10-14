@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "Boyoyo",
+        "url": "https://open.spotify.com/album/5UFTFOLrvGeMTALBGR2elD"
+      },
+      "artists": [
+        {
+          "name": "Criss Ull",
+          "url": "https://open.spotify.com/artist/5s5TIs6KT50ks3Pyj0qoHW"
+        },
+        {
+          "name": "ATARRAYO",
+          "url": "https://open.spotify.com/artist/0A85f4vUkx28WPcsVuUraJ"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Boyoyo",
+      "url": "https://open.spotify.com/track/5MoV6fzHYyaxm0sFH8YXZH"
+    },
+    {
+      "album": {
         "name": "Buya",
         "url": "https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE"
       },
@@ -1925,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "A Day In Essaouira",
+        "url": "https://open.spotify.com/album/2i8W94b7HDbxCc4dD9isYA"
+      },
+      "artists": [
+        {
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
+        },
+        {
+          "name": "Omar Hayat",
+          "url": "https://open.spotify.com/artist/6CNB6WbUT0xyr4SsORJYUh"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381428,
+      "name": "Essaouira",
+      "url": "https://open.spotify.com/track/37dKod7vEcMFKeg4ct6cPl"
+    },
+    {
+      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -2324,6 +2368,24 @@
       "duration_ms": 358895,
       "name": "Ghost in Me - Lemon & Herb Remix",
       "url": "https://open.spotify.com/track/4BWZpIcAteH7rbQL0Ze6Eh"
+    },
+    {
+      "album": {
+        "name": "Back Catalog",
+        "url": "https://open.spotify.com/album/1lTAwDjYAzU0aGBSooYMKh"
+      },
+      "artists": [
+        {
+          "name": "Affani",
+          "url": "https://open.spotify.com/artist/76JOGdYzmIgt9SlMfYiSrc"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433813,
+      "name": "Gnawa",
+      "url": "https://open.spotify.com/track/32GnGtaUrEqVC6oWzaeL9r"
     },
     {
       "album": {
@@ -2878,6 +2940,36 @@
       "duration_ms": 502263,
       "name": "Jaffar",
       "url": "https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R"
+    },
+    {
+      "album": {
+        "name": "Buddha Bar XXVI",
+        "url": "https://open.spotify.com/album/4qK4AL20uV6cJwmYmb3Imh"
+      },
+      "artists": [
+        {
+          "name": "Ismailovic",
+          "url": "https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1"
+        },
+        {
+          "name": "Nabil Sansi",
+          "url": "https://open.spotify.com/artist/6n18eBRlVxd4v4YnbbYlvs"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488347,
+      "name": "Jit Dhifkom - Mr. ID Remix",
+      "url": "https://open.spotify.com/track/42Q358CCQXpuoPiCnFfL6i"
     },
     {
       "album": {
@@ -4064,7 +4156,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 208524,
       "name": "Missing",
       "url": "https://open.spotify.com/track/75WqikxuauMp0htqRbDaqE"

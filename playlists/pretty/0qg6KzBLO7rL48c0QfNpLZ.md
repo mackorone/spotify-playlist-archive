@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,653 likes - 93 songs - 3 hr 58 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,645 likes - 93 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 2 | [Unreachable](https://open.spotify.com/track/1ZJf99SCDgvPmc5y5bFlaJ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Unreachable](https://open.spotify.com/album/2U3XIbR7gUgRnQQZJ68d9o) | 2:50 |
 | 3 | [Secrets](https://open.spotify.com/track/5cRuVdygzAlK3CAbSPHSEr) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Secrets](https://open.spotify.com/album/5oHmYA3rCfckjF4nSouZwQ) | 1:48 |
 | 4 | [Tanning Lines](https://open.spotify.com/track/7x41VMXT0qq7RccFc1EQCD) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Tanning Lines](https://open.spotify.com/album/2jGgQdCyz7VTnN6XmyoK8C) | 2:03 |
-| 5 | [Chemical](https://open.spotify.com/track/6HWGtwJvydTVttvjjBH8hw) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Chemical](https://open.spotify.com/album/0dSY7pXXSQnbOM83hW1w9x) | 2:42 |
+| 5 | [Chemical](https://open.spotify.com/track/6HWGtwJvydTVttvjjBH8hw) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [LYON](https://open.spotify.com/artist/0ISD6xTAMU5iIDsuKz7uoq), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Chemical](https://open.spotify.com/album/0dSY7pXXSQnbOM83hW1w9x) | 2:42 |
 | 6 | [All That's Left](https://open.spotify.com/track/7wn2ugtjgvX7O8E6EiEAlj) | [Miravo](https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9) | [All That's Left](https://open.spotify.com/album/0xtQ2SGN6RBVWs4atfTniQ) | 2:50 |
 | 7 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 |
 | 8 | [Not Too Late](https://open.spotify.com/track/1WMuZbSiSulirkxSm0lOj5) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2) | [Not Too Late](https://open.spotify.com/album/1UQB8VR9SaS9KRPXKROA5F) | 2:48 |

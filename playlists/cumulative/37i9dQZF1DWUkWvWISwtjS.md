@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-163 songs - 8 hr 10 min
+164 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 | 2023-10-13 | 2024-04-19 |
 | [Contrário](https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Ep do Esticado](https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG) | 2:56 | 2025-04-04 |  |
 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 | 2023-10-13 |  |
-| [Coração de Quatro](https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Coração de Quatro](https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb) | 2:35 | 2023-10-13 |  |
+| [Coração de Quatro](https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Coração de Quatro](https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb) | 2:35 | 2023-10-13 | 2025-10-14 |
 | [Coração Infectado](https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Guias Dvd 2018](https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz) | 2:43 | 2023-10-13 |  |
 | [Criança Pequena \- Família \- Ao Vivo](https://open.spotify.com/track/4t0UIfmZhGgLk1m35fPlka) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia Vol\. 01](https://open.spotify.com/album/6nVk02INL9nxhppU0Sqi5o) | 3:35 | 2025-05-09 | 2025-05-31 |
 | [Cuidado Que Eu Te Supero](https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Cuidado Que Eu Te Supero](https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz) | 2:54 | 2023-10-13 |  |
@@ -123,6 +123,7 @@
 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/78UZagNegqHZAKv3491xB2) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:27 | 2023-10-13 |  |
 | [Por Nossos Filhos \- Ao Vivo](https://open.spotify.com/track/2ejpjaqOYKYMxQWY30RAyK) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \(Deluxe\)](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:20 | 2023-10-13 |  |
 | [Prefiro Nem Perguntar \- Ao Vivo](https://open.spotify.com/track/35ivh85cPKwgo3pZQGXa0e) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 2:55 | 2023-10-13 | 2024-04-19 |
+| [Prisioneiros \- Ao Vivo](https://open.spotify.com/track/15gIb6lnjIMcgtbasaeXwq) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 3:26 | 2025-05-30 |  |
 | [Pronta pra Trair](https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Pronta pra Trair](https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ) | 2:57 | 2024-07-15 |  |
 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 | 2023-10-13 |  |
 | [Quase \- Ao Vivo](https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha \(ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 3:02 | 2023-10-13 | 2024-04-19 |

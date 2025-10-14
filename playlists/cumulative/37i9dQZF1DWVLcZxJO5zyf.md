@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Os Garotin
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Urias
 
-420 songs - 19 hr 59 min
+421 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Sentimental](https://open.spotify.com/track/5wajkwpmyFoxArALmhFeDa) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sentimental](https://open.spotify.com/album/43raMsCFPKLAvYiBesIYLm) | 2:04 | 2022-06-03 | 2022-06-25 |
 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 | 2023-07-07 | 2023-11-04 |
 | [será que vai ser sempre assim?](https://open.spotify.com/track/6goVbExCIHIWqCEvG416O5) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [solo \(vol\. 2\)](https://open.spotify.com/album/0QDOuOgzzwxB1sTtsHbN6s) | 2:41 | 2024-05-24 | 2024-06-22 |
-| [Seu Olhar](https://open.spotify.com/track/1VW2piIbq26AC64SxjzvGU) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Seu Olhar](https://open.spotify.com/album/0vadfXdQ2JGrYBqfitXMHf) | 2:29 | 2025-08-29 |  |
+| [Seu Olhar](https://open.spotify.com/track/1VW2piIbq26AC64SxjzvGU) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Seu Olhar](https://open.spotify.com/album/0vadfXdQ2JGrYBqfitXMHf) | 2:29 | 2025-08-29 | 2025-10-14 |
 | [seus planos](https://open.spotify.com/track/5pDqtLsN7vFmyWrTIGrNFR) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [seus planos](https://open.spotify.com/album/6aSc5gDviUEiMxPbRjV4G0) | 3:28 | 2024-04-12 | 2024-06-01 |
 | [Sexo, poder e arte](https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Sexo, poder e arte](https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt) | 4:32 | 2023-12-22 | 2024-03-23 |
 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 | 2025-07-21 |  |
@@ -423,6 +423,7 @@
 | [Vixe \(Ao Vivo na Prainha da Claudinha\)](https://open.spotify.com/track/6QIsQQa0iOiHXsT507DsXk) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Prainha da Claudinha \(Ao Vivo\)](https://open.spotify.com/album/5L7cyBdm7XIXby9rdJk025) | 3:17 | 2022-08-19 | 2022-09-21 |
 | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci) | 3:40 | 2022-06-24 | 2022-08-06 |
 | [Você nasceu para mudar](https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Você nasceu para mudar](https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt) | 3:31 | 2022-12-16 | 2023-01-28 |
+| [Voz Do Brasil](https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 3:13 | 2025-10-13 |  |
 | [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 | 2022-08-26 | 2023-09-30 |
 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-05-26 | 2023-10-14 |
 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 | 2022-01-14 | 2022-02-05 |

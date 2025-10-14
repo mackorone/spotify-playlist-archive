@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56407,
+  "num_followers": 56409,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAA/hUMofd6DxU5m72mR9IzG",
+  "snapshot_id": "aOrvgAAAAAAWEh/5Fi1O79c5O3/iAPhr",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Para Que Vuelvas",
+      "url": "https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 250285,
       "name": "No Me Pregunten",
       "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 197198,
-      "name": "Para Que Vuelvas",
-      "url": "https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mas Vale Cholo",
-      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 164597,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mas Vale Cholo",
+      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portarnos Mal",
         "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
       },
@@ -1035,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KHALIFA",
+        "url": "https://open.spotify.com/album/1IzpYW7JPQWKu3rGkBfUFt"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 244148,
+      "name": "KHALIFA",
+      "url": "https://open.spotify.com/track/0xhszCv5LzzlNWFUJlBky3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 217658,
       "name": "D\u00e9jame Conocerte",
       "url": "https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KHALIFA",
-        "url": "https://open.spotify.com/album/1IzpYW7JPQWKu3rGkBfUFt"
-      },
-      "artists": [
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 244148,
-      "name": "KHALIFA",
-      "url": "https://open.spotify.com/track/0xhszCv5LzzlNWFUJlBky3"
     },
     {
       "added_at": null,
@@ -1263,30 +1263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 3",
         "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 234000,
       "name": "Alzypher Vol. 3",
       "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": null,

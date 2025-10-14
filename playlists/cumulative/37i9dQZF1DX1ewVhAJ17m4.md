@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Yellowcard
 
-539 songs - 1 day 2 hr 59 min
+540 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Say Yes](https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Say Yes](https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI) | 2:38 | 2021-12-20 | 2022-09-10 |
 | [Scream](https://open.spotify.com/track/7LQQ207LAlwd7AuL8cmgjN) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Scream](https://open.spotify.com/album/4h3kh61nAsdHKkCGPUtq17) | 2:52 | 2021-12-20 | 2022-04-05 |
 | [Second Chances](https://open.spotify.com/track/2oGyfekTurVuAerH3HDx5f) | [Rxmance](https://open.spotify.com/artist/3HbCm60icNbP67i0vLCB62) | [Second Chances](https://open.spotify.com/album/5ufFZ6CRoArwJ87eeezDhw) | 2:51 | 2021-12-20 | 2022-04-05 |
-| [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 | 2025-02-21 |  |
+| [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 | 2025-02-21 | 2025-10-14 |
 | [See You All in Hell](https://open.spotify.com/track/2KfXD9pHBUpKpFe8wHO9Y2) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [See U All in Hell](https://open.spotify.com/album/3laSoUVDJdNAVU4UfXafCp) | 2:29 | 2021-12-20 | 2022-01-15 |
 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 | 2022-10-13 | 2023-09-15 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-07-18 | 2022-10-14 |
@@ -426,6 +426,7 @@
 | [Soak](https://open.spotify.com/track/1yTAMGYb5hcJXBRJh4oqMj) | [Waxflower](https://open.spotify.com/artist/6ZIpcOBGC8WtihYI8n7hf8) | [Soak](https://open.spotify.com/album/3Jj07iZX7NzaWpOI5qVTBm) | 2:41 | 2021-12-20 | 2022-01-15 |
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2021-12-20 | 2022-10-14 |
 | [Some Girls](https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Some Girls](https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD) | 3:26 | 2025-02-21 | 2025-03-04 |
+| [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 | 2025-10-10 |  |
 | [Songs on the Radio](https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Songs on the Radio](https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL) | 3:28 | 2023-05-15 | 2023-09-15 |
 | [Sorry](https://open.spotify.com/track/7CNk4GbD0dKuXq6MR0BA5B) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Sorry](https://open.spotify.com/album/0eOHh9lI2YS5FWXazFI6uW) | 3:23 | 2025-10-10 |  |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-20 | 2023-07-07 |

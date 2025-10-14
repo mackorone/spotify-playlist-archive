@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-108 songs - 4 hr 10 min
+120 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [About Music](https://open.spotify.com/track/5qvdnTFa0JLQT4xQWqJzhs) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:18 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/0Q7eJJUCar0eX0AuZuP76e) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:23 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/2KzetNBtOhhqy9DE174LAp) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:23 | 2023-07-03 |  |
+| [ADORE U](https://open.spotify.com/track/0mPYjKXaHYMPhtq0hCIkgn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 2:30 | 2025-10-14 |  |
 | [BEAT BEAT](https://open.spotify.com/track/3P8l7sbL5dxKlS4gcJ1qJI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:48 | 2024-10-08 |  |
+| [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 | 2025-10-14 |  |
 | [BOOM](https://open.spotify.com/track/4UEXKi06Ykkx52mme7VvoH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:55 | 2024-01-15 |  |
 | [Break The Wall](https://open.spotify.com/track/1SmJafjGG3oM3sflmcZRXU) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:24 | 2024-01-15 |  |
 | [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-10-08 |  |
@@ -26,6 +28,7 @@
 | [COOL \(Your rainbow\) \(Inst.\)](https://open.spotify.com/track/6TxvDCGRRXRpvtCuQkmglf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 | 2023-03-24 | 2024-04-19 |
 | [COOL \(Your rainbow\) \- Instrumental](https://open.spotify.com/track/3fmJyrvzudXV2ATvR4aEid) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:50 | 2024-01-15 |  |
 | [COOL \(Your rainbow\) \- Instrumental](https://open.spotify.com/track/3wFn8FZ5weDIl1xoYQtWxh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2022-11-24 | 2023-06-07 |
+| [Crush On You](https://open.spotify.com/track/3DroKlrPt6ZgmvzUUDnuWf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:39 | 2025-10-14 |  |
 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-15 |  |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-11-24 | 2023-06-07 |
 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-03-24 | 2024-04-19 |
@@ -37,6 +40,7 @@
 | [Funky Glitter Christmas](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 3:10 | 2023-03-24 | 2024-04-19 |
 | [Funky Glitter Christmas](https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO) | 3:10 | 2024-01-15 |  |
 | [Funky Glitter Christmas](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | 3:10 | 2022-11-24 | 2023-06-07 |
+| [Game Face](https://open.spotify.com/track/3Uuy2fuPkAK3aEIt8yqMoe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:43 | 2025-10-14 |  |
 | [Golden Recipe](https://open.spotify.com/track/6AMbc3k1v4ev0DiTnvdVo9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 3:01 | 2025-03-18 |  |
 | [Hello, world!](https://open.spotify.com/track/3weS5CMqh3tVyxegxUgggu) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:26 | 2022-11-24 | 2023-08-06 |
 | [Hello, world!](https://open.spotify.com/track/4zDsgRtgHDDfx9E0By7mck) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:26 | 2023-07-03 |  |
@@ -81,6 +85,8 @@
 | [O.O \(Inst.\)](https://open.spotify.com/track/1Bf5zMLyJAt3075EISPcYy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 | 2023-03-24 | 2024-04-19 |
 | [O.O \(Inst.\)](https://open.spotify.com/track/4g7q1mmHaWcj9PkeUr4ghD) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-11-24 | 2023-06-07 |
 | [O.O \- Instrumental](https://open.spotify.com/track/3ZJO9x0nZvP5Ku4RNm8YaN) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:52 | 2024-01-15 |  |
+| [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/track/7smhMsKnqsSyJ9K5mjy2OF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 | 2025-10-14 |  |
+| [O.O Pt\. 2 \(Superhero\)](https://open.spotify.com/track/1IVQnUFP6UldlSG4pznqPj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 2:56 | 2025-10-14 |  |
 | [Ocean](https://open.spotify.com/track/3Tguah9qCyyk1cxpOIYsS9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:50 | 2025-03-18 |  |
 | [Papillon](https://open.spotify.com/track/5hcfx0GaIpU5cLiiN2l8mX) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:38 | 2025-03-18 |  |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 |  |
@@ -89,14 +95,20 @@
 | [PAXXWORD](https://open.spotify.com/track/1S7ewG548KitM1SZN4h37p) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:12 | 2024-01-15 |  |
 | [PAXXWORD](https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:12 | 2023-03-24 | 2023-06-07 |
 | [PAXXWORD](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:12 | 2023-03-24 | 2024-04-19 |
+| [Phoenix](https://open.spotify.com/track/0Q5GvSTFxH8yk3A9ktC3iv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:44 | 2025-10-14 |  |
+| [PODIUM](https://open.spotify.com/track/2GrvPIXncT6FOlbq4jNhg2) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:01 | 2025-10-14 |  |
+| [Reality Hurts](https://open.spotify.com/track/3Y0FjAuJPUfZzXS8eyWEhi) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:35 | 2025-10-14 |  |
 | [Red light sign, but we go](https://open.spotify.com/track/7h6zQBXlsrUb9990J8x0vr) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:17 | 2024-10-08 |  |
+| [RICO](https://open.spotify.com/track/0crajuERnAByPA6Aqh1a2T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:32 | 2025-10-14 |  |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 |  |
 | [Roller Coaster \(Inst.\)](https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 2:59 | 2023-07-11 |  |
 | [Run For Roses](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:35 | 2024-01-15 |  |
 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-10-08 |  |
+| [Shape of Love](https://open.spotify.com/track/1Q89wi4LD9O9oU1gn0hL7Y) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 2:52 | 2025-10-14 |  |
 | [SICKUHH \(Feat\. Kid Milli\)](https://open.spotify.com/track/0Mwj2BjoZwV6ZsYlqj6vB0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:39 | 2024-10-08 |  |
 | [Slingshot \(＜★\)](https://open.spotify.com/track/3Z70RwHBC0wUyZbH1y1N63) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:22 | 2025-03-18 |  |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-04 |  |
+| [SPINNIN′ ON IT](https://open.spotify.com/track/0XbCJq4M7vpNKIUxdN90jq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:16 | 2025-10-14 |  |
 | [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
 | [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
 | [TANK](https://open.spotify.com/track/2AtshmTKGwbtCybUmYxB4u) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:48 | 2024-01-15 |  |

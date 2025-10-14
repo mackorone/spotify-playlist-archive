@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,374 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,570 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 73 | [MIRACLES](https://open.spotify.com/track/5LRnK1IzrREnAycQGONQrP) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Kevin Winebarger](https://open.spotify.com/artist/0Mihk33hOz5pYMIDALdiFG), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MIRACLES](https://open.spotify.com/album/2EqVaWGnejlGEO6XEqy7Cw) | 2:32 |
 | 74 | [Superpowers](https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [Superpowers](https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7) | 3:37 |
 
-Snapshot ID: `AAAAAAXdedYlGIsy4YDOM8r6/D2kLHhD`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Westside Cowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,185 likes - 81 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,150 likes - 81 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 314608,
+  "num_followers": 314668,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADBuhC+p1bhKFbBFBoEXCeb",
+  "snapshot_id": "aOrvgAAAAAC8Shy8mtQ/kppTIFnX8SqK",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Perdoa",
-        "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
+        "name": "Colheita",
+        "url": "https://open.spotify.com/album/0hfec1gX94fjHRCrhDRQ35"
       },
       "artists": [
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Deus Perdoa",
-      "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
+      "duration_ms": 261930,
+      "name": "Colheita",
+      "url": "https://open.spotify.com/track/1FLCxgmaHyHssgFooefoss"
     },
     {
       "added_at": null,
@@ -383,6 +387,30 @@
       "duration_ms": 258782,
       "name": "KGL's",
       "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus Perdoa",
+        "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Deus Perdoa",
+      "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
     },
     {
       "added_at": null,
@@ -435,30 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "Corte Americano",
-      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -479,6 +483,30 @@
       "duration_ms": 174381,
       "name": "Me Deixe Leve",
       "url": "https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "Corte Americano",
+      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
     },
     {
       "added_at": null,
@@ -675,34 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Kayu\u00e1",
-          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "A Meu Favor",
-      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melhor Vibe",
         "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
       },
@@ -735,6 +735,34 @@
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "A Meu Favor",
+      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
     },
     {
       "added_at": null,
@@ -1239,34 +1267,6 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Johnny Monteiro",
-          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
-        }
-      ],
-      "duration_ms": 240032,
-      "name": "Vivendo Avan\u00e7ado",
-      "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"
     }
   ],
   "unique_name": "This Is Filipe Ret",

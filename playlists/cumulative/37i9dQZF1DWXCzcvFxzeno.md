@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-312 songs - 21 hr 56 min
+313 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Gettogether](https://open.spotify.com/track/4umMJJesNImOQ4uERpQtqA) | [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Gettogether](https://open.spotify.com/album/3OYEIb3CxkmIxheEGnSUpB) | 5:26 | 2024-04-09 | 2024-10-25 |
 | [Gib Mir Alles \- Original Mix](https://open.spotify.com/track/6oLe2vEi4uSK76nSkhqZwu) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [RWGK](https://open.spotify.com/artist/4njZ0FkU6E1tOL1c54vdmR), [Timo Revna](https://open.spotify.com/artist/3CWOGywxFt5IoLi3622ByU) | [Gib Mir Alles](https://open.spotify.com/album/1lusOOvd4iCpLJFeYPpCmy) | 6:26 | 2024-08-13 | 2024-10-25 |
 | [Gimme Some Love](https://open.spotify.com/track/4wAcWlwcrlnTMzpZQ23YjA) | [Vizionn](https://open.spotify.com/artist/58CoYe1IrKXe3FW3icZ2nU) | [Boombox Bangers](https://open.spotify.com/album/6Rk0CV8Op4dfujAxDT8gxf) | 5:28 | 2024-04-09 | 2024-08-06 |
-| [GIMMELOVE](https://open.spotify.com/track/31MA2613XA9UWoAW2l925R) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [GIMMELOVE](https://open.spotify.com/album/0OQmUGajFzu6bl5oPj8CAp) | 2:50 | 2025-04-04 |  |
+| [GIMMELOVE](https://open.spotify.com/track/31MA2613XA9UWoAW2l925R) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [GIMMELOVE](https://open.spotify.com/album/0OQmUGajFzu6bl5oPj8CAp) | 2:50 | 2025-04-04 | 2025-10-14 |
 | [Gipsy Queen](https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Gipsy Queen EP](https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx) | 3:22 | 2024-07-05 |  |
 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 | 2025-10-10 |  |
 | [Give Me a Break](https://open.spotify.com/track/5HAtVqY3fFmlyKHQTLd2cg) | [Carter Graham](https://open.spotify.com/artist/1fKvbFKG5LjDDw0agxGZQo) | [Silence](https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA) | 5:31 | 2024-04-09 | 2024-11-04 |
@@ -244,6 +244,7 @@
 | [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |
 | [Rolling](https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Rolling](https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy) | 2:44 | 2025-07-22 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 | 2025-03-20 |
+| [SAINT GRAAL](https://open.spotify.com/track/70aughWpPbdbzYSE7422O9) | [PERCEVAL](https://open.spotify.com/artist/3dJ5aHKA9m7zKAr0lX6rtb) | [SAINT GRAAL](https://open.spotify.com/album/0ajLAs1f6lQbymKSGBwhoH) | 3:24 | 2025-10-10 |  |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |

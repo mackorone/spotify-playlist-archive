@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,413 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,408 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 58 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 59 | [Non amarmi](https://open.spotify.com/track/0YRMOyyJw458JBQhZMEvce) | [Francesca Alotta](https://open.spotify.com/artist/4GcNZfx2mvaMpGL76GAqBE), [Aleandro Baldi](https://open.spotify.com/artist/07RQpJUe4UmtHuLO7X17l4) | [Italian Love Songs](https://open.spotify.com/album/1og5fGuVXjSWeAGQMkfLrX) | 4:56 |
 | 60 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Le Robe Che Ha Detto Adriano](https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte) | 4:15 |
-| 61 | [Siamo uguali](https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [1995](https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD) | 4:10 |
-| 62 | [La prima cosa bella](https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Nicola Di Bari](https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD) | 3:10 |
+| 61 | [La prima cosa bella](https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Nicola Di Bari](https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD) | 3:10 |
+| 62 | [Siamo uguali](https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [1995](https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD) | 4:10 |
 | 63 | [Cuore matto](https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:50 |
 | 64 | [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 |
 | 65 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 87 | [Per Tutte Le Volte Che...](https://open.spotify.com/track/1qBKrPkpVNu11W4tjY88Gj) | [Valerio Scanu](https://open.spotify.com/artist/6YqnuGUFh2n0bnLdxpszxE) | [Per Tutte Le Volte Che...](https://open.spotify.com/album/75d3bNl0ruuqr5tAnJoBJW) | 3:58 |
 | 88 | [Apri tutte le porte](https://open.spotify.com/track/563Zhnk0v3WwVR0EsYlMNn) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Apri tutte le porte](https://open.spotify.com/album/1bmGTuZJUGa75v4BvsC0AO) | 3:43 |
 | 89 | [La ragazza con il cuore di latta](https://open.spotify.com/track/1OvoC77TS6iKJecRCaq0hN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La ragazza con il cuore di latta](https://open.spotify.com/album/0wPIBB6biqh3RaadDbhfFo) | 3:42 |
-| 90 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
-| 91 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 |
+| 90 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 |
+| 91 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
 | 92 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
 | 93 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
 | 94 | [Contessa \- Original Version 1980](https://open.spotify.com/track/0CWJIpU0D8Bk78H1k7ELC6) | [Decibel](https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R) | [Le origini \- Gli anni d'oro \(1978 \- 1982\)](https://open.spotify.com/album/3u9mKrMogJjg9W0Y8tYKMH) | 3:03 |

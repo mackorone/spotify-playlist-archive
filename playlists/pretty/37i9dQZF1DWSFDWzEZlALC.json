@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Aaron, Zartmann",
-  "num_followers": 461828,
+  "num_followers": 461955,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFieCGkhKNqJHsdF7qKlHtmA4bz",
+  "snapshot_id": "AAAAAAk4U+Me5X1GdJ5MoyrPg42UQjET",
   "tracks": [
     {
       "added_at": "2025-10-09 22:00:21",
@@ -27,38 +27,6 @@
       "duration_ms": 171562,
       "name": "sommer",
       "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
-    },
-    {
-      "added_at": "2025-10-09 22:00:21",
-      "album": {
-        "name": "Knutschen & Boxen",
-        "url": "https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9"
-      },
-      "artists": [
-        {
-          "name": "ok.danke.tsch\u00fcss",
-          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "E-Scooter",
-      "url": "https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl"
-    },
-    {
-      "added_at": "2025-10-09 22:00:21",
-      "album": {
-        "name": "ALLE MEINE FREUNDE SIND TR\u00c4UMER",
-        "url": "https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj"
-      },
-      "artists": [
-        {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Mach Was Ich Will",
-      "url": "https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF"
     },
     {
       "added_at": "2025-10-09 22:00:21",
@@ -95,6 +63,90 @@
     {
       "added_at": "2025-10-09 22:00:21",
       "album": {
+        "name": "ALLE MEINE FREUNDE SIND TR\u00c4UMER",
+        "url": "https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Mach Was Ich Will",
+      "url": "https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF"
+    },
+    {
+      "added_at": "2025-10-09 22:00:21",
+      "album": {
+        "name": "Knutschen & Boxen",
+        "url": "https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9"
+      },
+      "artists": [
+        {
+          "name": "ok.danke.tsch\u00fcss",
+          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "E-Scooter",
+      "url": "https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl"
+    },
+    {
+      "added_at": "2025-10-09 22:00:21",
+      "album": {
+        "name": "Du Fehlst Hier",
+        "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Du Fehlst Hier",
+      "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
+    },
+    {
+      "added_at": "2025-10-09 22:00:21",
+      "album": {
+        "name": "ausnahmsweise",
+        "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "duration_ms": 151465,
+      "name": "ausnahmsweise",
+      "url": "https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx"
+    },
+    {
+      "added_at": "2025-10-09 22:00:21",
+      "album": {
+        "name": "in meinem zimmer sieht es aus wie in meinem kopf",
+        "url": "https://open.spotify.com/album/11J9fee0RH8PEcwKiFuzLl"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "duration_ms": 128006,
+      "name": "in meinem zimmer sieht es aus wie in meinem kopf",
+      "url": "https://open.spotify.com/track/5nB9wlMtsl6tbhY7dyvRJV"
+    },
+    {
+      "added_at": "2025-10-09 22:00:21",
+      "album": {
         "name": "Benz",
         "url": "https://open.spotify.com/album/0NTquXrtnzUP8poB33iDsh"
       },
@@ -123,22 +175,6 @@
       "duration_ms": 147000,
       "name": "Alles von alleine",
       "url": "https://open.spotify.com/track/3kM1jCYKqxIZJTTvhFwWQ3"
-    },
-    {
-      "added_at": "2025-10-09 22:00:21",
-      "album": {
-        "name": "Du Fehlst Hier",
-        "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
-      },
-      "artists": [
-        {
-          "name": "bac",
-          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Du Fehlst Hier",
-      "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
     },
     {
       "added_at": "2025-10-09 22:00:21",
@@ -191,42 +227,6 @@
       "duration_ms": 183085,
       "name": "Unsterblich sein (*) feat. Domiziana",
       "url": "https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo"
-    },
-    {
-      "added_at": "2025-10-09 22:00:21",
-      "album": {
-        "name": "in meinem zimmer sieht es aus wie in meinem kopf",
-        "url": "https://open.spotify.com/album/11J9fee0RH8PEcwKiFuzLl"
-      },
-      "artists": [
-        {
-          "name": "Vince",
-          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
-        }
-      ],
-      "duration_ms": 128006,
-      "name": "in meinem zimmer sieht es aus wie in meinem kopf",
-      "url": "https://open.spotify.com/track/5nB9wlMtsl6tbhY7dyvRJV"
-    },
-    {
-      "added_at": "2025-10-09 22:00:21",
-      "album": {
-        "name": "ausnahmsweise",
-        "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        },
-        {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
-        }
-      ],
-      "duration_ms": 151465,
-      "name": "ausnahmsweise",
-      "url": "https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx"
     },
     {
       "added_at": "2025-10-09 22:00:21",

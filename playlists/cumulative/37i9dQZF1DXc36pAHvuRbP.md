@@ -4,7 +4,7 @@
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-65 songs - 2 hr 59 min
+66 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 | 2023-08-08 |  |
 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 | 2023-08-08 |  |
 | [Ferme ta boîte à camembert](https://open.spotify.com/track/1z8cz5S2pyKxgxKw4tcA9y) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:23 | 2023-08-08 | 2025-09-19 |
-| [Fétouskiteplé](https://open.spotify.com/track/1u5mogwxDa9cDDeuJwLqLu) | [Monstre Moche](https://open.spotify.com/artist/1xQ8hZYPyB9gQ4JxVxIIgV) | [Monstrueux et mocheu](https://open.spotify.com/album/3oOukafeNkqyXLr8olKbJV) | 0:45 | 2023-08-08 |  |
+| [Fétouskiteplé](https://open.spotify.com/track/1u5mogwxDa9cDDeuJwLqLu) | [Monstre Moche](https://open.spotify.com/artist/1xQ8hZYPyB9gQ4JxVxIIgV) | [Monstrueux et mocheu](https://open.spotify.com/album/3oOukafeNkqyXLr8olKbJV) | 0:45 | 2023-08-08 | 2025-10-14 |
 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 | 2023-08-08 |  |
 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 | 2023-08-08 |  |
 | [Je boude](https://open.spotify.com/track/6Kpdx6vswRIR8C0M9ccYo2) | [Sarah Donna](https://open.spotify.com/artist/3FLl0HVVuKbEZZytvxBOZx) | [Les arcs\-en\-ciel](https://open.spotify.com/album/2ifcwNKrmNqelFXwC2cF4b) | 2:16 | 2023-08-08 |  |
@@ -38,7 +38,7 @@
 | [La chouchou](https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:16 | 2023-08-08 | 2025-09-29 |
 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 | 2023-08-08 | 2025-08-14 |
 | [La journée des bisous](https://open.spotify.com/track/2jdi2xNuC8lSFQ7CM89ROa) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:25 | 2023-08-08 | 2024-03-25 |
-| [La pagaille](https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:46 | 2023-08-08 | 2025-10-11 |
+| [La pagaille](https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:46 | 2023-08-08 |  |
 | [La pâte à crêpes](https://open.spotify.com/track/26SFwCnNaToGJqiHFRfCsT) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:23 | 2023-08-08 |  |
 | [La révolution des doudous](https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 3:12 | 2023-08-08 | 2025-10-13 |
 | [La visite](https://open.spotify.com/track/1VNVanWsdzlB4p6mZk9iGt) | [Animau](https://open.spotify.com/artist/0e31LJBC9curXXYmvF7xeV) | [Les fulgurantes chansons de l'inquiétant petit adorable fantôme !](https://open.spotify.com/album/3Qx2WR8n0z1xSAqfLFEwf2) | 4:10 | 2023-08-08 | 2025-05-07 |
@@ -57,9 +57,10 @@
 | [Même pas vrai](https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:57 | 2023-08-08 |  |
 | [Non oui](https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:32 | 2023-08-08 |  |
 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 | 2023-08-08 |  |
+| [Ouistiti](https://open.spotify.com/track/5d8fX6C3HFI00ZisCYzCAX) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Superchat : À la recherche du paon perdu](https://open.spotify.com/album/2yuyqhiZVkShIZLmgICQFq) | 2:47 | 2023-08-08 |  |
 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 | 2023-08-08 |  |
 | [Privé de dessert](https://open.spotify.com/track/7lPjxfmUBLFCloGAP4uIli) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 1:28 | 2023-08-08 |  |
-| [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 | 2023-08-08 |  |
+| [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 | 2023-08-08 | 2025-10-14 |
 | [Rock de la confesssion](https://open.spotify.com/track/2uTC1SJ00q7tOJudyh6G8s) | [Les Z'imbert & Moreau](https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK) | [Magique !](https://open.spotify.com/album/0g1v80kNMKNXXPUpkt9CIt) | 2:47 | 2023-08-08 |  |
 | [S'il te plaît](https://open.spotify.com/track/1k3J1si2Kb8mzd78MQY7wl) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:34 | 2023-08-08 | 2025-05-28 |
 | [Scottiche de la brosse à dents](https://open.spotify.com/track/0idgLta3sJYwx1wyEZUuWT) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 4:01 | 2023-08-08 |  |

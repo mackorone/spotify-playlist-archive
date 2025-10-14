@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 甜約翰 \(Sweet John\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,903 likes - 127 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,904 likes - 127 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 23 | [CAULE DE BAMBU 竹茎](https://open.spotify.com/track/5AZ56lKMRnkOgxQyKjLTc8) | [YEHAIYAHAN](https://open.spotify.com/artist/2rGUDp8wG9hqDm5BHbyy88), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [CAULE DE BAMBU 竹茎](https://open.spotify.com/album/7Hx8C7wIA4v43TaR05wxi0) | 6:04 |
 | 24 | [摩洛哥玫瑰的芬芳治癒了人們的哀傷](https://open.spotify.com/track/3Q02z44atJYxfYOQqNI5UH) | [翁宇君](https://open.spotify.com/artist/1MvjwqXKSd4AXxHU0dsa3k) | [摩洛哥玫瑰的芬芳治癒了人們的哀傷](https://open.spotify.com/album/6CVFyKtzzUhJrMdWWISEiL) | 3:57 |
 | 25 | [聽得到嗎](https://open.spotify.com/track/0rGw63k8A0iQ47JP7PXUGX) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [聽得到嗎](https://open.spotify.com/album/023gxYsJciFbsv20P4ackV) | 3:28 |
-| 26 | [圓無曲](https://open.spotify.com/track/7bQmgN3fnmnfSPyWnJa38a) | [Selvia](https://open.spotify.com/artist/4904miJRZOmJxBxyJPRPEX), [葉庭均 Leroy](https://open.spotify.com/artist/1BNPfsRb6tFxJArmiiccPb) | [圓無曲](https://open.spotify.com/album/3iCMfLjRKtJZFYGKZ4Ot64) | 3:29 |
+| 26 | [圓無曲](https://open.spotify.com/track/7bQmgN3fnmnfSPyWnJa38a) | [Selvia](https://open.spotify.com/artist/4904miJRZOmJxBxyJPRPEX) | [圓無曲](https://open.spotify.com/album/3iCMfLjRKtJZFYGKZ4Ot64) | 3:29 |
 | 27 | [思念如風起](https://open.spotify.com/track/6Pi7nPNhGkdbNB3P5icPGr) | [謝衣沛](https://open.spotify.com/artist/6rMEJJkOukOLJYkcBGnRIZ) | [思念如風起](https://open.spotify.com/album/1EKj8VPaP2h9uOg1Kq5WLS) | 2:50 |
 | 28 | [3:33](https://open.spotify.com/track/1r2N5NdgdIiB0HaMDl4YSt) | [Yimi3翁一铭](https://open.spotify.com/artist/7nBaSK50UJk2un8OWJO0Aj) | [3:33](https://open.spotify.com/album/3MyJCJz6zLO9sfgawpN3Hc) | 1:50 |
 | 29 | [罪 sins, sinner, innocent](https://open.spotify.com/track/1RO24YvbTfgKUW8S6NDIwa) | [PiEDí](https://open.spotify.com/artist/6Qm0RJU3ocGqFFSoqJq5JM) | [罪 sins, sinner, innocent](https://open.spotify.com/album/01lzP4YjCHC7VQNl2pKV3v) | 3:00 |

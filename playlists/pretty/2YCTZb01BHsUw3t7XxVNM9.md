@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[超棒的企鹅](https://open.spotify.com/user/megustager) - 723 likes - 505 songs - 1 day 11 hr 3 min
+[超棒的企鹅](https://open.spotify.com/user/megustager) - 724 likes - 505 songs - 1 day 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -453,15 +453,15 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 443 | [Fueled by Determination](https://open.spotify.com/track/38L6I9AVLv2tG4hSgFP20L) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [REBOOT](https://open.spotify.com/album/1KmvHHTi3tEfl2bELMKk3q) | 3:19 |
 | 444 | [Devil’s Nightmare](https://open.spotify.com/track/7e6nEfulab95RRMNrumPjX) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [DD Nakata Metal](https://open.spotify.com/artist/2ed3Sq2HasBVK38yxBxGBF) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 4:27 |
 | 445 | [Lash Out](https://open.spotify.com/track/1CNLRYaOuJlpY5jbXFnb72) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Memoria](https://open.spotify.com/album/08ZEmSS3hUv0o9gxOXJJFJ) | 3:06 |
-| 446 | [Animosity \- Extended](https://open.spotify.com/track/2poEocGMudEhHSpirMdaa5) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Afflict](https://open.spotify.com/album/4VRqPxSKCkDs7ILIA11Be5) | 4:12 |
+| 446 | [Animosity \(Extended\)](https://open.spotify.com/track/2poEocGMudEhHSpirMdaa5) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Afflict](https://open.spotify.com/album/4VRqPxSKCkDs7ILIA11Be5) | 4:12 |
 | 447 | [Golden Era](https://open.spotify.com/track/7otw4W0ki0bRo6xhDKBacq) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Golden Era](https://open.spotify.com/album/2GUL6bOXFu5Z1HUSaEEl8z) | 3:57 |
 | 448 | [Euphoria \- USAO Remix](https://open.spotify.com/track/77traWPdROKyizilXKcNGx) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e), [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Tsugumi Nagahara](https://open.spotify.com/artist/4PHMx8hAZxAxbHgepKb62S) | [Euphoria \(feat\. Tsugumi Nagahara\) \[USAO Remix\]](https://open.spotify.com/album/5ZVmNadr0iN12qSsLcjp2v) | 3:33 |
 | 449 | [Last Attack](https://open.spotify.com/track/5Tw1JBSZwRJeUoudz3AaDT) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [REBOOT](https://open.spotify.com/album/1KmvHHTi3tEfl2bELMKk3q) | 3:08 |
 | 450 | [Chaos Emperor](https://open.spotify.com/track/4xMUhDItvvR24wOKxzNhv5) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Chaos Emperor](https://open.spotify.com/album/0QbT4mus1euVwf3eXXXQI4) | 3:03 |
 | 451 | [Love Kills U](https://open.spotify.com/track/41NO2jzdSFiQtFxwFEv3ix) | [EmoCosine](https://open.spotify.com/artist/6JeMAHza4KM4VaMixmrcIs) | [Love Kills U](https://open.spotify.com/album/6uHJP3rfi7Cn1baOr1ZM4F) | 2:18 |
 | 452 | [INSANE](https://open.spotify.com/track/0OqxXUlo2LDR3hQBF4vn1f) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [INSANE](https://open.spotify.com/album/6JjvHPGyW7lze7VTHO2wFD) | 3:39 |
-| 453 | [DANGEROOOOUS JUNGLE \- Extended](https://open.spotify.com/track/6yC3h5CQlXyVyibkAI9RWN) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Memoria](https://open.spotify.com/album/08ZEmSS3hUv0o9gxOXJJFJ) | 4:00 |
-| 454 | [Arcana Eden \- Extended by Laur](https://open.spotify.com/track/1QBan8wxm2xL1RXE7sh7Bp) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Sakuzyo](https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1) | [Memoria](https://open.spotify.com/album/08ZEmSS3hUv0o9gxOXJJFJ) | 4:09 |
+| 453 | [DANGEROOOOUS JUNGLE \(Extended\)](https://open.spotify.com/track/6yC3h5CQlXyVyibkAI9RWN) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Memoria](https://open.spotify.com/album/08ZEmSS3hUv0o9gxOXJJFJ) | 4:00 |
+| 454 | [Arcana Eden \(Extended by Laur\)](https://open.spotify.com/track/1QBan8wxm2xL1RXE7sh7Bp) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Sakuzyo](https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1) | [Memoria](https://open.spotify.com/album/08ZEmSS3hUv0o9gxOXJJFJ) | 4:09 |
 | 455 | [Ashigaru](https://open.spotify.com/track/4NmKqlECL06neACuwSWXLg) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Mystery Blend](https://open.spotify.com/album/10XI0e1IZSYj1hEXLVnG2V) | 4:52 |
 | 456 | [Bikkuri Extreme Chickencore](https://open.spotify.com/track/60iZtrOcyRm1SI6jxqyLmD) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Bikkuri Extreme Chickencore](https://open.spotify.com/album/5njfY9AcGT7H4TU6CvXIK0) | 3:14 |
 | 457 | [Super Wide](https://open.spotify.com/track/0aZd2218VuQPnlDJUv8nt4) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Super Wide](https://open.spotify.com/album/4RkDyYvzvqCVJiykiLbKJq) | 2:54 |

@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,355 songs - 12 day 11 hr 18 min
+5,357 songs - 12 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1229,6 +1229,7 @@
 | [Don't Belong](https://open.spotify.com/track/5awSy4pnLYCAoKNLDe0Jb5) | [Nyrah Soull](https://open.spotify.com/artist/5Du6ruxu9sN91sdVxMULic) | [Don't Belong](https://open.spotify.com/album/0aCSjFBqqZKloXjEEOPPwu) | 2:41 | 2023-08-11 | 2023-08-28 |
 | [Don't Blame Me](https://open.spotify.com/track/27Msk0sPQVGjrwa1nR0iwm) | [Steven Beck](https://open.spotify.com/artist/1n3GNmKwV11Obm6XlVWGOj) | [Don't Blame Me](https://open.spotify.com/album/48HPLiLRzXaz9DdKj4RzJg) | 2:45 | 2020-06-17 | 2020-07-02 |
 | [Don't Cry](https://open.spotify.com/track/7epHYaw8EVjnUwtn1qfMTN) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Don't Cry](https://open.spotify.com/album/7bGKmIXE9JPgak1iv4Xpvl) | 3:12 | 2022-01-21 | 2022-02-06 |
+| [Don't Cry](https://open.spotify.com/track/0YZRYiErLmoT389ZKts0Cc) | [katrina sotera](https://open.spotify.com/artist/4hJ7CYCEtGiBm9grF0TRUq) | [Don't Cry](https://open.spotify.com/album/3mU7HxSrGM7gcZAr2WPGpA) | 2:49 | 2025-10-13 |  |
 | [Don't Cry Baby](https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Second Time Around](https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w) | 2:26 | 2024-08-12 |  |
 | [Don't Disturb the Vibe](https://open.spotify.com/track/4050NvhZDy6vQ4rqBYBNlk) | [Dope Fiend and Bag Lady](https://open.spotify.com/artist/1jsv2MgmyO4kngUK5O3R7W) | [Short Pants Long Socks Big Hair](https://open.spotify.com/album/1Vcqy83QsW9uNZB4KOJzWl) | 3:14 | 2025-06-30 | 2025-07-12 |
 | [Don't Drop That Monkey](https://open.spotify.com/track/5wAxmK678OPA493HCyVf4X) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Don't Drop That Monkey](https://open.spotify.com/album/2sdBGysYgNwjUU2qKU9LUt) | 3:32 | 2023-04-06 | 2023-04-28 |
@@ -3140,7 +3141,7 @@
 | [My Lemon](https://open.spotify.com/track/5CyLs247oECJpKHqei2oRW) | [Lynndigo](https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY) | [My Lemon](https://open.spotify.com/album/2UceK89NU5F2AK6xJInhsn) | 4:02 | 2025-07-08 | 2025-07-20 |
 | [My lil friend](https://open.spotify.com/track/22HFcU0WBxr8kaIljPiyOf) | [Dav3 Mack](https://open.spotify.com/artist/09e6yrrxhZPdQn4WcESkyU) | [Vibrations](https://open.spotify.com/album/6CXx3AgTexIOiMJXUYey6p) | 2:38 | 2024-05-31 | 2024-06-11 |
 | [My Love](https://open.spotify.com/track/5MWROLaEEcQgWGZ16QuyI6) | [Bella Delle](https://open.spotify.com/artist/2Ss9z0SG3FQwFJVpWoyafk) | [My Love](https://open.spotify.com/album/62GJz4BTrOuEGYPLPtL672) | 3:03 | 2023-07-15 | 2023-08-04 |
-| [My Love](https://open.spotify.com/track/140U1hiFXkWppGU5GZv25H) | [Qancu](https://open.spotify.com/artist/3a6GdM9GeiSimrbOiYphdv) | [My Love](https://open.spotify.com/album/75vc6u36yQEofbktBH6e1h) | 2:45 | 2025-09-12 |  |
+| [My Love](https://open.spotify.com/track/140U1hiFXkWppGU5GZv25H) | [Qancu](https://open.spotify.com/artist/3a6GdM9GeiSimrbOiYphdv) | [My Love](https://open.spotify.com/album/75vc6u36yQEofbktBH6e1h) | 2:45 | 2025-09-12 | 2025-10-14 |
 | [My Love \(Borth Remix\)](https://open.spotify.com/track/3QA979rq5SWdIH2Rsm2TPg) | [Eric Anders](https://open.spotify.com/artist/7wYbNTiiFpJwzAwFk910dl), [Mark O'Bitz](https://open.spotify.com/artist/1l1iTfSE17m7r3FZehWsIR) | [Bardo Hauntings II: Borth Remixes](https://open.spotify.com/album/4xomyU3RIbujt0hAJLxkwc) | 3:54 | 2022-10-28 | 2022-11-19 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-12-29 | 2024-03-08 |
 | [My Melody](https://open.spotify.com/track/33g3QdjmnRfk877s5j1SrV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [My Melody](https://open.spotify.com/album/2fQjgO30ltKJrtKO0kUEvH) | 2:36 | 2020-04-10 | 2020-04-20 |
@@ -4421,6 +4422,7 @@
 | [Superlike](https://open.spotify.com/track/1TOyDhSmtMZGZ66QUo74P0) | [Crunkz](https://open.spotify.com/artist/4OXIfQQfNxUxqVPwoklWcv) | [Superlike](https://open.spotify.com/album/2DTFeEH8dVuN26W7rdQ8s8) | 2:17 | 2022-10-21 | 2022-11-12 |
 | [SUPERMARKET SUSHI](https://open.spotify.com/track/2W2SxbrgKxD7BV5lfqOd0M) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [SUPERMARKET SUSHI](https://open.spotify.com/album/7Bj3MSVnWrI4zgVlP9MPn7) | 2:43 | 2024-11-01 | 2024-11-18 |
 | [Supernatural](https://open.spotify.com/track/2Ovazj2vYIhleoZQDndAFq) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Supernatural](https://open.spotify.com/album/1fpPKF9whMcGPnuW1Dckcd) | 2:57 | 2024-07-05 | 2024-07-17 |
+| [Supernatural Thing](https://open.spotify.com/track/2gYkIkZQvcbSfdy7nwL9D8) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Supernatural Thing](https://open.spotify.com/album/0D7K5szxAfqxDNmkZpEg33) | 3:56 | 2025-10-13 |  |
 | [Supernova](https://open.spotify.com/track/0T96wo5t1gii0CpvVj03VU) | [CAPRICE LE MARAIS](https://open.spotify.com/artist/3jIBhE36DzBgYb0OY4ZwEC) | [54](https://open.spotify.com/album/59HHmrCBW0a4HXkPPc8eXz) | 2:47 | 2025-04-30 | 2025-05-12 |
 | [Supersonic](https://open.spotify.com/track/27DQcUsPHwKMql6H6yWypq) | [Sensuré](https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Rastreep](https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw) | [Supersonic](https://open.spotify.com/album/0SMnHNj1Umlk2T4smypFdL) | 2:55 | 2025-03-10 | 2025-03-22 |
 | [Supplier](https://open.spotify.com/track/2yOO0mAZ160Ta4MBWdJ5N5) | [Sammy Vizz](https://open.spotify.com/artist/6hPgq23tX1rVK7Y7Oh4u1X), [Real Unidad](https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT) | [Supplier](https://open.spotify.com/album/2YLybkmPRFlpQHrRHXD7CC) | 2:37 | 2025-02-14 | 2025-02-26 |
@@ -4495,7 +4497,7 @@
 | [Talk](https://open.spotify.com/track/3RsZiNeholao7yWTx0t9Bt) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q) | [Talk](https://open.spotify.com/album/4woIpCK5jFRyJgLzyR6l3B) | 3:18 | 2021-02-26 | 2021-06-06 |
 | [Talk About It](https://open.spotify.com/track/5kDScRmwuoaj80H0xKUZ5S) | [ADINAH VINE](https://open.spotify.com/artist/3l52uxa2NAkAIvqC1Qjke2) | [Talk About It](https://open.spotify.com/album/5tvxEEt8n6Z5K43B6L0GBp) | 2:22 | 2024-10-20 | 2024-11-02 |
 | [Talk About It](https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght) | [Miyamoto](https://open.spotify.com/artist/5CF46SR2u5iy00KXQRZqYt) | [Talk About It](https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK) | 3:02 | 2021-12-31 | 2022-01-15 |
-| [Talk And Give](https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj) | [Júsef René](https://open.spotify.com/artist/6ZdIUy4nrwQ7KxZQX8804L), [Khaja](https://open.spotify.com/artist/7xvJ01VveC2vr3XZpfHTHm) | [Talk And Give](https://open.spotify.com/album/0xEISW2qpJKDxsKS2Y7a9e) | 2:21 | 2025-10-02 |  |
+| [Talk And Give](https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj) | [Júsef René](https://open.spotify.com/artist/6ZdIUy4nrwQ7KxZQX8804L), [Khaja](https://open.spotify.com/artist/7xvJ01VveC2vr3XZpfHTHm) | [Talk And Give](https://open.spotify.com/album/0xEISW2qpJKDxsKS2Y7a9e) | 2:21 | 2025-10-02 | 2025-10-14 |
 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 | 2024-03-24 | 2024-08-13 |
 | [TALK TO YOU](https://open.spotify.com/track/0U2trRp7HndAG6rm1179B1) | [N!CO](https://open.spotify.com/artist/7r9Tb0zhwFqULO8MnivMve) | [TALK TO YOU](https://open.spotify.com/album/6hi4A2IxZoQbFi0ZeOLaFs) | 3:29 | 2024-12-20 | 2025-01-01 |
 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 | 2025-08-21 | 2025-09-02 |

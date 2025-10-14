@@ -4,7 +4,7 @@
 
 > hannah frances on the cover 🍃
 
-638 songs - 1 day 14 hr 24 min
+638 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,7 +639,7 @@
 | [You In The Sea](https://open.spotify.com/track/5LnvAYgZNPsaFG2bt03Z5j) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [You In The Sea](https://open.spotify.com/album/79smqI7DUTVVenASjbVpdz) | 3:42 | 2025-08-08 |  |
 | [You Pt\. 2](https://open.spotify.com/track/1u4727ZsHw1maP8y9YbIQo) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 4:07 | 2025-08-15 |  |
 | [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 | 2025-01-17 |  |
-| [You'd Kill Me If You Could](https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [You'd Kill Me If You Could](https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI) | 3:59 | 2025-08-08 |  |
+| [You'd Kill Me If You Could](https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [You'd Kill Me If You Could](https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI) | 3:27 | 2025-08-08 |  |
 | [You'd Like Me More](https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc) | [Axel & Lolo](https://open.spotify.com/artist/66uREfgVhvjUiK3RXcTAdq) | [You'd Like Me More](https://open.spotify.com/album/2SJZIS9MFmKiIKZVNFFOqD) | 3:44 | 2023-10-06 | 2024-07-13 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-31 | 2025-03-13 |
 | [Your Eyes Tell Stories](https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Your Eyes Tell Stories](https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE) | 5:20 | 2024-02-23 | 2024-05-11 |

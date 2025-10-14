@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Mochakk always brings the vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,053 likes - 233 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,067 likes - 233 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 202 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 |
 | 203 | [Pick & Choose \- Radio Edit](https://open.spotify.com/track/2E5coMHUBjZwlkTD3eFXZz) | [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7), [MON MON](https://open.spotify.com/artist/2Clxh2YR59GJA8mzLMDtuC), [MOTYL](https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo) | [Pick & Choose](https://open.spotify.com/album/6hsHuXzJ60F1vJwMmPEbse) | 4:05 |
 | 204 | [Sthlm In My <3](https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Sthlm In My <3](https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23) | 3:26 |
-| 205 | [Whispers](https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Whispers EP](https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8) | 2:35 |
+| 205 | [Whispers](https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Whispers EP](https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8) | 2:35 |
 | 206 | [NOW IT'S GONE](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [NOW IT'S GONE](https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo) | 2:23 |
 | 207 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 |
 | 208 | [Escape](https://open.spotify.com/track/6WRKpDo9ayuRidi2Rv291e) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Escape](https://open.spotify.com/album/2NCtVmzU6FWVpzODrgVVDo) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,666 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,668 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 43 | [Broken Cup](https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:14 |
 | 44 | [My Kingdom Come](https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:30 |
 
-Snapshot ID: `aOmeAAAAAACA5sEx/ky07p/c8Ni49kTI`
+Snapshot ID: `aOrvgAAAAAAyZIDvcW2QXo0V9msExbeJ`

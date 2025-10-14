@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 202522,
+  "num_followers": 202661,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "MIRADA",
-        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 253909,
-      "name": "Atenci\u00f3n",
-      "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 253909,
+      "name": "Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "TU TU TU",
-        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 151570,
-      "name": "TU TU TU",
-      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Patrullon",
         "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 158517,
       "name": "Patrullon",
       "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 201322,
+      "name": "On D Gas",
+      "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -763,22 +763,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "TU TU TU",
+        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         },
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 201322,
-      "name": "On D Gas",
-      "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Con Todo Respetillo",
-        "url": "https://open.spotify.com/album/4ROV46hkQiEQelXlcgtSfw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Chavalos",
-          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
-        }
-      ],
-      "duration_ms": 188838,
-      "name": "Con Todo Respetillo",
-      "url": "https://open.spotify.com/track/7pdV3v2uiSdhryajFIeLJJ"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 209920,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Con Todo Respetillo",
+        "url": "https://open.spotify.com/album/4ROV46hkQiEQelXlcgtSfw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "duration_ms": 188838,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/7pdV3v2uiSdhryajFIeLJJ"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Joven De La Sierra",
-        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Joven De La Sierra",
-      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 202971,
       "name": "La Changa",
       "url": "https://open.spotify.com/track/1E6dXHr5Z00c5eCEuWTCOg"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Joven De La Sierra",
+        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Joven De La Sierra",
+      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Hija de Papi",
-        "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 184766,
-      "name": "Hija de Papi",
-      "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Hija de Papi",
+        "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 184766,
+      "name": "Hija de Papi",
+      "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "El Destino Nos Separa",
+        "url": "https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 135317,
+      "name": "El Destino Nos Separa",
+      "url": "https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "Hay Que Prender",
         "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 219615,
       "name": "El N1 El Perfil o El Chavalon",
       "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "El Destino Nos Separa",
-        "url": "https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 135317,
-      "name": "El Destino Nos Separa",
-      "url": "https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "El Hombre del Equipo",
-      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Mustangson",
         "url": "https://open.spotify.com/album/7MwlQpqH0gjRaLQyLRoTCQ"
       },
@@ -1863,6 +1843,22 @@
       "duration_ms": 193843,
       "name": "Mami",
       "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "El Karma - Live",
+      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
     },
     {
       "added_at": "2025-05-27 18:54:46",

@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 201923,
+  "num_followers": 201937,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Motifs in F# Major (Reimagined)",
-        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
-      },
-      "artists": [
-        {
-          "name": "Solar Sleeper",
-          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
-        },
-        {
-          "name": "rhubiqs",
-          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
-        }
-      ],
-      "duration_ms": 331287,
-      "name": "Motifs in F# Major - Reimagined",
-      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
         "url": "https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 153666,
       "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
       "url": "https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Motifs in F# Major (Reimagined)",
+        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+      },
+      "artists": [
+        {
+          "name": "Solar Sleeper",
+          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
+        },
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        }
+      ],
+      "duration_ms": 331287,
+      "name": "Motifs in F# Major - Reimagined",
+      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "Giazotto: Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
         "url": "https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 206195,
       "name": "Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
       "url": "https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 408791,
       "name": "Inside Me",
       "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud Valanejad",
-          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 232105,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Valanejad",
+          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -955,6 +955,26 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
+      },
+      "artists": [
+        {
+          "name": "David Fedele",
+          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
+        },
+        {
+          "name": "Antonina Car",
+          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
+        }
+      ],
+      "duration_ms": 251889,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "Your Spell",
         "url": "https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq"
       },
@@ -987,22 +1007,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry"
       },
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
       },
       "artists": [
         {
-          "name": "David Fedele",
-          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
-        },
-        {
-          "name": "Antonina Car",
-          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 251889,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
     },
     {
       "added_at": "2025-10-03 10:20:21",

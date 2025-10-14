@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 212495,
+  "num_followers": 212508,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAD3tqRahMdv0Xq5ue/beppG",
+  "snapshot_id": "aOrvgAAAAAA2cVJThUrpqhh3kpE/6xkk",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Me Matas",
-      "url": "https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 166246,
       "name": "VETE A LA FREGADA",
       "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 278073,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 317362,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
     },
     {
       "added_at": null,

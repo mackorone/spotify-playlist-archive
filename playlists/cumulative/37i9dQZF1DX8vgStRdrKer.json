@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 256523,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV"
@@ -6653,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "Let It Rise",
+        "url": "https://open.spotify.com/album/1qZkGPQvBiw9gPENf8IANI"
+      },
+      "artists": [
+        {
+          "name": "Aremmic",
+          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342578,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/0tTfUqvsjdBZxUfnb61F1t"
+    },
+    {
+      "album": {
         "name": "Why Not Right Now? (Live)",
         "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
       },
@@ -7444,6 +7462,24 @@
       "duration_ms": 280714,
       "name": "More of you God",
       "url": "https://open.spotify.com/track/770Z9OGv4gVgzDIbClpWYm"
+    },
+    {
+      "album": {
+        "name": "More Than Able",
+        "url": "https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI"
+      },
+      "artists": [
+        {
+          "name": "Tosin Bee",
+          "url": "https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154282,
+      "name": "More Than Able",
+      "url": "https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg"
     },
     {
       "album": {
@@ -10942,7 +10978,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 326565,
       "name": "There Is More - Live",
       "url": "https://open.spotify.com/track/4ZkSdzNLmrUk5xRdZFx9PL"

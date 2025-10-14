@@ -4,7 +4,7 @@
 
 > SPINGERE
 
-317 songs - 15 hr 39 min
+318 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-01 |  |
 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 | 2022-05-01 |  |
 | [Caramba](https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Caramba](https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1) | 3:03 | 2022-05-01 | 2025-01-03 |
+| [CHAMPIONS LEAGUE](https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4) | 3:04 | 2025-10-13 |  |
 | [CHE UOMO \(feat\. bbno$ & Nello Taver\)](https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa) | [Tuzzo](https://open.spotify.com/artist/528N5RTsLKjSxsHOB9AyWr), [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [CHE UOMO \(feat\. bbno$ & Nello Taver\)](https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz) | 2:46 | 2022-08-26 | 2022-11-02 |
 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 | 2022-05-01 | 2025-08-16 |
 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 | 2023-03-23 | 2024-04-19 |
@@ -164,7 +165,7 @@
 | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a) | 2:45 | 2022-07-28 | 2023-05-26 |
 | [Just Wanna Rock](https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:03 | 2025-01-02 |  |
 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 | 2022-12-30 | 2023-01-11 |
-| [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/track/7bFnwrQazGOL4vvabrlbEJ) | [Lenny Delicious](https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/album/0aNQyscRPmeCuZ21vzppOM) | 2:34 | 2025-07-13 |  |
+| [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/track/7bFnwrQazGOL4vvabrlbEJ) | [Lenny Delicious](https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/album/0aNQyscRPmeCuZ21vzppOM) | 2:34 | 2025-07-13 | 2025-10-14 |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-12-30 | 2023-01-11 |
 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 | 2022-10-27 |  |
 | [La G La U La E Pt.3](https://open.spotify.com/track/6Bc7dsZGUtwvbVEwmSU94q) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:42 | 2025-01-10 | 2025-05-30 |

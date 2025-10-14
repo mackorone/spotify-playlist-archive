@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,506 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,509 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 59 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
 | 60 | [Wonderful Christmas Time](https://open.spotify.com/track/4EKkT3rUAlTf0JVvXLTgKN) | [Lion In The Mane](https://open.spotify.com/artist/6E5wKYYhEgS3r3TRKZl9N1) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 3:42 |
 | 61 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 |
-| 62 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |
+| 62 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
 | 63 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 |
-| 64 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
+| 64 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |
 | 65 | [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 |
 | 66 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
 | 67 | [We Wish You a Merry Christmas / Jingle Bells \- Short Edit](https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS) | [Normahl](https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm) | [We Wish You a Merry Christmas / Jingle Bells \(Short Edit\)](https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b) | 2:06 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 69 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
 | 70 | [Single All the Way](https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Single All the Way](https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa) | 3:15 |
 | 71 | [Christmas Cards](https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv) | [Spoke Too Soon](https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx) | [Christmas Cards](https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R) | 4:06 |
-| 72 | [Rum Nogs](https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6) | [Burning Nickels](https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ) | [Cool Tide Carrolls](https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg) | 2:30 |
-| 73 | [Come on Christmas](https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6) | [Auralnauts](https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX), [Willeson](https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v) | [Come on Christmas](https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX) | 4:00 |
+| 72 | [Come on Christmas](https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6) | [Auralnauts](https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX), [Willeson](https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v) | [Come on Christmas](https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX) | 4:00 |
+| 73 | [Rum Nogs](https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6) | [Burning Nickels](https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ) | [Cool Tide Carrolls](https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg) | 2:30 |
 | 74 | [Get This Christmas Right](https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W) | [Jaret and Kelly](https://open.spotify.com/artist/2mmcv7y7k8bhULYGQUiZHT) | [Get This Christmas Right](https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1) | 2:11 |
 | 75 | [I'm Going Surfing for Xmas](https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [I'm Going Surfing for Xmas](https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf) | 2:15 |
 | 76 | [It's Christmas Time](https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5) | [Future Idiots](https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD) | [It's Christmas Time](https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI) | 3:29 |

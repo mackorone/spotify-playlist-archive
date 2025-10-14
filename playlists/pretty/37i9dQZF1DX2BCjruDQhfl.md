@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Architrackz
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,512 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,499 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piepen In Me Mind](https://open.spotify.com/track/2nZUxI5qcJms95xjtaSxS9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Piepen In Me Mind](https://open.spotify.com/album/4cIPBTeADtNTPKn5l8vcuQ) | 2:17 |
 | 2 | [Act Like That](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Act Like That](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
 | 3 | [KANDE \(feat\. La Rouge\)](https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [La Rouge](https://open.spotify.com/artist/0gHpIfv815XYSaH0m3X08y) | [GIOVANNI II](https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA) | 3:08 |
-| 4 | [RING](https://open.spotify.com/track/1LVpU2PFXy5r3Ya21YwuHu) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [RING](https://open.spotify.com/album/3NYBdkNGMXjWNn6fFPcZek) | 2:21 |
-| 5 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
+| 4 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
+| 5 | [RING](https://open.spotify.com/track/1LVpU2PFXy5r3Ya21YwuHu) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [RING](https://open.spotify.com/album/3NYBdkNGMXjWNn6fFPcZek) | 2:21 |
 | 6 | [Weg Van Jou](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [BACK2STEP Vol\. 1](https://open.spotify.com/album/1Ksw5xdfrutkRqxKRLQNAJ) | 2:18 |
 | 7 | [Jij weet](https://open.spotify.com/track/6KYGPAJ7Ied3ydTz75br4g) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Jij weet](https://open.spotify.com/album/2UscDJUvz9POVtdIpALPKA) | 2:49 |
 | 8 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 99 | [Kinda Luv](https://open.spotify.com/track/2CT0nd9AEvf9LJxlwVgSN8) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:41 |
 | 100 | [P2](https://open.spotify.com/track/2a2kh05nsQr3RRWMqcoJvH) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [P2](https://open.spotify.com/album/03WMPp35MfHMStJhQlp1zZ) | 2:56 |
 
-Snapshot ID: `AAAAAPy/SxwnOKaWZCuhvMPVMpXpnBvr`
+Snapshot ID: `AAAAAPuIldxJmv4wduRWjO0CWEaHhy3E`

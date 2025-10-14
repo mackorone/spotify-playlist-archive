@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACx2lOrVgU0Ua7NfhPNAXZE",
+  "snapshot_id": "aOrvgAAAAACBKaHy00HGOS565j5zjhww",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 170826,
-      "name": "O Dia Mais Quente do Ano",
-      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
+      "duration_ms": 187413,
+      "name": "Apoteose",
+      "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Apoteose",
-      "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
+      "duration_ms": 137266,
+      "name": "Febre",
+      "url": "https://open.spotify.com/track/3d60VRYKj6anindy424MwH"
     },
     {
       "added_at": null,
@@ -580,9 +580,37 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lossio",
+          "url": "https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r"
+        }
+      ],
+      "duration_ms": 191961,
+      "name": "L\u00e1 Fora",
+      "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
     },
     {
       "added_at": null,
@@ -631,34 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Lossio",
-          "url": "https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r"
-        }
-      ],
-      "duration_ms": 191961,
-      "name": "L\u00e1 Fora",
-      "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
       },
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 137266,
-      "name": "Febre",
-      "url": "https://open.spotify.com/track/3d60VRYKj6anindy424MwH"
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
     },
     {
       "added_at": null,
@@ -827,30 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banho de Folhas (Nyack Remix)",
-        "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 250458,
-      "name": "Banho de Folhas - Nyack Remix",
-      "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
       },
@@ -887,6 +863,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banho de Folhas (Nyack Remix)",
+        "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 250458,
+      "name": "Banho de Folhas - Nyack Remix",
+      "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Fauve",
         "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
@@ -899,6 +899,34 @@
       "duration_ms": 166160,
       "name": "Seda",
       "url": "https://open.spotify.com/track/4FKozZpmF32Iv4LzHhuO12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mensagem",
+        "url": "https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+        },
+        {
+          "name": "Laudz",
+          "url": "https://open.spotify.com/artist/3xRm6hPQpFfaPFZTjLIYHh"
+        },
+        {
+          "name": "Cabes",
+          "url": "https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW"
+        }
+      ],
+      "duration_ms": 212321,
+      "name": "Minha Cultura",
+      "url": "https://open.spotify.com/track/0EAzWBm9hawgoNgmFUyxbQ"
     },
     {
       "added_at": null,
@@ -935,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "PSLS",
+      "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POPART",
         "url": "https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG"
       },
@@ -955,38 +999,6 @@
       "duration_ms": 193881,
       "name": "Se A Rua Fosse Minha",
       "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "PSLS",
-      "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Benedito",
-      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
     }
   ],
   "unique_name": "This Is Zudizilla",

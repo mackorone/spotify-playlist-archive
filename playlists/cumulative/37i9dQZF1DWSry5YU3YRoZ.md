@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-142 songs - 8 hr 54 min
+144 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [One Confess](https://open.spotify.com/track/5vzGjOGXJQcefc3JqopL2X) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [One Confess \(Original Soundtrack from Hear Me: Our Summer\)](https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q) | 2:48 | 2025-06-23 |  |
 | [One of Those Nights \(with seolim\)](https://open.spotify.com/track/3bDhXnVVPE20CYkZdgk5QV) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7), [seolim](https://open.spotify.com/artist/3WRKmOTYMBYLPqqzjWBtcQ) | [One of Those Nights \(with seolim\)](https://open.spotify.com/album/2YHLp2W48Z8wDCuI2YhlZi) | 2:29 | 2025-06-23 | 2025-08-13 |
 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 | 2025-04-14 |  |
-| [Reaching Out](https://open.spotify.com/track/64y6OvECapX4cnYDcGHN38) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Wanderer](https://open.spotify.com/album/6sY3pgG7bthsE3YCyJ7a28) | 3:48 | 2025-07-28 |  |
+| [Reaching Out](https://open.spotify.com/track/64y6OvECapX4cnYDcGHN38) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Wanderer](https://open.spotify.com/album/6sY3pgG7bthsE3YCyJ7a28) | 3:48 | 2025-07-28 | 2025-10-14 |
 | [Remind of You](https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 4:03 | 2023-11-03 | 2024-04-19 |
 | [Sapporo](https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [Sapporo](https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty) | 3:18 | 2025-09-30 |  |
 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 | 2025-04-08 | 2025-07-16 |
@@ -114,7 +114,7 @@
 | [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 | 2024-03-08 | 2025-04-15 |
 | [Star](https://open.spotify.com/track/0UZHbXhLZAsE71qeHbMlJZ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/7facF0CcVOiN1r8L1FquZg) | 3:20 | 2024-03-08 | 2024-04-19 |
 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 | 2023-11-03 | 2024-05-03 |
-| [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 | 2023-11-03 |  |
+| [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 | 2023-11-03 | 2025-10-14 |
 | [Storing Nights](https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:59 | 2024-03-08 | 2025-01-25 |
 | [Summer christmas](https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Summer Inn.](https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3) | 2:55 | 2024-07-15 | 2025-04-09 |
 | [Summer Light](https://open.spotify.com/track/0qVuFvG0cSQgsPt9AxqKYk) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Pieces of Memories](https://open.spotify.com/album/5mrrFAgvvAWx9bcTulvnk1) | 3:00 | 2025-07-21 | 2025-08-12 |
@@ -135,6 +135,7 @@
 | [Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 | 2023-11-03 | 2024-04-19 |
 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 | 2023-11-03 |  |
 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 | 2023-11-03 |  |
+| [You′re a Flower](https://open.spotify.com/track/3cXL7kqGYShUOexGAFW75J) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [You're a Flower](https://open.spotify.com/album/51j41ZCG5PS8T2rx5owRJ8) | 3:29 | 2025-10-13 |  |
 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 | 2024-03-08 | 2025-05-17 |
 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 | 2023-11-03 |  |
 | [꿈\(Dream\)](https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL) | [naso\(나소\)](https://open.spotify.com/artist/0itd1HH3C6EgLLjhIkkYBj) | [Dream\(꿈\)](https://open.spotify.com/album/6XgPs1WzuRhSyuRbpK22ZF) | 2:33 | 2025-05-26 | 2025-06-24 |
@@ -150,5 +151,6 @@
 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 | 2023-11-03 |  |
 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 | 2023-11-03 | 2024-07-19 |
 | [충무에서 Chungmu](https://open.spotify.com/track/79KSgQdO5ralCps7J3qG9I) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79) | [충무에서 Chungmu](https://open.spotify.com/album/6GCrQlMtxQOCaloUci71fm) | 3:39 | 2023-11-03 | 2023-11-07 |
+| [품](https://open.spotify.com/track/14vbDsZympKPZsSJvGsYhg) | [Sosohan Project](https://open.spotify.com/artist/3YN24bHhrQmyyBLxlfF6Y0) | [품](https://open.spotify.com/album/0ZAuHxNh45KR8wbAe6sOO8) | 3:37 | 2025-10-13 |  |
 
 \*This playlist was first scraped on 2023-11-04. Prior content cannot be recovered.

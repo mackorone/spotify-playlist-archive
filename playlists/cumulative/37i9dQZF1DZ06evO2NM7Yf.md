@@ -4,7 +4,7 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 40 min
+57 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [jesus christ in a mini skirt](https://open.spotify.com/track/3NBUJUIw8KQ5yjZ3QIySoJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:00 | 2025-05-16 | 2025-07-01 |
 | [Joni](https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Joni](https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr) | 3:50 | 2024-01-10 | 2024-12-24 |
 | [Joni](https://open.spotify.com/track/3TBCjahLhF8sNJWqoKj0zE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:50 | 2024-12-22 | 2025-07-25 |
-| [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 | 2024-01-10 |  |
+| [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 | 2025-10-14 |  |
+| [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 | 2024-01-10 | 2025-10-14 |
 | [poltergeist](https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:33 | 2025-10-11 |  |
 | [poltergeist](https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [poltergeist](https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG) | 2:33 | 2024-09-15 | 2024-12-02 |
 | [poltergeist](https://open.spotify.com/track/7nVvznvTle4wZBg6fN0GQr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:33 | 2024-12-02 | 2025-10-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR Benelux</a>\), Froukje & S10, Davina Michelle, Henkie T en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,209 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,196 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 67 | [Disbelief](https://open.spotify.com/track/71kE2ucszjiDf9autD0DgP) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B), [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Disbelief](https://open.spotify.com/album/6j8kW1zz6MSDegZLUCiGrx) | 2:24 |
 | 68 | [Waterfalls](https://open.spotify.com/track/7uutv2dzY248zl2O2ngiie) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Waterfalls](https://open.spotify.com/album/79puQ9pjgehPNzZlHvTEqw) | 2:24 |
 | 69 | [We Don't Talk Anymore](https://open.spotify.com/track/4NWv4swJxPCV20DAWQSnl4) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [We Don't Talk Anymore](https://open.spotify.com/album/7CmcpL0ZCLlvv64EzaW94m) | 3:43 |
-| 70 | [I Want My Freedom](https://open.spotify.com/track/4JJyCkIjB5l1axC1p5X3uN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [I Want My Freedom](https://open.spotify.com/album/2Xofyel5kKpV6EsFYc5AF5) | 5:10 |
+| 70 | [I Want My Freedom](https://open.spotify.com/track/4JJyCkIjB5l1axC1p5X3uN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [I Want My Freedom](https://open.spotify.com/album/2Xofyel5kKpV6EsFYc5AF5) | 5:10 |
 | 71 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
 | 72 | [Goodbye For Now](https://open.spotify.com/track/6t62npoUwUGjrwIawdgwA5) | [Olivia Cox](https://open.spotify.com/artist/6jkZw1ZGmPmXSN3CkvCUgj) | [Goodbye For Now](https://open.spotify.com/album/5IewtRLurwyZX1ymMd423l) | 3:30 |
 | 73 | [Leerde Van Mijn Vader](https://open.spotify.com/track/3Ab4Cwn4aAfhmtVs2JeK56) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Leerde Van Mijn Vader](https://open.spotify.com/album/7xFHKM3KcfOYzNu3kVVWeg) | 2:17 |

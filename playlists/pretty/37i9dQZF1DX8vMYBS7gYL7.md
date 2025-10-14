@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 
 > Un poco de sabrosura y color para esos días lluviosos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,974 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,029 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 | 45 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 | 46 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 47 | [Donde Estará](https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:59 |
-| 48 | [Yare](https://open.spotify.com/track/4gdISO3RFEVnxJB5uR5rkF) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Into The 90's](https://open.spotify.com/album/12tb1sP44Fjey5MtnFc5jR) | 5:51 |
-| 49 | [Las Cuarenta](https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI) | [Daniel Santos](https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr) | [Serie Inmortales \- Daniel Santos Y Sus Amigos](https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq) | 3:04 |
+| 48 | [Las Cuarenta](https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI) | [Daniel Santos](https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr) | [Serie Inmortales \- Daniel Santos Y Sus Amigos](https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq) | 3:04 |
+| 49 | [Yare](https://open.spotify.com/track/4gdISO3RFEVnxJB5uR5rkF) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Into The 90's](https://open.spotify.com/album/12tb1sP44Fjey5MtnFc5jR) | 5:51 |
 | 50 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 
 Snapshot ID: `AAAAAOuXwQRrCYFoHT1zkjSkDlY6V1Yn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lf3ULcD47BmEgIjAgSW2X.md) - [plain]
 
 > Features jazz instrumental music designed to help you focus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 5,877 likes - 103 songs - 8 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 5,876 likes - 103 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

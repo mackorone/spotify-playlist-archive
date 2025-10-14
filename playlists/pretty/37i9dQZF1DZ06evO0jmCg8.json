@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 79252,
+  "num_followers": 79261,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAlzVuTCMnvW93fjEN9EUUH",
+  "snapshot_id": "aOrvgAAAAAAxIzb0mFTvbwkHuW6nYXXZ",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 231186,
-      "name": "Blood Dynasty",
-      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 269853,
-      "name": "Dream Stealer",
-      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
+      "duration_ms": 231186,
+      "name": "Blood Dynasty",
+      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Silent Wars",
-      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
+      "duration_ms": 230891,
+      "name": "Lachrymatory",
+      "url": "https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 254893,
+      "name": "Silent Wars",
+      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 251586,
       "name": "Revolution Begins",
       "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
       },
       "artists": [
         {
@@ -756,9 +756,25 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 230891,
-      "name": "Lachrymatory",
-      "url": "https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas"
+      "duration_ms": 285213,
+      "name": "Shout - cover version",
+      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 281386,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     }
   ],
   "unique_name": "This Is Arch Enemy",

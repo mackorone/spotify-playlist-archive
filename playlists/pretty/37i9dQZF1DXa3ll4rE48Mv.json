@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 205602,
+  "num_followers": 205614,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -187,8 +187,8 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+        "name": "Help Me I'm Gay",
+        "url": "https://open.spotify.com/album/6uIFrLApG5BD5hWhcW4sum"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 155788,
-      "name": "Boys in the Band",
-      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+      "duration_ms": 142625,
+      "name": "Help Me I'm Gay",
+      "url": "https://open.spotify.com/track/2A8yiyOUJGDlaNVg4mSe3c"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -267,8 +267,8 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Help Me I'm Gay",
-        "url": "https://open.spotify.com/album/6uIFrLApG5BD5hWhcW4sum"
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
       "artists": [
         {
@@ -276,25 +276,9 @@
           "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 142625,
-      "name": "Help Me I'm Gay",
-      "url": "https://open.spotify.com/track/2A8yiyOUJGDlaNVg4mSe3c"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Demo 2015",
-        "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
-      },
-      "artists": [
-        {
-          "name": "G.L.O.S.S.",
-          "url": "https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU"
-        }
-      ],
-      "duration_ms": 91249,
-      "name": "G.L.O.S.S. (We're from the Future)",
-      "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -311,6 +295,22 @@
       "duration_ms": 176617,
       "name": "Fall Asleep",
       "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Demo 2015",
+        "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
+      },
+      "artists": [
+        {
+          "name": "G.L.O.S.S.",
+          "url": "https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU"
+        }
+      ],
+      "duration_ms": 91249,
+      "name": "G.L.O.S.S. (We're from the Future)",
+      "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dream Nails",
-        "url": "https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc"
-      },
-      "artists": [
-        {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Jillian",
-      "url": "https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Stupid Rich Boy",
         "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 263546,
       "name": "Stupid Rich Boy",
       "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dream Nails",
+        "url": "https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Jillian",
+      "url": "https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6zYJ76uVjUQyJzhKiq9uBX"
-      },
-      "artists": [
-        {
-          "name": "BRASHER",
-          "url": "https://open.spotify.com/artist/4AOuRtMkFhZYXKARVdz3xt"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "Fuck Shades",
-      "url": "https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Severed Ties",
         "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 224560,
       "name": "Severed Ties",
       "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6zYJ76uVjUQyJzhKiq9uBX"
+      },
+      "artists": [
+        {
+          "name": "BRASHER",
+          "url": "https://open.spotify.com/artist/4AOuRtMkFhZYXKARVdz3xt"
+        }
+      ],
+      "duration_ms": 139688,
+      "name": "Fuck Shades",
+      "url": "https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Steady Damage",
+        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Fences",
         "url": "https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 235480,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/47PLgd0njLIMcyLuQOOlEn"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Steady Damage",
-        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",

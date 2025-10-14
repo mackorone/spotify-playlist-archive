@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-280 songs - 12 hr 40 min
+281 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 | 2025-01-20 |
 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 | 2025-07-17 |  |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
-| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 | 2025-10-13 |
+| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2025-08-17 |
 | [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 | 2025-10-10 |  |
 | [Chat GPT](https://open.spotify.com/track/3lbzJMBosiFEjpyyRBAWrk) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Chat GPT](https://open.spotify.com/album/7wzvLGAY31cAsIowxkhqkp) | 2:41 | 2025-08-14 |  |
@@ -57,7 +57,7 @@
 | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce) | 2:46 | 2024-06-28 | 2024-08-27 |
 | [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-01-17 |
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 | 2025-07-15 |
-| [Du bist das Beste](https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist das Beste](https://open.spotify.com/album/01qisonHMpguE3K1JddI4a) | 2:27 | 2025-04-10 |  |
+| [Du bist das Beste](https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist das Beste](https://open.spotify.com/album/01qisonHMpguE3K1JddI4a) | 2:27 | 2025-04-10 | 2025-10-14 |
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2024-06-28 | 2025-03-25 |
 | [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl) | 2:09 | 2024-06-28 | 2025-06-10 |
 | [Du liebst mich nicht](https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Du liebst mich nicht](https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC) | 2:40 | 2024-06-28 | 2024-10-31 |
@@ -76,6 +76,7 @@
 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 | 2025-10-13 |
 | [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 | 2025-04-22 |
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 | 2025-01-03 |
+| [Endorphine](https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Endorphine](https://open.spotify.com/album/3GAHfpsReZrt8QYIeEtuE6) | 2:08 | 2025-10-10 |  |
 | [Engel](https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Engel](https://open.spotify.com/album/7Jy7AQ54wPaWiYXExMZ70r) | 2:16 | 2024-09-16 | 2024-10-13 |
 | [Erinnerung](https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Erinnerung](https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2) | 3:26 | 2025-03-24 | 2025-06-07 |
 | [Erkläre mir die Liebe](https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Erkläre mir die Liebe](https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX) | 3:04 | 2024-06-28 | 2025-09-18 |
@@ -161,7 +162,7 @@
 | [luft holen](https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [nur liebe, immer.](https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD) | 2:26 | 2024-06-28 | 2024-07-31 |
 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 | 2024-06-28 |  |
 | [Lüg mich nicht an](https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Lüg mich nicht an](https://open.spotify.com/album/0i5bmeRJeIQpNQwqFaEWnM) | 2:29 | 2024-11-18 | 2025-01-17 |
-| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 |  |
+| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 | 2025-10-14 |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-06-28 |  |
 | [Malediven](https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:03 | 2025-09-18 |  |
 | [MAMAS HAUS](https://open.spotify.com/track/6aOwyg63SvKnnOho5FVjv5) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [MAMAS HAUS](https://open.spotify.com/album/36zUQg4IZhcCNPJXWBSWd0) | 2:26 | 2025-05-15 | 2025-06-24 |

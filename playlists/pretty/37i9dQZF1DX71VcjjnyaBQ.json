@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 432340,
+  "num_followers": 432408,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,34 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
+        "name": "The Lion Turtle",
+        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Petros Klampanis",
+          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
+        },
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 515253,
+      "name": "The Lion Turtle",
+      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -251,34 +279,6 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
-        "name": "The Lion Turtle",
-        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
-      },
-      "artists": [
-        {
-          "name": "Oded Tzur",
-          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
-        },
-        {
-          "name": "Petros Klampanis",
-          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
-        },
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 515253,
-      "name": "The Lion Turtle",
-      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
         "name": "These Simple Things",
         "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 308786,
       "name": "These Simple Things",
       "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
         "name": "Stan Getz In Stockholm",
         "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
       "artists": [
         {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -703,6 +683,26 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "Parks Lope",
-        "url": "https://open.spotify.com/album/2nhIT2pL2ksz0enUCRYudn"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Parks Lope",
-      "url": "https://open.spotify.com/track/0SPP6x0Ss25Ulwfsj4cFrg"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
+        "name": "Parks Lope",
+        "url": "https://open.spotify.com/album/2nhIT2pL2ksz0enUCRYudn"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Parks Lope",
+      "url": "https://open.spotify.com/track/0SPP6x0Ss25Ulwfsj4cFrg"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
         "name": "Gamla all\u00e9n",
         "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
       },
@@ -923,38 +903,22 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
       "artists": [
         {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
-        "name": "Voor Jou Yvonne",
-        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
-      },
-      "artists": [
-        {
-          "name": "Bill Weeds",
-          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
         },
         {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 461190,
-      "name": "Voor Jou Yvonne",
-      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -979,6 +943,42 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
+        "name": "Voor Jou Yvonne",
+        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
+      },
+      "artists": [
+        {
+          "name": "Bill Weeds",
+          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 461190,
+      "name": "Voor Jou Yvonne",
+      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
     },
     {
       "added_at": "2025-10-08 13:00:41",
@@ -1155,34 +1155,6 @@
     {
       "added_at": "2025-10-08 13:00:41",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Bartelt",
-          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
-        },
-        {
-          "name": "Martin Sasse",
-          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
-        },
-        {
-          "name": "Martin Gjakonovski",
-          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
-        },
-        {
-          "name": "Joost Van Schaik",
-          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
-        }
-      ],
-      "duration_ms": 454548,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q"
-    },
-    {
-      "added_at": "2025-10-08 13:00:41",
-      "album": {
         "name": "Diane / Estemporaneo",
         "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
       },
@@ -1207,6 +1179,34 @@
       "duration_ms": 329693,
       "name": "Diane",
       "url": "https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D"
+    },
+    {
+      "added_at": "2025-10-08 13:00:41",
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Bartelt",
+          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        },
+        {
+          "name": "Martin Gjakonovski",
+          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
+        },
+        {
+          "name": "Joost Van Schaik",
+          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+        }
+      ],
+      "duration_ms": 454548,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q"
     },
     {
       "added_at": "2025-10-08 13:00:41",

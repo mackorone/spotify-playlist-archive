@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 242211,
+  "num_followers": 242299,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACJfJyNvyeChzduS9MblvsE",
+  "snapshot_id": "aOrvgAAAAADsFerpyCQhbI/dJ6aEFhEz",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
       },
       "artists": [
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+      "duration_ms": 183850,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
       "artists": [
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 183850,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     },
     {
       "added_at": null,
@@ -543,38 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "2019",
-      "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
@@ -595,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
       "artists": [
         {
@@ -604,9 +572,25 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
+      "duration_ms": 180705,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 121521,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
     },
     {
       "added_at": null,

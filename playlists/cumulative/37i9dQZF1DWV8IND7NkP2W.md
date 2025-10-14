@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-814 songs - 1 day 12 hr 47 min
+815 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Otsuka](https://open.spotify.com/track/2VCPGV7w4t08wYl0Kx749p) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Throwaway Beats for a Throwaway Year, Vol\. 1](https://open.spotify.com/album/4dTRzSSVoNLRHcmyDfZ1TD) | 1:43 | 2021-12-23 | 2022-01-07 |
 | [Our Planet \(Instrumental\)](https://open.spotify.com/track/1fHW5nqWYdTvuru0xIC1ef) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Horizon \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/40pdD0kcTqLeLgjYXVXTgv) | 3:48 | 2021-12-23 | 2022-07-29 |
 | [Outlandish](https://open.spotify.com/track/1oBNPxvJjyAy4fP1aoX5At) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Outlandish](https://open.spotify.com/album/3ykO1Jzoj26buzv4qSEQrP) | 2:24 | 2021-12-23 | 2022-01-26 |
+| [Overcast](https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Overcast](https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ) | 2:16 | 2025-10-10 |  |
 | [Overtake](https://open.spotify.com/track/50DqQyinGobLxQLnVrcKU7) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Be Honest](https://open.spotify.com/album/3aZdgsVcuDIFhbWtP5lRk1) | 3:02 | 2025-03-21 | 2025-05-16 |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2021-12-23 | 2022-07-28 |
 | [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 | 2024-02-13 |  |
@@ -651,7 +652,7 @@
 | [Sous les étoiles](https://open.spotify.com/track/2VGD6dKxBoh6Yq94XTidZg) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Sous les étoiles](https://open.spotify.com/album/0U29rwwf7QYM3vJIKeZCqj) | 1:38 | 2022-01-13 | 2022-05-27 |
 | [Southern Street \(DLJ Remix\)](https://open.spotify.com/track/0w9bfDsou5J6Ef0wlLU6ry) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Southern Street \(DLJ Remix\)](https://open.spotify.com/album/0cxwp0Gripib4vzzBUdJzb) | 2:22 | 2025-08-29 |  |
 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 | 2024-07-26 | 2025-05-03 |
-| [Sparkler](https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Sparkler](https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB) | 2:52 | 2024-12-14 |  |
+| [Sparkler](https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Sparkler](https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB) | 2:52 | 2024-12-14 | 2025-10-14 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 | 2025-05-05 |
 | [SPHERE](https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPHERE](https://open.spotify.com/album/5zpSPICBYaR5EX73CtD2a1) | 1:39 | 2022-09-22 | 2022-11-09 |
 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |

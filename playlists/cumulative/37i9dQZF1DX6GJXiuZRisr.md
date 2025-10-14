@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-626 songs - 1 day 19 hr 21 min
+627 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-18 |  |
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2023-11-17 | 2025-03-22 |
 | [Easy Love](https://open.spotify.com/track/520bx5thoXdK6SsBJseLGl) | [Krismi](https://open.spotify.com/artist/3ujWl7adFLOFZOkNtVi0WL) | [Easy Love](https://open.spotify.com/album/07gM5wpFq7rh1kGg9NECTj) | 3:26 | 2024-07-26 | 2025-04-19 |
+| [Echoes](https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Echoes](https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye) | 3:37 | 2025-10-10 |  |
 | [Ecletric](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Ecletric](https://open.spotify.com/album/3DuDHySeHsZXytYR1HHQq9) | 3:18 | 2021-05-07 | 2022-07-28 |
 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 | 2022-02-11 | 2023-12-17 |
 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2023-10-06 | 2025-07-20 |
@@ -362,7 +363,7 @@
 | [Need To Feel Loved \- Tinlicker Remix](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN) | [Reflekt](https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Anjunabeats Volume 14](https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX) | 5:08 | 2021-05-07 | 2024-04-06 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/02u5cHxHuJ6NpUIhGsdbU7) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle \(Lane 8 Remix\)](https://open.spotify.com/album/1Arn6M713Pq2l6JuGcENCC) | 4:09 | 2021-05-07 | 2022-07-29 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
-| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 |  |
+| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 | 2025-10-14 |
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-03-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Let Me Go](https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9) | 5:37 | 2025-02-28 |  |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |

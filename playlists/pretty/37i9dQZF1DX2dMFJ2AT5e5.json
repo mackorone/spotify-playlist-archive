@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 153343,
+  "num_followers": 153442,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "\u2060Aviso importante",
-      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Como Lo Hice Yo",
         "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "\u2060Aviso importante",
+      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
+        "name": "Angustias",
+        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Angustias",
+      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
         "name": "La Buena Eras T\u00fa",
         "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Angustias",
-        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Angustias",
-      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "X Perro",
-        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 144984,
-      "name": "X Perro",
-      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
+      "duration_ms": 201106,
+      "name": "ya no me llames",
+      "url": "https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi"
     }
   ],
   "unique_name": "pa llorar",

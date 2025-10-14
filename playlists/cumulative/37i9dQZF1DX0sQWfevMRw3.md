@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,466 songs - 2 day 12 hr 49 min
+1,467 songs - 2 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1349,6 +1349,7 @@
 | [UNG OCH TRÖG](https://open.spotify.com/track/03kKT8ExrGNmqzhcFSaGO9) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw) | [UNG OCH TRÖG](https://open.spotify.com/album/05gQlkBISFHuFJ7PFzCGbF) | 2:10 | 2025-05-29 |  |
 | [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 | 2024-02-13 | 2025-02-14 |
 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 | 2024-04-18 | 2024-10-18 |
+| [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [Bakis Boyz](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 | 2025-10-13 |  |
 | [Unga och dumma](https://open.spotify.com/track/53fU7VJqycVuJB5T849216) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Unga och dumma](https://open.spotify.com/album/7u7VGTT7qMNAiieS9RBdTz) | 2:27 | 2025-05-15 |  |
 | [UNIDUNK](https://open.spotify.com/track/05flMhHC1if3YNdASWLNYs) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z) | [UNIDUNK](https://open.spotify.com/album/2G4qhLFJh1ryGtXli2Ts95) | 2:26 | 2023-11-09 | 2023-12-01 |
 | [Untz \- Zookeepers Remix](https://open.spotify.com/track/0K8lUzN2gLvo9wmY6wFSU8) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Miles Hi](https://open.spotify.com/artist/41Bz5o8M5l4QarFJfMJYsV), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Untz \(Zookeepers Remix\)](https://open.spotify.com/album/5bGjKPjZg6JSwlznEY1aqL) | 2:10 | 2021-12-16 | 2022-04-22 |

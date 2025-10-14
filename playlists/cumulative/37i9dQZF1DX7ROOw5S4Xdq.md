@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-2,806 songs - 9 day 20 hr 15 min
+2,807 songs - 9 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,6 +1065,7 @@
 | [Força Igreja! \- Ao Vivo](https://open.spotify.com/track/45TiCf8n05NplSJH0OIMW8) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Força Igreja! \(Ao Vivo\)](https://open.spotify.com/album/7DOzUC55vRJEQrNygUGDXf) | 4:22 | 2024-04-19 | 2024-04-27 |
 | [Fragmentos](https://open.spotify.com/track/7JLrSaKue9nmLdM9midEmR) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Fragmentos](https://open.spotify.com/album/4o6RzVSob1m4ghQpCwiWM8) | 4:02 | 2025-09-26 | 2025-10-10 |
 | [Fui Comprado \- Na Igreja \- Ao Vivo](https://open.spotify.com/track/1cdtwyTBdz4SkKd3w7OBTV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fui Comprado \- Na Igreja \(Ao Vivo\)](https://open.spotify.com/album/6PbZUP9pDOzlvmXN5RcvVh) | 4:12 | 2024-04-26 | 2024-06-15 |
+| [Fui Convocada \- Ao Vivo](https://open.spotify.com/track/7p1P0lCDIIJA9nP8v2El7O) | [Avelina](https://open.spotify.com/artist/2zx75yT4QEOzqAOeWczM8K) | [Fui Convocada \(Ao Vivo\)](https://open.spotify.com/album/5G6VrzM3zatBiepw4Hi3XH) | 3:07 | 2025-10-10 |  |
 | [Fui Encontrado](https://open.spotify.com/track/4oqq498zEj7F2esUw2mmrZ) | [Lílian Marinho](https://open.spotify.com/artist/1R1fU5Cp3f7H09j7G1NkFv), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Fui Encontrado](https://open.spotify.com/album/0fDNbzqgRuQmhYXbbDnUTn) | 4:59 | 2025-09-12 | 2025-10-03 |
 | [Fui Eu](https://open.spotify.com/track/4pWdjzCpYz8xUO9pIBf9vh) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Fui Eu](https://open.spotify.com/album/2VdsOYoru4CWxdAvNxomXs) | 4:02 | 2025-06-13 | 2025-07-04 |
 | [Fui Liberto](https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t) | [Nicole Gomes](https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Fui Liberto](https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3) | 2:33 | 2024-07-12 | 2024-07-19 |

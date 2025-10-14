@@ -4,7 +4,7 @@
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 29 min
+60 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 | 2025-09-21 |  |
 | [Empires \(Part 2\)](https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 3:41 | 2025-07-25 | 2025-08-13 |
 | [Everything That Could Have Been](https://open.spotify.com/track/33MQA5PcwhQsiZtc77tUuo) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 4:43 | 2025-01-07 | 2025-01-08 |
-| [Eyes Wide Open](https://open.spotify.com/track/4K4OBqzg2OpziUCa8Gbzg0) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:53 | 2024-11-29 |  |
+| [Eyes Wide Open](https://open.spotify.com/track/4K4OBqzg2OpziUCa8Gbzg0) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:53 | 2024-11-29 | 2025-10-14 |
+| [Eyes Wide Open](https://open.spotify.com/track/5C34gPk3GDR8ZYJNVq4mld) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:53 | 2025-10-14 |  |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-10-23 | 2024-11-29 |
 | [Falter](https://open.spotify.com/track/1gZsLy9CVwF9JmkYHTCJWG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:57 | 2024-10-23 | 2025-04-17 |
 | [Fire](https://open.spotify.com/track/0E66SVq7uPT9YOXzzaIAsZ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:28 | 2024-10-23 |  |

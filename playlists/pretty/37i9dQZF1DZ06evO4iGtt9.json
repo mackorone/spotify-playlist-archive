@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8630,
+  "num_followers": 8636,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADPNsiHpuZKNfXu6DEv6Kzw",
+  "snapshot_id": "aOrvgAAAAADU+4dWcYJw/BlDBWUQwMH7",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u0219e",
-        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
       },
       "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Ma\u0219e",
-      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+      "duration_ms": 161889,
+      "name": "A Night to Remember (ANTR)",
+      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
     },
     {
       "added_at": null,
@@ -127,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u0219e",
+        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Ma\u0219e",
+      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Serious",
         "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 245626,
       "name": "Good Or Bad (Oway)",
       "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 161889,
-      "name": "A Night to Remember (ANTR)",
-      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
     },
     {
       "added_at": null,
@@ -190,31 +190,15 @@
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "I Can't Kill Myself",
-      "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IN MY HEAD",
-        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 177692,
-      "name": "IN MY HEAD",
-      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
+      "duration_ms": 196800,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
     },
     {
       "added_at": null,
@@ -239,6 +223,26 @@
       "duration_ms": 224754,
       "name": "Telli Person",
       "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IN MY HEAD",
+        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "IN MY HEAD",
+      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
     },
     {
       "added_at": null,
@@ -270,15 +274,11 @@
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
+      "duration_ms": 196000,
+      "name": "I Can't Kill Myself",
+      "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Sanko",
-      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onorato",
         "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 161111,
       "name": "Yan Yan Po",
       "url": "https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 220235,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Chulo Bother Nobody",
-      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Chulo Bother Nobody",
+      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 212554,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Ukwu (Bonus)",
-      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 206160,
       "name": "Ah Blem Blem",
       "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Ukwu (Bonus)",
+      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
     },
     {
       "added_at": null,

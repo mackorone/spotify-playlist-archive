@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Nasa Histoires en portada.",
-  "num_followers": 485510,
+  "num_followers": 485523,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4npx2rvcf7sUayntozqTBPBRpE",
+  "snapshot_id": "AAAAADKohOPT9wsCvnOzWaaYCjfQfmko",
   "tracks": [
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "\u00a1Hey T\u00fa!",
         "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
       "artists": [
         {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
         }
       ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1119,22 +1135,6 @@
       "duration_ms": 210026,
       "name": "PASO AL AIRE",
       "url": "https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Trago de Mezcal",
-        "url": "https://open.spotify.com/album/3u0LcdwMdWyOhCXJhgsZCi"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Trago de mezcal",
-      "url": "https://open.spotify.com/track/0YYtmFkMOEmiPH2rDYkNFF"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 260250,
       "name": "Im gonna come back to Brixton",
       "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Trago de Mezcal",
+        "url": "https://open.spotify.com/album/3u0LcdwMdWyOhCXJhgsZCi"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Trago de mezcal",
+      "url": "https://open.spotify.com/track/0YYtmFkMOEmiPH2rDYkNFF"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Enfiestados",
-        "url": "https://open.spotify.com/album/7hxSlXXe0K4twNjszhYTCC"
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
       "artists": [
         {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Enfiestados",
-      "url": "https://open.spotify.com/track/1EAPboZadjEfsMifzaT0dE"
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1583,6 +1567,22 @@
       "duration_ms": 186175,
       "name": "Siente El Movimiento",
       "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Enfiestados",
+        "url": "https://open.spotify.com/album/7hxSlXXe0K4twNjszhYTCC"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Enfiestados",
+      "url": "https://open.spotify.com/track/1EAPboZadjEfsMifzaT0dE"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "5 A\u00f1os Con Sabor a 20",
         "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
       },
@@ -1667,26 +1667,6 @@
       "duration_ms": 137000,
       "name": "La Ca\u00edda y la Gloria",
       "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Todo Crazy",
-        "url": "https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a"
-      },
-      "artists": [
-        {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
-        },
-        {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        }
-      ],
-      "duration_ms": 175434,
-      "name": "Todo Crazy",
-      "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1739,6 +1719,26 @@
       "duration_ms": 236391,
       "name": "Lo Bueno Esta Por Venir",
       "url": "https://open.spotify.com/track/4UKBZpNvtxVt0IZkGzHjX6"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Todo Crazy",
+        "url": "https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        },
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        }
+      ],
+      "duration_ms": 175434,
+      "name": "Todo Crazy",
+      "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
     }
   ],
   "unique_name": "Ska Latino ",

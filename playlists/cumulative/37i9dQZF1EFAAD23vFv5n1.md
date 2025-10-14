@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-176 songs - 8 hr 33 min
+177 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Fuck You Vincenzo](https://open.spotify.com/track/4Y6eSG3Zl01ixdi8hjpPP3) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:13 | 2025-08-26 |  |
 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 | 2024-04-29 |  |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-09-09 |  |
-| [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 | 2024-04-29 |  |
+| [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 | 2024-04-29 | 2025-10-14 |
+| [GBYE](https://open.spotify.com/track/6f1Q1nOeM35YcydV40V8F0) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [GBYE](https://open.spotify.com/album/0xDaSqw3I7D2bWXGpi0EQV) | 2:51 | 2025-10-13 |  |
 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 | 2024-04-29 |  |
 | [Giovani Wannabe](https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:34 | 2024-04-29 |  |
 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-12-11 |  |

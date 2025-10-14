@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 4 min
+120 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,11 @@
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-09-17 |  |
 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 | 2024-09-17 |  |
 | [Bite My Tongue](https://open.spotify.com/track/46H2plPamhaf0S64tdCEWK) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Neon From Now On](https://open.spotify.com/album/6yjozquVFNSroCrsOFwKQw) | 2:47 | 2024-09-17 |  |
-| [Boyfriend](https://open.spotify.com/track/23eLvOQ3JxtdhRi9YyxRKQ) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:33 | 2024-09-17 |  |
+| [Boyfriend](https://open.spotify.com/track/23eLvOQ3JxtdhRi9YyxRKQ) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:33 | 2024-09-17 | 2025-10-14 |
+| [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2025-10-13 |  |
 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 | 2024-09-17 |  |
-| [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-09-17 |  |
+| [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-09-17 | 2025-10-14 |
+| [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2025-10-13 |  |
 | [Change Shapes](https://open.spotify.com/track/0SQC9AaDUmNQKmV9Trq0j4) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Change Shapes](https://open.spotify.com/album/0n8UD97J6OxFKTmvSuTyz0) | 3:25 | 2024-09-17 | 2024-11-09 |
 | [Change Shapes](https://open.spotify.com/track/1lAxHqVPg6MyIZReDskKON) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Change Shapes](https://open.spotify.com/album/3ewT3hY7bOmIGGJaLUjvMj) | 3:25 | 2024-11-08 | 2024-12-12 |
 | [Change Shapes](https://open.spotify.com/track/2o86nd5msNOHPGVHpaQQ9p) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 3:25 | 2024-12-11 |  |

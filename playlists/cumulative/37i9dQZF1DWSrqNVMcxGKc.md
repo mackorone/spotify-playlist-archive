@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [93 Hardcore](https://open.spotify.com/track/4DuwzGFbaUnYRWicJ7XsWN) | [Tandem](https://open.spotify.com/artist/5r4KrJXWxLsbym4vjcRv1i) | [C'est Toujours Pour Ceux Qui Savent](https://open.spotify.com/album/1pra5et5eagbEjfgh0DnjE) | 5:11 | 2025-04-11 |  |
-| [Aiguisé comme une lame](https://open.spotify.com/track/4JTviRADkTsRQiP2XciEXn) | [Raggasonic \- NTM](https://open.spotify.com/artist/6bqUlAEF6W29zSunM9jJxs) | [raggasonic](https://open.spotify.com/album/2X2celqGIyavwzarmQaPG7) | 4:03 | 2025-04-11 |  |
+| [Aiguisé comme une lame](https://open.spotify.com/track/4JTviRADkTsRQiP2XciEXn) | [Raggasonic](https://open.spotify.com/artist/4OrbnwBMY5oJJZuJpxr66U), [Suprême NTM](https://open.spotify.com/artist/4ko6Ysxtvx9EY9GEFslrIz) | [raggasonic](https://open.spotify.com/album/2X2celqGIyavwzarmQaPG7) | 4:03 | 2025-04-11 |  |
 | [Angela](https://open.spotify.com/track/76a47vlZKvdJeotrpMYuvQ) | [Saian Supa Crew](https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6) | [Klr](https://open.spotify.com/album/3mGbYjpwZAseVYLmQakxcL) | 3:46 | 2025-04-11 |  |
 | [Art de rue](https://open.spotify.com/track/6Xo7NrY0dDj6pQQ2XIph1Y) | [Fonky Family](https://open.spotify.com/artist/1BTmMBPzv3zEO3f6ilFoct) | [Art de rue](https://open.spotify.com/album/3vm7lXWJ4HxzKEVZ6hhg8o) | 5:13 | 2025-04-11 |  |
 | [Au summum](https://open.spotify.com/track/2dfahYnct5aULxIVSQ6sv7) | [113](https://open.spotify.com/artist/5nTMNNNwQMoCYgzUXdUaB6) | [113 Dans L'Urgence](https://open.spotify.com/album/7umiMRp4Ks5wUyO7xbRLnp) | 4:51 | 2025-04-11 |  |

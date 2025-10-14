@@ -433,6 +433,36 @@
     },
     {
       "album": {
+        "name": "Colheita",
+        "url": "https://open.spotify.com/album/0hfec1gX94fjHRCrhDRQ35"
+      },
+      "artists": [
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261930,
+      "name": "Colheita",
+      "url": "https://open.spotify.com/track/1FLCxgmaHyHssgFooefoss"
+    },
+    {
+      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -3202,7 +3232,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 240032,
       "name": "Vivendo Avan\u00e7ado",
       "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"

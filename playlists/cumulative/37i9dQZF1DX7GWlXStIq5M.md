@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Nina Baiochhi, Clarice Falcão
 
-1,041 songs - 2 day 3 hr 45 min
+1,042 songs - 2 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 | 2020-10-20 | 2022-07-29 |
 | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/track/58TLpLev8A4GFCUizxpF7T) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/album/1titgMf8Q4XDYVsG705KMU) | 5:01 | 2020-10-20 | 2022-07-29 |
 | [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 | 2023-09-15 | 2023-09-30 |
-| [BiKE \(blv\)](https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [BiKE \(blv\)](https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ) | 3:00 | 2025-02-07 |  |
+| [BiKE \(blv\)](https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [BiKE \(blv\)](https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ) | 3:00 | 2025-02-07 | 2025-10-14 |
 | [Black Loro](https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Black Loro](https://open.spotify.com/album/6be6POk7ENDnzbgBFlTfYh) | 2:45 | 2024-07-05 | 2024-07-27 |
 | [Blayblayde](https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [Pescoço Salgado](https://open.spotify.com/album/7F2Ym3Aze5awn7uWOYhO2x) | 3:26 | 2024-01-12 | 2024-02-24 |
 | [BLIND \(feat\. Young Thug\)](https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 2:33 | 2020-10-20 | 2022-11-15 |
@@ -1030,6 +1030,7 @@
 | [Vou Atrás](https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Som Da Minha Casa](https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc) | 2:26 | 2023-12-15 | 2024-03-09 |
 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 | 2023-02-14 | 2023-04-09 |
 | [vou te respirar](https://open.spotify.com/track/1Tz1iLZ557WeHvf7tYHe6Z) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [vou te respirar](https://open.spotify.com/album/58fSX5594JIk1O5wHICbd6) | 2:18 | 2023-05-05 | 2023-07-15 |
+| [Voz Do Brasil](https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 3:13 | 2025-10-13 |  |
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2020-10-20 | 2023-02-15 |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2020-10-20 | 2023-02-15 |
 | [We Paid \(feat\. 42 Dugg\)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:01 | 2020-10-20 | 2023-02-15 |

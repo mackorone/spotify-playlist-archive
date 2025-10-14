@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,574 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,603 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 68 | [Be Alone No More \(feat\. JAY\-Z\)](https://open.spotify.com/track/6jkGDxsBI0Et6D66FqaI0X) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Another Level](https://open.spotify.com/album/1mV4FRW3jAmb0ghEp6Ibjk) | 3:58 |
 | 69 | [Same Old Brand New You](https://open.spotify.com/track/4JjKoRNoshfbNqrFYthKND) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [The a List](https://open.spotify.com/album/5QLf9R6hnPkFFlKsv1VrR1) | 4:14 |
 | 70 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 |
-| 71 | [It Happens Every Time](https://open.spotify.com/track/7vktHAFKA0426L6oKekQZ5) | [Dream Street](https://open.spotify.com/artist/5TGJzOKQ9GbfJ6IZI9ktDn) | [Dream Street](https://open.spotify.com/album/405JEuWBRX8SlKwzEj6HH2) | 3:12 |
-| 72 | [Back Here](https://open.spotify.com/track/4D6bsg0MqGF0PIZLgDydWp) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [Sooner or Later](https://open.spotify.com/album/64tUoD5uNiXPRFqLkykqQB) | 3:41 |
+| 71 | [Back Here](https://open.spotify.com/track/4D6bsg0MqGF0PIZLgDydWp) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [Sooner or Later](https://open.spotify.com/album/64tUoD5uNiXPRFqLkykqQB) | 3:41 |
+| 72 | [It Happens Every Time](https://open.spotify.com/track/7vktHAFKA0426L6oKekQZ5) | [Dream Street](https://open.spotify.com/artist/5TGJzOKQ9GbfJ6IZI9ktDn) | [Dream Street](https://open.spotify.com/album/405JEuWBRX8SlKwzEj6HH2) | 3:12 |
 | 73 | [Freak Me](https://open.spotify.com/track/4s4CWs8E1GFVp4mQsANgcp) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Another Level](https://open.spotify.com/album/35ZVl6hT5Yno0mMIV7oEHd) | 4:55 |
 | 74 | [Take on Me](https://open.spotify.com/track/6IVJFZI4fejlJ9XTa3CG5G) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [The a List](https://open.spotify.com/album/5QLf9R6hnPkFFlKsv1VrR1) | 3:32 |
 | 75 | [Bodyshakin' \- Radio Mix](https://open.spotify.com/track/2tCrepYvlN3u0XUjDexGx2) | [911](https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT) | [The Journey](https://open.spotify.com/album/3reaD14iqQvWKxCZ2w1Py4) | 3:47 |

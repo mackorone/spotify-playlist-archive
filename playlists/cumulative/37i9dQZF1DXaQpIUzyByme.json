@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Van U Wil Ik Zingen",
+        "url": "https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo"
+      },
+      "artists": [
+        {
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311600,
+      "name": "Vlieg Met Me Mee - Live",
+      "url": "https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC"
+    },
+    {
+      "album": {
         "name": "Investigations",
         "url": "https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 236373,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb"

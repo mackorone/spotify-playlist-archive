@@ -3909,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "one step",
+        "url": "https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "one step",
+      "url": "https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81"
+    },
+    {
+      "album": {
         "name": "Glory Hour",
         "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
       },
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 274657,
       "name": "Wonderful, Wonderful Lord (Ps 139)",
       "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"

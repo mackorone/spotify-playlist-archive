@@ -1709,24 +1709,6 @@
     },
     {
       "album": {
-        "name": "ASI NOMAS",
-        "url": "https://open.spotify.com/album/72VpF3GK0EOTqhiY888vN3"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "date_added": "2025-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186976,
-      "name": "ASI NOMAS",
-      "url": "https://open.spotify.com/track/4keu2x6B3dFX21vob5dNsE"
-    },
-    {
-      "album": {
         "name": "ASQUEROSO",
         "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
       },
@@ -1746,6 +1728,24 @@
       "duration_ms": 159245,
       "name": "ASQUEROSO",
       "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
+    },
+    {
+      "album": {
+        "name": "AS\u00cd NOM\u00c1S",
+        "url": "https://open.spotify.com/album/72VpF3GK0EOTqhiY888vN3"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "AS\u00cd NOM\u00c1S",
+      "url": "https://open.spotify.com/track/4keu2x6B3dFX21vob5dNsE"
     },
     {
       "album": {

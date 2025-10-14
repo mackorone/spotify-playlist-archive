@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132898,
+  "num_followers": 132906,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAAD9izTucKBBDkAZLxDkQJQ",
+  "snapshot_id": "aOrvgAAAAAD6q1Tq9Js/ZV6lvqtUcsLx",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Oh Louisiana",
-      "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry On Stage (Expanded Edition)",
         "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 91666,
       "name": "Trick Or Treat",
       "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Oh Louisiana",
+      "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Thirty Days",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 122533,
       "name": "Bye Bye Johnny",
       "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "Thirty Days",
-      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+      "duration_ms": 151706,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 151706,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Viva Viva Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 157320,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
     },
     {
       "added_at": null,

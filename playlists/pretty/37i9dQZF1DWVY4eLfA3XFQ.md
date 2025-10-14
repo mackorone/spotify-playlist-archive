@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🥤 Tech house operators, featuring Fallon
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,948 likes - 120 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,010 likes - 120 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 82 | [Ouro Preto](https://open.spotify.com/track/5H1OKgJ2bPLK5LI1o4gLVc) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Sola presents Ibiza 2025](https://open.spotify.com/album/5LRDPLlQw1kHp03cZF8U6Q) | 3:07 |
 | 83 | [Hypnotize](https://open.spotify.com/track/5qzEeQEhEdWiqc7PeQ00dj) | [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx), [Liam Mockridge](https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG) | [Hypnotize](https://open.spotify.com/album/5I07qufg7PMEgm2sv3lSyS) | 3:28 |
 | 84 | [Rodeo](https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm) | [Girl Math](https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rodeo](https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2) | 3:23 |
-| 85 | [Spend Money](https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Spend Money](https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9) | 2:55 |
+| 85 | [Spend Money](https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Spend Money](https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9) | 2:55 |
 | 86 | [Batucada](https://open.spotify.com/track/7tmFbt2e3f8ezhoCebTj6j) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v), [Kieran San Jose](https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli) | [Batucada](https://open.spotify.com/album/42lkhLfrZK7M3Sx5C2tJPH) | 2:30 |
 | 87 | [Want That](https://open.spotify.com/track/6zgJuEnVEalu3SVj3gb75t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [Want That](https://open.spotify.com/album/3VVo0KpffMozuQiuIcmVpG) | 3:22 |
 | 88 | [Off My High](https://open.spotify.com/track/5AlzbR4wtJ4Lql83NMAPqj) | [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Off My High](https://open.spotify.com/album/4OjoreZ9U6qPGs78GgBePO) | 3:03 |

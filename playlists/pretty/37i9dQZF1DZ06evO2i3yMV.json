@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8582,
+  "num_followers": 8584,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACncmWR30EY5Kw0+6C6W0OR",
+  "snapshot_id": "aOrvgAAAAACSXdn/uAcRBeGW+KKZmEMB",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Half Shadows",
         "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 263586,
       "name": "Go With It (feat. MNDR)",
       "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 280022,
-      "name": "Up and Out",
-      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
     },
     {
       "added_at": null,
@@ -695,6 +695,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Reverie Remixes",
+        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Polar Youth",
+          "url": "https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ"
+        },
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        }
+      ],
+      "duration_ms": 187218,
+      "name": "Sci Fi - Polar Youth Remix",
+      "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -751,26 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie Remixes",
-        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Polar Youth",
-          "url": "https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ"
-        },
-        {
-          "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
         }
       ],
-      "duration_ms": 187218,
-      "name": "Sci Fi - Polar Youth Remix",
-      "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
       "artists": [
         {
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 230261,
       "name": "Bright Shadows",
       "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,

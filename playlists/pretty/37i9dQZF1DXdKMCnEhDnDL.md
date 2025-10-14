@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Bente
+> De beste Nederlandse liedjes\. Cover: Zoë Livay
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,998 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,074 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
-| 2 | [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 |
-| 3 | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv) | 2:14 |
-| 4 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
-| 5 | [Amour](https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Amour](https://open.spotify.com/album/2IuNeXrj4UdP0UEB8NLtlH) | 2:49 |
-| 6 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
-| 7 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 |
+| 1 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 |
+| 2 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
+| 3 | [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 |
+| 4 | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv) | 2:14 |
+| 5 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
+| 6 | [Amour](https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Amour](https://open.spotify.com/album/2IuNeXrj4UdP0UEB8NLtlH) | 2:49 |
+| 7 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
 | 8 | [Hoe Het Is](https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Hoe Het Is](https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC) | 2:31 |
 | 9 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 |
 | 10 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 |
 | 100 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
 
-Snapshot ID: `AAAAADeSMgtwg8fSO+QwA9YfOrZpR8HU`
+Snapshot ID: `AAAAAOPrXARVubqF/Uim3ZcQkU7ELhF/`

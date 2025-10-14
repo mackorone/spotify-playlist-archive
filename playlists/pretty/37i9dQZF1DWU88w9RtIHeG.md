@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU88w9RtIHeG.md) - [plain]
 
 > Listen to the soundtracks of Cinderella at 2AM\. \(새벽 2시의 신데렐라의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by Ha Hyun Sang\. \(하현상이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: BamBam\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-763 songs - 1 day 17 hr 38 min
+766 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-19 | 2024-04-30 |
 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 | 2021-12-08 | 2022-07-28 |
 | [A to Z](https://open.spotify.com/track/7qBGxGuUIQaYwm8gCVeab8) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [A to Z \(BANG YEDAM X Lulu\-lala Friends\)](https://open.spotify.com/album/4AJjxuKTdg7FfrnPmANcM4) | 2:30 | 2025-09-09 | 2025-09-17 |
-| [A Youth of One Day](https://open.spotify.com/track/6uQa1IB4yqT15TsCVc6Ucr) | [STEAL HEART CLUB](https://open.spotify.com/artist/7pxiQtuIBhM9BjigTPAHOh) | [A Youth of One Day](https://open.spotify.com/album/4LA1azXGY7X8VjShRNQ5F6) | 3:46 | 2025-10-10 |  |
+| [A Youth of One Day](https://open.spotify.com/track/6uQa1IB4yqT15TsCVc6Ucr) | [STEAL HEART CLUB](https://open.spotify.com/artist/7pxiQtuIBhM9BjigTPAHOh) | [A Youth of One Day](https://open.spotify.com/album/4LA1azXGY7X8VjShRNQ5F6) | 3:46 | 2025-10-10 | 2025-10-14 |
 | [Adore you](https://open.spotify.com/track/7rrVR9VrztRH93MqvUIUau) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Adore you](https://open.spotify.com/album/2QFxk3swmGzWN0R2NZ8QNK) | 3:56 | 2022-03-30 | 2022-06-12 |
 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 | 2022-03-22 | 2022-04-24 |
 | [After Midnight](https://open.spotify.com/track/35ylkTvU4CWnQVrYqsp2VQ) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [SWITCH ON](https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr) | 3:10 | 2022-01-17 | 2022-07-25 |
@@ -95,6 +95,7 @@
 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2021-12-08 | 2025-07-17 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-03 | 2022-04-07 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-11 | 2024-04-24 |
+| [Body Language](https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Body Language](https://open.spotify.com/album/0MSgmHVfSLarMx6EqKV42V) | 2:53 | 2025-10-13 |  |
 | [BOMBA](https://open.spotify.com/track/4UOhWJXihWNNNaDwGSUSqP) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BOMBA](https://open.spotify.com/album/1e56g1NQaBAfERtl7az1n7) | 2:39 | 2025-08-05 | 2025-08-12 |
 | [Boogie Man](https://open.spotify.com/track/0aAXKcYMXMfWXwWoRgcIma) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Boogie Man](https://open.spotify.com/album/31nJ079frWEmOsFtYepjdw) | 3:27 | 2023-12-06 | 2023-12-13 |
 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 | 2022-01-17 | 2024-06-26 |
@@ -445,7 +446,7 @@
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2022-01-17 | 2022-06-01 |
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-12 | 2022-04-04 |
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-03-22 | 2022-05-14 |
-| [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-10 |  |
+| [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-10 | 2025-10-14 |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
 | [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 | 2023-10-24 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 | 2024-10-26 |
@@ -477,7 +478,7 @@
 | [My Girl](https://open.spotify.com/track/6B4giMto5XBv3mHMBr8F4f) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [My Girl : “My Choice”](https://open.spotify.com/album/3MJX54XKZt42AF509srJ8z) | 3:38 | 2024-02-26 | 2024-03-06 |
 | [My Girl](https://open.spotify.com/track/4u8tjYQmrvMRzv70oZiUSa) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [My Girl](https://open.spotify.com/album/3qTZv6tNZRR4NwCzLx5sQw) | 2:54 | 2024-10-25 | 2024-11-06 |
 | [My Pace](https://open.spotify.com/track/4giQE1WslvC0WH412UVLYB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am WHO](https://open.spotify.com/album/27ZoNL04hp5yKavzixqMUK) | 3:09 | 2021-12-08 | 2022-06-23 |
-| [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 | 2025-09-23 |  |
+| [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 | 2025-09-23 | 2025-10-14 |
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-12-08 | 2022-06-30 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-08 |  |
 | [N the Front](https://open.spotify.com/track/1RIyqzVoYqADXfAWjWNFz8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/2tLs0fD9QQuBIWKIsyxNSw) | 3:00 | 2025-09-01 | 2025-09-23 |
@@ -505,6 +506,7 @@
 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-05-19 |
 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 | 2022-04-15 | 2022-04-17 |
 | [On And On](https://open.spotify.com/track/2xeVbsz4Ab2cFX9TgOoZA0) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [AMPERSAND ONE](https://open.spotify.com/album/1DgPFXEedQx7BmeLpVLcyx) | 3:11 | 2023-11-15 | 2023-12-07 |
+| [One day](https://open.spotify.com/track/4y0CM8FtV1GjKgDciWyldN) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [NEW CHAPTER : DESEAR](https://open.spotify.com/album/0mfYIP5Ppy5mdfMi6CZDqP) | 3:09 | 2025-10-13 |  |
 | [ONE&ONLY](https://open.spotify.com/track/6mSThPrnX93XDEKiM8vAlb) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [ONE&ONLY](https://open.spotify.com/album/4RYmZ3shUlylRyXu3YS7PX) | 4:11 | 2022-03-22 | 2022-04-15 |
 | [ONLY FUN](https://open.spotify.com/track/4R1jgnxwFfRykfmTtUn2SX) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [ONLY FUN](https://open.spotify.com/album/421dpUKWOk5hBbv4mn2Z6w) | 2:58 | 2023-10-30 | 2023-11-03 |
 | [ONLY ONE](https://open.spotify.com/track/2h5pUNnd98Lhr2OAaJE8u7) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [ONLY ONE](https://open.spotify.com/album/5DeS90uKqOWhS3ysZ00V14) | 3:31 | 2022-03-22 | 2022-07-18 |
@@ -515,6 +517,7 @@
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-18 | 2024-09-01 |
 | [OUR DAYS](https://open.spotify.com/track/31SfUhe4smQ6X31pmE9u4L) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [SOME DAY](https://open.spotify.com/album/7EEAmGzNqw1LrMwACBDJlR) | 3:17 | 2024-09-26 | 2024-10-01 |
 | [Outsider](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:32 | 2022-01-27 | 2022-07-23 |
+| [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 | 2025-10-13 |  |
 | [OVERDRIVE](https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.3 : Eternally](https://open.spotify.com/album/2mrCu8xKF0ExIqExAmae9f) | 3:15 | 2023-06-29 | 2023-07-08 |
 | [PANORAMA](https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [PANORAMA](https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB) | 2:58 | 2023-08-24 | 2023-09-05 |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-07-07 | 2022-07-10 |
@@ -565,7 +568,7 @@
 | [ROCK THANG](https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [Kick\-START](https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy) | 3:02 | 2024-04-24 | 2024-05-10 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2023-04-30 | 2023-05-10 |
-| [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 | 2025-10-12 |
+| [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 |  |
 | [RPM](https://open.spotify.com/track/7b8ZfUQRsc5ebULhUgCyck) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RPM](https://open.spotify.com/album/3QljHmM1wr3KJ4fLEWFOHx) | 3:21 | 2022-03-22 | 2022-04-08 |
 | [Run Away](https://open.spotify.com/track/4ex5C1JRiY8mVyXCr4ei5T) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [DEAR\. N9NE](https://open.spotify.com/album/3mCKknvSxoGVEv3cE4iqwy) | 3:08 | 2022-03-30 | 2022-04-17 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 |  |
@@ -770,6 +773,6 @@
 | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc) | 3:24 | 2025-09-16 | 2025-09-30 |
 | [아 왜 I Wait](https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:38 | 2022-03-31 | 2022-04-08 |
 | [어쩌면](https://open.spotify.com/track/18CMsYZK40q75KKo6prq4Y) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [어쩌면](https://open.spotify.com/album/16ijmvpwtcowSqCXh4oHmd) | 4:21 | 2025-06-18 | 2025-07-09 |
-| [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 |  |
+| [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 | 2025-10-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

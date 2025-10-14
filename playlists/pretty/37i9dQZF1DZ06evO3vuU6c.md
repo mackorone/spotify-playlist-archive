@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,195 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,433,207 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 |
 | 50 | [STREET X STREET](https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [DJ Flict](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [STREET X STREET \(LAFC\)](https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF) | 2:53 |
 
-Snapshot ID: `aOmeAAAAAADjntj1sTRvEanQ/z7sFYN5`
+Snapshot ID: `aOrvgAAAAADQy/6kqvVIApMQj/E3Id3g`

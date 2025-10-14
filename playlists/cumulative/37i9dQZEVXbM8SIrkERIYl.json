@@ -1561,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "Aloha Catch A Wave With Me",
+        "url": "https://open.spotify.com/album/2daHxIZZk5UDdtAV3bduI3"
+      },
+      "artists": [
+        {
+          "name": "Waikiki",
+          "url": "https://open.spotify.com/artist/0e5dpb0JrgIFA4huIC1BCl"
+        },
+        {
+          "name": "Mountain Muisc",
+          "url": "https://open.spotify.com/artist/21DDz1UaMludqfH7AsMnoe"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Aloha Catch A Wave With Me",
+      "url": "https://open.spotify.com/track/3klCFlHVFXx3o86FM6Hb36"
+    },
+    {
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil"
       },
@@ -17052,7 +17074,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Let Alone The One You Love",
       "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
@@ -20262,7 +20284,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -23078,7 +23100,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
@@ -28998,7 +29020,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -29678,7 +29700,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"

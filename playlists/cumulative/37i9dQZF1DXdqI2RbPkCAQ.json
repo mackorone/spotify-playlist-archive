@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-28",
-  "description": "marrakech season",
+  "description": "late nights in Marrakech? packing now",
   "name": "Moroccan Moonlight",
   "tracks": [
     {
@@ -219,6 +219,32 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
+    },
+    {
+      "album": {
         "name": "Baian\u00e1 (Boa Noite)",
         "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
       },
@@ -348,7 +374,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 381322,
       "name": "Champion",
       "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
@@ -474,7 +500,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 326000,
       "name": "Drop Your Weapons",
       "url": "https://open.spotify.com/track/34dhfIhEivEZOUIRi0K76v"
@@ -686,10 +712,36 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 219428,
       "name": "GANGA RIDDIM (feat. Mehdi Nassouli)",
       "url": "https://open.spotify.com/track/0EdEgFNlQDfKjd6HsMuzWZ"
+    },
+    {
+      "album": {
+        "name": "Girls MIA",
+        "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Carly Gibert",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
     },
     {
       "album": {
@@ -1562,7 +1614,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 282270,
       "name": "No More",
       "url": "https://open.spotify.com/track/2UZy2WD3j624e5a9pkeVuf"
@@ -2252,6 +2304,50 @@
       "duration_ms": 176528,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "album": {
+        "name": "Wale Wale (feat. Sofiya Nzau) [WITH U Remix - Radio Edit]",
+        "url": "https://open.spotify.com/album/189nxvsd30cgk6lWXrtrXV"
+      },
+      "artists": [
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208166,
+      "name": "Wale Wale (feat. Sofiya Nzau)",
+      "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"
+    },
+    {
+      "album": {
+        "name": "Waste Away",
+        "url": "https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Waste Away",
+      "url": "https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp"
     },
     {
       "album": {

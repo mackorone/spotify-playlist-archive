@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 105639,
+  "num_followers": 105679,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz"
+      },
+      "artists": [
+        {
+          "name": "Bad Books",
+          "url": "https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Forest Whitaker",
+      "url": "https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Shields",
         "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Django Django",
-        "url": "https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9"
-      },
-      "artists": [
-        {
-          "name": "Django Django",
-          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Default",
-      "url": "https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Django Django",
+        "url": "https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Default",
+      "url": "https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "The John Wayne",
         "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 291636,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz"
-      },
-      "artists": [
-        {
-          "name": "Bad Books",
-          "url": "https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Forest Whitaker",
-      "url": "https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R"
     },
     {
       "added_at": "2025-03-14 12:16:12",

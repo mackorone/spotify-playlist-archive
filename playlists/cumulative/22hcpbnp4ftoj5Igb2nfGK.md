@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-137 songs - 7 hr 54 min
+138 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2025-03-24 |  |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2025-04-15 |  |
 | [Next Levels](https://open.spotify.com/track/58MeeOMk6PMQxXWY9YCNPD) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [John Robinson](https://open.spotify.com/artist/2vyB0oUbcyIaoBVgUwhxZL), [Stahhr](https://open.spotify.com/artist/6wkhmi47U2W7idLK5sl91l), [Stacy Epps](https://open.spotify.com/artist/59liBbbghYBWqX9dN68XYH), [Invizible Handz](https://open.spotify.com/artist/4O8gN5lYpDVo6wGzmC14mq) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:49 | 2025-03-06 |  |
+| [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2025-10-13 |  |
 | [Nights Like This](https://open.spotify.com/track/6c0rii1TOf2fvq3hhqqExW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:52 | 2025-02-16 | 2025-09-27 |
 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2025-10-09 |  |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-03-10 | 2025-04-30 |

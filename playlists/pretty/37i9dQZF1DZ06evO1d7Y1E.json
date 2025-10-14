@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118369,
+  "num_followers": 118367,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACk5MtUroZa7sol7ASvxSpp",
+  "snapshot_id": "aOrvgAAAAACBr+UGVn7yS6SOFja1ydb1",
   "tracks": [
     {
       "added_at": null,
@@ -75,34 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Sinto Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 214235,
-      "name": "Me Sinto Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -127,6 +99,34 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Sinto Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 214235,
+      "name": "Me Sinto Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
     },
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camisa 10",
-        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
-        },
-        {
-          "name": "DJ Caetano",
-          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
-        }
-      ],
-      "duration_ms": 90909,
-      "name": "Camisa 10",
-      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camisa 10",
+        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        }
+      ],
+      "duration_ms": 90909,
+      "name": "Camisa 10",
+      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
     },
     {
       "added_at": null,
@@ -927,6 +927,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Era Rico e N\u00e3o Sabia",
+        "url": "https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Matteuzin",
+          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
+        },
+        {
+          "name": "$CAM",
+          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Eu Era Rico e N\u00e3o Sabia",
+      "url": "https://open.spotify.com/track/6ndahq1h9Pu1zm1sLcKcQL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -1027,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Era Rico e N\u00e3o Sabia",
-        "url": "https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Matteuzin",
-          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
-        },
-        {
-          "name": "$CAM",
-          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Eu Era Rico e N\u00e3o Sabia",
-      "url": "https://open.spotify.com/track/6ndahq1h9Pu1zm1sLcKcQL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo do Milh\u00e3o",
         "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
       },
@@ -1115,6 +1115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toma Jack",
         "url": "https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 246153,
       "name": "Toma Jack",
       "url": "https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1408,21 +1408,21 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
         },
         {
-          "name": "DiCastro",
-          "url": "https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Frio e Calculista",
-      "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
+      "duration_ms": 229830,
+      "name": "Pesad\u00e3o",
+      "url": "https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO"
     },
     {
       "added_at": null,
@@ -1532,21 +1532,21 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "DiCastro",
+          "url": "https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF"
         }
       ],
-      "duration_ms": 229830,
-      "name": "Pesad\u00e3o",
-      "url": "https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO"
+      "duration_ms": 223689,
+      "name": "Frio e Calculista",
+      "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
     },
     {
       "added_at": null,

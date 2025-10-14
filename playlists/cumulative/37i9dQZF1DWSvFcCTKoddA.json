@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 4199418,
       "name": "\"Le chat\" avec J\u00e9rome Niel",
       "url": "https://open.spotify.com/episode/0BYFLbAq1GE0WKNtgKFwmk"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 4553534,
       "name": "\"Les Marquises\" avec Herv\u00e9",
       "url": "https://open.spotify.com/episode/09EgTzGLrNEIsxErcxissl"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 6404545,
       "name": "\"Voici les clefs\" avec Florent Bernard",
       "url": "https://open.spotify.com/episode/6YU2ZEu7S8dZknun1UYIX7"
@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "RASKA",
+        "url": "https://open.spotify.com/album/5nqw0dPIKMYENZGfl584U5"
+      },
+      "artists": [
+        {
+          "name": "RASKA",
+          "url": "https://open.spotify.com/show/5nqw0dPIKMYENZGfl584U5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4057363,
+      "name": "35H DANS LA PIRE BO\u00ceTE de France (ft. Michou, Byilhan, Flamby & Nicotine)",
+      "url": "https://open.spotify.com/episode/0BItP7RvjpKwwG7guuVrKe"
+    },
+    {
+      "album": {
         "name": "HISTOIRES D'HORREUR",
         "url": "https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 1696533,
       "name": "6 HISTOIRES D'HORREUR que vous n'oublierez jamais...",
       "url": "https://open.spotify.com/episode/3B7VbAZkk0rTblaktPrHTM"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 1989248,
       "name": "6 HISTOIRES D'HORREUR qui vous emp\u00eacheront de DORMIR ce soir...",
       "url": "https://open.spotify.com/episode/1mRGbpvafWRsbkhqrrJaCF"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 4347637,
       "name": "Avant de respirer le paillasson",
       "url": "https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3832790,
       "name": "Avant le gouda ti\u00e8de",
       "url": "https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE"
@@ -628,10 +646,64 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 4412473,
       "name": "Avant les conversations de fluncheuses",
       "url": "https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8"
+    },
+    {
+      "album": {
+        "name": "Alice Underground",
+        "url": "https://open.spotify.com/album/77YDTwkv6jCgP12DgNXXT9"
+      },
+      "artists": [
+        {
+          "name": "Alice Underground",
+          "url": "https://open.spotify.com/show/77YDTwkv6jCgP12DgNXXT9"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4339668,
+      "name": "Avec L\u00e9opold Lemarchand en l\u2019an de gr\u00e2ce 1123",
+      "url": "https://open.spotify.com/episode/6EsyE0n1fpPBXVWjP7l3yi"
+    },
+    {
+      "album": {
+        "name": "Alice Underground",
+        "url": "https://open.spotify.com/album/77YDTwkv6jCgP12DgNXXT9"
+      },
+      "artists": [
+        {
+          "name": "Alice Underground",
+          "url": "https://open.spotify.com/show/77YDTwkv6jCgP12DgNXXT9"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3437098,
+      "name": "Avec Panayotis Pascot en Gr\u00e8ce Antique",
+      "url": "https://open.spotify.com/episode/4Lv5fNy57kDvi5KbKpB6ep"
+    },
+    {
+      "album": {
+        "name": "Night Confessions",
+        "url": "https://open.spotify.com/album/1EgTyunx1m5h5wbRtFm1Qa"
+      },
+      "artists": [
+        {
+          "name": "Night Confessions",
+          "url": "https://open.spotify.com/show/1EgTyunx1m5h5wbRtFm1Qa"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2408582,
+      "name": "ayooo c'est la rentr\u00e9e",
+      "url": "https://open.spotify.com/episode/2LAKzWbidbp8FkZeuP1Ilq"
     },
     {
       "album": {
@@ -653,6 +725,24 @@
     },
     {
       "album": {
+        "name": "CKO (CULTURE KNOCK OUT)",
+        "url": "https://open.spotify.com/album/6F3mymy1SOQdTUHDBDa7BI"
+      },
+      "artists": [
+        {
+          "name": "CKO (CULTURE KNOCK OUT)",
+          "url": "https://open.spotify.com/show/6F3mymy1SOQdTUHDBDa7BI"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9618773,
+      "name": "Booba | Lunatic, clash, 92I, l\u2019avenir du rap fran\u00e7ais \u2013 CKO",
+      "url": "https://open.spotify.com/episode/6pvpynWFCJsMsLJ7DPWg53"
+    },
+    {
+      "album": {
         "name": "Garce Therapy",
         "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
       },
@@ -671,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Night Confessions",
+        "url": "https://open.spotify.com/album/1EgTyunx1m5h5wbRtFm1Qa"
+      },
+      "artists": [
+        {
+          "name": "Night Confessions",
+          "url": "https://open.spotify.com/show/1EgTyunx1m5h5wbRtFm1Qa"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1100692,
+      "name": "ce que j'ai appris des hommes",
+      "url": "https://open.spotify.com/episode/3G9RmXmZaQTaD8hkIYDObm"
+    },
+    {
+      "album": {
         "name": "Pause Active \u23f8\ufe0f",
         "url": "https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX"
       },
@@ -682,7 +790,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 862171,
       "name": "ces 5 choses \u00e0 faire pour passer une bonne journ\u00e9e",
       "url": "https://open.spotify.com/episode/09fW0emSNbnpontHg5WZRx"
@@ -736,7 +844,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 2474573,
       "name": "Cher journal (update life omg)",
       "url": "https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM"
@@ -1024,7 +1132,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 2651951,
       "name": "INCARNER - Constance Arnoult",
       "url": "https://open.spotify.com/episode/5sFLzkD3nXGgY9gjBUA3za"
@@ -1078,10 +1186,28 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 1631425,
       "name": "J'emm\u00e9nage avec Monsieur de Brauer",
       "url": "https://open.spotify.com/episode/7qGa1yqTIp02WqL8E7MTO8"
+    },
+    {
+      "album": {
+        "name": "CKO (CULTURE KNOCK OUT)",
+        "url": "https://open.spotify.com/album/6F3mymy1SOQdTUHDBDa7BI"
+      },
+      "artists": [
+        {
+          "name": "CKO (CULTURE KNOCK OUT)",
+          "url": "https://open.spotify.com/show/6F3mymy1SOQdTUHDBDa7BI"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6518250,
+      "name": "Jacky Brown | Le Bilan, la l\u00e9gende des N\u00e8g\u2019 Marrons & pionnier de la culture en France",
+      "url": "https://open.spotify.com/episode/1vVRNtlAJDFV0VzYdHK6xc"
     },
     {
       "album": {
@@ -1096,7 +1222,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3085087,
       "name": "Juliette Katz - \"J\u2019ai jamais bu de margarita de ma vie\"",
       "url": "https://open.spotify.com/episode/4pARlnLT2XTiq9bbEHCoSe"
@@ -1150,7 +1276,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3355600,
       "name": "La lecture, un hobby de riche ?",
       "url": "https://open.spotify.com/episode/3NdOeLTRHjForyeM0i9hqE"
@@ -1247,6 +1373,42 @@
     },
     {
       "album": {
+        "name": "RASKA",
+        "url": "https://open.spotify.com/album/5nqw0dPIKMYENZGfl584U5"
+      },
+      "artists": [
+        {
+          "name": "RASKA",
+          "url": "https://open.spotify.com/show/5nqw0dPIKMYENZGfl584U5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2126190,
+      "name": "Le Pire Vendeur (avec Joyca & Th\u00e9odort)",
+      "url": "https://open.spotify.com/episode/6tKXEQ5gZdVabQDOjmWYbf"
+    },
+    {
+      "album": {
+        "name": "CKO (CULTURE KNOCK OUT)",
+        "url": "https://open.spotify.com/album/6F3mymy1SOQdTUHDBDa7BI"
+      },
+      "artists": [
+        {
+          "name": "CKO (CULTURE KNOCK OUT)",
+          "url": "https://open.spotify.com/show/6F3mymy1SOQdTUHDBDa7BI"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3460928,
+      "name": "Le retour Young Thug, Cardi B vs Nicki Minaj, La nouvelle G du Rap FR | CKO",
+      "url": "https://open.spotify.com/episode/3891ZNCKNZQ8mOMR36qBow"
+    },
+    {
+      "album": {
         "name": "LES GENS DE LA MODE",
         "url": "https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA"
       },
@@ -1276,7 +1438,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3235239,
       "name": "LE VINTAGE - Gauthier Borsarello",
       "url": "https://open.spotify.com/episode/4s5vQxSaezGTuu8AQ8TO3M"
@@ -1294,7 +1456,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 1714282,
       "name": "LES 3 PIRES HISTOIRES D'HORREUR DE SECTES ft Hardisk\u202c ! (vous n'\u00eates pas pr\u00eats)",
       "url": "https://open.spotify.com/episode/1ncALgnkPNlUpBulMS2vur"
@@ -1348,7 +1510,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3662506,
       "name": "Les lecteurs sont-il des obs\u00e9d\u00e9s sexuels ? \ud83d\udca6\ud83c\udf36\ufe0f",
       "url": "https://open.spotify.com/episode/026KuU0vvEMVBR38ZpW0DI"
@@ -1582,7 +1744,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3205802,
       "name": "On a encore tu\u00e9 les librairies",
       "url": "https://open.spotify.com/episode/5vbRf6t0yoSN9iRqm0cH4z"
@@ -1604,6 +1766,24 @@
       "duration_ms": 3293544,
       "name": "On d\u00e9briefe la demi-finale de Drag Race et le docu de C\u00e9line Dion",
       "url": "https://open.spotify.com/episode/0RlYgSRnyGWFDTDsPiRc6i"
+    },
+    {
+      "album": {
+        "name": "Night Confessions",
+        "url": "https://open.spotify.com/album/1EgTyunx1m5h5wbRtFm1Qa"
+      },
+      "artists": [
+        {
+          "name": "Night Confessions",
+          "url": "https://open.spotify.com/show/1EgTyunx1m5h5wbRtFm1Qa"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2982526,
+      "name": "on met nos crit\u00e8res de dating \u00e0 la poubelle en 2025 ? w/ Louise BGN x Meetic",
+      "url": "https://open.spotify.com/episode/2VEf8JupnuwqQHbCqW6nZU"
     },
     {
       "album": {
@@ -1654,10 +1834,28 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3561639,
       "name": "Pierre Delahousse - \"Je mangeais la fourchette en bois\"",
       "url": "https://open.spotify.com/episode/1XQxu8J4s6svFGWilzPPNH"
+    },
+    {
+      "album": {
+        "name": "Alice Underground",
+        "url": "https://open.spotify.com/album/77YDTwkv6jCgP12DgNXXT9"
+      },
+      "artists": [
+        {
+          "name": "Alice Underground",
+          "url": "https://open.spotify.com/show/77YDTwkv6jCgP12DgNXXT9"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3756862,
+      "name": "Princess treatment, avec Ad\u00e8le Castillon ",
+      "url": "https://open.spotify.com/episode/31j5aCBdIWZjiIxrXZFQHa"
     },
     {
       "album": {
@@ -1672,7 +1870,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 2234758,
       "name": "QUEER - Jeanne Friot ",
       "url": "https://open.spotify.com/episode/0kcp5huCDXPHqscxT9Mwbk"
@@ -1690,7 +1888,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 2258902,
       "name": "Se faire boloss en amour",
       "url": "https://open.spotify.com/episode/1kDp07WITosfn1lBzZt1Kd"
@@ -1708,7 +1906,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 2048222,
       "name": "Simple connexion ou relation amoureuse? (ou tu te cr\u00e9e une connexion solo?)",
       "url": "https://open.spotify.com/episode/3WUiEOOIT1SKZZar0pVQp4"
@@ -1762,7 +1960,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 2099591,
       "name": "Tokyo :  voyage de r\u00eave ou d\u00e9sillusion ?",
       "url": "https://open.spotify.com/episode/1JadU3EvM0UBR0vQHSN4Ha"
@@ -1820,6 +2018,24 @@
       "duration_ms": 1257978,
       "name": "Tu pr\u00e9f\u00e8res tes potes ou ton mec ? (THIS OR THAT)",
       "url": "https://open.spotify.com/episode/2PYcWBynZk3TF5IiDuR6d9"
+    },
+    {
+      "album": {
+        "name": "RASKA",
+        "url": "https://open.spotify.com/album/5nqw0dPIKMYENZGfl584U5"
+      },
+      "artists": [
+        {
+          "name": "RASKA",
+          "url": "https://open.spotify.com/show/5nqw0dPIKMYENZGfl584U5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6373738,
+      "name": "Un r\u00e9veil compliqu\u00e9... avec Mastu, Th\u00e9odort & Hctuan (UN BOL DE NOSTALGIE)",
+      "url": "https://open.spotify.com/episode/57SK1jaS5wMu5BoVaRrEGb"
     },
     {
       "album": {
@@ -1960,7 +2176,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3956715,
       "name": "\u00abLe Club des ex\u00bb: le coup de c\u0153ur misandre d\u2019Ana\u00efs",
       "url": "https://open.spotify.com/episode/6Plbqxa4gg1qEr1c6P2ejc"
@@ -2014,7 +2230,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3027722,
       "name": "\u00abLolita malgr\u00e9 moi\u00bb: Ana\u00efs et Marie replongent dans les ann\u00e9es lyc\u00e9e",
       "url": "https://open.spotify.com/episode/0f6rLFWyTUZ8A6gVuFBPvX"
@@ -2050,7 +2266,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 3599203,
       "name": "\u00abPearl\u00bb: la psychopathe pr\u00e9f\u00e9r\u00e9e d'Ana\u00efs et Marie",
       "url": "https://open.spotify.com/episode/2NgcxgNT3GZ6OqiKQipMDv"
@@ -2158,7 +2374,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 583314,
       "name": "\u00e7a va pas, je fais quoi ? \"Mets-toi en mode cocon\"",
       "url": "https://open.spotify.com/episode/0JTzu3gUN03JWXcNrTW9xj"
@@ -2306,6 +2522,60 @@
       "duration_ms": 1115776,
       "name": "\u00c9pisode 47 : Ces 3 C\u00c9L\u00c9BRIT\u00c9S ont commis des ATROCIT\u00c9S... (3 histoires d'HORREUR)",
       "url": "https://open.spotify.com/episode/0HFIprgb2zdlFdCJMeZ870"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Regarder Apr\u00e8s Minuit, le podcast true crime",
+        "url": "https://open.spotify.com/album/2dZFd6cctNOEISNbO11eZh"
+      },
+      "artists": [
+        {
+          "name": "\u00c0 Regarder Apr\u00e8s Minuit, le podcast true crime",
+          "url": "https://open.spotify.com/show/2dZFd6cctNOEISNbO11eZh"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1458320,
+      "name": "\ud83c\uddf9\ud83c\udded Son mari dispara\u00eet dans la for\u00eat ",
+      "url": "https://open.spotify.com/episode/6WNxKfoYegpQgkcMK5xcao"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Regarder Apr\u00e8s Minuit, le podcast true crime",
+        "url": "https://open.spotify.com/album/2dZFd6cctNOEISNbO11eZh"
+      },
+      "artists": [
+        {
+          "name": "\u00c0 Regarder Apr\u00e8s Minuit, le podcast true crime",
+          "url": "https://open.spotify.com/show/2dZFd6cctNOEISNbO11eZh"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2339875,
+      "name": "\ud83c\uddfa\ud83c\uddf8 D\u00e9masqu\u00e9 par une pizza ! Le pire tueur en s\u00e9ries des USA",
+      "url": "https://open.spotify.com/episode/5nhvJeddXaynt0XKudDBQN"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Regarder Apr\u00e8s Minuit, le podcast true crime",
+        "url": "https://open.spotify.com/album/2dZFd6cctNOEISNbO11eZh"
+      },
+      "artists": [
+        {
+          "name": "\u00c0 Regarder Apr\u00e8s Minuit, le podcast true crime",
+          "url": "https://open.spotify.com/show/2dZFd6cctNOEISNbO11eZh"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2293600,
+      "name": "\ud83c\uddfa\ud83c\uddf8 Son beau-p\u00e8re cache un horrible secret",
+      "url": "https://open.spotify.com/episode/0ErervvyeOlYsAeNyBRSos"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA"

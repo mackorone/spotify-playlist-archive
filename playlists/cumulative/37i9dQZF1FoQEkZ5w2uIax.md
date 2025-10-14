@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1FoQEkZ5w2uIax.md) - cumulative - [plain](/playlists/plain/37i9dQZF1FoQEkZ5w2uIax) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1FoQEkZ5w2uIax)
 
-### [הכהן ארנון's Top Songs 2024](https://open.spotify.com/playlist/37i9dQZF1FoQEkZ5w2uIax)
+### [ארנון's Top Songs 2024](https://open.spotify.com/playlist/37i9dQZF1FoQEkZ5w2uIax)
 
 > The songs you played most in 2024.
 

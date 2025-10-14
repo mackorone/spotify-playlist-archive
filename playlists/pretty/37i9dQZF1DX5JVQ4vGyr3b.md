@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 
 > <a href="spotify:artist:3JkLFcTej6tdwZoQT6Nx4B">Seth Troxler</a>'s favorite tracks\. Updated regularly\. Curated by Seth Troxler\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 53 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,288 likes - 53 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 | 36 | [Get Off Your Phone!](https://open.spotify.com/track/4kUgwkf3YE07t0jy7Y0CDz) | [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw), [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Get Off Your Phone!](https://open.spotify.com/album/0eX8rTO6Kd3JTgslw0E6VA) | 3:22 |
 | 37 | [Finally \(feat\. Julie McKnight\) \- Mochakk, Jay Mariani & Cesar Nardini Remix](https://open.spotify.com/track/3U5J8mevZ8mRvx8JAI0491) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Julie McKnight](https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Cesar Nardini](https://open.spotify.com/artist/0a7dijn46vYeuOxZ31dH1R), [Jay Mariani](https://open.spotify.com/artist/0GnlGTrLudYoLF6hAXo3cM) | [Finally \(feat\. Julie McKnight\) \[Mochakk, Jay Mariani & Cesar Nardini Remix\]](https://open.spotify.com/album/71TM55nYtpLkIW5XbPFqgM) | 4:22 |
 | 38 | [Seshy Fodder](https://open.spotify.com/track/2NOfaoUyMBxdjKpICgogPr) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Seshy Fodder](https://open.spotify.com/album/3Ye84pfuDeRXPG1dHe7LWb) | 3:14 |
-| 39 | [Still My Baby](https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Still My Baby](https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn) | 3:11 |
+| 39 | [Still My Baby](https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Still My Baby](https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn) | 3:11 |
 | 40 | [One Last Hoochie](https://open.spotify.com/track/2hdq9LtTfwNmANdsNgGZwH) | [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d) | [One Last Hoochie](https://open.spotify.com/album/5XF3Tdz9YRcFb8ZgNDhUfF) | 3:57 |
 | 41 | [Let the Record Spin \- Stab Mix](https://open.spotify.com/track/3o9xyDPbtqIzLpWy4Snbwy) | [Screen II](https://open.spotify.com/artist/1Lc21NTQcJ28xbchkqgur5) | [Let the Record Spin](https://open.spotify.com/album/4Dap83lvydnEk9A7zhPK4N) | 6:16 |
 | 42 | [Mirage \- Jonny Rock Remix](https://open.spotify.com/track/4GPbaZay252qljdKu96B6C) | [Lost Souls Of Saturn](https://open.spotify.com/artist/4W1xGCd98eFxIyeSdb9k91), [Adam Ohr](https://open.spotify.com/artist/4QNQH8WqTBfxv3glk6GIZB), [Jonny Rock](https://open.spotify.com/artist/2ml0DeRBk846pFDiel8CoY) | [Reality Hacked](https://open.spotify.com/album/4QZCXoNwtrvKpedpo3wBvV) | 7:25 |

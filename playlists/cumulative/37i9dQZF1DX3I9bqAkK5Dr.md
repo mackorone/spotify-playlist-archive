@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
 
-415 songs - 1 day 0 hr 58 min
+416 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Namma Raa Nesthama](https://open.spotify.com/track/3sAzCBUjCfW5b3sPvFY6Uw) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv) | [Namma Raa Nesthama](https://open.spotify.com/album/7rmKWAVqfU3H5CoDx9657n) | 4:55 | 2024-07-29 |  |
 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 | 2024-03-26 | 2024-07-31 |
 | [Nanna](https://open.spotify.com/track/7kXi71MJ5Xja1zlIN5PzhZ) | [Thiru Vakkalanka](https://open.spotify.com/artist/1Jfep509KGV0j7lfzENtWk), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Rakesh Venkatapuram](https://open.spotify.com/artist/0ySVAlgEEqvaixvNc4uLHR), [Srirag Vadlakonda](https://open.spotify.com/artist/345nU7mkTHfA5mnCYnsain) | [Nanna](https://open.spotify.com/album/3eL5FMWu5bZe9DsWXamVWd) | 3:22 | 2024-11-25 | 2025-01-30 |
+| [Nannu Nenu](https://open.spotify.com/track/79jQYJOIkBZN1FNjRuhXhg) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Nannu Nenu](https://open.spotify.com/album/1hULEoHM0juEpDFyXJqpf5) | 4:12 | 2025-10-13 |  |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 | 2023-10-05 |
 | [Ne Kothaga](https://open.spotify.com/track/6gJY0TyLzecMHR4GHFHkCe) | [MS Rudra Kiran](https://open.spotify.com/artist/2TzLHm7rUooeTi6NIfbjm0), [Mounica Modali](https://open.spotify.com/artist/5iiqvn3toWXbNadpveiBeC), [Sudheshna Mokkapati](https://open.spotify.com/artist/6H0LSanfaEsTyNcs1pa1Pe), [Anirudh Sandilya](https://open.spotify.com/artist/0F4yayMRBTrHXljPrHYjFY) | [Ne Kothaga](https://open.spotify.com/album/5dnbnY8P63B9GGwqFyNsfU) | 3:06 | 2024-03-05 | 2024-10-11 |
 | [Nee Andamaina Madhi](https://open.spotify.com/track/4aknSFeZ47FevS9ehHnU9Y) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Nee Andamaina Madhi](https://open.spotify.com/album/0SQZ0QqKuKvbESmcAUlO76) | 4:29 | 2025-02-14 |  |
@@ -335,7 +336,7 @@
 | [Radhe Krishna Radhe](https://open.spotify.com/track/3gPcdtrU3nubU5QKdR54k8) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Radhe Krishna Radhe](https://open.spotify.com/album/0wb1P6iFh9Yf7LX90vmAM7) | 5:08 | 2024-11-11 | 2025-01-21 |
 | [Ramaya](https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/51ZV12M5Rwx88kZPCksKEs) | 3:35 | 2023-08-05 | 2024-04-19 |
 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 | 2023-08-05 | 2025-01-08 |
-| [Rampampam](https://open.spotify.com/track/7J89Jm5sDnNOd0g3IdyERU) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Rampampam](https://open.spotify.com/album/5YPZOufsOquGDt0J7JM6V8) | 2:10 | 2025-07-25 |  |
+| [Rampampam](https://open.spotify.com/track/7J89Jm5sDnNOd0g3IdyERU) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Rampampam](https://open.spotify.com/album/5YPZOufsOquGDt0J7JM6V8) | 2:10 | 2025-07-25 | 2025-10-14 |
 | [Rangu Rangu](https://open.spotify.com/track/56tIyvzxbnBCMuNZwspP6G) | [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Rangu Rangu](https://open.spotify.com/album/4m56NpoA6pkUh4IUwlsL4W) | 4:15 | 2025-09-15 |  |
 | [Rangula Sokka](https://open.spotify.com/track/0vcjKSNcHDH6HPvpqugZd9) | [Divya Maalika](https://open.spotify.com/artist/1MZtfuJZvq6yekHT6HXvSb) | [Rangula Sokka](https://open.spotify.com/album/6tFxYW2GCJktU8VFpdcp7n) | 3:24 | 2025-09-04 |  |
 | [Ready Go](https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Ready Go](https://open.spotify.com/album/28CSQfrblfjehPQWLVPwwq) | 2:49 | 2024-12-13 | 2025-01-30 |

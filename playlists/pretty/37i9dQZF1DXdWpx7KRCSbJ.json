@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 328776,
+  "num_followers": 328779,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 277125,
       "name": "Cheia de Manias - Ao Vivo",
       "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Laje 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 194631,
-      "name": "Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Laje 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 194631,
+      "name": "Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa"
     },
     {
       "added_at": "2023-01-17 01:33:36",

@@ -4,7 +4,7 @@
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-55 songs - 5 hr 44 min
+56 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,13 +42,14 @@
 | [Riot](https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 4:40 | 2025-10-06 |  |
 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 | 2025-07-20 |  |
 | [Safiatou \(feat\. Santana & Angélique Kidjo\)](https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:25 | 2025-07-20 |  |
+| [Sister Moon \(feat\. Sting\)](https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 6:54 | 2025-10-14 |  |
 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:15 | 2025-07-20 |  |
 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 | 2025-07-20 |  |
 | [St\. Louis Blues](https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:49 | 2025-07-20 |  |
 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 | 2025-07-20 |  |
 | [Stitched Up \(feat\. John Mayer\)](https://open.spotify.com/track/4Czqh0g9rGdkhXMyf2Yhbn) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:27 | 2025-07-20 |  |
 | [Sun Touch](https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 5:08 | 2025-07-20 |  |
-| [Survival Of The Fittest \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/2LaMFV3M42B69mYVy9qf0u) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 10:03 | 2025-08-15 |  |
+| [Survival Of The Fittest \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/2LaMFV3M42B69mYVy9qf0u) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 10:03 | 2025-08-15 | 2025-10-14 |
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:01 | 2025-07-20 |  |
 | [Tempo de Amor](https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 4:43 | 2025-07-20 |  |
 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:38 | 2025-07-20 |  |

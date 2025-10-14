@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 18 hr 47 min
+180 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Prepare the Way \- Live](https://open.spotify.com/track/1jt1m3be7XWV5LYoCFkfTV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 5:21 | 2024-06-11 | 2024-07-14 |
 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 | 2024-06-11 |  |
 | [Put on Love \(feat\. Nate Moore & Osby Berry\)](https://open.spotify.com/track/0fXc5sbtiPEx8yCKWraxCh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 10:00 | 2024-06-11 |  |
+| [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 | 2025-10-13 |  |
 | [Ravished](https://open.spotify.com/track/0gOwvS7w9BFNBoTRefI63b) | [Ultimate Call](https://open.spotify.com/artist/7B8LXcfrwtR8RQSCWzZvn1), [Jesse Cline](https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4), [Ashley Brison](https://open.spotify.com/artist/2QMek8qpETR7ZMBggloXK8) | [Breathe](https://open.spotify.com/album/142bg9yEm9VVD0l4jVnTDv) | 6:15 | 2024-06-11 |  |
 | [real kind of love](https://open.spotify.com/track/3oufQfxtm0Kpos3oRzJv7f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:49 | 2024-07-12 |  |
 | [real kind of love](https://open.spotify.com/track/6Nu8k5K4fdWoHMxqSB29oE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:49 | 2024-06-11 | 2024-07-13 |

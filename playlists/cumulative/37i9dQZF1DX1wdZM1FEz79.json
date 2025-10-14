@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "A Moment",
+        "url": "https://open.spotify.com/album/4mtWqybpYoXvH4JiFNCZSw"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "maji",
+          "url": "https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "A Moment",
+      "url": "https://open.spotify.com/track/26meVuaD3L1KfN3LIxmG35"
+    },
+    {
+      "album": {
         "name": "Inside Wants",
         "url": "https://open.spotify.com/album/0cDik2Nwe51IZJQ632gDmP"
       },
@@ -5389,6 +5411,28 @@
     },
     {
       "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/6c1ilhD7EFlRsxlN5NV09M"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "Naive",
+          "url": "https://open.spotify.com/artist/1b2tnewS90sAeuYNbBsAPi"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138397,
+      "name": "love",
+      "url": "https://open.spotify.com/track/3EBQWpqJIB4wQolY1lbPri"
+    },
+    {
+      "album": {
         "name": "Love as much as you can",
         "url": "https://open.spotify.com/album/4E1EiIC42wfeuxeei2u7GF"
       },
@@ -5418,7 +5462,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 142909,
       "name": "Love Game\u2764\ufe0f",
       "url": "https://open.spotify.com/track/7qN4XytpczA1ndx5q050Kp"
@@ -6682,6 +6726,24 @@
       "duration_ms": 193333,
       "name": "Only You (My love X CHEEZE)",
       "url": "https://open.spotify.com/track/5PR7KeW3YOmGYVQcfMGyln"
+    },
+    {
+      "album": {
+        "name": "Only you can",
+        "url": "https://open.spotify.com/album/1ti2YfJzmugX8JEl5r1f6x"
+      },
+      "artists": [
+        {
+          "name": "Yeji (GyeongseoYeji)",
+          "url": "https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212244,
+      "name": "Only you can",
+      "url": "https://open.spotify.com/track/30YqTJfYT1K5ZtsjCui2co"
     },
     {
       "album": {
@@ -10008,7 +10070,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 205913,
       "name": "We, the young",
       "url": "https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J"
@@ -10554,7 +10616,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 167000,
       "name": "Worry Monster",
       "url": "https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT"

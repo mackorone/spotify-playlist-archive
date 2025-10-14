@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: De Saloon
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,707 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,711 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 4 | [El Duelo](https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Duelo](https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg) | 5:55 |
 | 5 | [Claroscuro](https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Claroscuro](https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn) | 3:17 |
 | 6 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 |
-| 7 | [Te amodio](https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Te Amodio](https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes) | 3:14 |
+| 7 | [Allí Va](https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Allí Va](https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9) | 2:33 |
 | 8 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
-| 9 | [Allí Va](https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Allí Va](https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9) | 2:33 |
+| 9 | [Te amodio](https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Te Amodio](https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes) | 3:14 |
 | 10 | [La Torre de Babel \(Revuelta en vivo\)](https://open.spotify.com/track/4PRLV1XqwcU8hlbix9UB9f) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 3:30 |
 | 11 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
 | 12 | [Mariposa Peregrina](https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Mariposa Peregrina](https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1) | 4:18 |

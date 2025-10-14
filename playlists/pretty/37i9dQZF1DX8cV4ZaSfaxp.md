@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,582 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,596 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 60 | [5min to heartbreak](https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [5min to heartbreak](https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa) | 3:20 |
 | 61 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
 | 62 | [Line](https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Lonely](https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603) | 3:54 |
-| 63 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
-| 64 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
+| 63 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
+| 64 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
 | 65 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 |
 | 66 | [You always \- Digging Club Seoul Ver.](https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Onstage Digging Club Seoul Part.05](https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d) | 4:54 |
-| 67 | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 |
-| 68 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 |
+| 67 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 |
+| 68 | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 |
 | 69 | [Here, This Moment](https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0) | [ARTLOVEU](https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO) | [Here, This Moment](https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl) | 3:46 |
 | 70 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 71 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 87 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
 | 88 | [Memories of Summer](https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 4:43 |
 | 89 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 |
-| 90 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 91 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 |
+| 90 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 |
+| 91 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
 | 92 | [Sign](https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 |
 | 93 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 |
 | 94 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 97 | [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 |
 | 98 | [City Breeze & Love Song](https://open.spotify.com/track/0GpGnPA4HhHclOTN81FPKZ) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [City Breeze & Love Song](https://open.spotify.com/album/7y9Th3xuGgoqdulKiAiEZ4) | 3:40 |
 | 99 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 |
-| 100 | [Asteroid](https://open.spotify.com/track/6mQ30ewPGJlJpex3sawe3h) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:35 |
+| 100 | [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 |
 
 Snapshot ID: `AAAAAPfKMN3DZ+/Tj7B3j1V83msI1wAU`

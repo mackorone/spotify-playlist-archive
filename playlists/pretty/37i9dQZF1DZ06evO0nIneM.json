@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92142,
+  "num_followers": 92151,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACYjBdgRNWJX9GXJHc0D1AW",
+  "snapshot_id": "aOrvgAAAAACOBQv3w1E+UD2Fc9ppT/5M",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Helder (inclusief Live Bonus Tracks)",
+        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Liefs Uit Londen",
+      "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 223266,
       "name": "Zoutelande (feat. Geike)",
       "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Helder (inclusief Live Bonus Tracks)",
-        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Liefs Uit Londen",
-      "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zo Van Ah Yeah",
         "url": "https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 212774,
       "name": "Mannenharten",
       "url": "https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Dichterbij Dan Ooit",
-      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oktober",
-        "url": "https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0"
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 280613,
-      "name": "Vallende Engel",
-      "url": "https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1"
+      "duration_ms": 263080,
+      "name": "Zachtjes Zingen",
+      "url": "https://open.spotify.com/track/1NXfPvlNg4kuJCgGWYH0Ct"
     }
   ],
   "unique_name": "This Is BL\u00d8F",

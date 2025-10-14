@@ -3175,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "Crazily",
+        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Crazily",
+      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "album": {
         "name": "For The Love of R&B Vol 1",
         "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
       },
@@ -7926,7 +7948,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 156320,
       "name": "Must Have Been",
       "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"

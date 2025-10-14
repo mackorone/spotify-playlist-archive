@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173673,
+  "num_followers": 173676,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAC0vxDiK5qEDujn8kMBNDhL",
+  "snapshot_id": "aOrvgAAAAADEIoOMnl2UsmzP9FShHq9G",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 272640,
       "name": "Holding On to You",
       "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
     },
     {
       "added_at": null,
@@ -971,22 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Shitty Day",
-        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
       "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 264456,
-      "name": "Hello Shitty Day",
-      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+      "duration_ms": 187573,
+      "name": "Crazy Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
     },
     {
       "added_at": null,
@@ -1007,18 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+        "name": "Hello Shitty Day",
+        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
       },
       "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Crazy Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
+      "duration_ms": 264456,
+      "name": "Hello Shitty Day",
+      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Jorge Drexler.",
-  "num_followers": 345302,
+  "num_followers": 345331,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-09-18 22:00:16",
       "album": {
-        "name": "Con Derecho A...",
-        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
-    },
-    {
-      "added_at": "2025-09-18 22:00:16",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 152906,
       "name": "Yo no soy esa",
       "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+    },
+    {
+      "added_at": "2025-09-18 22:00:16",
+      "album": {
+        "name": "Con Derecho A...",
+        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
     },
     {
       "added_at": "2025-09-18 22:00:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-09-18 22:00:16",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
-    },
-    {
-      "added_at": "2025-09-18 22:00:16",
-      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 242000,
       "name": "Siete Vidas",
       "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+    },
+    {
+      "added_at": "2025-09-18 22:00:16",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2025-09-18 22:00:16",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2025-09-18 22:00:16",
       "album": {
-        "name": "La Vida Plena",
-        "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
+        "name": "Quererte",
+        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
       },
       "artists": [
         {
           "name": "Pedro Pastor",
           "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Verde Selva",
-      "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
+      "duration_ms": 181825,
+      "name": "Quererte",
+      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
     },
     {
       "added_at": "2025-09-18 22:00:16",
@@ -1467,6 +1471,38 @@
     {
       "added_at": "2025-09-18 22:00:16",
       "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
+    },
+    {
+      "added_at": "2025-09-18 22:00:16",
+      "album": {
+        "name": "La Vida Plena",
+        "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Verde Selva",
+      "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
+    },
+    {
+      "added_at": "2025-09-18 22:00:16",
+      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1483,42 +1519,6 @@
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
-    },
-    {
-      "added_at": "2025-09-18 22:00:16",
-      "album": {
-        "name": "Quererte",
-        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 181825,
-      "name": "Quererte",
-      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
-    },
-    {
-      "added_at": "2025-09-18 22:00:16",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2025-09-18 22:00:16",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2025-09-18 22:00:16",
       "album": {
-        "name": "Ajuste de cuentas",
-        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
       "artists": [
         {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
         }
       ],
-      "duration_ms": 280053,
-      "name": "Salitre",
-      "url": "https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL"
+      "duration_ms": 232080,
+      "name": "Mar\u00eda la portuguesa",
+      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     }
   ],
   "unique_name": "Cantautores",

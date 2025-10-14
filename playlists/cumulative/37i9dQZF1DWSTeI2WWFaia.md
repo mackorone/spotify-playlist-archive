@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-857 songs - 1 day 21 hr 54 min
+858 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 | 2025-06-20 | 2025-08-14 |
 | [Ninja Man](https://open.spotify.com/track/4awPetsjwNcrZRd1chwI4o) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Slant Face Killah](https://open.spotify.com/album/0yWMIfdeeQntE7kssx1BwZ) | 4:24 | 2024-05-10 | 2024-05-18 |
 | [No Bad News \(feat\. Kanye West\)](https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:32 | 2024-11-15 | 2024-11-19 |
+| [No Blemishes](https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [No Blemishes](https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX) | 2:46 | 2025-10-10 |  |
 | [No Cap](https://open.spotify.com/track/2O3x6oRhme4sQ1wlBguP9k) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [Cold Water](https://open.spotify.com/album/6u66sAgu3xFfKhQpBr4dSu) | 1:20 | 2021-09-03 | 2022-03-08 |
 | [No Explanation](https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [The Light Pack](https://open.spotify.com/album/14EzA7MWoKYPjzjeT4gtj3) | 3:24 | 2021-09-03 | 2022-07-27 |
 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 | 2024-05-10 | 2025-02-08 |
@@ -640,7 +641,7 @@
 | [Runway](https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Runway](https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV) | 3:06 | 2023-08-04 | 2023-12-27 |
 | [Rushmore Pack](https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:52 | 2022-06-24 | 2022-10-28 |
 | [Said It Freestyle](https://open.spotify.com/track/7BoCBEhYkyVHIsehWRvyM3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Said It Freestyle](https://open.spotify.com/album/4QS4ozuXb01Z1hCEWZBaGQ) | 2:35 | 2023-12-22 | 2024-01-10 |
-| [Sake](https://open.spotify.com/track/11Rny6gcS3koCDu6gKqd6h) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Sake](https://open.spotify.com/album/6iBmxRTG2X3MmeeyvfA06X) | 2:56 | 2025-09-19 |  |
+| [Sake](https://open.spotify.com/track/11Rny6gcS3koCDu6gKqd6h) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Sake](https://open.spotify.com/album/6iBmxRTG2X3MmeeyvfA06X) | 2:56 | 2025-09-19 | 2025-10-14 |
 | [Same Game Parlay](https://open.spotify.com/track/1vbUf11M5Ydd6mqN8AIEoA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Nym Lo](https://open.spotify.com/artist/40VsC68IfRE86qiiBNzOQA), [183rd](https://open.spotify.com/artist/2PU67SsrdFSocujY6bNOnq) | [Driplomatic Immunity](https://open.spotify.com/album/5ZDtqNLeMbVUzQqPrZ4CPn) | 3:10 | 2022-03-18 | 2022-06-29 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 | 2025-02-08 |
 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:22 | 2024-07-26 | 2025-07-30 |

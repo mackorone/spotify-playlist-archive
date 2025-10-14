@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Renao 🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,133 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,105 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

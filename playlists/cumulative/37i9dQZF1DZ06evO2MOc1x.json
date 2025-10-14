@@ -844,7 +844,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 271133,
-      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
+      "name": "I\u2019m In The Mood - feat. Bonnie Raitt",
       "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
     },
     {
@@ -908,6 +908,28 @@
       "duration_ms": 283160,
       "name": "Kisses Sweeter than Wine",
       "url": "https://open.spotify.com/track/4cOOdma7wXLkuFomD0dyiC"
+    },
+    {
+      "album": {
+        "name": "Knuckles",
+        "url": "https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254688,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl"
     },
     {
       "album": {
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 217933,
       "name": "Silver Lining - Radio Edit",
       "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"

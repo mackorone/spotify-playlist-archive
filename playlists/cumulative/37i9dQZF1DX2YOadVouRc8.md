@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-684 songs - 1 day 9 hr 8 min
+685 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 | 2022-11-04 | 2023-05-12 |
 | [Corny](https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Corny](https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP) | 2:54 | 2025-07-18 |  |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2023-04-15 |
+| [Crazily](https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Crazily](https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k) | 2:29 | 2025-10-10 |  |
 | [CRAZY](https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [EAST KISS](https://open.spotify.com/artist/2cPSokmCvfZskC180zAoZr) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:50 | 2024-10-04 | 2025-02-14 |
 | [CRAZY SEXY PERFECT GIRLS](https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:56 | 2024-06-21 | 2024-07-06 |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2022-06-09 | 2023-12-02 |
@@ -389,7 +390,7 @@
 | [Mr Man](https://open.spotify.com/track/5aq1iP7AN5pwlhrDLR3n12) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Mr Man](https://open.spotify.com/album/5uNhlQ3rHyBtol9FNG8nSd) | 2:40 | 2024-05-10 | 2024-05-17 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 | 2023-09-29 |
 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 |  |
-| [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 | 2025-03-07 |  |
+| [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 | 2025-03-07 | 2025-10-14 |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 |  |
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 | 2024-11-22 |
 | [My Lover](https://open.spotify.com/track/1blEpIJSU20zH1u14FxT6X) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [My Lover](https://open.spotify.com/album/40JF3vzsvMac08TpFx1JEs) | 2:52 | 2023-10-13 | 2023-11-07 |

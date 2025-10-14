@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 375822,
+  "num_followers": 375970,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADwydtdy0ZpHpQ4hhwDcjsR",
+  "snapshot_id": "aOrvgAAAAABqwQxeJHp9bKo4pW3yX5gc",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarah's Place (feat. Noah Kahan)",
-        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
       },
       "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 214056,
-      "name": "Sarah's Place (feat. Noah Kahan)",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+      "duration_ms": 196201,
+      "name": "Glue Myself Shut",
+      "url": "https://open.spotify.com/track/67q8yivDoOPXCYodi1zTix"
     },
     {
       "added_at": null,
@@ -199,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
       "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 196201,
-      "name": "Glue Myself Shut",
-      "url": "https://open.spotify.com/track/67q8yivDoOPXCYodi1zTix"
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "added_at": null,

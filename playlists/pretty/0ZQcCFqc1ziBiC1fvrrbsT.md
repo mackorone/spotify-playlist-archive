@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,635 likes - 27 songs - 1 hr 38 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,637 likes - 27 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 2 | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/track/5q0tJ1BEqV4L31UCYfeR51) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/album/6Moc4edBRZlrFRZ0soH6pI) | 3:20 |
 | 3 | [Past Lives \- feat\. Hayley Williams](https://open.spotify.com/track/5n5E4eStGbJVv8VjUS489y) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Past Lives](https://open.spotify.com/album/4A2qfsnUpWJdmURCyndm4I) | 2:57 |
 | 4 | [Well, Whatever It Was](https://open.spotify.com/track/6vnNJbgUbg8h0qkZO2FC4L) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Well, Whatever It Was](https://open.spotify.com/album/5EyWznLP7jy3ZIiu1kJu2Q) | 2:06 |
-| 5 | [Up \- with Rag'n'Bone Man](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Up \(with Rag'n'Bone Man\)](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 5 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
 | 6 | [Look At Me](https://open.spotify.com/track/11tgUnjEplornJ2M1WmdRb) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Look At Me](https://open.spotify.com/album/1P7DsZhI9xbsGgmUrMcT8F) | 3:29 |
 | 7 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 |
 | 8 | [The Best Tears of Your Life \- FDC DJs Remix](https://open.spotify.com/track/39x8gkhO3uu37B6fPLESDb) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [The Best Tears Of Your Life \(FDC DJs Remix\)](https://open.spotify.com/album/3yTrVKxKpC2rBWhO6RDp56) | 3:29 |

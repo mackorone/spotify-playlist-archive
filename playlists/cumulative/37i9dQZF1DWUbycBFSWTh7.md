@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-596 songs - 2 day 8 hr 5 min
+597 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [I Got You](https://open.spotify.com/track/6xVaNpZjZndaOH2vTcYQGh) | [\-12dB](https://open.spotify.com/artist/2VsVvrbpwjVRDAdnVZe8aM) | [I Got You / Don't Let Me Go](https://open.spotify.com/album/05RYyZNMhJuQbOwHctyypY) | 7:03 | 2025-01-25 | 2025-05-26 |
 | [I Miss Your Love \- Rocco Rodamaal Underground Mix](https://open.spotify.com/track/7u4jOIY9AthTsZyhYOMrbk) | [Timothée Milton](https://open.spotify.com/artist/4Qi64bmnT9ASAMQCZKmCex), [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l) | [I Miss Your Love](https://open.spotify.com/album/1aGrSRze7xaqdcaXwXbQga) | 5:29 | 2025-04-16 |  |
 | [I Promise](https://open.spotify.com/track/1wS9h2lHLwGwQU82aYHHdf) | [Johnny Malek](https://open.spotify.com/artist/2IYCac2h0HakHmsYTcEnzZ) | [I Promise](https://open.spotify.com/album/0Nnq6afr8c01kXKHiIUka4) | 8:16 | 2024-02-01 | 2024-10-15 |
+| [I Speak Soul \- Original Mix](https://open.spotify.com/track/7nTa7zddCH84KrX4tlqn3A) | [El Bravo](https://open.spotify.com/artist/7nvFlRYeaBwJ69jRFj6rLJ) | [I Speak Soul](https://open.spotify.com/album/2gbVktHgullxhS7axjv75j) | 7:26 | 2025-10-13 |  |
 | [I Think It's Ok \- Oscap P Dub Remix](https://open.spotify.com/track/4pqSNd7O3VGAXHaqwGbt6J) | [Mo'Cream](https://open.spotify.com/artist/0nCPA6DdymwcXNZ2jMmYEe), [Oscar P](https://open.spotify.com/artist/0xTeZAfTc5DpUeLXw0SBlN) | [I Think It's Ok \(Oscar P Remix\)](https://open.spotify.com/album/6Hzo88Hpr5Ea266RTI4M2R) | 6:07 | 2024-12-20 | 2025-02-15 |
 | [I Wanna Turn \- Dirtytwo Remix](https://open.spotify.com/track/4PXPbZEkaQDNZFlyr8Khv4) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL), [Dirtytwo](https://open.spotify.com/artist/7CVxeOQgRk6nROT4nkHhAi) | [I Wanna Turn \(Remixes Part Three\)](https://open.spotify.com/album/2EwDKodAoNZLCru93npEXw) | 5:48 | 2025-04-16 | 2025-08-31 |
 | [I Want You](https://open.spotify.com/track/3YgdZr9gAMFJkT1gFVjo0E) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [I Want You](https://open.spotify.com/album/2zpRcPaOdQf2iLUt5dZjf8) | 3:36 | 2025-05-25 |  |
@@ -486,7 +487,7 @@
 | [The Bang](https://open.spotify.com/track/3rrFrL5DP2VCW95bAs3xWT) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [PIV ADE Sampler '21, Pt\. 1](https://open.spotify.com/album/76J8TgiOYrMzM4vVucMK9O) | 5:05 | 2022-09-15 | 2023-04-09 |
 | [The City \- Luis Radio Remix](https://open.spotify.com/track/5Zv58Dkvb4Q5Q4ANTIC92v) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG), [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS) | [The City \(Inc Luis Radio Remix\)](https://open.spotify.com/album/6EMRu1JNwMXm3BXO3Pe2Ry) | 5:22 | 2024-10-23 | 2025-05-26 |
 | [The Compass Jawn \- Studio Version](https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5) | [Charlie Soul Clap](https://open.spotify.com/artist/4R1FbGcLzUd1poeNQXIb8o), [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [The Compass Jawn](https://open.spotify.com/album/3GRkliKarE23yqJyW1aBky) | 6:04 | 2022-10-20 | 2023-10-13 |
-| [The Deejay's An Alien \- Manoo & François A Alien Invasion Dub](https://open.spotify.com/track/4fEzxMUoQ3eulBfNMaWRNk) | [David Harness](https://open.spotify.com/artist/4tuWqTLs5xin97nbNcVHV6), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Manoo & François A](https://open.spotify.com/artist/3Xzuh8k0LyiAo60NxmuuBk) | [Manoo vs Papa](https://open.spotify.com/album/4xmEysp2YQC7XPxoHrheVl) | 5:56 | 2025-01-25 |  |
+| [The Deejay's An Alien \- Manoo & François A Alien Invasion Dub](https://open.spotify.com/track/4fEzxMUoQ3eulBfNMaWRNk) | [David Harness](https://open.spotify.com/artist/4tuWqTLs5xin97nbNcVHV6), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Manoo & François A](https://open.spotify.com/artist/3Xzuh8k0LyiAo60NxmuuBk) | [Manoo vs Papa](https://open.spotify.com/album/4xmEysp2YQC7XPxoHrheVl) | 5:56 | 2025-01-25 | 2025-10-14 |
 | [The Drive](https://open.spotify.com/track/7MoBv9xp5Suw2GIwL04qi3) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 9:14 | 2025-04-16 |  |
 | [The Feeling](https://open.spotify.com/track/3d2O7F9OR0mAWaTa8YTEuL) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [The Feeling](https://open.spotify.com/album/1NP9SrKIIHG903WKGYxYz0) | 5:21 | 2024-08-30 | 2025-02-08 |
 | [The Flow \- Cee ElAssaad VooDoo mix](https://open.spotify.com/track/0udBUmXNg1fdrM7NZa7y8f) | [Anthony K.](https://open.spotify.com/artist/352DOSeZnjTMXlXmLVk3kt), [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH) | [The Flow \(Cee ElAssaad VooDoo mix\)](https://open.spotify.com/album/35gh1ftT7aLf2nyJmwpu3l) | 6:55 | 2024-03-21 | 2024-09-26 |

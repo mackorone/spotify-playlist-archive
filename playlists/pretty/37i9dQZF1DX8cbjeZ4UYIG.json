@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 350235,
+  "num_followers": 350279,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
+        "name": "The Best of Impact Mixed By Slipmatt",
+        "url": "https://open.spotify.com/album/3izM4uFu9nBTD3A5qJDQhx"
+      },
+      "artists": [
+        {
+          "name": "DJ Seduction",
+          "url": "https://open.spotify.com/artist/3QCLS2hkq3jpkJuPmJZHyD"
+        }
+      ],
+      "duration_ms": 286029,
+      "name": "Samplemania",
+      "url": "https://open.spotify.com/track/6J1en9RZriRTeTfVfzv2Ba"
+    },
+    {
+      "added_at": "2024-03-22 16:20:43",
+      "album": {
         "name": "LFO",
         "url": "https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 319266,
       "name": "LFO",
       "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
-    },
-    {
-      "added_at": "2024-03-22 16:20:43",
-      "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
-      },
-      "artists": [
-        {
-          "name": "Baby D",
-          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "Let Me Be Your Fantasy",
-      "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
     }
   ],
   "unique_name": "Rave Classics",

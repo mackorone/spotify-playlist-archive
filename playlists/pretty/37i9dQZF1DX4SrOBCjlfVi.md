@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, G Herbo, PLUTO and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,873 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,941 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [UHHH](https://open.spotify.com/track/2dZxA09hVAbFrxYfqCvO5C) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [UHHH](https://open.spotify.com/album/72ojllNQTyYv7l1RjLZamf) | 3:00 |
 | 27 | [No Blemishes](https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [No Blemishes](https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX) | 2:46 |
 | 28 | [DRE & SIDNEY](https://open.spotify.com/track/6hRkR1XWoszUc9QSlnHMvp) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [SWEATA](https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [DRE & SIDNEY](https://open.spotify.com/album/14zr9swM3mylaPJPYDdnoB) | 3:18 |
-| 29 | [Up \- with Rag'n'Bone Man](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Up \(with Rag'n'Bone Man\)](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 29 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
 | 30 | [Demon](https://open.spotify.com/track/4zrjBY5C4CFi7o68MjvvoR) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Demon](https://open.spotify.com/album/3iRirM5MqdvOMzUjaIdJKJ) | 2:16 |
 | 31 | [Deebo](https://open.spotify.com/track/30MRJRO0n0cuIbuVRXy9FB) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [Deebo](https://open.spotify.com/album/5KaFNuol8TcyLkMmR1RT5b) | 2:55 |
 | 32 | [Birthday Song](https://open.spotify.com/track/0EYxyrd25CGUaqTb1KjFzC) | [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ) | [Birthday Song](https://open.spotify.com/album/62IvQ3Gxg0uoAQYHM561Ds) | 1:55 |

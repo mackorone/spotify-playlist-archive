@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235491,
+  "num_followers": 235493,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAAC/IaecZocAj//29wnM5Sse",
+  "snapshot_id": "aOrvgAAAAADQwrLYFFiItkfjF6GKmjVV",
   "tracks": [
     {
       "added_at": null,
@@ -475,38 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaprichosa",
-        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Kaprichosa",
-      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "TENEMOS QUE HABLAR",
-      "url": "https://open.spotify.com/track/7yhKchyWUfVj4BGM7yhjX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
       },
@@ -531,6 +499,38 @@
       "duration_ms": 194120,
       "name": "Mi sue\u00f1o ideal",
       "url": "https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "TENEMOS QUE HABLAR",
+      "url": "https://open.spotify.com/track/7yhKchyWUfVj4BGM7yhjX7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaprichosa",
+        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Kaprichosa",
+      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 39767,
+  "num_followers": 39771,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,58 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
+      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
@@ -467,58 +519,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 95360,
-      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
-      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Paolo Montarsolo",
-          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
-      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: Il Barbiere di Siviglia",
         "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
       },
@@ -539,6 +539,50 @@
       "duration_ms": 184840,
       "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
       "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Teresa Berganza",
+          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "Renato Capecchi",
+          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
+        },
+        {
+          "name": "Luigi Alva",
+          "url": "https://open.spotify.com/artist/3VvEDwzCTkx6W7yeTR3rua"
+        },
+        {
+          "name": "Ugo Trama",
+          "url": "https://open.spotify.com/artist/17f4FPa0a2tg1zbCyA0iQE"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 670826,
+      "name": "La Cenerentola, Act I: Quintet. Signore, una parola \u2013 Qui nel mio codice \u2013 Nel volto",
+      "url": "https://open.spotify.com/track/3yJXZF4JDrUBpiQ8EWr2wP"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -599,90 +643,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
-        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Teresa Berganza",
-          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
-        },
-        {
-          "name": "Paolo Montarsolo",
-          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
-        },
-        {
-          "name": "Renato Capecchi",
-          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
-        },
-        {
-          "name": "Luigi Alva",
-          "url": "https://open.spotify.com/artist/3VvEDwzCTkx6W7yeTR3rua"
-        },
-        {
-          "name": "Ugo Trama",
-          "url": "https://open.spotify.com/artist/17f4FPa0a2tg1zbCyA0iQE"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 670826,
-      "name": "La Cenerentola, Act I: Quintet. Signore, una parola \u2013 Qui nel mio codice \u2013 Nel volto",
-      "url": "https://open.spotify.com/track/3yJXZF4JDrUBpiQ8EWr2wP"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: Colbran, the Muse (opera arias)",
-        "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Joyce DiDonato",
-          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Edoardo Muller",
-          "url": "https://open.spotify.com/artist/1K8gYvtTdso9hstdex4Hjz"
-        },
-        {
-          "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
-        },
-        {
-          "name": "Lawrence Brownlee",
-          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
-        },
-        {
-          "name": "Corrado Amici",
-          "url": "https://open.spotify.com/artist/1Y1TGPljBozf1MUfvE9Jw4"
-        }
-      ],
-      "duration_ms": 273186,
-      "name": "Rossini: Armida, Act 3 Scene 10: \"Dove son io? \u2026 Fuggi\" (Armida)",
-      "url": "https://open.spotify.com/track/2AuwPusyIhgNwRed55uup4"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -727,8 +687,8 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
+        "name": "Rossini: Colbran, the Muse (opera arias)",
+        "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
       },
       "artists": [
         {
@@ -736,21 +696,33 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Edoardo Muller",
+          "url": "https://open.spotify.com/artist/1K8gYvtTdso9hstdex4Hjz"
+        },
+        {
+          "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
         },
         {
           "name": "Lawrence Brownlee",
           "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
         },
         {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+          "name": "Corrado Amici",
+          "url": "https://open.spotify.com/artist/1Y1TGPljBozf1MUfvE9Jw4"
         }
       ],
-      "duration_ms": 376626,
-      "name": "Rossini: Stabat Mater: II. Cujus animam gementem",
-      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
+      "duration_ms": 273186,
+      "name": "Rossini: Armida, Act 3 Scene 10: \"Dove son io? \u2026 Fuggi\" (Armida)",
+      "url": "https://open.spotify.com/track/2AuwPusyIhgNwRed55uup4"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -784,7 +756,7 @@
       "added_at": "2025-09-15 14:00:16",
       "album": {
         "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
       },
       "artists": [
         {
@@ -792,25 +764,21 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
         },
         {
-          "name": "Rosa Feola",
-          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
         },
         {
-          "name": "Gerhild Romberger",
-          "url": "https://open.spotify.com/artist/0mb9VsFi4Q02ZyCeI5VJfr"
-        },
-        {
-          "name": "Munich Radio Orchestra",
-          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         }
       ],
-      "duration_ms": 356653,
-      "name": "Stabat Mater: III. Quis est homo (Duet)",
-      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
+      "duration_ms": 376626,
+      "name": "Rossini: Stabat Mater: II. Cujus animam gementem",
+      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -863,6 +831,38 @@
       "duration_ms": 499626,
       "name": "Variazzioni di clarinetto in C Major",
       "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        },
+        {
+          "name": "Rosa Feola",
+          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
+        },
+        {
+          "name": "Gerhild Romberger",
+          "url": "https://open.spotify.com/artist/0mb9VsFi4Q02ZyCeI5VJfr"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        }
+      ],
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -975,38 +975,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
-        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Evelyne Razimowsky",
-          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
-        },
-        {
-          "name": "Michel Piquemal",
-          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
-        },
-        {
-          "name": "Jean-Claude Pennetier",
-          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
-        },
-        {
-          "name": "Ensemble Vocal Michel Piquemal",
-          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Duetto buffo di due gatti",
-      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 137733,
       "name": "La Cenerentola / Act 2: Temporale",
       "url": "https://open.spotify.com/track/2cDk0buBUvgDy0N87SNaNC"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
+        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Evelyne Razimowsky",
+          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
+        },
+        {
+          "name": "Michel Piquemal",
+          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
+        },
+        {
+          "name": "Jean-Claude Pennetier",
+          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
+        },
+        {
+          "name": "Ensemble Vocal Michel Piquemal",
+          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Duetto buffo di due gatti",
+      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
     },
     {
       "added_at": "2025-09-15 14:00:16",

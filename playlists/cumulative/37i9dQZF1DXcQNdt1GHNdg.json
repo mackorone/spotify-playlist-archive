@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 172309,
       "name": "I'm So Rich (Feat. Nora Fatehi)",
       "url": "https://open.spotify.com/track/6DLu7Xxa4ZoBHsvoqjC0HT"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 193263,
       "name": "I'ma Do My Thiiing",
       "url": "https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm"
@@ -4819,6 +4819,28 @@
     },
     {
       "album": {
+        "name": "The Simpsons",
+        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158097,
+      "name": "Ranjhea",
+      "url": "https://open.spotify.com/track/0XzQsVLirMJgbQXXc1mPYb"
+    },
+    {
+      "album": {
         "name": "Jordan Sandhu Hits",
         "url": "https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq"
       },
@@ -6004,6 +6026,28 @@
       "duration_ms": 195360,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
+    },
+    {
+      "album": {
+        "name": "The Simpsons",
+        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200258,
+      "name": "Tutor",
+      "url": "https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ"
     },
     {
       "album": {

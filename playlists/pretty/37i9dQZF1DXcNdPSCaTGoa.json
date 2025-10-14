@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 94350,
+  "num_followers": 94398,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Evo Mix",
+        "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
         }
       ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+      "duration_ms": 295813,
+      "name": "Khona",
+      "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
     }
   ],
   "unique_name": "SA Gold",

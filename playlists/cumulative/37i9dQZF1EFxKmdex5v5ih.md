@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-534 songs - 1 day 5 hr 23 min
+535 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Fida Known](https://open.spotify.com/track/6YArufs2SI9FnHJjoZiIIf) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Fida Known](https://open.spotify.com/album/5qkINobRruMEoL2NrNJe8P) | 3:17 | 2025-02-09 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-27 | 2023-03-13 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-12 | 2023-12-14 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 |  |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 | 2025-10-14 |
 | [Flowers](https://open.spotify.com/track/792wj4fbYgH66u8khzAUSj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Official Video\)](https://open.spotify.com/album/7ljVAiH4UToMeJFUmDHJ9K) | 3:21 | 2023-12-13 | 2024-02-02 |
 | [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 | 2024-05-24 |  |
 | [Folding My Patience](https://open.spotify.com/track/6PuZ4DVTekcM0wKILrWipL) | [Slaus Brown\-Paul](https://open.spotify.com/artist/1IUVqwmQS72YFtn2q93Nx5), [Shon Howard](https://open.spotify.com/artist/1JQK2oRQY4YYXM0qhz5ECD), [Tony Medina](https://open.spotify.com/artist/0VaH8VDmJlpa0XOHfiuiuB) | [The Burning Point Sessions](https://open.spotify.com/album/4YbQJFkGAeZpUsDW7dR4A3) | 5:17 | 2023-01-16 | 2023-12-14 |
@@ -268,7 +268,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/2ZJapIiYXKyTiy82xCn6x0) | [Without Shelter](https://open.spotify.com/artist/2HNpxWTZNdh0lkSTquhmie) | [Leave Me Alone](https://open.spotify.com/album/7CtqQG5hfqtjh1MjF81WV5) | 3:32 | 2022-07-09 | 2024-07-27 |
 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 | 2021-12-27 |  |
 | [lemonade](https://open.spotify.com/track/6qF2SapjKCkp3ZOtzh3bBr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:58 | 2025-07-02 |  |
-| [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 |  |
+| [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 | 2025-10-14 |
 | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/track/1roCmBlcpV7LzsmB7pmCyt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/album/30NnJW4urmnnaExzLLMuy6) | 2:49 | 2021-12-27 |  |
 | [Let Me Go](https://open.spotify.com/track/5h7Ehxi8K371hMuw6E7gyQ) | [Michael E.T.](https://open.spotify.com/artist/7H7joGMu2NEACFMbzMqMkf) | [Locked On Vol 2](https://open.spotify.com/album/54Nzi9eQ8TztLiEZCI1Nwf) | 6:01 | 2023-06-22 | 2024-01-31 |
 | [Let You Go](https://open.spotify.com/track/1u9Rbcgc4WLaW2HtienJzK) | [Zee Scott](https://open.spotify.com/artist/7Hx6eIpj0hdYJNZHH8RJAG) | [My Parents' basement](https://open.spotify.com/album/6auFJVznjAnHpi5wrHKRn4) | 4:19 | 2022-12-15 | 2023-06-23 |
@@ -424,7 +424,8 @@
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2022-12-15 | 2025-06-28 |
 | [Sad Songs \(feat\. L Devine\) \- Stripped](https://open.spotify.com/track/2caArnpeWW955oZL6rxgbd) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\) \[Stripped\]](https://open.spotify.com/album/3L7ogksR6NT8lQqzKYs9AY) | 3:17 | 2025-06-27 |  |
 | [Sail Away](https://open.spotify.com/track/4GiaLqbDngWiIom7q3acCq) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 3:12 | 2023-05-16 |  |
-| [Sand](https://open.spotify.com/track/7lcptQMdfkgUAQ3Ek83K5V) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 3:39 | 2023-12-13 |  |
+| [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 | 2025-10-13 |  |
+| [Sand](https://open.spotify.com/track/7lcptQMdfkgUAQ3Ek83K5V) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 3:39 | 2023-12-13 | 2025-10-14 |
 | [Santa For Someone](https://open.spotify.com/track/4HA7nkHape0n3pE579irkO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love](https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5) | 3:23 | 2025-01-09 |  |
 | [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 | 2021-12-27 |  |
 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 | 2021-12-27 |  |

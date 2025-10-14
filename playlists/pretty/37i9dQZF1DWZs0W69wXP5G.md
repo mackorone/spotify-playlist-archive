@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Jennifer Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,861 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,867 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where You Are](https://open.spotify.com/track/7xc0n2E5blIA8yeObf69uT) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Tonatiuh](https://open.spotify.com/artist/21sCCId36uv35Nqk72EzK2) | [Kiss of the Spider Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6) | 4:40 |
-| 2 | [Gravity](https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Jessica Vosk](https://open.spotify.com/artist/330kSPXwMspc2MPdPto2uz), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Gravity](https://open.spotify.com/album/74HNHfB066STy568ETJsPl) | 1:53 |
+| 2 | [Gravity](https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Gravity](https://open.spotify.com/album/74HNHfB066STy568ETJsPl) | 1:53 |
 | 3 | [The Constant](https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Constant](https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd) | 4:06 |
 | 4 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
 | 5 | [Invisible \(Max & Bracia's Duet\)](https://open.spotify.com/track/1ScHa42mFzT16EQlZ05ys2) | [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT), [Ginny & Georgia Cast](https://open.spotify.com/artist/2dbIN8yOmyKAKSsS7WC78R), [Sara Waisglass](https://open.spotify.com/artist/2oXpw0PYpq67P850cEdqG6), [Tameka Griffiths](https://open.spotify.com/artist/3vtO1P0jNkb1uIAq862mwW) | [Ginny & Georgia: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/50PePmVerUSWWVUdImzCMs) | 1:41 |

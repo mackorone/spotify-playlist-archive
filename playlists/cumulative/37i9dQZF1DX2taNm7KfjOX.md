@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-730 songs - 1 day 21 hr 24 min
+730 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,7 @@
 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 | 2025-02-07 | 2025-04-06 |
 | [you were mine](https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN) | 3:41 | 2025-02-07 |  |
 | [You Would Have to Lose Your Mind](https://open.spotify.com/track/5Cy19QL3dXCbqonYBNMDbF) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [You Would Have to Lose Your Mind](https://open.spotify.com/album/0qwZh2K12DVjRUh5axTD7Q) | 6:21 | 2021-10-22 | 2024-04-29 |
-| [You'd Kill Me If You Could](https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [You'd Kill Me If You Could](https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI) | 3:59 | 2025-09-22 |  |
+| [You'd Kill Me If You Could](https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [You'd Kill Me If You Could](https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI) | 3:27 | 2025-09-22 |  |
 | [You're Not Alone](https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 5:36 | 2021-10-22 | 2025-02-08 |
 | [Young Bodies](https://open.spotify.com/track/2zOs2Dck8ilE2DqpjZVdD2) | [Westward the Tide](https://open.spotify.com/artist/5oTZhBfLpcYvt6Y703qkYB) | [Sorry Soul](https://open.spotify.com/album/6p2IxI7t9D5CPfGM8edABQ) | 4:09 | 2022-04-13 | 2022-04-21 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-17 |  |

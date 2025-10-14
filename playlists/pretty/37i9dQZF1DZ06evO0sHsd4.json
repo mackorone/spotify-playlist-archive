@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 17941,
+  "num_followers": 17976,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAABBd/XWmfSqeC8kz2nYbINa",
+  "snapshot_id": "aOrvgAAAAADgX5ziUaSvXu0yUOB/qSbf",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 175027,
-      "name": "ME ACTIVO",
-      "url": "https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/6cjEhqFijFqThr4IsYpkkH"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 260173,
       "name": "Linda Mujer",
       "url": "https://open.spotify.com/track/4iRdARZrb4eD80jlqRHx6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 175027,
+      "name": "ME ACTIVO",
+      "url": "https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 158840,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
+      "duration_ms": 185285,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 185285,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
+      "duration_ms": 158840,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
     },
     {
       "added_at": null,

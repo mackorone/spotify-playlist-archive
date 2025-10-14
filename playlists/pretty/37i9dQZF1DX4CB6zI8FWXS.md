@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,927 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,926 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

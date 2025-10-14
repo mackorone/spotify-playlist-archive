@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 
 > 2024年にプレイリスト「Buzz Tracker \#バズトラ」で聴かれた楽曲を総まとめ。 cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,380 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,379 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 | 11 | [I wonder](https://open.spotify.com/track/0voOaunLYYqPHrsgXbFVlW) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [MUSi\-aM](https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie) | 2:38 |
 | 12 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
 | 13 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 |
-| 14 | [Osanpo \- Remix](https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [Space Dust Club](https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy) | [Osanpo \(feat\. 般若 & R\-指定\) \[Remix\]](https://open.spotify.com/album/25nRq5WP5RSRhGWs3LGaMC) | 3:01 |
+| 14 | [Osanpo \(feat\. 般若 & R\-指定\) \- Remix](https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [Space Dust Club](https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy) | [Osanpo \(feat\. 般若 & R\-指定\) \[Remix\]](https://open.spotify.com/album/25nRq5WP5RSRhGWs3LGaMC) | 3:01 |
 | 15 | [おともだち](https://open.spotify.com/track/0h8lQsN8g5G1kHSFpXnDVq) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [満身創意](https://open.spotify.com/album/1EJZyEyOQ9Ad6Rkro66ieM) | 3:05 |
 | 16 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 17 | [愛とU](https://open.spotify.com/track/6ZuVKevLRPlRAtywcr4Xp0) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx) | 3:23 |

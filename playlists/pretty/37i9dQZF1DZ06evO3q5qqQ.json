@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 115938,
+  "num_followers": 115946,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACr8Vpd8Lh8DJCuuJ9d/B2w",
+  "snapshot_id": "aOrvgAAAAABEAE8SMpWGQvk8GxKiWxEP",
   "tracks": [
     {
       "added_at": null,
@@ -435,30 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
-      },
-      "artists": [
-        {
-          "name": "Pityn Toys",
-          "url": "https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "El Se\u00f1or De La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El R\u00e1pido (En vivo)",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 171989,
       "name": "El Bolas",
       "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Se\u00f1or De La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
+      },
+      "artists": [
+        {
+          "name": "Pityn Toys",
+          "url": "https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "El Se\u00f1or De La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
     },
     {
       "added_at": null,
@@ -887,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Charla",
-        "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
+        "name": "El Color Del Amor",
+        "url": "https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         },
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 230426,
-      "name": "La Charla",
-      "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
+      "duration_ms": 262906,
+      "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
+      "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

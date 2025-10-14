@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-280 songs - 17 hr 5 min
+281 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bagaimana Ku Bisa](https://open.spotify.com/track/3qMt6x9lCGhKs6OCsw4ZBo) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Bagaimana Ku Bisa](https://open.spotify.com/album/07S28VCx1GGJh6zZdv3YsN) | 3:34 | 2024-09-09 | 2024-09-28 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2023-06-20 | 2023-07-14 |
 | [Bahaya](https://open.spotify.com/track/45FQZlkNDDHg4pzyjiLQkc) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bahaya](https://open.spotify.com/album/4MidcEabYlfTGK6LGMzpSY) | 4:20 | 2023-09-28 | 2024-04-26 |
+| [Bentang Jarak Asmara](https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF), [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Bentang Jarak Asmara](https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g) | 3:54 | 2025-10-13 |  |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-04-04 | 2024-09-14 |
 | [Biar Menjadi Kenangan](https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Biar Menjadi Kenangan](https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c) | 5:13 | 2023-06-14 | 2023-07-14 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-28 | 2025-08-12 |

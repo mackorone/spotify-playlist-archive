@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,670 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,737 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 22 | [Take Care](https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:29 |
 | 23 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 24 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 |
-| 25 | [The Truth](https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi) | [The Truth](https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF) | 3:46 |
-| 26 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
+| 25 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
+| 26 | [The Truth](https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi) | [The Truth](https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF) | 3:46 |
 | 27 | [Primetime](https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 3:33 |
 | 28 | [Microwave](https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Orange Tape](https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU) | 1:47 |
 | 29 | [U and Me \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Comes & Goes \(feat\. Tommy Newport\)](https://open.spotify.com/track/6HaciYi0PXePK4rY3BbZBr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:01 |
 | 50 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 |
 
-Snapshot ID: `aOmeAAAAAACHlcQCCQo4Rl73dyBfGZeO`
+Snapshot ID: `aOrvgAAAAAAyJlSXblM+GXAcGlPlzznt`

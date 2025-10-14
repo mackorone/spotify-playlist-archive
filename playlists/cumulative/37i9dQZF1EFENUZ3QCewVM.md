@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-158 songs - 8 hr 22 min
+160 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,11 @@
 | [Birthday](https://open.spotify.com/track/5hff5RQeE84pznOt8WEWeO) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Birthday](https://open.spotify.com/album/2KLNA0H5XiiMLPAWSb8sUu) | 3:01 | 2024-02-27 |  |
 | [Black Coffee](https://open.spotify.com/track/6bACnnQ39JxdU7DmvlayZR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:46 | 2024-02-27 |  |
 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 | 2024-02-27 |  |
-| [Boyfriend](https://open.spotify.com/track/23eLvOQ3JxtdhRi9YyxRKQ) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:33 | 2024-02-27 |  |
+| [Boyfriend](https://open.spotify.com/track/23eLvOQ3JxtdhRi9YyxRKQ) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:33 | 2024-02-27 | 2025-10-14 |
+| [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2025-10-13 |  |
 | [Break up Slow Dance](https://open.spotify.com/track/6wLMk2HAaSPlXHdhWzEeVE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:31 | 2024-02-27 |  |
-| [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-02-27 |  |
+| [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-02-27 | 2025-10-14 |
+| [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2025-10-13 |  |
 | [Can't Do It](https://open.spotify.com/track/6Qgt5VxVDiKX42nqdjnEuF) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Can't Do It](https://open.spotify.com/album/6QYml21FL6yAM90b4m4GnY) | 3:23 | 2024-02-27 |  |
 | [Carry On \- Acoustic](https://open.spotify.com/track/0DvhfhHlIE4HqgBX8yDJz3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Carry On \(Acoustic\)](https://open.spotify.com/album/68psFr57W11XOyGdB2lOzk) | 3:27 | 2024-02-27 |  |
 | [Champagne](https://open.spotify.com/track/4n1oum6u8Usfs9YSEwXZb8) | [Lia Marie Johnson](https://open.spotify.com/artist/4GaA53bqvMoSs2WzEFGiLe) | [Champagne](https://open.spotify.com/album/7JYzocpan2uUTtoZgMaQ3K) | 3:53 | 2024-02-27 |  |
@@ -162,7 +164,7 @@
 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 | 2024-02-27 |  |
 | [Welcome to the Wedding](https://open.spotify.com/track/7nAicyxTt39p3RXVn3ExHD) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:41 | 2024-05-31 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/45mViXSHd3IqU41SbeLYv3) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/0NneZMurkPmr6ZwOTSgVf1) | 2:51 | 2024-02-27 |  |
-| [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2024-02-27 | 2025-10-11 |
+| [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2024-02-27 |  |
 | [Without Me](https://open.spotify.com/track/7MhNCT34oaLIxwAsZlZd67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:48 | 2024-02-27 |  |
 | [WOW](https://open.spotify.com/track/7Hl6ugkpaxbkseHzSnqlxB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 2:59 | 2024-02-27 |  |
 | [You Don't Even Know Me](https://open.spotify.com/track/1AcoISuZA2tq5uFOwRA7yu) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [You Don't Even Know Me](https://open.spotify.com/album/6OWcBFdfI15aown78xchVh) | 3:46 | 2024-02-27 |  |

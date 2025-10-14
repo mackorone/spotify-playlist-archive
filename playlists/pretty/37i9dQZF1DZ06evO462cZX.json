@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44477,
+  "num_followers": 44480,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAACVieQUjbQAKL682MSTp4vU",
+  "snapshot_id": "aOrvgAAAAAD9vzeMbMuN8zR3pawJkMZq",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pica",
+        "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 199912,
+      "name": "Pica",
+      "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Can Be Somebody (feat. Erin McCarley)",
         "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
       },
@@ -267,30 +291,6 @@
       "duration_ms": 185076,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pica",
-        "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 199912,
-      "name": "Pica",
-      "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belicosa",
         "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 178064,
       "name": "Belicosa",
       "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00f3zalo (with Deorro)",
         "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 114000,
       "name": "G\u00f3zalo (with Deorro)",
       "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De M\u00fasica Ligera",
         "url": "https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 193906,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": null,

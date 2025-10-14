@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 13,899 likes - 47 songs - 2 hr 23 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 13,919 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 36 | [Doin' it featuring MC DT](https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Doin' It feat\. MC DT](https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc) | 2:57 |
 | 37 | [FLEXN](https://open.spotify.com/track/6CJdHXATu12NplDgczfD86) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nicola Gavino](https://open.spotify.com/artist/1a8YXQamaJgsFF92E4Pu8q) | [FLEXN](https://open.spotify.com/album/5pAD3DxNLgYzY5gkydxb4X) | 4:13 |
 | 38 | [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 |
-| 39 | [Spend Money](https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Spend Money](https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9) | 2:55 |
+| 39 | [Spend Money](https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Spend Money](https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9) | 2:55 |
 | 40 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 |
 | 41 | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 |
 | 42 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 |

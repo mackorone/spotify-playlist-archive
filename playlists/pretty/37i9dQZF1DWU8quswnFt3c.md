@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,479 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,347 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
 | 41 | [The Flood](https://open.spotify.com/track/441D0QiPNeIe3OMeANF0Ll) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 4:29 |
 | 42 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
-| 43 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
-| 44 | [Баштани](https://open.spotify.com/track/1ultuLDrrteVddIQe1GnwY) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z), [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Баштани](https://open.spotify.com/album/4GNX4WqQs3G7P7ZDexopow) | 3:10 |
+| 43 | [Баштани](https://open.spotify.com/track/1ultuLDrrteVddIQe1GnwY) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z), [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Баштани](https://open.spotify.com/album/4GNX4WqQs3G7P7ZDexopow) | 3:10 |
+| 44 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
 | 45 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
 | 46 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
 | 47 | [Vantule](https://open.spotify.com/track/4xDmuhNr1tkmO8HHQIdR2L) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Vantule](https://open.spotify.com/album/1mex6sLvhRckmJ5ztvZQQY) | 3:02 |
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 51 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 |
 | 52 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 |
 | 53 | [rewind](https://open.spotify.com/track/33urafSYTMfCWX7K4ABDR5) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [rewind](https://open.spotify.com/album/56jrsuouND7fFZFDDlzGnY) | 2:54 |
-| 54 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
-| 55 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 |
+| 54 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 |
+| 55 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 56 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 57 | [Gravity](https://open.spotify.com/track/4ADKoilUqU5jIwzXFdmdI1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Gravity](https://open.spotify.com/album/05T87IZuR7QiVw2dYYzTZa) | 5:00 |
-| 58 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 |
-| 59 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
+| 58 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
+| 59 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 |
 | 60 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 |
 | 61 | [Хай світ пам'ятає](https://open.spotify.com/track/2PFqarrECupnFNMgi6Poxx) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Хай світ пам'ятає](https://open.spotify.com/album/1qSWnFJi2lRfsaAYhKK4qh) | 3:40 |
 | 62 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
-| 63 | [Airday](https://open.spotify.com/track/4BklDUfBvXieQ3nK82rQTC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Airday](https://open.spotify.com/album/2tBqoniDwTJiXvDh6hMZEj) | 2:41 |
-| 64 | [Mala Para Los Huesos Esta Humedad](https://open.spotify.com/track/3HToc9eJEi09RjduiQQgDz) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Vengo Con Los Ojos Nuevos](https://open.spotify.com/album/1iuRiSCibNZMbSuHMkDIUD) | 3:48 |
+| 63 | [Mala Para Los Huesos Esta Humedad](https://open.spotify.com/track/3HToc9eJEi09RjduiQQgDz) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Vengo Con Los Ojos Nuevos](https://open.spotify.com/album/1iuRiSCibNZMbSuHMkDIUD) | 3:48 |
+| 64 | [Airday](https://open.spotify.com/track/4BklDUfBvXieQ3nK82rQTC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Airday](https://open.spotify.com/album/2tBqoniDwTJiXvDh6hMZEj) | 2:41 |
 | 65 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
 | 66 | [In the Neon](https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [In The Neon](https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7) | 3:00 |
 | 67 | [無法度按捺](https://open.spotify.com/track/6KMkfPUnbxUYCvQQEA3ydV) | [李千娜](https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb) | [無法度按捺](https://open.spotify.com/album/0NOHSXbIwd7pWyfm51hfdw) | 4:27 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 |
 | 71 | [Bólogatós Anya Mondd Meg](https://open.spotify.com/track/3BoU4JyuzaaAHT8AxxHZpn) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28), [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Mixát EP](https://open.spotify.com/album/2Vi8goRDK6ffjl6piULB8B) | 2:55 |
 | 72 | [Reggeli Dal](https://open.spotify.com/track/5i4QrBTPF5bk0GwgSUQdek) | [Szeder](https://open.spotify.com/artist/2PjwIpRxRdznfEeOV0aNhD) | [Hab A Tetején](https://open.spotify.com/album/2H7e0sTpNcjJvUyqC2tMzo) | 3:12 |
-| 73 | [Todo Cambia](https://open.spotify.com/track/4PWGbZMeQc8j9rP8sIOc3T) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Todo Cambia](https://open.spotify.com/album/7mOYdrybPcpsHDxCKXAXXo) | 3:24 |
-| 74 | [Intimacid](https://open.spotify.com/track/3pphZUFExvnniRhT3FGLZC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Intimacid](https://open.spotify.com/album/60A0CbsSR2NfbckN1uUic7) | 2:17 |
+| 73 | [Intimacid](https://open.spotify.com/track/3pphZUFExvnniRhT3FGLZC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Intimacid](https://open.spotify.com/album/60A0CbsSR2NfbckN1uUic7) | 2:17 |
+| 74 | [Todo Cambia](https://open.spotify.com/track/4PWGbZMeQc8j9rP8sIOc3T) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Todo Cambia](https://open.spotify.com/album/7mOYdrybPcpsHDxCKXAXXo) | 3:24 |
 | 75 | [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 |
 
 Snapshot ID: `AAAAAI93c+qn7LLVRy7HJ13+TQQ827Y0`

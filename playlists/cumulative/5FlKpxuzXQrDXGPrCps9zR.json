@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Who's Your Daddy?",
+        "url": "https://open.spotify.com/album/7q4S10v6Ja96voiKGL0fUm"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188403,
+      "name": "Who's Your Daddy?",
+      "url": "https://open.spotify.com/track/5i1UlApqcoXQqbGST2Q3pb"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },

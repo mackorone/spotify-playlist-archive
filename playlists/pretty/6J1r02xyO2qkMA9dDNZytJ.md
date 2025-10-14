@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 62,406 likes - 88 songs - 4 hr 26 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 62,408 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,6 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 | 86 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 |
 | 87 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 |
 | 88 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 |
+| 89 | [Free](https://open.spotify.com/track/6ZCRVc3KGkUl8BjdjbVUZk) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Free](https://open.spotify.com/album/2s6RTtoBr4tNWgldSdSE80) | 3:01 |
 
-Snapshot ID: `AAAnGBB9qx2Epx2FrIZW9g6c2CIK2XY/`
+Snapshot ID: `AAAnGerfoAfRijjgozjXYbBdgBlper90`

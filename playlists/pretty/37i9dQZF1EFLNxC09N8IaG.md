@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,657 likes - 180 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,658 likes - 180 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 51 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
 | 52 | [Boom Boom](https://open.spotify.com/track/50ydDggNZILBoiD7cD4F0P) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Pitch Perfect 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ghztb1E7auvrtaXmcRqbV) | 3:08 |
 | 53 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 |
-| 54 | [Black & White \(feat\. Muni Long\)](https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:00 |
-| 55 | [Superpowers](https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 54 | [Superpowers](https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 55 | [Black & White \(feat\. Muni Long\)](https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:00 |
 | 56 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
 | 57 | [When I Met You](https://open.spotify.com/track/3rcawAZAKd8Ryi30fSHclr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 4:33 |
 | 58 | [Gang Bang](https://open.spotify.com/track/2ySP177IDeiXXOy92Gad9s) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 5:26 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 138 | [Offended](https://open.spotify.com/track/5dpGpYsL7BMLrxkMuX8cxV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 2:56 |
 | 139 | [Late Night Nigga](https://open.spotify.com/track/2pDyTMcoVT3d13jbbrpSrL) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:48 |
 | 140 | [Risk It All](https://open.spotify.com/track/7jDwn8Uc7ijT0SdVHPGs2q) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Woman](https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa) | 4:46 |
-| 141 | [Snow](https://open.spotify.com/track/4ey9YmqIBB6SAAMiwKjpdU) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Better](https://open.spotify.com/album/4CYPYrVKLRv1QFvTiCQwIg) | 3:30 |
-| 142 | [Reverse \(Interlude\)](https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 1:18 |
+| 141 | [Reverse \(Interlude\)](https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 1:18 |
+| 142 | [Snow](https://open.spotify.com/track/4ey9YmqIBB6SAAMiwKjpdU) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Better](https://open.spotify.com/album/4CYPYrVKLRv1QFvTiCQwIg) | 3:30 |
 | 143 | [Chainzzz \(feat\. Muni Long\) \- Instrumental](https://open.spotify.com/track/4RllcpxnzD9Qe979bGgn3A) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate \(Instrumental\)](https://open.spotify.com/album/4rV8dGCg1AThAVdZDd3VcZ) | 2:33 |
 | 144 | [Diamond](https://open.spotify.com/track/6YSycxAzLHgevzkF4tBQvR) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [2011 SMTOWN Winter 'The Warmest Gift'](https://open.spotify.com/album/4YqPQJO3WKF9FnpT3jQ58c) | 3:18 |
 | 145 | [We Ain’t Goin’ Nowhere](https://open.spotify.com/track/1A4BvKvWIdlyuFgGcGZ7zE) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 3:11 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 179 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 180 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Ab+siAAAAACIETB088nkMb7BF+SUV2MO`
+Snapshot ID: `Ab+yCgAAAAA4N679RZMvK6iRoGeC3koe`

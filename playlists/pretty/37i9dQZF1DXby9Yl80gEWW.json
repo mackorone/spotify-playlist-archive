@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 59358,
+  "num_followers": 59375,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 292138,
       "name": "Banjo Loop",
       "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -483,6 +483,26 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
-      },
-      "artists": [
-        {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
-        }
-      ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
         }
       ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
       "artists": [
         {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -975,6 +959,22 @@
       "duration_ms": 218120,
       "name": "Crossing the Junction / Deer River",
       "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Concrete and Steel",
-        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
-      },
-      "artists": [
-        {
-          "name": "Off the Rails",
-          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
-        }
-      ],
-      "duration_ms": 251047,
-      "name": "Concrete and Steel",
-      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Telluride Sessions",
         "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
       },
       "artists": [
         {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
         }
       ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Carried Along",
+        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
+      },
+      "artists": [
+        {
+          "name": "Upstream Drifters",
+          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
+        }
+      ],
+      "duration_ms": 216388,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Carried Along",
-        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
       },
       "artists": [
         {
-          "name": "Upstream Drifters",
-          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
         }
       ],
-      "duration_ms": 216388,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1227,34 +1227,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Pretty Kate And The Rabbit",
-        "url": "https://open.spotify.com/album/2884fPDAEgQ7scMdBBIzHF"
-      },
-      "artists": [
-        {
-          "name": "Special Consensus",
-          "url": "https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt"
-        },
-        {
-          "name": "April Verch",
-          "url": "https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8"
-        },
-        {
-          "name": "Darol Anger",
-          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
-        },
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Pretty Kate And The Rabbit",
-      "url": "https://open.spotify.com/track/0uzyRxgc2vxlb7yRUjvShj"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1279,6 +1251,34 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Pretty Kate And The Rabbit",
+        "url": "https://open.spotify.com/album/2884fPDAEgQ7scMdBBIzHF"
+      },
+      "artists": [
+        {
+          "name": "Special Consensus",
+          "url": "https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt"
+        },
+        {
+          "name": "April Verch",
+          "url": "https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8"
+        },
+        {
+          "name": "Darol Anger",
+          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
+        },
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "Pretty Kate And The Rabbit",
+      "url": "https://open.spotify.com/track/0uzyRxgc2vxlb7yRUjvShj"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "OKX",
-        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
-      },
-      "artists": [
-        {
-          "name": "The OK Factor",
-          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Bluegrass Ben",
-      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "OKX",
+        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
+      },
+      "artists": [
+        {
+          "name": "The OK Factor",
+          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Bluegrass Ben",
+      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Carolina Avenue",
-        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "Carolina Avenue",
-      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Finnland",
         "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 165853,
       "name": "Finnland",
       "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Carolina Avenue",
+        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "Carolina Avenue",
+      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Team Hoover",
+        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 341546,
+      "name": "Team Hoover",
+      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Donner Pass",
         "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Team Hoover",
-        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 341546,
-      "name": "Team Hoover",
-      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
     },
     {
       "added_at": "2025-02-21 05:00:42",

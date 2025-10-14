@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 216058,
       "name": "5 \u043c\u0438\u043d\u0443\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/5oYWlZScwlEOcfnfxtlHlU"
@@ -9832,7 +9832,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 176193,
       "name": "FACE2FACE",
       "url": "https://open.spotify.com/track/6FKShQYniVE3TlGPRXuPVw"
@@ -16612,7 +16612,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 263000,
       "name": "Lola",
       "url": "https://open.spotify.com/track/3rVpuDRmwxFYaMNBx62xK9"
@@ -17834,7 +17834,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -26792,7 +26792,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 248919,
       "name": "Slow Sip of Solitude",
       "url": "https://open.spotify.com/track/6GaF1uWS0BV1BF4GgVzArK"
@@ -30300,6 +30300,28 @@
     {
       "album": {
         "name": "Three Seconds To Goodbye",
+        "url": "https://open.spotify.com/album/4o0IzW7S8jZ4cmTIaJNEKq"
+      },
+      "artists": [
+        {
+          "name": "ZionRay",
+          "url": "https://open.spotify.com/artist/3FhrihEyNnYtuoNTaYA1xG"
+        },
+        {
+          "name": "Dannrie Brown",
+          "url": "https://open.spotify.com/artist/0FO2X1Zlzznqgk4ZSOB5A1"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416194,
+      "name": "Three Seconds To Goodbye",
+      "url": "https://open.spotify.com/track/28sZ97rHdGqvfJePnH82mL"
+    },
+    {
+      "album": {
+        "name": "Three Seconds To Goodbye",
         "url": "https://open.spotify.com/album/099iQLrI6II768748TUdeW"
       },
       "artists": [
@@ -30314,7 +30336,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 416194,
       "name": "Three Seconds To Goodbye",
       "url": "https://open.spotify.com/track/66AtMfsD0y7LV3OTt72HJu"
@@ -32598,7 +32620,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -33068,7 +33090,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
@@ -33408,7 +33430,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-14",
       "duration_ms": 153994,
       "name": "WINCOIN",
       "url": "https://open.spotify.com/track/4JDYLHgtR4SaR1jMuN0Lni"
@@ -33442,8 +33464,8 @@
       },
       "artists": [
         {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
       "date_added": "2025-10-07",

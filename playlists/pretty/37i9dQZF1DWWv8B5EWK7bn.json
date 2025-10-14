@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 204491,
+  "num_followers": 204514,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/5CBO4dDJIJlYpicO7HNyFI"
     },
     {
-      "added_at": "2024-08-23 01:33:51",
-      "album": {
-        "name": "Beetlebugs",
-        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Beetlebugs",
-      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Mouth Full of Glass",
@@ -467,6 +451,22 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
+      "added_at": "2024-08-23 01:33:51",
+      "album": {
+        "name": "Beetlebugs",
+        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Beetlebugs",
+      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
     },
     {
       "added_at": "2022-07-15 05:42:04",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
-      "added_at": "2024-05-03 16:59:29",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
       "added_at": "2023-01-04 00:57:30",
       "album": {
         "name": "Classic Objects",
@@ -595,6 +579,22 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2024-05-03 16:59:29",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2024-03-21 22:34:34",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
-      "added_at": "2024-04-15 18:24:59",
-      "album": {
-        "name": "Love in Constant Spectacle",
-        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Love in Constant Spectacle",
-      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Inner Song",
@@ -757,6 +741,38 @@
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
     },
     {
+      "added_at": "2024-04-15 18:24:59",
+      "album": {
+        "name": "Love in Constant Spectacle",
+        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Love in Constant Spectacle",
+      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "added_at": "2023-08-10 05:47:21",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
       "added_at": "2023-05-26 18:09:55",
       "album": {
         "name": "Sus Dog",
@@ -775,22 +791,6 @@
       "duration_ms": 311562,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
-    },
-    {
-      "added_at": "2023-08-10 05:47:21",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2023-06-07 23:32:59",
@@ -1169,24 +1169,20 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
-      "added_at": "2023-08-15 18:36:31",
+      "added_at": "2023-01-03 23:48:36",
       "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
         }
       ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1241,6 +1237,26 @@
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
+      "added_at": "2023-08-15 18:36:31",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
       "added_at": "2023-09-25 01:38:39",
       "album": {
         "name": "The Path",
@@ -1277,22 +1293,6 @@
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
-      "added_at": "2024-08-19 20:57:31",
-      "album": {
-        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
-        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 154910,
-      "name": "I'VE BEEN EVIL",
-      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
-    },
-    {
       "added_at": "2024-09-18 13:52:43",
       "album": {
         "name": "True Luck",
@@ -1309,20 +1309,20 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2023-01-03 23:48:36",
+      "added_at": "2024-08-19 20:57:31",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
+        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+      "duration_ms": 154910,
+      "name": "I'VE BEEN EVIL",
+      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
       "added_at": "2024-04-15 18:24:59",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -1375,42 +1391,6 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
-    },
-    {
-      "added_at": "2022-08-19 01:53:48",
-      "album": {
-        "name": "artclubdiscotheque",
-        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 335433,
-      "name": "artclubdiscotheque",
-      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
       "added_at": "2023-03-31 19:24:48",
@@ -1443,6 +1423,26 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
+      "added_at": "2022-08-19 01:53:48",
+      "album": {
+        "name": "artclubdiscotheque",
+        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 335433,
+      "name": "artclubdiscotheque",
+      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -1685,6 +1685,22 @@
       "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
+    },
+    {
       "added_at": "2024-07-18 21:58:08",
       "album": {
         "name": "Taste The Air (Julia Holter Mix)",
@@ -1703,22 +1719,6 @@
       "duration_ms": 203031,
       "name": "Taste The Air - Julia Holter Mix",
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Eleg\u00eda",
-        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
-      },
-      "artists": [
-        {
-          "name": "Siniestra Pandora",
-          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
-        }
-      ],
-      "duration_ms": 227178,
-      "name": "Pagano",
-      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
     }
   ],
   "unique_name": "Oblique",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Medina, Artigeardit, Soleima og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,806 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,803 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [Tropical Storm](https://open.spotify.com/track/3fLPMxmX5NUScf17XK9bdZ) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Tropical Storm](https://open.spotify.com/album/7t1IPTqvcMhp2fanGM3OxE) | 3:50 |
 | 103 | [I Miss You](https://open.spotify.com/track/52nbGhRpgtW1TnHmlTflJB) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [I Miss You](https://open.spotify.com/album/3N1zS3vLqu4YlK2XU74fyg) | 2:44 |
 
-Snapshot ID: `AAAAALPZyOaMaK0iRKNKtcNSiEzI4l2w`
+Snapshot ID: `AAAAANJRTgeeCsid2m8qy7UsL12U8bo1`

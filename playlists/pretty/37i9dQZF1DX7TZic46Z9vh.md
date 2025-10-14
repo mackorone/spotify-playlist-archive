@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,151 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,155 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 44 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
 | 45 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
 | 46 | [Incienso y Menta \(Incence & Peppermints\)](https://open.spotify.com/track/38E8Nnyvf5eAtT8KHfHTxN) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:47 |
-| 47 | [Insurgensex](https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl) | [Paco Gruexxo](https://open.spotify.com/artist/36FMRbSbIzLPUuvFu10UqT) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:55 |
+| 47 | [Flores en Tu Pelo \(Sn\. Francisco "Flowers In Your Hair"\)](https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN) | [La Fresa Ácida](https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp) | [El Rollo de la Fresa Ácida](https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG) | 2:59 |
 | 48 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
-| 49 | [Flores en Tu Pelo \(Sn\. Francisco "Flowers In Your Hair"\)](https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN) | [La Fresa Ácida](https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp) | [El Rollo de la Fresa Ácida](https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG) | 2:59 |
+| 49 | [Insurgensex](https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl) | [Paco Gruexxo](https://open.spotify.com/artist/36FMRbSbIzLPUuvFu10UqT) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:55 |
 | 50 | [Bandido](https://open.spotify.com/track/7ipxhMVfluSfUdaunwFbxi) | [Bandido](https://open.spotify.com/artist/2kxjS2TnYDEKcSPn8xJdva) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 7:37 |
 
 Snapshot ID: `AAAAAMWH0+TK3QxJHkfTdfW/jy19/HVc`

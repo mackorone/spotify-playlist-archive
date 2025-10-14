@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Ra\u00fal Vega \ud83d\udcf8",
-  "num_followers": 1278647,
+  "num_followers": 1278660,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Mi Carnal",
+        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 168679,
+      "name": "Mi Carnal",
+      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "N\u00famero Equivocado",
         "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 204365,
       "name": "N\u00famero Equivocado",
       "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Mi Carnal",
-        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 168679,
-      "name": "Mi Carnal",
-      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Antes y Ahora (35 Aniversario)",
-        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 197283,
-      "name": "Cu\u00eddala",
-      "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 150950,
       "name": "Paz En Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 197283,
+      "name": "Cu\u00eddala",
+      "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "Una Historia Mal Contada",
-      "url": "https://open.spotify.com/track/1izEJok9Nl9eiyWeIV9pmi"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 180083,
       "name": "Las Edades - En Vivo",
       "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Una Historia Mal Contada",
+      "url": "https://open.spotify.com/track/1izEJok9Nl9eiyWeIV9pmi"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Adivina",
         "url": "https://open.spotify.com/album/3C8SHjjgUo0oPlTfD8Opnl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 191739,
       "name": "Adivina",
       "url": "https://open.spotify.com/track/2X4DA1E7158GOdakTEx1ES"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Rezo",
+        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "Rezo",
+      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Una Historia Mal Contada",
         "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 197373,
       "name": "Para Olvidarme De Tus Besos",
       "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Rezo",
-        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 167625,
-      "name": "Rezo",
-      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Somos Rancheros",
         "url": "https://open.spotify.com/album/3INERBclOpPUvR2qrtiF52"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Llama por favor",
         "url": "https://open.spotify.com/album/3a1tdEmX8cIYnl4j1AVLpj"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB"
+        "name": "Solo Cenizas",
+        "url": "https://open.spotify.com/album/7GeCLvLN03HCFLepxt8kz6"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 218863,
-      "name": "Tu Lo Decidiste",
-      "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
+      "duration_ms": 262717,
+      "name": "Solo Cenizas",
+      "url": "https://open.spotify.com/track/71Zkqd42HQtJp6IYVXZZ9G"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Solo Cenizas",
-        "url": "https://open.spotify.com/album/7GeCLvLN03HCFLepxt8kz6"
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 262717,
-      "name": "Solo Cenizas",
-      "url": "https://open.spotify.com/track/71Zkqd42HQtJp6IYVXZZ9G"
+      "duration_ms": 218863,
+      "name": "Tu Lo Decidiste",
+      "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "La \u00daltima Despedida",
         "url": "https://open.spotify.com/album/6saWvHCp5KIbQFgliUKT2a"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 150500,
       "name": "Con Dinero Puedes",
       "url": "https://open.spotify.com/track/11yALMlDp4w3r5l546uCqg"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Una Flor Quise Cortar",
-      "url": "https://open.spotify.com/track/6AHRob7H24pzadi03Ycnao"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "25 Aniversario (Deluxe)",
         "url": "https://open.spotify.com/album/1pvvRT6e67vejIScHlVOvx"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Una Flor Quise Cortar",
+      "url": "https://open.spotify.com/track/6AHRob7H24pzadi03Ycnao"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Cada D\u00eda M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/5tssfEsrB0gBIRK9eWkqLv"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 172171,
       "name": "Cada D\u00eda M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/7cT41HEMuhxC5M5BbY6JVX"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Ahora por idea",
+        "url": "https://open.spotify.com/album/13qS7CmX7m7MVXJAGQAf1F"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 167784,
+      "name": "Ahora por idea",
+      "url": "https://open.spotify.com/track/6aVSTTTdVYhmsomn0PgAOW"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1491,38 +1507,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "50 y Pico",
-        "url": "https://open.spotify.com/album/3NffwOXCg95YitW7ABdZnm"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "50 y Pico",
-      "url": "https://open.spotify.com/track/2hSrqMfABPszeVC8L4UkmN"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Ahora por idea",
-        "url": "https://open.spotify.com/album/13qS7CmX7m7MVXJAGQAf1F"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 167784,
-      "name": "Ahora por idea",
-      "url": "https://open.spotify.com/track/6aVSTTTdVYhmsomn0PgAOW"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "El Carretero",
         "url": "https://open.spotify.com/album/7bKJ7wnPGN162eQshYuy7g"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 179475,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/0NpTO4zzPFxifZoSx6clbO"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "50 y Pico",
+        "url": "https://open.spotify.com/album/3NffwOXCg95YitW7ABdZnm"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "50 y Pico",
+      "url": "https://open.spotify.com/track/2hSrqMfABPszeVC8L4UkmN"
     },
     {
       "added_at": "2025-10-03 06:00:04",

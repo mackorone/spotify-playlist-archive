@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 53708,
+  "num_followers": 53720,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-10-08 09:42:22",
       "album": {
-        "name": "Panacea",
-        "url": "https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG"
-      },
-      "artists": [
-        {
-          "name": "Benjin Blund",
-          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
-        }
-      ],
-      "duration_ms": 171290,
-      "name": "Panacea",
-      "url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM"
-    },
-    {
-      "added_at": "2025-10-08 09:42:22",
-      "album": {
         "name": "Soft Promise",
         "url": "https://open.spotify.com/album/3a5Ikq3DOewurQMg8cEkUT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 143773,
       "name": "Soft Promise",
       "url": "https://open.spotify.com/track/1TADU6caSDbS08PrFcAoZD"
+    },
+    {
+      "added_at": "2025-10-08 09:42:22",
+      "album": {
+        "name": "Panacea",
+        "url": "https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "duration_ms": 171290,
+      "name": "Panacea",
+      "url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM"
     },
     {
       "added_at": "2025-10-08 09:42:22",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Traces",
-        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "Onthou",
-      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Falling Stars",
         "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Traces",
+        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 128333,
+      "name": "Onthou",
+      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 112311,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Clear Mind",
         "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 173696,
       "name": "A Clear Mind",
       "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 112311,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time Travel",
-        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
-      },
-      "artists": [
-        {
-          "name": "Antologie",
-          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sea Of Tranquility",
         "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 175318,
       "name": "Sea Of Tranquility",
       "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Night Walk",
-        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Light of The Moon",
         "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
+      },
+      "artists": [
+        {
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+        }
+      ],
+      "duration_ms": 127892,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -667,22 +683,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 127892,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 106050,
       "name": "Origami",
       "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Deep Mental Stillness 50",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
-      },
-      "artists": [
-        {
-          "name": "Jardim Zen",
-          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -751,6 +735,22 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Mental Stillness 50",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+      },
+      "artists": [
+        {
+          "name": "Jardim Zen",
+          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
+        }
+      ],
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "\u68a6\u8776 - Dream to be a butterfly",
-        "url": "https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg"
-      },
-      "artists": [
-        {
-          "name": "Yue Yan Jen",
-          "url": "https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "\u68a6\u8776 - Dream to be a butterfly",
-      "url": "https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -1139,18 +1107,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
       },
       "artists": [
         {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
         }
       ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "\u68a6\u8776 - Dream to be a butterfly",
+        "url": "https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg"
+      },
+      "artists": [
+        {
+          "name": "Yue Yan Jen",
+          "url": "https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "\u68a6\u8776 - Dream to be a butterfly",
+      "url": "https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1167,6 +1151,22 @@
       "duration_ms": 111277,
       "name": "Mantric Melody",
       "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "My Sleeping Rose",
         "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 127865,
       "name": "My Sleeping Rose",
       "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 135903,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time to Heal",
-        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
-      },
-      "artists": [
-        {
-          "name": "Vittoria Emanuelle",
-          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
-        }
-      ],
-      "duration_ms": 154642,
-      "name": "Time to Heal",
-      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 141521,
       "name": "Storybook",
       "url": "https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time to Heal",
+        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
+      },
+      "artists": [
+        {
+          "name": "Vittoria Emanuelle",
+          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
+        }
+      ],
+      "duration_ms": 154642,
+      "name": "Time to Heal",
+      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
     },
     {
       "added_at": "2024-06-11 05:54:30",

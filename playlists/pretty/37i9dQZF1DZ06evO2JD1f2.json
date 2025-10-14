@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13036,
+  "num_followers": 13037,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOmeAAAAAADb/4pDQf45rlp86jng5V+x",
+  "snapshot_id": "aOrvgAAAAAA/TAsZ/6wC0pRpz9LZ07Ht",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Flash (feat. Bloodhound Q50)",
-      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
+      "duration_ms": 195266,
+      "name": "CHICKENS (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
     },
     {
       "added_at": null,
@@ -571,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
         }
       ],
-      "duration_ms": 195266,
-      "name": "CHICKENS (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
+      "duration_ms": 161333,
+      "name": "Flash (feat. Bloodhound Q50)",
+      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
     },
     {
       "added_at": null,
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
       "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 126164,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG"
+      "duration_ms": 131825,
+      "name": "All 100s",
+      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
     },
     {
       "added_at": null,
@@ -983,22 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
       "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 131825,
-      "name": "All 100s",
-      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
+      "duration_ms": 126164,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG"
     }
   ],
   "unique_name": "This Is EST Gee",

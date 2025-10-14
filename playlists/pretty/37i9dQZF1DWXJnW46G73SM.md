@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف:  أنغام
+> Tul8te :أحدث الأغاني المصرية هنا 🤩 الغلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,397 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,489 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
-| 2 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
-| 3 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
+| 1 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
+| 2 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
+| 3 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
 | 4 | [Nesrah Fi Zaman \(Men Film Feha Eih Yaany\)](https://open.spotify.com/track/0Bhkw43EronQr9Rb4W6lIn) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nesrah Fi Zaman \(Men Film Feha Eih Yaany\)](https://open.spotify.com/album/6anwD47dNWW5K889jejmNj) | 3:00 |
 | 5 | [El Segn Law Kan Genena](https://open.spotify.com/track/0TZNS87SGYRescCC4U8kAT) | [Dallo](https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG) | [El Segn Law Kan Genena](https://open.spotify.com/album/2MA5gkXaJtBKmuuBKh8V34) | 2:19 |
 | 6 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [الف سلامة](https://open.spotify.com/track/6R6NJeckfkrOVpIYonLpNx) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Ramy El Masry](https://open.spotify.com/artist/3uJr9F3C8SEDACgjZJzjDP) | [الف سلامة](https://open.spotify.com/album/3SRF2ffjoKGA6BU7X1UiNR) | 3:43 |
 | 60 | [بشكرك](https://open.spotify.com/track/3A3el8szrcS0b8NatGShND) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [بشكرك](https://open.spotify.com/album/0bmvIRb1VLf9JGQuPlaWCo) | 4:08 |
 
-Snapshot ID: `AAAAAKq2hLVR1y2ieVGJJgV3yXN3FTbP`
+Snapshot ID: `AAAAALF0SqmwbZ7viHaDMvI7jYhEpfK8`

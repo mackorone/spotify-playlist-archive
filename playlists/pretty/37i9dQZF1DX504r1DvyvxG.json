@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2647583,
+  "num_followers": 2647561,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+      "duration_ms": 196466,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered",
-      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 280000,
       "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered",
+      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Music For The Motion Picture Into The Wild",
-        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
       "artists": [
         {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 321760,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi"
     }
   ],
   "unique_name": "Classic Acoustic",

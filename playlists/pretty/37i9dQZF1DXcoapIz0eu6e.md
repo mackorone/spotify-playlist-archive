@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 
 > The world is a stage\. Listen to the music from Joker and Joker: Folie à Deux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,815 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

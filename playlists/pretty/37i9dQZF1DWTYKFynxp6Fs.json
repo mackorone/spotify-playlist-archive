@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
-  "num_followers": 547322,
+  "num_followers": 547884,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJu0nCdr6RXfcthpuRw6dR+omkDP",
+  "snapshot_id": "AAAAAC6yXGYGdFAjbh+J/KTnlBPvbfQy",
   "tracks": [
     {
       "added_at": "2025-10-06 04:58:08",
@@ -83,6 +83,34 @@
       "duration_ms": 90625,
       "name": "Kiliye Kiliye - Afrobeat Mix",
       "url": "https://open.spotify.com/track/6Or4iU4UNhDftBYfRXh7xr"
+    },
+    {
+      "added_at": "2025-10-13 10:37:08",
+      "album": {
+        "name": "Kaadhal Ponmaan (From \"Nellikkampoyil Night Riders\")",
+        "url": "https://open.spotify.com/album/1WkCxR6S5CxQyG7jvgTjIo"
+      },
+      "artists": [
+        {
+          "name": "Neha S. Nair",
+          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Yakzan Gary Pereira",
+          "url": "https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Kaadhal Ponmaan (From \"Nellikkampoyil Night Riders\")",
+      "url": "https://open.spotify.com/track/21s7NBfZO6vg7YpBipRvfT"
     },
     {
       "added_at": "2025-08-25 07:32:15",
@@ -1015,30 +1043,6 @@
       "duration_ms": 272142,
       "name": "Makane",
       "url": "https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf"
-    },
-    {
-      "added_at": "2024-05-20 07:25:09",
-      "album": {
-        "name": "Aavesham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Nazriya Nazim",
-          "url": "https://open.spotify.com/artist/1Y8eSlmFO33Bn0D8ZNA9IE"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Odimaga",
-      "url": "https://open.spotify.com/track/2qu6IQOzoAIgzCSLX2RXVQ"
     },
     {
       "added_at": "2025-07-09 05:01:16",
