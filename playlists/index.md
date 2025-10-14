@@ -1,4 +1,4 @@
-## Playlists \(8791\)
+## Playlists \(8792\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8788,6 +8788,7 @@
 - [�](/playlists/pretty/37i9dQZF1DWXfgmQDgebb6.md)
 - [𝘥𝘳𝘦𝘢𝘮𝘦𝘥 𝘰𝘧 𝘺𝘰𝘶 𝘭𝘢𝘴𝘵 𝘸𝘦𝘦𝘬](/playlists/pretty/1UDtZQ2RZtGRjPy7PCzuzA.md)
 - [𝙛𝙨𝙝 𝙣𝙙 𝙘𝙝𝙥 𝙟𝙢𝙨](/playlists/pretty/4bPJzqdwVF3SMKYy9MzH5e.md)
+- [🆗🆗](/playlists/pretty/6obleAi6sudUqcaSK7Gqbp.md)
 - [🌓 Light Night Group Playlist](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md)
 - [💀 Punk\-O\-Rama](/playlists/pretty/7smcyWmMxpr2nqnefrh792.md)
 - [💗kittydog songs featured playlist💙](/playlists/pretty/0fK21q3rVTX5AlC3dZRf2J.md)
