@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 153415,
+  "num_followers": 153432,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAAAdQfdWSFam7589LXLRT2qG",
+  "snapshot_id": "aOxBAAAAAADx+u9KgMkWuJMKzpTd17Mg",
   "tracks": [
     {
       "added_at": null,
@@ -855,30 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "One Bad Decision - feat. Ella Mai & Roddy Ricch",
-      "url": "https://open.spotify.com/track/1dId0BBASxqAz45lE0201A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 194195,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "One Bad Decision - feat. Ella Mai & Roddy Ricch",
+      "url": "https://open.spotify.com/track/1dId0BBASxqAz45lE0201A"
     }
   ],
   "unique_name": "This Is Ella Mai",

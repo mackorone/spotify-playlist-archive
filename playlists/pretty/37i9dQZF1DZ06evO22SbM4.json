@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 43561,
+  "num_followers": 43582,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAAAIhPQ5WBWceh4eDyuQ75JY",
+  "snapshot_id": "aOxBAAAAAAA/LwHcRcPcLPwPEf++MnOU",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Comin' In Cold",
-      "url": "https://open.spotify.com/track/7iynAuclLdUAG5H2XoK08K"
+      "duration_ms": 230913,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/3m3R8n3gTxKHDGkxMFEgJW"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 230913,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/3m3R8n3gTxKHDGkxMFEgJW"
+      "duration_ms": 180000,
+      "name": "Comin' In Cold",
+      "url": "https://open.spotify.com/track/7iynAuclLdUAG5H2XoK08K"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 47408,
-      "name": "Words from Bailey",
-      "url": "https://open.spotify.com/track/3hKJoeP7BwIiGrD9NzDJCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 135889,
       "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Bailey Zimmerman & Dermot Kennedy) - Sped Up",
       "url": "https://open.spotify.com/track/43KSFGpSKun6AX5GxKvQCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 47408,
+      "name": "Words from Bailey",
+      "url": "https://open.spotify.com/track/3hKJoeP7BwIiGrD9NzDJCd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: The Urs
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,385 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,389 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 27 | [Camera mea](https://open.spotify.com/track/2TPiTMKYrK1UOgHb4AhmX2) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [PULS](https://open.spotify.com/album/4ZtvwgLM4Xd3d8ve0qBrey) | 3:18 |
 | 28 | [Yanana](https://open.spotify.com/track/1HFVsODc3igA9E3HqetWfP) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Yanana](https://open.spotify.com/album/1ATel7tjL6UPijOVTGRetK) | 2:30 |
 | 29 | [O să te cuprind](https://open.spotify.com/track/39YOd11uHPLaTNNddDq5No) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [O să te cuprind](https://open.spotify.com/album/0trWI3UDXisDFTaXh2JSnc) | 3:06 |
-| 30 | [Lumea\-i Condusa de Femei](https://open.spotify.com/track/5dKwYkND9Tw8EPNkRdmk4Y) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Lumea\-i Condusa de Femei](https://open.spotify.com/album/62wipdAW3020gK6eGWB9Ie) | 2:44 |
+| 30 | [Lumea\-i Condusa de Femei](https://open.spotify.com/track/5dKwYkND9Tw8EPNkRdmk4Y) | [SHIFT](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Lumea\-i Condusa de Femei](https://open.spotify.com/album/62wipdAW3020gK6eGWB9Ie) | 2:44 |
 | 31 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
 | 32 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 |
 | 33 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 |

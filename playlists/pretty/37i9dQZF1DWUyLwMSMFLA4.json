@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 635263,
+  "num_followers": 635306,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "Rodrigo - Lo mejor del amor",
-        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Lo mejor del amor",
-      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
         "name": "Loquita (Remix)",
         "url": "https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 209846,
       "name": "Loquita - Remix",
       "url": "https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
+        "name": "Rodrigo - Lo mejor del amor",
+        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Lo mejor del amor",
+      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "La Cumbia De Los Trapos",
-      "url": "https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 220813,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
+      "duration_ms": 182973,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
       },
       "artists": [
         {
@@ -1484,9 +1484,25 @@
           "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
+      "duration_ms": 220813,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/2WJPmMdGAvoXwP0PVueIQN"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Hoy Te Vi",
+      "url": "https://open.spotify.com/track/5AGrNSSyacwJQXp62xYOh0"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1567,22 +1583,6 @@
       "duration_ms": 181054,
       "name": "Mi \u00danico Amor",
       "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/2WJPmMdGAvoXwP0PVueIQN"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Hoy Te Vi",
-      "url": "https://open.spotify.com/track/5AGrNSSyacwJQXp62xYOh0"
     },
     {
       "added_at": "2025-07-04 11:56:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,012 likes - 128 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,018 likes - 128 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 93 | [Driving Backwards \(feat\. Chance Emerson\)](https://open.spotify.com/track/3FlgAPxizf999xy87qzQ5n) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9), [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Driving Backwards \(feat\. Chance Emerson\)](https://open.spotify.com/album/10J2CosHduYAQJcpuWGhMq) | 2:18 |
 | 94 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 |
 | 95 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
-| 96 | [Karaoke Queen](https://open.spotify.com/track/1Snxg0rhC3jzkKwA2ZVBx0) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Karaoke Queen](https://open.spotify.com/album/6c6WR0qU0sn9vCIf40rbxh) | 3:18 |
+| 96 | [Karaoke Queen](https://open.spotify.com/track/1Snxg0rhC3jzkKwA2ZVBx0) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Karaoke Queen](https://open.spotify.com/album/6c6WR0qU0sn9vCIf40rbxh) | 3:18 |
 | 97 | [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 |
 | 98 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 99 | [Falling Back](https://open.spotify.com/track/38QTTeekcHsJToBceX2vE6) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Coming Home](https://open.spotify.com/album/4KGnKSTaGA0XOxYVivbU9E) | 4:01 |

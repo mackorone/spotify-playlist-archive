@@ -2,16 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 
 ### [RADAR Creators Italia](https://open.spotify.com/playlist/37i9dQZF1DWT93ZDwDlVYL)
 
-> Podcast che devi avere sul tuo RADAR: BenNaNa Podcast, Casi Umani, EST RADIO, Mitologia Gettata, Pianeta B12
+> Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT \- Storie Italiane di Successo, STREETSMART<br/>Cover: Capiamo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,688 likes - 5 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,688 likes - 8 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Italiana cresciuta in Cina \- 4 chiacchiere tra 4 Italo\-Cinesi ‧ 笨娜娜 \- BenNaNa Podcast Ep.5](https://open.spotify.com/episode/6CU40Ht63uS2ZxEYfSoBA9) | [笨娜娜 • BenNaNa Podcast](https://open.spotify.com/show/3gHAgD3a4aYa7Psp3GcqRy) | [笨娜娜 • BenNaNa Podcast](https://open.spotify.com/album/3gHAgD3a4aYa7Psp3GcqRy) | 1:07:06 |
-| 2 | [23 \- "Mamma, c’è uno zombie, corri!” Il caso di Gigi Bici e Barbara Pasetti \- PARTE 1](https://open.spotify.com/episode/1TwwUnXb4CDAboXJuaJ9H1) | [Casi Umani](https://open.spotify.com/show/0ISQOhzNPPmlMaiuJrYotp) | [Casi Umani](https://open.spotify.com/album/0ISQOhzNPPmlMaiuJrYotp) | 1:01:11 |
-| 3 | [Comfort Movies con Simone Panetti // ARTE SETTIMA](https://open.spotify.com/episode/22G1csI3ybhxn88JZiv1XF) | [Est Radio](https://open.spotify.com/show/7vH5P46Jo4lRSt2AyINXHF) | [Est Radio](https://open.spotify.com/album/7vH5P46Jo4lRSt2AyINXHF) | 1:11:22 |
-| 4 | [Coronide e il corvo bianco](https://open.spotify.com/episode/6ejIcXDtDRpXNY55R8X0e6) | [Mitologia Gettata 2](https://open.spotify.com/show/5TO2ilgqW2IDL5g60mttiI) | [Mitologia Gettata 2](https://open.spotify.com/album/5TO2ilgqW2IDL5g60mttiI) | 13:50 |
-| 5 | [Ep\. 48 \- Dieta: il Grande Inganno con Franco Berrino e Natalia Gera \| Pianeta B12](https://open.spotify.com/episode/44Zp8MgayxZSCQydQIjDHW) | [PIANETA B12](https://open.spotify.com/show/6ato4Pxlc1zadiTjOW2PrT) | [PIANETA B12](https://open.spotify.com/album/6ato4Pxlc1zadiTjOW2PrT) | 1:15:51 |
+| 1 | [LA DATING LIFE A MILANO È UN DISASTRO? Capiamo \#99](https://open.spotify.com/episode/2kVO0BfJCn4SBSaL8cdBSv) | [Capiamo](https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7) | [Capiamo](https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7) | 43:41 |
+| 2 | [HYPERSIMPOSIO II.VII : Ceri Wax ](https://open.spotify.com/episode/5mR7BFs09hDPNYupM1Se6K) | [HYPERSIMPOSIO ](https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop) | [HYPERSIMPOSIO ](https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop) | 44:15 |
+| 3 | [Da €20 a €600 milioni di fatturato: la storia dietro il successo di Golden Goose, con Silvio Campara CEO di Golden Goose \[VIDEO\]](https://open.spotify.com/episode/45zfiRMcmMjObNTJZ7u0x1) | [Made IT \- Storie Italiane di Successo](https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW) | [Made IT \- Storie Italiane di Successo](https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW) | 58:52 |
+| 4 | [ELON MUSK È FOLLE!! \- STREETSMART EP.08](https://open.spotify.com/episode/3WxPdMAorJSJOrBkuNgVVN) | [STREETSMART](https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux) | [STREETSMART](https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux) | 1:11:42 |
+| 5 | [È GIUSTO USCIRE CON PIU PERSONE CONTEMPORANEAMENTE? Capiamo \#109](https://open.spotify.com/episode/6qFpyhFRheMgUWBp6BdLmR) | [Capiamo](https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7) | [Capiamo](https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7) | 44:35 |
+| 6 | [HYPERSIMPOSIO III : 18K ](https://open.spotify.com/episode/6JnJtRSnuakL3ag4pZmjp9) | [HYPERSIMPOSIO ](https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop) | [HYPERSIMPOSIO ](https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop) | 39:50 |
+| 7 | [Il RE della cosmetica che produce per i brand più famosi del mondo con Dario Ferrari, Fondatore Intercos](https://open.spotify.com/episode/67Ahyuo2ihAZ19vBoi8Tvo) | [Made IT \- Storie Italiane di Successo](https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW) | [Made IT \- Storie Italiane di Successo](https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW) | 31:28 |
+| 8 | [L'UOMO IDEALE di MARTA DADDATO?! \- STREETSMART EP.12](https://open.spotify.com/episode/36DhUFDUGlLyjCIZMK0GiF) | [STREETSMART](https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux) | [STREETSMART](https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux) | 1:06:07 |
 
-Snapshot ID: `AAAAAOgr1Fo7wk5Z3zShOIyxWZwdPzz1`
+Snapshot ID: `AAAAAMzDurMmpyVjvJzcJr9OpAYsJwIq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: G.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,255 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,247 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 26 | [Arsenal](https://open.spotify.com/track/02Z0v8PZre3zEqEk12RMRH) | [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Arsenal](https://open.spotify.com/album/7KeLskuKJmbGHkigbpQKY5) | 2:00 |
 | 27 | [INFLUÊNCIA](https://open.spotify.com/track/2L73PIlknka1KEzQ6DbWSB) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [INFLUÊNCIA](https://open.spotify.com/album/2KRFeS8ANBmy2LvsopggiF) | 1:57 |
 | 28 | [Chefuxa](https://open.spotify.com/track/4yEYW0KzXIRqG77xKYhtai) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 3:49 |
-| 29 | [Lido com Crises](https://open.spotify.com/track/62J64HBcLb6j0DeWgwD4SU) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [Lido com Crises](https://open.spotify.com/album/25dMLQV3ZW4GrZVBKgxSTV) | 2:58 |
+| 29 | [LIDO COM CRISES](https://open.spotify.com/track/62J64HBcLb6j0DeWgwD4SU) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [LIDO COM CRISES](https://open.spotify.com/album/25dMLQV3ZW4GrZVBKgxSTV) | 2:58 |
 | 30 | [“TO GANHANDO BEM”](https://open.spotify.com/track/4KSZPcjsANLFTCwvAdbr4P) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [432Hz](https://open.spotify.com/album/76sEhw4amrPVy88oSXf5Un) | 2:01 |
 | 31 | [5ª DIMENSÃO](https://open.spotify.com/track/2ZBAoshSsVrgOzabiQKhBS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 3:16 |
 | 32 | [Ato Ⅰ: Ódio](https://open.spotify.com/track/3geKDC7oWAnT8h9nX8X9N7) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [O Circo](https://open.spotify.com/album/7uZxogxHr336NZFu8uJHWY) | 2:24 |

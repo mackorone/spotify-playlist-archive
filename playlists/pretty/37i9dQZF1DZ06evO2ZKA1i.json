@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 299521,
+  "num_followers": 299547,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAAAonOAmrkHfkl2EfpgLGzbT",
+  "snapshot_id": "aOxBAAAAAAD/+dEkz38lCWHUzqZNePez",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 272996,
-      "name": "Space Truckin' - Remastered 2012",
-      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+      "duration_ms": 272996,
+      "name": "Space Truckin' - Remastered 2012",
+      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Fireball - 1996 Remaster",
-      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/6ivsgcVBWi6Etm2EldytF4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 231640,
       "name": "Strange Kind of Woman - 2002 Remaster",
       "url": "https://open.spotify.com/track/3T6TEPxUsMFw9SejwRFe6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Fireball - 1996 Remaster",
+      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 321333,
-      "name": "Demon's Eye - 1996 Remaster",
-      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 449133,
       "name": "Sometimes I Feel Like Screaming",
       "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 321333,
+      "name": "Demon's Eye - 1996 Remaster",
+      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 282426,
       "name": "All I Got Is You",
       "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-04",
   "description": "Your favourite caf\u00e9 with that warm and cozy Jazz vibe.",
-  "name": "Cozy Coffee Shop",
+  "name": "Cozy Coffee Shop Jazz",
   "tracks": [
     {
       "album": {
@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Flicker of a Smile",
+        "url": "https://open.spotify.com/album/4xeloDoTDxL39SFrhWSVjn"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237459,
+      "name": "Flicker of a Smile",
+      "url": "https://open.spotify.com/track/6pZlkZeV5mjQaO73rBqjP6"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
       },
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 192874,
       "name": "Gentle Rain",
       "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
@@ -1442,6 +1460,24 @@
       "duration_ms": 260540,
       "name": "I Saw The Sun",
       "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
+    },
+    {
+      "album": {
+        "name": "I still hear your voice",
+        "url": "https://open.spotify.com/album/34a4pBS2njnk6XJxyUc1BC"
+      },
+      "artists": [
+        {
+          "name": "Trio in Transit",
+          "url": "https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193478,
+      "name": "I still hear your voice",
+      "url": "https://open.spotify.com/track/0xem0NbddWGyPE3crPyn1e"
     },
     {
       "album": {
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 223278,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/6aJUOfoLUBcZqc1emenF1F"
@@ -1913,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Look at the clock",
+        "url": "https://open.spotify.com/album/14pUnCN6eyGFMB82OzL2pG"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210689,
+      "name": "Look at the clock",
+      "url": "https://open.spotify.com/track/6AjUjsJR8PKVwmuiI2im9M"
+    },
+    {
+      "album": {
         "name": "Love Grows",
         "url": "https://open.spotify.com/album/4U0NvErsvXBvpnTGwspS6P"
       },
@@ -2014,7 +2068,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 183946,
       "name": "Ludlow",
       "url": "https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv"
@@ -2032,7 +2086,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 160292,
       "name": "Make bad worse",
       "url": "https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu"
@@ -2338,7 +2392,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 222259,
       "name": "My Piano",
       "url": "https://open.spotify.com/track/4aoq1u9tdtIrEqYrg08f85"
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 198553,
       "name": "Only Way To Play Is All In",
       "url": "https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI"
@@ -2896,10 +2950,28 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 234706,
       "name": "September Waltz",
       "url": "https://open.spotify.com/track/3duqLrVlkcoxAyoSKGDKBB"
+    },
+    {
+      "album": {
+        "name": "Settle back",
+        "url": "https://open.spotify.com/album/6fKNZuorUE0A0MOy6wShZ0"
+      },
+      "artists": [
+        {
+          "name": "Autumn Steps",
+          "url": "https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223154,
+      "name": "Settle back",
+      "url": "https://open.spotify.com/track/55skSQvbWCzx8nlN4fpeEp"
     },
     {
       "album": {
@@ -2932,7 +3004,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 418725,
       "name": "Smile in Your Eyes",
       "url": "https://open.spotify.com/track/6Ok5ubn2agXdrd8UrFfrrR"
@@ -3134,6 +3206,24 @@
       "duration_ms": 178484,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW"
+    },
+    {
+      "album": {
+        "name": "Steady Wind",
+        "url": "https://open.spotify.com/album/4ynwvu1tgh72u0VovM0yNY"
+      },
+      "artists": [
+        {
+          "name": "Figgy Mold",
+          "url": "https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214460,
+      "name": "Steady Wind",
+      "url": "https://open.spotify.com/track/2jZZBgRqzNbF5zQnv9SNLO"
     },
     {
       "album": {
@@ -3472,7 +3562,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 238107,
       "name": "Tip Your Hat",
       "url": "https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx"
@@ -3994,7 +4084,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 299029,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"

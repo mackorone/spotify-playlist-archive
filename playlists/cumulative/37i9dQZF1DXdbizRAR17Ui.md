@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-422 songs - 1 day 4 hr 37 min
+423 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2022-06-20 | 2024-04-05 |
 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 | 2025-02-20 | 2025-03-22 |
 | [Fireworks](https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:24 | 2021-11-24 | 2022-07-09 |
+| [First Light](https://open.spotify.com/track/5fV7oTa9uIXWDItxcyhHEV) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [First Light](https://open.spotify.com/album/0wM0yQ1NZ5JoubMkc1flpa) | 4:34 | 2025-10-02 |  |
 | [Follow Me](https://open.spotify.com/track/2CjAV5o0xbp9APj9WQ2gJZ) | [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [Cotton Duck](https://open.spotify.com/artist/4ZqPmeHmCFc9LDbOSdpzaM) | [Follow Me](https://open.spotify.com/album/0mgVhaztvwTi7amAD6wWWP) | 2:22 | 2025-07-03 |  |
 | [Found](https://open.spotify.com/track/509uuSR2IGBjF8QdEl8QyF) | [Kieran Hemming](https://open.spotify.com/artist/0y7PZphnEbZAG2JHlPR4Pi) | [Found](https://open.spotify.com/album/6PoV1awb16hm655ftsNxoi) | 3:30 | 2021-11-24 | 2022-07-29 |
 | [fused \(DJ\-Kicks\)](https://open.spotify.com/track/07F3akBPO1FjKJMwDXKf8r) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [fused \(DJ\-Kicks\)](https://open.spotify.com/album/2KHNxTmgqFo6Fn5Jvfib7R) | 3:30 | 2025-02-20 | 2025-04-26 |
@@ -314,7 +315,7 @@
 | [Repose Tactics](https://open.spotify.com/track/14UZicXINbASANbsPRkDai) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Repose Tactics](https://open.spotify.com/album/1T1eGduaUejoA02GvpnRti) | 3:11 | 2021-11-24 | 2022-06-30 |
 | [Resonate](https://open.spotify.com/track/69aJGjfpWk9mrw6amJM6jC) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Resonate](https://open.spotify.com/album/7yAJGXt2eSGGFU0rbVdSvj) | 4:32 | 2021-11-24 | 2022-07-29 |
 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 | 2021-11-24 | 2022-07-29 |
-| [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 | 2024-06-14 |  |
+| [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 | 2024-06-14 | 2025-10-15 |
 | [Ritual](https://open.spotify.com/track/4yZJa4GNFWR99eb2HQpA5Q) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Ritual](https://open.spotify.com/album/44bdIAMpjgPK3BWeRWbvyS) | 5:55 | 2021-11-24 | 2022-01-15 |
 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2022-06-20 | 2024-06-05 |
 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 | 2025-05-16 |  |

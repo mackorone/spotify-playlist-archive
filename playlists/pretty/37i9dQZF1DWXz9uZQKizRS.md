@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Lordofon
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,045 likes - 101 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,038 likes - 101 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 71 | [Ciosy proste](https://open.spotify.com/track/3swBcfF8L9D4x8FpRlIIs9) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI) | [Ciosy proste](https://open.spotify.com/album/4DZQ288saZwPHA5tIJRxL9) | 4:07 |
 | 72 | [Mikroplastik](https://open.spotify.com/track/2Z27suqTHltarz8CAmxWSq) | [wkrsc](https://open.spotify.com/artist/1Bp3P9syhjaiOOIoKoWNHf), [miile](https://open.spotify.com/artist/73Yj8yl3XglDOPDLdGMZ3p), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [Mikroplastik](https://open.spotify.com/album/4hbje4m5Ygdp6qgqViDko7) | 4:01 |
 | 73 | [BUENOS](https://open.spotify.com/track/2gRq6PD3FPkATNfHBb5nti) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [BUENOS](https://open.spotify.com/album/6qj7jhpY9oyeJQIf2mDosF) | 3:58 |
-| 74 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
+| 74 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
 | 75 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 |
 | 76 | [Chcesz to leć](https://open.spotify.com/track/1UE8lqX8NrCPZC9Ygg0dES) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Chcesz to leć](https://open.spotify.com/album/19eqpqhJD22UGgSj9r0y9r) | 3:42 |
 | 77 | [Himalaje](https://open.spotify.com/track/4IhYpTLze4fiOIDZ6HTS6X) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Himalaje](https://open.spotify.com/album/0Y3ZhFXv40x4Euyg3J7IYY) | 2:53 |

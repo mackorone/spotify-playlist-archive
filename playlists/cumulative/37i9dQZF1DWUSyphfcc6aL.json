@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Come Find Me (with Clementine Douglas)",
+        "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207149,
+      "name": "Come Find Me (with Clementine Douglas)",
+      "url": "https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE"
+    },
+    {
+      "album": {
         "name": "Control (NOTD Remix)",
         "url": "https://open.spotify.com/album/6TEFKBMDrcGZmoJn6rmuWt"
       },
@@ -2432,7 +2454,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"

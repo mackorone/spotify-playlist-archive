@@ -3695,6 +3695,28 @@
     },
     {
       "album": {
+        "name": "Infinity Gradient: Section 1",
+        "url": "https://open.spotify.com/album/6SZYlR8A51I8JqzPGNAffm"
+      },
+      "artists": [
+        {
+          "name": "Tristan Perich",
+          "url": "https://open.spotify.com/artist/7cXmvFHYFKGdPffO09437q"
+        },
+        {
+          "name": "James McVinnie",
+          "url": "https://open.spotify.com/artist/4aFXwGxCEd4fSBcXE7N3V5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495524,
+      "name": "Infinity Gradient: Section 1",
+      "url": "https://open.spotify.com/track/3RvQtSQzHWZs7rLikSClRP"
+    },
+    {
+      "album": {
         "name": "Kula",
         "url": "https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM"
       },
@@ -7116,7 +7138,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 241742,
       "name": "Spring Siesta",
       "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"

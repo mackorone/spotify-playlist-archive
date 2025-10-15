@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,868 likes - 95 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,924 likes - 95 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

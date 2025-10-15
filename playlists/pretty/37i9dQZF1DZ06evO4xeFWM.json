@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 219291,
+  "num_followers": 219306,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAABq/cSYM7eQw62/hsyoLmcd",
+  "snapshot_id": "aOxBAAAAAAAuNdBnLuvYurIfPk8ojeFz",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Four",
-        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Bored & Overboard (Pandora\u2019s Box)",
-      "url": "https://open.spotify.com/track/4hvW9gYShm67Lb9HEkZqDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad in Scandinavia",
         "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Four",
+        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Bored & Overboard (Pandora\u2019s Box)",
+      "url": "https://open.spotify.com/track/4hvW9gYShm67Lb9HEkZqDe"
     },
     {
       "added_at": null,

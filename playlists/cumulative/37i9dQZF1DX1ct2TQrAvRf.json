@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Param",
+  "description": "India's Rap Scene. Cover - Seedhe Maut",
   "name": "RAP 91",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 167074,
       "name": "3 DRAGS",
       "url": "https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 243667,
       "name": "7.7 Magnitude",
       "url": "https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 233877,
       "name": "Aizawl City Innis Bish",
       "url": "https://open.spotify.com/track/4x9blFuroGjEHTZLhGtCwX"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 193263,
       "name": "I'ma Do My Thiiing",
       "url": "https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm"
@@ -4381,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "MALLASUDU",
+        "url": "https://open.spotify.com/album/4j7BRSyCSo3JG2lV69Z75T"
+      },
+      "artists": [
+        {
+          "name": "Dasagriva",
+          "url": "https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191527,
+      "name": "MALLASUDU",
+      "url": "https://open.spotify.com/track/3HymSNBj13CYy1vQZBWvhb"
+    },
+    {
+      "album": {
         "name": "Manavaalan Thug (From \"Thallumaala\")",
         "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
       },
@@ -4806,6 +4824,28 @@
       "duration_ms": 213818,
       "name": "NERA",
       "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
+    },
+    {
+      "album": {
+        "name": "New Riot",
+        "url": "https://open.spotify.com/album/41jk5cLUgG35qFcUGPVtoA"
+      },
+      "artists": [
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        },
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "New Riot",
+      "url": "https://open.spotify.com/track/1iFPIiwChDzll8SGFJtrHs"
     },
     {
       "album": {
@@ -5789,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Ring A Rose",
+        "url": "https://open.spotify.com/album/3vnQUiE4n9mzvcSEC5kK33"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139789,
+      "name": "Ring A Rose",
+      "url": "https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem"
+    },
+    {
+      "album": {
         "name": "For The Day One$",
         "url": "https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT"
       },
@@ -5968,7 +6026,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 249163,
       "name": "Sawaal Puchdi (From \"51 GLORIOUS DAYS\")",
       "url": "https://open.spotify.com/track/4IzMinx3nSlP47jCDtUrvf"
@@ -7313,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/22bmtTyQaSY5wxO3O9EwHQ"
+      },
+      "artists": [
+        {
+          "name": "Yelhomie",
+          "url": "https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215571,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/4uJoJtIq7h5pTS6lfvLbEN"
+    },
+    {
+      "album": {
         "name": "Breakin Boundaries",
         "url": "https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e"
       },
@@ -7580,7 +7656,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 177307,
       "name": "\u0d2e\u0d3f\u0d28\u0d4d\u0d28\u0d3f \u0d2e\u0d31\u0d1e\u0d4d\u0d1e\u0d41",
       "url": "https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs"

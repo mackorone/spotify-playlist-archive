@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 
 > Dance remixes of popular songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,101 likes - 150 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,338 likes - 150 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 | 31 | [Ça Plane Pour Moi](https://open.spotify.com/track/0PGm3NNagxDaHas5YyiGnV) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Deso Latee](https://open.spotify.com/artist/0klyxA0TLyUMXyeIsbe5eN) | [Ça Plane Pour Moi](https://open.spotify.com/album/765or5WI01dcXYlibrzcqm) | 2:07 |
 | 32 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 |
 | 33 | [Rude Boy](https://open.spotify.com/track/4BejhNw8vSXf7BwVy9Osmj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Rude Boy](https://open.spotify.com/album/3qlpSfP5AHTpYGnCmBCf99) | 2:39 |
-| 34 | [Believe \(Jackyboom Piano Edit\) \- Cover](https://open.spotify.com/track/7GmAIRZo719xQ2i2wG6Pxx) | [Jackyboom](https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Believe \(Jackyboom Piano Edit\) \[Cover\]](https://open.spotify.com/album/4OWo5upqMrOra2hkjI3kPy) | 3:45 |
+| 34 | [Believe \(Jackyboom Piano Edit\) \- Cover](https://open.spotify.com/track/7GmAIRZo719xQ2i2wG6Pxx) | [Jackyboom](https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Believe \(Piano Edit\) \[Cover\]](https://open.spotify.com/album/4OWo5upqMrOra2hkjI3kPy) | 3:45 |
 | 35 | [Macarena](https://open.spotify.com/track/6LTS7JNLVhRH5NWpCjqNcn) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Macarena](https://open.spotify.com/album/2rP6uHmufkpelkrnkJCskU) | 2:16 |
 | 36 | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE) | 2:40 |
 | 37 | [Bailando](https://open.spotify.com/track/5Zm0lM69GIVw45fXhaL167) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bailando](https://open.spotify.com/album/5PXUWLnPxUVsaOt1gERTRx) | 2:15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2957842,
+  "num_followers": 2957856,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACSWSzgdtCIWT4FguVtfxhU",
+  "snapshot_id": "aOxBAAAAAACYci5uL+oDokzOCiM3dNxW",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "I spoke to the devil in miami, he said everything would be fine",
+      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Will Regret (Reloaded)",
         "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 210386,
       "name": "Take A Step Back",
       "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "I spoke to the devil in miami, he said everything would be fine",
-      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
     },
     {
       "added_at": null,

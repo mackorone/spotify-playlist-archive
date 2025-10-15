@@ -3804,6 +3804,28 @@
     {
       "album": {
         "name": "Echoes",
+        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
+    },
+    {
+      "album": {
+        "name": "Echoes",
         "url": "https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj"
       },
       "artists": [
@@ -12750,7 +12772,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 192626,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"

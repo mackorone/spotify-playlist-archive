@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Ama Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,562 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,595 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 11 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 |
 | 12 | [Class A](https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Symptoms of Me](https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs) | 2:29 |
 | 13 | [Light](https://open.spotify.com/track/5Mlitki4j9rXjKEapw0lUJ) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Light](https://open.spotify.com/album/5K1kLLnLzYbojhXOZaWEZp) | 3:49 |
-| 14 | [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tyson](https://open.spotify.com/artist/7vgtFAsr1Cf9NX4qq64bVs) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 |
+| 14 | [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 |
 | 15 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
 | 16 | [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 |
 | 17 | [Moonlight](https://open.spotify.com/track/2wUnNvShBARNL6a6HwIPr4) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 3:50 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Charlu",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: MaRI",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -691,6 +691,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        },
+        {
+          "name": "IIInana",
+          "url": "https://open.spotify.com/artist/3O1dmNv7sOKWyiItxpce9e"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172040,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2zIV5wKbGzJc0QK6GprwBb"
+    },
+    {
+      "album": {
         "name": "jyuunoashiato",
         "url": "https://open.spotify.com/album/614Wo1zbhfduM5nHg7fATp"
       },
@@ -1140,7 +1162,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 185437,
       "name": "BAD LOVE",
       "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 232005,
       "name": "Body Machine",
       "url": "https://open.spotify.com/track/4Q8Hlx9ZDNF4RwAIgbxex4"
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 167585,
       "name": "Diary 9",
       "url": "https://open.spotify.com/track/1t8SvlndvfSar6g8hcb9f8"
@@ -7034,7 +7056,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 198000,
       "name": "I hate this love song",
       "url": "https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG"
@@ -7092,6 +7114,24 @@
       "duration_ms": 202285,
       "name": "I Just Wanna Say",
       "url": "https://open.spotify.com/track/1f526AAo6mlEF6JJpYCrYx"
+    },
+    {
+      "album": {
+        "name": "i love you",
+        "url": "https://open.spotify.com/album/3hdlZbQm127kMJuMYdLJE2"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209330,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/583H4PwxDEj4bOcIN2ZQOG"
     },
     {
       "album": {
@@ -7416,7 +7456,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 290800,
       "name": "iconoclasm",
       "url": "https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0"
@@ -8110,7 +8150,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 182806,
       "name": "kawaii kawaii (feat. \u91cd\u76db\u3055\u3068\u7f8e)",
       "url": "https://open.spotify.com/track/5GWwLSZsXDo5BUVRXvO4OW"
@@ -10483,6 +10523,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/7sp0LUECcPsLwRA4ysutsq"
+      },
+      "artists": [
+        {
+          "name": "MALIYA",
+          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192844,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4pVQ2vSayFNTKMTH040wcM"
+    },
+    {
+      "album": {
         "name": "MOONWALK",
         "url": "https://open.spotify.com/album/094PU8DEDh2QEZkMSGQvEF"
       },
@@ -10726,6 +10784,24 @@
       "duration_ms": 231893,
       "name": "musuitai",
       "url": "https://open.spotify.com/track/1IKiRmT67kuduEZry25bXw"
+    },
+    {
+      "album": {
+        "name": "My Body",
+        "url": "https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203296,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
     },
     {
       "album": {
@@ -15233,6 +15309,24 @@
     },
     {
       "album": {
+        "name": "Stand by side",
+        "url": "https://open.spotify.com/album/7t3NdWUuz2SRMOB1rDYA2N"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207241,
+      "name": "Stand by side",
+      "url": "https://open.spotify.com/track/0KkbO34LFk9lk8ccukJi6R"
+    },
+    {
+      "album": {
         "name": "Stand By You",
         "url": "https://open.spotify.com/album/6eoNIFocH403BtOGIwcT7o"
       },
@@ -18032,6 +18126,24 @@
       "duration_ms": 248699,
       "name": "We Are Love",
       "url": "https://open.spotify.com/track/1tO1BXeXp5GeVCezL2H2PD"
+    },
+    {
+      "album": {
+        "name": "We Outside!",
+        "url": "https://open.spotify.com/album/2wDoobLYImMn8BXfE5Mbjv"
+      },
+      "artists": [
+        {
+          "name": "BananaLemon",
+          "url": "https://open.spotify.com/artist/3JKU6cvr3SESsNviVlNCZc"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "We Outside!",
+      "url": "https://open.spotify.com/track/0InwRaqEDMhSEHlWch0CCq"
     },
     {
       "album": {

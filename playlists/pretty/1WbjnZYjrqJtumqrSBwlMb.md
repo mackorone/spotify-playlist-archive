@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,134 songs - 2 day 21 hr 37 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,136 songs - 2 day 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1142,5 +1142,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1132 | [Fine Madeline](https://open.spotify.com/track/2khjSwh01eCWBstZo9rDGn) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 2:19 |
 | 1133 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 1134 | [Running Running Running](https://open.spotify.com/track/5GvDlQbFI3KiVAhJZ4QfDU) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Running Running Running](https://open.spotify.com/album/6VvmZmSmQxF2njwhExQBpX) | 3:08 |
+| 1135 | [Sunshine When It Rains](https://open.spotify.com/track/2dCIGxwbZPZwrWHGvSy71O) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Sunshine When It Rains / See The World](https://open.spotify.com/album/7CkY3b34iF8CMlvIOLusfH) | 5:16 |
+| 1136 | [See The World](https://open.spotify.com/track/12jrSjP82YIlsX01ZsATmB) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Sunshine When It Rains / See The World](https://open.spotify.com/album/7CkY3b34iF8CMlvIOLusfH) | 5:38 |
 
-Snapshot ID: `AAAJYFTXxj7Otbm8NOnGvx8RHNbM7rcQ`
+Snapshot ID: `AAAJYW5h5kP/LuUvRRFueOCcw/GuEDcA`

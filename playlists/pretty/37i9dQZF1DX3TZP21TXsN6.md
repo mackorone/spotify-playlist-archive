@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: TJWAVE, HAYABUSA, Botje en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,201 likes - 78 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,196 likes - 78 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uitleg](https://open.spotify.com/track/0lnivkeapkbfg6I4HGsSB1) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Araz](https://open.spotify.com/artist/1rPMcrX4V33XyzbdAx7wAL) | [Uitleg](https://open.spotify.com/album/0YQEun65Mm0QyRcR0NInym) | 2:38 |
-| 2 | [Act Like That](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Act Like That](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
+| 2 | [act like that](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [act like that](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
 | 3 | [Formule](https://open.spotify.com/track/3PxeCM0xaaXFdzEVNaNYbZ) | [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Formule](https://open.spotify.com/album/5dA4cV2hhEyGqrhmbb9GAl) | 2:00 |
 | 4 | [MISTER FARIOLI \- PortoBoyzMafia Remix](https://open.spotify.com/track/6IuedfcFGPEIKVWW6Ho1RV) | [Botje](https://open.spotify.com/artist/0jkPAa12yF8g1rPcQ9h5G5), [Red Light Italy](https://open.spotify.com/artist/5UD1zlmEM333je6baVDkDC), [Joint One](https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ), [Yung Juse](https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ) | [MISTER FARIOLI \(PortoBoyzMafia Remix\)](https://open.spotify.com/album/6rHiIKsfTOg1KqZdhpzXqD) | 2:42 |
 | 5 | [All Those Times](https://open.spotify.com/track/6fz4lBZC6GI90IMyVcwu8g) | [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm), [City Churches District](https://open.spotify.com/artist/4GHJjMa8cCUrQ8qoNNG2wG), [mawa](https://open.spotify.com/artist/6noIg5cD1Do5zFxvnJQzU5) | [All Those Times](https://open.spotify.com/album/0RzWZbUgyVTlc03h8ewJKY) | 3:32 |

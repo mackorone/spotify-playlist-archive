@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Brian Eno, Beatie Wolfe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,004 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,099 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 51 | [Is Love Permanent, Or Does It Evaporate With Us?](https://open.spotify.com/track/7cjjVi4WBS1gbUzkxBIkVP) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Seva / Is Love Permanent, Or Does It Evaporate With Us?](https://open.spotify.com/album/0oZi3sMl3KTcZPepgGWk5Y) | 4:32 |
 | 52 | [Rainbow Road](https://open.spotify.com/track/0ypgZwJfC8lccbUBVeGaKv) | [Anushka Chkheidze](https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Rainbow Road](https://open.spotify.com/album/4HJXzNUNKuoT9WmS0x80Ho) | 5:11 |
 | 53 | [Migration](https://open.spotify.com/track/3JplUYD5xtB98QwwSZZxfm) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM), [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Migration](https://open.spotify.com/album/6CigePH6eTD0em3IIy9BFG) | 3:55 |
-| 54 | [Forgiveness](https://open.spotify.com/track/0jKgVwSiPSA7BncEn9qfTi) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Forgiveness](https://open.spotify.com/album/0Rn8ptCY2H9TMN1x1vnKpH) | 3:49 |
+| 54 | [Forgiveness](https://open.spotify.com/track/0jKgVwSiPSA7BncEn9qfTi) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Cecily Eno](https://open.spotify.com/artist/1L3WQsdf4LVCNxBQG2wRez), [Lotti Eno](https://open.spotify.com/artist/2wn0xEgHHh2VauObfT6MO2), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [Forgiveness](https://open.spotify.com/album/0Rn8ptCY2H9TMN1x1vnKpH) | 3:49 |
 | 55 | [Displacement \- KMRU rework](https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Displacement \(KMRU rework\)](https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7) | 4:16 |
 | 56 | [Specular](https://open.spotify.com/track/0Z9S0hJ7MEBQAqJEwuyqLW) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT), [Arli Liberman](https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k) | [Traces](https://open.spotify.com/album/7MUo9bDoliYraZdayic0pa) | 6:56 |
 | 57 | [A Part](https://open.spotify.com/track/0DxrvLYAuvKQHP4kVdjZGx) | [Htennek Niwhsa](https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04) | [A Part](https://open.spotify.com/album/4CqoZUlQQSfdOwiQXi4LLj) | 2:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4WsiLOvvpCEdV40Wg1kzui">Zuta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,745 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,743 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 3 | [PASSPORT](https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PASSPORT](https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K) | 2:11 |
 | 4 | [Himalaje](https://open.spotify.com/track/4ARiYyiDAhao9qxVj19wMd) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Jestem wierszem](https://open.spotify.com/album/0LPh6ItoITqbigDHjBp8vY) | 2:53 |
 | 5 | [ŚPISZ](https://open.spotify.com/track/7wegE7NWGJwWXcGvzKY4Mb) | [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [ŚPISZ](https://open.spotify.com/album/0AQ8YEkgWiuRQYETt71Pv2) | 2:03 |
-| 6 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
+| 6 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
 | 7 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
 | 8 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
 | 9 | [Wyjmij mnie](https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Wyjmij mnie](https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj) | 3:18 |

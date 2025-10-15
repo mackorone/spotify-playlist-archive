@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 108690,
+  "num_followers": 108794,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 237868,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "DaKAR II",
         "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 328226,
       "name": "Ngiyaz'fela Ngawe (feat. Thabsie)",
       "url": "https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 237868,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Princess of House (Easy to Love)",
-        "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
-      },
-      "artists": [
-        {
-          "name": "Bucie",
-          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
-        }
-      ],
-      "duration_ms": 335466,
-      "name": "Easy to Love",
-      "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Love & Light",
         "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 158052,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Princess of House (Easy to Love)",
+        "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "duration_ms": 335466,
+      "name": "Easy to Love",
+      "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -715,6 +699,42 @@
       "duration_ms": 313714,
       "name": "I Do (feat. Amanda Black)",
       "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "If Love Is A Crime",
+      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -739,26 +759,6 @@
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "If Love Is A Crime",
-      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 194560,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Sweet Sensation",
-        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
-      },
-      "artists": [
-        {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        },
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Sweet Sensation",
-      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        },
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 210651,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
+      },
+      "artists": [
+        {
+          "name": "Internet Athi",
+          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
+        }
+      ],
+      "duration_ms": 270652,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "LOVE IS PAIN",
         "url": "https://open.spotify.com/album/1inejscdMY2EBbrGS1UeR2"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0HnlM5zv18lM1gKIxOiW96"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
-      },
-      "artists": [
-        {
-          "name": "Internet Athi",
-          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
-        }
-      ],
-      "duration_ms": 270652,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Maproso",
-        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
-      },
-      "artists": [
-        {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
-        },
-        {
-          "name": "Suzanna Owiyo",
-          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "Maproso",
-      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Sasa Hivi [Stripped Down]",
         "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 262184,
       "name": "Sasa Hivi [Stripped Down]",
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Maproso",
+        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "Suzanna Owiyo",
+          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "Maproso",
+      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
     },
     {
       "added_at": "2025-07-11 08:09:25",

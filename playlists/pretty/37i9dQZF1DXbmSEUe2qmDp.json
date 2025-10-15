@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Matheus Vargas",
-  "num_followers": 479185,
+  "num_followers": 479210,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Dois P\u00e9 no Peito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5JBlm5DyZxfFlvmTadfVsS"
-      },
-      "artists": [
-        {
-          "name": "Abel e Ben\u00edcio",
-          "url": "https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE"
-        },
-        {
-          "name": "Danilo e Davi",
-          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "Dois P\u00e9 no Peito - Ao Vivo",
-      "url": "https://open.spotify.com/track/46vgRBlaFOiyfCyYk2xBDr"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Parava De Beber (Ao Vivo)",
         "url": "https://open.spotify.com/album/5APKfj7xXNuMT5IplZZh6S"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 151049,
       "name": "Parava De Beber - Ao Vivo",
       "url": "https://open.spotify.com/track/2Y3L8NDqMnlXpjJEenRyeW"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Dois P\u00e9 no Peito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5JBlm5DyZxfFlvmTadfVsS"
+      },
+      "artists": [
+        {
+          "name": "Abel e Ben\u00edcio",
+          "url": "https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE"
+        },
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Dois P\u00e9 no Peito - Ao Vivo",
+      "url": "https://open.spotify.com/track/46vgRBlaFOiyfCyYk2xBDr"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -559,42 +559,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Provavelmente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2w5MqV5NhFO5JdmczCy8lm"
-      },
-      "artists": [
-        {
-          "name": "Felipe & Ferrari",
-          "url": "https://open.spotify.com/artist/06U3X2A3KTTkU7lnb2jbaj"
-        }
-      ],
-      "duration_ms": 145890,
-      "name": "Provavelmente - Ao Vivo",
-      "url": "https://open.spotify.com/track/79Y77XjU5v9C1J3Gkxy9YV"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
-        "name": "Segunda Prioridade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GkpmXWxvJDjG8NQWbxF65"
-      },
-      "artists": [
-        {
-          "name": "Gabi Suarez",
-          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
-        },
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 208235,
-      "name": "Segunda Prioridade - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zxzWWqJcp0kIzRgkv9WiA"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Na Calada Da Noite (Ao Vivo)",
         "url": "https://open.spotify.com/album/4v3i4EMNSB2e0WQYkBJxSv"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 181043,
       "name": "Na Calada Da Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/7wHo1CL9XFYMFwzaS6nDHS"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Provavelmente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2w5MqV5NhFO5JdmczCy8lm"
+      },
+      "artists": [
+        {
+          "name": "Felipe & Ferrari",
+          "url": "https://open.spotify.com/artist/06U3X2A3KTTkU7lnb2jbaj"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Provavelmente - Ao Vivo",
+      "url": "https://open.spotify.com/track/79Y77XjU5v9C1J3Gkxy9YV"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -627,6 +607,26 @@
       "duration_ms": 175918,
       "name": "Carioca",
       "url": "https://open.spotify.com/track/3o4BERtAquRCu5RvYaEqjh"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Segunda Prioridade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GkpmXWxvJDjG8NQWbxF65"
+      },
+      "artists": [
+        {
+          "name": "Gabi Suarez",
+          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
+        },
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        }
+      ],
+      "duration_ms": 208235,
+      "name": "Segunda Prioridade - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zxzWWqJcp0kIzRgkv9WiA"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Lado Ruim",
-        "url": "https://open.spotify.com/album/4FUTn5dOYJr0bJZgmSeOgq"
-      },
-      "artists": [
-        {
-          "name": "Gabi Suarez",
-          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
-        },
-        {
-          "name": "Juliana Marques",
-          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
-        }
-      ],
-      "duration_ms": 163051,
-      "name": "Lado Ruim",
-      "url": "https://open.spotify.com/track/7rhyOxdEI6lBB8IeOFwQiT"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Meus Versos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 186289,
       "name": "Festa Violenta - Ao Vivo",
       "url": "https://open.spotify.com/track/6lSls0O8U5DcL1yPSWxqst"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Lado Ruim",
+        "url": "https://open.spotify.com/album/4FUTn5dOYJr0bJZgmSeOgq"
+      },
+      "artists": [
+        {
+          "name": "Gabi Suarez",
+          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
+        },
+        {
+          "name": "Juliana Marques",
+          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
+        }
+      ],
+      "duration_ms": 163051,
+      "name": "Lado Ruim",
+      "url": "https://open.spotify.com/track/7rhyOxdEI6lBB8IeOFwQiT"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Telefone Mudo",
-        "url": "https://open.spotify.com/album/34rO65UAJshV92udKc3cxs"
-      },
-      "artists": [
-        {
-          "name": "Gabeu",
-          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
-        }
-      ],
-      "duration_ms": 152688,
-      "name": "Telefone Mudo",
-      "url": "https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Toque Toque DJ / Samara / Olha O Tirinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mupewNhkQ9Nwygqbahg5K"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 289670,
       "name": "Toque Toque DJ / Samara / Olha O Tirinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6fQuhojUxXZyeoS5ymcbJq"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Telefone Mudo",
+        "url": "https://open.spotify.com/album/34rO65UAJshV92udKc3cxs"
+      },
+      "artists": [
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        }
+      ],
+      "duration_ms": 152688,
+      "name": "Telefone Mudo",
+      "url": "https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p"
     },
     {
       "added_at": "2025-10-04 00:52:26",

@@ -2,7 +2,7 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> Tul8te :أحدث الأغاني المصرية هنا 🤩 الغلاف
+> TUL8TE :أحدث الأغاني المصرية هنا 🤩 الغلاف
 
 1,586 songs - 3 day 16 hr 27 min
 

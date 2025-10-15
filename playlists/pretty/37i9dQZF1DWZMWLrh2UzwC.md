@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Syamel, Ernie Zakri, Anuar Zain, Ziana Zain, JISOO, ZAYN, TWICE, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,975 likes - 130 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,979 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 33 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 |
 | 34 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 35 | [Heartline](https://open.spotify.com/track/6Dork76afiFEC0IsbRYDO9) | [U\-Pistol](https://open.spotify.com/artist/1gb2CA8m7WQ9q6iGWgQTQu), [Cayenne](https://open.spotify.com/artist/1JTyFHtzmZHTOUW74ChuRj) | [Heartline](https://open.spotify.com/album/1hynQ17FnrBpoUdN86VMxh) | 2:35 |
-| 36 | [the end of us](https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz), [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [tylo](https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI) | [first light](https://open.spotify.com/album/2Xszy3tyIDXRU7GfO1oS0U) | 3:24 |
+| 36 | [the end of us](https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [first light](https://open.spotify.com/album/2Xszy3tyIDXRU7GfO1oS0U) | 3:24 |
 | 37 | [Rain](https://open.spotify.com/track/57uwNYV0GcM6ZXRSgqrZxc) | [229](https://open.spotify.com/artist/5SVcLUjUDGoJQQmzBbYuVq), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL) | [Rain](https://open.spotify.com/album/13wqBqjrZeaXpgwCQLoX0j) | 2:54 |
 | 38 | [Love Is A Canyon](https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 3:48 |
 | 39 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 121 | [Still Not Over You](https://open.spotify.com/track/5R6hdVJAlXbbRUlxdssoyD) | [andreas owens](https://open.spotify.com/artist/2tJ0Wcl9h9PPkosJ4piT6k) | [Still Not Over You](https://open.spotify.com/album/5oAjxHV9PP7gN9oq0GumpL) | 2:46 |
 | 122 | [Water](https://open.spotify.com/track/2LVLFRI5GboBQYQiJgV5ht) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Water](https://open.spotify.com/album/2Tl3tvgrKKYnES2od5VIpn) | 1:51 |
 | 123 | [Siren Song](https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Siren Song](https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH) | 3:37 |
-| 124 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
+| 124 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
 | 125 | [Star Potential](https://open.spotify.com/track/5aUSWU2GbeBGETUVK31XJK) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Star Potential](https://open.spotify.com/album/5vjJdvi1UoCt71VRxdne0q) | 2:58 |
 | 126 | [青の魔法](https://open.spotify.com/track/3j5DAn7RNoJj2Kl87FeOOZ) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [青の魔法](https://open.spotify.com/album/10w3OQKWjYbcUzztkdw4oP) | 3:46 |
 | 127 | [My Dear, Oh Dear](https://open.spotify.com/track/4Nrzjx16pCRUAZ7TXikLpA) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sugar Coat Inc.](https://open.spotify.com/album/71DdkGcoRDXibQH8gs5Utn) | 3:18 |

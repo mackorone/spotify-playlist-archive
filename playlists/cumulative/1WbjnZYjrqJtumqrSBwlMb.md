@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,187 songs - 3 day 0 hr 37 min
+1,189 songs - 3 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,6 +861,7 @@
 | [Sculptures Of Anything Goes](https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:59 | 2022-10-20 |  |
 | [Second Life with Emily](https://open.spotify.com/track/6TwI8Blk7g7RRzhNtB1zH5) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:39 | 2021-04-03 |  |
 | [Secret Door](https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:43 | 2020-01-17 |  |
+| [See The World](https://open.spotify.com/track/12jrSjP82YIlsX01ZsATmB) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Sunshine When It Rains / See The World](https://open.spotify.com/album/7CkY3b34iF8CMlvIOLusfH) | 5:38 | 2025-10-15 |  |
 | [See Ya When I See Ya](https://open.spotify.com/track/7IebZOVczZaaT0v4pv9QbG) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [See Ya When I See Ya](https://open.spotify.com/album/5q5vWjZZ0I2K9eQf3CQzit) | 3:01 | 2021-10-21 |  |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2022-07-13 |  |
 | [See You In My Nightmares](https://open.spotify.com/track/60903t5ee2xtH5dHJ0AnPQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [808s & Heartbreak](https://open.spotify.com/album/5ykOQlHaE5ZRxMibfI75YW) | 4:18 | 2022-08-11 |  |
@@ -950,6 +951,7 @@
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2019-04-02 |  |
 | [Sunflower \- Live at Radio City Music Hall](https://open.spotify.com/track/3xz5n1xyi3DOMIb8vodsZm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Live at Radio City Music Hall](https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz) | 6:24 | 2025-08-19 |  |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 | 2022-09-11 |  |
+| [Sunshine When It Rains](https://open.spotify.com/track/2dCIGxwbZPZwrWHGvSy71O) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Sunshine When It Rains / See The World](https://open.spotify.com/album/7CkY3b34iF8CMlvIOLusfH) | 5:16 | 2025-10-15 |  |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2023-02-13 |  |
 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 | 2022-09-19 |  |
 | [Swallowed the Key \(Interlude\)](https://open.spotify.com/track/6JhrSYl1gjpRoePmB1aPhH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 2:11 | 2021-04-15 |  |

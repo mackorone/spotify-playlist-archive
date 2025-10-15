@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:0NSQBZzUfj9X6iV2D47Uo4">Fatt Macc</a>
 
-2,070 songs - 3 day 16 hr 42 min
+2,072 songs - 3 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [11:11](https://open.spotify.com/track/05pNbOo1JceQ07WWGXcyPg) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [11:11](https://open.spotify.com/album/03SZu9HWFflNolfOPvGBZh) | 1:33 | 2024-04-17 | 2024-04-24 |
 | [123](https://open.spotify.com/track/7KUTntmauXJdYOrQF1B6sX) | [Lil Rae](https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA) | [123](https://open.spotify.com/album/6c3a6ykgsMhxABsqXZxbFS) | 2:23 | 2025-10-08 |  |
 | [123 \(feat\. Lefty Gunplay\)](https://open.spotify.com/track/3MiL0b0FmUZu2jeUXQIhB5) | [hoodtrophy bino](https://open.spotify.com/artist/3YmsAPif4mx4mSugYt1n4c), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [123 \(feat\. Lefty Gunplay\)](https://open.spotify.com/album/2JdrS4JyfnUuThEygSZbmN) | 1:35 | 2025-06-11 | 2025-06-19 |
+| [1448 \(feat\. Reapa & Rambo\)](https://open.spotify.com/track/2mnBdEuTR6mYxrJA9nnqmf) | [Mo P.](https://open.spotify.com/artist/66iD0Qj7UsBR2ZJuyBu5lj), [Reapa](https://open.spotify.com/artist/6RdcSjsyZAI3oPqmNBsib3), [Rambo](https://open.spotify.com/artist/1kGpLQKCuAQ8kzI08Xppqp) | [1448](https://open.spotify.com/album/4DuzTS8Esqg6Qf9TzeLWIE) | 3:49 | 2025-10-14 |  |
 | [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 | 2022-02-16 | 2022-03-17 |
 | [17](https://open.spotify.com/track/56lQAn0yjOSc4K8bJw9AiX) | [Lucas Home](https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa) | [17](https://open.spotify.com/album/2TyRfC79EB7WaKP9KFMkID) | 3:03 | 2024-02-21 | 2024-03-28 |
 | [17Pope](https://open.spotify.com/track/6fRkJqkjmZr2KbTshc4T0T) | [RRoxket](https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS) | [17Pope](https://open.spotify.com/album/01IzEy2jcyn0blcKwVpEDc) | 2:35 | 2025-09-10 | 2025-09-25 |
@@ -1296,6 +1297,7 @@
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-16 | 2022-04-28 |
 | [No Gun No Knife](https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [No Gun No Knife](https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu) | 3:32 | 2023-07-19 | 2023-09-14 |
 | [No Handouts](https://open.spotify.com/track/0J7AtMtyQKJ24txM9ntA4m) | [David GotSound](https://open.spotify.com/artist/4wGjBnpl2JnOzLgS4q2HSJ), [Kish!](https://open.spotify.com/artist/1JMsZEdEQaTLW2JdGPpRxg) | [No Handouts](https://open.spotify.com/album/136R3DGWRU3N2WOgwW0muC) | 2:46 | 2022-01-19 | 2022-01-27 |
+| [No Heziii](https://open.spotify.com/track/2XRQ46oYaE5bNkdAJSLjfk) | [Izay](https://open.spotify.com/artist/3JtWGPhgfE0hrGqNYOHH7a), [Temi](https://open.spotify.com/artist/3OFWCYlGW7Xols9sJFHhQY) | [No Heziii](https://open.spotify.com/album/7BMkfo1DCArqRhoaiOMSe6) | 0:59 | 2025-10-14 |  |
 | [No Kizzy](https://open.spotify.com/track/6NZ8uaTO08hlxoy08dX6SI) | [Caal Vo](https://open.spotify.com/artist/4pmLIukbwngJ18fxeI3HLx) | [No Kizzy](https://open.spotify.com/album/3RMwKFxf7OG3ZHESHk8GC0) | 1:36 | 2022-10-26 | 2022-12-01 |
 | [No Lies](https://open.spotify.com/track/0t58xiARE4ZH1AmuWN55Lt) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [No Lies](https://open.spotify.com/album/0YNczsb7k9kwsPGtPURcBV) | 3:02 | 2023-05-10 | 2023-06-29 |
 | [no love 2](https://open.spotify.com/track/01s05e5ANn96SLzwr2J4Yw) | [nappy 01'](https://open.spotify.com/artist/6IWnCVYva2DgyJicGzVP7I), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [no love 2](https://open.spotify.com/album/30myOrMNWqfexfbII8IbcZ) | 2:21 | 2024-01-10 | 2024-02-29 |

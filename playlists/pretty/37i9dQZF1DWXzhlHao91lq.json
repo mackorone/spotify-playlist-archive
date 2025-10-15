@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73640,
+  "num_followers": 73643,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -34,6 +34,10 @@
         {
           "name": "Mokita",
           "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Trent Dabbs",
+          "url": "https://open.spotify.com/artist/6QFuGrftxjfONIARygYHIe"
         }
       ],
       "duration_ms": 179411,
@@ -271,22 +275,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 136031,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "Intentions (Acoustic)",
         "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
       },
@@ -299,6 +287,22 @@
       "duration_ms": 160611,
       "name": "Intentions - Acoustic",
       "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 136031,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -419,22 +423,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Running Boy",
-        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "Running Boy",
-      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "Here's Your Perfect (Acoustic)",
         "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
       },
@@ -447,6 +435,22 @@
       "duration_ms": 164669,
       "name": "Here's Your Perfect - Acoustic",
       "url": "https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Running Boy",
+        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "Running Boy",
+      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -807,22 +811,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Mission Bell",
-        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Violin",
-      "url": "https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
       },
@@ -859,6 +847,22 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
+        "name": "Mission Bell",
+        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -875,22 +879,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "WHAT I HAVE",
         "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
       },
@@ -903,6 +891,22 @@
       "duration_ms": 178681,
       "name": "WHAT I HAVE",
       "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -1167,22 +1171,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
-      },
-      "artists": [
-        {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "The Phosphorescent Blues",
         "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
       },
@@ -1195,6 +1183,22 @@
       "duration_ms": 326493,
       "name": "Julep",
       "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
     },
     {
       "added_at": "2025-09-21 16:00:21",

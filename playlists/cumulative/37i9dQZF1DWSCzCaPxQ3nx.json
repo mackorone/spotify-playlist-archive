@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "N'Ssi N'Ssi",
+        "url": "https://open.spotify.com/album/7JiTkfgNZqx6TSfVfLBpAJ"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "N'Ssi N'Ssi",
+      "url": "https://open.spotify.com/track/1fO6pEGXbYNamVNVUEnGuB"
+    },
+    {
+      "album": {
         "name": "Nouar",
         "url": "https://open.spotify.com/album/4pUoU89OnJtWvqJiREjaV5"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 190573,
       "name": "Ya zina",
       "url": "https://open.spotify.com/track/6fe1BmKt7uPRKZ70U7yTPb"

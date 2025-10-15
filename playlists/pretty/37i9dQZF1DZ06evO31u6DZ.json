@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 9952,
+  "num_followers": 9955,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACcS4/zgOAhUMOEipwZRYhx",
+  "snapshot_id": "aOxBAAAAAABIyS32317Et7Be7UBMf17j",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Bonecrusher",
-      "url": "https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 218746,
       "name": "Garden State",
       "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Bonecrusher",
+      "url": "https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 258479,
-      "name": "Still Searching",
-      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 207520,
       "name": "Wolves at the Door",
       "url": "https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 258479,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 117714,
-      "name": "The Rapture",
-      "url": "https://open.spotify.com/track/0cgwlSRGMIxCB2ftqloDNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 255466,
       "name": "Four Years",
       "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 117714,
+      "name": "The Rapture",
+      "url": "https://open.spotify.com/track/0cgwlSRGMIxCB2ftqloDNx"
     },
     {
       "added_at": null,
@@ -531,38 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 294306,
-      "name": "Dreaming A Reality",
-      "url": "https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VOID ETERNAL",
         "url": "https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK"
       },
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Enfold You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN"
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
       "artists": [
         {
@@ -596,9 +564,25 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 229453,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05"
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 294306,
+      "name": "Dreaming A Reality",
+      "url": "https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 236506,
       "name": "End of the World/A Game of Chess",
       "url": "https://open.spotify.com/track/7tBZqOMNXEIL1qXQ5gr9DC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let It Enfold You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 229453,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "New Year's Eve",
-      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 192000,
       "name": "I'm Sorry I'm Leaving",
       "url": "https://open.spotify.com/track/72nAyk2uMbRcix2oI2oEM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 229800,
       "name": "Death by Water",
       "url": "https://open.spotify.com/track/6v2q6EnJqTD71x31OFMvXS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoulder To The Wheel / Lady In A Blue Dress",
         "url": "https://open.spotify.com/album/3TMRiU1ZypbVVdKRvFekVv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 201000,
       "name": "Shoulder To The Wheel",
       "url": "https://open.spotify.com/track/62gUFv2kvpLqRNTzCRZh38"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
     },
     {
       "added_at": null,

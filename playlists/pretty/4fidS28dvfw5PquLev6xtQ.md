@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > DOUBLE DEATHCONSCIOUSNESS WOAH = Doubleconsciousness ☠️☠️
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 42 likes - 99 songs - 12 hr 37 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 43 likes - 99 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

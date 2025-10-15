@@ -4149,6 +4149,28 @@
     },
     {
       "album": {
+        "name": "I Have So Much To Tell You",
+        "url": "https://open.spotify.com/album/6erpduA3ocDzhOCMLD8msi"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230788,
+      "name": "I Have So Much To Tell You",
+      "url": "https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B"
+    },
+    {
+      "album": {
         "name": "I Just Want To Love You",
         "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"
       },

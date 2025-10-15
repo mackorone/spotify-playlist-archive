@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-206 songs - 9 hr 59 min
+207 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Live in Tokyo](https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Live in Tokyo](https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607) | 2:07 | 2024-09-25 | 2025-02-09 |
 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 | 2023-03-02 | 2023-11-27 |
 | [Living Legend](https://open.spotify.com/track/5yOHBns65serQ82tQNPEoh) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [DIRT](https://open.spotify.com/album/4J0Mb6nTc1JyJOvR5eVv5S) | 2:18 | 2022-11-19 | 2023-03-25 |
+| [Mad Japanese](https://open.spotify.com/track/3QNnLFh8a9798ttghZoQJr) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Cahier](https://open.spotify.com/album/7IzV57bt9rfbrNuDRoSpoa) | 2:07 | 2025-10-15 |  |
 | [MAKE IT BOUNCE](https://open.spotify.com/track/0vaE8jaKlZW0Gpr6l6wXfV) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/3vQryqEhn8uetR4zsgCjMk) | 3:33 | 2024-02-27 | 2024-06-12 |
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3dUucLsbm0JLXMZHkKGE2Z) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/1N0WDMlRlTF1CtGcDmQJYa) | 3:33 | 2023-05-23 | 2023-10-07 |
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3rsReqvpwIyP9P8p8vHwPz) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit vol.2](https://open.spotify.com/album/59UZbS9Ux4SiENv7foGH5w) | 3:33 | 2023-08-21 | 2024-04-19 |
@@ -119,7 +120,7 @@
 | [Move Up](https://open.spotify.com/track/3LNZ1bU1WdBkoLzbBVb2Ps) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/2dFozDdhNAGV8pjll0ztay) | 3:07 | 2024-02-27 | 2024-08-21 |
 | [MUJI TEE](https://open.spotify.com/track/0ektvubmcjCJVjHZ4kEwLJ) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU), [DSXTX](https://open.spotify.com/artist/73TwGzLgB0TwVcEBbKd4Hw) | [MUJI TEE](https://open.spotify.com/album/0wcf67hoX2dWUYz1Xbp4ZG) | 3:02 | 2022-12-22 | 2023-05-24 |
 | [Nakamura \- Remix](https://open.spotify.com/track/3js6AKGtNyfmR2eMG5lKdZ) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [ghostpops](https://open.spotify.com/artist/6zFpstOqy3dPfdqsOmaZcI), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Kraftykid](https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord) | [Nakamura \(Remix\)](https://open.spotify.com/album/3HssFlV7CUvmzjPa4yv93k) | 3:27 | 2022-11-19 | 2022-12-07 |
-| [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 | 2025-09-24 |  |
+| [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 | 2025-09-24 | 2025-10-15 |
 | [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 | 2024-02-06 | 2024-07-07 |
 | [New Balance](https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/0sOlU9sNpco1MqShnwHaWo) | 2:17 | 2024-02-06 | 2024-04-19 |
 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 | 2022-11-19 | 2024-01-24 |

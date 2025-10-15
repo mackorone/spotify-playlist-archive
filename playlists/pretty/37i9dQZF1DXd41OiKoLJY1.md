@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Riot Logic Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,712 likes - 249 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,726 likes - 249 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

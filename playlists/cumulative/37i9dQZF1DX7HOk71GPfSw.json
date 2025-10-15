@@ -21480,7 +21480,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 170668,
       "name": "I Love This!",
       "url": "https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic"
@@ -24020,7 +24020,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 201972,
       "name": "Joker",
       "url": "https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb"
@@ -38017,6 +38017,28 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/2WQmRJFRKzoSVTOEuoT0hB"
+      },
+      "artists": [
+        {
+          "name": "Mayvi",
+          "url": "https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8"
+        },
+        {
+          "name": "RADA",
+          "url": "https://open.spotify.com/artist/4Mt29F9smgR7ghycaf5fI5"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114240,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0wiY5CZ2sOZZtd70vjhqwY"
+    },
+    {
+      "album": {
         "name": "selfish",
         "url": "https://open.spotify.com/album/3mopMvb61AwluDDpjnv9js"
       },
@@ -47310,6 +47332,28 @@
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
+    },
+    {
+      "album": {
+        "name": "What a shame i love you too",
+        "url": "https://open.spotify.com/album/1bS44dS9SlaeSycgZNHg63"
+      },
+      "artists": [
+        {
+          "name": "Mayvi",
+          "url": "https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8"
+        },
+        {
+          "name": "shyne",
+          "url": "https://open.spotify.com/artist/5D969XImVbOJf5LpXWUEAq"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107175,
+      "name": "What a shame i love you too",
+      "url": "https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ"
     },
     {
       "album": {

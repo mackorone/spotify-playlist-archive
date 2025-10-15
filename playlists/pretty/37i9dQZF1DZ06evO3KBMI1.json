@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACkeXnfuxMwepKfx8OpNfA5",
+  "snapshot_id": "aOxBAAAAAADC6i9YCXJNPvd0lp2h8bIv",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUGRIGHT",
-        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Colors of the Heart",
-      "url": "https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AwakEVE",
         "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 248986,
       "name": "\u511a\u304f\u3082\u6c38\u4e45\u306e\u30ab\u30ca\u30b7",
       "url": "https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Colors of the Heart",
+      "url": "https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUGRIGHT",
-        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "SHAMROCK",
-      "url": "https://open.spotify.com/track/5M6hrn7yus9MefXLBnCCVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
         "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 291800,
       "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
       "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "SHAMROCK",
+      "url": "https://open.spotify.com/track/5M6hrn7yus9MefXLBnCCVA"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye-Bye to you",
-        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Bye-Bye to you",
-      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
+      "duration_ms": 226173,
+      "name": "Don\u2019t Think.Feel",
+      "url": "https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+        "name": "Bye-Bye to you",
+        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Don\u2019t Think.Feel",
-      "url": "https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6"
+      "duration_ms": 248400,
+      "name": "Bye-Bye to you",
+      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 305320,
-      "name": "EN",
-      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7\uff54\uff48 Trigger",
         "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 275306,
       "name": "AWAYOKUBA-\u65ac\u308b",
       "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449 (Extra Edition)",
-        "url": "https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 258786,
-      "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449",
-      "url": "https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 312746,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449 (Extra Edition)",
+        "url": "https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449",
+      "url": "https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl"
     },
     {
       "added_at": null,

@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House 🔥 Bassline Therapy Radio on SoundCloud
+> Only the best Tech House 🔥 Submit: https:&\#x2F;&\#x2F;tstack.app&\#x2F;bassline\-therapy
 
 [Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,830 likes - 69 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Talk To Me](https://open.spotify.com/track/3OEoWdSIdvAiI83SAK7Y45) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Talk To Me](https://open.spotify.com/album/5CFW6TkoXl34omQRU0bxqj) | 2:34 |
-| 2 | [Want It All](https://open.spotify.com/track/5O3p8bxkJZYRtBv5tOusbK) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Vol\. 031](https://open.spotify.com/album/1MiraKWlfqgGqkn1XZ31FV) | 3:07 |
-| 3 | [Koko](https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Koko](https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH) | 2:47 |
-| 4 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
-| 5 | [Freak \(In Your Bed\)](https://open.spotify.com/track/2HecHXFv8f25ZPvcFa4uJg) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Freak \(In Your Bed\)](https://open.spotify.com/album/68PQmggKrnIzGozP6PuYQM) | 2:55 |
-| 6 | [Detonator \(Redux\)](https://open.spotify.com/track/5z63Yxwtgz04w3e0rsGmkN) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Detonator \(Redux\)](https://open.spotify.com/album/4bVi0Y7bAxgR3ScHuWDskt) | 3:14 |
-| 7 | [Freaky On The Weekends](https://open.spotify.com/track/2jXOxAgemkC5FFL9tpaiR9) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Freaky On The Weekends](https://open.spotify.com/album/55Fuy3qq4sKkPF76DFjFkd) | 2:48 |
+| 2 | [Koko](https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Koko](https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH) | 2:47 |
+| 3 | [Freak \(In Your Bed\)](https://open.spotify.com/track/2HecHXFv8f25ZPvcFa4uJg) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Freak \(In Your Bed\)](https://open.spotify.com/album/68PQmggKrnIzGozP6PuYQM) | 2:55 |
+| 4 | [Want It All](https://open.spotify.com/track/5O3p8bxkJZYRtBv5tOusbK) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Vol\. 031](https://open.spotify.com/album/1MiraKWlfqgGqkn1XZ31FV) | 3:07 |
+| 5 | [Detonator \(Redux\)](https://open.spotify.com/track/5z63Yxwtgz04w3e0rsGmkN) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Detonator \(Redux\)](https://open.spotify.com/album/4bVi0Y7bAxgR3ScHuWDskt) | 3:14 |
+| 6 | [Freaky On The Weekends](https://open.spotify.com/track/2jXOxAgemkC5FFL9tpaiR9) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Freaky On The Weekends](https://open.spotify.com/album/55Fuy3qq4sKkPF76DFjFkd) | 2:48 |
+| 7 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
 | 8 | [Maximum](https://open.spotify.com/track/1qVlXWReJaQAjz0zhbfxjA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Maximum](https://open.spotify.com/album/1GotQqivDbCMTylM0rBXEL) | 2:44 |
 | 9 | [LA NOCHE](https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ANITA B QUEEN](https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf) | [LA NOCHE](https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv) | 3:32 |
-| 10 | [Control](https://open.spotify.com/track/41cLhwO3KWumJboZbCnr6g) | [Far&High](https://open.spotify.com/artist/7DEuf4iD1rRxpszUW1MDdP), [Buba](https://open.spotify.com/artist/6Lcb01WAOwA7DViZLFt0Dc) | [Control](https://open.spotify.com/album/5h948b421O7TXaaIZ63j5g) | 3:30 |
-| 11 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
+| 10 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
+| 11 | [Control](https://open.spotify.com/track/41cLhwO3KWumJboZbCnr6g) | [Far&High](https://open.spotify.com/artist/7DEuf4iD1rRxpszUW1MDdP), [Buba](https://open.spotify.com/artist/6Lcb01WAOwA7DViZLFt0Dc) | [Control](https://open.spotify.com/album/5h948b421O7TXaaIZ63j5g) | 3:30 |
 | 12 | [LSD](https://open.spotify.com/track/3SAhh2tNNY30Pooge2BHNT) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [LSD](https://open.spotify.com/album/6HdKlMf1ruC1csb7dwS70o) | 2:48 |
 | 13 | [Big Ballers](https://open.spotify.com/track/3kDLtxH3Rtg6be0pY1qvn1) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Big Ballers](https://open.spotify.com/album/4Z0nmskLDXWchyUmO4Flp1) | 2:41 |
 | 14 | [B2U](https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [B2U EP](https://open.spotify.com/album/3n4wJlkHBkt2qrPzirQNaN) | 2:48 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 68 | [Diamonds](https://open.spotify.com/track/6GNuSKmHQEDdIgQYLyLJWZ) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Diamonds](https://open.spotify.com/album/1qYVyMhvMYcMnR1KfM2AYi) | 2:38 |
 | 69 | [I Just Want U](https://open.spotify.com/track/3uSXT9fpTYgHWn7RwvkSQJ) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Finding Promise In New Frontiers & Wonders](https://open.spotify.com/album/0GESiAtGEj5O6nooSI1vdH) | 2:54 |
 
-Snapshot ID: `AAAccD7nmBK2ZeOPTHP3pb2ei5Z7bHwW`
+Snapshot ID: `AAAcd0Xhd+SUXwLbSvDrURT4uhvUZDiD`

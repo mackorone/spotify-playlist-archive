@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAABo/kHDV83JSthktSf94orE",
+  "snapshot_id": "aOxBAAAAAACDHi4K7W8MomggHTJ+kBqx",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARTiANDO",
-        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
+        "name": "Party Prendio (En Vivo)",
+        "url": "https://open.spotify.com/album/0XUSTMGjjpovYVLVzFFcDy"
       },
       "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+          "name": "Dj Nanow",
+          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
         }
       ],
-      "duration_ms": 172198,
-      "name": "CHARTiANDO",
-      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
+      "duration_ms": 90942,
+      "name": "Party Prendio - En Vivo",
+      "url": "https://open.spotify.com/track/7Mo1Vc4KFuoEf5wNLxtpXB"
     },
     {
       "added_at": null,
@@ -147,22 +143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party Prendio (En Vivo)",
-        "url": "https://open.spotify.com/album/0XUSTMGjjpovYVLVzFFcDy"
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
       },
       "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Dj Nanow",
-          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
         }
       ],
-      "duration_ms": 90942,
-      "name": "Party Prendio - En Vivo",
-      "url": "https://open.spotify.com/track/7Mo1Vc4KFuoEf5wNLxtpXB"
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
     },
     {
       "added_at": null,
@@ -303,6 +303,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "irango",
+        "url": "https://open.spotify.com/album/41CQI6zBIWg1xzRmVnlYFh"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Dj Astilo",
+          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
+        },
+        {
+          "name": "El Bloonel",
+          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
+        }
+      ],
+      "duration_ms": 178369,
+      "name": "irango",
+      "url": "https://open.spotify.com/track/4s3Ax0OnqdpsTODo3Iy4cR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tan Tan Brazil (Remix)",
         "url": "https://open.spotify.com/album/20SsDjA1SLq0j3CDCoIz6w"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/1i4FLDStI66sJRHbRhojlz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "irango",
-        "url": "https://open.spotify.com/album/41CQI6zBIWg1xzRmVnlYFh"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Dj Astilo",
-          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
-        },
-        {
-          "name": "El Bloonel",
-          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
-        }
-      ],
-      "duration_ms": 178369,
-      "name": "irango",
-      "url": "https://open.spotify.com/track/4s3Ax0OnqdpsTODo3Iy4cR"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/78TTKt4xwI5HPfTv57EyHp"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 195056,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/7b2ondpAcEVseJO5t9n4FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruta",
-        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Ruta",
-      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
     },
     {
       "added_at": null,

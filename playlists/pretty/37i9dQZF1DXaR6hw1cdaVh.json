@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2920,
+  "num_followers": 2921,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Basta Chiudere Gli Occhi",
-        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
-      },
-      "artists": [
-        {
-          "name": "Gino Paoli",
-          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Che Cosa c'\u00e8",
-      "url": "https://open.spotify.com/track/222NjdAmBVfJetuG6aggiC"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Quando (feat. Neri Per Caso)",
         "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 201730,
       "name": "Quando (feat. Neri Per Caso)",
       "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Basta Chiudere Gli Occhi",
+        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
+      },
+      "artists": [
+        {
+          "name": "Gino Paoli",
+          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Che Cosa c'\u00e8",
+      "url": "https://open.spotify.com/track/222NjdAmBVfJetuG6aggiC"
     },
     {
       "added_at": "2025-03-03 09:30:09",

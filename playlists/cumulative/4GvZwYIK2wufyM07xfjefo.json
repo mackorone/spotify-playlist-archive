@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "Blank page",
+        "url": "https://open.spotify.com/album/2eydMhXzgPFLkDeJJoQ6bb"
+      },
+      "artists": [
+        {
+          "name": "blues",
+          "url": "https://open.spotify.com/artist/54PdgvWwOz1CRcFN9uYwz6"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "First Note Rin&Len remix (feat. \u93e1\u97f3\u30ea\u30f3&\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/31b56G6oQCJDgtYoT8Bzpm"
+    },
+    {
+      "album": {
         "name": "Calm Time",
         "url": "https://open.spotify.com/album/1XLby6wBYYbR1PIbIgfLBL"
       },
@@ -1986,7 +2012,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 165000,
       "name": "\u304a\u304d\u307f\u3084\u3052\u3092\u3042\u3052\u308b (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3TDKvusZ9rvQ6cTYauOuvG"
@@ -3560,7 +3586,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 154000,
       "name": "\u30cf\u30ec\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0zSk0hY285324TBK5gDSkZ"
@@ -4570,7 +4596,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 199625,
       "name": "\u4eba\u9b5a (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1OyjJcP8HZhhqFE6mOcblp"
@@ -4915,6 +4941,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u306b\u89e6\u308c\u308b",
+        "url": "https://open.spotify.com/album/2H1IsAFdbV4e3QiMtC9DkQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30de\u30a4\u30b5\u30c8\u30e8",
+          "url": "https://open.spotify.com/artist/0BFiFpBePU2Z0KpHG66pcI"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "\u591c\u306b\u89e6\u308c\u308b",
+      "url": "https://open.spotify.com/track/6sYIIyguGT3usrR3u8bA7U"
+    },
+    {
+      "album": {
         "name": "\u591c\u306e\u5e37",
         "url": "https://open.spotify.com/album/2dhWLYCw2WCcgXWwQaeYHD"
       },
@@ -4974,7 +5018,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 223625,
       "name": "\u591c\u96e8\u3068\u6708\u8755 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/03M2a40MgBUj8QFaYB10op"
@@ -5040,6 +5084,28 @@
       "duration_ms": 283425,
       "name": "\u5929\u4f7f\u7531\u6765\u306e\u5b50\u5b88\u6b4c (feat. MEIKO)",
       "url": "https://open.spotify.com/track/4XKdOjZitWAitMiPp85vFF"
+    },
+    {
+      "album": {
+        "name": "\u597d\u304d\u306a\u4eba",
+        "url": "https://open.spotify.com/album/2Y6xCRR0npFO8ZibbGzqDO"
+      },
+      "artists": [
+        {
+          "name": "dezzy",
+          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
+        },
+        {
+          "name": "\u97f3\u8857\u30a6\u30ca",
+          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211989,
+      "name": "\u597d\u304d\u306a\u4eba (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/7oACBRAmDWInnwOa1mbjvY"
     },
     {
       "album": {
@@ -5234,7 +5300,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 188470,
       "name": "\u5f57\u661f\u30ce\u9280\u6cb3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6gElGPB9NzN4USpdzrRysp"
@@ -5256,6 +5322,28 @@
       "duration_ms": 231999,
       "name": "\u5fae\u71b1",
       "url": "https://open.spotify.com/track/2JK0P61leyiX1XqUwdZJTJ"
+    },
+    {
+      "album": {
+        "name": "\u5fc3\u6ce5\u5922(syndrome)",
+        "url": "https://open.spotify.com/album/4XJT6vM6mD6a7FkFFoixVU"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5b88\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158780,
+      "name": "\u5fc3\u6ce5\u5922(syndrome) (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1dUyZRxEkTeWhQyf1GkrWB"
     },
     {
       "album": {
@@ -5398,7 +5486,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 271370,
       "name": "\u661f\u304f\u305a\u30ec\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/75MXaIRgZqIV2HBvvFJzi4"

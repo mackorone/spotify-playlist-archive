@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc5d0\ub179)\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc7a5\ubbfc\ud638)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 211786,
       "name": "Eusha! Eusha!",
       "url": "https://open.spotify.com/track/7uwfrh1BMjpwcatSwlIqi7"
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 292253,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/2cmTmBKmHym9ZAobuY4U3o"
@@ -8268,7 +8268,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 204000,
       "name": "Let's go love",
       "url": "https://open.spotify.com/track/0bSQQcA5U0ThLQhiFlhHYp"
@@ -9710,7 +9710,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 186069,
       "name": "Man Who Left Me",
       "url": "https://open.spotify.com/track/2nVHBxjrX1euCiVq7zNIFg"
@@ -13609,6 +13609,24 @@
     },
     {
       "album": {
+        "name": "Analog Vol.1",
+        "url": "https://open.spotify.com/album/6X251S5rmsT5hfipBCeBMd"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283213,
+      "name": "Stay by My Side",
+      "url": "https://open.spotify.com/track/1AtRE1fTw2XkXWKMGfEp6W"
+    },
+    {
+      "album": {
         "name": "Love call center PART31",
         "url": "https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX"
       },
@@ -13806,7 +13824,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 125533,
       "name": "Sunrise day",
       "url": "https://open.spotify.com/track/4Y4Jejv9j7wUgeisDhTwOX"
@@ -14960,6 +14978,24 @@
       "duration_ms": 241853,
       "name": "Thousand year rock",
       "url": "https://open.spotify.com/track/5Vlj1y4u789KfPAZT3QclC"
+    },
+    {
+      "album": {
+        "name": "Trot All Star Game On Friday Night PART4 BEST",
+        "url": "https://open.spotify.com/album/7nSrUVVYbKFCg7lOLVOONn"
+      },
+      "artists": [
+        {
+          "name": "Jung Seo Joo",
+          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Thread and needle",
+      "url": "https://open.spotify.com/track/0IapoUVd7KXH86vjOhq080"
     },
     {
       "album": {
@@ -17870,6 +17906,24 @@
       "duration_ms": 256493,
       "name": "Your Profile Photo",
       "url": "https://open.spotify.com/track/4uxuA56JPxvXtlXFHvMRnX"
+    },
+    {
+      "album": {
+        "name": "Your story",
+        "url": "https://open.spotify.com/album/1Ai17WIkKSsZnWDDB15lQ7"
+      },
+      "artists": [
+        {
+          "name": "Seo Jin Park",
+          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Your story",
+      "url": "https://open.spotify.com/track/6fb24geIXvIDqgjDtMU4J8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,992 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,993 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 21 | [Mini Homeboys](https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5) | [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [Bar](https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG) | 4:12 |
 | 22 | [Du & Ich \- Radio Edit](https://open.spotify.com/track/5Ej5atpjCZcFmu1OTXeFHx) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK), [Pete Penicka](https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN) | [Du & Ich](https://open.spotify.com/album/76WhAV5kBQARS2T6Dk39RU) | 3:58 |
 | 23 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
-| 24 | [Luftloch](https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N) | [Moskito](https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va) | [Maxilla](https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su) | 4:55 |
-| 25 | [Mond](https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 4:01 |
+| 24 | [Mond](https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 4:01 |
+| 25 | [Luftloch](https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N) | [Moskito](https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va) | [Maxilla](https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su) | 4:55 |
 | 26 | [Vom Feinste](https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b) | [Ruff](https://open.spotify.com/artist/6c4A4szzdPRitveDWGOP87), [Arthi](https://open.spotify.com/artist/4jNAeGaooM9Is7PEXBmhP9), [Jears](https://open.spotify.com/artist/0g9eVkK9DaH2pyZmCQK7iP) | [Uhrsprung](https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb) | 4:13 |
 | 27 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
 | 28 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |

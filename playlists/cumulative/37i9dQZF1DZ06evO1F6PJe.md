@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-200 songs - 17 hr 28 min
+201 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 | 2022-08-05 | 2022-11-02 |
 | [Time Clocks](https://open.spotify.com/track/7Mft5wZsFV4LrxLhlKzaJ7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:07 | 2022-09-29 | 2022-10-01 |
 | [Time Clocks \(Live\)](https://open.spotify.com/track/4d9lTTLjl3wRrMiDnOBhZu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks \(Live\)](https://open.spotify.com/album/0oIeoroN4DPWkMN9MES9ey) | 7:56 | 2023-04-17 | 2023-04-23 |
-| [To Know You Is To Love You](https://open.spotify.com/track/3ErQfDpfSiYwe2ft3QfbnE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [B.B\. King's Blues Summit 100, Vol\. I](https://open.spotify.com/album/11ORBdj8pkH4i8k8KN3qEU) | 5:30 | 2025-09-18 |  |
+| [To Know You Is To Love You](https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [To Know You Is To Love You](https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT) | 5:30 | 2025-10-15 |  |
+| [To Know You Is To Love You](https://open.spotify.com/track/3ErQfDpfSiYwe2ft3QfbnE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [B.B\. King's Blues Summit 100, Vol\. I](https://open.spotify.com/album/11ORBdj8pkH4i8k8KN3qEU) | 5:30 | 2025-09-18 | 2025-10-15 |
 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 | 2024-06-13 |  |
 | [Trigger Finger](https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:04 | 2025-08-07 |  |
 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 | 2025-06-22 | 2025-08-07 |

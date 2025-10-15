@@ -4,7 +4,7 @@
 
 > New stunning releases in modern soul\. Cover: K.ZIA
 
-589 songs - 1 day 10 hr 12 min
+590 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2021-12-16 | 2022-01-26 |
 | [Make A Place](https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Make A Place](https://open.spotify.com/album/7hyTC1R6gccWhdMZ9437ZB) | 3:19 | 2022-09-29 | 2023-10-12 |
 | [Make It To Summer](https://open.spotify.com/track/7FsyUisTus0MEQqGVPAukP) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Blink Twice If You’re Okay](https://open.spotify.com/album/02vMw0MNNUbBxS6WeB1PR4) | 3:01 | 2024-05-09 | 2025-03-14 |
-| [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-27 |  |
+| [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-27 | 2025-10-15 |
 | [Make Money \(feat\. Mereba\)](https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Make Money \(feat\. Mereba\)](https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui) | 3:51 | 2024-10-17 | 2025-05-20 |
 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 | 2023-12-11 | 2024-10-24 |
 | [Masego’s Interlude](https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego’s Interlude](https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH) | 2:06 | 2023-09-14 | 2024-09-13 |
@@ -426,6 +426,7 @@
 | [Sauce](https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 2:54 | 2021-12-16 | 2022-03-11 |
 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 | 2021-12-16 | 2022-12-03 |
 | [Save You](https://open.spotify.com/track/4RENGaT8EpQK0bhUfW877V) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:29 | 2021-12-16 | 2022-01-14 |
+| [Saving All My Love](https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Saving All My Love](https://open.spotify.com/album/7qPS8oM3jIPWvY1ea7BEL0) | 2:18 | 2025-10-14 |  |
 | [Say You Won't \(Say You Will\)](https://open.spotify.com/track/5YTIJG10wBgQU6vQy9I9aq) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Lost In Translation EP](https://open.spotify.com/album/7ciXXVGcJPYLQqnhDCBWYU) | 1:55 | 2024-11-20 | 2025-08-10 |
 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 | 2025-09-01 |  |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2024-01-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6942,
+  "num_followers": 6967,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAADGf9d30Z1wVCxPE+2zLMOA",
+  "snapshot_id": "aOxBAAAAAACGaPySnJ2HexF+dNP4MZWR",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+        "name": "Soul (feat. T.I BLAZE)",
+        "url": "https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG"
       },
       "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
+      "duration_ms": 144509,
+      "name": "Soul (feat. T.I BLAZE)",
+      "url": "https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul (feat. T.I BLAZE)",
-        "url": "https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG"
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
       "artists": [
-        {
-          "name": "Salle",
-          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 144509,
-      "name": "Soul (feat. T.I BLAZE)",
-      "url": "https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ"
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escober",
-        "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
-      },
-      "artists": [
-        {
-          "name": "HypemanDJ Pablo",
-          "url": "https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Escober",
-      "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virtuoso",
         "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 146400,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escober",
+        "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
+      },
+      "artists": [
+        {
+          "name": "HypemanDJ Pablo",
+          "url": "https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Escober",
+      "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Lane",
         "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 132185,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/0wM0yQ1NZ5JoubMkc1flpa"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274425,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/5fV7oTa9uIXWDItxcyhHEV"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/0mgVhaztvwTi7amAD6wWWP"
       },
@@ -5948,7 +5966,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 169014,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu"

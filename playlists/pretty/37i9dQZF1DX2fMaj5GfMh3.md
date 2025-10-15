@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: JISOO & ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,990 likes - 78 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,984 likes - 78 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

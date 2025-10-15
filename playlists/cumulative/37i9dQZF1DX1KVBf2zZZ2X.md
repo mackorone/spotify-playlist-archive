@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-265 songs - 12 hr 25 min
+266 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-02-21 | 2025-06-12 |
 | [Second Wishes](https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Second Wishes](https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi) | 2:13 | 2024-03-05 |  |
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 | 2024-06-04 |
-| [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 |  |
+| [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 | 2025-10-15 |
 | [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 | 2024-08-24 |
 | [Shadow From the Sun](https://open.spotify.com/track/47ErfOP2MM4okFVhZVC9CH) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Shadow From the Sun](https://open.spotify.com/album/2QoIrhaKqBjjEc1zT0UH44) | 2:39 | 2025-03-19 |  |
 | [Shimmering River](https://open.spotify.com/track/575c0sGbgOEF2YwuUebnDn) | [The Nature Within](https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0) | [Shimmering River](https://open.spotify.com/album/4gEfVDicL27VwdJLilph6S) | 2:42 | 2025-07-09 |  |
@@ -261,6 +261,7 @@
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-03-01 |  |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-03 | 2025-05-17 |
 | [Wait](https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ) | [Aubrey Fornier](https://open.spotify.com/artist/3d8Ky2p7PzmNYDvPcJxGM9) | [Wait](https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9) | 1:54 | 2023-03-03 | 2023-10-07 |
+| [Waking \(Tari Valley\)](https://open.spotify.com/track/6U8HTRVUqlOt1j1l9jwOv0) | [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Nature's Voice II](https://open.spotify.com/album/7BOuKe4Ftn2UPMoEdQSCCu) | 3:50 | 2025-09-24 |  |
 | [Wandering With You](https://open.spotify.com/track/1bDD3OfhHYTdcvxox0xS6y) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Wandering With You](https://open.spotify.com/album/6GxxS66QbX86sbYd5BP2sh) | 2:48 | 2025-01-15 |  |
 | [Water \(Forest Remix\)](https://open.spotify.com/track/4RFqW2PC8h0OOc3tktqbOi) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Water \(Forest Remix\)](https://open.spotify.com/album/3HduVWmZBFVhKbs5HPpcnd) | 2:16 | 2024-04-01 | 2025-02-22 |
 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 | 2023-03-03 | 2024-04-14 |

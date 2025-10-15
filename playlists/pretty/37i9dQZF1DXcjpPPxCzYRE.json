@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 433034,
+  "num_followers": 433061,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "INFANCIA MAL CALIBRADA",
         "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 278145,
       "name": "VICTORIA",
       "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "The Bakman Tapes",
-        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
-      },
-      "artists": [
-        {
-          "name": "Susie Suh",
-          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
-        }
-      ],
-      "duration_ms": 212017,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
+        "name": "The Bakman Tapes",
+        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
+      },
+      "artists": [
+        {
+          "name": "Susie Suh",
+          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
+        }
+      ],
+      "duration_ms": 212017,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Qui\u00e9n Pensar\u00eda",
+      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -847,22 +863,6 @@
       "duration_ms": 149013,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Qui\u00e9n Pensar\u00eda",
-      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
         }
       ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+      "duration_ms": 283500,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1215,6 +1199,22 @@
       "duration_ms": 168000,
       "name": "Mi Bolero",
       "url": "https://open.spotify.com/track/1ODOzIbZ3iCc9Z8OHz55jc"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
+        "name": "Ando despistado",
+        "url": "https://open.spotify.com/album/7kzkw8zloj5wvdidrbKL0Q"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        }
+      ],
+      "duration_ms": 280337,
+      "name": "Ando despistado",
+      "url": "https://open.spotify.com/track/1bKazzhvfzjjheK5qpmwqt"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 271061,
       "name": "Aire",
       "url": "https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Ando despistado",
-        "url": "https://open.spotify.com/album/7kzkw8zloj5wvdidrbKL0Q"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        }
-      ],
-      "duration_ms": 280337,
-      "name": "Ando despistado",
-      "url": "https://open.spotify.com/track/1bKazzhvfzjjheK5qpmwqt"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 144744,
       "name": "Holy",
       "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "\u00c1rtico",
+      "url": "https://open.spotify.com/track/2dWiK4SmhnErDHzIpA386N"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
         "name": "Una Versi\u00f3n Mejor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2ZkNHUcyNCBqvKefz2lI3U"
       },
@@ -1499,26 +1515,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
-        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Chus Santana",
-          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
-        }
-      ],
-      "duration_ms": 221837,
-      "name": "4 de Febrero",
-      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1535,6 +1531,26 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
+        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "duration_ms": 221837,
+      "name": "4 de Febrero",
+      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1571,22 +1587,6 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Trist\u00e1n, Ahora Con Reloj",
-        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "\u00c1rtico",
-      "url": "https://open.spotify.com/track/2dWiK4SmhnErDHzIpA386N"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
+        "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
+        "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Monte",
+          "url": "https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf"
+        },
+        {
+          "name": "nosoymeri",
+          "url": "https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z"
+        },
+        {
+          "name": "STEGA",
+          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
+      "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
         "name": "La Jarrita del Tiempo",
         "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
       },
@@ -1735,30 +1759,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
-        "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Monte",
-          "url": "https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf"
-        },
-        {
-          "name": "nosoymeri",
-          "url": "https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z"
-        },
-        {
-          "name": "STEGA",
-          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
-      "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "C\u00f3gelo fuerte (antes de que cambie)",
         "url": "https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq"
       },
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Me Tienes Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
-      },
-      "artists": [
-        {
-          "name": "Maifr\u00e9n",
-          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Me Tienes Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "MAR\u00edA DOLORES",
         "url": "https://open.spotify.com/album/2LDdTP7wJE64ucCpUibjeW"
       },
@@ -1847,50 +1831,18 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
+        "name": "Me Tienes Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
       "artists": [
         {
-          "name": "Volver",
-          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
         }
       ],
-      "duration_ms": 216800,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+      "duration_ms": 161250,
+      "name": "Me Tienes Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1911,6 +1863,22 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
         "name": "Artean",
         "url": "https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 197408,
       "name": "Ahizpa / Germana",
       "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
+      },
+      "artists": [
+        {
+          "name": "Volver",
+          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "As\u00ed me va",
         "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
       },
@@ -2011,6 +1995,42 @@
       "duration_ms": 155526,
       "name": "As\u00ed me va",
       "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Algo F\u00edsico",
+        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Algo F\u00edsico",
+      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "em plou a dins",
+        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "duration_ms": 176288,
+      "name": "em plou a dins",
+      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -2079,26 +2099,6 @@
     {
       "added_at": "2025-10-09 22:00:22",
       "album": {
-        "name": "em plou a dins",
-        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 176288,
-      "name": "em plou a dins",
-      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
         "name": "El Noi de la Mare",
         "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
       },
@@ -2115,6 +2115,22 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2025-10-09 22:00:22",
+      "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2025-10-09 22:00:22",
@@ -2147,22 +2163,6 @@
       "duration_ms": 267345,
       "name": "Hola",
       "url": "https://open.spotify.com/track/6xh08da7pYRsZAp0gIywM1"
-    },
-    {
-      "added_at": "2025-10-09 22:00:22",
-      "album": {
-        "name": "Lim\u00e3o",
-        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
-      },
-      "artists": [
-        {
-          "name": "navxja",
-          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Lim\u00e3o",
-      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
     }
   ],
   "unique_name": "Relax en casa",

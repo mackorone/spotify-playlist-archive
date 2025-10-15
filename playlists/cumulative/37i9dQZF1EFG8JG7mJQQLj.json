@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -6302,7 +6302,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
@@ -7585,6 +7585,24 @@
     },
     {
       "album": {
+        "name": "Glee M\u00fasicas Rom\u00e2nticas",
+        "url": "https://open.spotify.com/album/6dUudbAQsnIKstPIBWddUg"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Rumour Has It / Someone Like You",
+      "url": "https://open.spotify.com/track/02HWaR7BxEUIAD17hfRDZP"
+    },
+    {
+      "album": {
         "name": "Glee: The Music, Volume 7",
         "url": "https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2"
       },
@@ -7596,7 +7614,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 207946,
       "name": "Rumour Has It / Someone Like You",
       "url": "https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj"
@@ -10636,7 +10654,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 175698,
       "name": "Wish You Were Here (feat. Khalid)",
       "url": "https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B"

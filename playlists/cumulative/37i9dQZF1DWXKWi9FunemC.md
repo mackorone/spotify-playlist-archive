@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-320 songs - 21 hr 25 min
+321 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 | 2025-08-06 |  |
 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 | 2020-08-31 | 2024-06-24 |
 | [Cloud](https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Cloud](https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT) | 4:03 | 2025-08-06 |  |
+| [Cold Of The Night](https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Cold Of The Night](https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV) | 3:43 | 2025-10-10 |  |
 | [Come As You Are](https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 4:32 | 2020-08-31 | 2024-06-24 |
 | [Come Thou Fount](https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4) | [In the Wild](https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi) | [Come Thou Fount](https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU) | 4:44 | 2025-08-06 |  |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/7DSeaP4O6ZD32JTBDnI6ws) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC) | 4:09 | 2023-07-28 | 2024-06-24 |
@@ -86,7 +87,7 @@
 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 | 2020-08-31 | 2025-10-11 |
 | [Found](https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 1](https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0) | 5:50 | 2023-07-28 |  |
 | [Found in You](https://open.spotify.com/track/4laQ1iAAsNgyyKetbee9O0) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Found in You](https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe) | 2:42 | 2025-08-06 |  |
-| [Friend](https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Forever Communion](https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc) | 3:26 | 2025-08-06 |  |
+| [Friend](https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Forever Communion](https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc) | 3:26 | 2025-08-06 | 2025-10-15 |
 | [Garden](https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Garden](https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1) | 3:16 | 2020-08-31 | 2023-07-29 |
 | [Get Your Hopes Up](https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw) | 4:37 | 2020-08-31 | 2025-10-11 |
 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 | 2020-08-31 | 2024-04-19 |

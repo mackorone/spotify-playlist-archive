@@ -4,7 +4,7 @@
 
 > Jesień  z błogimi dźwiękami 🍂
 
-679 songs - 1 day 13 hr 56 min
+680 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Upał](https://open.spotify.com/track/6huJDMbSA3WpkzFLkE8sZm) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Upał](https://open.spotify.com/album/2F3QLjyAxqK3GFdl3t031x) | 3:26 | 2024-08-03 | 2024-08-21 |
 | [Usypiasz Mnie Jak Lek](https://open.spotify.com/track/0m7mpiEImNabbFyxGsfACh) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [Usypiasz Mnie Jak Lek](https://open.spotify.com/album/28sM9BydOdzvNIbRFn3GQM) | 2:46 | 2025-09-15 | 2025-09-20 |
 | [UV](https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [UV](https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH) | 2:59 | 2025-06-27 | 2025-07-05 |
+| [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 | 2025-10-10 |  |
 | [vip](https://open.spotify.com/track/6C41CBFUPJIlTGypAy1MaP) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [Carpe Diem](https://open.spotify.com/album/4H5tU13iR2Sl2Ohogn5DTz) | 3:16 | 2025-05-31 | 2025-09-16 |
 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 | 2025-07-10 | 2025-09-16 |
 | [Vodka Cranberry](https://open.spotify.com/track/6qGVKjUodwfWPg4ZzZiA6S) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 4:05 | 2025-09-15 |  |
@@ -664,7 +665,7 @@
 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 | 2025-01-24 | 2025-02-22 |
 | [Your Villain](https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Your Villain](https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ) | 2:45 | 2025-07-10 | 2025-07-19 |
 | [Z KOŃCEM POCZĄTEK](https://open.spotify.com/track/17Uztzz0OebGNpaO2aAe9L) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Z KOŃCEM POCZĄTEK](https://open.spotify.com/album/3L1WaNyJBrZOnDeeiTvjqT) | 3:41 | 2025-04-04 | 2025-04-19 |
-| [Zabierz mnie](https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Szkic i kontury](https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv) | 3:17 | 2025-09-26 |  |
+| [Zabierz mnie](https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Szkic i kontury](https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv) | 3:17 | 2025-09-26 | 2025-10-15 |
 | [Zabij](https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Zabij](https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx) | 3:46 | 2025-09-26 | 2025-10-11 |
 | [Zabiorę Cię Tam](https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Zabiorę Cię Tam](https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B) | 3:33 | 2025-08-22 |  |
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-09-12 | 2024-09-15 |

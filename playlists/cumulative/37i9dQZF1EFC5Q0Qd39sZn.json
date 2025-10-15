@@ -2941,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/5vQ2cx4pXDgECirZymrMnD"
+      },
+      "artists": [
+        {
+          "name": "Another Level",
+          "url": "https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292466,
+      "name": "From the Heart",
+      "url": "https://open.spotify.com/track/2ovVVoQebTbrCxCsKf3gxe"
+    },
+    {
+      "album": {
         "name": "Freak Me: The Collection",
         "url": "https://open.spotify.com/album/07uutXwmC4nbwV4mXwOY7z"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 295506,
       "name": "From the Heart",
       "url": "https://open.spotify.com/track/5lg3WRgq89Bpa2vcqRg752"
@@ -3890,7 +3908,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 234466,
       "name": "I Don't Wanna Live Without Your Love",
       "url": "https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ"

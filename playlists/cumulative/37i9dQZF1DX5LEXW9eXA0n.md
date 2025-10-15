@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,566 songs - 4 day 5 hr 37 min
+1,568 songs - 4 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Alone](https://open.spotify.com/track/0KkoFye9cvIeLRe3fQMeOK) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Alone](https://open.spotify.com/album/2wUZ7V5326P16ADyTdQpzL) | 4:02 | 2025-02-04 | 2025-02-07 |
 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 | 2025-02-21 |
 | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 | 2025-01-07 | 2025-06-27 |
-| [Always Behind You \(The Haunted Palace : Original Television Soundtrack\)](https://open.spotify.com/track/6AGOgQNikfOFN3GcgPweql) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Haunted Palace OST Part.4](https://open.spotify.com/album/1tnugRtGHjxaRosMXunw7x) | 4:12 | 2025-05-26 |  |
+| [Always Behind You \(The Haunted Palace : Original Television Soundtrack\)](https://open.spotify.com/track/6AGOgQNikfOFN3GcgPweql) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Haunted Palace OST Part.4](https://open.spotify.com/album/1tnugRtGHjxaRosMXunw7x) | 4:12 | 2025-05-26 | 2025-10-15 |
 | [Always By Your Side](https://open.spotify.com/track/6miOvQK1D76hopwIQqZr8y) | [Jung Se Young](https://open.spotify.com/artist/7mkeMDyzlRKT32H2hsAW6f) | [Bravo, My Life OST Part.6](https://open.spotify.com/album/5ZHtWTj9GoPviSKDpmNw4A) | 3:30 | 2022-05-11 | 2022-07-27 |
 | [Always on your side](https://open.spotify.com/track/3QGPAafQu3bRCVa7mqOchZ) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Always on your side](https://open.spotify.com/album/0nETRLU97ZOCWzSGoNqWkt) | 3:47 | 2022-03-24 | 2022-04-21 |
 | [Always with you](https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Always with you](https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu) | 4:22 | 2023-02-27 | 2023-06-23 |
@@ -818,7 +818,7 @@
 | [Luminous](https://open.spotify.com/track/3fQTr5geEQ2q8kgdqx44gl) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Poong, the Joseon Psychiatrist OST Part.4](https://open.spotify.com/album/0K7sbRFoVG6tH1f52CfqMl) | 3:19 | 2022-08-25 | 2022-12-27 |
 | [Making a new ending for this story](https://open.spotify.com/track/2EMEsvwQ1yB6AlT5dqlmPK) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Making a new ending for this story](https://open.spotify.com/album/1SMokasHaNh0z3cUPO0gAM) | 4:35 | 2024-11-05 | 2025-04-16 |
 | [Making a new ending of this story](https://open.spotify.com/track/6iFiFPKRQ2o8Uc6BmZjRXp) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Making a new ending of this story](https://open.spotify.com/album/27CmqxjUNNVapmhp5ONnQy) | 4:25 | 2023-01-10 | 2023-02-25 |
-| [March](https://open.spotify.com/track/0ov2FRtOeZUTEUeZqojepR) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [March](https://open.spotify.com/album/2HTCs4plmfbzPvDdLc5Cz9) | 3:28 | 2025-05-26 |  |
+| [March](https://open.spotify.com/track/0ov2FRtOeZUTEUeZqojepR) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [March](https://open.spotify.com/album/2HTCs4plmfbzPvDdLc5Cz9) | 3:28 | 2025-05-26 | 2025-10-15 |
 | [Marry Me](https://open.spotify.com/track/60XDBmcTUepDSF6CvCsUJQ) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Marry Me](https://open.spotify.com/album/1UyAxLJHTTbz6JXX3kFzn1) | 3:58 | 2023-07-17 | 2023-11-03 |
 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [기태](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 | 2025-06-02 | 2025-10-02 |
 | [Marry Me \(My love X Yang Da Il\)](https://open.spotify.com/track/6UrHnv2u6riHP1wSZdL7aP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Marry Me \(My love X Yang Da Il\)](https://open.spotify.com/album/7aezS6OsSSjloT2u2xD4AN) | 4:16 | 2023-07-20 | 2023-11-03 |
@@ -1132,6 +1132,7 @@
 | [Sometimes](https://open.spotify.com/track/0Y2G7FeR7MfoardosBAK1T) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Sometimes](https://open.spotify.com/album/58qJQNgo02YxFtB83AdLev) | 3:33 | 2022-03-29 | 2022-04-10 |
 | [Sometimes](https://open.spotify.com/track/10Y9WYsHhfqu1bJRESaKap) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Sometimes](https://open.spotify.com/album/3mfkymgvHVm8x3YCja4gCW) | 4:39 | 2021-12-23 | 2022-04-16 |
 | [Somewhere in This Universe](https://open.spotify.com/track/4oAp3etVXydrLaVBcXHvDZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [When the Stars Gossip OST Part.4](https://open.spotify.com/album/0J0BdxuVScM437RcBmmHDG) | 4:24 | 2025-02-04 | 2025-02-07 |
+| [Song of the White Moon](https://open.spotify.com/track/245tXIPYpAmeBOYJaCD3Xg) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [Song of the White Moon](https://open.spotify.com/album/6o3QVbSFw4zYXhIZAoswrt) | 4:30 | 2025-10-14 |  |
 | [Soonri](https://open.spotify.com/track/7GCNT9j5CTaq3eCNxuvJxa) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [\#FILM Soonri](https://open.spotify.com/album/3Rp8hJ0ybSCDBbm3NQzljC) | 4:56 | 2022-03-24 | 2022-04-20 |
 | [Sorrow at my door\(Prod\. ROCOBERRY\)](https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [슬픔이 찾아와서 그래 \(Sorrow at my door\)](https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe) | 3:22 | 2025-10-01 |  |
 | [Sorrowful memories from the past](https://open.spotify.com/track/24F5xq9iIzLmbBCs9hhSa1) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [If I held onto you](https://open.spotify.com/album/2ocvkplFV8W1FH32tQPoyx) | 3:49 | 2022-07-07 | 2022-08-19 |
@@ -1517,6 +1518,7 @@
 | [너무 사랑했어 \(feat\. 폴림\)](https://open.spotify.com/track/6f84h3J8HXtSY6Yfks9Qav) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Paul Lim](https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ) | [너무 사랑했어](https://open.spotify.com/album/1e18qYZs6rpZ5XjZdutBwZ) | 3:21 | 2023-11-02 | 2024-01-09 |
 | [너에게 가는 이 길 위에서 \(너.이.길\)](https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs) | 3:58 | 2021-12-23 | 2022-04-17 |
 | [놓아줘](https://open.spotify.com/track/6Fsv9AOFr81RYjtKE8PatS) | [달리](https://open.spotify.com/artist/0coJu7cC8KxaaTDiUAlcbr) | [놓아줘](https://open.spotify.com/album/4gip4RKPvwWmYh4H1gulxL) | 4:08 | 2022-03-31 | 2022-04-11 |
+| [니가 오는 시간](https://open.spotify.com/track/61qYmnIejrHmcFfhfqkfVg) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [니가 오는 시간 Prelude2](https://open.spotify.com/album/0SY2oeeguKFMU371Yt7wMN) | 3:39 | 2025-10-14 |  |
 | [다 우리 얘기야 \(This song is our story\)](https://open.spotify.com/track/4LjMrcbkwVP43qkX0Tar0I) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [다 우리 얘기야 \(This song is our story\)](https://open.spotify.com/album/7lMwAoDC1iCw249Fomyr8W) | 3:18 | 2025-05-28 |  |
 | [다신 볼 수 없는 내 사랑](https://open.spotify.com/track/46uG4MQDfAbsKi6Exh9zy5) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [HEE'story](https://open.spotify.com/album/7njjoAr4wE9vNrV62SzM6v) | 3:57 | 2025-09-24 |  |
 | [단 한번만](https://open.spotify.com/track/5Ac4FUabMG7nYBA2bHETLj) | [Bang Minah](https://open.spotify.com/artist/0M5CsywytuXI4gCyDCKkYL) | [정글피쉬 시즌2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/44aUSMGHB4j4BjLdokQS3M) | 4:07 | 2024-09-13 | 2024-12-03 |

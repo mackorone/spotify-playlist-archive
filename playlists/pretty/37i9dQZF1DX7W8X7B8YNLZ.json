@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 122000,
+  "num_followers": 122006,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-07-18 18:27:59",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2025-07-18 18:27:59",
-      "album": {
         "name": "Vu de l'ext\u00e9rieur",
         "url": "https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 203800,
       "name": "Je suis venu te dire que je m'en vais",
       "url": "https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm"
+    },
+    {
+      "added_at": "2025-07-18 18:27:59",
+      "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2025-07-18 18:27:59",

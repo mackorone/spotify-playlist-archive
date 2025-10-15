@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Dude",
-  "num_followers": 723369,
+  "num_followers": 723447,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABtq2Vb8KoNC3O4W0YoR7JXFogRD",
+  "snapshot_id": "AAAAAJyWkjpfWdSbqn1vVUzCj7HW3mMJ",
   "tracks": [
     {
       "added_at": "2025-10-04 15:18:38",
@@ -363,6 +363,30 @@
       "duration_ms": 364651,
       "name": "Theekkoluthi - From \"Bison Kaalamadan\"",
       "url": "https://open.spotify.com/track/5TiY2x67s6iWW0VS9LhbwF"
+    },
+    {
+      "added_at": "2025-10-14 11:00:35",
+      "album": {
+        "name": "Im The Guy (From \"Aaryan - Tamil\")",
+        "url": "https://open.spotify.com/album/2HuZqJCeMlg2JhtMsFs4kJ"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Guru Hariraj",
+          "url": "https://open.spotify.com/artist/6JYbKbNMLBlHfHNQlssC4w"
+        },
+        {
+          "name": "Vamanaa",
+          "url": "https://open.spotify.com/artist/5ltwHuHNxtXl6EmCW6nbdM"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Im The Guy - From \"Aaryan - Tamil\"",
+      "url": "https://open.spotify.com/track/058ySgHvLTv58u4HAHrle0"
     },
     {
       "added_at": "2025-10-09 08:27:20",
@@ -1499,26 +1523,6 @@
       "duration_ms": 215036,
       "name": "Tharana - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/6cyet3dduffZ3CxIFgjHKY"
-    },
-    {
-      "added_at": "2025-08-08 14:37:22",
-      "album": {
-        "name": "Bad Girl (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6TxAdSHaMO0ZrZ5HQDpS9p"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Maalavika Manoj",
-          "url": "https://open.spotify.com/artist/2SgO4umIM8n8COlSKUnahL"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Please Yenna Appadi Paakadhey",
-      "url": "https://open.spotify.com/track/5ujk3oPo07E2l8kCZWSKfg"
     },
     {
       "added_at": "2025-09-15 11:02:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=Hh0JFuNxSgCheBr6elkNlA">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,232 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,284 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 12 | [Pigana Na Mungu](https://open.spotify.com/track/3QymZqdK4eBa28lYKX4iRZ) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6), [Gurdian Angel](https://open.spotify.com/artist/3OVE9fi88pyTKC5s95b5bk) | [Pigana Na Mungu](https://open.spotify.com/album/7KNyooPzokZIBMQ0KSbApP) | 4:02 |
 | 13 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 |
 | 14 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 |
-| 15 | [Unaposhuka](https://open.spotify.com/track/1vqOxIrRMrrOAoq8RuHVas) | [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY), [J Blessing](https://open.spotify.com/artist/4OucYWFq9l38W9JRLeUWun) | [Unaposhuka](https://open.spotify.com/album/6B8BvBxbS78bl5G99FbJkU) | 4:21 |
+| 15 | [Unaposhuka](https://open.spotify.com/track/1vqOxIrRMrrOAoq8RuHVas) | [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY), [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr) | [Unaposhuka](https://open.spotify.com/album/6B8BvBxbS78bl5G99FbJkU) | 4:21 |
 | 16 | [Jemedari](https://open.spotify.com/track/0vf9iDQU5ZPT6vxquVbnRK) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg), [Happy Mhae](https://open.spotify.com/artist/625oxVJqGmZtybnl9MdV1w) | [Jemedari](https://open.spotify.com/album/3LFKuACH1hToNOHIbN2XtO) | 14:16 |
 | 17 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |
 | 18 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 |

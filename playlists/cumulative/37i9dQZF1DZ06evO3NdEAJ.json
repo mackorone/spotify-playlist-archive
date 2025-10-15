@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/5zHkCFv17jKavqJPRZITWJ"
+    },
+    {
+      "album": {
         "name": "Calientita",
         "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 147865,
       "name": "Todo Que Ver",
       "url": "https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR"

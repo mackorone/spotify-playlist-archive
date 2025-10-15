@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 547699,
       "name": "Afterlife Aftershave",
       "url": "https://open.spotify.com/track/1dDNKj2teFS6D3lSTqKrcz"
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Buddhist Hipsters",
+        "url": "https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334680,
+      "name": "Arabebonics",
+      "url": "https://open.spotify.com/track/2dTXrnibwGXvZzGYhyBjgb"
+    },
+    {
+      "album": {
         "name": "Arabebonics",
         "url": "https://open.spotify.com/album/3tJ5vqBqfWRpNdQF50Kc9O"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 334680,
       "name": "Arabebonics",
       "url": "https://open.spotify.com/track/7DWBNSVcyfU1Td3kVkfW1e"
@@ -714,7 +732,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 251386,
       "name": "Compass I Fell in Love",
       "url": "https://open.spotify.com/track/6LTwNUukpNh8cDJQ26QnGZ"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 721573,
       "name": "Kh\u00e0ron",
       "url": "https://open.spotify.com/track/1sJQkDOxwIjI8qtdJA9xO1"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 448866,
       "name": "Oxbow Lakes",
       "url": "https://open.spotify.com/track/52OYr2YEsRNKPkfgNFP8w5"

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1038137,
+  "num_followers": 1038088,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Natalie Don\u2019t",
-        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Natalie Don't",
-      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 138638,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "No Drama (feat. Craig David)",
         "url": "https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 153309,
       "name": "No Drama (feat. Craig David)",
       "url": "https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 138638,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Iguana",
-        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
-      },
-      "artists": [
-        {
-          "name": "Louie Austen",
-          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Glamour Girl",
-      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Iguana",
+        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
+      },
+      "artists": [
+        {
+          "name": "Louie Austen",
+          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Glamour Girl",
+      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Home (feat. Bonn)",
-        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 239067,
-      "name": "Home (feat. Bonn)",
-      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Alien (Topic Remix)",
         "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 159927,
       "name": "Alien - Topic Remix",
       "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Home (feat. Bonn)",
+        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 239067,
+      "name": "Home (feat. Bonn)",
+      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
     },
     {
       "added_at": "2024-11-15 03:00:00",

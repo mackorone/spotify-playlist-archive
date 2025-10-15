@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Priscilla Block, Dasha, Waylon Wyatt and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,442 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,496 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 19 | [Goodbyes Are Hard to Listen To](https://open.spotify.com/track/7tpv8zCjGC9TGVI0LmrZ7P) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Goodbyes Are Hard to Listen To](https://open.spotify.com/album/4saB0GT4OL1gQK9fhuTGLq) | 3:40 |
 | 20 | [I Never Knew \(Lennon's Song\)](https://open.spotify.com/track/3I4c7WWlxJO1J8iu9MS99Z) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [I Never Knew \(Lennon's Song\)](https://open.spotify.com/album/6aBCbLQqkizMyXfMXWlMEy) | 3:53 |
 | 21 | [Don't You Want A Woman](https://open.spotify.com/track/5rpkcuXc1N8oAVFMf5XppS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Don't You Want A Woman](https://open.spotify.com/album/1nLqN4A6DMhvw35WV3Li9R) | 3:38 |
-| 22 | [Whistlin' Dixie](https://open.spotify.com/track/3edilv7NZDYI6e9o6I6ImS) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Population Me](https://open.spotify.com/album/037IWaXZTYDLiZ6ypycqhZ) | 3:07 |
+| 22 | [Whistlin' Dixie \(feat\. Randy Houser\)](https://open.spotify.com/track/3edilv7NZDYI6e9o6I6ImS) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Population Me](https://open.spotify.com/album/037IWaXZTYDLiZ6ypycqhZ) | 3:07 |
 | 23 | [Gunshy \- Rerecorded](https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Six String Sorrow Sessions](https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP) | 4:48 |
 | 24 | [Might As Well Be Gone](https://open.spotify.com/track/7hIpfiJiJFqExhyVf7HP72) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Small Town Does](https://open.spotify.com/album/4BAlyHCFVRLVK063snlRI1) | 3:10 |
 | 25 | [Dozen Dead Roses](https://open.spotify.com/track/3SPyoTLUdK9gO3jchnFbjB) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [Dozen Dead Roses](https://open.spotify.com/album/5vC0oBijU2PT0TYul90egU) | 2:36 |

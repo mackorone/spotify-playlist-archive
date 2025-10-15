@@ -4,7 +4,7 @@
 
 > but listened to this instead
 
-68 songs - 3 hr 35 min
+69 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [BIRDS OF A FEATHER \- Piano Version](https://open.spotify.com/track/2KfOPPHqLB3KZz5XrJEdmz) | [Clavier](https://open.spotify.com/artist/0v0X8EUY8KmXXumeZet5mJ) | [BIRDS OF A FEATHER \(Piano Version\)](https://open.spotify.com/album/1AKGlY7OrKifS74bS5YeGp) | 3:25 | 2025-02-20 | 2025-06-27 |
 | [Cardigan](https://open.spotify.com/track/6tr0rglUFWJmOXr44q6BkV) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 4:43 | 2025-02-20 |  |
 | [Chemical \- Piano Version](https://open.spotify.com/track/7EMUIqGngqON9tsvjqJBLF) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [Chemical \(Piano Version\)](https://open.spotify.com/album/3UooMrCQIxGj5LKjSxKzpI) | 2:36 | 2025-02-20 |  |
-| [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2025-02-20 |  |
+| [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2025-02-20 | 2025-10-15 |
 | [DAISIES \- Piano Version](https://open.spotify.com/track/68n0LyU0torN9hjbfcSIpx) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [DAISIES \(Piano Version\)](https://open.spotify.com/album/3viLGZdk8pWzq6YiBWXQJE) | 3:26 | 2025-09-11 |  |
 | [Deja Vu \- Piano Arrangement](https://open.spotify.com/track/2vvhnuW2SoUcPkkzQGRc73) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [EP2 \(Piano Arrangements\)](https://open.spotify.com/album/6D3p1R3jaiYiZjQQ0xUkQm) | 4:28 | 2025-02-20 |  |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2025-02-20 |  |
@@ -47,6 +47,7 @@
 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-03-28 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2025-02-20 |  |
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2025-02-20 |  |
+| [No One Noticed \- Piano Version](https://open.spotify.com/track/1XlJTmmaumyGrRlH5nVNet) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [No One Noticed \(Piano Version\)](https://open.spotify.com/album/43ud7M8sNagWNXfBTGaoiS) | 3:09 | 2025-10-14 |  |
 | [Ocean Eyes](https://open.spotify.com/track/0uVBjMQGASq2vMiCuWPtCH) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 3:13 | 2025-02-20 |  |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 | 2025-09-27 |
 | [Ordinary](https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Ordinary](https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d) | 2:28 | 2025-07-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 39 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 39 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 20 | [Christ Has Overcome \- Live](https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Christ Has Overcome \(Live\)](https://open.spotify.com/album/6yNrGP3SoOq7HSfAqIEXSb) | 9:49 |
 | 21 | [Steadfast Love \- Live](https://open.spotify.com/track/3qCifohJv80eyHYbdpaP3w) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 9:16 |
 | 22 | [Marvelous \(Lion Of Judah\)](https://open.spotify.com/track/1xIACUXOMUSmg9n5PN147G) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Ethan Mizell](https://open.spotify.com/artist/0Z3GyEO2HxFkopxTnzmPfX) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 9:13 |
-| 23 | [Yes Again](https://open.spotify.com/track/7gz3nNlcBgCEvlPZojRqDU) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/22RIEnCy5vOAzbMTVNFpKg) | 5:58 |
-| 24 | [Name Above All Names](https://open.spotify.com/track/5HBJZ3m9HX1aAwAlI2CZQD) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 4:59 |
+| 23 | [Name Above All Names](https://open.spotify.com/track/5HBJZ3m9HX1aAwAlI2CZQD) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 4:59 |
+| 24 | [Yes Again](https://open.spotify.com/track/7gz3nNlcBgCEvlPZojRqDU) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/22RIEnCy5vOAzbMTVNFpKg) | 5:58 |
 | 25 | [Look At What The Blood Has Done](https://open.spotify.com/track/1OOdR0H1l7fC1ynap0I42m) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:50 |
 | 26 | [Christ And Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/04hFX9fSewa7eBFZ9LtmLW) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 12:52 |
 | 27 | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/track/3zffhEA1Pf2wXz3sCJZ9fb) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/album/0ZrAHRRR8NIaoXdXQ1G0ju) | 5:17 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 38 | [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 |
 | 39 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `Ab+yHgAAAAA8ZL9EvRaJjADjyO26psGs`
+Snapshot ID: `Ab+38AAAAADcvaOyZxxV9jOlwTXRhzoZ`

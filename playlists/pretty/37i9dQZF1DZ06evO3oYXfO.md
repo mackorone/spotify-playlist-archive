@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,233 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,290 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 29 | [Neon Knights](https://open.spotify.com/track/7r2QK941qra9MDQIllJdZs) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 3:51 |
 | 30 | [Symptom of the Universe \(2009 Remaster\)](https://open.spotify.com/track/5ycQsfTMPFfexQ6Teu5EjV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 6:29 |
 | 31 | [Killing Yourself to Live \(2009 Remaster\)](https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:38 |
-| 32 | [Sleeping Village \- 2009 Remaster](https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:46 |
-| 33 | [The Mob Rules](https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 3:12 |
+| 32 | [The Mob Rules](https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 3:12 |
+| 33 | [Sleeping Village \- 2009 Remaster](https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:46 |
 | 34 | [Hole in the Sky \(2009 Remaster\)](https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 3:59 |
 | 35 | [Tomorrow's Dream \- 2009 Remaster](https://open.spotify.com/track/7gygnGtI9S3TE9Z5Yrqhig) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:10 |
 | 36 | [Zeitgeist](https://open.spotify.com/track/4HFRItYjNrcwT6Vbtbk2i4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 38 | [No Stranger to Love \(2009 Remaster\)](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
 | 39 | [Wheels of Confusion \- 2009 Remaster](https://open.spotify.com/track/61zDwmHFXYYNjKTTpT5GOR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 7:59 |
 | 40 | [Fluff \(2009 Remaster\)](https://open.spotify.com/track/4gUNTtPmsTzpTdJY3aZbLw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 4:08 |
-| 41 | [Wishing Well](https://open.spotify.com/track/2ji4QgWCNK6Sf1Vr1RVrRb) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:04 |
-| 42 | [I \- 2011 Remaster](https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Dehumanizer](https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI) | 5:10 |
+| 41 | [I \- 2011 Remaster](https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Dehumanizer](https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI) | 5:10 |
+| 42 | [Wishing Well](https://open.spotify.com/track/2ji4QgWCNK6Sf1Vr1RVrRb) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:04 |
 | 43 | [Cornucopia \- 2009 Remaster](https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:51 |
 | 44 | [Looking for Today \(2009 Remaster\)](https://open.spotify.com/track/5AZQ7ekBzg4WqAcjOF9srW) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 4:58 |
 | 45 | [End Of The Beginning](https://open.spotify.com/track/3QbnMRadaXqmlghaglLAit) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Don't Start \(Too Late\) \(2009 Remaster\)](https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 0:49 |
 | 50 | [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 |
 
-Snapshot ID: `aOrvgAAAAAA2aiYv01IYew1PSuVDHzZd`
+Snapshot ID: `aOxBAAAAAABaLJSbxb92BWxy6OYFNgro`

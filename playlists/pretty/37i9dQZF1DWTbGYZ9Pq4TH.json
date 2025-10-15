@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 184316,
+  "num_followers": 184334,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
         "name": "This Is Elodie",
         "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 177213,
       "name": "Margarita (con Marracash)",
       "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 216386,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
         "name": "Perdere l'amore",
         "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 251533,
       "name": "Perdere l'amore",
       "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
+        "name": "Amami",
+        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
+      },
+      "artists": [
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+        }
+      ],
+      "duration_ms": 235121,
+      "name": "La notte",
+      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "Amami",
-        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
+        "name": "La canzone del sole/ Anche per te",
+        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
       },
       "artists": [
         {
-          "name": "Arisa",
-          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
         }
       ],
-      "duration_ms": 235121,
-      "name": "La notte",
-      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
+      "duration_ms": 324826,
+      "name": "La canzone del sole - Remastered",
+      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -731,22 +747,6 @@
       "duration_ms": 233666,
       "name": "Fiore Di Maggio",
       "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
-        "name": "La canzone del sole/ Anche per te",
-        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La canzone del sole - Remastered",
-      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 240738,
-      "name": "Rondini Al Guinzaglio",
-      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
         "name": "Supereroe",
         "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 240738,
+      "name": "Rondini Al Guinzaglio",
+      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
-      },
-      "artists": [
-        {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Anna E Marco",
-      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
         "name": "Rimmel",
         "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 220640,
       "name": "Rimmel",
       "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Anna E Marco",
+      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Nessuno Vuole Essere Robin",
-      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
         "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
         "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 286146,
       "name": "Ho messo via",
       "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Nessuno Vuole Essere Robin",
+      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
     },
     {
       "added_at": "2025-10-03 07:42:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-10-03 07:42:29",
       "album": {
-        "name": "Tutto Qui",
-        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 211783,
-      "name": "Tutto Qui",
-      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
-    },
-    {
-      "added_at": "2025-10-03 07:42:29",
-      "album": {
         "name": "Notti Brave",
         "url": "https://open.spotify.com/album/1BayCxyyUYlm3x0Ys1z4Fl"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 221413,
       "name": "Fotografia (feat. Francesca Michielin & Fabri Fibra)",
       "url": "https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu"
+    },
+    {
+      "added_at": "2025-10-03 07:42:29",
+      "album": {
+        "name": "Tutto Qui",
+        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 211783,
+      "name": "Tutto Qui",
+      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
     },
     {
       "added_at": "2025-10-03 07:42:29",

@@ -1,13 +1,45 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16542,
+  "num_followers": 16552,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAZKkGD8BcihxkU5izmK4sPltFMeDRw",
+  "snapshot_id": "AAAZLX0ToSEQv2aNvp9oNF6lg6RdpQlv",
   "tracks": [
+    {
+      "added_at": "2025-10-14 14:28:53",
+      "album": {
+        "name": "take it",
+        "url": "https://open.spotify.com/album/4SYyFlB9YiIcjYxAQMCfBg"
+      },
+      "artists": [
+        {
+          "name": "keiyaA",
+          "url": "https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV"
+        }
+      ],
+      "duration_ms": 204319,
+      "name": "take it",
+      "url": "https://open.spotify.com/track/4YPOplh4glirQhau0shF5u"
+    },
+    {
+      "added_at": "2025-10-14 14:29:16",
+      "album": {
+        "name": "SickElixir",
+        "url": "https://open.spotify.com/album/59aRCCtOb1yMhdN9TM53zR"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        }
+      ],
+      "duration_ms": 154418,
+      "name": "Sonkind",
+      "url": "https://open.spotify.com/track/4bGVvkoWFFNHfz7CGz1TuQ"
+    },
     {
       "added_at": "2025-10-01 14:57:03",
       "album": {
@@ -356,8 +388,8 @@
           "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         },
         {
-          "name": "Tyson",
-          "url": "https://open.spotify.com/artist/7vgtFAsr1Cf9NX4qq64bVs"
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
         }
       ],
       "duration_ms": 214254,

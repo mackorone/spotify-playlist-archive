@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Atlus
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,895 likes - 199 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,909 likes - 199 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: L.A.B.
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Josh Tatofi
 
 255 songs - 15 hr 38 min
 

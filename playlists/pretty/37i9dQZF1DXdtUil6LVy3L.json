@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 8297,
+  "num_followers": 8298,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "God Rest Ye, Merry Gentlemen",
-        "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 120061,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "Santa tell me",
         "url": "https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "O Come, All Ye Faithful",
-        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
+        "name": "God Rest Ye, Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
       },
       "artists": [
         {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
         }
       ],
-      "duration_ms": 177874,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
+      "duration_ms": 120061,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
     },
     {
       "added_at": "2025-09-04 12:33:45",
@@ -427,22 +411,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "I Heard the Bells on Christmas Day",
-        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 149940,
-      "name": "I Heard the Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "Good King Wenceslas",
         "url": "https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my"
       },
@@ -459,18 +427,34 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "Meet Me Under the Mistletoe",
-        "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
       },
       "artists": [
         {
-          "name": "Belleville",
-          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
         }
       ],
-      "duration_ms": 204187,
-      "name": "Meet Me Under the Mistletoe",
-      "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
+      "duration_ms": 177874,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
     },
     {
       "added_at": "2025-09-04 12:33:45",
@@ -487,6 +471,22 @@
       "duration_ms": 223151,
       "name": "Candy Canes and Silver Lanes",
       "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "Meet Me Under the Mistletoe",
+        "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
+      },
+      "artists": [
+        {
+          "name": "Belleville",
+          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+        }
+      ],
+      "duration_ms": 204187,
+      "name": "Meet Me Under the Mistletoe",
+      "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
     },
     {
       "added_at": "2025-09-04 12:33:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8"
-      },
-      "artists": [
-        {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
-        }
-      ],
-      "duration_ms": 238862,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "This Night",
         "url": "https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 171363,
       "name": "Mistletoe And Holly",
       "url": "https://open.spotify.com/track/3ECWipwM2liY1Z0pcbCXVj"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 238862,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu"
     },
     {
       "added_at": "2025-09-04 12:33:45",

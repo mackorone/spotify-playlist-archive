@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Afgan, Idgitaf, JISOO, ZAYN, dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,741 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,790 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Still Not Over You](https://open.spotify.com/track/5R6hdVJAlXbbRUlxdssoyD) | [andreas owens](https://open.spotify.com/artist/2tJ0Wcl9h9PPkosJ4piT6k) | [Still Not Over You](https://open.spotify.com/album/5oAjxHV9PP7gN9oq0GumpL) | 2:46 |
 | 96 | [Water](https://open.spotify.com/track/2LVLFRI5GboBQYQiJgV5ht) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Water](https://open.spotify.com/album/2Tl3tvgrKKYnES2od5VIpn) | 1:51 |
 | 97 | [Siren Song](https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Siren Song](https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH) | 3:37 |
-| 98 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
+| 98 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
 | 99 | [Boom Bada Bada \(feat\. ALYPH\)](https://open.spotify.com/track/7vvcIwfeexVcKBYNr75qG6) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [ABANGSAPAU](https://open.spotify.com/album/6hyNtDzNKf2Crf5gI6wsyV) | 2:15 |
 | 100 | [Star Potential](https://open.spotify.com/track/5aUSWU2GbeBGETUVK31XJK) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Star Potential](https://open.spotify.com/album/5vjJdvi1UoCt71VRxdne0q) | 2:58 |
 | 101 | [青の魔法](https://open.spotify.com/track/3j5DAn7RNoJj2Kl87FeOOZ) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [青の魔法](https://open.spotify.com/album/10w3OQKWjYbcUzztkdw4oP) | 3:46 |

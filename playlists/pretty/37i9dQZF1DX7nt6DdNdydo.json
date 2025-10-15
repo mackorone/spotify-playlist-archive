@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 60974,
+  "num_followers": 60983,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Mardi Gras Blues",
-        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
-      },
-      "artists": [
-        {
-          "name": "Roy Montrell",
-          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "(Every Time I Hear) That Mellow Saxophone",
-      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 112866,
       "name": "Good Golly",
       "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Mardi Gras Blues",
+        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
+      },
+      "artists": [
+        {
+          "name": "Roy Montrell",
+          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "(Every Time I Hear) That Mellow Saxophone",
+      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 156320,
       "name": "Hello Little Boy",
       "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",

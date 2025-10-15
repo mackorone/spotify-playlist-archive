@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,125 likes - 102 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,329 likes - 102 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 46 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 |
 | 47 | [Ruud & Mieke](https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ruud & Mieke](https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw) | 2:45 |
 | 48 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 |
-| 49 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
-| 50 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 |
-| 51 | [Door Tot De Kater Komt](https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Door Tot De Kater Komt](https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM) | 2:57 |
-| 52 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
-| 53 | [De Tent Moet Op Z’n Kop](https://open.spotify.com/track/5EkiXdCiQ8mkSyNop0p8Nr) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Kerremuskrakers 2025](https://open.spotify.com/album/2o6j823Nvogl0iVxfiSfcK) | 2:37 |
+| 49 | [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 |
+| 50 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
+| 51 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 |
+| 52 | [Door Tot De Kater Komt](https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Door Tot De Kater Komt](https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM) | 2:57 |
+| 53 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
 | 54 | [Jij Krijgt Die Lach Niet Van Mijn Gezicht](https://open.spotify.com/track/4d7Z3fTea6C4jL2bqWUxii) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Jij Krijgt Die Lach Niet Van Mijn Gezicht](https://open.spotify.com/album/4AYSfPBhFZjl1LAt5PkReG) | 3:20 |
 | 55 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 |
 | 56 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 101 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 |
 | 102 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 
-Snapshot ID: `AAAAAPsI57ZtBd1gq7n+4o24Umm32zad`
+Snapshot ID: `AAAAABZGUEdQjHAjG5uilypsdq0T0AdR`

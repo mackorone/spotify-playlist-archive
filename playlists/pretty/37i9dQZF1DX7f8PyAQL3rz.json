@@ -1,6 +1,6 @@
 {
   "description": "le\u00e3o ferido ainda \u00e9 le\u00e3o",
-  "num_followers": 1419581,
+  "num_followers": 1419651,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -331,34 +331,6 @@
     {
       "added_at": "2025-10-10 03:01:26",
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Gigant",
-          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
-        },
-        {
-          "name": "nobuddy",
-          "url": "https://open.spotify.com/artist/5mqAb7k2TMZxOP5GjH0rcl"
-        },
-        {
-          "name": "Goldgrain",
-          "url": "https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC"
-        }
-      ],
-      "duration_ms": 219677,
-      "name": "22 Meu Vulgo",
-      "url": "https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3"
-    },
-    {
-      "added_at": "2025-10-10 03:01:26",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
       },
@@ -387,6 +359,34 @@
       "duration_ms": 191250,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
+    },
+    {
+      "added_at": "2025-10-10 03:01:26",
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "nobuddy",
+          "url": "https://open.spotify.com/artist/5mqAb7k2TMZxOP5GjH0rcl"
+        },
+        {
+          "name": "Goldgrain",
+          "url": "https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC"
+        }
+      ],
+      "duration_ms": 219677,
+      "name": "22 Meu Vulgo",
+      "url": "https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3"
     },
     {
       "added_at": "2025-10-10 03:01:26",

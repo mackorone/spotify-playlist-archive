@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 594 songs - 1 day 15 hr 0 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 595 songs - 1 day 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -602,5 +602,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 592 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 |
 | 593 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
 | 594 | [One Tiny Flower](https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 6:20 |
+| 595 | [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 |
 
-Snapshot ID: `AAAH1bOyqcHbXjI7OoPqJkpECya5lahL`
+Snapshot ID: `AAAH1kJ1c07gOJK1HiVeZIqWo7R0NSl1`

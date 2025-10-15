@@ -2,12 +2,13 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TWS
 
-748 songs - 1 day 17 hr 5 min
+751 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["BOOM"](https://open.spotify.com/track/5qriFwWfrIxCqSvzLPD8st) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [自由への大脱走 ～Running Running Running～ \(feat\. 湘南乃風\)](https://open.spotify.com/album/0nD4B7WX9BFVxOdHhFhAw7) | 3:22 | 2025-10-14 |  |
 | [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-20 | 2025-04-07 |
 | [100!](https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [PINK CRUSH](https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl) | 3:13 | 2025-03-06 | 2025-04-07 |
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
@@ -38,7 +39,7 @@
 | [Arcadia](https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Arcadia](https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO) | 2:50 | 2025-09-30 |  |
 | [Ash](https://open.spotify.com/track/0k7wgQsVXg6ojBukAleznY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 3:17 | 2025-09-16 |  |
 | [ask yourself](https://open.spotify.com/track/6cKw9KNIBTLWYM6mt1VAI3) | [Knight A \- 騎士A \-](https://open.spotify.com/artist/7lTVLJ639bRVqzC8Q0RjHH) | [EDEN \(Special Edition\)](https://open.spotify.com/album/5gANRSC7vTCgWtwM4nCCXm) | 4:00 | 2024-03-26 | 2024-04-17 |
-| [Asymmetry](https://open.spotify.com/track/4sGEup106ElpyxtGf1E2xG) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Asymmetry / Black Nightmare](https://open.spotify.com/album/4C3unjsV19S8ecEwys19hs) | 4:05 | 2025-09-09 |  |
+| [Asymmetry](https://open.spotify.com/track/4sGEup106ElpyxtGf1E2xG) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Asymmetry / Black Nightmare](https://open.spotify.com/album/4C3unjsV19S8ecEwys19hs) | 4:05 | 2025-09-09 | 2025-10-15 |
 | [ATAMI](https://open.spotify.com/track/3ajXAg7HBTYXylCWh9PSkT) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 2:37 | 2025-09-21 |  |
 | [Attention](https://open.spotify.com/track/7DFVius346ZQvS0pHP0Ikb) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Attention](https://open.spotify.com/album/3cQpHAvc9rGSraAxsDPX8t) | 2:55 | 2025-05-06 | 2025-05-28 |
 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-23 | 2024-01-16 |
@@ -611,7 +612,7 @@
 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 | 2023-11-23 | 2024-05-19 |
 | [Unfreeze](https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [RE: Full of Youth](https://open.spotify.com/album/1vlehuBlbn5SqCzpaoRICu) | 3:11 | 2025-03-31 | 2025-07-11 |
 | [Universe](https://open.spotify.com/track/61bFionfXJxkMit23Rvu5H) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [D's WAVE](https://open.spotify.com/album/3HI2arleNFka7BTes75U83) | 3:47 | 2025-04-08 | 2025-07-04 |
-| [Universe Universe](https://open.spotify.com/track/2krr4us2sSfqFAMhE6NGUZ) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Instinct](https://open.spotify.com/album/1BDySgxDYGz430fD3MPkES) | 3:33 | 2025-09-16 |  |
+| [Universe Universe](https://open.spotify.com/track/2krr4us2sSfqFAMhE6NGUZ) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Instinct](https://open.spotify.com/album/1BDySgxDYGz430fD3MPkES) | 3:33 | 2025-09-16 | 2025-10-15 |
 | [Up All Night](https://open.spotify.com/track/2652PzGxxU8jzARLLubmjD) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Up All Night](https://open.spotify.com/album/0L0CetqAg2aiFsC5lHBbyh) | 3:35 | 2025-07-14 | 2025-08-01 |
 | [Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Upside Down \- The 2nd Mini Album](https://open.spotify.com/album/6QCntvulIht3aec99G4Wrd) | 2:40 | 2025-08-24 | 2025-09-26 |
 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 | 2024-02-20 | 2024-03-13 |
@@ -668,6 +669,7 @@
 | [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 | 2024-11-27 |
 | [Zuruiyo](https://open.spotify.com/track/4NpMC9ea6SJdkbK0zjPxJS) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Hibi](https://open.spotify.com/album/1QcQHv7T7IjWAC3ehaqaSu) | 3:27 | 2025-09-25 |  |
 | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh) | 2:56 | 2025-07-10 | 2025-09-10 |
+| [หน้าเบลอหลังชัด \(Foreground\)](https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [หน้าเบลอหลังชัด \(Foreground\)](https://open.spotify.com/album/2M0De8OsdOCuQqkjA5epYM) | 3:45 | 2025-10-14 |  |
 | [หายใจทิ้ง \(boys just wanna be boys\) \- Japanese Version \[From Bussing Japan\]](https://open.spotify.com/track/18XxgNvcigiisOhyFi2zpY) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [หายใจทิ้ง \(boys just wanna be boys\) \[Japanese Version \[From บัส ซิ่ง เจแปน\]\]](https://open.spotify.com/album/00cRcTZEi3VuPGBw4bzuqS) | 3:54 | 2025-08-22 | 2025-09-22 |
 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 | 2025-05-29 | 2025-07-11 |
 | [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |
@@ -753,6 +755,7 @@
 | [霜花](https://open.spotify.com/track/2DLEAYyePjxHjF1b2fhWqm) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Bull's Eye](https://open.spotify.com/album/3mCD8c66aHjHCgfQpJToGu) | 3:39 | 2024-01-31 | 2024-02-14 |
 | [青い太陽](https://open.spotify.com/track/0A1OyoslP1a4zTbsrvazw4) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/5U8zjppA4A8pSzokUpK9tk) | 2:51 | 2025-06-02 | 2025-06-04 |
 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 | 2024-08-06 | 2025-03-03 |
+| [青春インクレディブル](https://open.spotify.com/track/2L6ygU5hYwjoFIu8Hi8Vu7) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青春インクレディブル](https://open.spotify.com/album/21dxmeoefdXwNNTJ3Yxwvn) | 2:54 | 2025-10-14 |  |
 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 | 2023-12-19 | 2024-01-03 |
 | [꿈의 버스 Dream Bus](https://open.spotify.com/track/5cE6bNjhhuJnrrDdkcZmv0) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/7MGEb2kSPjn7izDAul5bAh) | 2:41 | 2025-09-05 |  |
 | [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 |  |

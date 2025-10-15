@@ -4,7 +4,7 @@
 
 > Cover: Draganov
 
-440 songs - 23 hr 10 min
+441 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2024-05-17 | 2024-09-02 |
 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 | 2024-09-17 | 2024-11-29 |
 | [Makareb](https://open.spotify.com/track/0y6YPIv8y7m9zhxCwtonlo) | [Skizo Beats](https://open.spotify.com/artist/59HL7kLWCoAxxnS4jzRDnr), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Ante Bellum](https://open.spotify.com/album/16A58ezcKCnbwpebx6sCxc) | 3:28 | 2024-02-23 | 2024-04-16 |
+| [MAKARIB](https://open.spotify.com/track/3ymdvTuxxXeePY6T1MOh9y) | [THE ONLY](https://open.spotify.com/artist/1K09FOInOZrzcIL6iLEcTk) | [MAKARIB](https://open.spotify.com/album/5i8NC0g4UYGrJLcyjXswQm) | 3:25 | 2025-10-14 |  |
 | [Makina](https://open.spotify.com/track/1smoNV80CXLbgur5vK5qTY) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Makina](https://open.spotify.com/album/5ToqGDvXIckkQuRXe64T0Z) | 3:35 | 2024-04-27 | 2024-07-17 |
 | [MAKISALICH](https://open.spotify.com/track/5TyZgckgGJqM1fw3Ddg8D0) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [MAKISALICH](https://open.spotify.com/album/0IwEjmFl0ULYBJxCfuggui) | 2:46 | 2023-12-15 | 2024-01-05 |
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-08-01 |  |

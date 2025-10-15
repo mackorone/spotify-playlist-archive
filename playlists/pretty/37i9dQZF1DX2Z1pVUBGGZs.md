@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Renao 🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,105 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,075 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 61 | [Ugly Crier](https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Can I Come Too?](https://open.spotify.com/album/5007izIDA5T2I96QI67JaO) | 3:20 |
 | 62 | [All at Once](https://open.spotify.com/track/2vxRHFeAZaBp7qK0g1oCx2) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [All at Once](https://open.spotify.com/album/1S8IVFuUXJegNGhNYPLoxo) | 2:57 |
 | 63 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
-| 64 | [Handsome](https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Handsome](https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw) | 3:45 |
+| 64 | [Handsome](https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Handsome](https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw) | 3:45 |
 | 65 | [Something Familiar](https://open.spotify.com/track/0t9WYg9bmmUm16ALecso5d) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Something Familiar](https://open.spotify.com/album/6XZ5joXCA7L3GLAR4WN7Fy) | 2:29 |
 | 66 | [Silhouette](https://open.spotify.com/track/4vL14z0wDM4zP33DMHoBbN) | [Harlen](https://open.spotify.com/artist/2k1NNKMVa0VXuUMsnUbvKj) | [Silhouette](https://open.spotify.com/album/1wobCiIlRVRrw4OdjeCRHu) | 2:49 |
 | 67 | [American Dream](https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Don’t Cry Because It’s Over](https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI) | 2:39 |

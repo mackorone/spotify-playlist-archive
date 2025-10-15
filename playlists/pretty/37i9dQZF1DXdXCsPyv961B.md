@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Il meglio dell'indie italiano nel 2024, secondo i nostri Editor! Cover: Pinguini Tattici Nucleari
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,292 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

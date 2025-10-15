@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 258439,
+  "num_followers": 258515,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
-    },
-    {
-      "added_at": "2025-09-26 03:00:07",
-      "album": {
         "name": "Ni Una Ni Dos",
         "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 158535,
       "name": "Ni Una Ni Dos",
       "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
+    },
+    {
+      "added_at": "2025-09-26 03:00:07",
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
+    },
+    {
+      "added_at": "2025-09-26 03:00:07",
+      "album": {
         "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2025-09-26 03:00:07",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -871,8 +871,8 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
-        "name": "Volver a Vernos",
-        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
         }
       ],
-      "duration_ms": 171957,
-      "name": "Volver a Vernos",
-      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -959,8 +959,8 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+        "name": "Volver a Vernos",
+        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
         }
       ],
-      "duration_ms": 129229,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+      "duration_ms": 171957,
+      "name": "Volver a Vernos",
+      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
       },
       "artists": [
         {
           "name": "Mat\u00edas Valdez",
           "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Gonzalo Castillo",
-          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
         }
       ],
-      "duration_ms": 155134,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
+      "duration_ms": 164949,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -1443,6 +1439,26 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
+        "name": "Muero de Fr\u00edo, La Historia",
+        "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 212405,
+      "name": "Muero de fr\u00edo, La Historia",
+      "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
+    },
+    {
+      "added_at": "2025-09-26 03:00:07",
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -1471,26 +1487,6 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2025-09-26 03:00:07",
-      "album": {
-        "name": "Muero de Fr\u00edo, La Historia",
-        "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 212405,
-      "name": "Muero de fr\u00edo, La Historia",
-      "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -1531,22 +1527,6 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
-        "name": "El Comboloco",
-        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Ser\u00e1 Porque Te Amo",
-      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2025-09-26 03:00:07",
-      "album": {
         "name": "Cosa del destino",
         "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
       },
@@ -1571,6 +1551,22 @@
       "duration_ms": 177491,
       "name": "Cosa del destino",
       "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
+    },
+    {
+      "added_at": "2025-09-26 03:00:07",
+      "album": {
+        "name": "El Comboloco",
+        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Ser\u00e1 Porque Te Amo",
+      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
     },
     {
       "added_at": "2025-09-26 03:00:07",
@@ -1751,22 +1747,6 @@
     {
       "added_at": "2025-09-26 03:00:07",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
-    },
-    {
-      "added_at": "2025-09-26 03:00:07",
-      "album": {
         "name": "Mi Primer Amor",
         "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
       },
@@ -1779,6 +1759,22 @@
       "duration_ms": 188286,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
+    },
+    {
+      "added_at": "2025-09-26 03:00:07",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
     },
     {
       "added_at": "2025-09-26 03:00:07",

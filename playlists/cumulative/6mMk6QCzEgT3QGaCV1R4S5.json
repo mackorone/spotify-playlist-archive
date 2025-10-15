@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Get moving on the dancefloor with some big room beats! Cover: Calvin Harris &amp; Jessie Reyez",
+  "description": "Get moving on the dancefloor with some big room beats! Cover: Alok &amp; ILLENIUM",
   "name": "Dancefloor Beats",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/3M4zF4PgUTRzwhWzMNVFDz"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 137386,
       "name": "Meet Me In The Middle",
       "url": "https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO"
@@ -5227,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "the dread",
+        "url": "https://open.spotify.com/album/5JaU8PS21OKmuyCqfys9mW"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "the dread",
+      "url": "https://open.spotify.com/track/6vHUVBj29hKFHKyEYcFuc0"
+    },
+    {
+      "album": {
         "name": "The Final Countdown 2025",
         "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
       },
@@ -5326,6 +5344,28 @@
       "duration_ms": 149799,
       "name": "Time of Your Life",
       "url": "https://open.spotify.com/track/4ZFFS0oNoDqPUjXhaep3fw"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268979,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY"
     },
     {
       "album": {
@@ -5684,6 +5724,24 @@
       "duration_ms": 159016,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7tguQxMEM2jvIK5jmA8cRR"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4XA9MAxMDD0BW0APwxgiJ4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 169146,
+  "num_followers": 169142,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,18 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Young Folks",
-        "url": "https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT"
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Horxata",
-          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
-        },
-        {
-          "name": "Alex Grey",
-          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn"
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -427,6 +419,30 @@
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -475,42 +491,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
-      },
-      "artists": [
-        {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Sleeping Satellite",
-        "url": "https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Peachy Pete",
-          "url": "https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Sleeping Satellite",
-      "url": "https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa"
       },
@@ -555,6 +535,26 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Sleeping Satellite",
+        "url": "https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Peachy Pete",
+          "url": "https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
       },
@@ -567,6 +567,26 @@
       "duration_ms": 213558,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn"
+      },
+      "artists": [
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        },
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -587,6 +607,26 @@
       "duration_ms": 137566,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        },
+        {
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -615,42 +655,26 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn"
+        "name": "Used To Love",
+        "url": "https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb"
       },
       "artists": [
         {
-          "name": "Shoby",
-          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
         },
         {
-          "name": "James Stefano",
-          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
-      },
-      "artists": [
-        {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
         },
         {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+          "name": "Sunflower",
+          "url": "https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
+      "duration_ms": 133000,
+      "name": "Used To Love",
+      "url": "https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -679,26 +703,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Used To Love",
-        "url": "https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb"
+        "name": "PHANTOMGRID",
+        "url": "https://open.spotify.com/album/0XGuZEfwEPlOXjgr5KiE2B"
       },
       "artists": [
         {
-          "name": "The Palm Tree Boy",
-          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
         },
         {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
-        },
-        {
-          "name": "Sunflower",
-          "url": "https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w"
+          "name": "88Birds",
+          "url": "https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Used To Love",
-      "url": "https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl"
+      "duration_ms": 319137,
+      "name": "Happy Now?",
+      "url": "https://open.spotify.com/track/55HEIbHdH5EH2RDr6U3kRt"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -727,22 +747,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "PHANTOMGRID",
-        "url": "https://open.spotify.com/album/0XGuZEfwEPlOXjgr5KiE2B"
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
       },
       "artists": [
         {
-          "name": "Joachim Pastor",
-          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
         },
         {
-          "name": "88Birds",
-          "url": "https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1"
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
         }
       ],
-      "duration_ms": 319137,
-      "name": "Happy Now?",
-      "url": "https://open.spotify.com/track/55HEIbHdH5EH2RDr6U3kRt"
+      "duration_ms": 167603,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -819,26 +839,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
-      },
-      "artists": [
-        {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
-        },
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        }
-      ],
-      "duration_ms": 167603,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Little More Like Me",
         "url": "https://open.spotify.com/album/7ohafsECLE68cvZH4cSZME"
       },
@@ -871,38 +871,6 @@
       "duration_ms": 154909,
       "name": "Taking It Slowly",
       "url": "https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Can't Feel A Thing",
-        "url": "https://open.spotify.com/album/1nSjDSFmETfYmILvVfei2N"
-      },
-      "artists": [
-        {
-          "name": "SAINT.",
-          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "Can't Feel A Thing",
-      "url": "https://open.spotify.com/track/014EX41gXtJeAHXq5JK9hN"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -943,6 +911,38 @@
       "duration_ms": 182862,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Can't Feel A Thing",
+        "url": "https://open.spotify.com/album/1nSjDSFmETfYmILvVfei2N"
+      },
+      "artists": [
+        {
+          "name": "SAINT.",
+          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "Can't Feel A Thing",
+      "url": "https://open.spotify.com/track/014EX41gXtJeAHXq5JK9hN"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "This Life We Built",
         "url": "https://open.spotify.com/album/5u1ZeTv5yjpxaHwEMHHH8D"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 125901,
       "name": "This Life We Built",
       "url": "https://open.spotify.com/track/2Rohfdfxdxxc385eqFxFy9"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Sandcastles",
-        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
-      },
-      "artists": [
-        {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
     },
     {
       "added_at": "2025-10-09 22:00:27",

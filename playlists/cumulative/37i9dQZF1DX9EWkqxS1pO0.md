@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: üçkuruş
 
-318 songs - 16 hr 1 min
+319 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bırak Yağsın Üstümüze](https://open.spotify.com/track/5PNjTV9IaVXBwM62tnlvas) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Bırak Yağsın Üstümüze](https://open.spotify.com/album/66b0VdRWG80fxAxkwYUysu) | 3:20 | 2025-09-25 |  |
 | [Bıraktığın Gibi](https://open.spotify.com/track/6xbGuKshqxhGvECYXF2hD9) | [Ege Sel](https://open.spotify.com/artist/3ppamONbm5lz6Ho7wSWzVy) | [Bıraktığın Gibi](https://open.spotify.com/album/5SmRlGzV4wXUFrVcEoyfFJ) | 2:33 | 2025-01-23 | 2025-02-08 |
 | [Cehennem](https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5) | [Ozthewiz](https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC) | [Cehennem](https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1) | 2:25 | 2024-06-20 | 2024-08-09 |
-| [Cehennemin 7\. Katı](https://open.spotify.com/track/0qY5UficufBBTbaz4ws4mU) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Cehennemin 7\. Katı](https://open.spotify.com/album/3lKnbBidabZqQawdK1cG4Y) | 3:08 | 2025-09-12 |  |
+| [Cehennemin 7\. Katı](https://open.spotify.com/track/0qY5UficufBBTbaz4ws4mU) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Cehennemin 7\. Katı](https://open.spotify.com/album/3lKnbBidabZqQawdK1cG4Y) | 3:08 | 2025-09-12 | 2025-10-15 |
 | [Ciğerime](https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [Ciğerime](https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu) | 3:32 | 2024-12-19 |  |
 | [Dans Etmem Lazım](https://open.spotify.com/track/5eFpxTYC6twewb3ZjwYrkQ) | [Ekin Alkan](https://open.spotify.com/artist/0i4hCPoTk7AFp2i10Qwxud) | [Dans Etmem Lazım](https://open.spotify.com/album/7KfM6hleD0FeO4e7sJ1MHF) | 3:25 | 2024-06-20 | 2024-07-09 |
 | [DARBUKA](https://open.spotify.com/track/1scIhplbxFTbPpQHrQdkSD) | [Arya Aryay](https://open.spotify.com/artist/5TrOFp4saNR1jYOoOITvH9) | [DARBUKA](https://open.spotify.com/album/6Lxvb7RLeCszkRsz9oLJQ7) | 2:28 | 2025-07-24 | 2025-09-28 |
@@ -215,6 +215,7 @@
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 | 2025-07-07 |
 | [SENİN OLSUN](https://open.spotify.com/track/6HjKzIcneM1tVlpQlKulkq) | [Alaca](https://open.spotify.com/artist/67MoCLjdlVakijtIPLmkfB) | [SENİN OLSUN](https://open.spotify.com/album/326BUEFl106rDVFFTxnHyF) | 2:51 | 2024-07-12 | 2024-08-04 |
 | [Senle Sensiz](https://open.spotify.com/track/3yte11mbcfkakdVNkJuCtt) | [Duru And](https://open.spotify.com/artist/79h9QbZLQ5w3lgDxDOanyQ), [Eda And](https://open.spotify.com/artist/2UDKz9B8LKuzFYLmWumLIw) | [Senle Sensiz](https://open.spotify.com/album/06nOfWZhWAOz7kgA8gBgAm) | 3:17 | 2025-04-10 | 2025-05-18 |
+| [senli sevda](https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [senli sevda](https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw) | 2:17 | 2025-09-25 |  |
 | [Sensiz Asla](https://open.spotify.com/track/2EWzD55sialRvMoOzsZVvJ) | [Pınar Süer](https://open.spotify.com/artist/0IfUkADV3FdxlKfbH8BELX) | [Sensiz Asla](https://open.spotify.com/album/1LLiIl4gxe95v1r5tSS62O) | 2:22 | 2025-07-17 | 2025-10-06 |
 | [Serdengeçti](https://open.spotify.com/track/4cRiXJoX4kLZuCKIiq0LIk) | [YGA](https://open.spotify.com/artist/759ZyzBKCRfVS5e9emtsCu) | [Serdengeçti](https://open.spotify.com/album/6soK5zdKOiKiMgTN1h7Kpa) | 3:39 | 2025-05-15 | 2025-07-08 |
 | [Sesim Kulaklıklarında](https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Sesim Kulaklıklarında](https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up) | 3:22 | 2024-06-20 | 2024-08-13 |

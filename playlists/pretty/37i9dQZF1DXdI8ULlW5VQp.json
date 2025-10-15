@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Delilah en portada.",
-  "num_followers": 192065,
+  "num_followers": 192048,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-10-10 06:00:39",
       "album": {
+        "name": "Las Escondidas",
+        "url": "https://open.spotify.com/album/6lRfxWDjDqwTRYS4Yb5q3S"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Las Escondidas",
+      "url": "https://open.spotify.com/track/6W3kwy6UDG59AkuwMm80Nm"
+    },
+    {
+      "added_at": "2025-10-10 06:00:39",
+      "album": {
         "name": "Pinceles",
         "url": "https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 182999,
       "name": "Pinceles",
       "url": "https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz"
-    },
-    {
-      "added_at": "2025-10-10 06:00:39",
-      "album": {
-        "name": "Las Escondidas",
-        "url": "https://open.spotify.com/album/6lRfxWDjDqwTRYS4Yb5q3S"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Las Escondidas",
-      "url": "https://open.spotify.com/track/6W3kwy6UDG59AkuwMm80Nm"
     },
     {
       "added_at": "2025-10-10 06:00:39",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-10-10 06:00:39",
       "album": {
-        "name": "nomeolvides",
-        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 179328,
-      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
-      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
-    },
-    {
-      "added_at": "2025-10-10 06:00:39",
-      "album": {
         "name": "Las De Infante",
         "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 157473,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/5o0NpJ8lJqcdiIIpeZPP6u"
+    },
+    {
+      "added_at": "2025-10-10 06:00:39",
+      "album": {
+        "name": "nomeolvides",
+        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 179328,
+      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
+      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
     },
     {
       "added_at": "2025-10-10 06:00:39",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-10-10 06:00:39",
       "album": {
-        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
-        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
+        "name": "Me Levant\u00e9 de la Cama",
+        "url": "https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc"
       },
       "artists": [
         {
-          "name": "Pambo",
-          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
         }
       ],
-      "duration_ms": 212326,
-      "name": "Fondo",
-      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
+      "duration_ms": 182906,
+      "name": "Me Levant\u00e9 de la Cama",
+      "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
     },
     {
       "added_at": "2025-10-10 06:00:39",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-10-10 06:00:39",
       "album": {
-        "name": "Me Levant\u00e9 de la Cama",
-        "url": "https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc"
+        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
+        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
       },
       "artists": [
         {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Me Levant\u00e9 de la Cama",
-      "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
+      "duration_ms": 212326,
+      "name": "Fondo",
+      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
     },
     {
       "added_at": "2025-10-10 06:00:39",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-10-10 06:00:39",
       "album": {
+        "name": "febrero",
+        "url": "https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 226027,
+      "name": "febrero",
+      "url": "https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf"
+    },
+    {
+      "added_at": "2025-10-10 06:00:39",
+      "album": {
         "name": "Sed de Acci\u00f3n Con Carolina Ross (Re-versi\u00f3n)",
         "url": "https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 206250,
       "name": "Un buen d\u00eda",
       "url": "https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U"
-    },
-    {
-      "added_at": "2025-10-10 06:00:39",
-      "album": {
-        "name": "febrero",
-        "url": "https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 226027,
-      "name": "febrero",
-      "url": "https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf"
     },
     {
       "added_at": "2025-10-10 06:00:39",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-10-10 06:00:39",
       "album": {
-        "name": "Si Soy Honesto",
-        "url": "https://open.spotify.com/album/11Dqlgv5A80zlR2f5YICod"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 135128,
-      "name": "Si Soy Honesto",
-      "url": "https://open.spotify.com/track/2bKuNQV3LFztlewQPpPRIJ"
-    },
-    {
-      "added_at": "2025-10-10 06:00:39",
-      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 162586,
       "name": "Necios",
       "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
+    },
+    {
+      "added_at": "2025-10-10 06:00:39",
+      "album": {
+        "name": "Si Soy Honesto",
+        "url": "https://open.spotify.com/album/11Dqlgv5A80zlR2f5YICod"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 135128,
+      "name": "Si Soy Honesto",
+      "url": "https://open.spotify.com/track/2bKuNQV3LFztlewQPpPRIJ"
     },
     {
       "added_at": "2025-10-10 06:00:39",

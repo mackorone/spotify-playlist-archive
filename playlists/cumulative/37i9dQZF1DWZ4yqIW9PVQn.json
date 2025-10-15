@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "CLICH\u00c9",
+        "url": "https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250080,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/23xzKOM5lrBxoVM4s62idv"
+    },
+    {
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz"
       },
@@ -3089,6 +3107,28 @@
     },
     {
       "album": {
+        "name": "\ubbf8\uc0dd",
+        "url": "https://open.spotify.com/album/0wR5rt7Wm5jSnFyCBexxbv"
+      },
+      "artists": [
+        {
+          "name": "\uace0\ucd94\uc7a0\uc790\ub9ac",
+          "url": "https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H"
+        },
+        {
+          "name": "\ub824\uc9c4",
+          "url": "https://open.spotify.com/artist/7GaxsdqZnC5PNGyVaKi2wp"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\uac00\uc744\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4baq5UHvCkuSwdNKTMyfDw"
+    },
+    {
+      "album": {
         "name": "\uac00\uc744\uc758 \ub178\ub798",
         "url": "https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z"
       },
@@ -3402,6 +3442,24 @@
       "duration_ms": 210000,
       "name": "\ud587\ube5b\uc0e4\uc6cc",
       "url": "https://open.spotify.com/track/3fTLzrYumxtZrskWzF9Gtc"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d \ub2e4\uc2dc \ubd80\ub974\uae30 I",
+        "url": "https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284306,
+      "name": "\ud750\ub9b0 \uac00\uc744 \ud558\ub298\uc5d0 \ud3b8\uc9c0\ub97c \uc368",
+      "url": "https://open.spotify.com/track/64cuomBVoSkO27t6hG4RSl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn"

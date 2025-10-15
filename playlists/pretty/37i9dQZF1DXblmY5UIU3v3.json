@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 489552,
+  "num_followers": 489643,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16vPs3aVNCBvttgaa8Idqo"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/6oUOQf8bvwYMI0XGzI5qxO"
+    },
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 151142,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ"
-    },
-    {
-      "added_at": "2025-10-10 04:00:28",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16vPs3aVNCBvttgaa8Idqo"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/6oUOQf8bvwYMI0XGzI5qxO"
     },
     {
       "added_at": "2025-10-10 04:00:28",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
-        "name": "Candy Shop",
-        "url": "https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K"
-      },
-      "artists": [
-        {
-          "name": "BeeBars",
-          "url": "https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62"
-        },
-        {
-          "name": "7vvch",
-          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
-        }
-      ],
-      "duration_ms": 140458,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z"
-    },
-    {
-      "added_at": "2025-10-10 04:00:28",
-      "album": {
         "name": "Cradles",
         "url": "https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 184800,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW"
+    },
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K"
+      },
+      "artists": [
+        {
+          "name": "BeeBars",
+          "url": "https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62"
+        },
+        {
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        }
+      ],
+      "duration_ms": 140458,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z"
     },
     {
       "added_at": "2025-10-10 04:00:28",

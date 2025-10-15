@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:6Q1qRPuPuwJH0QPvdAPqtI\">Sara Gioielli</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3E7G9DQhR8ftQDt18ieMVZ\">Leyla El Abiri</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 193416,
       "name": "casa mia",
       "url": "https://open.spotify.com/track/4AbyzTJ8Q74E5UY5vjRoXY"
@@ -7242,7 +7242,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 175135,
       "name": "Come vuoi",
       "url": "https://open.spotify.com/track/1XxmjndkkiVXGzNb08EaG0"
@@ -10007,6 +10007,24 @@
     },
     {
       "album": {
+        "name": "empatya",
+        "url": "https://open.spotify.com/album/78seJvO4n9E4qrYsyWMAm7"
+      },
+      "artists": [
+        {
+          "name": "sickgios",
+          "url": "https://open.spotify.com/artist/4gy8YbVUdeh9sNLOGVHBoD"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120085,
+      "name": "empatya",
+      "url": "https://open.spotify.com/track/268zOTSkXbashWtsJphgbp"
+    },
+    {
+      "album": {
         "name": "Empty Promises",
         "url": "https://open.spotify.com/album/4Wz6jgcLUucTKcL5OO5lWC"
       },
@@ -10936,6 +10954,24 @@
       "duration_ms": 223557,
       "name": "Federico",
       "url": "https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2"
+    },
+    {
+      "album": {
+        "name": "Feelin'",
+        "url": "https://open.spotify.com/album/3j0QWF9ToxSDdBCH03Avgn"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/6SCWMfaBpUTinM56P7wdLT"
     },
     {
       "album": {
@@ -12190,7 +12226,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 195086,
       "name": "Fuori dal Blu",
       "url": "https://open.spotify.com/track/30PTapN6nWrPaLLwAWTKaN"
@@ -14592,7 +14628,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 168791,
       "name": "imitati benissimo",
       "url": "https://open.spotify.com/track/4zGhCOcPqnERGkFQChzNGG"
@@ -17324,6 +17360,24 @@
       "duration_ms": 171135,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0vz6QaMA9cqKi2YYzc1TD2"
+    },
+    {
+      "album": {
+        "name": "longtemps",
+        "url": "https://open.spotify.com/album/5RfdEHcWM9h2LZr6gyqd3E"
+      },
+      "artists": [
+        {
+          "name": "Kronol",
+          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195690,
+      "name": "longtemps",
+      "url": "https://open.spotify.com/track/5OD4AYrKRCgG567QcPO1jE"
     },
     {
       "album": {
@@ -21440,6 +21494,24 @@
       "duration_ms": 176516,
       "name": "Noia",
       "url": "https://open.spotify.com/track/0z0yhn5LrYtWfVBAhK8ovm"
+    },
+    {
+      "album": {
+        "name": "Noiadrama",
+        "url": "https://open.spotify.com/album/7zcirnUXY3AVtUcRnIWjXu"
+      },
+      "artists": [
+        {
+          "name": "Vera Sl\u00f6",
+          "url": "https://open.spotify.com/artist/2wGbYWCrMCyKnFhsetEtWq"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276069,
+      "name": "Noiadrama",
+      "url": "https://open.spotify.com/track/573vfSbIuBXA7rNyCRXUHr"
     },
     {
       "album": {
@@ -26787,6 +26859,24 @@
     },
     {
       "album": {
+        "name": "ragazze",
+        "url": "https://open.spotify.com/album/3P5xyKWAq4tKZckSbp3tsL"
+      },
+      "artists": [
+        {
+          "name": "Leyla El Abiri",
+          "url": "https://open.spotify.com/artist/3E7G9DQhR8ftQDt18ieMVZ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196850,
+      "name": "ragazze",
+      "url": "https://open.spotify.com/track/69IDvONe3y2jZjumffbb48"
+    },
+    {
+      "album": {
         "name": "Ragni",
         "url": "https://open.spotify.com/album/3IoHIyvz0TqZrBNZEYZtOq"
       },
@@ -27343,6 +27433,24 @@
     },
     {
       "album": {
+        "name": "Rises",
+        "url": "https://open.spotify.com/album/6i9TRppFZLzyizLtNrzUmP"
+      },
+      "artists": [
+        {
+          "name": "Loner Tennis Club",
+          "url": "https://open.spotify.com/artist/4Ry4mhxJLKpIzSlXIFkgbp"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268444,
+      "name": "Rises",
+      "url": "https://open.spotify.com/track/5XFZ34ufkWYHHRqpl0KGwi"
+    },
+    {
+      "album": {
         "name": "risveglio",
         "url": "https://open.spotify.com/album/5URmMFHRSSz0VkAQ676C12"
       },
@@ -27658,7 +27766,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 191000,
       "name": "Run Like Hell",
       "url": "https://open.spotify.com/track/1uftj5jWJ9VcQrARuwLgi0"
@@ -30369,6 +30477,24 @@
     },
     {
       "album": {
+        "name": "Soulshaker",
+        "url": "https://open.spotify.com/album/4GfZRejDlTLAwGyQptfQgR"
+      },
+      "artists": [
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177304,
+      "name": "Soulshaker",
+      "url": "https://open.spotify.com/track/5abCDaSm3wpA9tgHy553aH"
+    },
+    {
+      "album": {
         "name": "SOUTH MANICOMIO",
         "url": "https://open.spotify.com/album/3Uw4AL4TVQFF8zl8jAlA8T"
       },
@@ -31684,7 +31810,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 155716,
       "name": "SUPERFICIE",
       "url": "https://open.spotify.com/track/6jcjWk77hqbnmlvhsK92e4"
@@ -32806,7 +32932,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 202500,
       "name": "Transit (feat. Killa P)",
       "url": "https://open.spotify.com/track/7mR1z8YGtFKBEJ8Y0lIg7E"
@@ -32940,6 +33066,24 @@
       "duration_ms": 205600,
       "name": "Tremo",
       "url": "https://open.spotify.com/track/06cpgjxgSb5gcSTY90xKX3"
+    },
+    {
+      "album": {
+        "name": "Tropicale",
+        "url": "https://open.spotify.com/album/3QbXZfZl07pF5Iv8pPK9TB"
+      },
+      "artists": [
+        {
+          "name": "Moon Blue",
+          "url": "https://open.spotify.com/artist/2i0hxo64wJtsVhqYaaqJ5F"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169105,
+      "name": "Tropicale",
+      "url": "https://open.spotify.com/track/6nzmCqt2kC8cV8ubqLhkVL"
     },
     {
       "album": {
@@ -34808,7 +34952,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 236659,
       "name": "Vital Loop",
       "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"

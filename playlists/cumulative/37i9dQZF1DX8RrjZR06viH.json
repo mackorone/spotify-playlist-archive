@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "fear of looking stupid",
+        "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
+      },
+      "artists": [
+        {
+          "name": "tiri",
+          "url": "https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164812,
+      "name": "fear of looking stupid",
+      "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
+    },
+    {
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 182510,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/1C5zAJjoB3cdMBu7Xse28r"

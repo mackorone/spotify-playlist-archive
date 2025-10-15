@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-331 songs - 19 hr 4 min
+333 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 |  |
 | [Golden Hour](https://open.spotify.com/track/6okiuD2GilqpFbJGjRinSE) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/0FuYgWBwbrQj3s66trgrdx) | 3:21 | 2024-07-12 | 2024-10-19 |
 | [Good Stuff](https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf), [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [Good Stuff](https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5) | 3:04 | 2024-04-12 | 2024-04-20 |
-| [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 | 2025-01-31 |  |
+| [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 | 2025-01-31 | 2025-10-15 |
 | [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 | 2024-05-10 | 2024-09-07 |
 | [happier without you](https://open.spotify.com/track/3tNLceJBTqBOMytGODY1IG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/0rnW4hH24v4j16wUbeR5Tn) | 3:06 | 2024-07-12 | 2025-02-08 |
 | [happy endings do exist](https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [happy endings do exist](https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL) | 3:17 | 2024-08-16 | 2024-12-21 |
@@ -127,6 +127,7 @@
 | [HLYTW](https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [HLYTW](https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz) | 3:03 | 2024-11-08 | 2025-09-27 |
 | [Hollow](https://open.spotify.com/track/0Amqo9CK8mGpCcpAGnrbxP) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Dweller](https://open.spotify.com/album/7tviOf20Ri2MUssHhwTx2l) | 3:56 | 2023-12-08 | 2023-12-16 |
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-19 | 2025-02-01 |
+| [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-14 |  |
 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 | 2024-01-19 | 2024-04-02 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-05-04 |
 | [Huntley](https://open.spotify.com/track/5sJdlrzaYvCxeSTsQzQ6Db) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Huntley](https://open.spotify.com/album/0HV9T0Zb3gwIeBaZLu2qFd) | 2:59 | 2024-10-25 | 2024-11-09 |
@@ -202,6 +203,7 @@
 | [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-22 |  |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-12-08 | 2024-02-17 |
 | [My Body's My Buddy](https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy](https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u) | 3:28 | 2024-08-23 | 2025-09-20 |
+| [My Day](https://open.spotify.com/track/6gpJ7jTYXBV5S5YNR9qJi8) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [My Day](https://open.spotify.com/album/6tDE4Um9yH5dNrUW6p4VwM) | 2:22 | 2025-10-14 |  |
 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 | 2025-04-04 |  |
 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-12-08 | 2024-03-02 |
 | [Name Your Price](https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Name Your Price](https://open.spotify.com/album/5ExvE4ttfYYXO47PTRZjBg) | 3:25 | 2024-06-21 | 2024-09-14 |

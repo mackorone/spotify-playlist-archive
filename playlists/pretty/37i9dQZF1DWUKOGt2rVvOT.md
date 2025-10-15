@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！快一年了？快兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: 美秀集團 \(Amazing Show\) x 盧廣仲 \(Crowd Lu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,660 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,703 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 |
 | 50 | [星球](https://open.spotify.com/track/5YwxmUSyfzBS1PiTBhH5dI) | [JADE](https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR) | [Creeper](https://open.spotify.com/album/7DHPc682uIrrdTkLOer00Y) | 4:58 |
 
-Snapshot ID: `AAAAAEQkUP+LBgYCJhITea9ZANW3Trbe`
+Snapshot ID: `AAAAALIGn/RapsbYhsJa5X+yx92c/n6t`

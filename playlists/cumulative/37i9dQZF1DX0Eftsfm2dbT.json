@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: Awich, ALI",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: ralph",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 10399,
       "name": "+81 Connect Call_guca owl",
       "url": "https://open.spotify.com/track/1xRljfiRJlgfUGWu6cxz7X"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 8269,
       "name": "+81 Connect Call_MFS",
       "url": "https://open.spotify.com/track/4ow5fi1IexrgH9z7XqDlyU"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 311173,
       "name": "03- Glo Cypher 2025 (feat. MIKADO, 3Li\u00a5en, Hezron, lj & HARKA)",
       "url": "https://open.spotify.com/track/4qwZhPbYhhwfPTj4bMagyd"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 197106,
       "name": "All in for One (feat. SEEDA)",
       "url": "https://open.spotify.com/track/4pFE92pwi6CXR2HNTs7Dfc"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 231602,
       "name": "Ashitanokinou (feat. A-THUG)",
       "url": "https://open.spotify.com/track/7tultdSIBYTdxBS0UzkzXc"
@@ -4621,6 +4621,32 @@
     },
     {
       "album": {
+        "name": "BET (feat. DAB & DNE)",
+        "url": "https://open.spotify.com/album/65sI91xMH3KQgzB96Clwlq"
+      },
+      "artists": [
+        {
+          "name": "Yvngboi P",
+          "url": "https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW"
+        },
+        {
+          "name": "DAB",
+          "url": "https://open.spotify.com/artist/3yYumedujiQlRToKP478wS"
+        },
+        {
+          "name": "DNE",
+          "url": "https://open.spotify.com/artist/72IcIjVbjE8V3fUDPfkeV3"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162038,
+      "name": "BET (feat. DAB & DNE)",
+      "url": "https://open.spotify.com/track/6cD5qb8B14Z8toWPUAVK9a"
+    },
+    {
+      "album": {
         "name": "BeTBeT",
         "url": "https://open.spotify.com/album/0b4thC7zbKtOTuLCDVNgtR"
       },
@@ -4640,7 +4666,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 249909,
       "name": "BeTBeT",
       "url": "https://open.spotify.com/track/26YjEvQkETqhO0Mskf7P50"
@@ -4820,7 +4846,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 183571,
       "name": "Big Bag (feat. Hezron)",
       "url": "https://open.spotify.com/track/4pYiZIh2zn9jGwVMDDqMOK"
@@ -5348,6 +5374,24 @@
       "duration_ms": 150857,
       "name": "BLONDE",
       "url": "https://open.spotify.com/track/1Il3mAdVCciVR77awC25Uy"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/2triZ3PwHVhfKBtSVvhQXO"
+      },
+      "artists": [
+        {
+          "name": "\u6953",
+          "url": "https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161965,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0aId20dSmiSr6WwzqUMG1C"
     },
     {
       "album": {
@@ -8324,7 +8368,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 151740,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/2WkvhtHXDvImXFcN6QCIsY"
@@ -8490,6 +8534,40 @@
       "duration_ms": 218186,
       "name": "DayNnight",
       "url": "https://open.spotify.com/track/39EVWzZfmYcDgYJmfBG5rG"
+    },
+    {
+      "album": {
+        "name": "Dear Friends (feat. Shuto, Miyauchi & dengaryu)",
+        "url": "https://open.spotify.com/album/52qL8YELixUNGobelet4df"
+      },
+      "artists": [
+        {
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+        },
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "Shuto",
+          "url": "https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH"
+        },
+        {
+          "name": "Miyauchi",
+          "url": "https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB"
+        },
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209638,
+      "name": "Dear Friends (feat. Shuto, Miyauchi & dengaryu)",
+      "url": "https://open.spotify.com/track/3mKjSJfHlLzuKUQTLYWa4V"
     },
     {
       "album": {
@@ -9742,7 +9820,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 201547,
       "name": "DONT LOSE",
       "url": "https://open.spotify.com/track/0Peh7lCGnbNDscINCrKiHB"
@@ -13650,7 +13728,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 152116,
       "name": "GO SAD MAD",
       "url": "https://open.spotify.com/track/1sv9T5u9ZEwI1930j2cRZv"
@@ -14212,6 +14290,32 @@
       "duration_ms": 168599,
       "name": "Guerilla",
       "url": "https://open.spotify.com/track/5DNC77KlKgEIzkZVZBAtdS"
+    },
+    {
+      "album": {
+        "name": "GUNSO LYFE STYLE",
+        "url": "https://open.spotify.com/album/0bmYLx8qhUW2h8Wx4EuUEx"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI"
+        },
+        {
+          "name": "ENEL",
+          "url": "https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "GUNSO LYFE STYLE",
+      "url": "https://open.spotify.com/track/3HA5RVJURsK4gsQXoxXryC"
     },
     {
       "album": {
@@ -15206,7 +15310,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 190314,
       "name": "Highlife (feat. Novaaaa & Starceed)",
       "url": "https://open.spotify.com/track/6bhsMEyDxXwY8ylZUsM8T5"
@@ -15356,7 +15460,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 137229,
       "name": "hitasurayaru",
       "url": "https://open.spotify.com/track/34czyN7AbLxCx59U7imSgb"
@@ -18205,6 +18309,24 @@
     },
     {
       "album": {
+        "name": "KID FRESINO",
+        "url": "https://open.spotify.com/album/7lTh9pxURUuaktSPVPXsri"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133315,
+      "name": "KID FRESINO",
+      "url": "https://open.spotify.com/track/1R3he92KY93TdSvMl5pwwX"
+    },
+    {
+      "album": {
         "name": "Message in a Bottle - EP",
         "url": "https://open.spotify.com/album/66pxYIS1IwRGXVqvFDmyhd"
       },
@@ -20655,6 +20777,24 @@
     },
     {
       "album": {
+        "name": "Cahier",
+        "url": "https://open.spotify.com/album/7IzV57bt9rfbrNuDRoSpoa"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127924,
+      "name": "Mad Japanese",
+      "url": "https://open.spotify.com/track/3QNnLFh8a9798ttghZoQJr"
+    },
+    {
+      "album": {
         "name": "Made In Japan",
         "url": "https://open.spotify.com/album/6UVjCi5Ht0Zm64FVO9cz8f"
       },
@@ -20774,6 +20914,24 @@
       "duration_ms": 221612,
       "name": "Magic Hour (feat. DALU)",
       "url": "https://open.spotify.com/track/1aBEK2s5OJ8DFhE7WTX3nX"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "MAGURO",
+      "url": "https://open.spotify.com/track/2PmlpDNdiLjmemk0acZPkm"
     },
     {
       "album": {
@@ -21794,7 +21952,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 141145,
       "name": "MINT",
       "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
@@ -22671,6 +22829,24 @@
     },
     {
       "album": {
+        "name": "moyai",
+        "url": "https://open.spotify.com/album/1YfAuJW2CFMmYxK9ORzvJc"
+      },
+      "artists": [
+        {
+          "name": "Campanella",
+          "url": "https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180339,
+      "name": "moyai",
+      "url": "https://open.spotify.com/track/43GkBM6CZ30o9mylJ0bb6h"
+    },
+    {
+      "album": {
         "name": "MR.TOKYO",
         "url": "https://open.spotify.com/album/330pFQilSBzSHDhLteYUoY"
       },
@@ -23444,7 +23620,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 178786,
       "name": "NASHI KARA ARI (feat. 7 & ZENDAMAN) - Remix",
       "url": "https://open.spotify.com/track/00T6BuQF4AUItauTOyUJ3M"
@@ -25906,7 +26082,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 118781,
       "name": "Omote II - Remix",
       "url": "https://open.spotify.com/track/5dkIeFcy0awNiHvZoQ7O0b"
@@ -26108,7 +26284,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 232581,
       "name": "Once today is over",
       "url": "https://open.spotify.com/track/2Wr5XUPwmmLpaCKq9kxVil"
@@ -28667,6 +28843,28 @@
     },
     {
       "album": {
+        "name": "Story of 991",
+        "url": "https://open.spotify.com/album/2wRInjyI3PAoUVOkuYI4UD"
+      },
+      "artists": [
+        {
+          "name": "Neetz",
+          "url": "https://open.spotify.com/artist/1MI8TsiYmYTE0Fu9CUqTr4"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Ray (feat. Yo-Sea)",
+      "url": "https://open.spotify.com/track/0BH7XCRM9rJ5Zs8zgdGRCg"
+    },
+    {
+      "album": {
         "name": "Ray (feat. Yo-Sea)",
         "url": "https://open.spotify.com/album/5nHaZImYvWRJYjEbIyuSuo"
       },
@@ -28682,7 +28880,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 182000,
       "name": "Ray (feat. Yo-Sea)",
       "url": "https://open.spotify.com/track/751GNq9fp3aHpHcZ770AYl"
@@ -30301,6 +30499,24 @@
     },
     {
       "album": {
+        "name": "Sad Kid Yaz Type Beat",
+        "url": "https://open.spotify.com/album/68vXwxf5yPmOiVuC3A1CKx"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "Sad Kid Yaz Type Beat",
+      "url": "https://open.spotify.com/track/3aou3wXkwdFdhnkHrwVgef"
+    },
+    {
+      "album": {
         "name": "Sagging My Jeans (feat. Lil Ash Zange & Tohji)",
         "url": "https://open.spotify.com/album/1JV4fJ5l4dqhbm1RPUkLBB"
       },
@@ -30552,7 +30768,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 227500,
       "name": "SANTANA",
       "url": "https://open.spotify.com/track/5AOWYXqGdFBAO2qhE4KTcC"
@@ -30596,7 +30812,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 201861,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/1dm8JjG9sDMLIjKmlclygT"
@@ -30680,7 +30896,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 172000,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/6X4yjQUedTysOxv0R18eTH"
@@ -30756,7 +30972,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 136901,
       "name": "SDM",
       "url": "https://open.spotify.com/track/4aL6tbjgTUpathB5ddXPee"
@@ -31730,7 +31946,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 129666,
       "name": "SKIT",
       "url": "https://open.spotify.com/track/4eJ313mrelH6b2RA948qYP"
@@ -32431,6 +32647,28 @@
     },
     {
       "album": {
+        "name": "Sonnamon (feat. Daichi Yamamoto)",
+        "url": "https://open.spotify.com/album/2nMElVQGErj8d2TS4RxQaW"
+      },
+      "artists": [
+        {
+          "name": "NGONG",
+          "url": "https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "Sonnamon (feat. Daichi Yamamoto)",
+      "url": "https://open.spotify.com/track/3BO7F3Hz2sxcquy3S6WD5U"
+    },
+    {
+      "album": {
         "name": "LIVE IN YAMADA",
         "url": "https://open.spotify.com/album/22DYFzz5Fjsb8jS0yAkE1F"
       },
@@ -32686,6 +32924,28 @@
       "duration_ms": 209999,
       "name": "SPECULATION",
       "url": "https://open.spotify.com/track/3DGuibOm2NyK52tsT4LrrA"
+    },
+    {
+      "album": {
+        "name": "SPEEDY",
+        "url": "https://open.spotify.com/album/1jZovh1yZtX2vN7fa7D50H"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "KVGGLV",
+          "url": "https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185927,
+      "name": "SPEEDY",
+      "url": "https://open.spotify.com/track/76sz3jWPLEtOJaYPnfprAI"
     },
     {
       "album": {
@@ -34502,7 +34762,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 138731,
       "name": "Tekipaki",
       "url": "https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j"
@@ -36077,6 +36337,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Neetz",
+          "url": "https://open.spotify.com/artist/1MI8TsiYmYTE0Fu9CUqTr4"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/0TlcWE87HM7canbczNtep8"
+    },
+    {
+      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -36236,6 +36514,24 @@
       "duration_ms": 185060,
       "name": "True - rkemishi REMIX",
       "url": "https://open.spotify.com/track/1WNvxSUleRIchRUT7M747c"
+    },
+    {
+      "album": {
+        "name": "TRUST",
+        "url": "https://open.spotify.com/album/25mZU2YudA7wPAKSqmez9R"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210364,
+      "name": "TRUST",
+      "url": "https://open.spotify.com/track/1aPge51xoRxVhOF1ysFSP3"
     },
     {
       "album": {
@@ -36638,6 +36934,24 @@
       "duration_ms": 207809,
       "name": "Ugachi",
       "url": "https://open.spotify.com/track/105aRG9ROd9VGtzmba5ziE"
+    },
+    {
+      "album": {
+        "name": "Uh Wah",
+        "url": "https://open.spotify.com/album/7wZrxTpwlI3PsGJAyWXp4R"
+      },
+      "artists": [
+        {
+          "name": "Neibiss",
+          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179714,
+      "name": "Uh Wah",
+      "url": "https://open.spotify.com/track/1qqwzMfqIsg0HhQqCjc7Di"
     },
     {
       "album": {
@@ -38762,7 +39076,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 114022,
       "name": "WHY DO WE FALL?",
       "url": "https://open.spotify.com/track/3NOQkx4EG39w85YGD7EvKV"
@@ -39238,7 +39552,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 173892,
       "name": "Y.N's",
       "url": "https://open.spotify.com/track/3P4zFZrex1twZ4CZXmIhqe"
@@ -39974,7 +40288,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 156362,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3HePCoxA2XO1Q1Mq7f0Xm0"
@@ -40234,7 +40548,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 133977,
       "name": "\u304a\u5bdf\u3057",
       "url": "https://open.spotify.com/track/41WAgVuHTlYjXGtTi0hhzR"
@@ -42998,7 +43312,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 197496,
       "name": "\u697d\u3057\u3044\u3060\u3051\u3058\u3083 (feat. Worldwide Skippa)",
       "url": "https://open.spotify.com/track/3bTF24ppSYQ8aohmy2CcRC"

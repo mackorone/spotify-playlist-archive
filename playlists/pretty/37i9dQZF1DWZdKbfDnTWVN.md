@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=uOrRcNp2Qy2fEsump2G\-Xw"> Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,172 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,189 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 17 | [KIKI](https://open.spotify.com/track/2xgmhP2HrMbNAAxHJMwQtn) | [Saisa Ndabi](https://open.spotify.com/artist/60bmAcMMt28j3qfuqzLS6x), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET), [Hassano](https://open.spotify.com/artist/4TaQA9Ox6lpkFSNBBusjMK), [Abbas Doobeez](https://open.spotify.com/artist/5Z31tyEMGeM0Pb6qTIM4h9), [125 Music](https://open.spotify.com/artist/5vcyAzweI7jH6a1UUIqQSn), [XIENGO](https://open.spotify.com/artist/1M8nrarmVgGIq6cQkdH8oy) | [KIKI](https://open.spotify.com/album/6HkI3bCLjFtmGIrn276kSw) | 4:47 |
 | 18 | [MISSING EFFECT!](https://open.spotify.com/track/3Qd3FX09270rx35ruQBhuh) | [Sushiidushi](https://open.spotify.com/artist/0qkGwYjIbzN7lFa7xDrd4j), [Kareem](https://open.spotify.com/artist/7vLb64Tj2f43pRAhCDhe65) | [MISSING EFFECT!](https://open.spotify.com/album/2MrpI9UxafDFLIQVZWIVQR) | 1:24 |
 | 19 | [Vuma](https://open.spotify.com/track/36YwHycglYSTqB4tVg0mYD) | [Double Trouble](https://open.spotify.com/artist/16bv2xG6TA7IgSjLJFPRCa), [Young NC](https://open.spotify.com/artist/7gNgolrGlsogfkdIHthH9F) | [Vuma](https://open.spotify.com/album/2V5ooG2pEiHbAcrZwKdhoJ) | 3:12 |
-| 20 | [Effects Of Hard Drugz](https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv) | [Bountty Blockah](https://open.spotify.com/artist/4eV7TwtZDTYI8wB5wyOPDN), [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [, Mableh](https://open.spotify.com/artist/2qUHKed63B8deg91gv48N5), [Aleba](https://open.spotify.com/artist/191CfyOXsX1ByHtKdG5gkT) | [Effects Of Hard Drugz](https://open.spotify.com/album/5mfg438TMWCpc7DX0x11oX) | 5:13 |
+| 20 | [Effects Of Hard Drugz](https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv) | [Bountty Blockah](https://open.spotify.com/artist/4eV7TwtZDTYI8wB5wyOPDN), [Mbogi Genje](https://open.spotify.com/artist/4vGP504C4n2tHcSPbXmbt3), [, Mableh](https://open.spotify.com/artist/2qUHKed63B8deg91gv48N5), [Aleba](https://open.spotify.com/artist/191CfyOXsX1ByHtKdG5gkT) | [Effects Of Hard Drugz](https://open.spotify.com/album/5mfg438TMWCpc7DX0x11oX) | 5:13 |
 | 21 | [Hood](https://open.spotify.com/track/47tOCaQCFn9OwVMisVx1qm) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Hood](https://open.spotify.com/album/11Casux2rv1wSeSVHoFntn) | 2:34 |
 | 22 | [Mekatilili](https://open.spotify.com/track/41kBW9MDevID9wQHLgjdOv) | [Shmu](https://open.spotify.com/artist/1tPfPce3ADyn6HRc3IAPGa), [Ziller Bas](https://open.spotify.com/artist/7egikbEShB41Y4iozId8PO), [June on the Moon](https://open.spotify.com/artist/4D7fnI4k0SwiiH1v9u6l1j) | [Mekatilili](https://open.spotify.com/album/1JkfCKCNoEuLyu6uPqQ5MC) | 4:01 |
 | 23 | [Risk](https://open.spotify.com/track/622bSED9pIr9cjX908B1Kr) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [THE BOOK OF JONES 1st CHAPTER](https://open.spotify.com/album/3dVeAYbIiL1etx0BJ1gYe9) | 4:10 |

@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-138 songs - 8 hr 0 min
+139 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:43 | 2025-09-25 |  |
 | [All Outta Ale](https://open.spotify.com/track/7BR8gWAmH0NSEgLG5aVqww) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [The Prof.](https://open.spotify.com/artist/7wwrfbv1PQvXAShKzNRdv8) | [The Prof Meets The SUPER VILLAIN](https://open.spotify.com/album/1akrx117lSf7Exc1OQlLcu) | 3:26 | 2025-02-22 |  |
 | [ANGELZ](https://open.spotify.com/track/180KvPWfy3IUEbuzPUn5wv) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 3:05 | 2025-05-31 |  |
-| [ANGELZ](https://open.spotify.com/track/18JUkS8vwkFlOPlt3IzZ4T) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BORN LIKE THIS \(Redux\)](https://open.spotify.com/album/6NhLXvyDG7QbCqFDFHh9ja) | 3:05 | 2025-01-30 |  |
+| [ANGELZ](https://open.spotify.com/track/18JUkS8vwkFlOPlt3IzZ4T) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BORN LIKE THIS \(Redux\)](https://open.spotify.com/album/6NhLXvyDG7QbCqFDFHh9ja) | 3:05 | 2025-01-30 | 2025-10-15 |
 | [Anti\-Matter](https://open.spotify.com/track/4kVxStqN7DeoZje5aidAn3) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [Mr Fantastik](https://open.spotify.com/artist/7zDPvKo7b0I7OPefCwqrsE) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:26 | 2025-01-13 |  |
 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 | 2025-04-15 |  |
 | [BALLSKIN](https://open.spotify.com/track/5Jy0ljGOTUUM63K1SwrgQs) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 1:30 | 2025-02-26 |  |
@@ -54,6 +54,7 @@
 | [Fancy Clown \(feat\. Viktor Vaughn\)](https://open.spotify.com/track/1YgDGKyKhFlimPw3mLavPG) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 1:55 | 2025-01-30 |  |
 | [Fastlane](https://open.spotify.com/track/3dX0c7tK7bnaUMhZlr6sIC) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:08 | 2025-03-06 |  |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2025-07-11 |  |
+| [Fazers](https://open.spotify.com/track/1R28m5eWk1EV9FQ3puWrUp) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:17 | 2025-10-14 |  |
 | [FEAR.](https://open.spotify.com/track/23luOrEVHMfoX0AhfbQuS6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 7:40 | 2025-08-18 |  |
 | [Figaro](https://open.spotify.com/track/7oFiFPltiQTBqVutyiSwvE) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:25 | 2025-03-04 |  |
 | [Gas Drawls](https://open.spotify.com/track/2x98hOxbd1cnV6AKhPRUcX) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 3:43 | 2025-01-30 |  |

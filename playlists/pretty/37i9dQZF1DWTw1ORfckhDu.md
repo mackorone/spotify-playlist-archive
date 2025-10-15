@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,419 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,427 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 4 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 |
 | 5 | [Mentalité](https://open.spotify.com/track/1gT6L9rpCivi18AA0nC7hy) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mentalité](https://open.spotify.com/album/48AdxlB1VXYwfDCAK5Naco) | 2:55 |
 | 6 | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 |
-| 7 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
-| 8 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
-| 9 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 |
-| 10 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 7 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 8 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 9 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
+| 10 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 |
 | 11 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
 | 12 | [Kadut tietää](https://open.spotify.com/track/6g9WHMklrI0JxjtM9STpcU) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Kadut tietää](https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp) | 2:29 |
 | 13 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Rakastatsä mua?](https://open.spotify.com/track/0k5cWIUMz0nSjwMxECnVut) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Rakastatsä mua?](https://open.spotify.com/album/0deibgIw6M7ES7AfSSOnVc) | 2:58 |
 | 50 | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN) | 3:17 |
 
-Snapshot ID: `AAAAAN8/qTh+xgHLmK9E8hYGQZSoYcQ9`
+Snapshot ID: `AAAAAJkq0y6/L0QROU4BJ2w/0JO07xD/`

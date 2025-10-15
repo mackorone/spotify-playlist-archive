@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63296,
+  "num_followers": 63299,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAADUOoAojPRTT4gHRVRSGs5j",
+  "snapshot_id": "aOxBAAAAAACzZekapM14X59Jv+JLyFgg",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Toque (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 453930,
-      "name": "Teu Toque - Ao Vivo",
-      "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
@@ -191,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teu Toque (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 453930,
+      "name": "Teu Toque - Ao Vivo",
+      "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -207,8 +207,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s Bem-Vindo \u00e0 Mesa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46owzmGavoCyP0lvOw2wkG"
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
+        "url": "https://open.spotify.com/album/4ioorezz2X36sfmQmQ6C8N"
       },
       "artists": [
         {
@@ -222,23 +238,7 @@
       ],
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RFIzKM85VrAcqvISglMvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
+      "url": "https://open.spotify.com/track/0KN0dOhQJaO4zXwNgi6ypB"
     },
     {
       "added_at": null,

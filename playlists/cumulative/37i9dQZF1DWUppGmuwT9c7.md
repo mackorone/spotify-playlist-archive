@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-121 songs - 5 hr 55 min
+122 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 | 2025-08-26 |  |
 | [De Laatste](https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [De Laatste](https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao) | 2:51 | 2025-07-14 |  |
 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 | 2025-07-14 |  |
-| [De Tent Moet Op Z’n Kop](https://open.spotify.com/track/5EkiXdCiQ8mkSyNop0p8Nr) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Kerremuskrakers 2025](https://open.spotify.com/album/2o6j823Nvogl0iVxfiSfcK) | 2:37 | 2025-10-07 |  |
+| [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 | 2025-10-14 |  |
+| [De Tent Moet Op Z’n Kop](https://open.spotify.com/track/5EkiXdCiQ8mkSyNop0p8Nr) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Kerremuskrakers 2025](https://open.spotify.com/album/2o6j823Nvogl0iVxfiSfcK) | 2:37 | 2025-10-07 | 2025-10-15 |
 | [De Toreador](https://open.spotify.com/track/59ZhqrmXub9nSwNGfOzg1N) | [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng), [Wilbert Pigmans](https://open.spotify.com/artist/29ERE79ETWvm8bbINAW7Ix) | [De Toreador](https://open.spotify.com/album/57KGy1iD6DAAcPxw2I9B9Y) | 3:50 | 2025-07-14 |  |
 | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2) | 2:47 | 2025-07-14 | 2025-08-28 |
 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 | 2025-07-14 |  |

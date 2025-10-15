@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Fleezus
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,721 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,703 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Vigia Forte](https://open.spotify.com/track/2eKHBF0BFoVoBlCpEm4cvi) | [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vigia Forte](https://open.spotify.com/album/5Zwu7d1KZZ6ObxrnfjvsI4) | 1:45 |
 | 14 | [Ballon D'or](https://open.spotify.com/track/5ZszSBC1ffJtmbPmNvAnmv) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61) | [Primeiro do meu nome \(1DMN\)](https://open.spotify.com/album/1YFSjHVXJ9agm9U8z8AYog) | 2:29 |
 | 15 | [Forte Abraço](https://open.spotify.com/track/3wk5GFIx6s3GdN4WbgCuh7) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Dona Kelly](https://open.spotify.com/artist/0Xe4H6iA4Pv8xr4r2Glkat) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 2:57 |
-| 16 | [Fora dos Stories](https://open.spotify.com/track/32zgV5lO8UWt8yDDznWt0f) | [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Fora dos Stories](https://open.spotify.com/album/7FD7Iqeob3Csq0PsgGt773) | 2:21 |
+| 16 | [Fora dos Stories](https://open.spotify.com/track/32zgV5lO8UWt8yDDznWt0f) | [SPVIC](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Fora dos Stories](https://open.spotify.com/album/7FD7Iqeob3Csq0PsgGt773) | 2:21 |
 | 17 | [Homens de Negócio](https://open.spotify.com/track/2vfACVbjl5dptW2BWlo5Fk) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Homens de Negócio](https://open.spotify.com/album/6C2TmhVZ83ZGOZzvcKG7UH) | 2:42 |
 | 18 | [Perfil \#124 Billboard](https://open.spotify.com/track/0pfljDWXvhevjHEk6T8rWj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Perfil \#124 Billboard](https://open.spotify.com/album/3WDdKr2jQVWhGGsTIpBtEj) | 2:33 |
 | 19 | [No Veneno](https://open.spotify.com/track/3NT59mnbZHQoXQ0IKB1S3f) | [Noventa](https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK), [Tubarão MC](https://open.spotify.com/artist/1iJUtudgRmV264pB4K6a6h), [PEPPER](https://open.spotify.com/artist/3ClwUKhFOV6sk8Qq6YrRQr), [COBRAS](https://open.spotify.com/artist/73zZOpG3JiAIdf8VaIAm23) | [No Veneno](https://open.spotify.com/album/7CvrIEfLHLSgsZQDkuByft) | 2:16 |

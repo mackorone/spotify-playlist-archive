@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Klavdia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,567 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,570 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sintrimmia](https://open.spotify.com/track/5YEyucJqi9bod0qEq4dhcg) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:49 |
+| 1 | [Sintrimmia](https://open.spotify.com/track/5YEyucJqi9bod0qEq4dhcg) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:49 |
 | 2 | [Allou Gia Allou](https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Allou Gia Allou](https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9) | 2:47 |
 | 3 | [S' Eroteuomai](https://open.spotify.com/track/7rMyWrEvHvrGufwanY4but) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [S' Eroteuomai](https://open.spotify.com/album/2IsYOfmLlxn024gKkwHNFq) | 3:36 |
 | 4 | [Aroma](https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn) | [Angelina](https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Aroma](https://open.spotify.com/album/40lSpv9DUV1CrP0ZMHozpj) | 2:51 |

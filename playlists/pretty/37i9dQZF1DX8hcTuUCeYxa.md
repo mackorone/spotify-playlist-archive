@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,476 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,481 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 25 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
 | 26 | [Maybelline](https://open.spotify.com/track/4zb2b2DXeFCyQfDCobWT8T) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Maybelline](https://open.spotify.com/album/1VTsaVkyjstm643GHSpBa0) | 2:52 |
 | 27 | [Nothing Forever](https://open.spotify.com/track/1IDRJYkXZemLjRR45S50mJ) | [Leonard Mavi](https://open.spotify.com/artist/5xp7IJvZjI5mSKJXk9z9ww) | [Nothing Forever](https://open.spotify.com/album/5ubYNXP5T5LWSOOrHLIxK3) | 3:33 |
-| 28 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
+| 28 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
 | 29 | [Papa fuhr immer einen großen LKW](https://open.spotify.com/track/0GarlbLc23o4vN9xHOmgxq) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Papa fuhr immer einen großen LKW](https://open.spotify.com/album/5dZuNRQBCFmjAwXLPXUgES) | 4:17 |
 | 30 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 31 | [Madame Tussauds](https://open.spotify.com/track/15r64Red3tBAIc45c5yo6v) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Madame Tussauds](https://open.spotify.com/album/5Ww221R1SkbtkVJcaIdogM) | 3:37 |

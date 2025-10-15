@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-80 songs - 4 hr 0 min
+82 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 | 2023-11-30 |  |
 | [963 Hz El Futuro](https://open.spotify.com/track/1gZLAuULPzhxNgbNXSAqfG) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:50 | 2023-07-13 |  |
 | [963 Hz Intuition](https://open.spotify.com/track/5G1cDOqdUzaVatIG1M0Bqf) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Intuition](https://open.spotify.com/album/6ZSSObWQiCdayfLPyMZmIp) | 3:26 | 2024-03-13 |  |
+| [963 Hz Is Calling](https://open.spotify.com/track/0BKMdZRdTWjBwrOaqQLt6S) | [Piers Donnelly](https://open.spotify.com/artist/5SUne9EFTpqn7n0J1zmDB3) | [963 Hz Is Calling](https://open.spotify.com/album/2ZGxg9XLho0bhWa8bgmXuY) | 2:38 | 2025-10-14 |  |
 | [963 Hz One Rejuvenation](https://open.spotify.com/track/40VO0IZClFoOLaAjDmi6SH) | [Solflorescence](https://open.spotify.com/artist/3Lpl331u3pFn4uzd3sx6my) | [963 Hz One Rejuvenation](https://open.spotify.com/album/4D3aBGCcBLkRi7Hl2pC8k4) | 2:42 | 2025-05-14 |  |
 | [963 Hz Relajamiento](https://open.spotify.com/track/3m3y1qCitcEB5bvheuYPqS) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:45 | 2023-07-13 |  |
 | [963 Hz Spiritual Growth](https://open.spotify.com/track/0m0vgCC28nsUCZz2eB9gD3) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Spiritual Growth](https://open.spotify.com/album/15WK6PtEvHes95kOdpGmDI) | 3:29 | 2023-11-30 |  |
@@ -34,6 +35,7 @@
 | [963hz Highest Vibrational State](https://open.spotify.com/track/0mTjeoltYaPCLBJbk9lPqI) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 2:54 | 2023-11-30 |  |
 | [963hz The Pure Miracle Tone](https://open.spotify.com/track/5t8cXBBxKijQxbgr9ndWHt) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 2:51 | 2023-11-30 |  |
 | [Alpha bowls 10hz](https://open.spotify.com/track/0fuhECv0YvMEBtx2AN7Vm7) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Alpha bowls 10hz](https://open.spotify.com/album/0sKl2EuUpiTvxLZhXTWzZ5) | 2:24 | 2023-07-13 |  |
+| [Awakening 963 Hz](https://open.spotify.com/track/3nDWKtCKeOVnM1AC5FcPx1) | [Naumanni](https://open.spotify.com/artist/5rXoIHL4cf1t1FHhiXiHOh) | [Awakening 963 Hz](https://open.spotify.com/album/30963ZhEUC9B6jX1VDZokP) | 2:56 | 2025-10-14 |  |
 | [Awakening 963Hz](https://open.spotify.com/track/3esXbDq3DkYOrguFP0TXxd) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Awakening 963Hz](https://open.spotify.com/album/69JaKptJXvQ0n2HIKohN20) | 2:23 | 2023-11-30 |  |
 | [Awakenings 963 Hz](https://open.spotify.com/track/5P6uUeAbSHo0R9bK70EkTF) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Awakenings 936 & 432 Hz](https://open.spotify.com/album/3YhHDGqFGh26adfwhwmjTT) | 3:26 | 2023-07-13 |  |
 | [B \(Crown Chakra\)](https://open.spotify.com/track/02ileubP6RE16EKbkS4Lxk) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Singing Bowls \(Zen Tones for Meditation, Acupuncture, Reiki, Qi\-Gong, Sound Therapy and Metaphysical Healers\)](https://open.spotify.com/album/3nUjK5dYNgtQxol98A9HMU) | 1:00 | 2023-07-13 | 2023-12-01 |

@@ -1,33 +1,13 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 17976,
+  "num_followers": 18006,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAADgX5ziUaSvXu0yUOB/qSbf",
+  "snapshot_id": "aOxBAAAAAAB1vRjmdEplv4QCJQVrypIQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 231246,
-      "name": "LAGUNAS",
-      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
-    },
     {
       "added_at": null,
       "album": {
@@ -347,22 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 170155,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/4icH0O4D7CZOs9reT2CXVv"
+      "duration_ms": 231246,
+      "name": "LAGUNAS",
+      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
     },
     {
       "added_at": null,
@@ -383,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heisenberg",
-        "url": "https://open.spotify.com/album/0DwmfIRLTlKWbYm9mH0y4S"
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
       "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 178114,
-      "name": "Heisenberg",
-      "url": "https://open.spotify.com/track/6QCupuIoTrOUxO214431rw"
+      "duration_ms": 170155,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/4icH0O4D7CZOs9reT2CXVv"
     },
     {
       "added_at": null,
@@ -415,6 +399,42 @@
       "duration_ms": 154477,
       "name": "Chicoteado",
       "url": "https://open.spotify.com/track/4yLpSp8304JdjUWXK6TWrA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heisenberg",
+        "url": "https://open.spotify.com/album/0DwmfIRLTlKWbYm9mH0y4S"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 178114,
+      "name": "Heisenberg",
+      "url": "https://open.spotify.com/track/6QCupuIoTrOUxO214431rw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "CALIFORNIA SUNSET",
+      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
     },
     {
       "added_at": null,
@@ -443,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
       "artists": [
         {
@@ -452,13 +472,13 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 183133,
-      "name": "CALIFORNIA SUNSET",
-      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
+      "duration_ms": 141034,
+      "name": "Jalados",
+      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
     },
     {
       "added_at": null,
@@ -479,26 +499,6 @@
       "duration_ms": 167977,
       "name": "ABUNDANCIA",
       "url": "https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 141034,
-      "name": "Jalados",
-      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
     },
     {
       "added_at": null,

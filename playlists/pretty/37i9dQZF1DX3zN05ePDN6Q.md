@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Torya
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,177 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,209 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 64 | [Canto Alto](https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:03 |
 | 65 | [Cerol](https://open.spotify.com/track/63OYyLG4QD5mMPSDog7Ih2) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [VG](https://open.spotify.com/artist/5BFaLkuHLDGggRVRf0O67P), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Cerol](https://open.spotify.com/album/1AdBC5otMPuw0WEo0Gjjl6) | 3:29 |
 | 66 | [Maldito Poema Concreto](https://open.spotify.com/track/23qwwBKI0aZ8ubJDUpAJo7) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Maldito Poema Concreto](https://open.spotify.com/album/1iiglD4rzgKVbvK0KQrtV3) | 2:22 |
-| 67 | [DESMISTIFICAR](https://open.spotify.com/track/5OxUASSdA0TF2rkkEKAz03) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [FORA DO TEMPO](https://open.spotify.com/album/6yAPrBAqLkGl9zsG2fRI78) | 2:06 |
+| 67 | [DESMISTIFICAR](https://open.spotify.com/track/5OxUASSdA0TF2rkkEKAz03) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [SPVIC](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [FORA DO TEMPO](https://open.spotify.com/album/6yAPrBAqLkGl9zsG2fRI78) | 2:06 |
 | 68 | [Amem](https://open.spotify.com/track/2ig5dLodWcpXKVYfirt89X) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Amem](https://open.spotify.com/album/30ADtjTo894qM6ywdMbbfY) | 3:23 |
 | 69 | [Inverno Cigano](https://open.spotify.com/track/7L2OtqVn0DAunFPEpGyf29) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Inverno Cigano](https://open.spotify.com/album/7K1BVkGH4GBm9r7avXPDM6) | 2:37 |
 | 70 | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/track/5F5OBG4FrorY2IQq84JJjK) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/album/2sQRCpcBHg9oMYJy5OX336) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: El Michels Affair
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,632 likes - 102 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,722 likes - 102 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 101 | [Euphoric Avenue](https://open.spotify.com/track/0GQOHvIPdVWrvnII8p6OBG) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Euphoric Avenue](https://open.spotify.com/album/3og1e6r8gWEy5jgo1HTp5c) | 3:54 |
 | 102 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 
-Snapshot ID: `AAAAAPq2WcyiJRdE4Lmn1mydT2rp0HMA`
+Snapshot ID: `AAAAAAqNfUydUrhY3Y9HYozQpDrbGg6T`

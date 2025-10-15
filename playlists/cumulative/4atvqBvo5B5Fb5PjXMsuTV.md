@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Oct 03:10 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Oct 18:10 UTC.
 
-5,654 songs - 13 day 3 hr 1 min
+5,656 songs - 13 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1214,7 +1214,7 @@
 | [Dear Kai \- Prison Tapes](https://open.spotify.com/track/4lWxZB1dtZTNTSJXDZneaF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Dear Kai \(Prison Tapes\)](https://open.spotify.com/album/7MZr5JnRiu5nw5hiOugdGQ) | 3:24 | 2025-04-09 | 2025-04-19 |
 | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/track/7D5xfRWhezT4QyOnwh7lcr) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/album/1pH81EVN0YItmlphDI5k6b) | 3:07 | 2024-08-02 | 2024-08-08 |
 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 | 2025-02-12 | 2025-02-15 |
-| [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 | 2025-10-04 |  |
+| [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 | 2025-10-04 | 2025-10-15 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-28 | 2024-06-01 |
 | [Death Above Life](https://open.spotify.com/track/4UAEU0YaHW4o6Dh5irv9Dv) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Death Above Life](https://open.spotify.com/album/4wstmx3brleWK61hfO5y8P) | 5:29 | 2025-06-16 | 2025-06-21 |
 | [Death Can't Save You](https://open.spotify.com/track/6z5wfyQStfAPUwnibZdwuY) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Death Can't Save You](https://open.spotify.com/album/2wOBFEzfZUxyd5Cgo1klnT) | 4:54 | 2024-07-01 | 2024-07-04 |
@@ -2356,6 +2356,7 @@
 | [I Know What To Do \(IKWTD\)](https://open.spotify.com/track/0gBpWtJ2q1aJ9i2ynzYd3X) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [I Know What To Do \(IKWTD\)](https://open.spotify.com/album/0roLqfyzobjLn98x2QqTmu) | 3:32 | 2024-09-27 | 2024-10-03 |
 | [I KNOW.](https://open.spotify.com/track/5KkW5Z1lBA7QWP4wmbfUdk) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [I KNOW.](https://open.spotify.com/album/32vrzW0DSGDLaDfoOOlyEP) | 2:45 | 2025-02-22 | 2025-02-27 |
 | [I LIE](https://open.spotify.com/track/5LH189w5B5XeECfKbELs6H) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [I LIE](https://open.spotify.com/album/0QN26woxii8wPVt4j5tBO2) | 2:16 | 2025-06-11 | 2025-06-21 |
+| [I Like Ur Look](https://open.spotify.com/track/51h21FmipeDJZXP1HDEiZv) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/2gF2BYKgUUzwJIh5bT7sJ2) | 2:51 | 2025-10-14 |  |
 | [I Live..\. AGAIN!](https://open.spotify.com/track/4ACegTfOaHN9NhLlu9jF0P) | [Dragoncorpse](https://open.spotify.com/artist/4Y7HtUv3QeFqe2OTUgRpwe), [Nick Miller](https://open.spotify.com/artist/3beCPmLvGcyD3IajLG9xkd), [First Fragment](https://open.spotify.com/artist/51NIL49MVTWeXEC8LoVrQ0) | [I Live..\. AGAIN!](https://open.spotify.com/album/7kBAaHbuovC6PIJpVRdcns) | 3:56 | 2024-06-11 | 2024-06-13 |
 | [I Love You, I'm Sorry \- Live From Vevo](https://open.spotify.com/track/55dLT3WApUJBEWxSJSivyt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Love You, I'm Sorry \(Live From Vevo\)](https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32) | 3:24 | 2024-10-11 | 2024-10-17 |
 | [i Loved Him \(feat\. NO:EL\)](https://open.spotify.com/track/2z4OltE3sBCd481f3nkp3F) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Recall](https://open.spotify.com/album/2QY0bsnTk7ghEFwQ50XtMS) | 3:00 | 2024-08-12 | 2024-08-15 |
@@ -3740,6 +3741,7 @@
 | [Pistazieneis](https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Pistazieneis](https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB) | 2:17 | 2024-07-06 | 2024-07-10 |
 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 | 2024-11-06 | 2024-11-09 |
 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-26 | 2025-01-12 |
+| [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-14 |  |
 | [Pizza Rolls Royce](https://open.spotify.com/track/1b7FZh4KJdEKCG9bg9UIYn) | [Gezebelle Gaburgably](https://open.spotify.com/artist/2dAr2VXRbboq3vymg20Jtw) | [Pizza Rolls Royce](https://open.spotify.com/album/1IOz8nqyViuhar7KPUglEi) | 4:15 | 2024-08-31 | 2024-09-06 |
 | [place of my own](https://open.spotify.com/track/6pG1S7cYlTzfCVsTWNw2Iw) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [place of my own](https://open.spotify.com/album/1anR1uPdnlI1IFr1gGMyi0) | 3:00 | 2025-07-11 | 2025-07-18 |
 | [Placebo](https://open.spotify.com/track/22oTsXAlJgRkxE4IYf0YOh) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Placebo](https://open.spotify.com/album/25sy5aAwbpZ3hBPU0aw6VF) | 2:28 | 2024-05-11 | 2024-05-15 |
@@ -5212,7 +5214,7 @@
 | [very little effort](https://open.spotify.com/track/50vCyMaif5TrJDp3cgSO7F) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [very little effort](https://open.spotify.com/album/5gytBTbcIRuIZP7R5spxLn) | 4:16 | 2024-08-21 | 2024-08-24 |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-06 | 2024-09-11 |
 | [Viagem](https://open.spotify.com/track/5ySfUdHpeoAgw8rXOoTlLz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Viagem](https://open.spotify.com/album/3Pj07LdqNXDFiQTe1z9mu0) | 3:09 | 2024-05-03 | 2024-05-05 |
-| [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 | 2025-10-04 |  |
+| [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 | 2025-10-04 | 2025-10-15 |
 | [Vibes](https://open.spotify.com/track/3WLR35YgOztXURTTfzgSQL) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Vibes](https://open.spotify.com/album/5sEE0c7IkiLvOCYIfxDici) | 2:34 | 2024-11-30 | 2024-12-05 |
 | [Vienna](https://open.spotify.com/track/0IUXsw4ChyIMnDoyfBDcz9) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Vienna](https://open.spotify.com/album/0JkU4fzdlLobFaJHiICHjn) | 4:53 | 2024-09-06 | 2024-09-11 |
 | [Vigilantes](https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Vigilantes](https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m) | 4:00 | 2025-04-23 | 2025-05-03 |

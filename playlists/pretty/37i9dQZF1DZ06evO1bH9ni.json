@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 343409,
+  "num_followers": 343435,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACmbqKeyrjD77ovDFN2NCEp",
+  "snapshot_id": "aOxBAAAAAABsMtiK3gEMtCzU7JwjZtQA",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 727",
-        "url": "https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "Nave 727",
-      "url": "https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Federal de Caminos",
         "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 183756,
       "name": "El Federal de Caminos",
       "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nave 727",
+        "url": "https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Nave 727",
+      "url": "https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Impresionarte",
+        "url": "https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 149707,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 146233,
       "name": "No Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Impresionarte",
-        "url": "https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 149707,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs"
     },
     {
       "added_at": null,

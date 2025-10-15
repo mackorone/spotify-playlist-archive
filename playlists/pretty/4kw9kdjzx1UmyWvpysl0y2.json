@@ -6,8 +6,44 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUq4kDzZ0jeCF/uxoaDbfD13Ps67Cu",
+  "snapshot_id": "AAAUrkmLjcWk/heRw+Q0rwL2YatDm4xB",
   "tracks": [
+    {
+      "added_at": "2025-10-14 14:10:59",
+      "album": {
+        "name": "Silk Selections 05",
+        "url": "https://open.spotify.com/album/7HG2xG1pVMdNaBekQU5U9v"
+      },
+      "artists": [
+        {
+          "name": "Archaellum",
+          "url": "https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/5gHAZ228Eemlq7icaCDHLH"
+    },
+    {
+      "added_at": "2025-10-14 14:10:33",
+      "album": {
+        "name": "Curry Goat",
+        "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Solesky",
+          "url": "https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw"
+        }
+      ],
+      "duration_ms": 139064,
+      "name": "Curry Goat",
+      "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
+    },
     {
       "added_at": "2025-10-10 16:58:30",
       "album": {
@@ -1099,126 +1135,6 @@
       "duration_ms": 154089,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/02ACX88wFNYy3CAcE3GgTh"
-    },
-    {
-      "added_at": "2025-07-23 14:41:43",
-      "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/2XVOVdfrrdE2fMagAdeSPB"
-      },
-      "artists": [
-        {
-          "name": "Merage",
-          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        }
-      ],
-      "duration_ms": 173372,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/1M99D6zMoElMk3BF0wjc4e"
-    },
-    {
-      "added_at": "2025-07-22 13:50:55",
-      "album": {
-        "name": "Silk Selections 04",
-        "url": "https://open.spotify.com/album/20uJpcNrCOM2IklWDovUti"
-      },
-      "artists": [
-        {
-          "name": "Jonah Sky",
-          "url": "https://open.spotify.com/artist/7wZOfHqEF90btFX62wYoiw"
-        },
-        {
-          "name": "Ubo",
-          "url": "https://open.spotify.com/artist/5peplsISsiy24ahC61Z5Wr"
-        },
-        {
-          "name": "ENREM",
-          "url": "https://open.spotify.com/artist/0jeFOASu4F9BFVOEim8F6a"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/319hyCCmJGbnqwvQEipZI5"
-    },
-    {
-      "added_at": "2025-07-21 14:09:01",
-      "album": {
-        "name": "Endgame (VIP)",
-        "url": "https://open.spotify.com/album/6nVG5jLgV16NN7G99OBrSd"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 275172,
-      "name": "Endgame - VIP",
-      "url": "https://open.spotify.com/track/5XDDs8cFe5s158Hal7HrOs"
-    },
-    {
-      "added_at": "2025-07-18 13:40:08",
-      "album": {
-        "name": "M.D.E",
-        "url": "https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9"
-      },
-      "artists": [
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
-    },
-    {
-      "added_at": "2025-07-17 14:30:59",
-      "album": {
-        "name": "We Love II",
-        "url": "https://open.spotify.com/album/12JAk5LvhpwGjIfuROESwz"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "We Love II",
-      "url": "https://open.spotify.com/track/18L2vnxI3zt1xQjlpA88p1"
-    },
-    {
-      "added_at": "2025-07-16 14:02:18",
-      "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/5GdP1B6qEllUcmClyHMLh2"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/4ZiRO3AgPASOA3t5Jad3oJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

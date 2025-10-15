@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,622 likes - 276 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,624 likes - 276 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 35 | [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 |
 | 36 | [Ride The Wave](https://open.spotify.com/track/5l2QVAWQt8fsBDQg5dTTuP) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [Ride The Wave](https://open.spotify.com/album/1gpf5wRHPn4pa6mocRFQSJ) | 3:36 |
 | 37 | [split in 2](https://open.spotify.com/track/7iA6tXRLOy7hbKV6oauVIf) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [split in 2](https://open.spotify.com/album/2GXMUygRj5iVn3xqpe8Vkn) | 2:58 |
-| 38 | [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tyson](https://open.spotify.com/artist/7vgtFAsr1Cf9NX4qq64bVs) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 |
+| 38 | [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 |
 | 39 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 |
 | 40 | [southside](https://open.spotify.com/track/38LhJzFTZAh3fl5OQVXNUM) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [southside](https://open.spotify.com/album/505CISVtL1dfxDTFZ9vU06) | 3:02 |
 | 41 | [Anything To Know](https://open.spotify.com/track/2YOqbArGnYH5spq4fFfqlG) | [Tyler Watts](https://open.spotify.com/artist/0VqoeHbKgK8rjTpVjtip3B) | [Youngin PT.2](https://open.spotify.com/album/7pitLfb56dxj08Gr8ZpAIx) | 1:55 |

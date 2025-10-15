@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Poppy, Amy Lee and Courtney LaPlante
 
-1,586 songs - 3 day 22 hr 52 min
+1,587 songs - 3 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1406,6 +1406,7 @@
 | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3) | 3:10 | 2023-02-17 | 2023-08-26 |
 | [Three Chords](https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Three Chords](https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt) | 3:47 | 2021-11-12 | 2022-04-16 |
 | [Three Six Five](https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:40 | 2025-02-28 | 2025-04-05 |
+| [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 | 2025-10-14 |  |
 | [Through Hell](https://open.spotify.com/track/1aHO9RYy7XJVLFQjbFt2DO) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R), [Royal Bliss](https://open.spotify.com/artist/2DntubHirEICSdXa23WNpV) | [Through Hell](https://open.spotify.com/album/3AZKVQv5yXll5k83QUUjl9) | 2:57 | 2023-03-17 | 2023-08-26 |
 | [Time To Bleed](https://open.spotify.com/track/0EXE1d4K7zfGJG7GER8xT0) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1) | [Time To Bleed](https://open.spotify.com/album/3lBlwJcKDYLmUf6vLy5RDz) | 3:07 | 2022-04-22 | 2022-05-20 |
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-24 | 2025-02-15 |

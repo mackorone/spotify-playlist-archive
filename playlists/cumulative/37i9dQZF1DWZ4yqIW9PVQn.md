@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-178 songs - 10 hr 44 min
+181 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 | 2024-01-10 |
 | [Moments Make Memories](https://open.spotify.com/track/4OfGfMhQd5OTdMT9yqlgpZ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again Pt.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7rrI0eDOgwaqxTqaAXjaIh) | 4:07 | 2024-03-08 |  |
 | [Moments Make Memories](https://open.spotify.com/track/7xU8MduijQhBEKTpBgVp2E) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KQYYKO4MADwhz6V9A0357) | 4:07 | 2023-11-03 | 2024-04-19 |
+| [Monologue](https://open.spotify.com/track/23xzKOM5lrBxoVM4s62idv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [CLICHÉ](https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz) | 4:10 | 2025-10-15 |  |
 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 | 2022-07-04 |  |
 | [Never hate you](https://open.spotify.com/track/3tx4KMR9xXVwOAINuoFdzr) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [POETIC](https://open.spotify.com/album/6abgwNSjwS5Y80uD5hR255) | 3:35 | 2022-11-03 | 2024-04-19 |
 | [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 | 2022-07-04 |  |
@@ -170,6 +171,7 @@
 | [Whatever For U](https://open.spotify.com/track/2wksPuFyaVZ9poakwOVFZe) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 2:56 | 2022-07-04 |  |
 | [Will You Come to Me Again?](https://open.spotify.com/track/2wIopE9bCR0s9X0pUgUYbn) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Will You Come To Me Again?](https://open.spotify.com/album/34RT4wrhuXyVzGodWuUYbU) | 3:35 | 2022-11-01 |  |
 | [Wind](https://open.spotify.com/track/1MLKahekaOgX0kGbv7i9A0) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [ha:f](https://open.spotify.com/album/7ue0IQUNPL3rWUlVpBHFys) | 2:52 | 2022-07-04 |  |
+| [가을에게](https://open.spotify.com/track/4baq5UHvCkuSwdNKTMyfDw) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H), [려진](https://open.spotify.com/artist/7GaxsdqZnC5PNGyVaKi2wp) | [미생](https://open.spotify.com/album/0wR5rt7Wm5jSnFyCBexxbv) | 3:54 | 2025-10-15 |  |
 | [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/2VpKDKyOB4dO68biiJJAsk) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 |  |
@@ -186,5 +188,6 @@
 | [잊어줄 순 없을까 \(feat\. 명다원\)](https://open.spotify.com/track/5A9T2kIskC3ei72QWs9lvz) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [forget it](https://open.spotify.com/album/2Ptu3GcNcF8v42IN733NTt) | 3:41 | 2022-07-04 |  |
 | [햇빛샤워](https://open.spotify.com/track/51xxRFCFjMWzZoT4OVD2AJ) | [GRACY](https://open.spotify.com/artist/7bQBRMmav4isbcc8sXh8b0) | [햇빛샤워](https://open.spotify.com/album/09GDpLxrMcFLK2dgboCOyq) | 3:30 | 2022-07-04 | 2024-04-19 |
 | [햇빛샤워](https://open.spotify.com/track/3fTLzrYumxtZrskWzF9Gtc) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [햇빛샤워](https://open.spotify.com/album/1MJdo8MDt56Zpg9i80SpfM) | 3:30 | 2024-03-08 |  |
+| [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/64cuomBVoSkO27t6hG4RSl) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 I](https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw) | 4:44 | 2025-10-15 |  |
 
 \*This playlist was first scraped on 2022-10-12. Prior content cannot be recovered.

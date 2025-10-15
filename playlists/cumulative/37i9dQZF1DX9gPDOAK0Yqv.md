@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-810 songs - 2 day 12 hr 53 min
+811 songs - 2 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [DURO](https://open.spotify.com/track/2spZQeEnPRJ7e3jj9vMXNC) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [TNY](https://open.spotify.com/artist/4CroZ02OMqULf4GM6UkMnw) | [DURO](https://open.spotify.com/album/7vHU6Thcn0BNx8esO7y2Ws) | 3:07 | 2025-03-06 | 2025-09-05 |
 | [Dust](https://open.spotify.com/track/28YLzGJRn8OTLZszGOo8Ef) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Dust](https://open.spotify.com/album/0VoOrwiOd0gp2zgDUyLQ9b) | 3:27 | 2023-10-06 | 2024-01-11 |
 | [Earth \- Mind Against Remix](https://open.spotify.com/track/1cQCfrLGc5GpBC6bNPlsUm) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 7:30 | 2022-11-23 | 2023-03-04 |
+| [Echoes](https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Echoes](https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye) | 3:37 | 2025-10-09 |  |
 | [Echoes](https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Echoes](https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj) | 4:55 | 2024-08-23 | 2024-09-15 |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-03 | 2023-06-01 |
 | [Eckstein Eckstein](https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/5I3OPusWIHYX9AKpNJjSaN) | 3:07 | 2023-01-13 | 2023-03-03 |
@@ -613,7 +614,7 @@
 | [Seen](https://open.spotify.com/track/5KHWPcUO9Qo22uGc1ty7oj) | [Rouzbeh Delavari](https://open.spotify.com/artist/4s9CNrFcTo0pkIPgqZip63), [Özgür Can](https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi) | [Seen](https://open.spotify.com/album/3v7h7jJuXXdurYFcPEgpuL) | 6:17 | 2024-09-26 | 2024-10-04 |
 | [Seraph](https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Seraph](https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M) | 4:09 | 2024-03-22 | 2025-01-17 |
 | [Serenade](https://open.spotify.com/track/3Qci4QoZJOKqT7p3CatSd6) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Serenade](https://open.spotify.com/album/6phk4oiZpo977U2FvIMu1B) | 4:17 | 2023-05-31 | 2023-09-19 |
-| [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 | 2025-02-06 |  |
+| [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 | 2025-02-06 | 2025-10-15 |
 | [SexyBack](https://open.spotify.com/track/0Zi3WlwXZAnTFju0NLAiFG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [SexyBack](https://open.spotify.com/album/2Itng7z3sjVM5iE0vxHj5P) | 2:50 | 2025-09-19 |  |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 | 2023-04-23 |
 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 | 2023-10-17 |

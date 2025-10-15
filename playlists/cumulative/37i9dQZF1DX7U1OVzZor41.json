@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 234890,
       "name": "\u80cc\u5c0d\u80cc\u64c1\u62b1",
       "url": "https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ"
@@ -2192,6 +2192,24 @@
       "duration_ms": 282770,
       "name": "\u9ad4\u9762",
       "url": "https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh"
+    },
+    {
+      "album": {
+        "name": "\u9b5a\u4ed4",
+        "url": "https://open.spotify.com/album/5m26LRbGYAZIr0YE1IC3x6"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280954,
+      "name": "\u9b5a\u4ed4 - \u96fb\u8996\u5287<\u82b1\u7532\u7537\u5b69\u8f49\u5927\u4eba>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2sb6AZQLeoD3VgA4zglQB6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7U1OVzZor41"

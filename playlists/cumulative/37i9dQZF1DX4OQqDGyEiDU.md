@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-637 songs - 1 day 11 hr 38 min
+638 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Aunnobeats](https://open.spotify.com/track/4JPcF81HVIbndg6KNFQNg6) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [Ukiyomeguri](https://open.spotify.com/album/4JVCGjIksgYgMhXKHz5fbC) | 3:26 | 2023-11-28 | 2024-02-14 |
 | [Awake Now](https://open.spotify.com/track/14NNOtVmIhGHLcwaluyoHn) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/0pivFXtrPhKw6TZvksvBVO) | 3:16 | 2022-07-26 | 2022-08-17 |
 | [Awake Now](https://open.spotify.com/track/7MBhcb9p4z70uofoNxGXkG) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/73AKllCZLqEq5kVsn4cdDW) | 3:16 | 2022-06-09 | 2022-07-29 |
-| [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 | 2025-06-24 |  |
+| [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 | 2025-06-24 | 2025-10-15 |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2022-11-24 | 2022-12-14 |
 | [Bakrom](https://open.spotify.com/track/3NV8rXGmXkmwnUb4XEx6aF) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Bakrom](https://open.spotify.com/album/7LwH7kDmcnOP5L6NcTVEW0) | 3:24 | 2022-06-23 | 2022-07-14 |
 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 | 2024-01-18 |  |
@@ -563,6 +563,7 @@
 | [愛されなくても君がいる](https://open.spotify.com/track/5ID6qtywQZ2RppAttfJ7xN) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [愛されなくても君がいる](https://open.spotify.com/album/02sgAZbWtqBMlK8jmJPVgV) | 4:32 | 2022-07-19 | 2022-07-26 |
 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 | 2022-07-26 | 2022-10-14 |
 | [愛するように](https://open.spotify.com/track/0eAARuSD98FKHlmlKtmVUr) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [愛するように](https://open.spotify.com/album/2qiWHFrlAcxy9us0awqP1O) | 2:46 | 2023-10-17 | 2023-10-29 |
+| [愛属性](https://open.spotify.com/track/2salLUQo8z7f4oCutH0T4B) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [愛属性](https://open.spotify.com/album/1EvsuF6rHsiX3T5V5a5O90) | 2:53 | 2025-10-14 |  |
 | [懺悔参り](https://open.spotify.com/track/2IlbsAPqtXP9hLR4PESh7x) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [浮世巡り](https://open.spotify.com/album/1aRPF08cXjYfPEtagbkszv) | 3:21 | 2022-06-09 | 2022-07-26 |
 | [才能なんか](https://open.spotify.com/track/3bSwUCPEIWpEs7rtqY3kBF) | [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp), [葵木ゴウ](https://open.spotify.com/artist/2IBtJvUFPoqgtm0cfENAde) | [午後の葵木](https://open.spotify.com/album/3kC0lnA0vlHFURaSVFEk8d) | 4:10 | 2022-06-14 | 2022-07-29 |
 | [拝啓、何者にもなれなかった僕へ。](https://open.spotify.com/track/3Nm3uFDJ2elU5oeYi8wFLj) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [拝啓、何者にもなれなかった僕へ。](https://open.spotify.com/album/5lArx2pMXTG3tpcl4O356d) | 4:01 | 2022-06-14 | 2022-06-16 |

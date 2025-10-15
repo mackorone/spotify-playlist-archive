@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,962 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,046 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 54 | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
 | 55 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 56 | [São Miguel Arcanjo \- Ao Vivo](https://open.spotify.com/track/0hEsKMgRT8Zey7kbhka1Jc) | [Eros Biondini](https://open.spotify.com/artist/2wIQqBYBvYkpvgZZNAXhOP), [FINO TOM](https://open.spotify.com/artist/3prjTKOIm5AfaNkRywaQ5k) | [São Miguel Arcanjo \(Ao Vivo\)](https://open.spotify.com/album/7pTVHoLnZu8ylRXc48c03J) | 2:57 |
-| 57 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |
-| 58 | [O coração do Homem](https://open.spotify.com/track/0RfXdgLdO3uvRmCnkNHbeK) | [Ministério Adoração e Vida](https://open.spotify.com/artist/4fk1ToCb0m7irMHCaZhIrM) | [O coração do Homem](https://open.spotify.com/album/3sYnG0lsRfd9KcDjSYlw2l) | 5:15 |
+| 57 | [O coração do Homem](https://open.spotify.com/track/0RfXdgLdO3uvRmCnkNHbeK) | [Ministério Adoração e Vida](https://open.spotify.com/artist/4fk1ToCb0m7irMHCaZhIrM) | [O coração do Homem](https://open.spotify.com/album/3sYnG0lsRfd9KcDjSYlw2l) | 5:15 |
+| 58 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |
 | 59 | [Teu Amor Não Sabe](https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Thiago Tomé](https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP) | [Studio Canção Nova \| Acústico](https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO) | 3:49 |
 | 60 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
 | 61 | [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,898 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,908 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 11 | [Rainbow Serpent](https://open.spotify.com/track/02TYNhkXjffto6LVbuDQ5G) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Rainbow Serpent](https://open.spotify.com/album/0wViuI1B7HvaOOfUB50kvW) | 5:40 |
 | 12 | [XTC](https://open.spotify.com/track/3eM6qtKXHEOW9v1lwQxpIx) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [XTC](https://open.spotify.com/album/0LxtGQtfGcmGk7itwksKJh) | 4:22 |
 | 13 | [WILD ELECTRIC \- Monika Kruse Remix](https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk) | [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [WILD ELECTRIC \(Monika Kruse Remix\)](https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW) | 6:01 |
-| 14 | [Orbital](https://open.spotify.com/track/479nRT7GkkBOOj7p0LhRe6) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [Pablo Say](https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU) | [Orbital](https://open.spotify.com/album/0Pb4X40fv9Lv1br7E7w5I7) | 5:53 |
+| 14 | [Orbital](https://open.spotify.com/track/479nRT7GkkBOOj7p0LhRe6) | [YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [Pablo Say](https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU) | [Orbital](https://open.spotify.com/album/0Pb4X40fv9Lv1br7E7w5I7) | 5:53 |
 | 15 | [Gigolo](https://open.spotify.com/track/1oqKD9FYu3DJJcWJ5lPVmK) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:25 |
 | 16 | [Loca](https://open.spotify.com/track/7oJHO6r8Rh4PbDcQflvmOQ) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Julian Jeweil](https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf) | [Explorer Vol\. 1](https://open.spotify.com/album/7jvBgKQK4ALnqRoxGQbktc) | 4:06 |
 | 17 | [Geeks On Hubbard](https://open.spotify.com/track/30rZV8iT6jSXk5x1rC7gW0) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [Geeks On Hubbard EP](https://open.spotify.com/album/4kZKZI1TBtukvTsNhpa8WM) | 5:59 |

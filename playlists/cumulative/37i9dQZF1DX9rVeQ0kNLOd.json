@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 209521,
       "name": "After that...",
       "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 211304,
       "name": "Feed My Mind",
       "url": "https://open.spotify.com/track/0DGBbmefobtk0K9bMcaENJ"
@@ -1408,6 +1408,28 @@
       "duration_ms": 169750,
       "name": "Heiki",
       "url": "https://open.spotify.com/track/79DULWXum7FXlCdAy12WI9"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2ZyxXLawndkQCz0XEVnCdB"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        },
+        {
+          "name": "Rikuto Nagira",
+          "url": "https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2QOCRm9aRahoO1482RWZgt"
     },
     {
       "album": {
@@ -2812,7 +2834,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 168000,
       "name": "Peak",
       "url": "https://open.spotify.com/track/1pWmImig4yskmxcHavK2jy"
@@ -3662,7 +3684,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 224444,
       "name": "Summertime (feat. ZIN & Hikaru Tanaka)",
       "url": "https://open.spotify.com/track/4VYRcL6o6it5bHPZpO35PT"
@@ -3872,6 +3894,24 @@
       "duration_ms": 229906,
       "name": "The Lady",
       "url": "https://open.spotify.com/track/3xRImSHrjR3NvA1z3m5fwL"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2IaA6wLLXy9RmIp8aerYyd"
+      },
+      "artists": [
+        {
+          "name": "Roka",
+          "url": "https://open.spotify.com/artist/0GNjQ4UsF0AJiksilivETU"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213033,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7ipleiJ5GZt3Am7kVkOLGA"
     },
     {
       "album": {
@@ -4915,6 +4955,32 @@
     },
     {
       "album": {
+        "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
+        "url": "https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        },
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189687,
+      "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
+      "url": "https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt"
+    },
+    {
+      "album": {
         "name": "\u3072\u3068\u3064\u306e\u3044\u306e\u3061 (feat. BIM)",
         "url": "https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv"
       },
@@ -5292,7 +5358,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 158888,
       "name": "\u30ab\u30bf\u30b3\u30c8",
       "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"

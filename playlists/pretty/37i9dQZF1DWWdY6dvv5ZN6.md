@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,934 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,938 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 148 | [No te olvides de la luz](https://open.spotify.com/track/41K9b4Ot6nBqQQEXkDt5jJ) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [No te olvides de la luz](https://open.spotify.com/album/0soM7732TbSQ9C7eVRfPOc) | 4:22 |
 | 149 | [Sherk](https://open.spotify.com/track/0cUYEHEXFNFELqIup3ri8T) | [Brekky Boy](https://open.spotify.com/artist/4VpFUNEQxKGW2BSHf7dndI) | [Sherk](https://open.spotify.com/album/5UHL8ylmt4B5Cr60t5cBWk) | 3:15 |
 | 150 | [Alma No Mar](https://open.spotify.com/track/3f4TjM8m1lBC6AHMSQym3z) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7), [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Small Variations from the Previous Day](https://open.spotify.com/album/0wEQ7pRtZlBBBayHlwOJbJ) | 3:54 |
-| 151 | [Gravity](https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu) | [Jeremy Ledbetter Trio](https://open.spotify.com/artist/3JMctIRwcYkN013icoOggA) | [Gravity](https://open.spotify.com/album/1Cycpf47hfPP2qfUHJ39aP) | 7:40 |
+| 151 | [Gravity](https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu) | [Jeremy Ledbetter Trio](https://open.spotify.com/artist/3JMctIRwcYkN013icoOggA), [Larnell Lewis](https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U) | [Gravity](https://open.spotify.com/album/1Cycpf47hfPP2qfUHJ39aP) | 7:40 |
 | 152 | [Le Saltimbanque](https://open.spotify.com/track/7sOrDVJNvoYcaDXw6oYOCn) | [Carl Mayotte](https://open.spotify.com/artist/0kZ6ydbYfwGh7q4vmZSwXE), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Carnaval](https://open.spotify.com/album/1uEe4ogNaFk3N0r3YOALTe) | 4:41 |
 | 153 | [Words](https://open.spotify.com/track/0DCvZyHdfXPKtnmKFEE7PZ) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [GROUNDING PLACE VOL.II](https://open.spotify.com/album/6fM0K4rn7zxfPRDySKPEEH) | 6:37 |
 | 154 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |

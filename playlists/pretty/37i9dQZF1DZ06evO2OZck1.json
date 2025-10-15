@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54760,
+  "num_followers": 54762,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACXANHsOmO32OmYfYVrLFIM",
+  "snapshot_id": "aOxBAAAAAAAe/6xPe9MLiFVoQaxIIkou",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 224297,
-      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9752\u6625\u6c38\u9060",
         "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 265053,
       "name": "\u9752\u6625\u6c38\u9060",
       "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 224297,
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 165354,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quesera sera",
         "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 213066,
       "name": "Quesera sera",
       "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
     },
     {
       "added_at": null,

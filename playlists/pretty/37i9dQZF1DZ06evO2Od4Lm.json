@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129030,
+  "num_followers": 129038,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACeBuQbzGg3dXcvnv/oyigr",
+  "snapshot_id": "aOxBAAAAAADrG4DMtpm9o5v7dbevWC5+",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aporia",
         "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 32699,
       "name": "Palinodes",
       "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Flint (For the Unemployed and Underpaid)",
+      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Which Way",
         "url": "https://open.spotify.com/album/4kpQZIxtqmteE5mYGsW2Mg"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 364480,
       "name": "Which Way - Sufjan Stevens Remix",
       "url": "https://open.spotify.com/track/3XjZ3ARcg0k5CwyYWSckFC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Flint (For the Unemployed and Underpaid)",
-      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
     },
     {
       "added_at": null,
@@ -843,34 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Favorite Dream",
-        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
       "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         },
         {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
-        },
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 152644,
-      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
-      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
+      "duration_ms": 222071,
+      "name": "Lady Macbeth In Chains",
+      "url": "https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

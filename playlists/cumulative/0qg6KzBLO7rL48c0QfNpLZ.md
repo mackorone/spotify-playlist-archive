@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,265 songs - 2 day 7 hr 52 min
+1,266 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [I Don't Wanna Lose U](https://open.spotify.com/track/0dhzpzkn3RpJLrgjzM8CB9) | [ZEXTONE](https://open.spotify.com/artist/0t2rVUFJxfR071gkSIwiCC), [Krees Waves](https://open.spotify.com/artist/76J5VMmF1dqV9Gh3UxOypV) | [I Don't Wanna Lose U](https://open.spotify.com/album/71s7xJEcWCbix9IJOMGGCx) | 3:14 | 2024-11-08 | 2024-12-07 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/0K7rNlTUvPkA40eju6eE3y) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [I Don't Wanna Wait](https://open.spotify.com/album/3MvUqE3bKm73Z6Ttksg3id) | 2:52 | 2024-11-01 | 2025-01-11 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/75KK4Fcu3YrJ2ec1lfH07z) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [I Don't Wanna Wait](https://open.spotify.com/album/6T0B7b9HkLVH265zlK9DGy) | 2:29 | 2025-03-07 | 2025-08-02 |
+| [I Don’t Wanna Go Home](https://open.spotify.com/track/5ujPk0fvf7cZ60W35ZBXKy) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Sanxez](https://open.spotify.com/artist/1p7AHcSoP4l1Y5njS41YrB), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [I Don’t Wanna Go Home](https://open.spotify.com/album/6oVckdKHwQlbjPL0vOV1M8) | 3:17 | 2025-10-14 |  |
 | [I Don’t Wanna Wait](https://open.spotify.com/track/1rOFazrW0pro7IaAbwTH8n) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [I Don’t Wanna Wait](https://open.spotify.com/album/5sMpuHeaJ2YX9Vct2UsZko) | 2:50 | 2024-07-19 | 2024-08-31 |
 | [I Found You](https://open.spotify.com/track/2VeXxa23aRQvGoCUMNEoRS) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [I Found You](https://open.spotify.com/album/2Vg9y3qyEAJtyPZ4zlUBd0) | 2:34 | 2025-05-09 | 2025-06-07 |
 | [I Gotta Know](https://open.spotify.com/track/1Nqu11rkbyktIQgYEwHKDW) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [I Gotta Know](https://open.spotify.com/album/65oJScjO9dW2qiAn4atJD0) | 2:24 | 2024-05-03 | 2024-06-15 |

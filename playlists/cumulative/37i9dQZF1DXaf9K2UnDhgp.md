@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree.
 
-230 songs - 12 hr 35 min
+231 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/0ieusFPYOkKVjhRQ9vKCGy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Jukebox de Crăciun](https://open.spotify.com/album/2fvzt5UITeWNlUqjZfBRDz) | 1:24 | 2022-11-09 | 2022-11-13 |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1swm2Hei9tUlcohs0zj7DU) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:24 | 2021-11-26 | 2024-04-19 |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/4h7fQneAQ2n5SO1mjVLdum) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/6wIuX5desbA2lKwcvyLvHO) | 1:24 | 2021-11-26 |  |
+| [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 | 2025-10-14 |  |
 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 | 2021-11-26 | 2022-11-09 |
 | [White Christmas](https://open.spotify.com/track/2sfuVyPKaJvZcCAjXUhfv7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/2XOL55WiocMAc6ryihttgq) | 1:49 | 2021-11-26 | 2022-07-29 |
 | [Who's Gonna Hear Their Wish?](https://open.spotify.com/track/3cPvg1NeyIqm92pSGA8TZp) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Who's Gonna Hear Their Wish?](https://open.spotify.com/album/0NzKtF2UU3ZKSKVjo2BBIN) | 2:56 | 2023-11-24 |  |

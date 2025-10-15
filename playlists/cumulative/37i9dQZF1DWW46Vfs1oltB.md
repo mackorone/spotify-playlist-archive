@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>BABYMONSTER\)
 
-1,661 songs - 3 day 16 hr 54 min
+1,662 songs - 3 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1424,6 +1424,7 @@
 | [The Trapper](https://open.spotify.com/track/7KSo4suJ1r37GtTfG6hfuc) | [KOR KASH](https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM) | [Hyun Seong So](https://open.spotify.com/album/24xU8EWabeqwXltGNRIqn7) | 2:50 | 2022-09-08 | 2022-10-08 |
 | [The Way \(Prod\. tuna.\)](https://open.spotify.com/track/2UpqzFVwV5z0oTBOYjXlNT) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 4:01 | 2025-08-04 |  |
 | [Therapy](https://open.spotify.com/track/1J79ooMKKT8yK0rjPy1yZO) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 4:21 | 2022-02-17 | 2022-05-31 |
+| [Thirst Trap](https://open.spotify.com/track/7Kcpe44IwoD4O621oUNLZW) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ) | [Thirst Trap](https://open.spotify.com/album/1vlsgC1BotHaeFNl7NPFrq) | 1:51 | 2025-10-14 |  |
 | [THIS Is My Life](https://open.spotify.com/track/14ISRyduGwFh1MIFTZY5Jz) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [THIS Is My Life](https://open.spotify.com/album/52rSYh8ESw8PAG30rXOc4F) | 2:57 | 2022-09-08 | 2022-10-08 |
 | [THISISJUSTHIS Pt\. II](https://open.spotify.com/track/7kJyJvCBWdIQMXYqYsjt74) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [THISISJUSTHIS Pt\. II](https://open.spotify.com/album/1oRUVVZD8PyuIDTVVm0bU1) | 4:11 | 2022-02-25 | 2022-06-13 |
 | [Thisman \(Feat\. Queen WA$ABII\)](https://open.spotify.com/track/0YI6ZCueY47lJEbeA1fxG7) | [Smiley DeBron](https://open.spotify.com/artist/4aTZWNxBRufaAZe50dnYTW), [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI) | [Thisman](https://open.spotify.com/album/095cFvzjDUFTs9Kc448WkV) | 2:46 | 2021-12-21 | 2022-05-08 |

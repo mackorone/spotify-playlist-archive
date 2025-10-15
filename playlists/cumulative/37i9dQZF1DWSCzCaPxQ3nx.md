@@ -4,7 +4,7 @@
 
 > Les incontournables du Raï.
 
-65 songs - 5 hr 39 min
+66 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Myriama](https://open.spotify.com/track/5Z1PivBRs7a4sXf8ClKGpF) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Best Of Douzi](https://open.spotify.com/album/3hOdLdgeJmvdsnmd0zEGgR) | 3:15 | 2024-01-03 |  |
 | [Myriama \- Remastered](https://open.spotify.com/track/6mMch2QkhDvE6e48uyA8vt) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Best of Douzi](https://open.spotify.com/album/0NnsMuSX2iN14lntMnz7BH) | 3:15 | 2024-01-03 | 2024-04-19 |
 | [N'Direk Amour](https://open.spotify.com/track/7MKLtQiD18XDNzZFdGgnx3) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Cheb Nasro, Le meilleur du prince de la chanson sentimentale Vol.3](https://open.spotify.com/album/4hK6jG2gxt32QL8sTDyWp9) | 5:59 | 2024-01-03 |  |
+| [N'Ssi N'Ssi](https://open.spotify.com/track/1fO6pEGXbYNamVNVUEnGuB) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [N'Ssi N'Ssi](https://open.spotify.com/album/7JiTkfgNZqx6TSfVfLBpAJ) | 3:32 | 2025-10-14 |  |
 | [NOUAR](https://open.spotify.com/track/69r64jfxYq5CrtVZL46D5r) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/4pUoU89OnJtWvqJiREjaV5) | 6:17 | 2024-01-03 | 2024-04-19 |
 | [Nouar](https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR) | 6:19 | 2024-01-03 |  |
 | [Nouara](https://open.spotify.com/track/6B4tshQIyXQgRfa21mkkoP) | [Cheb Aissa](https://open.spotify.com/artist/0hDmmxtDPAEMHD03kD8NiW) | [Cheb Aïssa , Nouara](https://open.spotify.com/album/1Z95c8O3vgGB0wlHaXGe2e) | 3:59 | 2024-01-03 |  |
@@ -72,6 +73,6 @@
 | [Ya Ouahrane Rouhi](https://open.spotify.com/track/7KdE8J2p4WqW0yWmBYvXb6) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [La légende, vol\. 3](https://open.spotify.com/album/5KsCi2juWgKZi5fRWoayqo) | 4:29 | 2024-01-03 |  |
 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 | 2024-01-03 |  |
 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 | 2024-01-03 | 2024-04-19 |
-| [Ya zina](https://open.spotify.com/track/6fe1BmKt7uPRKZ70U7yTPb) | [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Raï à l'ancienne \(26 Hits\)](https://open.spotify.com/album/7Fet0cBoAkRqiIHBtr0tkO) | 3:10 | 2024-01-03 |  |
+| [Ya zina](https://open.spotify.com/track/6fe1BmKt7uPRKZ70U7yTPb) | [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Raï à l'ancienne \(26 Hits\)](https://open.spotify.com/album/7Fet0cBoAkRqiIHBtr0tkO) | 3:10 | 2024-01-03 | 2025-10-15 |
 
 \*This playlist was first scraped on 2024-04-08. Prior content cannot be recovered.

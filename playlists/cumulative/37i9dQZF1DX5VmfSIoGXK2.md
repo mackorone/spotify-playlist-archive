@@ -4,7 +4,7 @@
 
 > this house plays Jazz House 🏠  featuring Bolden.
 
-151 songs - 10 hr 0 min
+152 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 |  |
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 | 2025-06-28 |
 | [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 | 2025-08-02 |
-| [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 |  |
+| [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 | 2025-10-15 |
 | [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 | 2025-07-05 |
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 | 2025-09-13 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
@@ -94,6 +94,7 @@
 | [Mirage](https://open.spotify.com/track/4hLI1F3ChsMivSIW8lwNvR) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Mirage](https://open.spotify.com/album/39HbPcEk6VkoDkeDhZFBnb) | 3:11 | 2025-09-26 |  |
 | [Missing u](https://open.spotify.com/track/773lfCbUHbFc0WsCJftePE) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx), [Jordan Burnett](https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e) | [Missing u](https://open.spotify.com/album/6ji1bD57jNSy4rb68YdhW0) | 1:48 | 2025-08-29 |  |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 |  |
+| [Moons](https://open.spotify.com/track/32U32r15CzLGLUs4Qmy101) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Moons](https://open.spotify.com/album/2W1h6iQcIQdbu596onLosj) | 2:25 | 2025-10-14 |  |
 | [more parties in LA](https://open.spotify.com/track/3hVhokUMdBEg8ZhmFvXLOy) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [more parties in LA](https://open.spotify.com/album/6gGC9ATSVrr3iHST9uEeOo) | 2:47 | 2025-05-02 |  |
 | [mostly poetry](https://open.spotify.com/track/6o4UiH0LuFQIvLklnHSj1W) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [mostly poetry](https://open.spotify.com/album/0XS5hDo5UG41upARzFPgCC) | 3:00 | 2025-08-22 |  |
 | [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 | 2025-02-28 | 2025-04-29 |

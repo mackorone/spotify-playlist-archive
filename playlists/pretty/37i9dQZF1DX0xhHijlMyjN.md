@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 
 > Lo que necesita cualquier verbena veraniega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,292 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,243 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,11 +120,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 110 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 |
 | 111 | [Las cosas pequeñitas \- Mix](https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj) | [Nolasco](https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP), [Junior Miguez](https://open.spotify.com/artist/1xaTQJ5aqoB5QcklnScxky) | [Como te dé la gana](https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8) | 5:00 |
 | 112 | [Amigos para Siempre](https://open.spotify.com/track/6PfQB3xEbIlky1dXOb3Yyh) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Dulce Veneno](https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH) | 4:24 |
-| 113 | [Flying Free \- Original Mix](https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01) | [Pont Aeri](https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67), [Marian Dacal](https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem) | [Pont Aeri, Vol\. 4 EP](https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q) | 6:46 |
-| 114 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
+| 113 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
+| 114 | [Flying Free \- Original Mix](https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01) | [Pont Aeri](https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67), [Marian Dacal](https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem) | [Pont Aeri, Vol\. 4 EP](https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q) | 6:46 |
 | 115 | [Venezia](https://open.spotify.com/track/7j9KvkECxdsQQesY1GktXj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Lo Mejor De Los Hombres G](https://open.spotify.com/album/0luVrYnp61bSbpScEHXyt0) | 4:30 |
-| 116 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 |
-| 117 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
+| 116 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
+| 117 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 |
 | 118 | [La Cucaracha](https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7) | [El Combo Dominicano](https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb) | [La Cucaracha](https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1) | 4:04 |
 | 119 | [Que La Detengan](https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 3:32 |
 | 120 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 123 | [Chica Ye Ye](https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 2:23 |
 | 124 | [María Caipirinha \(with Dj Dero\)](https://open.spotify.com/track/2X1P55Lrz0g5X2OQd8n4c9) | [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [DJ Dero](https://open.spotify.com/artist/5qeaKQ7gFhK3wGupHw90fT) | [Latin Fitness Dance 2012 \- Workout Cardio Music \- The Hits for Your Workout \(Pop Kuduro, Cumbia, Latin House, Dembow, Merengue, Salsa, Bachata\)](https://open.spotify.com/album/7KjAiKUf6oqUMqPa8VWni1) | 4:09 |
 | 125 | [Te Quiero Más](https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk) | [Fórmula Abierta](https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4) | [Aún Hay Más](https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii) | 4:15 |
-| 126 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
-| 127 | [María Isabel](https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY) | [Los Payos](https://open.spotify.com/artist/1ONcwA5aZxzgOelWDmQ51X) | [Lo Mejor De Los Payos](https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG) | 3:19 |
+| 126 | [María Isabel](https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY) | [Los Payos](https://open.spotify.com/artist/1ONcwA5aZxzgOelWDmQ51X) | [Lo Mejor De Los Payos](https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG) | 3:19 |
+| 127 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
 | 128 | [Sigue al Lider \(Follow The Leader\)](https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c) | [Los Morenos](https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7) | [Bailar Latino](https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu) | 3:58 |
 | 129 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:35 |
 | 130 | [Limbo](https://open.spotify.com/track/6EIO3HCU6WmnRk2rEX86aN) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/2I4tV7CMavQflSlHJ52RX1) | 3:44 |

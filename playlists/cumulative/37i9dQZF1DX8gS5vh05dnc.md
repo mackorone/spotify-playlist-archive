@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-394 songs - 21 hr 2 min
+395 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 | 2022-07-25 |  |
 | [Drinking On A Tuesday](https://open.spotify.com/track/4UXIejXKvrHnbKoCNxojQA) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Drinking On A Tuesday](https://open.spotify.com/album/7iE0mJLOVvthwGkN04OBZ0) | 3:16 | 2022-06-06 | 2022-07-29 |
 | [Drunk Texting](https://open.spotify.com/track/4azlX12Lp0PMdnQ8BGrNIL) | [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx), [Kai Takahashi](https://open.spotify.com/artist/5vp0Xrp0OxMrfiRyxgVpGV) | [Drunk Texting](https://open.spotify.com/album/4LcY7lc6IwfUs4NpQVzPC5) | 3:13 | 2022-06-06 | 2022-07-26 |
-| [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2025-08-17 |  |
+| [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2025-08-17 | 2025-10-15 |
 | [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-05 | 2022-09-20 |
 | [Everything](https://open.spotify.com/track/2bhtLYcoRs5Qiid6WouLKe) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Everything](https://open.spotify.com/album/4hStN9AunMBTkyfWMJ8Vpd) | 3:33 | 2023-03-20 | 2023-03-28 |
 | [Falling](https://open.spotify.com/track/4KX40h6wiFJO8akB69e6ww) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Falling](https://open.spotify.com/album/20seSdfLCB1f4OeI7xWYve) | 3:03 | 2024-03-11 | 2024-03-18 |
@@ -213,6 +213,7 @@
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-21 |  |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-06-06 | 2022-07-29 |
 | [Love Me Like A](https://open.spotify.com/track/7u2ByUPEnGHCEZEoFfrTXU) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Love Me Like A](https://open.spotify.com/album/3JSvBoaIaAlxW9lvbVkEn1) | 3:04 | 2022-06-06 | 2022-07-29 |
+| [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 | 2025-10-12 |  |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-26 |  |
 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 | 2023-04-17 | 2023-06-06 |
 | [Mad at Disney](https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:16 | 2023-11-06 | 2024-04-19 |

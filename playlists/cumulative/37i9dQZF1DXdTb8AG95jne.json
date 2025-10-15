@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Yerin Baek(\ubc31\uc608\ub9b0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: jisokuryClub) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 192000,
       "name": "0+0",
       "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 162700,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1wNA3wgfFjnCiyHYxP1ikT"
@@ -3462,6 +3462,24 @@
       "duration_ms": 240000,
       "name": "Dance and gulp down saliva (feat. The Deep)",
       "url": "https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI"
+    },
+    {
+      "album": {
+        "name": "Wishes of The Youth",
+        "url": "https://open.spotify.com/album/2lACeDuJCgM0qOJWNq0scf"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267013,
+      "name": "Dance In Despair",
+      "url": "https://open.spotify.com/track/49aNdgRQtNr1ahI35AwZuF"
     },
     {
       "album": {
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 194999,
       "name": "EX (Feat. Zenn)",
       "url": "https://open.spotify.com/track/3TD3K5nHSV3BIJJfwZO9KY"
@@ -7256,7 +7274,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 161563,
       "name": "Hello, Goodbye",
       "url": "https://open.spotify.com/track/6MKJgg1iFKGOOpqge8vhhD"
@@ -8401,6 +8419,28 @@
     },
     {
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/39KIuBmuRUZonAQM8tjqez"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        },
+        {
+          "name": "Ra.D",
+          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226431,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/6GPKd7YhVm4Sf0aTv98SbX"
+    },
+    {
+      "album": {
         "name": "I'm OK",
         "url": "https://open.spotify.com/album/2ljEGAZdyZT56xoSbEGIBC"
       },
@@ -9295,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "Jennie2",
+        "url": "https://open.spotify.com/album/5AxSYyIoOWfoV22lyKc4mc"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200540,
+      "name": "Jennie2",
+      "url": "https://open.spotify.com/track/1pA9VPhiqspHAyEfe3v81W"
+    },
+    {
+      "album": {
         "name": "Jungle Bike",
         "url": "https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW"
       },
@@ -9588,6 +9646,24 @@
       "duration_ms": 299428,
       "name": "Koh",
       "url": "https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ"
+    },
+    {
+      "album": {
+        "name": "Forever\u2019s Not Enough",
+        "url": "https://open.spotify.com/album/5uYqh7FXvk3jvyUEM1L88b"
+      },
+      "artists": [
+        {
+          "name": "Tuesday Beach Club",
+          "url": "https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1"
     },
     {
       "album": {
@@ -11017,6 +11093,24 @@
     },
     {
       "album": {
+        "name": "Amateur Hunting Squad",
+        "url": "https://open.spotify.com/album/1Se3NMCm7LMts4q5BrVAbL"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292958,
+      "name": "Megamind",
+      "url": "https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB"
+    },
+    {
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/4AF9BFNJ4FMoL7rM3owTQn"
       },
@@ -12080,7 +12174,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 209773,
       "name": "Night at Noon",
       "url": "https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX"
@@ -14276,6 +14370,24 @@
       "duration_ms": 249133,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/7DUQT1Y2dtcptqGvuLtdQY"
+    },
+    {
+      "album": {
+        "name": "RESCUE!",
+        "url": "https://open.spotify.com/album/6bKiwcDvt1pONLVs01S3tB"
+      },
+      "artists": [
+        {
+          "name": "KACHISAN",
+          "url": "https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "RESCUE!",
+      "url": "https://open.spotify.com/track/0sCYq6lnrxC5YctbJNzdIc"
     },
     {
       "album": {
@@ -17042,7 +17154,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 170680,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn"
@@ -17450,6 +17562,24 @@
       "duration_ms": 199797,
       "name": "The Days of Green",
       "url": "https://open.spotify.com/track/1QDgDQ7U9nqVxSu3SbBTWB"
+    },
+    {
+      "album": {
+        "name": "The errand of Love",
+        "url": "https://open.spotify.com/album/0uaPPrvjeW2y8cSHQpjVv6"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "The errand of Love",
+      "url": "https://open.spotify.com/track/6Cu9v1zM42SENG7DghjPyG"
     },
     {
       "album": {
@@ -17865,6 +17995,28 @@
     },
     {
       "album": {
+        "name": "POWER ANDRE 99",
+        "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375729,
+      "name": "Tik Tak Tok (feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/0dpcP3g0O9uPkyruGfVKi8"
+    },
+    {
+      "album": {
         "name": "In Mood for Love",
         "url": "https://open.spotify.com/album/7woVM2fDLB3cXrUmwK2mxs"
       },
@@ -18060,7 +18212,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 177000,
       "name": "Tomato Marinade (feat. \uc724\ud615\uc900)",
       "url": "https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK"
@@ -19896,7 +20048,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 192391,
       "name": "Yesterday, Today and Tomorrow",
       "url": "https://open.spotify.com/track/0Dk3leCGdbez4KTGdcCWnc"

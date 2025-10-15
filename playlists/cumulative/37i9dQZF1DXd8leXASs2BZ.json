@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: lj",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 186000,
       "name": "$$$",
       "url": "https://open.spotify.com/track/48vj4qmnSRXTGc5OcfTnLe"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 161999,
       "name": "1drop (feat. ENEL)",
       "url": "https://open.spotify.com/track/3Fdi2CuSST497cOYXWkr7Z"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 196020,
       "name": "555 - Remix",
       "url": "https://open.spotify.com/track/6au5GbS9sCikd4zvWQ5BkS"
@@ -2107,6 +2107,32 @@
     },
     {
       "album": {
+        "name": "BANCHO GEEK (feat. Worldwide Skippa & Yachi)",
+        "url": "https://open.spotify.com/album/5lGK2AO6VeENeHwmS8DIMP"
+      },
+      "artists": [
+        {
+          "name": "P1nkboy",
+          "url": "https://open.spotify.com/artist/3UPIK9XSUJKB6jp3ymEI2s"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        },
+        {
+          "name": "Yachi",
+          "url": "https://open.spotify.com/artist/1nCgWR0anXnLAVXJpwzemR"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169620,
+      "name": "BANCHO GEEK (feat. Worldwide Skippa & Yachi)",
+      "url": "https://open.spotify.com/track/2suHMsKAYw28idLp9HMIGx"
+    },
+    {
+      "album": {
         "name": "Bandiera",
         "url": "https://open.spotify.com/album/3yymiH75bpCL305bcBajTs"
       },
@@ -2152,6 +2178,28 @@
       "duration_ms": 167000,
       "name": "BANDS! (feat. ShowyVICTOR & Nyture)",
       "url": "https://open.spotify.com/track/2130kEjZH8rs1gGGO2maev"
+    },
+    {
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/2ig6IVs3vbd6GLqnqqhUrQ"
+      },
+      "artists": [
+        {
+          "name": "GOUU",
+          "url": "https://open.spotify.com/artist/21sZk9baIpQaCtFxFoFg73"
+        },
+        {
+          "name": "Yusef Imamura",
+          "url": "https://open.spotify.com/artist/2zYkpFBLyfskSrJl3zu7ov"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154952,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/1yJI2VJhtQhdRci22Po7p0"
     },
     {
       "album": {
@@ -2888,7 +2936,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 240272,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1AHccfsS9xxFuyArt6vOlt"
@@ -8315,6 +8363,32 @@
     },
     {
       "album": {
+        "name": "GUNSO LYFE STYLE",
+        "url": "https://open.spotify.com/album/0bmYLx8qhUW2h8Wx4EuUEx"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI"
+        },
+        {
+          "name": "ENEL",
+          "url": "https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "GUNSO LYFE STYLE",
+      "url": "https://open.spotify.com/track/3HA5RVJURsK4gsQXoxXryC"
+    },
+    {
+      "album": {
         "name": "GUTTUR BELT",
         "url": "https://open.spotify.com/album/3k8hEYSGoD1b1GrBOKiByo"
       },
@@ -8794,7 +8868,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 141176,
       "name": "HIKOUKI (feat. GOLD DIGGA)",
       "url": "https://open.spotify.com/track/1dSU3ve1ay6vAingAFNttQ"
@@ -9932,7 +10006,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 129039,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6oJiU3QSn2N4ANBe6nSma6"
@@ -10623,6 +10697,24 @@
     },
     {
       "album": {
+        "name": "KID FRESINO",
+        "url": "https://open.spotify.com/album/7lTh9pxURUuaktSPVPXsri"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133315,
+      "name": "KID FRESINO",
+      "url": "https://open.spotify.com/track/1R3he92KY93TdSvMl5pwwX"
+    },
+    {
+      "album": {
         "name": "Kill Bill",
         "url": "https://open.spotify.com/album/17NM9tiswNH0fojmUNR0AL"
       },
@@ -11088,7 +11180,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 144982,
       "name": "LET ME SEE",
       "url": "https://open.spotify.com/track/0jXfA51fa8JfcMDuC2Jv5Z"
@@ -15895,6 +15987,28 @@
     },
     {
       "album": {
+        "name": "Reflex Blue",
+        "url": "https://open.spotify.com/album/4TD2XdVdwVMEUT2Q8lB9Yn"
+      },
+      "artists": [
+        {
+          "name": "Flat Line Classics",
+          "url": "https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa"
+        },
+        {
+          "name": "MAHBIE",
+          "url": "https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Reflex Blue",
+      "url": "https://open.spotify.com/track/4hCj3SLz5K5tA5vsBCLXgk"
+    },
+    {
+      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/5lJF9Q9KH0RHReN5pjaRBK"
       },
@@ -16592,6 +16706,24 @@
       "duration_ms": 251253,
       "name": "Sachi",
       "url": "https://open.spotify.com/track/1h8sD4MeQ2JFoNEN10GBVb"
+    },
+    {
+      "album": {
+        "name": "Sad Kid Yaz Type Beat",
+        "url": "https://open.spotify.com/album/68vXwxf5yPmOiVuC3A1CKx"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "Sad Kid Yaz Type Beat",
+      "url": "https://open.spotify.com/track/3aou3wXkwdFdhnkHrwVgef"
     },
     {
       "album": {
@@ -17947,6 +18079,24 @@
     },
     {
       "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/66Eeg0qt8yxP4qKSlbgJQQ"
+      },
+      "artists": [
+        {
+          "name": "VCE NAVA",
+          "url": "https://open.spotify.com/artist/4oG9mZoApHLm4xxMgl4giO"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121391,
+      "name": "star",
+      "url": "https://open.spotify.com/track/2RkTmVwkPemAvlRZMiSODS"
+    },
+    {
+      "album": {
         "name": "RE:",
         "url": "https://open.spotify.com/album/1pyFlOU8LqbmVAhh6IRmfj"
       },
@@ -18146,7 +18296,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 172747,
       "name": "Still wit u (feat. Yvng Xan, utumiyqcom & BHS Svve)",
       "url": "https://open.spotify.com/track/6lJhrhfRIHKmzgiIiU5Z27"
@@ -18686,6 +18836,28 @@
       "duration_ms": 173853,
       "name": "Swimmin'",
       "url": "https://open.spotify.com/track/2EaUOcIWFNjk0JRIMJG58N"
+    },
+    {
+      "album": {
+        "name": "Swipe",
+        "url": "https://open.spotify.com/album/1XS68Mr1GSk8w48CSPWLRR"
+      },
+      "artists": [
+        {
+          "name": "IKE",
+          "url": "https://open.spotify.com/artist/2jABWw2VBAvwYyWSLxjUcX"
+        },
+        {
+          "name": "Donatello",
+          "url": "https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Swipe",
+      "url": "https://open.spotify.com/track/7LK97nk7F53jlmKcD34UFQ"
     },
     {
       "album": {
@@ -19246,7 +19418,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 204333,
       "name": "Tiffany Blue",
       "url": "https://open.spotify.com/track/1uI8ak2sNMCCM6MIuNKmOx"

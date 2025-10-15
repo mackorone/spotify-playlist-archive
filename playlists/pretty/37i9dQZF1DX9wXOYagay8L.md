@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Danya Devs
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,493 likes - 95 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,767 likes - 95 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

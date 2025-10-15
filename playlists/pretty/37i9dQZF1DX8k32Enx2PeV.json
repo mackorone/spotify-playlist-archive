@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 14539,
+  "num_followers": 14552,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-10-10 04:59:28",
       "album": {
-        "name": "Buen Pez (Deluz)",
-        "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Regalo",
-      "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
+        "name": "Buen Pez (Deluz)",
+        "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
     },
     {
       "added_at": "2025-10-10 04:59:28",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-10-10 04:59:28",
       "album": {
-        "name": "Mudanza",
-        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
-      },
-      "artists": [
-        {
-          "name": "Kid Fresco",
-          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
-        }
-      ],
-      "duration_ms": 212178,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
         "name": "Pa' que lo bailen (Radio Edit)",
         "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 194770,
       "name": "Pa' que lo bailen - Radio Edit",
       "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
+        "name": "Mudanza",
+        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
+      },
+      "artists": [
+        {
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+        }
+      ],
+      "duration_ms": 212178,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
     },
     {
       "added_at": "2025-10-10 04:59:28",

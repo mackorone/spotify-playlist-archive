@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jan Roberts
 
-570 songs - 1 day 11 hr 37 min
+571 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Umayos Ka](https://open.spotify.com/track/7gOF9CLCcGiEeqXx8VXkjM) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Umayos Ka](https://open.spotify.com/album/6gnBtAHsfwMsuJ9HzmyUw0) | 3:23 | 2024-07-02 | 2024-07-13 |
 | [Unang Halik](https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Unang Halik](https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG) | 4:11 | 2025-08-23 |  |
 | [Unimaginable](https://open.spotify.com/track/339SFBs6VUjYdvDRrK8yCn) | [Klarisse](https://open.spotify.com/artist/1Imlf2KHeVnyY2bkZe1bNC) | [Unimaginable](https://open.spotify.com/album/6ojC0sFbE9CcsEFgLbxPD8) | 2:48 | 2025-09-19 |  |
+| [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-14 |  |
 | [Wag Ako](https://open.spotify.com/track/4eEvkWe9r5qoXGYXuC8qQg) | [Rocksteddy](https://open.spotify.com/artist/2uSQi2dS9WLbu4IlzTPLKr) | [INTERGALACTIC ADIKINSANE](https://open.spotify.com/album/7BHkuFACzaTl1MgyNTA8sv) | 4:49 | 2025-09-19 |  |
 | [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 |  |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |

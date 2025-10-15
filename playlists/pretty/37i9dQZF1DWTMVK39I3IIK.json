@@ -195,22 +195,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Gav Det Et Skud",
         "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 176489,
       "name": "Gav Det Et Skud",
       "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
-      },
-      "artists": [
-        {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
-        }
-      ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Mig Og Min Mund",
         "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Dagdr\u00f8mmeri",
         "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 188963,
       "name": "Dagdr\u00f8mmeri",
       "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -495,22 +495,18 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Jeg h\u00e5ber (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
         }
       ],
-      "duration_ms": 168469,
-      "name": "Jeg h\u00e5ber (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -547,18 +543,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+        "name": "Jeg h\u00e5ber (feat. Mekdes)",
+        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
       },
       "artists": [
         {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+      "duration_ms": 168469,
+      "name": "Jeg h\u00e5ber (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Et Sted p\u00e5 Vesterbro",
-        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
-      },
-      "artists": [
-        {
-          "name": "Augusta Schackinger",
-          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
-        }
-      ],
-      "duration_ms": 148521,
-      "name": "Et Sted p\u00e5 Vesterbro",
-      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "P\u00c5 TIL DET SAMME",
         "url": "https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 116259,
       "name": "P\u00c5 TIL DET SAMME",
       "url": "https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Et Sted p\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
+      },
+      "artists": [
+        {
+          "name": "Augusta Schackinger",
+          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
+        }
+      ],
+      "duration_ms": 148521,
+      "name": "Et Sted p\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "How Does It Make U Feel",
-        "url": "https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg"
-      },
-      "artists": [
-        {
-          "name": "Betty Bass",
-          "url": "https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "How Does It Make U Feel",
-      "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
       },
@@ -1043,6 +1027,38 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Sodalite",
+        "url": "https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S"
+      },
+      "artists": [
+        {
+          "name": "Jaleesa",
+          "url": "https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4"
+        }
+      ],
+      "duration_ms": 248041,
+      "name": "Let Love In",
+      "url": "https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "How Does It Make U Feel",
+        "url": "https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg"
+      },
+      "artists": [
+        {
+          "name": "Betty Bass",
+          "url": "https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "How Does It Make U Feel",
+      "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "Kys f\u00f8r fald",
         "url": "https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx"
       },
@@ -1055,6 +1071,26 @@
       "duration_ms": 194937,
       "name": "Kys f\u00f8r fald",
       "url": "https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "nothing at all",
+        "url": "https://open.spotify.com/album/5qCrlkXncgAS7h7f5VsOGa"
+      },
+      "artists": [
+        {
+          "name": "Elliot",
+          "url": "https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd"
+        },
+        {
+          "name": "Reveal Party",
+          "url": "https://open.spotify.com/artist/665kf4qpOB0x1GE1TfFhAT"
+        }
+      ],
+      "duration_ms": 208430,
+      "name": "nothing at all",
+      "url": "https://open.spotify.com/track/4R8nC9Xq3alkz4piaQd34S"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1087,42 +1123,6 @@
       "duration_ms": 196225,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Sodalite",
-        "url": "https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S"
-      },
-      "artists": [
-        {
-          "name": "Jaleesa",
-          "url": "https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4"
-        }
-      ],
-      "duration_ms": 248041,
-      "name": "Let Love In",
-      "url": "https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "nothing at all",
-        "url": "https://open.spotify.com/album/5qCrlkXncgAS7h7f5VsOGa"
-      },
-      "artists": [
-        {
-          "name": "Elliot",
-          "url": "https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd"
-        },
-        {
-          "name": "Reveal Party",
-          "url": "https://open.spotify.com/artist/665kf4qpOB0x1GE1TfFhAT"
-        }
-      ],
-      "duration_ms": 208430,
-      "name": "nothing at all",
-      "url": "https://open.spotify.com/track/4R8nC9Xq3alkz4piaQd34S"
     },
     {
       "added_at": "2025-10-09 22:00:30",

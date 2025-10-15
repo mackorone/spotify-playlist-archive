@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544862,
+  "num_followers": 544860,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Rented World",
-        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I Don't Wanna Be An Asshole Anymore",
-      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 166673,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Rented World",
+        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I Don't Wanna Be An Asshole Anymore",
+      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Float Around",
-        "url": "https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z"
-      },
-      "artists": [
-        {
-          "name": "Coldfront",
-          "url": "https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y"
-        }
-      ],
-      "duration_ms": 204114,
-      "name": "Everything You Want Me to Be",
-      "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 177011,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Float Around",
+        "url": "https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z"
+      },
+      "artists": [
+        {
+          "name": "Coldfront",
+          "url": "https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y"
+        }
+      ],
+      "duration_ms": 204114,
+      "name": "Everything You Want Me to Be",
+      "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+        "name": "If You Say So",
+        "url": "https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego"
       },
       "artists": [
         {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+          "name": "The Dead Love",
+          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
         }
       ],
-      "duration_ms": 183282,
-      "name": "When Both Sides Suck, We're All Winners",
-      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
+      "duration_ms": 151521,
+      "name": "If You Say So",
+      "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "If You Say So",
-        "url": "https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego"
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
       "artists": [
         {
-          "name": "The Dead Love",
-          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 151521,
-      "name": "If You Say So",
-      "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
+      "duration_ms": 183282,
+      "name": "When Both Sides Suck, We're All Winners",
+      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "What Are We Standing For",
         "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 173600,
       "name": "What Are We Standing For",
       "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Overexposed",
-        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
-      },
-      "artists": [
-        {
-          "name": "Sleep On It",
-          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "A New Way Home",
-      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "No Strange Cats",
         "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 178989,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Overexposed",
+        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
+      },
+      "artists": [
+        {
+          "name": "Sleep On It",
+          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "A New Way Home",
+      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
     },
     {
       "added_at": "2024-07-19 11:53:42",

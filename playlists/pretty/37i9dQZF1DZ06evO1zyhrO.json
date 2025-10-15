@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103604,
+  "num_followers": 103611,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAABKmrhVKcV397Wbzv9Xt1Q5",
+  "snapshot_id": "aOxBAAAAAACHtyKhallwdzlfCQJ3jNsU",
   "tracks": [
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 210319,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 178019,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
+      "duration_ms": 210319,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
     },
     {
       "added_at": null,

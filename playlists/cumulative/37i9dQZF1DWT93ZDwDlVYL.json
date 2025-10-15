@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcast che devi avere sul tuo RADAR: BenNaNa Podcast, Casi Umani, EST RADIO, Mitologia Gettata, Pianeta B12",
+  "description": "Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT - Storie Italiane di Successo, STREETSMART\nCover: Capiamo",
   "name": "RADAR Creators Italia",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 3671693,
       "name": "23 - \"Mamma, c\u2019\u00e8 uno zombie, corri!\u201d Il caso di Gigi Bici e Barbara Pasetti - PARTE 1",
       "url": "https://open.spotify.com/episode/1TwwUnXb4CDAboXJuaJ9H1"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 4282750,
       "name": "Comfort Movies con Simone Panetti // ARTE SETTIMA",
       "url": "https://open.spotify.com/episode/22G1csI3ybhxn88JZiv1XF"
@@ -322,10 +322,46 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 830693,
       "name": "Coronide e il corvo bianco",
       "url": "https://open.spotify.com/episode/6ejIcXDtDRpXNY55R8X0e6"
+    },
+    {
+      "album": {
+        "name": "Made IT - Storie Italiane di Successo",
+        "url": "https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW"
+      },
+      "artists": [
+        {
+          "name": "Made IT - Storie Italiane di Successo",
+          "url": "https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3532010,
+      "name": "Da \u20ac20 a \u20ac600 milioni di fatturato: la storia dietro il successo di Golden Goose, con Silvio Campara CEO di Golden Goose [VIDEO]",
+      "url": "https://open.spotify.com/episode/45zfiRMcmMjObNTJZ7u0x1"
+    },
+    {
+      "album": {
+        "name": "STREETSMART",
+        "url": "https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux"
+      },
+      "artists": [
+        {
+          "name": "STREETSMART",
+          "url": "https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4302541,
+      "name": "ELON MUSK \u00c8 FOLLE!! - STREETSMART EP.08",
+      "url": "https://open.spotify.com/episode/3WxPdMAorJSJOrBkuNgVVN"
     },
     {
       "album": {
@@ -340,7 +376,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 4551360,
       "name": "Ep. 48 - Dieta: il Grande Inganno con Franco Berrino e Natalia Gera | Pianeta B12",
       "url": "https://open.spotify.com/episode/44Zp8MgayxZSCQydQIjDHW"
@@ -419,6 +455,42 @@
     },
     {
       "album": {
+        "name": "HYPERSIMPOSIO ",
+        "url": "https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop"
+      },
+      "artists": [
+        {
+          "name": "HYPERSIMPOSIO ",
+          "url": "https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2655466,
+      "name": "HYPERSIMPOSIO II.VII : Ceri Wax ",
+      "url": "https://open.spotify.com/episode/5mR7BFs09hDPNYupM1Se6K"
+    },
+    {
+      "album": {
+        "name": "HYPERSIMPOSIO ",
+        "url": "https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop"
+      },
+      "artists": [
+        {
+          "name": "HYPERSIMPOSIO ",
+          "url": "https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2390708,
+      "name": "HYPERSIMPOSIO III : 18K ",
+      "url": "https://open.spotify.com/episode/6JnJtRSnuakL3ag4pZmjp9"
+    },
+    {
+      "album": {
         "name": "Caff\u00e8 Design",
         "url": "https://open.spotify.com/show/2xBIU3k8M9QxEMKXMOfIY2"
       },
@@ -437,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Made IT - Storie Italiane di Successo",
+        "url": "https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW"
+      },
+      "artists": [
+        {
+          "name": "Made IT - Storie Italiane di Successo",
+          "url": "https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1888448,
+      "name": "Il RE della cosmetica che produce per i brand pi\u00f9 famosi del mondo con Dario Ferrari, Fondatore Intercos",
+      "url": "https://open.spotify.com/episode/67Ahyuo2ihAZ19vBoi8Tvo"
+    },
+    {
+      "album": {
         "name": "\u7b28\u5a1c\u5a1c \u2022 BenNaNa Podcast",
         "url": "https://open.spotify.com/album/3gHAgD3a4aYa7Psp3GcqRy"
       },
@@ -448,7 +538,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 4026325,
       "name": "Italiana cresciuta in Cina - 4 chiacchiere tra 4 Italo-Cinesi \u2027 \u7b28\u5a1c\u5a1c - BenNaNa Podcast Ep.5",
       "url": "https://open.spotify.com/episode/6CU40Ht63uS2ZxEYfSoBA9"
@@ -470,6 +560,42 @@
       "duration_ms": 1602339,
       "name": "L'uccello di Elon Musk",
       "url": "https://open.spotify.com/episode/368l6obk1twvbqAxRnfxGO"
+    },
+    {
+      "album": {
+        "name": "STREETSMART",
+        "url": "https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux"
+      },
+      "artists": [
+        {
+          "name": "STREETSMART",
+          "url": "https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3967222,
+      "name": "L'UOMO IDEALE di MARTA DADDATO?! - STREETSMART EP.12",
+      "url": "https://open.spotify.com/episode/36DhUFDUGlLyjCIZMK0GiF"
+    },
+    {
+      "album": {
+        "name": "Capiamo",
+        "url": "https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7"
+      },
+      "artists": [
+        {
+          "name": "Capiamo",
+          "url": "https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2621886,
+      "name": "LA DATING LIFE A MILANO \u00c8 UN DISASTRO? Capiamo #99",
+      "url": "https://open.spotify.com/episode/2kVO0BfJCn4SBSaL8cdBSv"
     },
     {
       "album": {
@@ -560,6 +686,24 @@
       "duration_ms": 2738416,
       "name": "S1x03 - Consigli di Viaggio - Spooking.goth - pt.1",
       "url": "https://open.spotify.com/episode/4xm1YDt2iU9fvL0PSfpw5b"
+    },
+    {
+      "album": {
+        "name": "Capiamo",
+        "url": "https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7"
+      },
+      "artists": [
+        {
+          "name": "Capiamo",
+          "url": "https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2675369,
+      "name": "\u00c8 GIUSTO USCIRE CON PIU PERSONE CONTEMPORANEAMENTE? Capiamo #109",
+      "url": "https://open.spotify.com/episode/6qFpyhFRheMgUWBp6BdLmR"
     },
     {
       "album": {

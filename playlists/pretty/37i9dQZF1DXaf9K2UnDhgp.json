@@ -1,13 +1,29 @@
 {
   "description": "Riffing around the Christmas tree. ",
-  "num_followers": 239145,
+  "num_followers": 239137,
   "original_name": "Rock Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMVtrSFXq6THj+xBOmurE0dF7wyb",
+  "snapshot_id": "AAAAADDsj9lwFtGYOtYAZuX5Y6PQV4LR",
   "tracks": [
+    {
+      "added_at": "2025-10-14 20:20:48",
+      "album": {
+        "name": "Where Are You Christmas?",
+        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 188545,
+      "name": "Where Are You Christmas?",
+      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
+    },
     {
       "added_at": "2024-11-05 05:25:47",
       "album": {

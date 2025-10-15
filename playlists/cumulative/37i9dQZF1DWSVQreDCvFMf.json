@@ -10281,6 +10281,24 @@
     },
     {
       "album": {
+        "name": "Vibrate",
+        "url": "https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb"
+      },
+      "artists": [
+        {
+          "name": "La Mave",
+          "url": "https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS"
+    },
+    {
+      "album": {
         "name": "INTERGALACTIC ADIKINSANE",
         "url": "https://open.spotify.com/album/7BHkuFACzaTl1MgyNTA8sv"
       },

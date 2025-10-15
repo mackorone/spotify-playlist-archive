@@ -883,6 +883,28 @@
     },
     {
       "album": {
+        "name": "APPAN",
+        "url": "https://open.spotify.com/album/12HWVJtiWAw9XXngHFakBD"
+      },
+      "artists": [
+        {
+          "name": "CHNGRA",
+          "url": "https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO"
+        },
+        {
+          "name": "Allen James",
+          "url": "https://open.spotify.com/artist/7MU01QGrEEMYM54QV1P74x"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "APPAN",
+      "url": "https://open.spotify.com/track/3bvqRkoIXqgvTu05fzn4fE"
+    },
+    {
+      "album": {
         "name": "Arbab",
         "url": "https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T"
       },
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 223875,
       "name": "Kaathe Kaalam (From \"Meesha\")",
       "url": "https://open.spotify.com/track/1m8mBvazQ5SSurQJtpgIOK"
@@ -5074,6 +5096,28 @@
       "duration_ms": 214285,
       "name": "MAAPLA",
       "url": "https://open.spotify.com/track/4ThBfx16CZ18UcJE2aEAJ5"
+    },
+    {
+      "album": {
+        "name": "Maari Nikkada",
+        "url": "https://open.spotify.com/album/3pFOMCjL7a6abNQL80s3pY"
+      },
+      "artists": [
+        {
+          "name": "Double J The Rapper",
+          "url": "https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf"
+        },
+        {
+          "name": "m.cnan",
+          "url": "https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154230,
+      "name": "Maari Nikkada",
+      "url": "https://open.spotify.com/track/1DpWSxVUlAcAwfESOUKpnd"
     },
     {
       "album": {
@@ -7710,7 +7754,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 196058,
       "name": "PIRAKILADI",
       "url": "https://open.spotify.com/track/0phdfWPfupOGzsU3HprEaz"
@@ -8810,7 +8854,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 177125,
       "name": "Someday",
       "url": "https://open.spotify.com/track/0bSoC7sxSNUMR5VSpDAyGR"

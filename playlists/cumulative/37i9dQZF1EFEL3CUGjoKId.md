@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 5 hr 50 min
+91 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Honey Hi \- 2015 Remaster](https://open.spotify.com/track/4hitfppPqFmsKsI9GS7IBc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:45 | 2024-01-29 |  |
 | [I Do](https://open.spotify.com/track/3lKoKxbgDUmpRWyUQUjDvi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:28 | 2024-01-29 |  |
 | [Isn't It Midnight \- 2017 Remaster](https://open.spotify.com/track/6D8BkkjFumCyE2qi5I7a3D) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 4:13 | 2024-01-29 |  |
-| [It's Ok with Me Baby](https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 2:37 | 2024-01-29 |  |
+| [It's Ok with Me Baby](https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 2:37 | 2024-01-29 | 2025-10-15 |
+| [It's Ok with Me Baby \(Bonus Track\)](https://open.spotify.com/track/4xl4cbwWacZi4QDUWBA5CA) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 2:39 | 2025-10-14 |  |
 | [It's You I Miss](https://open.spotify.com/track/0jnXNaf1SFUucJtrGPvTv5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 3:48 | 2024-01-29 |  |
 | [Liar](https://open.spotify.com/track/0FqXgAtf7GNLZTnJRxNezD) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:53 | 2024-01-29 |  |
 | [Liquid Love](https://open.spotify.com/track/4GofyoayFqD5ceUzHhBbZN) | [Shy Child](https://open.spotify.com/artist/6w9ED7WnjSscMaY2RCVOHh) | [Liquid Love](https://open.spotify.com/album/0ljhnLjirN0JSAj58Hkfcf) | 4:48 | 2024-01-29 |  |

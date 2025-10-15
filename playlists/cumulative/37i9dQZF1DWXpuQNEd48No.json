@@ -2917,6 +2917,32 @@
     },
     {
       "album": {
+        "name": "Dileri",
+        "url": "https://open.spotify.com/album/0t8Wm89EHmEJ4WKoMrzKBo"
+      },
+      "artists": [
+        {
+          "name": "Guru Gera",
+          "url": "https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa"
+        },
+        {
+          "name": "Its Aghori",
+          "url": "https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr"
+        },
+        {
+          "name": "Aarpy",
+          "url": "https://open.spotify.com/artist/73EEdcHr8fvUYCbHBfHW6n"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234603,
+      "name": "Dileri",
+      "url": "https://open.spotify.com/track/0eJVf5tVNAQ2qB5GQgVlEC"
+    },
+    {
+      "album": {
         "name": "Dilli Aali Chori",
         "url": "https://open.spotify.com/album/1koKPq6PckzgTpeBJVXWWq"
       },
@@ -4350,7 +4376,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 212133,
       "name": "Haryana Calling",
       "url": "https://open.spotify.com/track/6zfgy4YV3thGmpFO3IfRsD"
@@ -6762,7 +6788,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 183896,
       "name": "MAZE",
       "url": "https://open.spotify.com/track/49Gm2vX8U1SaFveFzPv2lC"
@@ -7072,6 +7098,32 @@
       "duration_ms": 172916,
       "name": "MY JOURNEY",
       "url": "https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG"
+    },
+    {
+      "album": {
+        "name": "My Name Speaks",
+        "url": "https://open.spotify.com/album/2BpBWJg0HRcpxPL3Zoynn2"
+      },
+      "artists": [
+        {
+          "name": "Mt 35",
+          "url": "https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6"
+        },
+        {
+          "name": "Lv94",
+          "url": "https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur"
+        },
+        {
+          "name": "Mani Rana",
+          "url": "https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "My Name Speaks",
+      "url": "https://open.spotify.com/track/0DJjbAaiJK6NFiMaDTFe5y"
     },
     {
       "album": {

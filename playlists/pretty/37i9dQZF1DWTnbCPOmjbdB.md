@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Lanberry
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,873 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,891 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 48 | [WIATR](https://open.spotify.com/track/3n1N8s6iKQGLmCN6a9es2B) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [WIATR](https://open.spotify.com/album/39r7rzpy6S2nwoqicpuzsS) | 3:07 |
 | 49 | [Pół na pół](https://open.spotify.com/track/4S8PXtXDPcHsJCyA6EnJAH) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Pół na pół](https://open.spotify.com/album/3hyEeIghFGbEf9YU33qNkl) | 3:21 |
 | 50 | [Dalej, Dalej! \(Chopin, Chopin!\)](https://open.spotify.com/track/3Fhw0gcq1RsXMpSTESDYCp) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Dalej, Dalej! \(Chopin, Chopin!\)](https://open.spotify.com/album/1oqOoRsDpi7PVVETXnCzB0) | 3:02 |
-| 51 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
+| 51 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
 | 52 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
 | 53 | [Americano](https://open.spotify.com/track/7pcm6FZQ5Bcqp3AEbj6zck) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Americano](https://open.spotify.com/album/5t0YOz2ro4uCbbQsRZjh9n) | 3:49 |
 | 54 | [Santa Cruz](https://open.spotify.com/track/7eBnyfgpicRCTgGvlwJoMS) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0), [Świeży](https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s) | [Santa Cruz](https://open.spotify.com/album/63gRlSJJOJEUTDM89savvW) | 2:25 |

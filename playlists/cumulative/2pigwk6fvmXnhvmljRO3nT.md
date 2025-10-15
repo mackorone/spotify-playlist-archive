@@ -4,11 +4,12 @@
 
 > 
 
-7,818 songs - 20 day 4 hr 23 min
+7,818 songs - 20 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 0:00 | 2025-01-15 |  |
+| [](https://open.spotify.com/track/31JkYiqLugKOXh8wVrnGl8) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4xzLOVZQImmN2lhj5pmFrA) | 0:00 | 2025-07-27 |  |
 | [\#longlivesteelo](https://open.spotify.com/track/2CNRu6NMtlCTNlrZ1NL6Hz) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [T'nah Apex](https://open.spotify.com/artist/5Y0eBjypjKL7Ahms0NaXVp) | [Summer Knights](https://open.spotify.com/album/16KdSB0v7RqYwRjylZCpfn) | 2:51 | 2025-01-03 |  |
 | [\#PROUDCATOWNERREMIX](https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 2:37 | 2025-01-15 |  |
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2025-01-15 |  |
@@ -1273,7 +1274,6 @@
 | [Couldn’t Be Done \(feat\. Kelly Price\)](https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:31 | 2025-01-03 |  |
 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 | 2025-01-03 |  |
 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 | 2024-12-10 |  |
-| [Count What You Have Now](https://open.spotify.com/track/31JkYiqLugKOXh8wVrnGl8) | [kyliv](https://open.spotify.com/artist/5KDiD44ekCxzpN00qZXCWg) | [Count What You Have Now](https://open.spotify.com/album/4xzLOVZQImmN2lhj5pmFrA) | 5:00 | 2025-07-27 |  |
 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2025-04-19 |  |
 | [Country Sh\*t \(Remix\)](https://open.spotify.com/track/36N2bDLedBsK9VylCszIwH) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Country Sh\*t \(Remix\)](https://open.spotify.com/album/5ISEGqUm3wUvk00f1MLo4N) | 4:02 | 2024-12-10 |  |
 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 | 2025-01-15 |  |

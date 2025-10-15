@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Bombshell",
+        "url": "https://open.spotify.com/album/78RIGKdHOd2J4qAhxNdxlU"
+      },
+      "artists": [
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154766,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/1lwIEn4LvceKySirb4olKh"
+    },
+    {
+      "album": {
         "name": "Broken Glass",
         "url": "https://open.spotify.com/album/1BtsJ1KnKpCjoTYud3z7EU"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 192941,
       "name": "Chann Diggeya Ve",
       "url": "https://open.spotify.com/track/6OnQeuKgLWYTpHve6PGkC0"

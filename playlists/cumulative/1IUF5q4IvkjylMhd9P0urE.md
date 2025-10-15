@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-876 songs - 2 day 2 hr 1 min
+878 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [Sola](https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:06 | 2025-06-25 |  |
 | [Solid Jacket](https://open.spotify.com/track/2LYDDerrrcZGWkiakEAEUk) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Solid Jacket](https://open.spotify.com/album/7D0C0uhEf2JnXVcidtjqYM) | 3:42 | 2022-11-08 | 2022-12-20 |
 | [Something New](https://open.spotify.com/track/0Nk0ddLtthzQWACWiAp36g) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More Is More](https://open.spotify.com/album/4Bm655AzTU4i95l2cb1hle) | 2:39 | 2025-10-01 |  |
+| [Sonkind](https://open.spotify.com/track/4bGVvkoWFFNHfz7CGz1TuQ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [SickElixir](https://open.spotify.com/album/59aRCCtOb1yMhdN9TM53zR) | 2:34 | 2025-10-14 |  |
 | [Soon Touch](https://open.spotify.com/track/3gjwnckMxm3wdxgdGrxCpG) | [James Massiah](https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9) | [Soon Touch](https://open.spotify.com/album/5Kgq7P4RLAhshdbqoXIL4s) | 3:52 | 2024-03-21 | 2024-09-08 |
 | [Sora](https://open.spotify.com/track/2KJNtDb0E1957i4Dn62iel) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/5OkU7PtaX6mrn99VJfqytt) | 4:17 | 2023-05-23 | 2023-08-04 |
 | [Sorbet \- LSDXOXO Remix](https://open.spotify.com/track/6agcpxNbvaijdICaroWF9g) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:31 | 2024-03-21 | 2024-09-08 |
@@ -790,6 +791,7 @@
 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 | 2023-02-10 | 2023-05-24 |
 | [TAKATA](https://open.spotify.com/track/6Nop3ygzl5QGMVsfwIUA2x) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [TAKATA](https://open.spotify.com/album/0KoTeow8O2zhl8KMapmi7w) | 3:16 | 2025-10-01 |  |
 | [Take](https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Take](https://open.spotify.com/album/13hfnOETzKRNERgshH3m0G) | 3:39 | 2023-04-13 | 2023-08-04 |
+| [take it](https://open.spotify.com/track/4YPOplh4glirQhau0shF5u) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [take it](https://open.spotify.com/album/4SYyFlB9YiIcjYxAQMCfBg) | 3:24 | 2025-10-14 |  |
 | [Take It As A Sign](https://open.spotify.com/track/5GWo5jHc9AeSHokEFzKQLB) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X) | [Solstice Equinox](https://open.spotify.com/album/33kTxidA33xeXai52tTIsQ) | 2:09 | 2025-06-25 |  |
 | [take it offff](https://open.spotify.com/track/53HDHoMK6OLk1vDWvyREJM) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 2:10 | 2025-03-20 |  |
 | [Take Me Home](https://open.spotify.com/track/1jG3VfOU0OwOQRYRAjByy9) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Look At That Thing](https://open.spotify.com/album/5iqqpLicSYGhYPmrnRoytB) | 4:30 | 2023-01-18 | 2023-04-14 |
@@ -846,7 +848,7 @@
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2023-10-18 | 2023-12-08 |
 | [Warzone](https://open.spotify.com/track/7jp0r1LbhhmZOsaS4pC6Xa) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Londra](https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq) | 3:11 | 2024-12-09 | 2025-06-26 |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-09-16 | 2022-11-09 |
-| [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tyson](https://open.spotify.com/artist/7vgtFAsr1Cf9NX4qq64bVs) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 | 2025-10-10 |  |
+| [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 | 2025-10-10 |  |
 | [waterlily](https://open.spotify.com/track/3kgbM2ilSP8JxbHQDO8wwB) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [waterlily](https://open.spotify.com/album/25APX9pNrfSn5KpcCOtoFO) | 4:28 | 2023-01-18 | 2023-04-14 |
 | [WDYM](https://open.spotify.com/track/0MreAL2qbqIQfw5HqOjFvj) | [Wax](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Hunger or Greed](https://open.spotify.com/album/4Qi79Rj1PWS09nmO2X5Dl4) | 3:04 | 2022-09-16 | 2022-11-09 |
 | [WE ALL IN GOD’S PUM](https://open.spotify.com/track/6ZbzmrCnjz4U2e8HQrURWn) | [Brbko](https://open.spotify.com/artist/1RjSCvuRvWdXcsUMSVv5Tf) | [WE ALL IN GOD’S PUM](https://open.spotify.com/album/0YFWA4X5dJOld6hcxQQkz8) | 2:37 | 2025-06-25 |  |

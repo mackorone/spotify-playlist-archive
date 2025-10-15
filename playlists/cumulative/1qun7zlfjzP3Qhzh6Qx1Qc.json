@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 146880,
       "name": "Call It Home - A Song for North Dakota",
       "url": "https://open.spotify.com/track/589w3PSILCXwlyl3F5yVEw"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 199381,
       "name": "Come On Over, Baby",
       "url": "https://open.spotify.com/track/3SGEiGQ7SDEXl5BBGosmbD"
@@ -7463,6 +7463,24 @@
     },
     {
       "album": {
+        "name": "Still Feel the Burn",
+        "url": "https://open.spotify.com/album/6i81CDcwfC1t9M5g1JO7oJ"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Still Feel the Burn",
+      "url": "https://open.spotify.com/track/7rxRqTRSFHyvf9JAT4YRrx"
+    },
+    {
+      "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
       },
@@ -8521,6 +8539,28 @@
     },
     {
       "album": {
+        "name": "Two Trains (feat. Marcus King)",
+        "url": "https://open.spotify.com/album/41GVN5tLVfbmMjqa7JhC94"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215439,
+      "name": "Two Trains (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/23cBxlsY43hiuiLwXn5Xkn"
+    },
+    {
+      "album": {
         "name": "U.L.B",
         "url": "https://open.spotify.com/album/6GIPBCNhjVkEbVclWhe3DN"
       },
@@ -8536,6 +8576,32 @@
       "duration_ms": 147082,
       "name": "U.L.B",
       "url": "https://open.spotify.com/track/37JhtV29ZrfPwJBPoFscKG"
+    },
+    {
+      "album": {
+        "name": "Unknown Legend (with The Travelin' McCourys)",
+        "url": "https://open.spotify.com/album/1KCCQLwrwYfyZqUtuvgytg"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208321,
+      "name": "Unknown Legend (with The Travelin' McCourys)",
+      "url": "https://open.spotify.com/track/3iE5gZUcK2TQ7GpXoPskpl"
     },
     {
       "album": {

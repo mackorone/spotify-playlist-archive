@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Taylor Swift
+> 50 Hits in einer Playlist! Cover: Montez
 
-273 songs - 13 hr 1 min
+275 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-20 |  |
 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 | 2025-05-06 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-11 | 2025-02-26 |
+| [Bring mich nach Haus](https://open.spotify.com/track/1c3T9VfcoJUblx0tnHf8Ha) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Bring mich nach Haus](https://open.spotify.com/album/1AyHyxKcgEbKMqxIbQIB8E) | 3:02 | 2025-10-14 |  |
 | [Bundeswehr](https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 1:37 | 2024-10-22 | 2025-01-15 |
 | [Butcher](https://open.spotify.com/track/0uSHA5dbsCRMmzbidwhKwl) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Butcher](https://open.spotify.com/album/71Xdk4hTiAbzeCMfm4oo6X) | 2:47 | 2024-12-11 | 2025-01-15 |
 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 | 2025-06-03 | 2025-09-10 |
@@ -95,7 +96,7 @@
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-09-23 |  |
 | [Garten vorm Haus](https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Garten vorm Haus](https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn) | 1:54 | 2024-11-12 | 2025-03-05 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-09-10 | 2024-09-18 |
-| [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 | 2025-05-01 |  |
+| [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 | 2025-05-01 | 2025-10-15 |
 | [Geschlossene Augen](https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Geschlossene Augen](https://open.spotify.com/album/3855i0YuxSfGiZcWvZq4Og) | 2:45 | 2024-10-16 | 2025-01-29 |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 | 2025-03-26 |
 | [Gib uns niemals auf](https://open.spotify.com/track/25ZtcdNKE1WBjMrizwlWhO) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Gib uns niemals auf](https://open.spotify.com/album/0mcxYIR8wOT5GVKhkqm2eC) | 2:44 | 2025-09-09 | 2025-09-24 |
@@ -186,7 +187,7 @@
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-11 | 2025-03-05 |
 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 | 2024-10-08 | 2024-11-13 |
 | [Plug](https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Plug](https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z) | 2:32 | 2025-04-15 | 2025-06-11 |
-| [Pole Position](https://open.spotify.com/track/2mW3KRKLCR2jshXKaot4EL) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Pole Position](https://open.spotify.com/album/363EXqb8TO4SsY1XqR8Kfn) | 2:51 | 2025-09-16 |  |
+| [Pole Position](https://open.spotify.com/track/2mW3KRKLCR2jshXKaot4EL) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Pole Position](https://open.spotify.com/album/363EXqb8TO4SsY1XqR8Kfn) | 2:51 | 2025-09-16 | 2025-10-15 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2025-01-07 | 2025-03-05 |
 | [RAGE GIRL](https://open.spotify.com/track/2ghPrJZ7sn1MlyCAUja1C6) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [RAGE GIRL](https://open.spotify.com/album/6LY4dLPFzOWc7NER0ZemqZ) | 2:25 | 2025-07-01 | 2025-08-20 |
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-09-10 | 2024-09-26 |
@@ -249,6 +250,7 @@
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/17xC4jTj1kzw4PhaQyOhUd) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [BORN SPINNER](https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8) | 4:12 | 2025-08-12 | 2025-10-08 |
 | [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 | 2025-06-10 | 2025-08-14 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-04-01 | 2025-05-02 |
+| [Uff Yaa](https://open.spotify.com/track/2n6jU4jcKzG4ouZP52kvVp) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Uff Yaa](https://open.spotify.com/album/0GEqHwifTZhn8vBowI9ydv) | 1:47 | 2025-10-14 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-05-06 | 2025-07-02 |
 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 | 2025-04-08 | 2025-07-02 |
 | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY) | 3:03 | 2025-09-30 |  |

@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Pooh Shiesty
 
-2,313 songs - 4 day 12 hr 28 min
+2,314 songs - 4 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2099,6 +2099,7 @@
 | [Tuci](https://open.spotify.com/track/2aZP3ISsBBOGpNRU672aQV) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Tuci](https://open.spotify.com/album/4onDNOAndPqPHuqfHNqwiQ) | 1:36 | 2022-12-30 | 2023-01-28 |
 | [Tunka Truck](https://open.spotify.com/track/56L8kIckfRDisUj2FvRu5f) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Tunka Truck](https://open.spotify.com/album/0qvfF597WA1yGFYgZ6Jxyu) | 1:47 | 2024-04-12 | 2024-04-27 |
 | [Turbo](https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 2:59 | 2022-03-04 | 2022-04-09 |
+| [Turbo](https://open.spotify.com/track/5o7QnDznQZOHvtPZ2he6wE) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Baby Whoa 2](https://open.spotify.com/album/3ggWiZGVkaxoAZqrvLqiZc) | 2:00 | 2025-10-14 |  |
 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 | 2023-09-15 | 2024-09-21 |
 | [Turn Around](https://open.spotify.com/track/0JzS5416TjuAIvsyVUyQQN) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Magic City](https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW) | 3:00 | 2025-09-12 |  |
 | [Turn Around](https://open.spotify.com/track/6UeS6EUhKBBEyZsEYE35rf) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Turn Around](https://open.spotify.com/album/7h3ctuMgsC7Dry1zfLZAki) | 3:15 | 2025-06-13 | 2025-06-21 |

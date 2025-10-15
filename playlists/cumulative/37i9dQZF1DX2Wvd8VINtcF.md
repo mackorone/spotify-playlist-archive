@@ -4,7 +4,7 @@
 
 > pearl of the week ✨PinkPantheress x Bladee  ✨
 
-2,079 songs - 4 day 16 hr 23 min
+2,080 songs - 4 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Data Life](https://open.spotify.com/track/3S0TQDThtmSJJ8YQ5RZ7bU) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Data Life](https://open.spotify.com/album/1pXlpNUopjYKvGxrGBw8wZ) | 5:49 | 2023-05-11 | 2023-06-30 |
 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 | 2025-06-19 |  |
 | [Day Dreams](https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Day Dreams](https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU) | 3:45 | 2023-08-03 | 2023-09-15 |
-| [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 | 2025-04-24 | 2025-07-29 |
+| [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 | 2025-04-24 |  |
 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 | 2023-05-18 | 2023-05-26 |
 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 | 2022-10-28 | 2022-12-16 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-18 | 2023-08-04 |
@@ -992,6 +992,7 @@
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-10-28 | 2023-03-03 |
 | [junk in the trunk](https://open.spotify.com/track/3RUjSAqcqw9Cc42in88607) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [the kick is good](https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7) | 3:11 | 2023-05-11 | 2023-06-30 |
 | [Just Fine](https://open.spotify.com/track/0qRhmsSJXB8gizpPgB2uYd) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Just Fine](https://open.spotify.com/album/1tyHnCc1FPvPOJ1tL1XP5A) | 3:14 | 2022-11-24 | 2023-01-13 |
+| [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-14 |  |
 | [Just Like You](https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Just Like You](https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB) | 3:07 | 2023-04-27 | 2023-06-09 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-05 | 2025-01-03 |
 | [Justified](https://open.spotify.com/track/6uvQXH6nPHFC5wBBPz9PPR) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Justified](https://open.spotify.com/album/4w2TGNnhTZhZO7WsZJodye) | 2:45 | 2023-04-27 | 2023-06-09 |

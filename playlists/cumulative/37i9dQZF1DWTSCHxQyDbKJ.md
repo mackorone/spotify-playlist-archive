@@ -2,9 +2,9 @@
 
 ### [GLOW UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ)
 
-> Necessities from LGBTQIA+ artists\. Cover: Cat Burns
+> Necessities from LGBTQIA+ artists\. Cover: HAAi
 
-257 songs - 14 hr 7 min
+259 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [breakdown.](https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown\. \(Underworld Rework\)](https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4) | 2:43 | 2024-08-12 |  |
 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 | 2024-12-04 | 2025-01-14 |
 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 | 2024-12-04 | 2025-01-14 |
+| [Can't Stand To Lose](https://open.spotify.com/track/3RcHbUxNKu2rv1phft6pgw) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 4:52 | 2025-10-14 |  |
 | [Careless Whisper](https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:00 | 2024-10-07 | 2024-11-19 |
 | [Careless Whisper \- Remastered](https://open.spotify.com/track/5ac3D4hNLW7NFhYFCThXgh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Careless Whisper EP](https://open.spotify.com/album/1kpWzb7Wn81IhCagRN3InU) | 5:03 | 2024-12-04 | 2025-01-14 |
 | [Carnal](https://open.spotify.com/track/2wnnMeISG1gM0vXhsSQGeR) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Carnal](https://open.spotify.com/album/4wUzF46CYbhDC1IqSYgdUz) | 3:34 | 2025-06-09 | 2025-09-13 |
@@ -143,7 +144,7 @@
 | [Jennifer's Body](https://open.spotify.com/track/4LAvOwuLHkr13HseCOmGQ9) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1U4Mcmu6Lvbw9rruv9yGJO) | 1:57 | 2024-12-04 | 2025-01-14 |
 | [Joe](https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:07 | 2024-06-10 |  |
 | [Jumping the Gun](https://open.spotify.com/track/5TosBXH7iNMMn1Z5dc2FzZ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jumping the Gun](https://open.spotify.com/album/3JCPqLTVCsSgNiTfHJSRP8) | 3:11 | 2024-12-04 | 2025-01-14 |
-| [Jupiter](https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Crying The Neck](https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL) | 5:17 | 2025-07-07 |  |
+| [Jupiter](https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Crying The Neck](https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL) | 5:17 | 2025-07-07 | 2025-10-15 |
 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 | 2024-06-10 | 2025-03-14 |
 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 | 2024-06-10 | 2025-01-14 |
 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 | 2024-06-10 |  |
@@ -172,7 +173,7 @@
 | [Multiply](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 2:28 | 2024-06-10 | 2024-11-30 |
 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 | 2024-10-07 |  |
 | [Names Of Plants and Animals](https://open.spotify.com/track/6cgYh2ueFqHuHvVADvd0v4) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 2:46 | 2024-06-10 | 2024-08-04 |
-| [Needed You](https://open.spotify.com/track/7qoxNcIKxTNC3TzocVd7Pi) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Needed You](https://open.spotify.com/album/1YQ9TJ7YRjbhbHA9Uu3WCr) | 3:03 | 2025-06-09 |  |
+| [Needed You](https://open.spotify.com/track/7qoxNcIKxTNC3TzocVd7Pi) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Needed You](https://open.spotify.com/album/1YQ9TJ7YRjbhbHA9Uu3WCr) | 3:03 | 2025-06-09 | 2025-10-15 |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-06-10 |  |
 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 | 2025-01-14 |  |
 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 | 2024-06-10 |  |
@@ -248,6 +249,7 @@
 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 | 2024-12-04 | 2025-01-14 |
 | [Trouble](https://open.spotify.com/track/4Pt4Vdrd62VdIB5Ax1uHrZ) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Trouble](https://open.spotify.com/album/0uEAKarNQvGAihjnah3asA) | 3:39 | 2024-08-14 | 2024-09-10 |
 | [Ultrasound](https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ultrasound](https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui) | 2:36 | 2024-06-10 | 2024-09-10 |
+| [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 | 2025-10-14 |  |
 | [Wahoo](https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Wahoo](https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq) | 2:05 | 2025-07-07 | 2025-10-01 |
 | [we2assume2many2roles](https://open.spotify.com/track/3dr4RVjksmZV0wS28aRGot) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:18 | 2024-12-04 | 2025-01-14 |
 | [When I'm With You](https://open.spotify.com/track/30wDywCIhgLgseIJEYoDCI) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [When I'm With You](https://open.spotify.com/album/74ValgCpozFtv4j4cDmWGa) | 3:41 | 2025-01-14 | 2025-02-14 |

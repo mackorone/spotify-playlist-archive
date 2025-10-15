@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 170931,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup"
+      },
+      "artists": [
+        {
+          "name": "Mellow Boo",
+          "url": "https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -3036,7 +3054,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 151374,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
@@ -7128,7 +7146,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 256730,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"

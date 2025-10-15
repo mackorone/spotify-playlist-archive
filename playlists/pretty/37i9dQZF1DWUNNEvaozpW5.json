@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 600562,
+  "num_followers": 600800,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
-        "name": "La ruta de los sordos",
-        "url": "https://open.spotify.com/album/2cXuTpMQhp9CclJ1u7hSRq"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
-        }
-      ],
-      "duration_ms": 308386,
-      "name": "La ruta de los sordos",
-      "url": "https://open.spotify.com/track/3TInnzs9FJpUxuNSoWmdgJ"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
+        "name": "La ruta de los sordos",
+        "url": "https://open.spotify.com/album/2cXuTpMQhp9CclJ1u7hSRq"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 308386,
+      "name": "La ruta de los sordos",
+      "url": "https://open.spotify.com/track/3TInnzs9FJpUxuNSoWmdgJ"
     },
     {
       "added_at": "2025-10-09 22:31:52",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Todo Tiene Su Fin",
-      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
         "name": "El D\u00eda Que T\u00fa Te Marches",
         "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Todo Tiene Su Fin",
+      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
     },
     {
       "added_at": "2025-10-09 22:31:52",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
         "name": "Hoy por ayer",
         "url": "https://open.spotify.com/album/48j8YrmizfIUJXPCaSq8wm"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 235216,
       "name": "Hoy por ayer",
       "url": "https://open.spotify.com/track/5cPrq4ZnIJIDn1kKhC6DPv"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2025-10-09 22:31:52",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
-        "name": "Lobo hombre en Par\u00eds",
-        "url": "https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
-      "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
         "name": "Na de na",
         "url": "https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 227992,
       "name": "Na de na",
       "url": "https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
+        "name": "Lobo hombre en Par\u00eds",
+        "url": "https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "duration_ms": 249186,
+      "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
+      "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
     },
     {
       "added_at": "2025-10-09 22:31:52",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
-        "name": "Los Singles",
-        "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
-      },
-      "artists": [
-        {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "En Blanco Y Negro",
-      "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
         "name": "20 a\u00f1os de canciones",
         "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
+        "name": "Los Singles",
+        "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
+      },
+      "artists": [
+        {
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "En Blanco Y Negro",
+      "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
     },
     {
       "added_at": "2025-10-09 22:31:52",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
+        "name": "1973",
+        "url": "https://open.spotify.com/album/1Lotfo5byxZL9S3teWnwhd"
+      },
+      "artists": [
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "Cheques falsos",
+      "url": "https://open.spotify.com/track/02dbdKrytktRAeHCTMjQpJ"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
         "name": "Feo, fuerte y formal (feat. Dani Mart\u00edn)",
         "url": "https://open.spotify.com/album/3wXokuonlB83Gpln6kt6od"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 270350,
       "name": "Feo, fuerte y formal (feat. Dani Mart\u00edn)",
       "url": "https://open.spotify.com/track/4eNULXk6WZ39Tkhnu07nGF"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
-        "name": "1973",
-        "url": "https://open.spotify.com/album/1Lotfo5byxZL9S3teWnwhd"
-      },
-      "artists": [
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "Cheques falsos",
-      "url": "https://open.spotify.com/track/02dbdKrytktRAeHCTMjQpJ"
     },
     {
       "added_at": "2025-10-09 22:31:52",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2025-10-09 22:31:52",
       "album": {
-        "name": "Otra noche sin dormir",
-        "url": "https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL"
-      },
-      "artists": [
-        {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
-        },
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
-      "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
-    },
-    {
-      "added_at": "2025-10-09 22:31:52",
-      "album": {
         "name": "Idas Y Venidas",
         "url": "https://open.spotify.com/album/5xw1lxvbtdZP0UUXHACaQA"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
+    },
+    {
+      "added_at": "2025-10-09 22:31:52",
+      "album": {
+        "name": "Otra noche sin dormir",
+        "url": "https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL"
+      },
+      "artists": [
+        {
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+        },
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
+      "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
     },
     {
       "added_at": "2025-10-09 22:31:52",

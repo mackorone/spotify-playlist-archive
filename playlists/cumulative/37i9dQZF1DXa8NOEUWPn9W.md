@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring SIDEPIECE
 
-1,294 songs - 3 day 2 hr 39 min
+1,295 songs - 3 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Love Reigns](https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Reigns](https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30) | 4:54 | 2021-07-31 | 2022-08-06 |
 | [Love So Sweet](https://open.spotify.com/track/7HYhxCIvLGiMKRtG8SOo1B) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Love So Sweet](https://open.spotify.com/album/6MeMycEkeRLfx2uQnDEtTA) | 2:53 | 2021-08-14 | 2022-05-14 |
 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 | 2025-10-03 |  |
+| [Love The Right Way](https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Love The Right Way](https://open.spotify.com/album/0Sj2OyE8baABGE5iCPlXCM) | 3:12 | 2025-10-10 |  |
 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 | 2021-03-27\* | 2021-05-03 |
 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2021-10-23 | 2023-06-03 |
 | [Love We Had](https://open.spotify.com/track/6qOY5MMxZuN2DQGOJ6qSKR) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [Love We Had](https://open.spotify.com/album/5p4z0DLPnKPdxGqk1oTDE2) | 2:13 | 2021-03-27\* | 2021-05-15 |
@@ -1032,7 +1033,7 @@
 | [Smoke In Your Eyes](https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Smoke In Your Eyes](https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7) | 6:31 | 2023-12-22 | 2024-03-29 |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2022-12-28 | 2023-01-06 |
 | [SMYLM](https://open.spotify.com/track/4JRbEcUs01JZCFjN9hGE1E) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [SMYLM](https://open.spotify.com/album/47HatR4NP5jlPZs2VaX7aw) | 3:07 | 2025-08-01 |  |
-| [So & So](https://open.spotify.com/track/44cYxhkVbl6ATgsp2B9VZK) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [So & So](https://open.spotify.com/album/6APT3J7Qd9Gmz9UJyyVJjq) | 2:48 | 2025-05-09 |  |
+| [So & So](https://open.spotify.com/track/44cYxhkVbl6ATgsp2B9VZK) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [So & So](https://open.spotify.com/album/6APT3J7Qd9Gmz9UJyyVJjq) | 2:48 | 2025-05-09 | 2025-10-15 |
 | [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 | 2024-07-19 | 2025-03-22 |
 | [So Into You \- Jess Bays Remix](https://open.spotify.com/track/4ZlRUnBg4g2J9Ofdd5thdI) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [So Into You \(Jess Bays Remix\)](https://open.spotify.com/album/4z3axXmm846IjZRTh7PP4g) | 3:09 | 2021-03-27\* | 2021-07-17 |
 | [some ppl fall](https://open.spotify.com/track/09EesT84Crh7ngp4DFUiXc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [some ppl fall](https://open.spotify.com/album/6RmVbRd3t07KT4hQD9zkoU) | 3:23 | 2021-05-08 | 2022-06-10 |

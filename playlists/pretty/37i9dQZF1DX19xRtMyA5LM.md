@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: sor
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,153 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,165 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 28 | [BIG TIME](https://open.spotify.com/track/65GxOG5BAgTG6UaJqMc8jZ) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 3:10 |
 | 29 | [Go Shawty](https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Go Shawty](https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw) | 3:24 |
 | 30 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 |
-| 31 | [Borderline](https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Borderline](https://open.spotify.com/album/6HJ6xLe9h0jfT1wbIbHKYR) | 2:24 |
+| 31 | [Borderline](https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [COMFY](https://open.spotify.com/artist/3MJ30idGsmv4LvLWt3BvIu) | [Borderline](https://open.spotify.com/album/6HJ6xLe9h0jfT1wbIbHKYR) | 2:24 |
 | 32 | [Gebroken Harten](https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Gebroken Harten](https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z) | 2:31 |
 | 33 | [Laatste Nacht](https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:21 |
 | 34 | [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 |

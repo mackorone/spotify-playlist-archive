@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,436 likes - 60 songs - 3 hr 25 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,446 likes - 61 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 58 | [When Debbie's Back From Texas](https://open.spotify.com/track/0gHTUeFmeb0k2led76eJHn) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [And She Closed Her Eyes](https://open.spotify.com/album/13afX31wQfHT87BjRUFjU1) | 4:08 |
 | 59 | [Liggers at Your Funeral \- 2006 Remaster](https://open.spotify.com/track/3sOGX9DFkn3HJzpJbFLrGU) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 5:32 |
 | 60 | [Everglade](https://open.spotify.com/track/0RiPfGtEyv3nZVq3lUi7kR) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:21 |
+| 61 | [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 |
 
-Snapshot ID: `AAANRciroW1rg3lt+SPaP7Qs6CLOwlHW`
+Snapshot ID: `AAANRjLFmM+IUM82jlNSoKEikgpt0Qzl`

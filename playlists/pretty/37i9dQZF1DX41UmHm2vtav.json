@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 491985,
+  "num_followers": 492044,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,34 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "Baiana (With L-Gante)",
+        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Baiana - With L-Gante",
+      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "Oh! Chuva",
         "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
       },
@@ -591,54 +619,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Baiana (With L-Gante)",
-        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Baiana - With L-Gante",
-      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -663,26 +643,22 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Azul (Illusionize & Linkage Remix)",
-        "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Linkage",
-          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 198867,
-      "name": "Azul - Illusionize & Linkage Remix",
-      "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -703,6 +679,30 @@
       "duration_ms": 158095,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "Azul (Illusionize & Linkage Remix)",
+        "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Linkage",
+          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Azul - Illusionize & Linkage Remix",
+      "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -947,6 +947,38 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
+      },
+      "artists": [
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Kawz",
+          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -983,38 +1015,6 @@
       "duration_ms": 208615,
       "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
       "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
-        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
-        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
-      },
-      "artists": [
-        {
-          "name": "SOMETHING ELSE",
-          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
-        },
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Kawz",
-          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
-      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        },
-        {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
-        }
-      ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "Empezar Ganando",
         "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 160000,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        },
+        {
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "Summertime Sadness",
         "url": "https://open.spotify.com/album/68FOiKlSQI0SKc8exqAtVM"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 179512,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
-        "name": "Que Dia",
-        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Que Dia",
-      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
     },
     {
       "added_at": "2025-10-10 03:01:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,025 likes - 72 songs - 3 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,025 likes - 83 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,16 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 70 | [Pop That \(feat\. Lil Wayne\)](https://open.spotify.com/track/7tmeWuZzdU1HHM7ba03L2o) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Scarred B4 Fame](https://open.spotify.com/album/4JSRp5T76QCCo0TNVihYsm) | 3:29 |
 | 71 | [Sexy Soulaan](https://open.spotify.com/track/0xH565ykWKUrYdcizBbz30) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Sexy Soulaan](https://open.spotify.com/album/3ChMIwC91eiIA6KMJNq8EK) | 2:02 |
 | 72 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 |
+| 73 | [Right 1](https://open.spotify.com/track/3QHvjXm5lk9wX31HJl2JWj) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [Red Flags & Roses](https://open.spotify.com/album/0u9Od2IzOAMkcjKWcb8iy0) | 2:09 |
+| 74 | [FMB](https://open.spotify.com/track/2cVV3bwDceDchfxtvUDpbD) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [FMB](https://open.spotify.com/album/0SYt0GKTeUFYeSuFBhg8Cy) | 2:06 |
+| 75 | [Orchestra](https://open.spotify.com/track/418sG9q8N3xPn5iuYd9ddi) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Orchestra](https://open.spotify.com/album/2HiQlXVhSGSG5TjEtt3Lzb) | 2:54 |
+| 76 | [SAD PARTY](https://open.spotify.com/track/4zN8rcDtTCFBtE0foqIECS) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 3:08 |
+| 77 | [no dreads](https://open.spotify.com/track/2POwZGt3grb1E1eDbmuQBd) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [moo](https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat) | 1:57 |
+| 78 | [Break On You](https://open.spotify.com/track/6boig3F06I4HFQO5WaEkTN) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Break On You](https://open.spotify.com/album/4rjLxBy82PAKib3pu1SDx1) | 2:13 |
+| 79 | [WASSUP WIT IT](https://open.spotify.com/track/02iqkGzWVLtBSMx1Ir1x2p) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [WASSUP WIT IT](https://open.spotify.com/album/76O4qRPV4sOHZdx4edvnB6) | 2:19 |
+| 80 | [3PM @ DAIRY \- A COLORS SHOW](https://open.spotify.com/track/6XT5ILELReWhZ07kt49WIU) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [3PM @ DAIRY \- A COLORS SHOW](https://open.spotify.com/album/7BE152bvigRDYXzRgAjtoO) | 2:44 |
+| 81 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 |
+| 82 | [Dirty Money](https://open.spotify.com/track/1QKPpDuQ9UPHfKuZusKWrp) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Dirty Money](https://open.spotify.com/album/1WCLB1lfJxn8c4rbHbgkGP) | 2:46 |
+| 83 | [Down For You](https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:40 |
 
-Snapshot ID: `AAAmdn5DrSECUC2vxn7M1fFUmbuOeRZl`
+Snapshot ID: `AAAmgVkx0C57iCrcBKPcgtc9CZdQkGkL`

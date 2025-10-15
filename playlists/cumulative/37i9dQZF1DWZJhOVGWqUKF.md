@@ -2,7 +2,7 @@
 
 ### [Rock Rotation](https://open.spotify.com/playlist/37i9dQZF1DWZJhOVGWqUKF)
 
-> Sechs Saiten für ein Halleluja\. Cover: Hands Like Houses
+> Sechs Saiten für ein Halleluja\. Cover: Letters Sent Home
 
 694 songs - 1 day 15 hr 39 min
 

@@ -5095,6 +5095,32 @@
     },
     {
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0hKJ7pVTnaXEk63cKTZpFh"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "Gill Saab Music",
+          "url": "https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/5X0ndxwCNoorZjBwFhI0MX"
+    },
+    {
+      "album": {
         "name": "Scapegoat",
         "url": "https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N"
       },
@@ -5400,7 +5426,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 181223,
       "name": "Sone Da Gulaab",
       "url": "https://open.spotify.com/track/6e8O85kjw9Sn8RfERQ3nBk"

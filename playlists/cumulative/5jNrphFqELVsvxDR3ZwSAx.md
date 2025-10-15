@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-370 songs - 23 hr 48 min
+371 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Till It's Gone](https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Love Story](https://open.spotify.com/album/4mugszxpE45gV3mObOBlpN) | 4:35 | 2025-03-28 | 2025-07-19 |
 | [Time Waits For No One](https://open.spotify.com/track/2drbAkZsG7PSe1eVT5kRvy) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [Time Waits For No One](https://open.spotify.com/album/3HW23wGFz88IaTUIOdumfz) | 3:23 | 2022-05-18 | 2024-05-02 |
 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2024-05-01 |  |
+| [To Get Back To You](https://open.spotify.com/track/6RDzLN6l1GlOwfaM4hHed4) | [Nelson](https://open.spotify.com/artist/5jJcbGPjjyEhAoU02ynHaA) | [Lightning Strikes Twice](https://open.spotify.com/album/68bI1ZxqTmMYpOBSmsnpW4) | 5:51 | 2025-10-14 |  |
 | [Too Marvelous For Words](https://open.spotify.com/track/3SEfhncVQzSQrJHUGPj7v5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Autumn: The Best Of The Verve Years](https://open.spotify.com/album/0iLkD0Pudt7kr93aYLcKup) | 2:16 | 2025-03-28 |  |
 | [Too Much Love Will Kill You](https://open.spotify.com/track/4eFQWH7aVImqUcYSVMhgSz) | [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3) | [Too Much Love Will Kill You](https://open.spotify.com/album/7HyddfuzBhVp6Mm5aszvm5) | 4:28 | 2022-05-18 | 2024-05-02 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2025-04-26 | 2025-04-28 |

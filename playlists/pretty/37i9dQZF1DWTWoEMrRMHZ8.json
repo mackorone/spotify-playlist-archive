@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Chico",
-  "num_followers": 352755,
+  "num_followers": 352806,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
+        "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 189232,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Besame",
         "url": "https://open.spotify.com/album/0dpuGbA8Kh0mMZAXpk8Vjm"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 238426,
       "name": "Besame",
       "url": "https://open.spotify.com/track/0dAVXWXbMOiMrgoICYWzfq"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
-        "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Faltando Um Peda\u00e7o",
-        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
-      },
-      "artists": [
-        {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 230718,
-      "name": "Faltando Um Peda\u00e7o",
-      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
         "name": "PAULA TOLLER - AO VIVO - AMOROSA (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 204680,
       "name": "Nada Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/1mVrGsjVhqWGqLia5c0XN0"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
+        "name": "Faltando Um Peda\u00e7o",
+        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
+      },
+      "artists": [
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 230718,
+      "name": "Faltando Um Peda\u00e7o",
+      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "Nosso Caso",
+        "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
+      },
+      "artists": [
+        {
+          "name": "Clara Buarque",
+          "url": "https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "Nosso Caso",
+      "url": "https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Praia do Futuro",
         "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 321115,
       "name": "Praia do Futuro",
       "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Nosso Caso",
-        "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
-      },
-      "artists": [
-        {
-          "name": "Clara Buarque",
-          "url": "https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt"
-        },
-        {
-          "name": "Tom Veloso",
-          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "Nosso Caso",
-      "url": "https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "FOI NO S\u00c3O JO\u00c3O",
-        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 189589,
-      "name": "FOI NO S\u00c3O JO\u00c3O",
-      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
         "name": "Pagode da Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 180982,
       "name": "Cheia de Manias",
       "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
+        "name": "FOI NO S\u00c3O JO\u00c3O",
+        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 189589,
+      "name": "FOI NO S\u00c3O JO\u00c3O",
+      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 226484,
+      "name": "Maravilhosamente Bem",
+      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Eu Vivendo Nossa Vida",
         "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "MARAVILHOSAMENTE BEM",
-        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
         }
       ],
-      "duration_ms": 226484,
-      "name": "Maravilhosamente Bem",
-      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1283,22 +1299,6 @@
       "duration_ms": 217840,
       "name": "Na Ronda",
       "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
-      },
-      "artists": [
-        {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/4hPb35aku78HAdP73n2lBX"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 228072,
       "name": "Apocalipse",
       "url": "https://open.spotify.com/track/5ycVVsFuS5kGNOQ8hnIMD1"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Jo\u00e3o Bosco: \"Cors\u00e1rio\" and guests Jaques Morelenbaum, Mestrinho e Vanessa Moreno (Live at Rio Montreux Jazz Festival)",
         "url": "https://open.spotify.com/album/4lRSnuu8YXHO6dFCPVQJF4"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 279549,
       "name": "O B\u00eabado e a Equilibrista - Live At Rio Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/3cQX0fVeZfhgTDfYxEyJCm"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
         "name": "O Sino Da Igrejinha",
         "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Pra voc\u00ea poder chegar",
-        "url": "https://open.spotify.com/album/08crnatWWV8TAUG3rnxmC2"
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
       },
       "artists": [
         {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
         }
       ],
-      "duration_ms": 117646,
-      "name": "Pra voc\u00ea poder chegar",
-      "url": "https://open.spotify.com/track/1cj41zF5DVY9hwLFpPhPNB"
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1671,6 +1655,22 @@
       "duration_ms": 267448,
       "name": "Pr\u00f3xima",
       "url": "https://open.spotify.com/track/6QAphFOhQzdC4nW2F775Jf"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
+        "name": "Pra voc\u00ea poder chegar",
+        "url": "https://open.spotify.com/album/08crnatWWV8TAUG3rnxmC2"
+      },
+      "artists": [
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "duration_ms": 117646,
+      "name": "Pra voc\u00ea poder chegar",
+      "url": "https://open.spotify.com/track/1cj41zF5DVY9hwLFpPhPNB"
     },
     {
       "added_at": "2025-10-04 00:25:41",

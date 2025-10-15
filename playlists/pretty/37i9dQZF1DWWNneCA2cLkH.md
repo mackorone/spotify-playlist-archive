@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: rileyfromearth
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,240 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,242 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [moveshake](https://open.spotify.com/track/1sBypjVNISHaKhe22KobXf) | [Riley From Earth](https://open.spotify.com/artist/1b3TTtQOOT6oVnL4e8dtF3) | [seedlings](https://open.spotify.com/album/4J276gFoDGkKwUUc11PWOd) | 3:47 |
 | 2 | [Aftercare](https://open.spotify.com/track/3diZX2kzW2J4q07gQG8Dn4) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [ai.mogen](https://open.spotify.com/artist/77mYai06p9Ju6y5pyGBH4C) | [Aftercare](https://open.spotify.com/album/2gA5asLII9UqwEi4269tYl) | 3:58 |
-| 3 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
+| 3 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
 | 4 | [might be](https://open.spotify.com/track/2MtezU3JSKdkZy0daWH8JH) | [King Howe](https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV) | [might be](https://open.spotify.com/album/1slM9fl70gARaBBxWXCYzC) | 3:22 |
 | 5 | [Eternity \(Breezing By\)](https://open.spotify.com/track/4RKRYGEsmdNXBLvntOhFII) | [IMU](https://open.spotify.com/artist/61hkhlXTqU1UZjcgMqoHNj), [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [IMU present The Ultra Hidden \(Cryptic\) Doctrine](https://open.spotify.com/album/25cJTWqfKFu2aPF6XHZAUE) | 4:22 |
 | 6 | [See You in Everyone](https://open.spotify.com/track/6eunHrBuu3ftWdWIntSfvF) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Blush Response](https://open.spotify.com/album/11wZb9A2jAk54mXF9FXM2r) | 3:30 |

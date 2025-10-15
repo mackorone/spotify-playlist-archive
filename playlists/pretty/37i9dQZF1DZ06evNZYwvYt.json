@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19319,
+  "num_followers": 19328,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAAAyNqt/b3O+iNdsHAu7tyf4",
+  "snapshot_id": "aOxBAAAAAADCU8atcaMHUeTtRaTpH9Qc",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Mar de nubes",
-      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
+      "duration_ms": 278000,
+      "name": "El espacio",
+      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 278000,
-      "name": "El espacio",
-      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
+      "duration_ms": 244000,
+      "name": "Mar de nubes",
+      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resiste M\u00e1s Que Yo (En Vivo)",
         "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 359233,
       "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 297106,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT"
+      "duration_ms": 215946,
+      "name": "Br\u00edgida",
+      "url": "https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 215946,
-      "name": "Br\u00edgida",
-      "url": "https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs"
+      "duration_ms": 297106,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT"
     },
     {
       "added_at": null,

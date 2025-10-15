@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,434 songs - 3 day 7 hr 2 min
+1,435 songs - 3 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Cora Roto \(feat\. Pailita\)](https://open.spotify.com/track/4V3Rot65GZVEryNNwJ16HZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:37 | 2024-03-30 | 2024-05-05 |
 | [Corazon de piedra](https://open.spotify.com/track/4XS819VZRrijriqCriZXMU) | [Grupo disparo](https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU) | [Corazon de piedra](https://open.spotify.com/album/03q7hYfCwdH9e7UKMAxCBh) | 3:09 | 2024-09-20 | 2024-09-22 |
 | [Corazones <3](https://open.spotify.com/track/7uQEpPm1Om86oqGo4PGR5d) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 2:41 | 2025-03-08 | 2025-05-11 |
-| [Corazón de Piedra](https://open.spotify.com/track/3ZI02Zy37d6aPjezlg57SB) | [Grupo Disparo](https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU) | [Corazón de Piedra](https://open.spotify.com/album/4Yt8mKsNL5Nj56ECUNYIjo) | 3:09 | 2025-09-15 |  |
+| [Corazón de Piedra](https://open.spotify.com/track/3ZI02Zy37d6aPjezlg57SB) | [Grupo Disparo](https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU) | [Corazón de Piedra](https://open.spotify.com/album/4Yt8mKsNL5Nj56ECUNYIjo) | 3:09 | 2025-09-15 | 2025-10-15 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-07-29 | 2023-09-10 |
 | [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-09 | 2023-10-10 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-24 | 2023-10-15 |
@@ -1162,6 +1162,7 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:11 | 2022-09-15 | 2022-09-24 |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-06 | 2022-09-12 |
 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 | 2025-07-03 |  |
+| [Si Te Vas](https://open.spotify.com/track/35NTHnL0y4xr5JEmnnxsoj) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Si Te Vas](https://open.spotify.com/album/3dPb6v1OMvV0OcSSHYwPfn) | 2:41 | 2025-10-14 |  |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-05-12 | 2021-09-19 |
 | [Si Te Veo](https://open.spotify.com/track/661BAtQVPGlDZ097DzN1hJ) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los Favoritos 2.5](https://open.spotify.com/album/1VkgKNe63Fqsyc7gRPQ1qC) | 4:15 | 2021-09-19 | 2021-10-17 |
 | [Si Tu Me Amaras](https://open.spotify.com/track/10u4VWraLZ11bJ0uFMp9Lk) | [Entremares](https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU) | [El Amor en 48 Compases](https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ) | 2:26 | 2024-09-18 | 2025-09-21 |

@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-165 songs - 9 hr 45 min
+166 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [from the ending of a tragedy](https://open.spotify.com/track/4M6jP0RbcvSg14eL4RrsaS) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:09 | 2021-07-09 |  |
 | [from the ending of a tragedy](https://open.spotify.com/track/7rfyK5CqNvDHC4EtZ0hfuE) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:09 | 2021-07-09 | 2024-04-19 |
 | [Get The Hell Out](https://open.spotify.com/track/54Nmnszi5JHkDad4HJ5Cul) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 2:46 | 2024-03-20 |  |
+| [Go Beyond](https://open.spotify.com/track/0w8ddKG2kK1qCB32MD69Bd) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pokémon \| Go Beyond \(Original Soundtrack\)](https://open.spotify.com/album/2IXb6EGopOow180L0ySbC1) | 2:53 | 2025-10-15 |  |
 | [Goodbye Winter](https://open.spotify.com/track/30HClBbNNXeXezYzJzjT6e) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 3:07 | 2020-05-12 | 2024-04-19 |
 | [Goodbye Winter](https://open.spotify.com/track/6cf0GCjuqAwlfFDrNLlhtw) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:07 | 2020-05-12 |  |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2021-09-07 |  |

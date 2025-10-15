@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > loko esse tracksuit hein chefe?!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,348 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,512 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 40 | [Belieber](https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 1:47 |
 | 41 | [Pente 270!](https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [DOIS Quebrada Inteligente](https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY) | 3:41 |
 | 42 | [Suiça](https://open.spotify.com/track/7k64Ai8ccdFIto421PrILd) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [808 CLUB: AFTER](https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr) | 2:18 |
-| 43 | [Lido com Crises](https://open.spotify.com/track/62J64HBcLb6j0DeWgwD4SU) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [Lido com Crises](https://open.spotify.com/album/25dMLQV3ZW4GrZVBKgxSTV) | 2:58 |
+| 43 | [LIDO COM CRISES](https://open.spotify.com/track/62J64HBcLb6j0DeWgwD4SU) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [LIDO COM CRISES](https://open.spotify.com/album/25dMLQV3ZW4GrZVBKgxSTV) | 2:58 |
 | 44 | [Uma ligação](https://open.spotify.com/track/64ss3DqHafaIu9bj5leXsO) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ike Avila](https://open.spotify.com/artist/3JPkFqx7D94uZRYUnNlfMh), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Uma ligação](https://open.spotify.com/album/0m2i8QYwPsdt2J0qKXGwcP) | 2:51 |
 | 45 | [MOTIVO](https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV) | [MOTIVO](https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB) | 2:46 |
 | 46 | [NOITE PERFEITA](https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:48 |

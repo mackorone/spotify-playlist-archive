@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: roi bobb
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: roi bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,826 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,831 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [あなたに夢中](https://open.spotify.com/track/60jrIj5MI8PSWL5nbTWcwp) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [あなたに夢中](https://open.spotify.com/album/3pyBcyKuqIS8JDJKr7BqeP) | 4:52 |
 | 80 | [さよならファンタジア](https://open.spotify.com/track/2D547Y1mDVsWRwPquQaGJY) | [間々田優](https://open.spotify.com/artist/62cuK4oxcgdZwouQUbzgw4) | [タイポグリセミア](https://open.spotify.com/album/3dWgsdLgPnDMYmfDJFl40n) | 3:35 |
 
-Snapshot ID: `AAAAAMPdUfzGO7XY1vCstrT//kv0okzT`
+Snapshot ID: `AAAAAIuDA9lvWtGt+extHT6RY78QI6r5`

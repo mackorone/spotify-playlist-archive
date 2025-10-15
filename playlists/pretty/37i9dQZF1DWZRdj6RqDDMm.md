@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,162 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,210 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 58 | [Water To Wine II](https://open.spotify.com/track/098v5JfAkcbL8uafblsOuM) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [Water To Wine II](https://open.spotify.com/album/0UNA9wZnVS3JDfA1uJu3VN) | 3:49 |
 | 59 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
 | 60 | [Baba](https://open.spotify.com/track/232eeADNA3bz9OmurYANKQ) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Baba](https://open.spotify.com/album/51wJ2YFD6Ci13LEOQPInqj) | 2:55 |
-| 61 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
+| 61 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/3zq1rVKwSM61vtf2NxOTAH) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
 | 62 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 |
 | 63 | [Jesus](https://open.spotify.com/track/7IuiH0WfXnzIyKqgp9MwL9) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [The Road Best Travelled](https://open.spotify.com/album/7mlcnYrdZSLwKh5qgPvdXG) | 3:14 |
 | 64 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |

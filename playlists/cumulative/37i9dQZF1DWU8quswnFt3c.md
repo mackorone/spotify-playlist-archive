@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Alice Phoebe Lou
 
-2,635 songs - 6 day 1 hr 52 min
+2,636 songs - 6 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Affable Dork](https://open.spotify.com/track/2gcYt3SKCNbXzCquDxDfDG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Affable Dork](https://open.spotify.com/album/2Ocf5CSTHwhNfPeA173Tgo) | 4:19 | 2022-08-03 | 2022-09-09 |
 | [African Fever](https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:27 | 2021-12-11 | 2022-01-06 |
 | [Afromantik](https://open.spotify.com/track/1Ve0m4eghzmDS7AsST9757) | [Marga Mbande](https://open.spotify.com/artist/6HVtYOLn1Ap6DJJ1aOg43s) | [Afromantik](https://open.spotify.com/album/4dRuaBITozwhYG1lMitSLL) | 2:58 | 2023-10-11 | 2023-10-19 |
-| [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 | 2025-09-17 |  |
+| [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 | 2025-09-17 | 2025-10-15 |
 | [Agapi Ypervoliki \- 2023 Version](https://open.spotify.com/track/06RkoxeiyiL0I1Hfpt4Zew) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [Agapi Ypervoliki \(2023 Version\)](https://open.spotify.com/album/1cFK4HC3ffxOZosr1TrXtm) | 3:23 | 2023-11-29 | 2024-01-11 |
 | [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 | 2024-09-18 | 2024-10-17 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-10-02 | 2024-10-17 |
@@ -1968,7 +1968,7 @@
 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 | 2024-07-03 | 2024-07-18 |
 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 | 2025-02-19 | 2025-04-03 |
 | [Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:08 | 2024-09-04 | 2024-12-05 |
-| [Sintrimmia](https://open.spotify.com/track/5YEyucJqi9bod0qEq4dhcg) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:49 | 2025-10-01 |  |
+| [Sintrimmia](https://open.spotify.com/track/5YEyucJqi9bod0qEq4dhcg) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:49 | 2025-10-01 |  |
 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 | 2025-06-04 | 2025-07-03 |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-01-05 | 2022-02-03 |
 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-07-03 | 2024-09-05 |
@@ -2405,6 +2405,7 @@
 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 | 2023-03-05 | 2023-04-06 |
 | [Wytrzymam](https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Wytrzymam](https://open.spotify.com/album/2NKBpcoWvoqam8c3JlBUYf) | 4:03 | 2023-02-01 | 2023-03-02 |
 | [x si te sirve](https://open.spotify.com/track/1Yb75cVuG5nejZNvtj6KZC) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Kingstein](https://open.spotify.com/artist/46wyRUFQEBgfX2ncYxPBjG) | [x si te sirve](https://open.spotify.com/album/6r9pw2yyjEv5w4pkV4P8f3) | 1:41 | 2023-11-08 | 2023-11-30 |
+| [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 | 2025-10-14 |  |
 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 | 2023-02-01 | 2023-03-02 |
 | [Xin loi anh qua phien](https://open.spotify.com/track/0ZJcKRLc0dZp24G6MkvSnq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Ten On Ten](https://open.spotify.com/album/7nKT6mGRVlK7P6JZEMIvgX) | 4:05 | 2022-04-06 | 2022-05-05 |
 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 | 2025-01-08 | 2025-05-08 |

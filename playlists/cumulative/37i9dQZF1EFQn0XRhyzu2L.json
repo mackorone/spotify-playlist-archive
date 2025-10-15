@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Empire: Music From 'Without A Country'",
+        "url": "https://open.spotify.com/album/6klL39wpPDD7Ojnin5DtyU"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Born to Love U (feat. Jussie Smollett)",
+      "url": "https://open.spotify.com/track/2RfZwGjbRuf897vJiPaURW"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 2",
         "url": "https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5"
       },
@@ -946,7 +968,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 215693,
       "name": "Born to Love U (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/66M603Q0gXv8qaM3IFiPrA"
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Architrackz
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,499 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,492 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piepen In Me Mind](https://open.spotify.com/track/2nZUxI5qcJms95xjtaSxS9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Piepen In Me Mind](https://open.spotify.com/album/4cIPBTeADtNTPKn5l8vcuQ) | 2:17 |
-| 2 | [Act Like That](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Act Like That](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
+| 2 | [act like that](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [act like that](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
 | 3 | [KANDE \(feat\. La Rouge\)](https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [La Rouge](https://open.spotify.com/artist/0gHpIfv815XYSaH0m3X08y) | [GIOVANNI II](https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA) | 3:08 |
 | 4 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 | 5 | [RING](https://open.spotify.com/track/1LVpU2PFXy5r3Ya21YwuHu) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [RING](https://open.spotify.com/album/3NYBdkNGMXjWNn6fFPcZek) | 2:21 |

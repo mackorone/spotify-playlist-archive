@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: TWICE",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: NMIXX",
   "name": "Stargirl vibes",
   "tracks": [
     {
@@ -3858,6 +3858,24 @@
       "duration_ms": 177898,
       "name": "Burning Flower",
       "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
+    },
+    {
+      "album": {
+        "name": "BURNING UP",
+        "url": "https://open.spotify.com/album/7fXV48Cb6oovOhREBeQgaV"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "BURNING UP",
+      "url": "https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q"
     },
     {
       "album": {
@@ -10564,7 +10582,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/4mNPtNfIp4vSlW2z0I7Bgm"

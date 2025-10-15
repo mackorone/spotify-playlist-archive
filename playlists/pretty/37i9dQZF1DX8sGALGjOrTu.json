@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 523545,
+  "num_followers": 523629,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "The Artist In The Ambulance",
-      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Page Avenue",
         "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 216026,
       "name": "Anthem of Our Dying Day",
       "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 216293,
       "name": "The Words \"Best Friend\" Become Redefined",
       "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Second Stage Turbine Blade (Re-Issue)",
-        "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
+        "name": "Lead Sails Paper Anchor",
+        "url": "https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 287866,
-      "name": "Devil In Jersey City",
-      "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
+      "duration_ms": 222599,
+      "name": "Becoming the Bull",
+      "url": "https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -879,18 +879,34 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Lead Sails Paper Anchor",
-        "url": "https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD"
+        "name": "The Second Stage Turbine Blade (Re-Issue)",
+        "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
         }
       ],
-      "duration_ms": 222599,
-      "name": "Becoming the Bull",
-      "url": "https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1"
+      "duration_ms": 287866,
+      "name": "Devil In Jersey City",
+      "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "30 Seconds To Mars",
+        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Capricorn (A Brand New Name)",
+      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -923,22 +939,6 @@
       "duration_ms": 247386,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "30 Seconds To Mars",
-        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Capricorn (A Brand New Name)",
-      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Question",
-        "url": "https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet"
-      },
-      "artists": [
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
-        }
-      ],
-      "duration_ms": 210986,
-      "name": "Studying Politics",
-      "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 224346,
       "name": "Mouths Like Sidewinder Missles",
       "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 210986,
+      "name": "Studying Politics",
+      "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+        "name": "Dream to Make Believe",
+        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
       },
       "artists": [
         {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Mu Empire",
-      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+      "duration_ms": 181293,
+      "name": "Dream to Make Believe",
+      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Dream to Make Believe",
-        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
       "artists": [
         {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Dream to Make Believe",
-      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
+      "duration_ms": 224973,
+      "name": "Mu Empire",
+      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Anti Mother",
-        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 280546,
-      "name": "Surrender Your Sons",
-      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "From Them, Through Us, To You",
         "url": "https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216520,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "The Anti Mother",
+        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 280546,
+      "name": "Surrender Your Sons",
+      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
     },
     {
       "added_at": "2024-10-03 21:26:43",

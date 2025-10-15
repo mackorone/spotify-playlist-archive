@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,092 songs - 1 day 18 hr 11 min
+1,093 songs - 1 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Extra Dip](https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Neon Clouds](https://open.spotify.com/album/4jyODUlcuHPFMewe3HpJmz) | 2:26 | 2022-05-13 | 2023-11-17 |
 | [Faces](https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Faces](https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K) | 1:53 | 2023-12-22 | 2025-05-24 |
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-14 | 2025-05-07 |
-| [Fade](https://open.spotify.com/track/4Ufd6IR9Ucbue9ewTtRQ4k) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Fade](https://open.spotify.com/album/3o90vb7bi3jhqkdpML6d8c) | 2:30 | 2025-10-10 |  |
+| [Fade](https://open.spotify.com/track/4Ufd6IR9Ucbue9ewTtRQ4k) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Fade](https://open.spotify.com/album/3o90vb7bi3jhqkdpML6d8c) | 2:30 | 2025-10-10 | 2025-10-15 |
 | [Faded Reality](https://open.spotify.com/track/0tCZQX1rmVLrcR9OMRwRFq) | [X3V](https://open.spotify.com/artist/1vCTniHcObS9QKWViplT3O) | [Faded Reality](https://open.spotify.com/album/5d4yOhluFMZecTQpLNSZPf) | 2:12 | 2025-02-07 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2022-04-15 | 2025-07-10 |
 | [Falcon](https://open.spotify.com/track/2ayC31AGGoGHISl3BP0qSs) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Falcon](https://open.spotify.com/album/71xM5XgklqQxrh2AZaoaNY) | 2:53 | 2024-06-28 | 2025-06-14 |
@@ -458,6 +458,7 @@
 | [Keen](https://open.spotify.com/track/51Ie5gtGGban5Lff22PCzX) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:56 | 2022-11-11 | 2023-10-06 |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2022-04-15 | 2022-09-24 |
 | [Kefee](https://open.spotify.com/track/3u2oG4972XhEOlperXGRH3) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Kefee](https://open.spotify.com/album/51yJIB1fdoRc67Y1kDIAYO) | 2:48 | 2022-11-25 | 2023-10-13 |
+| [Kensington Market](https://open.spotify.com/track/5ZfvNz8pTnaN0B5gLtyvFJ) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Kensington Market](https://open.spotify.com/album/6nZWV24MF8q47IdOA8rrfM) | 2:03 | 2025-10-10 |  |
 | [Kickflip](https://open.spotify.com/track/30Viqy8zblL4VuZLSFaEGL) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Kickflip](https://open.spotify.com/album/7lD2UGzFinJkFF7IpS3Vjl) | 1:50 | 2022-12-09 | 2023-10-06 |
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-15 | 2022-05-27 |
 | [Knox U](https://open.spotify.com/track/4STt3ABfGPhaT0OhKRKanc) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Knox U](https://open.spotify.com/album/2OIOLhlLiMhZM0YHnTfTpy) | 2:40 | 2022-04-15 | 2025-07-10 |

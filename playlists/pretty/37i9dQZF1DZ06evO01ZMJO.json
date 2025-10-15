@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 22881,
+  "num_followers": 22895,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAACIt4n9bgOSnKpm6eFV6eOv",
+  "snapshot_id": "aOxBAAAAAAD9F0zhbS/p2l824UeOFgpv",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        }
+      ],
+      "duration_ms": 158986,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thunderbolt (Outsiders Remix)",
         "url": "https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 147023,
       "name": "Thunderbolt (Outsiders Remix)",
       "url": "https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        }
-      ],
-      "duration_ms": 158986,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jouw Blik (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/3WfqR2964SBkPhpMadS3eh"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        }
+      ],
+      "duration_ms": 313536,
+      "name": "Jouw Blik - Outsiders Remix",
+      "url": "https://open.spotify.com/track/7GOslRvDbMGO3gwxmzNP01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Magnifico (Jump Remix)",
         "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
       },
@@ -647,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jouw Blik (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/3WfqR2964SBkPhpMadS3eh"
+        "name": "Zing Met Me Mee (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/5KaBtnKJkQ388ggiNgDBLA"
       },
       "artists": [
         {
@@ -656,13 +676,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
         }
       ],
-      "duration_ms": 313536,
-      "name": "Jouw Blik - Outsiders Remix",
-      "url": "https://open.spotify.com/track/7GOslRvDbMGO3gwxmzNP01"
+      "duration_ms": 236129,
+      "name": "Zing Met Me Mee - Outsiders Remix",
+      "url": "https://open.spotify.com/track/01JUWoazQfT78YAzhh1eqQ"
     },
     {
       "added_at": null,
@@ -683,26 +703,6 @@
       "duration_ms": 211519,
       "name": "Rebls 4 Life",
       "url": "https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zing Met Me Mee (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/5KaBtnKJkQ388ggiNgDBLA"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Zing Met Me Mee - Outsiders Remix",
-      "url": "https://open.spotify.com/track/01JUWoazQfT78YAzhh1eqQ"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Das Armas",
-        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Das Armas",
-      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Die",
         "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 200620,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Das Armas",
+        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Das Armas",
+      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
     },
     {
       "added_at": null,

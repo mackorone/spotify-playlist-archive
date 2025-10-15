@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-95 songs - 4 hr 9 min
+97 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [741 Hz Clear Thought Chorus](https://open.spotify.com/track/67j0AhzrXOmgB9fv7R2I3w) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [741 Hz Clear Thought Chorus](https://open.spotify.com/album/5cQPlxJkJJVC16MAAHl2YV) | 2:23 | 2024-05-11 |  |
 | [741 Hz Deepened Gaze](https://open.spotify.com/track/41ZqKmkwsLCtCCPyjfwNIv) | [Heartbeat Sirens](https://open.spotify.com/artist/2QGCx78xpOiCXoKRvJMEYY) | [741 Hz Deepened Gaze](https://open.spotify.com/album/6vgwSkTE1dgmO4WYMNBMRH) | 2:59 | 2023-11-30 |  |
 | [741 Hz Detox](https://open.spotify.com/track/60i0X2xmPVXLwanR9Fj79y) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [741 Hz Detox](https://open.spotify.com/album/3XvuwtMjebQGFL7KL97RPd) | 2:51 | 2024-11-07 |  |
+| [741 Hz Espresso](https://open.spotify.com/track/1UsjxRwCowswm5PP4uKGUw) | [Will Parth](https://open.spotify.com/artist/41TSK1OcULHDlcQkdfTE1C) | [741 Hz Espresso](https://open.spotify.com/album/3w6ea49p2GHpU1N1jeCkSm) | 2:33 | 2025-10-14 |  |
 | [741 Hz Expressive Currents](https://open.spotify.com/track/3BlokUFLQCWY0p6xV8bFGW) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [741 Hz Expressive Currents](https://open.spotify.com/album/4aHbYcpEdOGipglEJ70pr4) | 2:34 | 2024-11-07 |  |
 | [741 Hz Gentle Breathing](https://open.spotify.com/track/45mF3fxXkhXGHldyZy3k2a) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:22 | 2023-03-10 | 2023-08-08 |
 | [741 Hz Inner Map to Solutions](https://open.spotify.com/track/4hQU7ng6pFv3Iq7xUXH7xg) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [741 Hz Inner Map to Solutions](https://open.spotify.com/album/62OsYdnfNcA3APCN3hFkNT) | 2:47 | 2025-05-06 |  |
@@ -97,6 +98,7 @@
 | [Throat Chakra Activation \(741 Hz\)](https://open.spotify.com/track/28W7aTw5YlT1Xa1bmAJfgR) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [The Throat Chakra: Vishuddha](https://open.spotify.com/album/3vm2MExrxtgSimqimrzGQd) | 1:03 | 2023-03-10 | 2024-03-14 |
 | [Throat Solfeggio 741 Hz](https://open.spotify.com/track/3srb1tARH6ehOeLKrdKxTr) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:55 | 2023-11-30 |  |
 | [Trippertronics 741 Hz](https://open.spotify.com/track/3wv1IHXCSUIeN1rnPkufvH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:53 | 2023-11-30 |  |
+| [Unlock 741 Hz](https://open.spotify.com/track/7mqUY2oqHtCTSaNOM0cJO9) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Unlock 741 Hz](https://open.spotify.com/album/5Iy6aDQHEuKA1JssRSK92X) | 2:42 | 2025-10-14 |  |
 | [Vinculum](https://open.spotify.com/track/4DILz6kUaczn1PRPNrMbCa) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:46 | 2023-03-10 |  |
 | [Vishuddha \(741hz\)](https://open.spotify.com/track/3AVThTFS4S4Ol9ZfLfkZ78) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/5UEVsKVyAtDvh9B5o3YmYM) | 1:49 | 2023-03-10 | 2024-02-02 |
 | [Vishuddha \(741hz\)](https://open.spotify.com/track/6R9uMqBZRyanEMjSa60jZj) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/20laVtUmPgjplNxrC4HHXc) | 1:49 | 2023-11-30 | 2024-03-14 |

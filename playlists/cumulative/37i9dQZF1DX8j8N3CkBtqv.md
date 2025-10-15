@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Bawari Basanti, Naalayak and other exciting artists.
 
-1,191 songs - 2 day 16 hr 55 min
+1,192 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Chaahat Bhi Hai](https://open.spotify.com/track/61y9RUzyG5MvZ89Az178iW) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Chaahat Bhi Hai](https://open.spotify.com/album/2HFNRHtU8x0WbI0mMdugmi) | 3:01 | 2024-12-13 | 2025-01-11 |
 | [Chaahat Ka Maara](https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Chaahat Ka Maara](https://open.spotify.com/album/7HvKn1CXqHiJFrTosZHk2G) | 2:38 | 2024-06-28 | 2024-08-03 |
 | [Chaand](https://open.spotify.com/track/1pJHEsf9NFpm9bX9upgrHl) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Chaand](https://open.spotify.com/album/4H2Ke9l5953vvOfmsXHVOG) | 3:52 | 2023-08-18 | 2023-09-16 |
+| [Chaand](https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Chaand](https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW) | 2:51 | 2025-10-10 |  |
 | [Chaand Naya](https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Chaand Naya](https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV) | 2:29 | 2024-05-10 | 2024-06-29 |
 | [Chaand Ye Taare](https://open.spotify.com/track/6ubWEMPGH6hHcjv7QATbpR) | [Shriya Jain](https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ), [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Chaand Ye Taare](https://open.spotify.com/album/7Ily4txr7VnJ7pBW3SuHYl) | 3:08 | 2024-09-27 | 2024-11-15 |
 | [Chaanv Hai](https://open.spotify.com/track/6et8mGYy2VE7ZMU6PpyU9x) | [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ), [Big Bat Music](https://open.spotify.com/artist/1qdkjvezv6kU0Cci6dRqrj) | [Chaanv Hai](https://open.spotify.com/album/46BdOyo8mMPZgFiIOnX0GW) | 3:15 | 2023-09-08 | 2023-10-07 |
@@ -1152,7 +1153,7 @@
 | [Watch Out](https://open.spotify.com/track/16H86xNadfBh4Iyt7u3idn) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1), [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Watch Out](https://open.spotify.com/album/2uG4yn7ol8ohmFJfLBWIpf) | 4:02 | 2023-08-18 | 2023-09-16 |
 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-04 | 2025-07-19 |
 | [We Made Us](https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2) | [Vaani Bhasin](https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS) | [We Made Us](https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka) | 3:36 | 2023-04-14 | 2023-05-20 |
-| [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 | 2025-09-19 |  |
+| [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 | 2025-09-19 | 2025-10-15 |
 | [What Sets Us Free](https://open.spotify.com/track/7AwzT0d2EC7KDeACKSHKSH) | [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [What Sets Us Free](https://open.spotify.com/album/4KjF2Qr2QOD93cC6jKXG4v) | 2:55 | 2024-11-08 | 2024-12-21 |
 | [What To do](https://open.spotify.com/track/0mrh7hdwT3Ro6lk2WhsEe2) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [Aarushi Tiwari](https://open.spotify.com/artist/2rrOnGJP6uq1I54RsDyvXn) | [What To Do](https://open.spotify.com/album/0hG1JnmOReNDz5y8syprXu) | 3:03 | 2024-11-08 | 2024-11-30 |
 | [When We Feel Young \- Nature Tapes](https://open.spotify.com/track/7D3Ye9VMbfDXU78FtR3pFt) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nature Tapes, Vol\. 1](https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA) | 5:04 | 2024-05-31 | 2024-07-13 |

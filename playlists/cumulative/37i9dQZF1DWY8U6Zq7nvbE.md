@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-465 songs - 1 day 1 hr 10 min
+466 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Attention \- Acoustic](https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic + Remixes\)](https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP) | 3:26 | 2021-03-11 | 2022-12-02 |
 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 | 2023-08-10 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-31 | 2023-10-28 |
-| [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-10 |  |
+| [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-10 | 2025-10-15 |
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2021-03-11 | 2022-09-01 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-03-11 | 2025-03-18 |
 | [Beautiful Scars \- Acoustic](https://open.spotify.com/track/46zaR58Xb71HqoR5CTbQAX) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Beautiful Scars \(Acoustic\)](https://open.spotify.com/album/5w1phdvfMwgxO6frWZVdg2) | 2:38 | 2021-03-11 | 2022-11-26 |
@@ -148,6 +148,7 @@
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2022-10-14 | 2022-11-26 |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2022-10-14 | 2022-11-26 |
 | [Empty love](https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Empty Love](https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db) | 3:30 | 2023-03-09 | 2023-10-28 |
+| [End of Beginning](https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2) | [Mellow Boo](https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp) | [End of Beginning](https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup) | 2:36 | 2025-10-14 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2023-06-09 | 2023-12-15 |
 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 | 2023-05-12 |  |
 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\] \- Acoustic](https://open.spotify.com/track/4D09e1TfOMbuMadTLcl1P6) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\] \[Acoustic\]](https://open.spotify.com/album/4GReJagRcBTMq97kYMU7Zy) | 2:53 | 2021-03-11 | 2022-12-02 |
@@ -170,7 +171,7 @@
 | [forgive](https://open.spotify.com/track/0cM5MPgaVH4aHrxA85s7Gm) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [forgive](https://open.spotify.com/album/4yhwtGTDnJvodkXpbXBEGV) | 2:42 | 2021-03-11 | 2023-03-10 |
 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 | 2021-03-11 | 2022-11-26 |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2022-11-25 | 2023-08-11 |
-| [Ghost \- Acoustic](https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Ghost \- acoustic](https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE) | 2:31 | 2022-10-14 |  |
+| [Ghost \- Acoustic](https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Ghost \- acoustic](https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE) | 2:31 | 2022-10-14 | 2025-10-15 |
 | [GHOST TOWN](https://open.spotify.com/track/0989k5MVeLB4HwEVjLfYM0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 3:13 | 2022-10-14 | 2022-11-26 |
 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 | 2022-08-31 | 2022-12-17 |
 | [Girl I Wish I Didn't Know \(Acoustic\)](https://open.spotify.com/track/4t9tRQlHXNb4sYYdypDFdL) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Girl I Wish I Didn't Know \(Acoustic\)](https://open.spotify.com/album/6zZMRz63RPLtyB0GnqDNXO) | 4:02 | 2021-03-11 | 2022-07-29 |
@@ -388,7 +389,7 @@
 | [spark \- acoustic version](https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo) | 3:35 | 2022-10-26 | 2022-11-14 |
 | [spark \- Acoustic Version](https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the love that you want \(Acoustic\)](https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou) | 3:35 | 2022-08-31 | 2022-11-26 |
 | [spark \- acoustic version](https://open.spotify.com/track/5JEvRUqLBetsMC12nAKlen) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/2t9kgL9bskHkLAR3wESeeF) | 3:35 | 2021-03-11 | 2022-07-29 |
-| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 | 2025-10-10 |
+| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 |  |
 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 | 2021-03-11 | 2023-10-28 |
 | [Stay](https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Stay](https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn) | 3:28 | 2025-07-24 |  |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-02 |  |

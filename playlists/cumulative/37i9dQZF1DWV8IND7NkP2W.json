@@ -7088,7 +7088,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 119082,
       "name": "Leave Behind",
       "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
@@ -11265,6 +11265,24 @@
     },
     {
       "album": {
+        "name": "ribbon",
+        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "ribbon",
+      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
+    },
+    {
+      "album": {
         "name": "Rivers and Stars",
         "url": "https://open.spotify.com/album/5ZOl50imMFSKntmmUyrpYQ"
       },
@@ -11770,7 +11788,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 144000,
       "name": "Season",
       "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
@@ -12012,7 +12030,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 216440,
       "name": "Sir",
       "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"

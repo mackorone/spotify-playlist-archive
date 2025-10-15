@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJR1DWfHjWw.md) - [plain]
 
 ### [Les Dieux du Stade](https://open.spotify.com/playlist/37i9dQZF1DXbJR1DWfHjWw)
 
-> Les plus grands hymnes de stade du rock\. Photo : AC/DC
+> Les plus grands hymnes de stade du rock\. Photo : Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,436 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,452 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

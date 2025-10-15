@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Subconscio in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,189 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,190 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 35 | [Arrogante](https://open.spotify.com/track/3UuwtjGqAUXecKbpoLrrpp) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Arrogante](https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8) | 2:23 |
 | 36 | [Collirio](https://open.spotify.com/track/09BP5HR8iQdhRDWQuTBBs3) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4) | [Collirio](https://open.spotify.com/album/2oS36I3iHPKCdX0VEszZl2) | 3:06 |
 | 37 | [Hooligans](https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Hooligans](https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM) | 2:53 |
-| 38 | [N u b i D i F u m o \(feat\. Davìdd\)](https://open.spotify.com/track/2cqHzyO2PpcTypROv6PkRz) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [N u b i D i F u m o \(feat\. Davìdd\)](https://open.spotify.com/album/03QfUQ2UG2bE9II9kQEuOI) | 3:00 |
+| 38 | [nubi di fumo \(feat\. Davìdd\)](https://open.spotify.com/track/2cqHzyO2PpcTypROv6PkRz) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [nubi di fumo \(feat\. Davìdd\)](https://open.spotify.com/album/03QfUQ2UG2bE9II9kQEuOI) | 3:00 |
 | 39 | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n) | 2:45 |
 | 40 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 |
 | 41 | [dolce mood](https://open.spotify.com/track/4QYAwv8rNP9X0z8uetSUqh) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [dolce mood](https://open.spotify.com/album/5lGKsBbcKAECK3fEUdAp4K) | 2:46 |

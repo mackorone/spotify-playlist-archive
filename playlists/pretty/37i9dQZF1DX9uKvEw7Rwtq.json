@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 119513,
+  "num_followers": 119558,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Lone Survivor (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 290871,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "raat ki rani (Khruangbin Remix)",
         "url": "https://open.spotify.com/album/0hHxD2fUWlqAcjXwIIiqaj"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 275531,
       "name": "raat ki rani - Khruangbin Remix",
       "url": "https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Lone Survivor (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 290871,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "These Small Spaces",
-        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
-      },
-      "artists": [
-        {
-          "name": "This Patch of Sky",
-          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
-        }
-      ],
-      "duration_ms": 419333,
-      "name": "Her Beating Wings",
-      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Into The Mountains",
         "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 203012,
       "name": "The Sun In The Trees",
       "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "These Small Spaces",
+        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
+      },
+      "artists": [
+        {
+          "name": "This Patch of Sky",
+          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
+        }
+      ],
+      "duration_ms": 419333,
+      "name": "Her Beating Wings",
+      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "nothing is real, part XI",
         "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 187406,
       "name": "i meet myself, again",
       "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
-      },
-      "artists": [
-        {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Mockingbird Love",
         "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 173853,
       "name": "My Courtesan",
       "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+      },
+      "artists": [
+        {
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
-      },
-      "artists": [
-        {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
-        }
-      ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Keep The Orange Sun",
         "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 254000,
       "name": "Keep The Orange Sun",
       "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
-      },
-      "artists": [
-        {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "The Blurred Horizon",
         "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 236792,
       "name": "The Blurred Horizon",
       "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
-      },
-      "artists": [
-        {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
-      },
-      "artists": [
-        {
-          "name": "Rain No Rain",
-          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Dusty Roads",
         "url": "https://open.spotify.com/album/5Ympaz4YjPhfwm6Hw07YOr"
       },
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
+      },
+      "artists": [
+        {
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 420330,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+      },
+      "artists": [
+        {
+          "name": "Rain No Rain",
+          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "endless, somewhere",
-        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
-      },
-      "artists": [
-        {
-          "name": "Nitewalk",
-          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "endless, somewhere",
-      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Songs to Disappear to",
         "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "endless, somewhere",
+        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
+      },
+      "artists": [
+        {
+          "name": "Nitewalk",
+          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "endless, somewhere",
+      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Dark Awakening",
         "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "frau eva",
+        "url": "https://open.spotify.com/album/4pMLMMQS9M3gjcvShhgKqj"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 345994,
+      "name": "nuclear",
+      "url": "https://open.spotify.com/track/6Ac9CNl0phKklRp2BFZUmY"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "kissing maggots",
-        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 230157,
-      "name": "kissing maggots",
-      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "kissing maggots",
+        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 230157,
+      "name": "kissing maggots",
+      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1447,38 +1463,6 @@
       "duration_ms": 278067,
       "name": "Lifelike",
       "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "frau eva",
-        "url": "https://open.spotify.com/album/4pMLMMQS9M3gjcvShhgKqj"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 345994,
-      "name": "nuclear",
-      "url": "https://open.spotify.com/track/6Ac9CNl0phKklRp2BFZUmY"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/0jMoYHIN3bfKQ6CruDzTAt"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Ineffable",
-      "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/0jMoYHIN3bfKQ6CruDzTAt"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Ineffable",
+      "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "The Skyline EP",
         "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Floating Above Saturn",
-        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
-      },
-      "artists": [
-        {
-          "name": "Framed By Stars",
-          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "Floating Above Saturn",
-      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 164453,
       "name": "The Station",
       "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Floating Above Saturn",
+        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
+      },
+      "artists": [
+        {
+          "name": "Framed By Stars",
+          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "Floating Above Saturn",
+      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "The World Is A House On Fire",
-        "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 405400,
-      "name": "Out of It",
-      "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "No Clearings, No Wide Open Fields",
         "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 367717,
       "name": "No Clearings, No Wide Open Fields",
       "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "The World Is A House On Fire",
+        "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 405400,
+      "name": "Out of It",
+      "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
     },
     {
       "added_at": "2025-09-25 12:08:17",

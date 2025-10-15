@@ -2,7 +2,7 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Sly Stone
+> Melodies of the movement\. Cover: D'Angelo
 
 117 songs - 9 hr 42 min
 

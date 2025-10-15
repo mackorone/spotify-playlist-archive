@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山中千尋
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: CRCK/LCKS
 
-454 songs - 1 day 12 hr 43 min
+455 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Nefertiti \- Cover](https://open.spotify.com/track/75PB98MZlJQVwTKgMF3RuE) | [shaku](https://open.spotify.com/artist/3Z02xIRnnq8ITpacUOk5J8) | [Nefertiti](https://open.spotify.com/album/5crs3lym3GuXHXGlXOwK2c) | 8:19 | 2023-01-24 | 2023-02-17 |
 | [Nemotown](https://open.spotify.com/track/7kl7M8K6SKirDJ45KrgAmA) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kono Taikutsu na Hibi o/Nemotown](https://open.spotify.com/album/3f63tbFjEyZVErqEqHp6t3) | 3:34 | 2023-09-12 | 2023-10-04 |
 | [New Friends 1](https://open.spotify.com/track/1PC2s55zuUhTv2f0GzMQ9t) | [中村海斗](https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c) | [BLAQUE DAWN](https://open.spotify.com/album/5AEfXYcsVxs4VzDImZtTJS) | 7:38 | 2022-12-20 | 2023-04-19 |
-| [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 | 2024-11-05 |  |
+| [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 | 2024-11-05 | 2025-10-15 |
 | [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-09 | 2024-09-19 |
 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 | 2024-09-10 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2022-09-06 | 2024-04-19 |
@@ -348,6 +348,7 @@
 | [Tiger Rag](https://open.spotify.com/track/1vIrFpbVFbdDNoELavkLhz) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Eiji Kitamura](https://open.spotify.com/artist/3ObcIjZXcEvPEGqSJxI8KM), [中川喜弘](https://open.spotify.com/artist/3oi4zctKJg8k5J3NuBEgkX), [中川英二郎](https://open.spotify.com/artist/5n3EOyRF5yPU67VVCCefpx), [中村健吾](https://open.spotify.com/artist/1GT3yeZxbeiNfLoTwYw6pq), [高橋信之介](https://open.spotify.com/artist/2ird8pw3KnFYmCcMJKWdcb) | [PARK STREET KIDS](https://open.spotify.com/album/7DL4EnsqFanSVPyjZS1zLa) | 6:01 | 2022-12-27 | 2023-01-11 |
 | [Time After Time](https://open.spotify.com/track/4bc7kYSSKRDeFJGYEzNJAp) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Time After Time](https://open.spotify.com/album/6nDbJwLVkoi5z4Y3VwLulm) | 5:03 | 2023-04-18 | 2023-06-14 |
 | [Timeless Groove](https://open.spotify.com/track/6M0TjQ5VZGWrykqbrKFhFM) | [T\-GROOVE & GEORGE KANO EXPERIENCE](https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [YUMA HARA](https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Lady Champagne](https://open.spotify.com/album/2idn5UHb0zcPRATU0Bi9ET) | 4:08 | 2022-09-06 | 2022-11-08 |
+| [Tiny Mirror](https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [まにまに](https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE) | 3:18 | 2025-10-14 |  |
 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 | 2023-08-29 | 2025-05-20 |
 | [Today Is Another Day](https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 5:21 | 2022-12-20 | 2023-08-30 |
 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 | 2024-12-17 | 2025-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 49866,
+  "num_followers": 49872,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAAA5MGaJQzJ3+XpD1uYtP/D3",
+  "snapshot_id": "aOxBAAAAAADA112drUg8P25xzOYny0cZ",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resumen 16-23",
+        "url": "https://open.spotify.com/album/1UdIN4v7LKvKZ0AuscGLWc"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198721,
+      "name": "Mirate Nomas",
+      "url": "https://open.spotify.com/track/1HanGbd4wdUiWiaYO59ubb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 150605,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resumen 16-23",
-        "url": "https://open.spotify.com/album/1UdIN4v7LKvKZ0AuscGLWc"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198721,
-      "name": "Mirate Nomas",
-      "url": "https://open.spotify.com/track/1HanGbd4wdUiWiaYO59ubb"
     },
     {
       "added_at": null,

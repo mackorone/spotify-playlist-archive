@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
 
-416 songs - 1 day 1 hr 3 min
+417 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chilipi Ga](https://open.spotify.com/track/3O4y18Hpe3xMCrZPXGw57n) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Harshavardhan Reddy](https://open.spotify.com/artist/732gQZFV5HqIwx7LGFnJjQ) | [Nachinavadu](https://open.spotify.com/album/3GHdDuRboogBcfpDCwrtOy) | 3:21 | 2023-05-16 | 2024-10-24 |
 | [Chilipi Gnapakam](https://open.spotify.com/track/0fOP4QWtRFAL0tze8ensBC) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Chilipi Gnapakam](https://open.spotify.com/album/2FfHQomoZy33NCV5DT4TKL) | 3:58 | 2023-10-09 | 2023-12-30 |
 | [Chilipi Gnapakam Female Version](https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED) | [Pragathi Kanadamane](https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl) | [Chilipi Gnapakam Female Version](https://open.spotify.com/album/5lfL6nkYydI20rYyHn22Sj) | 4:00 | 2023-10-17 | 2023-11-08 |
+| [Chinna Maata](https://open.spotify.com/track/2bH81YXUfeAYpQjCUbsesU) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH), [Swaroop Goli](https://open.spotify.com/artist/5t4EqHFDQYIHNGjkXrCSAH), [Matt Gudgeon](https://open.spotify.com/artist/4SBhiVtTmDRW74iOOSKwlQ) | [Chinna Maata](https://open.spotify.com/album/3OXg9Pd7IlURtJtBxvxa3C) | 2:32 | 2025-10-14 |  |
 | [Chinnadhaana](https://open.spotify.com/track/5R72fQNgjCu63nseDpDdpl) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs), [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [Chinnadhaana](https://open.spotify.com/album/1hwxDxUlr9f0PauIv7wby3) | 2:52 | 2025-06-12 |  |
 | [Chinnari Chinnari](https://open.spotify.com/track/0utRRwGdq6bLJrHTjx4MMJ) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Chinnari Chinnari](https://open.spotify.com/album/76QF9hI6MKq9WymR4MknN7) | 3:25 | 2023-02-17 | 2023-05-23 |
 | [Chinni chinni ashalu \- Ma palle jivithalu](https://open.spotify.com/track/0zndBLqNSzZwCSkttGV2Y0) | [Aditya Sony Music](https://open.spotify.com/artist/4N486HyuRwSCxnhBqbFFow) | [Chinni chinni ashalu \- Ma palle jivithalu](https://open.spotify.com/album/4invHZTTFPQ1YFNt4UsqNH) | 3:28 | 2025-04-04 | 2025-06-21 |
@@ -258,7 +259,7 @@
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |
 | [Nuvve Oka Sainyam](https://open.spotify.com/track/3BF1XYVHGSB1ijw3qDVwZ5) | [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb) | [Nuvve Oka Sainyam](https://open.spotify.com/album/6ypkqH11ztrhbFQXTDYoDP) | 2:31 | 2023-03-16 | 2023-05-26 |
 | [Nuvvele](https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:39 | 2023-06-27 | 2023-09-12 |
-| [Nuvvu Nennu](https://open.spotify.com/track/2RGOySbVuWGrTf6XXK0QGK) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW), [Hemasree Sekhar](https://open.spotify.com/artist/05AqdcuYCPiOTDGRly9E6l) | [Nuvvu Nennu](https://open.spotify.com/album/602HJNByyIG0p7xBh1W1ml) | 2:35 | 2025-01-15 |  |
+| [Nuvvu Nennu](https://open.spotify.com/track/2RGOySbVuWGrTf6XXK0QGK) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW), [Hemasree Sekhar](https://open.spotify.com/artist/05AqdcuYCPiOTDGRly9E6l) | [Nuvvu Nennu](https://open.spotify.com/album/602HJNByyIG0p7xBh1W1ml) | 2:35 | 2025-01-15 | 2025-10-15 |
 | [Nuvvu Unte Chaalu](https://open.spotify.com/track/2Ls2a6pVhsEp2gFWUhegdV) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Nuvvu Unte Chaalu](https://open.spotify.com/album/6MNr0qhQfvkJthcGqNelpV) | 1:38 | 2024-03-21 | 2024-04-26 |
 | [Nuvvunte Acoustic](https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Nuvvunte Acoustic](https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR) | 3:12 | 2023-04-17 | 2023-05-23 |
 | [O Mayya](https://open.spotify.com/track/1H9R0AWj5cxVdRA6JGx2ZI) | [Sai Madhav Rella](https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw) | [O Mayya](https://open.spotify.com/album/5jXOvuqz6iFThLiUxMdbdx) | 4:14 | 2023-07-10 | 2023-10-14 |

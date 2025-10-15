@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-123 songs - 10 hr 25 min
+124 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,12 @@
 | [9 de Copas](https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [9 de Copas](https://open.spotify.com/album/6s057GCrLIIKLJJIVp6Has) | 3:52 | 2022-08-12 |  |
 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 | 2022-08-12 |  |
 | [A Night in Tunisia](https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7) | [Vo!!](https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4) | 5:53 | 2022-08-12 | 2024-04-19 |
+| [Acaso](https://open.spotify.com/track/4fwyKLhgQUR9rk9SVtCBhD) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Encuentro](https://open.spotify.com/album/0wFX0aKm1zsR8lcE9mm3zd) | 4:03 | 2025-04-14 |  |
 | [Acuático](https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Studio 2](https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt) | 5:27 | 2022-08-12 |  |
 | [Apenas Floto](https://open.spotify.com/track/3kopEPvNa2EONY8vxVsrJ7) | [Spinetta, García, Ferrón](https://open.spotify.com/artist/2AtL7G1Q3o9KVYM3nRFYTq) | [Spinetta Los Amigo](https://open.spotify.com/album/4LyoNCALRl9a4zaQz8av9E) | 3:26 | 2022-08-12 |  |
 | [Arenales Blues](https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Lua](https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs) | 4:11 | 2022-08-12 |  |
 | [Aura](https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Rata](https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K) | 3:57 | 2022-08-12 |  |
-| [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 | 2022-09-23 |  |
+| [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 | 2022-09-23 | 2025-10-15 |
 | [Bill's Groove](https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV) | [ROMÁN](https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [ROMÁN](https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq) | 4:51 | 2022-08-12 | 2024-04-19 |
 | [Billie's Bounce](https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc) | [Alfredo Remus](https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3), [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P) | [Querido Bill : Tributo a Bill Evans](https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ) | 8:10 | 2023-12-08 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:13 | 2022-08-12 |  |

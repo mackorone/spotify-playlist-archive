@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Markus Krunegård.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,897 likes - 167 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,903 likes - 167 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

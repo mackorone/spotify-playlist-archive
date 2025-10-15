@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Artifact",
+        "url": "https://open.spotify.com/album/1stxkt5EslEHSb1TKTWIMW"
+      },
+      "artists": [
+        {
+          "name": "buzzG",
+          "url": "https://open.spotify.com/artist/19NXgOnueQiWGJqA2G9ux8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221860,
+      "name": "Artifact (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/25a28jcbgjocfD2jWlZ1Ay"
+    },
+    {
+      "album": {
         "name": "BELIEVE DAY",
         "url": "https://open.spotify.com/album/6zBfw8v1aByrWPZ4FV1L0Q"
       },
@@ -100,7 +122,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 256105,
       "name": "BELIEVE DAY (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7oqVThuXnRb02DnoN65SuR"
@@ -911,6 +933,24 @@
     },
     {
       "album": {
+        "name": "OGRE",
+        "url": "https://open.spotify.com/album/55LfWaIXrBRKOlXytOfupF"
+      },
+      "artists": [
+        {
+          "name": "Utsu-P",
+          "url": "https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220773,
+      "name": "OGRE (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6z8HYX9as3LhByjjMi91IR"
+    },
+    {
+      "album": {
         "name": "#palettemuse",
         "url": "https://open.spotify.com/album/2moTnPfopB5bow4Eu4MfnA"
       },
@@ -1132,6 +1172,24 @@
       "duration_ms": 159605,
       "name": "Show The Time (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/083eoj84WTqCOyHGI232U3"
+    },
+    {
+      "album": {
+        "name": "Si Lo Puedes ReconoceR",
+        "url": "https://open.spotify.com/album/21FJIrCRFfJIzkqnaLNPbJ"
+      },
+      "artists": [
+        {
+          "name": "Maubox",
+          "url": "https://open.spotify.com/artist/6Pawecfq5bF3s2o01TlOIe"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234664,
+      "name": "Si Lo Puedes ReconoceR",
+      "url": "https://open.spotify.com/track/3P0K2zIqh8rVtyzQj1MGEx"
     },
     {
       "album": {
@@ -1824,7 +1882,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 149900,
       "name": "\u3067\u3066\u3044\u3051\u30fc!!!! (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/46u8eMJn05UD9WUmknmw7i"
@@ -2662,7 +2720,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "\u30a4\u30f3\u30c6\u30b0\u30e9\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/041CKBkhEV1clFi9vYqUsP"
@@ -3078,7 +3136,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 162803,
       "name": "\u30b4\u30c1\u30e3\u30b4\u30c1\u30e3\u3046\u308b\u305b\u30fc\uff01 ver.2025 (feat. \u4e9e\u5317\u30cd\u30eb)",
       "url": "https://open.spotify.com/track/4sfnejLpmthF4VAyJcoGlM"
@@ -3614,7 +3672,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 149163,
       "name": "\u30bc\u30c4\u30dc\u30fc\u8b66\u5bdf (feat. \u93e1\u97f3\u30ec\u30f3&\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/1A5NQkmoXj4nKFtjQXftNg"
@@ -4586,6 +4644,24 @@
       "duration_ms": 162000,
       "name": "\u30de\u30a4\u30af\u30ed\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3 (feat. \u93e1\u97f3\u30ea\u30f3&\u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/01sxUWllXlznEL713AXV5B"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b7\u30e5\u30de\u30ed",
+        "url": "https://open.spotify.com/album/3CJqlbcV34u5bQdrSTjuix"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "\u30de\u30b7\u30e5\u30de\u30ed",
+      "url": "https://open.spotify.com/track/5xHiOqr0nATQdZYVGUO9iW"
     },
     {
       "album": {
@@ -6362,7 +6438,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 162853,
       "name": "\u6559\u7956 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/4sNhreCecHujPAFO1NjUIN"

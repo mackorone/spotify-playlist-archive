@@ -4,7 +4,7 @@
 
 > 
 
-456 songs - 1 day 6 hr 13 min
+457 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [I Do Wonder](https://open.spotify.com/track/3gIrjqnZpDkChCsPqTLHF9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Sun Songs](https://open.spotify.com/album/1rU8DsYxX6rWjqhBUqXDBK) | 2:27 | 2022-11-04 | 2023-02-08 |
 | [I Have Nothing More To Tell You](https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Dill](https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 2:57 | 2024-11-29 | 2025-02-12 |
 | [I Have Nothing More To Tell You](https://open.spotify.com/track/4Bp84QWTyAebE3lh2GhSAL) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Dill](https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld) | [I Have Nothing More To Tell You](https://open.spotify.com/album/4yjkFiQ9D26TqJkEJDHS7t) | 2:57 | 2024-11-13 | 2024-11-30 |
+| [I Have So Much To Tell You](https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Have So Much To Tell You](https://open.spotify.com/album/6erpduA3ocDzhOCMLD8msi) | 3:50 | 2025-10-14 |  |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2022-09-20 | 2023-06-28 |
 | [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 | 2022-12-08 | 2023-03-30 |
 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 | 2023-03-03 |

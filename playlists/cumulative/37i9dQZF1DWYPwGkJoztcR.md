@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-125 songs - 7 hr 14 min
+126 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 | 2025-09-03 |  |
 | [Call Me When You Get In](https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [Call Me When You Get In](https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM) | 3:48 | 2025-06-27 |  |
 | [Calling Out](https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Calling Out](https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn) | 2:30 | 2025-06-27 |  |
-| [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 |  |
+| [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 | 2025-10-15 |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2025-06-27 | 2025-10-03 |
 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 | 2025-06-27 |  |
 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 | 2025-06-27 |  |
@@ -130,6 +130,7 @@
 | [What I Really Want To Do](https://open.spotify.com/track/3n9HKcjIQBEQNKE8ZikDvr) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [What I Really Want To Do](https://open.spotify.com/album/7gBrgmkeXYJ7nZXoaIlLeG) | 3:12 | 2025-06-27 | 2025-09-04 |
 | [Whatever Comes For Me](https://open.spotify.com/track/7vJvFY16EOhTGZ0BwHRtFE) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [Whatever Comes For Me](https://open.spotify.com/album/5KzE93UOmY9Wic1cTGHfxB) | 3:57 | 2025-06-27 | 2025-10-03 |
 | [When She’s Around](https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When She’s Around](https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy) | 3:35 | 2025-06-27 |  |
+| [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 | 2025-10-09 |  |
 | [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 | 2025-06-27 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2025-06-27 | 2025-10-03 |
 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 | 2025-06-27 |  |

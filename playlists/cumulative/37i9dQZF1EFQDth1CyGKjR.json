@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Armani (feat. Yazz)",
+        "url": "https://open.spotify.com/album/20OP1jUpl1EeAxUNLH4AgV"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104786,
+      "name": "Armani (feat. Yazz)",
+      "url": "https://open.spotify.com/track/0J3Y5bBbxd5vn6ShZMB3Ea"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 1",
         "url": "https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd"
       },
@@ -540,7 +562,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 104786,
       "name": "Armani (feat. Yazz)",
       "url": "https://open.spotify.com/track/2eZ13b4AChKz2eYytbsqd6"
@@ -999,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "Black & Blue (feat. V. Bozeman)",
+        "url": "https://open.spotify.com/album/0VhkGZUqlXlMtZjcQXrMHx"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "V. Bozeman",
+          "url": "https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Black & Blue (feat. V. Bozeman)",
+      "url": "https://open.spotify.com/track/1IbsV2LFTCiMw6q95G7Jb8"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 1",
         "url": "https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd"
       },
@@ -1014,7 +1058,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 161200,
       "name": "Black & Blue (feat. V. Bozeman)",
       "url": "https://open.spotify.com/track/7aTCFlYhzcWArxC2FZn0Mu"
@@ -1246,10 +1290,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 181826,
       "name": "Bout 2 Blow (feat. Yazz & Timbaland)",
       "url": "https://open.spotify.com/track/5GvHRa5stRpEVhQYS1FuIs"
+    },
+    {
+      "album": {
+        "name": "Bout 2 Blow (feat. Yazz & Timbaland)",
+        "url": "https://open.spotify.com/album/5NFDSAMuPYnP9Q2t4NytQu"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181853,
+      "name": "Bout 2 Blow (feat. Yazz & Timbaland)",
+      "url": "https://open.spotify.com/track/6OmO6FoQaC2TqL9DlYzPnE"
     },
     {
       "album": {
@@ -2147,6 +2217,32 @@
     },
     {
       "album": {
+        "name": "Empire: Music From 'Fires of Heaven'",
+        "url": "https://open.spotify.com/album/7IPxhcTngA8dTYccb6ud1o"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "Dynasty (feat. Yazz & Timbaland)",
+      "url": "https://open.spotify.com/track/7Hhlv6ufXFefH21A1degD4"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 2",
         "url": "https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5"
       },
@@ -2166,7 +2262,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 167733,
       "name": "Dynasty (feat. Yazz & Timbaland)",
       "url": "https://open.spotify.com/track/5Y9pKZXFmGEUaXqgGGQGJj"
@@ -3404,10 +3500,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 130253,
       "name": "Hustle Hard (feat. Jim Beanz)",
       "url": "https://open.spotify.com/track/0LttyKZkeebfgYFTEKb8r5"
+    },
+    {
+      "album": {
+        "name": "Empire: Music From 'False Imposition'",
+        "url": "https://open.spotify.com/album/48qXPMpJHAM974u6R1fpWw"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jim Beanz",
+          "url": "https://open.spotify.com/artist/0fot07IX0Bk4NONyj0kixX"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130253,
+      "name": "Hustle Hard (feat. Jim Beanz)",
+      "url": "https://open.spotify.com/track/0tNtt0dL8afsj7RWn0aSLd"
     },
     {
       "album": {
@@ -4665,6 +4783,32 @@
     },
     {
       "album": {
+        "name": "Live In The Moment (feat. Jussie Smollett & Yazz)",
+        "url": "https://open.spotify.com/album/6umZbinnnLXaoh4Dhm6Q2S"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        },
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Live In The Moment (feat. Jussie Smollett & Yazz)",
+      "url": "https://open.spotify.com/track/1GFF06aRqLuGEv5hqPjaMR"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 1",
         "url": "https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd"
       },
@@ -4684,7 +4828,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 140173,
       "name": "Live In The Moment (feat. Jussie Smollett & Yazz)",
       "url": "https://open.spotify.com/track/1dYdSMAEwQwijL7hRpZme2"
@@ -5823,6 +5967,28 @@
     },
     {
       "album": {
+        "name": "Empire: Music From 'Fires of Heaven'",
+        "url": "https://open.spotify.com/album/7IPxhcTngA8dTYccb6ud1o"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "New New (feat. Becky G)",
+      "url": "https://open.spotify.com/track/2reNSYTDYa5NjKSY4k42am"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 2",
         "url": "https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5"
       },
@@ -5838,7 +6004,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 227186,
       "name": "New New (feat. Becky G)",
       "url": "https://open.spotify.com/track/3SBj5L3WbbRm3lD2Bn96op"
@@ -7042,10 +7208,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 134320,
       "name": "Right There (feat. Yazz)",
       "url": "https://open.spotify.com/track/4YUBufbyqgCS2xwOzlMDdb"
+    },
+    {
+      "album": {
+        "name": "Right There (feat. Yazz)",
+        "url": "https://open.spotify.com/album/5Y770ctx6tpIEnmblIJcpk"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134320,
+      "name": "Right There (feat. Yazz)",
+      "url": "https://open.spotify.com/track/6jjspTf93EmuRxpHjYWqUj"
     },
     {
       "album": {
@@ -7650,7 +7838,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -8586,10 +8774,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 231186,
       "name": "Tell The Truth (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/1rxTaTDAFZx2ZJgkqlOmZm"
+    },
+    {
+      "album": {
+        "name": "Tell The Truth (feat. Jussie Smollett)",
+        "url": "https://open.spotify.com/album/6q1mVjj2RLCziuQ51wVw2D"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "Tell The Truth (feat. Jussie Smollett)",
+      "url": "https://open.spotify.com/track/67XLF4eJaif6J0asUJOAP4"
     },
     {
       "album": {
@@ -9391,6 +9601,28 @@
     },
     {
       "album": {
+        "name": "Empire: Music From 'The Devil Quotes Scripture'",
+        "url": "https://open.spotify.com/album/6aXN5LeO9OPUjLN1MRLRe6"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160373,
+      "name": "Up All Night (Jamal's 2015 Version) (feat. Jussie Smollett)",
+      "url": "https://open.spotify.com/track/3RshMfmYFCdsgkI4XhZ5A6"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 1",
         "url": "https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd"
       },
@@ -9406,7 +9638,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 160373,
       "name": "Up All Night (Jamal's 2015 Version) (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/7AgWXJTMq6xxiTqygeOT3O"
@@ -9987,6 +10219,28 @@
     },
     {
       "album": {
+        "name": "Empire: Music From 'Poor Yorick'",
+        "url": "https://open.spotify.com/album/6YyAU7zazUX5eOeb190sKq"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "When Love Finds U (feat. Jussie Smollett)",
+      "url": "https://open.spotify.com/track/3rydwLyp880WshHVkbA8sR"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 2",
         "url": "https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5"
       },
@@ -10002,7 +10256,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 224186,
       "name": "When Love Finds U (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/6WsGBEqz1jXQ4yybr6BoLb"

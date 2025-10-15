@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 45755,
+  "num_followers": 45777,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAAB6i1A0B6MgynXJI2KefktU",
+  "snapshot_id": "aOxBAAAAAABMj1i6fpEoQFFnMGxf1Ip8",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/6X08l58jfdDvcFnLNeVnVw"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 154768,
+      "name": "Sergio El Bailador",
+      "url": "https://open.spotify.com/track/1CxGJMgTs0ecmyiRrxB2Bm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
       },
@@ -667,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/6X08l58jfdDvcFnLNeVnVw"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 154768,
-      "name": "Sergio El Bailador",
-      "url": "https://open.spotify.com/track/1CxGJMgTs0ecmyiRrxB2Bm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Lo Contaron Ayer",
         "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
       },
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
       },
       "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
+      "duration_ms": 192946,
+      "name": "Le\u00f1a de Pirul",
+      "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Original Que Nunca",
-        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
       },
       "artists": [
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
-        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Le\u00f1a de Pirul",
-      "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
+      "duration_ms": 174000,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
       "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 234026,
-      "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
-      "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
+      "duration_ms": 125066,
+      "name": "Cien Mil Veces",
+      "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
     },
     {
       "added_at": null,

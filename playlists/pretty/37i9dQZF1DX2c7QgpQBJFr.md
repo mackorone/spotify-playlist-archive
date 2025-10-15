@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  \(quello sotto al cappuccio è prima stanza a destra\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,020 likes - 109 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,017 likes - 109 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

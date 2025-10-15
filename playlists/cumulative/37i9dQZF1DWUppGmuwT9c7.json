@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "De Tent Moet Op Z'n Kop",
+        "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
+      },
+      "artists": [
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "De Tent Moet Op Z'n Kop",
+      "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
+    },
+    {
+      "album": {
         "name": "Kerremuskrakers 2025",
         "url": "https://open.spotify.com/album/2o6j823Nvogl0iVxfiSfcK"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 157289,
       "name": "De Tent Moet Op Z\u2019n Kop",
       "url": "https://open.spotify.com/track/5EkiXdCiQ8mkSyNop0p8Nr"

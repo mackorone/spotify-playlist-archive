@@ -521,6 +521,36 @@
     },
     {
       "album": {
+        "name": "Bubble\u00d7Kidz!",
+        "url": "https://open.spotify.com/album/1wTzqA6J68udMrYJX1eDto"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Bubble\u00d7Kidz! (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/68s9uYSOddgEIy9OmSrINY"
+    },
+    {
+      "album": {
         "name": "Burning!!",
         "url": "https://open.spotify.com/album/0AwAjUdAh2hM2J8aqbMdV1"
       },
@@ -1028,7 +1058,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 194086,
       "name": "Einstein (Radio Edit) (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5cs2qw99iTUfZGYouYIzsj"
@@ -2270,7 +2300,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 207953,
       "name": "Paralyzed Intent (feat. MEIKO)",
       "url": "https://open.spotify.com/track/3vQyeez3HqffxU4v6Vcw3T"
@@ -2412,7 +2442,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 188625,
       "name": "Replica",
       "url": "https://open.spotify.com/track/4QxXVtBM4BWsAraYHhgKTE"
@@ -3036,7 +3066,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 207187,
       "name": "SWAG (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6nw4bOEW3aPwix9FHZjFYq"
@@ -4198,7 +4228,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 156569,
       "name": "\u30a2\u30eb\u30c7\u30f3\u30c6 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/0ZyLsUrh2YHt8EIIJsnIrJ"
@@ -4604,7 +4634,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 215873,
       "name": "\u30b5\u30a4\u30af\u30ed\u30f3\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/6RlnQwoyLNPOacxzgec4wK"
@@ -4714,7 +4744,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 195189,
       "name": "\u30b5\u30de\u30fc\u30ca\u30a4\u30c8\u30bf\u30a4\u30e0\u30ab\u30d7\u30bb\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6JjqgT8mPl2pO7Pl0LP9an"
@@ -5713,6 +5743,28 @@
     },
     {
       "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ed\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/6zJGIDvscee42iWSEpqG5t"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5c71\u3088\u3064\u304e",
+          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
+        },
+        {
+          "name": "Mayu",
+          "url": "https://open.spotify.com/artist/3YPw4gx7yeD8gQffNcTF4x"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224782,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ed\u30fc\u30ba (feat. MAYU)",
+      "url": "https://open.spotify.com/track/2qsn6C0tJkeuPmpZhLusct"
+    },
+    {
+      "album": {
         "name": "\u30df\u30f3\u30c8",
         "url": "https://open.spotify.com/album/3KeTpR3UgG0dcsw44MmR12"
       },
@@ -6706,6 +6758,28 @@
       "duration_ms": 174795,
       "name": "\u661f\u5b99\u30e1\u30e9\u30f3\u30b3\u30ea\u30a2(feat. \u521d\u97f3\u30df\u30af) (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5hXCefbxVfxltkd0CBz8Ud"
+    },
+    {
+      "album": {
+        "name": "\u6697\u3044\u3088\u72ed\u3044\u3088\u6016\u3044\u3088",
+        "url": "https://open.spotify.com/album/1EUVcLbgmxjnykAj4QaqG7"
+      },
+      "artists": [
+        {
+          "name": "\u2200studio",
+          "url": "https://open.spotify.com/artist/2Q83HdKRXht6lWglq749s5"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96666,
+      "name": "\u6697\u3044\u3088\u72ed\u3044\u3088\u6016\u3044\u3088 (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/24NQmijh8dNrrHk7IWx6bD"
     },
     {
       "album": {

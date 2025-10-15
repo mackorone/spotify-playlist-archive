@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1448372,
+  "num_followers": 1448653,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2025-09-19 14:10:00",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+        "name": "Belchior Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Gilvan de Oliveira",
+          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
         }
       ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+      "duration_ms": 155960,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
     },
     {
       "added_at": "2025-09-19 14:10:00",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2025-09-19 14:10:00",
       "album": {
-        "name": "Belchior Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
       "artists": [
         {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        },
-        {
-          "name": "Gilvan de Oliveira",
-          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 155960,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2025-09-19 14:10:00",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-931 songs - 2 day 13 hr 44 min
+932 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Peace To All Freaks](https://open.spotify.com/track/1gSk8vyR6ExYlSqIhEzpSO) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [UR FUN](https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH) | 4:44 | 2023-06-28 | 2023-07-04 |
 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 | 2023-04-12 |  |
 | [People of the Sun](https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 2:30 | 2022-11-24 |  |
+| [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 | 2025-10-14 |  |
 | [Persona](https://open.spotify.com/track/6zl3FkdpbmNwsvCqWkcEze) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 0:32 | 2025-01-16 |  |
 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 | 2022-03-30 | 2024-11-08 |
 | [Phoenix](https://open.spotify.com/track/59NeiWt9ngaQQ9556Qy6vR) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 4:35 | 2024-11-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:14RpuKZYyyikmsRU3zPoWz">maks.tachasiuk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,164 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 18 | [Ankle Breaker](https://open.spotify.com/track/1zA55t1WX3JFwzI1VwOaZc) | [Omasta](https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO) | [Who They Was](https://open.spotify.com/album/4FdLdMBiJClDqNpJX4kBVu) | 3:56 |
 | 19 | [życzenie](https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [życzenie](https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3) | 4:43 |
 | 20 | [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 |
-| 21 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
+| 21 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
 | 22 | [OVER THE WORLD WE KNOW](https://open.spotify.com/track/4GAzSHZ2KSSk8EoVtjU1lf) | [Hania Derej](https://open.spotify.com/artist/2IU2updV8nCbwezu453ame) | [OVER THE WORLD WE KNOW](https://open.spotify.com/album/3Ck3ktQb2YteFgaqvmBiYv) | 7:45 |
 | 23 | [To były mlecze](https://open.spotify.com/track/0poceIERskPc88GggvEqPb) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Maruda](https://open.spotify.com/album/2772Re23rT4sNMQQAlwNCF) | 2:13 |
 | 24 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 |

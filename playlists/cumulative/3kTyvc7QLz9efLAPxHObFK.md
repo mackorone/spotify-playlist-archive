@@ -4,7 +4,7 @@
 
 > 
 
-2,587 songs - 5 day 15 hr 0 min
+2,588 songs - 5 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1857,6 +1857,7 @@
 | [Rampage Rebels](https://open.spotify.com/track/2q0gbXt88ya9ayoKjcCJVG) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Rampage Rebels](https://open.spotify.com/album/53dNcV60bUhMYksbtwkrHb) | 2:56 | 2025-04-04 |  |
 | [Rapid Fire](https://open.spotify.com/track/5c7hDErpdoe8O0SCR4DzvQ) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Rapid Fire](https://open.spotify.com/album/2GKdTIMYEawezCoZK7OoS8) | 3:05 | 2024-01-08 |  |
 | [Ratata \- Outsiders Remix](https://open.spotify.com/track/7BZoKv8WjQJ46aBkpIkicg) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Ratata \(Outsiders Remix\)](https://open.spotify.com/album/1B3QlTuhqSsUbp0y1VRaof) | 2:55 | 2024-08-23 |  |
+| [Rave All Night](https://open.spotify.com/track/6ga7hk7kpZtlj631BgoKLb) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Rave All Night](https://open.spotify.com/album/0ejXeyh7FkoSLKg7hPQLeb) | 2:19 | 2025-10-14 |  |
 | [Rave All Night](https://open.spotify.com/track/5DRdNoPSdWzeRsjzE79iyL) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Tamika](https://open.spotify.com/artist/6lLNAKhNy2T0B2TcVI3VVR) | [Rave All Night](https://open.spotify.com/album/7xFQUKfhmboxFwLbKUo08M) | 3:00 | 2023-12-08 |  |
 | [Rave Attack](https://open.spotify.com/track/15NUL9MpKieMkFulxmBvnc) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [Rave Attack](https://open.spotify.com/album/5i0kSgrcTEThujlgwHEDyZ) | 3:00 | 2024-03-29 |  |
 | [Rave Attack](https://open.spotify.com/track/6rcBZIphEyDAgSnAd8DyoN) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Rave Attack](https://open.spotify.com/album/3ydw3X5Ll5ZRd6DoP7TWzu) | 3:38 | 2023-04-21 |  |

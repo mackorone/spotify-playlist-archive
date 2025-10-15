@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Ryokuoushoku Shakai \(녹황색사회\) \[ASIA TOUR 2025\] 10월 11일, 12일 @ YES24 LIVE HALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,107 likes - 20 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,096 likes - 20 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-103 songs - 4 hr 40 min
+105 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [639 Hz Harmony of Amity](https://open.spotify.com/track/4SiTP2FE9LxKCt5hXZS2CD) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [639 Hz Harmony of Amity](https://open.spotify.com/album/4Bu5Q6TITTXpowXoFVStuX) | 2:52 | 2024-05-11 |  |
 | [639 Hz Heart Chakra Balance](https://open.spotify.com/track/480IufEnr4Nq0i9YJ0OfcJ) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Oneness](https://open.spotify.com/album/4QLfoHYd8mMaXxYbSwV4OU) | 2:30 | 2023-03-10 |  |
 | [639 Hz Heart Serenity](https://open.spotify.com/track/7pCS1t6C3FSoejqdiDXB62) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [639 Hz Heart Serenity](https://open.spotify.com/album/4UVECKeVbDBc267c85DjVm) | 2:34 | 2023-11-30 |  |
+| [639 Hz Kindred](https://open.spotify.com/track/70GMwuoejDg6Z65kaj4fRp) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [639 Hz Kindred](https://open.spotify.com/album/2Wg99VwcJAO5IG2aG29akj) | 3:01 | 2025-10-14 |  |
 | [639 Hz La Lune](https://open.spotify.com/track/69yd4WSWHvCFG751mrfB5L) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [639 Hz La Lune](https://open.spotify.com/album/4qmmi6Nt4qWKWn9q9QqrEX) | 2:31 | 2023-08-07 |  |
 | [639 Hz Ode to Togetherness](https://open.spotify.com/track/1Jox4HvDJ7drTxXNZRPtXN) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [639 Hz Ode to Togetherness](https://open.spotify.com/album/4QMwLj6lw3ovT7WCPEzRCk) | 2:55 | 2024-07-23 |  |
 | [639 Hz Pont de Connexion](https://open.spotify.com/track/589RarNuxNLfSZWXv5ZVH2) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [639 Hz Pont de Connexion](https://open.spotify.com/album/7HODXjZdJJ5lPe7wsVpLZU) | 3:15 | 2025-04-29 |  |
@@ -66,6 +67,7 @@
 | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/track/2gtEwLuFIQQ5YKHJPn1OiD) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/album/29DyukLyhMHOGDoL0M1Ywt) | 2:33 | 2024-11-07 |  |
 | [Calm Horizon 639Hz](https://open.spotify.com/track/1p09Iby0aUPO9hWyJGzDQI) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [Calm Horizon 639Hz](https://open.spotify.com/album/3I8RJ9xH2MIhE7EXJjFLnm) | 2:50 | 2025-04-29 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-03-10 |  |
+| [Chakra Mist 639 Hz](https://open.spotify.com/track/45tO5VLW8mXFnlAKziwcSt) | [Synchroni city](https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp) | [Chakra Mist 639 Hz](https://open.spotify.com/album/3GSm1A27yRG2TG7qr5cmZy) | 2:30 | 2025-10-14 |  |
 | [Compassion](https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY) | [Heart Chakra](https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO) | [Compassion](https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS) | 3:46 | 2023-11-30 | 2024-07-24 |
 | [Connections 639 Hz](https://open.spotify.com/track/3Zg95dV0Ydwl80T6UBpHgQ) | [Chaccara](https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q) | [Connections 639 Hz](https://open.spotify.com/album/1GZYbaJpXp3hzpPyd0KnBn) | 2:29 | 2023-03-10 | 2024-11-21 |
 | [Consonance of Companionship 639 Hz](https://open.spotify.com/track/17MMku2kks0q31q6knf0C0) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Consonance of Companionship 639 Hz](https://open.spotify.com/album/6TWMDAFQsRYYtgeFIsYGTA) | 2:43 | 2024-03-13 |  |

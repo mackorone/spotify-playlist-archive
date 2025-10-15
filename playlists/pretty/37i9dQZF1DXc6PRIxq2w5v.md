@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,933 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,965 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 23 | [Pras Ruas](https://open.spotify.com/track/5sAxbzHGL30TKkhANWi2ba) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Bruninho Music](https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH) | [Pras Ruas](https://open.spotify.com/album/5TaW5Rl4zs4SEEMu1Js791) | 2:02 |
 | 24 | [Saudade do Pai](https://open.spotify.com/track/5GgWY9iBiVq7T52sZAYpsP) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Wesley Cruz](https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN) | [Saudade do Pai](https://open.spotify.com/album/39bv2gw4t0iKZb1GEF2kdn) | 4:35 |
 | 25 | [Crises](https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Crises](https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe) | 2:24 |
-| 26 | [Renascer \- Ao Vivo](https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq) | [Insanou](https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g) | 3:25 |
-| 27 | [Amor Freestyle](https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE) | [GBZIN](https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Amor Freestyle](https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R) | 2:48 |
+| 26 | [Amor Freestyle](https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE) | [GBZIN](https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Amor Freestyle](https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R) | 2:48 |
+| 27 | [Renascer \- Ao Vivo](https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq) | [Insanou](https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g) | 3:25 |
 | 28 | [Coração Cansado](https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Coração Cansado](https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW) | 2:40 |
 | 29 | [eu vi](https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [eu vi](https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI) | 2:59 |
 | 30 | [Tranquilo](https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Tranquilo](https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ) | 3:19 |

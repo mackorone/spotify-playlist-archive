@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Dante Bowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,816 likes - 85 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,851 likes - 85 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 59 | [Yes](https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Yes](https://open.spotify.com/album/0gBQNaBYQSm8Uok70NTLhJ) | 5:13 |
 | 60 | [He Did It for Me \- Live](https://open.spotify.com/track/4Z8HVDwVQR2uu5nd1v95CK) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [He Did It for Me \(Live\)](https://open.spotify.com/album/75mPsKFQ2OBXqc5lRYk1t2) | 6:50 |
 | 61 | [Take My Life \- Live](https://open.spotify.com/track/6Xbj9AtRjYPcozeSDFVF2z) | [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [The Songbook Of Micah \(Live\)](https://open.spotify.com/album/1H02658dewlx1vuL4MmGQz) | 6:06 |
-| 62 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
+| 62 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/3zq1rVKwSM61vtf2NxOTAH) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
 | 63 | [Faithful You Are \- Live](https://open.spotify.com/track/2tU3bE9LQStyHhrDmu3Ams) | [Montrae Tisdale and The Friends Chorale](https://open.spotify.com/artist/6coWqEDygWVo2aVKcN8Ep2), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [The Faith Journey \(Live\)](https://open.spotify.com/album/50IACast23ezf8MlYV2ayt) | 5:43 |
 | 64 | [Revival Medley \- Live](https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [Revival Medley](https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt) | 7:33 |
 | 65 | [Make Room \- NEW Version](https://open.spotify.com/track/5bcFYUqNGMNsxkqK3FmUqL) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [New](https://open.spotify.com/album/0qCl8ZVtzAf3rUTJrsYjBz) | 6:08 |

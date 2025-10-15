@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR Benelux</a>\), Froukje & S10, Davina Michelle, Henkie T en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,196 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,188 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 72 | [Goodbye For Now](https://open.spotify.com/track/6t62npoUwUGjrwIawdgwA5) | [Olivia Cox](https://open.spotify.com/artist/6jkZw1ZGmPmXSN3CkvCUgj) | [Goodbye For Now](https://open.spotify.com/album/5IewtRLurwyZX1ymMd423l) | 3:30 |
 | 73 | [Leerde Van Mijn Vader](https://open.spotify.com/track/3Ab4Cwn4aAfhmtVs2JeK56) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Leerde Van Mijn Vader](https://open.spotify.com/album/7xFHKM3KcfOYzNu3kVVWeg) | 2:17 |
 | 74 | [Liquid Luxuries](https://open.spotify.com/track/255b7xirBOzQr85OWsarGb) | [Pete Miller](https://open.spotify.com/artist/6APAJog7gprc4krdFhCvHC) | [Liquid Luxuries](https://open.spotify.com/album/16lq53E9Did021r0q0jFXA) | 2:48 |
-| 75 | [Act Like That](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Act Like That](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
+| 75 | [act like that](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [act like that](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
 | 76 | [Kami](https://open.spotify.com/track/6Q8YcyaN21x036j4BmAiaf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Kami](https://open.spotify.com/album/7nsn2xAKsA0CzsFLn5NRdc) | 2:30 |
 | 77 | [Horizon](https://open.spotify.com/track/7J9DEND05zjJwWs7yCBndX) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Horizon](https://open.spotify.com/album/5VG8xidFhfndufytcSGbsn) | 3:51 |
 | 78 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |

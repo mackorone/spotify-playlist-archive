@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-264 songs - 16 hr 50 min
+265 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 | 2021-12-16 |  |
 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 | 2022-07-14 | 2023-12-16 |
 | [Heile Livet](https://open.spotify.com/track/1ceubw1ZmicRUFAymxh7Qi) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/3Xx43BvyIoKsXOcPNA1pIu) | 5:50 | 2022-02-10 | 2022-07-28 |
-| [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 | 2025-01-16 |  |
+| [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 | 2025-01-16 | 2025-10-15 |
 | [Heim igjen](https://open.spotify.com/track/1fbdwwnIq1J1dfySdyJqAK) | [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd) | [Heim igjen](https://open.spotify.com/album/1roeS2EV5XHBorIbHg6vxO) | 4:20 | 2021-12-16 | 2022-07-17 |
 | [Heimlandsong](https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heimlandsong](https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m) | 4:46 | 2023-08-31 | 2025-01-21 |
 | [Himmelblå](https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR) | [Anne Marie Almedal](https://open.spotify.com/artist/49nP0U2x9Egz06cjDphoez) | [Blue Sky Blue](https://open.spotify.com/album/4sfHf8C3gtRkGS4eX1tB0X) | 3:47 | 2021-12-16 | 2022-07-25 |
@@ -197,6 +197,7 @@
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-09-19 |  |
 | [På tide å dra hjem](https://open.spotify.com/track/0vrjomkXxKUKHafLHXOvh2) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [La meg bli ditt gjemmested](https://open.spotify.com/album/0NJhA7P21fcxJjZ68Q2G1K) | 2:58 | 2025-09-25 |  |
 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 | 2022-11-10 | 2024-04-19 |
+| [Ramler mot hverandre](https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Ramler mot hverandre](https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b) | 3:34 | 2025-10-09 |  |
 | [Redd](https://open.spotify.com/track/2ZikOJpA45bvLutp9TPUnQ) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Redd](https://open.spotify.com/album/72gvnfqRiyzp7kafOsxF1w) | 4:25 | 2023-05-25 | 2023-10-13 |
 | [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 | 2024-10-17 |  |
 | [Ro meg over](https://open.spotify.com/track/74Jg2dNT28i04fhRLTTVme) | [Emilie Christensen](https://open.spotify.com/artist/02zP4DIcyXykWkXkZiVmXR) | [Ro meg over](https://open.spotify.com/album/0DPsXK4U8VLQzI18mUVrUV) | 3:46 | 2023-05-25 | 2024-02-16 |

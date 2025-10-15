@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-157 songs - 9 hr 2 min
+158 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [HEROES](https://open.spotify.com/track/0gYktIh0rJl5qvr6K0ot03) | [Brian the Sun](https://open.spotify.com/artist/5CVx8gIHxBaYMuQVXr8ogM) | [HEROES](https://open.spotify.com/album/2GujVYBvYaJIaIVjTUGKSM) | 3:01 | 2022-10-11 | 2022-11-13 |
 | [Heroes mission](https://open.spotify.com/track/57MFMA037LWr4Ra2CnZOXE) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 1:39 | 2022-10-01 | 2024-04-19 |
 | [Heroes' mission](https://open.spotify.com/track/6VfVwaJNgRPBfevfWrrW1E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2019\-2021](https://open.spotify.com/album/5RxZVzS80hNoOaS3N8skOF) | 1:39 | 2023-03-14 |  |
+| [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 | 2025-10-14 |  |
 | [I'll be your hero](https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 2:59 | 2022-10-01 | 2024-04-19 |
 | [INFLATION](https://open.spotify.com/track/26yMnsnY4emix6ymvNKG5g) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:12 | 2024-07-07 |  |
 | [Jet Set Run](https://open.spotify.com/track/3jRwb8NABDs7n8YsYyHO8c) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:45 | 2023-03-14 | 2024-04-19 |

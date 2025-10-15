@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 405855,
+  "num_followers": 405830,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "The Chair",
         "url": "https://open.spotify.com/album/6r8XKL8A1fARjiXxcSifNm"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 170960,
       "name": "The Chair",
       "url": "https://open.spotify.com/track/5i74TSFhkAla3RRMiE7vuQ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 175973,
-      "name": "I'm The One (feat. Marty Stuart)",
-      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 218480,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
+      "duration_ms": 175973,
+      "name": "I'm The One (feat. Marty Stuart)",
+      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Up In Texas",
-        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 191269,
-      "name": "Up In Texas",
-      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Outlaws and Mustangs",
         "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
@@ -1127,22 +1111,6 @@
       "duration_ms": 240025,
       "name": "Outlaws and Mustangs",
       "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1163,6 +1131,38 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Up In Texas",
+        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 191269,
+      "name": "Up In Texas",
+      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "Hearts Don't",
         "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 218000,
       "name": "Hearts Don't",
       "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Old Fashioned Feeling",
-        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Old Fashioned Feeling",
-      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1223,6 +1207,22 @@
       "duration_ms": 203861,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1275,6 +1275,22 @@
       "duration_ms": 208477,
       "name": "The Show",
       "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1371,6 +1387,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Broke Umbrella",
+        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sacky Band",
+          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+        }
+      ],
+      "duration_ms": 245589,
+      "name": "Broke Umbrella",
+      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1387,22 +1419,6 @@
       "duration_ms": 309510,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Broke Umbrella",
-        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sacky Band",
-          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
-        }
-      ],
-      "duration_ms": 245589,
-      "name": "Broke Umbrella",
-      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "What Else Can She Do",
         "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 234360,
       "name": "jackson",
       "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2025-10-10 04:00:37",

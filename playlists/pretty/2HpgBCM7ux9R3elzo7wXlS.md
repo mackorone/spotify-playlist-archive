@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,024 songs - 2 day 15 hr 5 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,025 songs - 2 day 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1032,5 +1032,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1022 | [I'll Lay Back Down](https://open.spotify.com/track/27g2HwoRTQkcy1owxFoGDn) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 2:16 |
 | 1023 | [Alluring Eyes](https://open.spotify.com/track/4gqG3M6Vi6u8H1luSAwBBk) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 1:57 |
 | 1024 | [So Good to Me](https://open.spotify.com/track/2KjQTG3s0fUnN1WeSbc4RS) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 1:41 |
+| 1025 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 
-Snapshot ID: `AAAHpk7oZ7VIfX1Dcpp/tchO6gSn3g4v`
+Snapshot ID: `AAAHpyDgj/NLxEUC4Nscwez9DJRv6Ujk`

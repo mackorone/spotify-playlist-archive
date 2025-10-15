@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover:  Navaan Sandhu
 
-298 songs - 14 hr 43 min
+299 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 | 2024-11-20 |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2023-03-18 | 2023-04-24 |
 | [Sawaal Puchdi \(Feat\. Bohemia\)](https://open.spotify.com/track/0W7oY8NwwVkEeUVsAwF19Z) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 4:09 | 2025-09-26 |  |
+| [Say Less](https://open.spotify.com/track/5X0ndxwCNoorZjBwFhI0MX) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Say Less](https://open.spotify.com/album/0hKJ7pVTnaXEk63cKTZpFh) | 3:36 | 2025-10-14 |  |
 | [Scapegoat](https://open.spotify.com/track/7fm1Nbus8X19wI4oz6FFcb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Scapegoat](https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N) | 3:57 | 2023-03-18 | 2025-01-25 |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 |  |
 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 | 2023-03-18 | 2024-04-06 |
@@ -256,7 +257,7 @@
 | [Sit Down Son](https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1) | [Sit Down Son](https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7) | 3:24 | 2025-01-04 |  |
 | [Slap Up](https://open.spotify.com/track/2jkMN5p1mVqfkCbtuQTcZx) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bandzo3rd](https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:46 | 2024-03-26 | 2024-08-10 |
 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 | 2024-11-20 | 2025-07-19 |
-| [Sone Da Gulaab](https://open.spotify.com/track/6e8O85kjw9Sn8RfERQ3nBk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:01 | 2025-09-26 |  |
+| [Sone Da Gulaab](https://open.spotify.com/track/6e8O85kjw9Sn8RfERQ3nBk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:01 | 2025-09-26 | 2025-10-15 |
 | [Source Of Light](https://open.spotify.com/track/3Gy1BKyruuLXV0lZq8BchU) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Source Of Light](https://open.spotify.com/album/3Hb8OXJtMbc1JEtynaTDRO) | 2:30 | 2024-12-09 | 2025-01-10 |
 | [Spirit](https://open.spotify.com/track/0tN1d8Yc0BpSWI3EbhBlyS) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1) | [Spirit](https://open.spotify.com/album/2F37zRV0Yl5jGlmMSBtAbp) | 2:19 | 2024-04-01 | 2024-07-19 |
 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 | 2025-05-09 |  |

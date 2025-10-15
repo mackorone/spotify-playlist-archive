@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Thelma & James
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,970 likes - 168 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,953 likes - 168 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

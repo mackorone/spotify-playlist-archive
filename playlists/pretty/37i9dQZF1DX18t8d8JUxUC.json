@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 30009,
+  "num_followers": 30020,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
@@ -939,18 +955,26 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+        "name": "La \u00daltima Ola",
+        "url": "https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+          "name": "La \u00daltima Ola",
+          "url": "https://open.spotify.com/artist/4H0syoQQ6nUvU8fUHiCAmZ"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Catal\u00edn Munteanu",
+          "url": "https://open.spotify.com/artist/3Bo4iMIQ1fapJEYcvBb42S"
         }
       ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+      "duration_ms": 198853,
+      "name": "Camino de Arena",
+      "url": "https://open.spotify.com/track/6jLUUaXfTUExzE4zNIp3q9"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -987,30 +1011,6 @@
       "duration_ms": 185823,
       "name": "My Best Self",
       "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
-        "name": "La \u00daltima Ola",
-        "url": "https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq"
-      },
-      "artists": [
-        {
-          "name": "La \u00daltima Ola",
-          "url": "https://open.spotify.com/artist/4H0syoQQ6nUvU8fUHiCAmZ"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Catal\u00edn Munteanu",
-          "url": "https://open.spotify.com/artist/3Bo4iMIQ1fapJEYcvBb42S"
-        }
-      ],
-      "duration_ms": 198853,
-      "name": "Camino de Arena",
-      "url": "https://open.spotify.com/track/6jLUUaXfTUExzE4zNIp3q9"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Poquitito de T\u00e9",
-        "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 204919,
-      "name": "Poquitito de T\u00e9",
-      "url": "https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
+        "name": "Poquitito de T\u00e9",
+        "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 204919,
+      "name": "Poquitito de T\u00e9",
+      "url": "https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 300114,
       "name": "Instantes y Aullidos",
       "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
+        "name": "Una historia que contar",
+        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "duration_ms": 186995,
+      "name": "Una historia que contar",
+      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
         "name": "Luces de bengala",
         "url": "https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
-        "name": "Ahi Estar\u00e9",
-        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 180103,
-      "name": "Ahi Estar\u00e9",
-      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
     }
   ],
   "unique_name": "Latin Folk",

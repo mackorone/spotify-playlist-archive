@@ -5464,7 +5464,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -17158,7 +17158,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -24412,7 +24412,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 203541,
       "name": "Iceguys 4 Life",
       "url": "https://open.spotify.com/track/7tTltZO8XJpUiWIntmJNLi"
@@ -37906,7 +37906,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 168040,
       "name": "POPPSTIRNI",
       "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
@@ -40780,7 +40780,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 162857,
       "name": "R\u00d3A",
       "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
@@ -45045,6 +45045,24 @@
     },
     {
       "album": {
+        "name": "Stay Out Of Sight",
+        "url": "https://open.spotify.com/album/6fHscAZjiLaSsJss0qbgtq"
+      },
+      "artists": [
+        {
+          "name": "Juliera",
+          "url": "https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209217,
+      "name": "Stay Out Of Sight",
+      "url": "https://open.spotify.com/track/5ZiCgUtbarV4TMsSYVUrgQ"
+    },
+    {
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -47596,7 +47614,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -49710,7 +49728,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -54744,7 +54762,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 210813,
       "name": "Win win",
       "url": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
@@ -54788,6 +54806,28 @@
       "duration_ms": 143331,
       "name": "Winna (feat. Alex Marley)",
       "url": "https://open.spotify.com/track/2qjLsL5PVVBNbA9Wxijpkz"
+    },
+    {
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
       "album": {

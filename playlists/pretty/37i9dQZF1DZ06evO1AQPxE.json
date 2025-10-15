@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 193627,
+  "num_followers": 193640,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOrvgAAAAABdyMLKHJyx2QEYLAlC9HeS",
+  "snapshot_id": "aOxBAAAAAADmq019VFPf/yg7ISTtWCno",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 133885,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 128409,
       "name": "THRU THE NIGHT (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 133885,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
     },
     {
       "added_at": null,
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "2forwOyNE",
+          "url": "https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5"
         }
       ],
-      "duration_ms": 190962,
-      "name": "ROTTEN (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
+      "duration_ms": 187266,
+      "name": "WARSAW (feat. 2forwOyNE)",
+      "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
     },
     {
       "added_at": null,
@@ -656,13 +656,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "2forwOyNE",
-          "url": "https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 187266,
-      "name": "WARSAW (feat. 2forwOyNE)",
-      "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
+      "duration_ms": 190962,
+      "name": "ROTTEN (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 140996,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
+      "duration_ms": 255058,
+      "name": "RIVER ROAD",
+      "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 255058,
-      "name": "RIVER ROAD",
-      "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
+      "duration_ms": 140996,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
     },
     {
       "added_at": null,

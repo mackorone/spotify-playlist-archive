@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 87 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 87 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 51 | [Sooner or Later](https://open.spotify.com/track/0FNgoOlsJMGIDVoEEtheDL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:41 |
 | 52 | [Too Far Gone](https://open.spotify.com/track/0KF9FGf5oDdgLdBbfutq49) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Lindsey Buckingham Christine McVie](https://open.spotify.com/album/0hV5tUdhxoe9ul2YVqco6b) | 3:20 |
 | 53 | [What a Shame](https://open.spotify.com/track/5wqtOvdY2hUQOkEMq33k1Y) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Future Games](https://open.spotify.com/album/0mrtsupVI772qJdmW17yP0) | 2:15 |
-| 54 | [It's Ok with Me Baby](https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 2:37 |
+| 54 | [It's Ok with Me Baby \(Bonus Track\)](https://open.spotify.com/track/4xl4cbwWacZi4QDUWBA5CA) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 2:39 |
 | 55 | [Game of Pretend](https://open.spotify.com/track/0eoJlrS9Fd975OR7XfeEek) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Lindsey Buckingham Christine McVie](https://open.spotify.com/album/0hV5tUdhxoe9ul2YVqco6b) | 4:33 |
 | 56 | [One More Night \- Live at Santa Monica Civic Auditorium, Santa Monica, CA 9/3/80](https://open.spotify.com/track/41vjdhINlFn5FSiougSNkY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Live \(Deluxe Edition\)](https://open.spotify.com/album/4gY6KDbChOnXCp1K4p4z0M) | 3:45 |
 | 57 | [Tell Me You Need Me](https://open.spotify.com/track/1XUx5u3OXpvvfVkoMz7daM) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 3:45 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `Ab+yCgAAAADDRJCYKfR9XMd/G8z9ZNCt`
+Snapshot ID: `Ab+3tAAAAADCcPB8Miq8/F/ZaMTDhOYS`

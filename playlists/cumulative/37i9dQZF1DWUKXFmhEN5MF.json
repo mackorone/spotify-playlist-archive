@@ -1004,6 +1004,10 @@
           "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
         },
         {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
@@ -2014,7 +2018,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 180033,
       "name": "Nasha (From \"Raid 2\")",
       "url": "https://open.spotify.com/track/67u2VDnIGjc9wYxSaUaUvt"
@@ -2142,6 +2146,36 @@
       "duration_ms": 240960,
       "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
+    },
+    {
+      "album": {
+        "name": "Thamma (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDsLEBY2f09kcKoGnlmub"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180277,
+      "name": "Poison Baby - From \u201cThamma\u201d",
+      "url": "https://open.spotify.com/track/4LI5shJ67j5pPhlw6VGZTS"
     },
     {
       "album": {

@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 195319,
       "name": "Bigshots",
       "url": "https://open.spotify.com/track/76in3GYb0JA5ix0h8DfuP6"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 116363,
       "name": "Caught Out",
       "url": "https://open.spotify.com/track/0YB2y0Tc8xS9VvKqWlttNQ"
@@ -4957,6 +4957,28 @@
     },
     {
       "album": {
+        "name": "The Simpsons",
+        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206707,
+      "name": "DXB",
+      "url": "https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/4voL51YaKZFj040QHqMFI1"
       },
@@ -6478,6 +6500,24 @@
       "duration_ms": 161600,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7I3ZDxVKRDbdEilxlNKFez"
+    },
+    {
+      "album": {
+        "name": "Gt",
+        "url": "https://open.spotify.com/album/6zsiQhrfXK4ytlIf4L17jF"
+      },
+      "artists": [
+        {
+          "name": "Sickedge",
+          "url": "https://open.spotify.com/artist/2gDNPTkMuSiRmvjYTTfoxX"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152347,
+      "name": "Gt",
+      "url": "https://open.spotify.com/track/1vsMu5QVKoSOn5hMaeKKDP"
     },
     {
       "album": {
@@ -9734,7 +9774,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-15",
       "duration_ms": 222250,
       "name": "Many Men",
       "url": "https://open.spotify.com/track/40UX2wLDFaBuM5i6udrVID"
@@ -12574,6 +12614,28 @@
       "duration_ms": 122552,
       "name": "Ranjha Criminal",
       "url": "https://open.spotify.com/track/4HvZjBDXmrSKSVHODa43Qa"
+    },
+    {
+      "album": {
+        "name": "The Simpsons",
+        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158097,
+      "name": "Ranjhea",
+      "url": "https://open.spotify.com/track/0XzQsVLirMJgbQXXc1mPYb"
     },
     {
       "album": {

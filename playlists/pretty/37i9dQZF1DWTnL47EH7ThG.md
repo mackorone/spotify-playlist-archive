@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,528 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,536 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 32 | [Bossy](https://open.spotify.com/track/0Xa178cLLO8OMGoZWGje8P) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Bossy](https://open.spotify.com/album/57EyuWqjZnFtpUpONrCVWK) | 3:03 |
 | 33 | [rain](https://open.spotify.com/track/1HG40IaElFC5OTyTsSQp8J) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:45 |
 | 34 | [Survivor](https://open.spotify.com/track/7eqsGRVKST6O8IAUiTGSmh) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt) | [Survivor](https://open.spotify.com/album/4watLj4YmuU1wGAF4RkztU) | 2:18 |
-| 35 | [FALLBACK](https://open.spotify.com/track/0v1WlVvr0XXoSziUdR5vmS) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:31 |
+| 35 | [FALLBACK](https://open.spotify.com/track/0v1WlVvr0XXoSziUdR5vmS) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(Intl Deluxe\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:31 |
 | 36 | [Opus Pocus](https://open.spotify.com/track/1hk6KMDQwGWsdy08PYotmM) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 5:29 |
 | 37 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 38 | [SO HARD TO TELL](https://open.spotify.com/track/1i8nbPyHgwk4OW3GIk4xsy) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1aJozGWAxrZlEHYNS1P0gL) | 3:05 |

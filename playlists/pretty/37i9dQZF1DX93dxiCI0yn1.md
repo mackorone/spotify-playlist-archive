@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,422 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,423 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 13 | [No Control \(feat\. E.V.P & Charlu\)](https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Focus](https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR) | 2:50 |
 | 14 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
 | 15 | [Holiday Wit U](https://open.spotify.com/track/7fYGPf5bN46Sn5cl5M0SO9) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ), [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Holiday Wit U](https://open.spotify.com/album/68bFA1ux6IAc1BwAeT4h7p) | 2:05 |
-| 16 | [Before Famous \- Remix](https://open.spotify.com/track/1IMzNTet4bvT0h0XAdEeaT) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz) | [Before Famous \(feat\. YELLASOMA & Tepa Roucci\) \[Remix\]](https://open.spotify.com/album/2uwZfeziEqthjCMoBHx3fi) | 4:08 |
+| 16 | [Before Famous \(feat\. YELLASOMA & Tepa Roucci\) \- Remix](https://open.spotify.com/track/1IMzNTet4bvT0h0XAdEeaT) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz) | [Before Famous \(feat\. YELLASOMA & Tepa Roucci\) \[Remix\]](https://open.spotify.com/album/2uwZfeziEqthjCMoBHx3fi) | 4:08 |
 | 17 | [TOKYO](https://open.spotify.com/track/7uu9sitndlTCyWZ3ad9RhO) | [ARuM](https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx) | [TOKYO](https://open.spotify.com/album/1q7UQDNZ54fUm9RylYYsOW) | 2:56 |
 | 18 | [ROAD \(feat\. AMO\)](https://open.spotify.com/track/5Esv7z5hX4ZpLmeQ8k4AZf) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py), [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [ROAD \(feat\. AMO\)](https://open.spotify.com/album/3nEWCpLdahAORQaV4rarq9) | 2:11 |
 | 19 | [Wraiths](https://open.spotify.com/track/37BBp8xQYjSlGtwWgrOSt2) | [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [Wraiths](https://open.spotify.com/album/1rF4xEdq8bcGj6TnuhGRDN) | 1:37 |

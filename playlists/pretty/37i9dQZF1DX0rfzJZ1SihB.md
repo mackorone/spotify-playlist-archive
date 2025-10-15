@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 金音獎進入第 16 年了！Spotify 當然全力支持！火速呈獻這些最令人驚喜與回味的好作品 ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,018 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,021 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Oklou x FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,132 likes - 176 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,062 likes - 176 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 10 | [Keep Me in the Dark](https://open.spotify.com/track/1UXrY8dRPFVkkB8MiwpT3T) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [The Life You Save](https://open.spotify.com/album/7fuPhH0QTTl13WgshkTAP6) | 4:26 |
 | 11 | [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 |
 | 12 | [Damn](https://open.spotify.com/track/0KHVISuSBfpkRJ4jZ24y5o) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Damn](https://open.spotify.com/album/4LtjxbySdwqb8XFAtiJ8d1) | 2:54 |
-| 13 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
+| 13 | [Poison \- Cover](https://open.spotify.com/track/4jQqSUYc0MZ3pca9ngXjxS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Poison \(Cover\)](https://open.spotify.com/album/4Zai3cyUa7dKQraixRFL00) | 5:30 |
 | 14 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
 | 15 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 |
 | 16 | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/track/5q0tJ1BEqV4L31UCYfeR51) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/album/6Moc4edBRZlrFRZ0soH6pI) | 3:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,844 likes - 614 songs - 1 day 12 hr 25 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,843 likes - 614 songs - 1 day 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -584,7 +584,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 574 | [Waiting by the Phone](https://open.spotify.com/track/166qPsm4hCjDRzuhNUacjZ) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Waiting by the Phone](https://open.spotify.com/album/0ij3iTBmB231VrgLP8tnMZ) | 2:14 |
 | 575 | [Tell Me How](https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Tell Me How](https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv) | 3:17 |
 | 576 | [No Rush](https://open.spotify.com/track/2LtiO0h0TzdN74yXNjDgZj) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/4mWyF0S5n3m6lHKLLQ5x11) | 4:24 |
-| 577 | [Clouds](https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Play What's Not There](https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI) | 3:53 |
+| 577 | [Clouds](https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq) | [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Play What's Not There](https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI) | 3:53 |
 | 578 | [Pale Blue Dot](https://open.spotify.com/track/7bLIf5jLgRYJLgdI1v1Cok) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Caper](https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz) | 3:40 |
 | 579 | [Always Remember](https://open.spotify.com/track/1ExYYvPf8qmUxtAg5dO196) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Caper](https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz) | 4:52 |
 | 580 | [Divine Energy](https://open.spotify.com/track/5Z7KxFM4Rh9G30pT7p6PRs) | [Mild Universe](https://open.spotify.com/artist/5yoKxCrbs3rGiUMUuPcknJ) | [Everything Must Change](https://open.spotify.com/album/7JrbVR92TUZZAe1b7PlYay) | 4:09 |

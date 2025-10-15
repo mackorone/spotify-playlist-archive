@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Frank Miami
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,541 likes - 89 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,625 likes - 89 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

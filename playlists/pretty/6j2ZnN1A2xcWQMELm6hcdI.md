@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 328,778 likes - 150 songs - 7 hr 28 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 328,755 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 123 | [VILLAIN](https://open.spotify.com/track/3ltI92dAwN1ogoZpko8FYY) | [Akini Jing](https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [VILLAIN](https://open.spotify.com/album/5qc3gDYnlSrZJv4niYR8Kd) | 3:27 |
 | 124 | [ECSTASY \(feat\. Bijan\)](https://open.spotify.com/track/01uD81ohGNu6xF4WKVz18z) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj), [Bijan](https://open.spotify.com/artist/358oq2kHf2pyRO4HSwlHYN) | [A WOMAN'S MIND](https://open.spotify.com/album/2MYD8D8JnJhahMEuJ5MnDP) | 3:47 |
 | 125 | [In Your Hands \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:21 |
-| 126 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
+| 126 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(Intl Deluxe\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
 | 127 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
 | 128 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 |
 | 129 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 |

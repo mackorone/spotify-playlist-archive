@@ -1,12 +1,12 @@
 {
-  "description": "\u0643\u0627\u0641\u064a\u0627\u0631 \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0639\u0631\u0628\u064a",
-  "num_followers": 39115,
+  "description": "\u0623\u0634\u0647\u0631 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0651\u0629 ",
+  "num_followers": 39126,
   "original_name": "\u0647\u064a\u0628 \u0647\u0648\u0628\u0646\u0627",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZDz7PdvQYCrp5aK1eMYnYmHq+J",
+  "snapshot_id": "AAAAAGfrvQsCeUfwJXSQ5qV1WMCPEUJa",
   "tracks": [
     {
       "added_at": "2025-10-02 08:53:38",
@@ -41,10 +41,46 @@
       "url": "https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64"
     },
     {
-      "added_at": "2025-10-03 11:40:35",
+      "added_at": "2025-07-15 07:06:38",
       "album": {
-        "name": "Donia",
-        "url": "https://open.spotify.com/album/5tawL1TpvFCJyHa59wPlpW"
+        "name": "Dabbaba",
+        "url": "https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv"
+      },
+      "artists": [
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        },
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Dabbaba",
+      "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
+    },
+    {
+      "added_at": "2025-10-02 08:53:38",
+      "album": {
+        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
+      },
+      "artists": [
+        {
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+        }
+      ],
+      "duration_ms": 126101,
+      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
+    },
+    {
+      "added_at": "2025-10-02 08:53:38",
+      "album": {
+        "name": "Tshreen",
+        "url": "https://open.spotify.com/album/61WWFyA8saUrpGq5XXz9iI"
       },
       "artists": [
         {
@@ -52,9 +88,93 @@
           "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
         }
       ],
-      "duration_ms": 154434,
-      "name": "Donia",
-      "url": "https://open.spotify.com/track/1Eb7vspAiXYvlwtFCTY0JK"
+      "duration_ms": 141714,
+      "name": "Tshreen",
+      "url": "https://open.spotify.com/track/7EJDlQCVE0LzicekfXBKpA"
+    },
+    {
+      "added_at": "2025-07-15 07:06:38",
+      "album": {
+        "name": "Batn Al Shaer",
+        "url": "https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8"
+      },
+      "artists": [
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        },
+        {
+          "name": "Warchieff",
+          "url": "https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8"
+        },
+        {
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Mashi El Hal",
+      "url": "https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb"
+    },
+    {
+      "added_at": "2025-07-15 07:06:38",
+      "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
+      },
+      "artists": [
+        {
+          "name": "Blvxb",
+          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
+        },
+        {
+          "name": "Ruhmvn",
+          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Miyat 3een",
+      "url": "https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B"
+    },
+    {
+      "added_at": "2025-07-15 07:06:38",
+      "album": {
+        "name": "Alhamdullah",
+        "url": "https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y"
+      },
+      "artists": [
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        },
+        {
+          "name": "Randar",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Alhamdullah",
+      "url": "https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4"
+    },
+    {
+      "added_at": "2025-07-15 07:06:38",
+      "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
+      },
+      "artists": [
+        {
+          "name": "Blvxb",
+          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
+        },
+        {
+          "name": "Ruhmvn",
+          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
+        }
+      ],
+      "duration_ms": 224415,
+      "name": "Fstan Aswad",
+      "url": "https://open.spotify.com/track/006vXYYcdL1MTbMjlY61ro"
     },
     {
       "added_at": "2025-07-15 07:06:38",
@@ -207,90 +327,6 @@
     {
       "added_at": "2025-10-02 08:53:38",
       "album": {
-        "name": "Jiddo",
-        "url": "https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY"
-      },
-      "artists": [
-        {
-          "name": "Mvndila",
-          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "Jiddo",
-      "url": "https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM"
-    },
-    {
-      "added_at": "2025-10-02 08:53:38",
-      "album": {
-        "name": "Cima",
-        "url": "https://open.spotify.com/album/3c90YV2TtEGpmoMXSttMFf"
-      },
-      "artists": [
-        {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
-        },
-        {
-          "name": "Big Moe",
-          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Cima",
-      "url": "https://open.spotify.com/track/0Aa8tvJw1AaDPF29mmBECv"
-    },
-    {
-      "added_at": "2025-10-02 08:53:38",
-      "album": {
-        "name": "Kitab",
-        "url": "https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI"
-      },
-      "artists": [
-        {
-          "name": "Tageel",
-          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn"
-    },
-    {
-      "added_at": "2025-10-07 07:52:38",
-      "album": {
-        "name": "Km Wahed",
-        "url": "https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn"
-      },
-      "artists": [
-        {
-          "name": "Triple9",
-          "url": "https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt"
-        }
-      ],
-      "duration_ms": 135784,
-      "name": "Km Wahed",
-      "url": "https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "Lajl Aldar",
-        "url": "https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB"
-      },
-      "artists": [
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Lajl Aldar",
-      "url": "https://open.spotify.com/track/6Mt9xxJ9RVgvMtN7Qqguv7"
-    },
-    {
-      "added_at": "2025-10-02 08:53:38",
-      "album": {
         "name": "Apocalypto",
         "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
       },
@@ -303,22 +339,6 @@
       "duration_ms": 177884,
       "name": "Apocalypto",
       "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
-    },
-    {
-      "added_at": "2025-10-02 08:53:38",
-      "album": {
-        "name": "Ma Radeet",
-        "url": "https://open.spotify.com/album/1Z8xBdJoHbSMNhqnVzf82g"
-      },
-      "artists": [
-        {
-          "name": "Kay'O",
-          "url": "https://open.spotify.com/artist/4lCpE1UtoM4m8ocppw2AJp"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Ma Radeet",
-      "url": "https://open.spotify.com/track/10Iwvjz3GkcdgSAA5mlGXx"
     },
     {
       "added_at": "2025-10-02 08:53:38",
@@ -377,6 +397,22 @@
       "url": "https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt"
     },
     {
+      "added_at": "2025-10-07 07:52:38",
+      "album": {
+        "name": "Km Wahed",
+        "url": "https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn"
+      },
+      "artists": [
+        {
+          "name": "Triple9",
+          "url": "https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt"
+        }
+      ],
+      "duration_ms": 135784,
+      "name": "Km Wahed",
+      "url": "https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV"
+    },
+    {
       "added_at": "2025-10-02 08:53:38",
       "album": {
         "name": "DOMA",
@@ -395,22 +431,6 @@
       "duration_ms": 180000,
       "name": "DOMA",
       "url": "https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8"
-    },
-    {
-      "added_at": "2025-10-02 08:53:38",
-      "album": {
-        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
-        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
-      },
-      "artists": [
-        {
-          "name": "Connan",
-          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
-        }
-      ],
-      "duration_ms": 126101,
-      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
-      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
     },
     {
       "added_at": "2025-10-02 08:53:38",
@@ -483,22 +503,6 @@
     {
       "added_at": "2025-10-02 08:53:38",
       "album": {
-        "name": "Tshreen",
-        "url": "https://open.spotify.com/album/61WWFyA8saUrpGq5XXz9iI"
-      },
-      "artists": [
-        {
-          "name": "Soulja",
-          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Tshreen",
-      "url": "https://open.spotify.com/track/7EJDlQCVE0LzicekfXBKpA"
-    },
-    {
-      "added_at": "2025-10-02 08:53:38",
-      "album": {
         "name": "\u0627\u0646\u062a\u0631\u0648",
         "url": "https://open.spotify.com/album/0xRUHDEuShsfDJfPzfYAK7"
       },
@@ -555,22 +559,6 @@
     {
       "added_at": "2025-07-15 07:06:38",
       "album": {
-        "name": "\u0641\u0648\u064a\u0642\u0648",
-        "url": "https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Trill",
-          "url": "https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD"
-        }
-      ],
-      "duration_ms": 132431,
-      "name": "\u0641\u0648\u064a\u0642\u0648",
-      "url": "https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
         "name": "Oss",
         "url": "https://open.spotify.com/album/3QGmyRGSJl9i4NpGuSs7Kj"
       },
@@ -591,26 +579,6 @@
       "duration_ms": 185583,
       "name": "Oss",
       "url": "https://open.spotify.com/track/2n3TIdIXujwIEsyaOVHshS"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "Valhalla",
-        "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
-      },
-      "artists": [
-        {
-          "name": "Blvxb",
-          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
-        },
-        {
-          "name": "Ruhmvn",
-          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
-        }
-      ],
-      "duration_ms": 224415,
-      "name": "Fstan Aswad",
-      "url": "https://open.spotify.com/track/006vXYYcdL1MTbMjlY61ro"
     },
     {
       "added_at": "2025-07-15 07:06:38",
@@ -693,90 +661,6 @@
       "url": "https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0"
-      },
-      "artists": [
-        {
-          "name": "Lil Eazy",
-          "url": "https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS"
-        },
-        {
-          "name": "Rissi Tempo",
-          "url": "https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "Alhamdullah",
-        "url": "https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y"
-      },
-      "artists": [
-        {
-          "name": "Alyoung",
-          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
-        },
-        {
-          "name": "Randar",
-          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Alhamdullah",
-      "url": "https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "Batn Al Shaer",
-        "url": "https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8"
-      },
-      "artists": [
-        {
-          "name": "Moayad",
-          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
-        },
-        {
-          "name": "Warchieff",
-          "url": "https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8"
-        },
-        {
-          "name": "The Synaptik",
-          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Mashi El Hal",
-      "url": "https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "LkLk",
-        "url": "https://open.spotify.com/album/7JUPrKv0iiM5WIWYmL1wv9"
-      },
-      "artists": [
-        {
-          "name": "Khayyat",
-          "url": "https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut"
-        },
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "LkLk",
-      "url": "https://open.spotify.com/track/5VZ8DEWkAQfd7SZi0t2OAs"
-    },
-    {
       "added_at": "2025-10-02 08:53:38",
       "album": {
         "name": "Memento",
@@ -811,46 +695,6 @@
     {
       "added_at": "2025-07-15 07:06:38",
       "album": {
-        "name": "Valhalla",
-        "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
-      },
-      "artists": [
-        {
-          "name": "Blvxb",
-          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
-        },
-        {
-          "name": "Ruhmvn",
-          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Miyat 3een",
-      "url": "https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "Dabbaba",
-        "url": "https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv"
-      },
-      "artists": [
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
-        },
-        {
-          "name": "Moayad",
-          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Dabbaba",
-      "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
         "name": "Khalisni",
         "url": "https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378"
       },
@@ -867,22 +711,6 @@
       "duration_ms": 189295,
       "name": "Khalisni",
       "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "\u0648\u0644\u0627 \u0639\u0644\u0649 \u0628\u0627\u0644\u064a",
-        "url": "https://open.spotify.com/album/6VrheuHCALL2N5QtBh2g2c"
-      },
-      "artists": [
-        {
-          "name": "Al9ine",
-          "url": "https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "\u0648\u0644\u0627 \u0639\u0644\u0649 \u0628\u0627\u0644\u064a",
-      "url": "https://open.spotify.com/track/4fFlBKt5bsLqEDBHOUtjwe"
     },
     {
       "added_at": "2025-07-15 07:06:38",

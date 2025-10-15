@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0?si=W2SDSqoyTh6HKmuAk1Lutg">Braye</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr?si=2xtAyPa4S5GHtVw5urCkUg">Fimi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,301 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,332 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bring You Home](https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 2:28 |
-| 2 | [Hei God](https://open.spotify.com/track/7D7R9sQY9AGEa3ThELE2BG) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Hei God](https://open.spotify.com/album/1Es8V6DJBT1rhGmHKRYScv) | 2:37 |
-| 3 | [Latansa](https://open.spotify.com/track/3gwl7yvUPSEMjfsECI4vAx) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Latansa](https://open.spotify.com/album/0yiwF8hPRZ5EWqOJTkzHgB) | 1:53 |
-| 4 | [How Do You?](https://open.spotify.com/track/1ByWHNLTkPtzImR5jUjvQ2) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [How Do You?](https://open.spotify.com/album/7fLcgyXSupsaclb9IwC736) | 3:30 |
+| 1 | [Hei God](https://open.spotify.com/track/7D7R9sQY9AGEa3ThELE2BG) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Hei God](https://open.spotify.com/album/1Es8V6DJBT1rhGmHKRYScv) | 2:37 |
+| 2 | [Latansa](https://open.spotify.com/track/3gwl7yvUPSEMjfsECI4vAx) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Latansa](https://open.spotify.com/album/0yiwF8hPRZ5EWqOJTkzHgB) | 1:53 |
+| 3 | [How Do You?](https://open.spotify.com/track/1ByWHNLTkPtzImR5jUjvQ2) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [How Do You?](https://open.spotify.com/album/7fLcgyXSupsaclb9IwC736) | 3:30 |
+| 4 | [Bring You Home](https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 2:28 |
 | 5 | [Ekhweni](https://open.spotify.com/track/1Wl1Se2aG6yTplWeZMS4RG) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Umsoco](https://open.spotify.com/album/3jgYcBo6qNi2GM4sNEwZ7a) | 2:39 |
 | 6 | [Radioactive](https://open.spotify.com/track/0jNUcAH6gXUYhRfnaxe9jt) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Radioactive](https://open.spotify.com/album/5Aufy1EiNfNgWkPZ1dlGhP) | 2:57 |
 | 7 | [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 79 | [France Feeling](https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43) | [Kokoë](https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [France Feeling](https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG) | 2:49 |
 | 80 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
 
-Snapshot ID: `AAAAAEegQK5vIVz4Rxy5HeWJiGBn6TX5`
+Snapshot ID: `AAAAAOFl5x0ro+Ycupz5sMakv0hzy2Uz`

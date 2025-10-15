@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,194 likes - 73 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,202 likes - 73 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 8 | [Thedal](https://open.spotify.com/track/6DF5ghhV4ColVi92w2qFsD) | [PRI](https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit), [Bak n 4th](https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv) | [Aarohanam](https://open.spotify.com/album/5Da0j8ZDRVATizTR7c2gTU) | 3:37 |
 | 9 | [Uravu](https://open.spotify.com/track/3TOTZPe7Lgz8V9Q13eYuW8) | [Subam](https://open.spotify.com/artist/52OuNxWJtsuIzGLjnx9Vul) | [Uravu](https://open.spotify.com/album/3VlIDaxDKf2n3Jdi3JtQWi) | 3:35 |
 | 10 | [Oru Murai Nokkinal](https://open.spotify.com/track/5ehjc7hFuqi73E9GmQEz1U) | [Vinesh dharan](https://open.spotify.com/artist/3HhORWLWExRuQ9ucBVIO11), [Christy George](https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W), [K Anandharaj](https://open.spotify.com/artist/3gHA9kFFrYKUrmoRhu6spK) | [Oru Murai Nokkinal](https://open.spotify.com/album/3N8GHJTEk7RVZI0fRoDrs6) | 4:32 |
-| 11 | [Janakiye](https://open.spotify.com/track/52N6RgGC94sOoARc7XeLpL) | [Ajai Kumar J](https://open.spotify.com/artist/1frvOLXXgLm9I9pjS4pzGX) | [Janakiye](https://open.spotify.com/album/6pKGh5qRJMirFaiolmIKuQ) | 3:28 |
+| 11 | [Janakiye](https://open.spotify.com/track/52N6RgGC94sOoARc7XeLpL) | [Ajai Kumar](https://open.spotify.com/artist/1RdDqJm2KdpGl0gYXEioPd) | [Janakiye](https://open.spotify.com/album/6pKGh5qRJMirFaiolmIKuQ) | 3:28 |
 | 12 | [Kaadhal Vibe \(Bachata\)](https://open.spotify.com/track/6cORWkPNsK5unM85YFALFl) | [Arun Pauer](https://open.spotify.com/artist/1nXfmyX8X7x8meYQKiUsYp) | [Kaadhal Vibe \(Bachata\)](https://open.spotify.com/album/30SMTGvSew2EjPSabpbCuN) | 2:47 |
 | 13 | [Uyire](https://open.spotify.com/track/19WsWmlR4HqakbEwk56N5T) | [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sradha Prasannan](https://open.spotify.com/artist/2nRcSH8dnx03gvvizxVGVA) | [Uyire](https://open.spotify.com/album/0y4NfiWN2EyNHlAX5esBZo) | 3:59 |
 | 14 | [Kanjaada](https://open.spotify.com/track/3M83NsjslV7zPdAYdkGqlO) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR) | [Kanjaada](https://open.spotify.com/album/1bDZYNMRVMRotImIClVWKw) | 1:56 |

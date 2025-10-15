@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,357 songs - 12 day 11 hr 24 min
+5,360 songs - 12 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1313,6 +1313,7 @@
 | [Drink a Little Drink](https://open.spotify.com/track/0jrheUfWaaTWT8nUCPHki7) | [Mateo y Las Manos Pesadas](https://open.spotify.com/artist/0CfBBPSfkZu946h1aeKReF) | [48](https://open.spotify.com/album/6lPjaOASs4FLNPiIHEtDVU) | 4:07 | 2023-08-05 | 2023-08-28 |
 | [Drink My Problems Away](https://open.spotify.com/track/5rFJzOEel7sMIe49f7KsXT) | [Yung LC](https://open.spotify.com/artist/39dFqypP9TcTjylb6s5N7U) | [Before I Changed](https://open.spotify.com/album/0P8vCdYBk5QNW2jkYBdRvW) | 1:52 | 2024-02-13 | 2024-02-21 |
 | [Drink The River](https://open.spotify.com/track/79DYCnC5S7lhCwo1rKIwoM) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 3:35 | 2023-12-29 | 2024-03-08 |
+| [Drinkin' Again](https://open.spotify.com/track/03IDe9WgzVDzwSMlUvZcPy) | [Reed Foley](https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc) | [Drinkin' Again](https://open.spotify.com/album/2EPCExRYd73PEsoj4ipG7X) | 2:43 | 2025-10-14 |  |
 | [Drip](https://open.spotify.com/track/76t3kwyZrNb2FIb6TIBfC7) | [Paul Law](https://open.spotify.com/artist/3WZR44LCni9s4kxjq7UUhT) | [Drip](https://open.spotify.com/album/0dckg2hUJBHmPMxBGh1kcq) | 3:10 | 2024-04-13 | 2024-04-24 |
 | [Drive My Car](https://open.spotify.com/track/3y9FcUfrYXHnIYnX5kpnPb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Drive My Car](https://open.spotify.com/album/5MgKrigRaertcxGsj7zUAD) | 1:52 | 2025-09-10 | 2025-10-11 |
 | [Drive Slow](https://open.spotify.com/track/09SbfON8Ku2P4XOw3HNqq6) | [Becca Hannah](https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK), [The FXP](https://open.spotify.com/artist/7nl3G9Ak0XfwSEdFF7ZOUS) | [Drive Slow](https://open.spotify.com/album/4h5GmSrdCseWIDoh0wjdAh) | 2:52 | 2024-03-26 | 2024-04-12 |
@@ -2257,6 +2258,7 @@
 | [I'm Good](https://open.spotify.com/track/46iMo18vJAabHoIXupE5eu) | [MACY](https://open.spotify.com/artist/1yfEXhEdfxucShJs6NXXc9) | [I'm Good](https://open.spotify.com/album/6UpURbbdJTdWR3Acna4aBU) | 2:56 | 2021-12-31 | 2022-01-15 |
 | [I'm Happy](https://open.spotify.com/track/6rrK6kLqjoPHUyChkTTLGh) | [Tonal Graffiti](https://open.spotify.com/artist/1nd45Z3rbwZTh7CLAEBW4k) | [I'm Happy](https://open.spotify.com/album/1dyfZN6WR4gQcFW7tWLRXR) | 2:39 | 2023-08-25 | 2023-09-26 |
 | [I'm Home](https://open.spotify.com/track/0cyet2FV6brooO5mA4Gcco) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [I'm Home](https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp) | 4:26 | 2022-08-19 | 2022-09-04 |
+| [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 | 2025-10-14 |  |
 | [I'm Ok](https://open.spotify.com/track/5jBLoyyfD4ZzQ1WZhJGRPb) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [80 Fenway](https://open.spotify.com/album/09YHB71puDqaIJinUFZEzt) | 3:31 | 2022-01-14 | 2023-01-21 |
 | [i'm out](https://open.spotify.com/track/6ZaMUeJbdksiE98WMZg9Gs) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [i'm out](https://open.spotify.com/album/4hzuJ1py4srcceyi5M3ldN) | 3:18 | 2021-06-01 | 2021-06-08 |
 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 | 2023-07-31 | 2023-08-20 |
@@ -3076,7 +3078,7 @@
 | [More Time](https://open.spotify.com/track/6WdEUkiTCnXXeSyHJuOekf) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [More Time](https://open.spotify.com/album/2wHsJhnP4ss5XXh8KenlHh) | 2:43 | 2024-09-02 | 2024-09-13 |
 | [Morning Pulse](https://open.spotify.com/track/3Zy95EShtjEMe2Sn1StLvK) | [DONPAIRION](https://open.spotify.com/artist/0XkJBN6kZ25ZGfXsuHQRyp) | [PULSE](https://open.spotify.com/album/74aSmBDf6t5SlwJWoXLeC2) | 4:34 | 2025-02-16 | 2025-02-28 |
 | [Morning Sunshine](https://open.spotify.com/track/2ji9igsCK3UqG1AbMDumz3) | [The Paddle Boy](https://open.spotify.com/artist/1ey4vgagS6Gvn0Xjc0A20c) | [Morning Sunshine](https://open.spotify.com/album/2RYZXCFgYj7UQ4HZZsjwTv) | 3:15 | 2025-06-22 | 2025-07-04 |
-| [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 | 2025-03-20 | 2025-04-01 |
+| [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 | 2025-03-20 |  |
 | [Moses Brown \- \(Album Version\)](https://open.spotify.com/track/6FNhIuNmWRkgWTy8BfJxWe) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 3:49 | 2025-02-24 | 2025-03-08 |
 | [Moses' Mama](https://open.spotify.com/track/1U9Se5xHezUHYai6HwaWQ4) | [Britt Kellim](https://open.spotify.com/artist/07jdc88UuXw81ETMQp6wkQ) | [Moses' Mama](https://open.spotify.com/album/52rfj6nQHvikGGd3RvM5Wm) | 5:31 | 2025-04-09 | 2025-04-21 |
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
@@ -3128,7 +3130,7 @@
 | [My Calling, The Door](https://open.spotify.com/track/4fTVfics9pwvRsEIcZRJ3H) | [Natalie Claro](https://open.spotify.com/artist/6A0AOpJ7VsZvimYUSbE1Iw) | [Atychiphobia](https://open.spotify.com/album/0CW1jo2pFzW6GMhYeMx4zG) | 3:06 | 2023-09-01 | 2023-09-26 |
 | [My Country Blonde](https://open.spotify.com/track/0l1jDe1RfFJtI7onZlrYcV) | [HazyHero](https://open.spotify.com/artist/0b1nIWvxtjb7eqO9C17G5P) | [Creations](https://open.spotify.com/album/72q3lm7zWRzbeETFcJSmfp) | 2:58 | 2025-01-15 | 2025-01-28 |
 | [My Favorite Song](https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7) | 3:31 | 2023-02-11 | 2023-03-11 |
-| [My Favorite Things](https://open.spotify.com/track/7blEpVH3NaBdwNNsTkC8qf) | [Hannah Stokes](https://open.spotify.com/artist/0VFXVciHQhitOVfXQxQ5jo) | [My Favorite Things](https://open.spotify.com/album/1nudCoqMVlbNzWarlpS9gP) | 2:40 | 2025-09-13 |  |
+| [My Favorite Things](https://open.spotify.com/track/7blEpVH3NaBdwNNsTkC8qf) | [Hannah Stokes](https://open.spotify.com/artist/0VFXVciHQhitOVfXQxQ5jo) | [My Favorite Things](https://open.spotify.com/album/1nudCoqMVlbNzWarlpS9gP) | 2:39 | 2025-09-13 |  |
 | [My Fire](https://open.spotify.com/track/0GpwjUTJLfwJRGnBpmSsG6) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [My Fire](https://open.spotify.com/album/1xZT0U8TpmwWzUc4sTch8G) | 3:13 | 2021-09-24 | 2021-10-10 |
 | [My Flower](https://open.spotify.com/track/7gzYQk8YYHuAG3nqrKk98E) | [Josie James](https://open.spotify.com/artist/4lvQeMOBIb26KSoPaYXMI2) | [My Flower](https://open.spotify.com/album/6hlouhJGBMd0dJuEV1D3Qs) | 2:00 | 2024-07-08 | 2024-07-20 |
 | [My Freedom](https://open.spotify.com/track/4MUrLGKNqRgH3LRUriDWit) | [Jared Benson](https://open.spotify.com/artist/5tOpgdpxDhmsR7khI7GBHd) | [Save My Soul](https://open.spotify.com/album/4jLCcV8PYXcmtrDOROZUwp) | 3:31 | 2025-04-28 | 2025-05-10 |
@@ -5160,6 +5162,7 @@
 | [While we're young](https://open.spotify.com/track/5ryj5AaELa08Msklvhnpfq) | [Syren's Belle](https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a) | [GODDESSS OF METAMORPHOSIS](https://open.spotify.com/album/0QXpg6GkETJWONn9zeADTU) | 3:56 | 2024-12-11 | 2024-12-24 |
 | [While We're Young](https://open.spotify.com/track/02CrYn7TIrxWa6FurNeZVE) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [While We're Young](https://open.spotify.com/album/4SezDrs1Pcod3WvZY27AVQ) | 3:30 | 2025-05-15 | 2025-06-21 |
 | [WHIMPER](https://open.spotify.com/track/4bDCvXkzZkjsRKe7WfxBuB) | [Kadeli](https://open.spotify.com/artist/3zip7JElymH3ui0PMfkMaf) | [WHIMPER](https://open.spotify.com/album/2NE4MEi5wqQkS0Cho6Rwnh) | 2:34 | 2025-10-01 |  |
+| [Whine for Me Baby](https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ) | [Moneymarkhot](https://open.spotify.com/artist/09LFlcexm5a9KlybGUv1vR), [Eazi Money](https://open.spotify.com/artist/7JxdiR4AQ6TDKzHPRRaEL6) | [Whine for Me Baby](https://open.spotify.com/album/0qzwhEJ8iCDdfjYUfsh8mD) | 2:44 | 2025-10-14 |  |
 | [Whinny](https://open.spotify.com/track/1xTMy7HgdsQgkUGtXAJYit) | [Tim Kinsella & Jenny Pulse](https://open.spotify.com/artist/1vfPR14ddtVgI6iebhlHWt), [Tim Kinsella](https://open.spotify.com/artist/30e3CYz24vlVZzdnegJHsg), [Jenny Pulse](https://open.spotify.com/artist/11nWNSLLOLqVi17nQT9vLf) | [Whinny](https://open.spotify.com/album/1to2pvDZOjXL2XfTgfGKTh) | 3:21 | 2023-08-05 | 2023-08-28 |
 | [Whiskey & Wine](https://open.spotify.com/track/6liO4R9gEm8kve48pdn166) | [Chrizz Michaels](https://open.spotify.com/artist/2A0tu1OHjti0AYobHkGcge) | [Whiskey & Wine](https://open.spotify.com/album/7Gzko3HIuKW5iVvOSh8Kwm) | 2:20 | 2024-09-05 | 2024-09-14 |
 | [Whiskey Promises](https://open.spotify.com/track/5WKLnjjJz1byKHGRWY5JVh) | [Dane Bateman](https://open.spotify.com/artist/1YGJhVTeQwQPkjb6fh5nwJ) | [Whiskey Promises](https://open.spotify.com/album/1NRQiIjtMLIML7Uq1s2PsZ) | 2:30 | 2025-05-17 | 2025-05-29 |

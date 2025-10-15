@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,982 likes - 108 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,039 likes - 108 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 72 | [Victory Is My Name \- Live](https://open.spotify.com/track/1wOvQguNVaN69UO3ftvopO) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Victory Sounds](https://open.spotify.com/album/2Oy6IEUCepPjnfW8IUBSRp) | 7:24 |
 | 73 | [Big God](https://open.spotify.com/track/4ZzSdItE217uwFoXa291YW) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:11 |
 | 74 | [Covenant Keeping God](https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Covenant Keeping God](https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp) | 13:56 |
-| 75 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
+| 75 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/3zq1rVKwSM61vtf2NxOTAH) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
 | 76 | [So Good](https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [So Good](https://open.spotify.com/album/7d6PpHVB0TjQbogPXJ23Ar) | 3:18 |
 | 77 | [In a Moment](https://open.spotify.com/track/6hXaqgI3uo1uEWtjLvYlPc) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [In a Moment](https://open.spotify.com/album/63OTquAxu2oEjdzUsHNSvr) | 4:21 |
 | 78 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |

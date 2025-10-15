@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0?si=W2SDSqoyTh6HKmuAk1Lutg">Braye</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr?si=2xtAyPa4S5GHtVw5urCkUg">Fimi</a>\. Artwork: Isu Kim.
 
 1,372 songs - 2 day 20 hr 40 min
 

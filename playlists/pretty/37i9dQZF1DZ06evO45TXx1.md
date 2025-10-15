@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,075 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,082 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Afirma Freestyle](https://open.spotify.com/track/1v5mxZ26QrXoDIcCOyRvCF) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Afirma Freestyle](https://open.spotify.com/album/2qUEuvra3mR08zFfls6VDR) | 2:45 |
 | 50 | [Ácido na Boca](https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Ácido na Boca](https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01) | 2:50 |
 
-Snapshot ID: `aOrvgAAAAADjPWC74D5C1gXeusu08Xiy`
+Snapshot ID: `aOxBAAAAAAD4KmbfP2Ym48RZkybHPF3C`
