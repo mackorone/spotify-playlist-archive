@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Liquid Mike
 
-2,127 songs - 4 day 21 hr 44 min
+2,130 songs - 4 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [catf!sh](https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [catf!sh](https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz) | 2:55 | 2023-08-23 | 2023-09-21 |
 | [Catharsis](https://open.spotify.com/track/4uZP2V8073N3O7dJhqGxhG) | [Déjà Vega](https://open.spotify.com/artist/483rzWQUl6P2PVUCSy03IM) | [Personal Hell](https://open.spotify.com/album/2cRHRSE2rBXSn4dsqdUWgk) | 2:56 | 2022-02-02 | 2022-04-28 |
 | [catherine never broke again](https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [catherine never broke again](https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM) | 1:54 | 2023-03-01 | 2023-03-23 |
+| [catsitting](https://open.spotify.com/track/7GPSHLFx3Ums2kOQRNXVjb) | [armbite](https://open.spotify.com/artist/3szLtt4txG5WdKTEXZweaW) | [dawg rock vol\. 1](https://open.spotify.com/album/3Zf568bJ353Xe0Hn7lfYiQ) | 2:18 | 2025-10-15 |  |
 | [Cause Of Death](https://open.spotify.com/track/4wIsmo8RQ2np71DuQKCUNB) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [Cause Of Death](https://open.spotify.com/album/7ynaZwKj0bgWuXbiDUODTY) | 3:57 | 2024-06-19 | 2024-07-18 |
 | [CeeDee Lamb](https://open.spotify.com/track/1c8lRxkCEhgJTxFpLxGQzj) | [Lauds](https://open.spotify.com/artist/1GyeDyYxWoVscUNx7dzHUz) | [Imitation Life](https://open.spotify.com/album/3tCQ1J4TKnpIBqOGZibm6q) | 3:01 | 2023-02-01 | 2023-02-23 |
 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 | 2024-01-17 | 2024-05-09 |
@@ -1006,6 +1007,7 @@
 | [Immediately](https://open.spotify.com/track/1J1925GGyVXBlrgyBJ78Po) | [Stay Lunar](https://open.spotify.com/artist/6kqPs71d5mSIQ5XYc4VRpK) | [Immediately](https://open.spotify.com/album/4b936ZtmChocnDB6I5Sg05) | 3:07 | 2021-12-01 | 2022-03-24 |
 | [Impostor](https://open.spotify.com/track/75RFwKV6wjJiCQmuoUY69f) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Impostor](https://open.spotify.com/album/3NBoW2xXLwfN7LyscAbdyQ) | 4:25 | 2021-12-01 | 2022-01-20 |
 | [In & Out](https://open.spotify.com/track/5alRL7O5LHo0Ff3QAkkGHj) | [Lawrence Taylor](https://open.spotify.com/artist/7so1HCxGkBmfqdvIF5HzkT) | [In & Out](https://open.spotify.com/album/3X9mTnQGOmJQbCdDJM9FsQ) | 4:36 | 2023-01-11 | 2023-03-23 |
+| [In A Box](https://open.spotify.com/track/2EIB4eM1cPpUivQiImSgyv) | [Cusp](https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8) | [In A Box](https://open.spotify.com/album/6zrz8nPg5aA9h7Ph1cnOf5) | 3:00 | 2025-10-15 |  |
 | [In A Dream](https://open.spotify.com/track/1nrRFHurbF6jhinVdptcrz) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [In A Dream](https://open.spotify.com/album/4f9Lnm7NbrdvziSNZmOcGO) | 7:23 | 2024-07-31 | 2024-11-21 |
 | [IN LOVE WITH THE SOUND](https://open.spotify.com/track/7sj38dLblyPETO5fAPqSah) | [WHY NOT](https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP) | [IN LOVE WITH THE SOUND](https://open.spotify.com/album/1tZF4sUF5vIGUUWUXmdfbp) | 3:09 | 2022-03-23 | 2022-06-30 |
 | [in my blood](https://open.spotify.com/track/6UCtr0AtfQz1F911AFgbI6) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:28 | 2024-08-30 | 2025-01-16 |
@@ -1803,6 +1805,7 @@
 | [Survive](https://open.spotify.com/track/3ZChuMe79rMIhFKF5T9WEC) | [American Culture](https://open.spotify.com/artist/6OaSE468GGX1xWqex449FP) | [Hey Brother, It's Been a While](https://open.spotify.com/album/5oPQepEmSOMPDHEIVcTsIh) | 2:45 | 2024-05-08 | 2024-08-22 |
 | [Survive](https://open.spotify.com/track/6fpa8Y9ZZUsshzgzNdh5iY) | [Colatura](https://open.spotify.com/artist/281DMYRccJJg8BXz1TIZF5) | [If I'm Being Honest](https://open.spotify.com/album/4U9dNIj8njh8tY0tRaCDcg) | 2:49 | 2025-08-06 |  |
 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-11 | 2023-02-02 |
+| [Swamped](https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky is Falling](https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2) | 3:17 | 2025-10-15 |  |
 | [Swarm the Hive Mind](https://open.spotify.com/track/5jVvOLyhniE3BW5uyhTr82) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Swarm the Hive Mind](https://open.spotify.com/album/3b9IYSlSWPHFHZovYo9TBH) | 3:49 | 2024-12-04 | 2025-01-16 |
 | [Swiss Army Girl](https://open.spotify.com/track/7JSamSm9Cc2jpliX5jkDR1) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Swiss Army Girl](https://open.spotify.com/album/5eHuvPq3RTMokw2qOBxPHY) | 2:29 | 2025-08-27 | 2025-10-09 |
 | [sycophant](https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [sycophant](https://open.spotify.com/album/3CZAPVV4buBpBXHFRNzDaT) | 2:09 | 2025-06-04 |  |

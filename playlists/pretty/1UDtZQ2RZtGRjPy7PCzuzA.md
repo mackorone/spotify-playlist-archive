@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,034 songs - 2 day 11 hr 1 min
+[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,037 songs - 2 day 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1042,5 +1042,8 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1032 | [Finale](https://open.spotify.com/track/5BtWMJRupEg4MyuNXooqnT) | [Mary Beth Peil](https://open.spotify.com/artist/2QQcdCmfjnTkoKVrEpERZT), [Ramin Karimloo](https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP), [Anastasia Company](https://open.spotify.com/artist/57S1h5W34KKpABIzAKE1Q8) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 1:34 |
 | 1033 | [Pothole \(feat\. Jaden Smith\)](https://open.spotify.com/track/5SxlUF7J8tyFIEF22EomeP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Alexander Brettin](https://open.spotify.com/artist/0VMO6LSExFeqYrtcR8VAre), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:57 |
 | 1034 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 |
+| 1035 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
+| 1036 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 |
+| 1037 | [tehe](https://open.spotify.com/track/2kp86yPhiPBTyoTYHB403F) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:42 |
 
-Snapshot ID: `AAAGy1B2IHy+SrDC7dsZMv9/HzKIpVFh`
+Snapshot ID: `AAAGznrJN9beahAzUo/8EfDedeenYA/U`

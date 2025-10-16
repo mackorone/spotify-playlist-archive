@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,990 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,002 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 35 | [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 |
 | 36 | [Hello](https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [PWOTEJE M](https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa) | 2:54 |
 | 37 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 |
-| 38 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 |
+| 38 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 |
 | 39 | [Bay Vag](https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Chante ap ret chante](https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7) | 4:13 |
-| 40 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 |
+| 40 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 |
 | 41 | [Tick Tock Boom](https://open.spotify.com/track/3tegnAgLGsny5A9F04trQP) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9), [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [Tick Tock Boom](https://open.spotify.com/album/0T7e56yIFCMxvWIrfgLQlD) | 2:13 |
 | 42 | [Se Pa Pou Dat](https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB), [Alan Cave](https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Patron](https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2) | 4:40 |
 | 43 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |

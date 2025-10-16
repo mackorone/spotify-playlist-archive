@@ -4,7 +4,7 @@
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-269 songs - 15 hr 44 min
+270 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Dil E Nadaan \(From "Housefull 5"\)](https://open.spotify.com/track/40FcOzKAc8fe5K1z6CU8f0) | [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Sumonto Mukherjee](https://open.spotify.com/artist/6g6hYV0STvnWlu1NPD6pDy), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Dil E Nadaan \(From "Housefull 5"\)](https://open.spotify.com/album/0AENKe45b3y0qjmixBVcKn) | 3:28 | 2025-05-21 | 2025-07-31 |
 | [Dilbar](https://open.spotify.com/track/0Ms1V2flsPzr2bVqImelCB) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Satyameva Jayate](https://open.spotify.com/album/5Ni5qgjE8gMZl4TXrbTwoV) | 3:04 | 2021-11-30 | 2021-12-14 |
 | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/track/4tjLYTXFqZhkUDga4bQ0yl) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/album/27u2VWTy7ZtiL9ExdzRoXS) | 3:04 | 2023-05-12 |  |
+| [Dilbar Ki Aankhon Ka \(From "Thamma"\)](https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dilbar Ki Aankhon Ka \(From "Thamma"\)](https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq) | 2:49 | 2025-10-15 |  |
 | [Dilliwaali Girlfriend](https://open.spotify.com/track/3W1XPf7mvuQcWQB7U7MbTM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:20 | 2023-05-23 | 2024-01-25 |
 | [Disco Disco](https://open.spotify.com/track/0bqmYMFgErHrS38mMkYZ6y) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI) | [A Gentleman](https://open.spotify.com/album/5yl46ykkODW4AE8vZ2qQ0N) | 2:47 | 2023-05-12 | 2023-06-09 |
 | [Do You Love Me](https://open.spotify.com/track/3neht9bfnLvQwV9jXIWVK9) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Baaghi 3](https://open.spotify.com/album/5ZnhEAXHIt3lomWlfswwnv) | 2:42 | 2023-09-14 | 2023-10-24 |
@@ -276,6 +277,6 @@
 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 | 2023-01-23 | 2025-01-16 |
 | [Yeh Ek Zindagi](https://open.spotify.com/track/7hUSrWxMzNHjOKX1oa7TZ1) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Anupama Chakraborty Shrivastava](https://open.spotify.com/artist/67eRPYJ7H3kLOBhrFmdO3e) | [Monica, O My Darling \(Music from the Netflix Film\)](https://open.spotify.com/album/3AzmEMs7laz9TpKVEvdFX2) | 3:38 | 2023-01-13 | 2023-05-13 |
 | [Zingaat](https://open.spotify.com/track/5raWEZXYAapq6Qw1GIEIkU) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Dhadak](https://open.spotify.com/album/5Pn4u5kYgcx8cjSmeY6aFu) | 3:46 | 2021-11-30 | 2021-12-14 |
-| [Zingaat](https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Dhadak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA) | 3:46 | 2025-01-22 |  |
+| [Zingaat](https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Dhadak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA) | 3:46 | 2025-01-22 | 2025-10-16 |
 
 \*This playlist was first scraped on 2021-01-29. Prior content cannot be recovered.

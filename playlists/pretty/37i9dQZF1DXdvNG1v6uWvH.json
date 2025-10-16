@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Khalid, Of Monsters and Men, Malen og m\u00f6rgum fleiri!",
-  "num_followers": 9490,
+  "num_followers": 9495,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sensational",
+      "url": "https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
         "name": "ADD",
         "url": "https://open.spotify.com/album/1AOSAxjs4NwTjxN3k0OBvW"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 149578,
       "name": "Whatever U Want (feat. Jeremih)",
       "url": "https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
-        "name": "Sensational",
-        "url": "https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sensational",
-      "url": "https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -563,30 +563,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Down For You",
-        "url": "https://open.spotify.com/album/51ikLHp9PJdKuWSKGI8b7K"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Down For You",
-      "url": "https://open.spotify.com/track/797phNSRMhA06VJp3syULD"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "Avenoir",
         "url": "https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw"
       },
@@ -619,18 +595,26 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
+        "name": "Down For You",
+        "url": "https://open.spotify.com/album/51ikLHp9PJdKuWSKGI8b7K"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 197400,
-      "name": "CAOS",
-      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
+      "duration_ms": 220000,
+      "name": "Down For You",
+      "url": "https://open.spotify.com/track/797phNSRMhA06VJp3syULD"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -667,6 +651,22 @@
       "duration_ms": 174672,
       "name": "Orchestra",
       "url": "https://open.spotify.com/track/418sG9q8N3xPn5iuYd9ddi"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "CAOS",
+      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "NOW'S A GOOD TIME TO BE",
-        "url": "https://open.spotify.com/album/3dHHEEK4oIXNXF6xx6mxNh"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sarah Barrios",
-          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
-        }
-      ],
-      "duration_ms": 147359,
-      "name": "NOW'S A GOOD TIME TO BE",
-      "url": "https://open.spotify.com/track/7zB9xMRm8QlJebJZturu4Y"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Heaven (Butterflies)",
-        "url": "https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4"
+        "name": "NOW'S A GOOD TIME TO BE",
+        "url": "https://open.spotify.com/album/3dHHEEK4oIXNXF6xx6mxNh"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Heaven (Butterflies)",
-      "url": "https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP"
+      "duration_ms": 147359,
+      "name": "NOW'S A GOOD TIME TO BE",
+      "url": "https://open.spotify.com/track/7zB9xMRm8QlJebJZturu4Y"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -879,18 +863,18 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/1S1NDNkSeBF0ihhbNTyzcE"
+        "name": "Heaven (Butterflies)",
+        "url": "https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4"
       },
       "artists": [
         {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         }
       ],
-      "duration_ms": 178293,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/5pHRaNpTpWBbdDzj36RLhq"
+      "duration_ms": 297493,
+      "name": "Heaven (Butterflies)",
+      "url": "https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -911,22 +895,18 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "All Over Me",
-        "url": "https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB"
+        "name": "Red",
+        "url": "https://open.spotify.com/album/1S1NDNkSeBF0ihhbNTyzcE"
       },
       "artists": [
         {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
         }
       ],
-      "duration_ms": 157352,
-      "name": "All Over Me",
-      "url": "https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y"
+      "duration_ms": 178293,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/5pHRaNpTpWBbdDzj36RLhq"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -943,6 +923,26 @@
       "duration_ms": 159672,
       "name": "Se P\u00e5 Meg",
       "url": "https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "All Over Me",
+        "url": "https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 157352,
+      "name": "All Over Me",
+      "url": "https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "WAAR",
-        "url": "https://open.spotify.com/album/2KXxAuIcaxUVJbB33YF6PW"
-      },
-      "artists": [
-        {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "move on",
-      "url": "https://open.spotify.com/track/2f5FduPdSJYCCED1eQhwf3"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "Never Be The Same",
         "url": "https://open.spotify.com/album/0ykGwfBlXQ4LzF3UWORckI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 182590,
       "name": "Never Be The Same",
       "url": "https://open.spotify.com/track/7a1WrGsRE5oiHJAwi4Hj4P"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "WAAR",
+        "url": "https://open.spotify.com/album/2KXxAuIcaxUVJbB33YF6PW"
+      },
+      "artists": [
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "move on",
+      "url": "https://open.spotify.com/track/2f5FduPdSJYCCED1eQhwf3"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Sofa",
-        "url": "https://open.spotify.com/album/4RimEbs1geSUAl7eqyqaO0"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "Sofa",
-      "url": "https://open.spotify.com/track/0URd5RVv38SK3i5gxGmO02"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "fear of looking stupid",
         "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190069,
       "name": "No Poetry",
       "url": "https://open.spotify.com/track/5LZLfiuGBpiBbo1iBr73aS"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "Sofa",
+        "url": "https://open.spotify.com/album/4RimEbs1geSUAl7eqyqaO0"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "Sofa",
+      "url": "https://open.spotify.com/track/0URd5RVv38SK3i5gxGmO02"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1315,18 +1315,26 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "A Little Too Lost Sometimes",
-        "url": "https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb"
+        "name": "Material Girl",
+        "url": "https://open.spotify.com/album/3Lfs3VbJRjlvniQERXYute"
       },
       "artists": [
         {
-          "name": "RABO",
-          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+          "name": "DJ Muscleboy",
+          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
+        },
+        {
+          "name": "Gurr\u00fd J\u00f3ns",
+          "url": "https://open.spotify.com/artist/1N3xjYR8SWIkUw5bb31rzn"
+        },
+        {
+          "name": "Eva Malen",
+          "url": "https://open.spotify.com/artist/4HIm5LihjrtmUJmnmoucIX"
         }
       ],
-      "duration_ms": 228426,
-      "name": "A Little Too Lost Sometimes",
-      "url": "https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV"
+      "duration_ms": 131080,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/04HZjfh8eP7UotEjBElule"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1343,6 +1351,22 @@
       "duration_ms": 111177,
       "name": "Water",
       "url": "https://open.spotify.com/track/2LVLFRI5GboBQYQiJgV5ht"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "A Little Too Lost Sometimes",
+        "url": "https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb"
+      },
+      "artists": [
+        {
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "A Little Too Lost Sometimes",
+      "url": "https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1379,30 +1403,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Material Girl",
-        "url": "https://open.spotify.com/album/3Lfs3VbJRjlvniQERXYute"
-      },
-      "artists": [
-        {
-          "name": "DJ Muscleboy",
-          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
-        },
-        {
-          "name": "Gurr\u00fd J\u00f3ns",
-          "url": "https://open.spotify.com/artist/1N3xjYR8SWIkUw5bb31rzn"
-        },
-        {
-          "name": "Eva Malen",
-          "url": "https://open.spotify.com/artist/4HIm5LihjrtmUJmnmoucIX"
-        }
-      ],
-      "duration_ms": 131080,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/04HZjfh8eP7UotEjBElule"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "The Inner City",
         "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
       },
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/4oM9AW7cKAEhiyLvLcz3nH"
+      },
+      "artists": [
+        {
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+        }
+      ],
+      "duration_ms": 188935,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/7LIfN7NacguNOS8FMaBMKx"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
         "name": "Acoustic Coffeehouse by Putumayo",
         "url": "https://open.spotify.com/album/6Eksdplqv2ojXQU3dM1GvP"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/4oM9AW7cKAEhiyLvLcz3nH"
+        "name": "Air Is Getting Stranger",
+        "url": "https://open.spotify.com/album/6HySVgcKpNxWPO4gNeGIy6"
       },
       "artists": [
         {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+          "name": "Spawner",
+          "url": "https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK"
         }
       ],
-      "duration_ms": 188935,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/7LIfN7NacguNOS8FMaBMKx"
+      "duration_ms": 189400,
+      "name": "Respawn",
+      "url": "https://open.spotify.com/track/0JqIiFQR0qkoYRcunwKgjw"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1491,38 +1507,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "Air Is Getting Stranger",
-        "url": "https://open.spotify.com/album/6HySVgcKpNxWPO4gNeGIy6"
-      },
-      "artists": [
-        {
-          "name": "Spawner",
-          "url": "https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Respawn",
-      "url": "https://open.spotify.com/track/0JqIiFQR0qkoYRcunwKgjw"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
-        "name": "When I Am King",
-        "url": "https://open.spotify.com/album/6fqc9vBf6mU8vYFpcGNiwh"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        }
-      ],
-      "duration_ms": 251737,
-      "name": "When I Am King",
-      "url": "https://open.spotify.com/track/2WXW84Ox7kQIf5WtDolhDK"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "Oceanic Mirror",
         "url": "https://open.spotify.com/album/0TeTbSRHGOBbcR8b8UNYn8"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
+        "name": "When I Am King",
+        "url": "https://open.spotify.com/album/6fqc9vBf6mU8vYFpcGNiwh"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        }
+      ],
+      "duration_ms": 251737,
+      "name": "When I Am King",
+      "url": "https://open.spotify.com/track/2WXW84Ox7kQIf5WtDolhDK"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
         "name": "I Want Back The Money",
         "url": "https://open.spotify.com/album/2n3lUh44rLPniOkyYw2Cvc"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 168515,
       "name": "I Want Back The Money",
       "url": "https://open.spotify.com/track/07XFxGlZCPgmFhKH7v9dwq"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
-        "name": "Heyr himna smi\u00f0ur",
-        "url": "https://open.spotify.com/album/7Dy1hk3Ai7elblQ92GQv34"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rst\u00ed\u00f0ir",
-          "url": "https://open.spotify.com/artist/0ZAmGFsu9clLdLUeersRoO"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "Heyr himna smi\u00f0ur",
-      "url": "https://open.spotify.com/track/5rPoKKltAhjoHPMiLYQOAR"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
+        "name": "Heyr himna smi\u00f0ur",
+        "url": "https://open.spotify.com/album/7Dy1hk3Ai7elblQ92GQv34"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rst\u00ed\u00f0ir",
+          "url": "https://open.spotify.com/artist/0ZAmGFsu9clLdLUeersRoO"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Heyr himna smi\u00f0ur",
+      "url": "https://open.spotify.com/track/5rPoKKltAhjoHPMiLYQOAR"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
         "name": "Dub On My Mind",
         "url": "https://open.spotify.com/album/78jHIFlS1OLiT3PrVaNRPy"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "A little story",
-        "url": "https://open.spotify.com/album/1GTwx0kvD8OPZZEAOUFArt"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3i Bj\u00f6rgvinsson",
-          "url": "https://open.spotify.com/artist/35SfDd0GFG9Po0ThnXk2Ix"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "A little story (demo)",
-      "url": "https://open.spotify.com/track/4Q92Y7nNamj3HbFUtQTOTX"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "Elskan",
         "url": "https://open.spotify.com/album/04F8LyrprhmoUNTb3kD3JB"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 204528,
       "name": "Elskan",
       "url": "https://open.spotify.com/track/4JfZsg7tTe9oSskvWEUxQ6"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "A little story",
+        "url": "https://open.spotify.com/album/1GTwx0kvD8OPZZEAOUFArt"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3i Bj\u00f6rgvinsson",
+          "url": "https://open.spotify.com/artist/35SfDd0GFG9Po0ThnXk2Ix"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "A little story (demo)",
+      "url": "https://open.spotify.com/track/4Q92Y7nNamj3HbFUtQTOTX"
     },
     {
       "added_at": "2025-10-10 00:00:30",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-10-10 00:00:30",
       "album": {
-        "name": "VERA N\u00d3G",
-        "url": "https://open.spotify.com/album/29fSMUn8pOsqywTl9EWMdy"
-      },
-      "artists": [
-        {
-          "name": "1annar",
-          "url": "https://open.spotify.com/artist/4M4Go9tzFNW1dxfIpXZy8s"
-        }
-      ],
-      "duration_ms": 189857,
-      "name": "VERA N\u00d3G",
-      "url": "https://open.spotify.com/track/2OP6GNeFWqIA5BPWQCX7H7"
-    },
-    {
-      "added_at": "2025-10-10 00:00:30",
-      "album": {
         "name": "Hinn eini sanni Gu\u00f0",
         "url": "https://open.spotify.com/album/3txIveooUE7gGA1VBWsReL"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 421669,
       "name": "Hinn eini sanni Gu\u00f0",
       "url": "https://open.spotify.com/track/6Q43g2wZAVEBEqz83JaaVK"
+    },
+    {
+      "added_at": "2025-10-10 00:00:30",
+      "album": {
+        "name": "VERA N\u00d3G",
+        "url": "https://open.spotify.com/album/29fSMUn8pOsqywTl9EWMdy"
+      },
+      "artists": [
+        {
+          "name": "1annar",
+          "url": "https://open.spotify.com/artist/4M4Go9tzFNW1dxfIpXZy8s"
+        }
+      ],
+      "duration_ms": 189857,
+      "name": "VERA N\u00d3G",
+      "url": "https://open.spotify.com/track/2OP6GNeFWqIA5BPWQCX7H7"
     },
     {
       "added_at": "2025-10-10 00:00:30",

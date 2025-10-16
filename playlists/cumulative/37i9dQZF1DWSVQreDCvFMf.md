@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jan Roberts
 
-571 songs - 1 day 11 hr 39 min
+573 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-19 | 2024-11-09 |
 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 | 2025-03-21 | 2025-06-07 |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-13 |  |
+| [Kahit 1 month pa lang](https://open.spotify.com/track/4zx0T8X11XdeyHntqRPLeX) | [Hattus](https://open.spotify.com/artist/0jFhoFzinngkDsmalRO9mP), [Eunice Rain](https://open.spotify.com/artist/6bd7dF5PF46dezapDpHouS) | [Kahit 1 month pa lang](https://open.spotify.com/album/4lV3xMGinhtp7SEybSEZTe) | 2:27 | 2025-10-15 |  |
 | [Kahit Ngayon Lang](https://open.spotify.com/track/6Ai5wV1nAp1n7wj3IfLtl4) | [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Kahit Ngayon Lang](https://open.spotify.com/album/56OUvAVJcymBwTXCDulFsD) | 3:41 | 2024-12-16 | 2025-03-01 |
 | [Kahit Sa Malayo](https://open.spotify.com/track/6p2tmmNiAp5G46HUvUI37C) | [Gloryen](https://open.spotify.com/artist/1ADf5He5TcWVOU2NLIuBbU) | [Kahit Sa Malayo](https://open.spotify.com/album/60lea1TaQxzH1hrddrnb7z) | 4:44 | 2025-06-20 |  |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-02 | 2024-11-09 |
@@ -484,6 +485,7 @@
 | [Sikretong Tayo Lang May Alam](https://open.spotify.com/track/3ifW37TIg8ZLHcVbwlapdP) | [SHANNi](https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp) | [Sikretong Tayo Lang May Alam](https://open.spotify.com/album/1DNAxfgMrm75PFo0k0gIUT) | 4:46 | 2025-07-12 |  |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-07-02 | 2024-08-03 |
 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-08-30 | 2024-11-23 |
+| [Silong](https://open.spotify.com/track/5D9HON23VZD4UMeSvklhCY) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Silong](https://open.spotify.com/album/4wn5vVfyQuKgAHPaj5wRdG) | 5:42 | 2025-10-15 |  |
 | [Silong](https://open.spotify.com/track/6F3I568l8PTX4DLya2mVdE) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Silong](https://open.spotify.com/album/0dYnyGODctgxgIPkUwBKTb) | 5:42 | 2025-09-29 |  |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-07-02 | 2024-08-31 |
 | [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-20 |  |

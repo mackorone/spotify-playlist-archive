@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "HOMETOWN",
+        "url": "https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "WONDERING",
+      "url": "https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01"
+    },
+    {
+      "album": {
         "name": "Yours Ever",
         "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
       },
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 180974,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e07\u0e48\u0e32\u0e22 (Better Together) - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"9 Years of you \u0e41\u0e15\u0e48\u0e25\u0e30\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\"",
       "url": "https://open.spotify.com/track/51EN90GQ1JhX7n1noAB0s4"

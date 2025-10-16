@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G x Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,607 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,644 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 |
 | 2 | [Many men](https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc) | [Josh](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Many men](https://open.spotify.com/album/4yjmENCAsHDxhF5fZbUAVt) | 2:39 |
 | 3 | [La Belette](https://open.spotify.com/track/2MUVuW834R2Ep08eyXFAZx) | [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [La Belette](https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO) | 1:41 |
-| 4 | [KADDRYO](https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [KADDRYO](https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS) | 2:30 |
+| 4 | [KADDRYO](https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i) | [KADDRYO](https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS) | 2:30 |
 | 5 | [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 |
 | 6 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
 | 7 | [Doudou](https://open.spotify.com/track/49upCl01j0l3Q6h6dTbT4x) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Doudou](https://open.spotify.com/album/64hB63bnE63azHAVrQ3oNW) | 2:07 |

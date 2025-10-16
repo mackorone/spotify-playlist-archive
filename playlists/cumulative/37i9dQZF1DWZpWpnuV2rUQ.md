@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más random, lo más 🔥
 
-594 songs - 1 day 7 hr 31 min
+595 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,10 +357,11 @@
 | [Nena Sad](https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn) | [Casi Angeles](https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw) | 3:25 | 2023-12-26 | 2025-05-30 |
 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 | 2025-03-11 | 2025-03-19 |
 | [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 | 2024-01-24 | 2024-03-08 |
-| [No Confundan](https://open.spotify.com/track/6gAd7ImfhKB5xYr546A0xC) | [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [No Confundan](https://open.spotify.com/album/6N3cz1Yo5qa175uCW2fykJ) | 4:40 | 2025-05-29 |  |
+| [No Confundan](https://open.spotify.com/track/6gAd7ImfhKB5xYr546A0xC) | [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [No Confundan](https://open.spotify.com/album/6N3cz1Yo5qa175uCW2fykJ) | 4:40 | 2025-05-29 | 2025-10-16 |
 | [NO DA MÁS](https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:48 | 2023-12-19 | 2024-05-21 |
 | [No Llores](https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [No Llores](https://open.spotify.com/album/6zpDRrBwXyaJLHGW4cApxj) | 2:46 | 2023-10-20 | 2023-11-16 |
 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 | 2024-11-28 | 2025-01-10 |
+| [No me quiero ver](https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [No me quiero ver](https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a) | 1:51 | 2025-10-15 |  |
 | [No Podrás \- En Vivo en Fa!](https://open.spotify.com/track/1dVJgXVbPm7bYyiVua0GE7) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [No Podrás \(En Vivo en Fa!\)](https://open.spotify.com/album/6pC5XzIS8HSK37EpXrBkaY) | 3:47 | 2025-05-29 |  |
 | [NO SE VE NA](https://open.spotify.com/track/4p2Q6Tv4Nvkmczss8QtW3I) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [NO SE VE NA](https://open.spotify.com/album/2bHpbrSulNCo8ZOEV0btLA) | 2:26 | 2024-05-31 | 2025-05-17 |
 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 | 2023-12-28 | 2024-03-08 |

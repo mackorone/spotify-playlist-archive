@@ -841,6 +841,52 @@
     },
     {
       "album": {
+        "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Charanjit Ahuja",
+          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
+        },
+        {
+          "name": "Muhammad Sadiq",
+          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
+        },
+        {
+          "name": "Ranjit Kaur",
+          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
+        },
+        {
+          "name": "Babu Singh Maan",
+          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155590,
+      "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
+    },
+    {
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1240,7 +1286,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 179099,
       "name": "High Rated Gabru",
       "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
@@ -2230,7 +2276,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 165109,
       "name": "Movie Scene",
       "url": "https://open.spotify.com/track/43vdnahbHvxshIMBuI8pkk"
@@ -2633,6 +2679,32 @@
     },
     {
       "album": {
+        "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
+        "url": "https://open.spotify.com/album/7Japg1kffbMOq1GfTltSL4"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238857,
+      "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
+      "url": "https://open.spotify.com/track/0gC8FmyakSWHe8gKCZ3uPZ"
+    },
+    {
+      "album": {
         "name": "Restart - Rap (From \"12th Fail\")",
         "url": "https://open.spotify.com/album/0tCzHbqVkQzwpgwkH6kHR7"
       },
@@ -2686,7 +2758,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 163146,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/00BrhcHwrhDQKfxt7VpYg8"
@@ -3022,7 +3094,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 167045,
       "name": "Trance of Omi (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/3UtQB2Z4sNPBGGV1VkFIzT"
@@ -3146,7 +3218,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 215483,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
@@ -3172,7 +3244,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 209268,
       "name": "Who's Your Daddy",
       "url": "https://open.spotify.com/track/1UT8CKUUc97n1JhYmzezlp"

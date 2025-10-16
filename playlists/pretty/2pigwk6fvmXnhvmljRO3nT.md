@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,715 songs - 19 day 22 hr 22 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,717 songs - 19 day 22 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7723,5 +7723,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7713 | [exhaust](https://open.spotify.com/track/6OMq061PfK52o7zvJBwNHP) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:29 |
 | 7714 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 7715 | [Honeymoon Avenue](https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 5:39 |
+| 7716 | [Sunrise](https://open.spotify.com/track/31ihTxEFH8iLwYuXiXTyK8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Time for us](https://open.spotify.com/album/4riaU6GV6byR8wt1GT9tEg) | 3:36 |
+| 7717 | [Angel \#48](https://open.spotify.com/track/721VUrqzx4JvJb2lSOBjPu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:15 |
 
-Snapshot ID: `AAAJIW0SrwuhOlh1sCkgq8mwbrN0kgQq`
+Snapshot ID: `AAAJI7MUS+kdxYbC8Wo2JSU0bG8fX3WJ`

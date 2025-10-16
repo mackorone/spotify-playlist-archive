@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 595 songs - 1 day 15 hr 3 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 593 songs - 1 day 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -595,13 +595,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 585 | [Motion Sickness](https://open.spotify.com/track/3G7mNgJKJaOfIIYrcQJJyT) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 5:20 |
 | 586 | [A Little Longing Goes Away](https://open.spotify.com/track/5T34wK11NPR4mu4vl94L24) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:31 |
 | 587 | [Against the Fall of Night](https://open.spotify.com/track/2kDOhhKHJfACIeWDNeRj1P) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF) | [Against the Fall of Night](https://open.spotify.com/album/1dixxA709bADWmK1rxnvug) | 3:59 |
-| 588 | [Partita for 8 Singers: 1\. Allemande](https://open.spotify.com/track/5UdY4qgRg3FEHdeRsR0kwi) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH), [Brad Wells](https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6) | [Caroline Shaw: Partita for 8 Voices](https://open.spotify.com/album/34nuXpysKwp4l7sE3hBQBr) | 5:53 |
-| 589 | [Sowing Season \(Yeah\)](https://open.spotify.com/track/5CyzIHM2IRSLz2Ke9hWwjz) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 4:30 |
-| 590 | [Anything](https://open.spotify.com/track/4NBMaIRzUTUUKWivAJGZ9d) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Able Bodies](https://open.spotify.com/album/7E6ctLR5KdMHeM3Y83BbYw) | 4:02 |
-| 591 | [It's Time](https://open.spotify.com/track/3bBG39XoMuvgrmNYq5QPua) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:05 |
-| 592 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 |
-| 593 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
-| 594 | [One Tiny Flower](https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 6:20 |
-| 595 | [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 |
+| 588 | [Sowing Season \(Yeah\)](https://open.spotify.com/track/5CyzIHM2IRSLz2Ke9hWwjz) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 4:30 |
+| 589 | [Anything](https://open.spotify.com/track/4NBMaIRzUTUUKWivAJGZ9d) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Able Bodies](https://open.spotify.com/album/7E6ctLR5KdMHeM3Y83BbYw) | 4:02 |
+| 590 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 |
+| 591 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
+| 592 | [One Tiny Flower](https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 6:20 |
+| 593 | [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 |
 
-Snapshot ID: `AAAH1kJ1c07gOJK1HiVeZIqWo7R0NSl1`
+Snapshot ID: `AAAH2P3MkK1u/NgBOUO58qr0dlTDoqbz`

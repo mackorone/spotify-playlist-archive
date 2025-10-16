@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Branko, Tainá
 
-355 songs - 21 hr 1 min
+356 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Este país não é para mães](https://open.spotify.com/track/5n4AmxF0ECWXkhfMVRzk0W) | [A garota não](https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0) | [Ferry Gold](https://open.spotify.com/album/7LBkmmiAN37g6ecwNxj2EK) | 4:13 | 2025-06-05 | 2025-09-12 |
 | [estranho efeito](https://open.spotify.com/track/5NozMOlC56HuA1aFT2UMiC) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [estranho efeito](https://open.spotify.com/album/0U9yyoPUQmDCqrvPxFvzzg) | 3:05 | 2025-08-22 | 2025-08-29 |
 | [Eu Queria](https://open.spotify.com/track/4hy4c8EqVb2AYTWqKj9pim) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Eu Queria](https://open.spotify.com/album/1rjrhF0W5iXyPBMUbumYFv) | 3:26 | 2025-05-22 | 2025-06-06 |
-| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-25 |  |
+| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-25 | 2025-10-16 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-11-22 |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-22 |  |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-24 |  |
@@ -127,6 +127,7 @@
 | [fool for you](https://open.spotify.com/track/7sylyAvTTJkto7UnchJdyZ) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [fool for you](https://open.spotify.com/album/6tSM9HGl0tVNYWXlggjhZc) | 1:55 | 2025-09-04 | 2025-09-12 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2024-09-21 |
 | [FOREVER & EVER](https://open.spotify.com/track/29SEKAHwzIHkvrc7HfiVQ2) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/0Gg1dfjbFbWqH11NsBB5TW) | 3:26 | 2025-01-17 | 2025-03-21 |
+| [Fruit Bat](https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Fruit Bat](https://open.spotify.com/album/0FFPcGdpvNUoJJWr1uYZH7) | 8:17 | 2025-10-09 |  |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-04 | 2025-09-29 |
 | [Get to You](https://open.spotify.com/track/5wtL5B9hkCDyKZZAnYqjAJ) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Desert of Fools](https://open.spotify.com/album/48xTxqfAczqymZYB5dX1ZN) | 3:09 | 2025-10-09 |  |
 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-10-02 |  |

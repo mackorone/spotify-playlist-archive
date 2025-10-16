@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 24092,
+  "num_followers": 24110,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-10 16:50:19",
       "album": {
-        "name": "Explosivo",
-        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
-    },
-    {
-      "added_at": "2025-10-10 16:50:19",
-      "album": {
         "name": "Originales",
         "url": "https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu"
       },
@@ -807,18 +791,38 @@
     {
       "added_at": "2025-10-10 16:50:19",
       "album": {
-        "name": "No Pares de Sudar",
-        "url": "https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh"
+        "name": "Explosivo",
+        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
       },
       "artists": [
         {
-          "name": "Calle Ciega",
-          "url": "https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 251689,
-      "name": "S\u00f3lo Te Quiero Amar",
-      "url": "https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO"
+      "duration_ms": 243866,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
+    },
+    {
+      "added_at": "2025-10-10 16:50:19",
+      "album": {
+        "name": "La Prueba",
+        "url": "https://open.spotify.com/album/7ugP0PYeR513RDLnzIaJVE"
+      },
+      "artists": [
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 258959,
+      "name": "La Ultima Vez",
+      "url": "https://open.spotify.com/track/1SUxJZSudxSyzbRvCWKkrp"
     }
   ],
   "unique_name": "Bailando Merengue",

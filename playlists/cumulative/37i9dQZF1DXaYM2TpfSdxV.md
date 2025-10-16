@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-328 songs - 14 hr 25 min
+329 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Cool White Noise](https://open.spotify.com/track/0XH3XD6MpIouNOuapvZxOx) | [Chen Pa](https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9) | [Steady White Noise](https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ) | 1:50 | 2023-04-12 | 2023-06-29 |
 | [Dark Noise](https://open.spotify.com/track/1PIXNM90ma3hSHqFBcEspX) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [Noise & Sleep](https://open.spotify.com/album/2fCDmuHgcn2NZMWsXebsrc) | 2:27 | 2023-03-09 | 2025-10-09 |
 | [Deep & Dark \- Seamless](https://open.spotify.com/track/2iZAAO5JEjMvClQ2W7VmSM) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [White Dreams](https://open.spotify.com/album/6VUONBGFiGg8rrHmbLVzmb) | 2:52 | 2023-04-12 |  |
-| [Deep Blue Noise](https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Under The Ocean](https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq) | 2:13 | 2023-04-12 |  |
+| [Deep Blue Noise](https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Under The Ocean](https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq) | 2:13 | 2023-04-12 | 2025-10-16 |
 | [Deep Ocean Noise](https://open.spotify.com/track/7Ewn0dWnDVQIQX2DaGpLy2) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Pink Noise Nirvana](https://open.spotify.com/album/2m9E6Jwi5LPoUqYuDkCJcc) | 2:26 | 2023-04-12 | 2025-03-13 |
 | [Deep Phase Noise 1](https://open.spotify.com/track/5MOWBRtP53q5yNOtHaMVTh) | [Milli Hughes](https://open.spotify.com/artist/5qq6C4dNld3AWHbh2WaNAR) | [Deep Phase Noise](https://open.spotify.com/album/2jiaVZwVTy1c1lmu1ifoud) | 2:23 | 2023-04-12 |  |
 | [Deep Space Voyage](https://open.spotify.com/track/6PvAlp8pKy23Bff6tUjhl0) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2023-03-09 | 2025-01-31 |
@@ -321,6 +321,7 @@
 | [White Oasis](https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:30 | 2023-06-28 |  |
 | [White Reverb 800 Hz](https://open.spotify.com/track/68s3njCBvLcevxxMSOjq8P) | [Worry Less](https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux) | [Worryless White Noise](https://open.spotify.com/album/0aEDSss6BeAgY6VIc3WkWV) | 3:22 | 2023-04-12 | 2024-02-03 |
 | [White RF](https://open.spotify.com/track/5n1yzZr0sEVqYw7sRr7Bh3) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Infrasound](https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl) | 2:56 | 2023-04-12 |  |
+| [White Roses Static](https://open.spotify.com/track/2t6cAPfMIdgMOlsfFMr2e5) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [White Roses Static](https://open.spotify.com/album/5U8R8epqr0R6Jwnky2pTSu) | 4:45 | 2025-01-30 |  |
 | [White Serenity](https://open.spotify.com/track/7dD3etWhKwTaEwy0VinwAY) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:08 | 2023-06-28 |  |
 | [White Shapes](https://open.spotify.com/track/3xDinRDqNsKIsdBfnhXHSs) | [XYK east](https://open.spotify.com/artist/1W0DuOKAU4Lq9Ke0dj1bds) | [White Shapes](https://open.spotify.com/album/0ma1vhytAU2rsktMovPJlw) | 1:49 | 2023-03-09 | 2023-06-29 |
 | [White Stars](https://open.spotify.com/track/7Fys0m6kGltWbqYeSAGAMx) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [White Stars](https://open.spotify.com/album/0BLt2AQUVsNb1RqZaBOxf0) | 2:45 | 2023-03-09 |  |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-629 songs - 2 day 3 hr 47 min
+630 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 | 2025-06-20 |
 | [Heaven's Got My Back](https://open.spotify.com/track/0CxtJRvWV4wx9PgtpPuaII) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Heaven's Got My Back](https://open.spotify.com/album/50RExeqQJQuzvidZovHFQ2) | 2:30 | 2025-08-08 |  |
+| [Heaven's Song \- Live](https://open.spotify.com/track/4BDpyzOFvMbo6upzHeOW4G) | [Worship Nation](https://open.spotify.com/artist/50nfiM5DcM0J1XFaO3Osul), [Jackline Ssenabulya](https://open.spotify.com/artist/7GeAormCPFUcGJDvfuVc9m) | [Holy \(Live\)](https://open.spotify.com/album/49IZaL7faK0LmhZi88d0Yl) | 9:26 | 2025-10-10 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 | 2024-08-17 |
 | [Here I am](https://open.spotify.com/track/78oQ0ay9cicFhLHIIMs6Me) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Here I am](https://open.spotify.com/album/1iDsQqR04cOALYjGFfO0gm) | 7:15 | 2025-08-22 |  |
 | [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2024-11-09 |
@@ -370,7 +371,7 @@
 | [MOG](https://open.spotify.com/track/1Sdcat45qN20OLrKZR0FJM) | [Mic Dada](https://open.spotify.com/artist/2SWGKvYcm3wowvgdQTwQ4c) | [MOG](https://open.spotify.com/album/6lmXCMLzFR9xvTx2V9xdjL) | 3:46 | 2025-06-27 | 2025-07-16 |
 | [Moment](https://open.spotify.com/track/4BZ7pMzJiBInFR5NPMbqGN) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Moment](https://open.spotify.com/album/22PQQnMMjotxsJ42Qgjrl8) | 3:14 | 2025-08-22 | 2025-10-03 |
 | [More](https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Than Before](https://open.spotify.com/album/2DSIpZI7oKkGCqRdweDE6V) | 5:20 | 2024-03-30 | 2024-04-26 |
-| [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-06-13 |  |
+| [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-06-13 | 2025-10-16 |
 | [More of you God](https://open.spotify.com/track/770Z9OGv4gVgzDIbClpWYm) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [More of you God](https://open.spotify.com/album/03wxN0lOmPyzlziiNhKSrg) | 4:40 | 2025-09-12 | 2025-10-03 |
 | [More Than Able](https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [More Than Able](https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI) | 2:34 | 2025-10-10 |  |
 | [MOST HIGH](https://open.spotify.com/track/31naSIp2Ioi41c5gavyUkY) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [MOST HIGH](https://open.spotify.com/album/0NuHWN44BKVoljjBUY6VmF) | 3:20 | 2024-02-09 | 2025-05-30 |

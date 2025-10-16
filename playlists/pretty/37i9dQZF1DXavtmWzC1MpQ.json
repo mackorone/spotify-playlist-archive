@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 155691,
+  "num_followers": 155704,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
-        "name": "Rainforest Soundscapes",
-        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
-      },
-      "artists": [
-        {
-          "name": "Rain Gems",
-          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
-        }
-      ],
-      "duration_ms": 162679,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
         "name": "Noise Of The Forest",
         "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 138000,
       "name": "Noise Of The Forest",
       "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
+        "name": "Rainforest Soundscapes",
+        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
+      },
+      "artists": [
+        {
+          "name": "Rain Gems",
+          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
+        }
+      ],
+      "duration_ms": 162679,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
     },
     {
       "added_at": "2025-09-23 10:00:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
-      },
-      "artists": [
-        {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Soothing Birdsong by the River",
-      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
         "name": "Sunny Windy Day",
         "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 248000,
       "name": "Sunny Windy Day",
       "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+      },
+      "artists": [
+        {
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Soothing Birdsong by the River",
+      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
     },
     {
       "added_at": "2025-09-23 10:00:46",

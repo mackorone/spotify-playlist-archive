@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 甜約翰 \(Sweet John\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,907 likes - 127 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,914 likes - 127 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

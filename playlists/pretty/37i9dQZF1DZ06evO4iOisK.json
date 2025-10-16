@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 27273,
+  "num_followers": 27276,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAAAod40aum7s267G2GsI9s3C",
+  "snapshot_id": "aO2SgAAAAADdxqLaQHYHpmxKUSyi2AAd",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEEL SO GOOD",
-        "url": "https://open.spotify.com/album/0wkojxSrgcI5L9RshEwcar"
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 167200,
-      "name": "FEEL SO GOOD",
-      "url": "https://open.spotify.com/track/0dtoYRx9tgZcMYfjvO8jvR"
+      "duration_ms": 298813,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FEEL SO GOOD",
+        "url": "https://open.spotify.com/album/0wkojxSrgcI5L9RshEwcar"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "FEEL SO GOOD",
+      "url": "https://open.spotify.com/track/0dtoYRx9tgZcMYfjvO8jvR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BEST OF THE BEST",
         "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 234373,
       "name": "Born To Be Loud",
       "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RE-BIRTH",
-        "url": "https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 256413,
-      "name": "RE-BIRTH",
-      "url": "https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 179973,
       "name": "MOVIN' ON",
       "url": "https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RE-BIRTH",
+        "url": "https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "RE-BIRTH",
+      "url": "https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8f4d\uff5eWadachi\uff5e",
-        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST",
         "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 296866,
       "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
       "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8f4d\uff5eWadachi\uff5e",
+        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 333080,
-      "name": "Be with",
-      "url": "https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Like This 2024 (Live)",
         "url": "https://open.spotify.com/album/4wJfyByrRy9lezrzZfEo81"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 205800,
       "name": "OVER - Just Like This 2024 Live",
       "url": "https://open.spotify.com/track/0P64q3zVKvl1X3J0P8yhvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 333080,
+      "name": "Be with",
+      "url": "https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "Just Like This 2024 (Live)",
+        "url": "https://open.spotify.com/album/4wJfyByrRy9lezrzZfEo81"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 227066,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV"
+      "duration_ms": 191600,
+      "name": "STRONG - Just Like This 2024 Live",
+      "url": "https://open.spotify.com/track/1k3cZjIn6OEhSFYHpqKOOo"
     }
   ],
   "unique_name": "This Is SPYAIR",

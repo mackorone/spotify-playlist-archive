@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 782148,
+  "num_followers": 782250,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 446333,
-      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Para Ti...",
-        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
-      },
-      "artists": [
-        {
-          "name": "Anthony Cruz",
-          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Dile A El",
-      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 296720,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Para Ti...",
+        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Cruz",
+          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Dile A El",
+      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 372133,
-      "name": "Eres La Unica",
-      "url": "https://open.spotify.com/track/07YmP86ySInF4VLZnAOESp"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 257920,
       "name": "Magdalena, Mi Amor (Quimbara)",
       "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 372133,
+      "name": "Eres La Unica",
+      "url": "https://open.spotify.com/track/07YmP86ySInF4VLZnAOESp"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Sus Exitos",
-        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
-      },
-      "artists": [
-        {
-          "name": "Orlando Collado",
-          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Llorando",
-      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "30th Anniversary",
         "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 261146,
       "name": "Ojos Chinos",
       "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Sus Exitos",
+        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
+      },
+      "artists": [
+        {
+          "name": "Orlando Collado",
+          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Llorando",
+      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Lo Que Llevo Por Dentro",
-        "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
+        "name": "Con Amor Se Gana",
+        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
       },
       "artists": [
         {
           "name": "Frankie Negr\u00f3n",
           "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
-        },
-        {
-          "name": "Ronnie Torres and Ramon Sanchez",
-          "url": "https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge"
         }
       ],
-      "duration_ms": 293240,
-      "name": "Remolino",
-      "url": "https://open.spotify.com/track/00bGrgNvhYh3zt5PC0co3K"
+      "duration_ms": 257933,
+      "name": "Hoy Me He Vuelto a Enamorar",
+      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Con Amor Se Gana",
-        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
+        "name": "Lo Que Llevo Por Dentro",
+        "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
       },
       "artists": [
         {
           "name": "Frankie Negr\u00f3n",
           "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+        },
+        {
+          "name": "Ronnie Torres and Ramon Sanchez",
+          "url": "https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge"
         }
       ],
-      "duration_ms": 257933,
-      "name": "Hoy Me He Vuelto a Enamorar",
-      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
+      "duration_ms": 293240,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/00bGrgNvhYh3zt5PC0co3K"
     },
     {
       "added_at": "2024-07-12 19:20:44",

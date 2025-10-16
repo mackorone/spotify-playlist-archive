@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > toda mi gente tirando emotes ❤️😈 Cahiruki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,205 likes - 115 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,294 likes - 115 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 69 | [Latinos a Bailar](https://open.spotify.com/track/1tEsmmnnJEjkRYWgUq8lAe) | [DJ Freshly](https://open.spotify.com/artist/0C2bzaeNvJ4p4WYN3hj9L0) | [Latinos a Bailar](https://open.spotify.com/album/5fUaXV227Ah7oUQPPfHBDh) | 3:09 |
 | 70 | [SIGUE EL MAMBO](https://open.spotify.com/track/64EZcinkjEOoYL6zDCtcao) | [4NDY](https://open.spotify.com/artist/5QC9ye8G32MusSmQpj3QUM), [Jose Escobar](https://open.spotify.com/artist/5cvyG0Lh00m5570Mj8R8x2), [Jorge Tomas](https://open.spotify.com/artist/3ZvxjVof3XtOsajb8wI6PH) | [SIGUE EL MAMBO](https://open.spotify.com/album/5YrWbeRDAirx00hCPwth7h) | 3:02 |
 | 71 | [Delincuentech \- Radio Edit](https://open.spotify.com/track/0LFrc6EsTEpX4uVrsf23sQ) | [DJ DAVE](https://open.spotify.com/artist/1ZrRs1vnQjCuupHAw3VeAA) | [Delincuentech \(Radio Edit\)](https://open.spotify.com/album/0IlGDd43Ys4WtuICg83Br6) | 2:03 |
-| 72 | [DGNR \- Remix](https://open.spotify.com/track/0UrgFTM4dQ087p6wsZhmp4) | [Dj Distro](https://open.spotify.com/artist/4rpCoA8xjXmFsq4emY0MT5), [Arath Rios](https://open.spotify.com/artist/7D1dMqOCTljpuMoZwWhZrS), [Disel Tenoch](https://open.spotify.com/artist/6aAPklui02A3KZLSZzmc6B) | [DGNR \(Remix\)](https://open.spotify.com/album/42e3edRxHjTM9HWZK9V0gL) | 3:23 |
+| 72 | [DGNR \- Remix](https://open.spotify.com/track/0UrgFTM4dQ087p6wsZhmp4) | [Dj Distro](https://open.spotify.com/artist/4rpCoA8xjXmFsq4emY0MT5), [Arath Rios](https://open.spotify.com/artist/1vAcM5xaVhlgk5MjbWhxmx), [Disel Tenoch](https://open.spotify.com/artist/6aAPklui02A3KZLSZzmc6B) | [DGNR \(Remix\)](https://open.spotify.com/album/42e3edRxHjTM9HWZK9V0gL) | 3:23 |
 | 73 | [La Noche Es Asi \(TNT\) \- Radio Edit](https://open.spotify.com/track/2Ji7n4Bu5c9DhPCOs5oNjs) | [Dj Rojo](https://open.spotify.com/artist/06LspjcDHyYmaAvHDhUf4U) | [La Noche Es Asi \(TNT\) \[Radio Edit\]](https://open.spotify.com/album/7l1TmRA8us7kCv8EJFkkZB) | 3:20 |
 | 74 | [Quiero Ma' Guaracha](https://open.spotify.com/track/2Xo49MI6LtWfwBB2Du26jp) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [DJ Hazel Mty](https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Quiero Ma' Guaracha](https://open.spotify.com/album/1TvpSYpBsFtTL2VjHQ3jtC) | 1:52 |
 | 75 | [FASHONISTA](https://open.spotify.com/track/4Ploah86thhRvO8RMj4SXB) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [FASHONISTA](https://open.spotify.com/album/0Ahhy52KY7abDcSZAfgw0q) | 2:15 |

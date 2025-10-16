@@ -1,13 +1,29 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Lefty Parker",
-  "num_followers": 94121,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Beryl",
+  "num_followers": 94147,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALr6bD7H5yyQCJZgsLG82h82Cvlp",
+  "snapshot_id": "AAAAACAa85U74W436ff7MgtjFa0NNdJA",
   "tracks": [
+    {
+      "added_at": "2025-10-15 16:00:32",
+      "album": {
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
+    },
     {
       "added_at": "2025-09-24 16:00:06",
       "album": {
@@ -93,6 +109,22 @@
       "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
     },
     {
+      "added_at": "2025-10-15 16:00:32",
+      "album": {
+        "name": "Millionaire Money",
+        "url": "https://open.spotify.com/album/7vRzDaris7opeq6f4UN43N"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "Millionaire Money",
+      "url": "https://open.spotify.com/track/11Xej6CravthiyPLMqTvKe"
+    },
+    {
       "added_at": "2025-09-24 16:00:06",
       "album": {
         "name": "Bleary Eyes",
@@ -173,6 +205,22 @@
       "url": "https://open.spotify.com/track/25QarFar87sf1WEKgZquUm"
     },
     {
+      "added_at": "2025-10-15 16:00:32",
+      "album": {
+        "name": "joe",
+        "url": "https://open.spotify.com/album/1BElGS28qatUuYmELNpPxn"
+      },
+      "artists": [
+        {
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
+        }
+      ],
+      "duration_ms": 284632,
+      "name": "joe",
+      "url": "https://open.spotify.com/track/5AvrnnwmR5flF6IGifvg5U"
+    },
+    {
       "added_at": "2025-10-08 16:00:11",
       "album": {
         "name": "Matches",
@@ -187,6 +235,22 @@
       "duration_ms": 292306,
       "name": "Matches",
       "url": "https://open.spotify.com/track/6JHW0OWk6DcsNccunKv8fR"
+    },
+    {
+      "added_at": "2025-10-15 16:00:32",
+      "album": {
+        "name": "Kiss My Face",
+        "url": "https://open.spotify.com/album/7xBC4pZxDxLwpCQQlDyADk"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Kiss My Face",
+      "url": "https://open.spotify.com/track/63pJN3BbTAkzGWDbalf9nL"
     },
     {
       "added_at": "2025-09-24 16:00:06",
@@ -251,6 +315,22 @@
       "duration_ms": 248932,
       "name": "To The Sandals",
       "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+    },
+    {
+      "added_at": "2025-10-15 16:00:32",
+      "album": {
+        "name": "Conversations with the Moon",
+        "url": "https://open.spotify.com/album/4FAchfVVjOygjZHw9WiIzW"
+      },
+      "artists": [
+        {
+          "name": "Kitty Coen",
+          "url": "https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef"
+        }
+      ],
+      "duration_ms": 207527,
+      "name": "conversations with the moon",
+      "url": "https://open.spotify.com/track/5slNp3QyBb4SbSxEEGoByw"
     },
     {
       "added_at": "2025-09-17 19:01:43",

@@ -2,7 +2,7 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie twang fall bby 🍂 Frog on the cover
+> indie twang fall bby 🍂 Whitney on the cover
 
 324 songs - 20 hr 53 min
 

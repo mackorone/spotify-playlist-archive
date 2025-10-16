@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-182 songs - 12 hr 18 min
+183 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Kanye Nawe Nkosi Yami](https://open.spotify.com/track/5uTUUH8Xn7SCc4Bk7J0v6j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Phezulu Emafini](https://open.spotify.com/album/3bvJ9qBG1oB9N6OgnZDB67) | 2:40 | 2022-11-14 | 2023-07-10 |
 | [King of Kings](https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 4:07 | 2021-12-28 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/3Tl8G365ENFoTQj25IGnAk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:42 | 2021-12-28 | 2025-09-05 |
-| [Knockin' on Heaven's Door](https://open.spotify.com/track/6oUuWLqoMd6ZCQJf6BQ10m) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:39 | 2025-05-19 |  |
+| [Knockin' on Heaven's Door](https://open.spotify.com/track/6oUuWLqoMd6ZCQJf6BQ10m) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:39 | 2025-05-19 | 2025-10-16 |
 | [Lelilungelo Elakho \(Do as You Know Best\)](https://open.spotify.com/track/7aBwEImtGhAN63dVXXF6nm) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Izigqi Zendoda](https://open.spotify.com/album/6sr7rLGttnQMno9pj3Pr5A) | 3:35 | 2025-10-14 |  |
 | [Lelilungelo Ngelakho](https://open.spotify.com/track/6ide03N57y59RaaGCqlelJ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Izigqi Zendoda](https://open.spotify.com/album/6gbef5MDVDy0cSHReqQBxx) | 3:35 | 2024-05-29 | 2025-10-13 |
 | [Lift Me Up \(feat\. Nico & Vinz, Ladysmith Black Mambazo\)](https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Nico Sereba](https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ), [Vincent "Vinzy V" Dery](https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:58 | 2023-11-10 |  |
@@ -110,6 +110,7 @@
 | [Ngingenwe Emoyeni](https://open.spotify.com/track/1x7kjDyShNDBGvR1U2siok) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:09 | 2022-10-10 | 2023-07-15 |
 | [Ngingenwe Emoyeni](https://open.spotify.com/track/2XnI4DE2k0uINOtFONuPzo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 4:09 | 2021-12-28 | 2022-10-09 |
 | [Ngithunyiwe Kini](https://open.spotify.com/track/4HKHR5K4KrIeRFHe1hhOFB) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6) | 3:34 | 2024-04-11 | 2025-10-11 |
+| [Ngithunyiwe Kini](https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA) | 3:36 | 2025-10-16 |  |
 | [Ngothandaza Njalo \(I'll Keep on Looking\)](https://open.spotify.com/track/5cSr5dZoikDnkGX35l7rlj) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inala](https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec) | 3:29 | 2024-09-10 |  |
 | [Nkosi Sikelel'](https://open.spotify.com/track/7tvVT1CqKFIORGGSHze4ih) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 2:23 | 2021-12-28 | 2022-05-29 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:30 | 2022-10-05 | 2022-10-25 |

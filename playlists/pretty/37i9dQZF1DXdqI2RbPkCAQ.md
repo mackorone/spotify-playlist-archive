@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 
 > late nights in Marrakech? packing now
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,695 likes - 83 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,993 likes - 83 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

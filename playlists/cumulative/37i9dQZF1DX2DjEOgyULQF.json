@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds. ",
+  "description": "Ambient with the soothing sounds of water, rain and birds.",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -430,10 +430,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 185201,
       "name": "Breathing Slowly",
       "url": "https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl"
+    },
+    {
+      "album": {
+        "name": "Brought",
+        "url": "https://open.spotify.com/album/7DcDtC9kfNv2cIIweoteUF"
+      },
+      "artists": [
+        {
+          "name": "Wanyes",
+          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152926,
+      "name": "Brought",
+      "url": "https://open.spotify.com/track/5soHcUXgM7E34kLB56XnhI"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 139874,
       "name": "Circle",
       "url": "https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 159868,
       "name": "Corales (Forest)",
       "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 148465,
       "name": "Flowing Calm",
       "url": "https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN"
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 177000,
       "name": "Fluere Ranae",
       "url": "https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Grandiosa",
       "url": "https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv"
@@ -2094,6 +2112,24 @@
       "duration_ms": 130854,
       "name": "Handwritten",
       "url": "https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7"
+    },
+    {
+      "album": {
+        "name": "Healing gaze",
+        "url": "https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h"
+      },
+      "artists": [
+        {
+          "name": "Estra Blue",
+          "url": "https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160450,
+      "name": "Healing gaze",
+      "url": "https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9"
     },
     {
       "album": {
@@ -2205,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "imperia",
+        "url": "https://open.spotify.com/album/3ruq6fx1M4ruMrGmKtEfvb"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162748,
+      "name": "imperia",
+      "url": "https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb"
+    },
+    {
+      "album": {
         "name": "Incandescent",
         "url": "https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg"
       },
@@ -2216,7 +2270,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 148444,
       "name": "Incandescent",
       "url": "https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd"
@@ -2234,7 +2288,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 155235,
       "name": "Inclusive",
       "url": "https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj"
@@ -2922,7 +2976,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 179250,
       "name": "My Small River",
       "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
@@ -3124,6 +3178,24 @@
       "duration_ms": 169500,
       "name": "Natuurlijk",
       "url": "https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj"
+    },
+    {
+      "album": {
+        "name": "Nebulune",
+        "url": "https://open.spotify.com/album/5OOLdbAPZRQtGu5fqOPxw2"
+      },
+      "artists": [
+        {
+          "name": "Mahyar",
+          "url": "https://open.spotify.com/artist/5bYzD2YaRwu1jMrnao3Yxv"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141935,
+      "name": "Nebulune",
+      "url": "https://open.spotify.com/track/53tFNiOsqvQRRYdI852x3z"
     },
     {
       "album": {
@@ -3624,7 +3696,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 182374,
       "name": "Returning",
       "url": "https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC"
@@ -3793,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "Sauna",
+        "url": "https://open.spotify.com/album/3cHPJVrhngu3Ptlm3GYHWB"
+      },
+      "artists": [
+        {
+          "name": "Xeuphoria",
+          "url": "https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Sauna",
+      "url": "https://open.spotify.com/track/7Gk9LBXbdcM5jlUy4X3EEg"
+    },
+    {
+      "album": {
         "name": "Seeker",
         "url": "https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp"
       },
@@ -3840,7 +3930,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 174851,
       "name": "Sequoia Peace (Forest)",
       "url": "https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0"
@@ -4182,7 +4272,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 173333,
       "name": "Spiritual Forest",
       "url": "https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI"
@@ -4564,6 +4654,24 @@
       "duration_ms": 168010,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/2Ty0lPGjFDvIKKwRuZqGg4"
+    },
+    {
+      "album": {
+        "name": "The Unseen",
+        "url": "https://open.spotify.com/album/46JybsDQOCeOMyFq1UwNt9"
+      },
+      "artists": [
+        {
+          "name": "Stapleton Grass",
+          "url": "https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "The Unseen",
+      "url": "https://open.spotify.com/track/3rpKRcr3DYdjj3tRkjYyxa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Steffany Gretzinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,463 likes - 74 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,484 likes - 74 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

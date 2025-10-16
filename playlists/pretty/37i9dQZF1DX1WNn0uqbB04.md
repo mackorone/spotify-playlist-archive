@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,883 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,880 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 2 | [Whatever Lola Wants \- Gotan Project Remix](https://open.spotify.com/track/29NRxWMbx6J6IOoE8BBl5F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:40 |
 | 3 | [Otra Luna](https://open.spotify.com/track/1rIJLWJngQGHXdoeF5EQre) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:42 |
 | 4 | [Ódiame](https://open.spotify.com/track/1gmFHuhCkXY1jGmscYdvIJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:53 |
-| 5 | [Los Vino´](https://open.spotify.com/track/4t65nqFwjv921ocsNlhUg5) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Dos](https://open.spotify.com/album/2K6RrzfNNlFq8dUOLkpzL5) | 2:43 |
-| 6 | [Mundo Bizarro](https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 4:06 |
+| 5 | [Mundo Bizarro](https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 4:06 |
+| 6 | [Los Vino´](https://open.spotify.com/track/4t65nqFwjv921ocsNlhUg5) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Dos](https://open.spotify.com/album/2K6RrzfNNlFq8dUOLkpzL5) | 2:43 |
 | 7 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
 | 8 | [Tic Toc Toc](https://open.spotify.com/track/6LbAefeQKQUgx77v18BL3q) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Tic Toc Toc](https://open.spotify.com/album/2KgO323uBA7a3EoxIDmPdY) | 2:23 |
-| 9 | [Diferente](https://open.spotify.com/track/5I3jKRlR8WS0xYYamnAhpG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Hôtel Costes 9](https://open.spotify.com/album/3l1nGJTNNjFwQ1cADEGHaw) | 4:39 |
+| 9 | [Vi Luz y Subí](https://open.spotify.com/track/1iJqnTaBrKQKGWMU7DNzx0) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:16 |
 | 10 | [La Guitarra](https://open.spotify.com/track/1FTWPu5d8ocf1JoDqAYYXw) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Guitarra](https://open.spotify.com/album/4g5Bw0aRcMUnrhhQlY5lFC) | 3:38 |
 | 11 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 |
 | 12 | [Cantor \(TANGO\)](https://open.spotify.com/track/6nmNrbsJcqw2AErzjOwqKy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:35 |
-| 13 | [Vi Luz y Subí](https://open.spotify.com/track/1iJqnTaBrKQKGWMU7DNzx0) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:16 |
-| 14 | [Sonido Nativo del Río](https://open.spotify.com/track/74yqyT2QjK9CZJcK6szEqD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sonido Nativo del Río](https://open.spotify.com/album/4tDzS7KjJcwKdeEZXoErsl) | 3:18 |
+| 13 | [Sonido Nativo del Río](https://open.spotify.com/track/74yqyT2QjK9CZJcK6szEqD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sonido Nativo del Río](https://open.spotify.com/album/4tDzS7KjJcwKdeEZXoErsl) | 3:18 |
+| 14 | [Diferente](https://open.spotify.com/track/5I3jKRlR8WS0xYYamnAhpG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Hôtel Costes 9](https://open.spotify.com/album/3l1nGJTNNjFwQ1cADEGHaw) | 4:39 |
 | 15 | [Chiqué](https://open.spotify.com/track/11XWTsiSeaIhv6nvYoaKIP) | [Ramiro Boero](https://open.spotify.com/artist/06yGc3ObG7hzni93vyv6Gb) | [Chiqué](https://open.spotify.com/album/5pxeddULMTojRNkSmSJyjB) | 3:42 |
-| 16 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 |
+| 16 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 |
 | 17 | [Intentos del abrigo](https://open.spotify.com/track/1aqFFIRrzynC0F418qgF1D) | [Lakes](https://open.spotify.com/artist/4XkqhcDENtW6pqFQmYG47L) | [Intentos del abrigo](https://open.spotify.com/album/10GbbqcnA4vFqO6hpjTcAM) | 3:42 |
-| 18 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 |
+| 18 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 |
 | 19 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
 | 20 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 |
 | 21 | [La Cumparsita](https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7) | [bulevard tango club](https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5) | [Tango On The Dance Floor](https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94) | 3:26 |

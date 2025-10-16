@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,143 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,167 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,7 +314,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 304 | [Let Me Love You](https://open.spotify.com/track/4t1dIV3GBZj9PRQovD8ypt) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Crimes](https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/1EBOc9WRqeVTMxC2mgn70Z) | 2:37 |
 | 305 | [Snow \(Hey Oh\)](https://open.spotify.com/track/0ARuww9cfpw8kYhWX6SD0K) | [Goldbird](https://open.spotify.com/artist/7bULzWHUuhNDPOrfv30dSq), [Offmind](https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb) | [Snow \(Hey Oh\)](https://open.spotify.com/album/0sXaVGqvja6p2QlQqHoCqI) | 2:44 |
 | 306 | [Heaven Is A Place On Earth](https://open.spotify.com/track/4NcW4k39BVv2KzqXzg7gYt) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Heaven Is A Place On Earth](https://open.spotify.com/album/3MDrqH7JAEghnH5ELRpyQ3) | 2:34 |
-| 307 | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/track/7kFptinr4hVUFLETdKde8D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/album/1ZfLiRCr23FgPpagNJBvTm) | 3:24 |
+| 307 | [Complicated](https://open.spotify.com/track/7kFptinr4hVUFLETdKde8D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Complicated](https://open.spotify.com/album/1ZfLiRCr23FgPpagNJBvTm) | 3:24 |
 | 308 | [Demons](https://open.spotify.com/track/6997op11buHVAiqQvjqNHr) | [CPX](https://open.spotify.com/artist/2PPhcBfaeaUDjqGwTqn8JL), [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Demons](https://open.spotify.com/album/450WJ711VT7jFp2oyncOwJ) | 2:09 |
 | 309 | [Show Me the Meaning of Being Lonely \- Club Edit](https://open.spotify.com/track/4nBzR5kIT7W93ru55nl3eH) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Adam Bü](https://open.spotify.com/artist/1XmQF3YXcIjv9PhNN69v8s) | [Show Me the Meaning of Being Lonely](https://open.spotify.com/album/3VlATUP5o3qSKP7g7FAVCS) | 2:12 |
 | 310 | [Mad World](https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv) | 2:33 |

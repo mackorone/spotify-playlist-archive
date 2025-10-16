@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,895 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,916 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Adrenaline](https://open.spotify.com/track/3n5GXYHCAnK9VskjAseOEr) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Adrenaline](https://open.spotify.com/album/2SXDYAcPeTsKSdQJYT86VM) | 3:09 |
 | 50 | [Dubbel Zo Hard \(Weet Je Nog?\)](https://open.spotify.com/track/0CH8thpsIg9MH1dZfha5EJ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Dubbel Zo Hard \(Weet Je Nog?\)](https://open.spotify.com/album/2RpiHlolipt2Toep6JQ738) | 4:02 |
 
-Snapshot ID: `aOxBAAAAAAD9F0zhbS/p2l824UeOFgpv`
+Snapshot ID: `aO2SgAAAAABN3iybIo4Sm0fFPsSGGfiu`

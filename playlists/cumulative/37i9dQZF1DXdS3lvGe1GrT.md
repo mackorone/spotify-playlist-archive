@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: Lefty Parker
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Beryl
 
-1,897 songs - 4 day 17 hr 25 min
+1,902 songs - 4 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Coming Clean](https://open.spotify.com/track/7G7czV2zDj9A5wDnNa0uYU) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 6:18 | 2022-10-05 | 2022-12-01 |
 | [Company](https://open.spotify.com/track/2wCxoJSKeCRRf9K9Qo65N6) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA), [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Company](https://open.spotify.com/album/1LPDFRZJQ3f3jmhSZF5bKB) | 3:47 | 2024-01-10 | 2024-02-08 |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2024-11-13 | 2025-01-16 |
+| [conversations with the moon](https://open.spotify.com/track/5slNp3QyBb4SbSxEEGoByw) | [Kitty Coen](https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef) | [Conversations with the Moon](https://open.spotify.com/album/4FAchfVVjOygjZHw9WiIzW) | 3:27 | 2025-10-15 |  |
 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 | 2022-08-24 | 2023-01-12 |
 | [Coop Running Through the Halls](https://open.spotify.com/track/5FszTomTWNyVVOGWwrLJX9) | [Jack M\. Senff](https://open.spotify.com/artist/4ZVwJlIgvmh6DTxPnf28x3) | [Low Spirit](https://open.spotify.com/album/0a807me7Pk3YZuTENtPnWo) | 3:08 | 2022-06-15 | 2023-01-12 |
 | [Copilot](https://open.spotify.com/track/585vhTzFBQuUGui6SWULfp) | [Blue Wilson](https://open.spotify.com/artist/2sw2UaTtDQzgWd7CPWKDsW) | [Future Street](https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW) | 4:47 | 2022-05-25 | 2022-06-30 |
@@ -867,6 +868,7 @@
 | [idiot](https://open.spotify.com/track/575GRrlbJiTEAaV8cUhKtB) | [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [idiot](https://open.spotify.com/album/65UVEBmL5yd1TF4tK7acwL) | 3:08 | 2023-03-01 | 2023-04-13 |
 | [Idiot](https://open.spotify.com/track/4y8xNhdcl0D1byeY0PswbT) | [Maggie Halfman](https://open.spotify.com/artist/7cwCSJiWWU5RENcy28kXxO) | [Idiot](https://open.spotify.com/album/7lflQWHyC7ya7JhgX8bCLw) | 3:49 | 2025-02-26 | 2025-05-15 |
 | [If I Can’t Win \(With You\)](https://open.spotify.com/track/0xcQe52wlh6AcndADrKF7S) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [If I Can’t Win \(With You\)](https://open.spotify.com/album/5YvyCqKE2qP59fJjGSIONc) | 3:20 | 2025-07-02 |  |
+| [If I go](https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Body Break](https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi) | 3:35 | 2025-10-15 |  |
 | [If I Had a Boat](https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [If I Had a Boat](https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd) | 11:18 | 2025-05-28 | 2025-08-21 |
 | [If I Wanted To](https://open.spotify.com/track/0ebpnu4g14P1jiZxTIhCa3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xBBmE8fVQLEzau1mRfn2J) | 2:53 | 2023-03-22 | 2023-04-29 |
 | [If I Wanted To](https://open.spotify.com/track/4wqZS9kXewme6hESpPTh7c) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:53 | 2023-04-12 | 2023-05-04 |
@@ -931,6 +933,7 @@
 | [Jetpack](https://open.spotify.com/track/1Ze0kJhl57LHrJwqzc7IUB) | [Evan Crommett](https://open.spotify.com/artist/21OzUs4uoYF0xoBHHI4f1M) | [Jetpack](https://open.spotify.com/album/4HIiMkPp3hTPWNLpds5M68) | 3:35 | 2022-09-14 | 2022-12-01 |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-15 | 2022-09-22 |
 | [Jimi On The Wall](https://open.spotify.com/track/0pcue2aASz7Knfg21QvXbS) | [Kenzo Divic](https://open.spotify.com/artist/3Pkd3Xh7WZcuf3bNSaxYyF) | [Jimi On The Wall](https://open.spotify.com/album/1RBTY3iHZhSREQjFXJaFMy) | 3:04 | 2023-08-30 | 2023-11-11 |
+| [joe](https://open.spotify.com/track/5AvrnnwmR5flF6IGifvg5U) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [joe](https://open.spotify.com/album/1BElGS28qatUuYmELNpPxn) | 4:44 | 2025-10-15 |  |
 | [John's Song](https://open.spotify.com/track/4bpJDRLCQFD2P69M6CvJn5) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [John's Song](https://open.spotify.com/album/4j7eJl344QnIwHORzthFN1) | 2:37 | 2025-06-11 | 2025-09-04 |
 | [Joy](https://open.spotify.com/track/5LBDwYixyKIc1GVnhgYDNy) | [Annie Stela](https://open.spotify.com/artist/6L2LACunZv5Bk1pyQdYCU0) | [Joy](https://open.spotify.com/album/42v75RcvfsCVtlYrzXR3RF) | 3:10 | 2022-10-26 | 2022-12-01 |
 | [Jump in the River](https://open.spotify.com/track/443yUzBexJe8ntrrzp4WXb) | [Lucie Glang](https://open.spotify.com/artist/0ZS4xe2Yw2THFYyyUTtoBg) | [Jump in the River](https://open.spotify.com/album/3Q6bPJcC3JTJkJ090K4NvP) | 2:36 | 2025-07-02 |  |
@@ -958,6 +961,7 @@
 | [Killing of a Sacred Dear \- Demo](https://open.spotify.com/track/66p4Ccug3Mn3r4FAv9ojCy) | [Tessa DeNicola](https://open.spotify.com/artist/5yyUO4YtfoPkaTB794DXGh) | [Killing of a Sacred Dear \(Demo\)](https://open.spotify.com/album/2pxaO1KYxGiqyw3aSALPMC) | 2:10 | 2023-02-22 | 2023-04-06 |
 | [Kindergarten Heart](https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ) | 2:57 | 2024-02-28 | 2024-05-02 |
 | [KISMET](https://open.spotify.com/track/2ajaNQrgwdvI0jd6EioUy4) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [KISMET](https://open.spotify.com/album/1UcxXAeAHvhR6kihLg1H6L) | 2:34 | 2025-03-06 | 2025-06-05 |
+| [Kiss My Face](https://open.spotify.com/track/63pJN3BbTAkzGWDbalf9nL) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Kiss My Face](https://open.spotify.com/album/7xBC4pZxDxLwpCQQlDyADk) | 3:47 | 2025-10-15 |  |
 | [Kitchen Disco Queen](https://open.spotify.com/track/2W0p4N8g6iqyU8uSarxroZ) | [Billy Sharp](https://open.spotify.com/artist/3Bs4lfvN2mcnu3yhtBlGt5) | [Kitchen Disco Queen](https://open.spotify.com/album/3BIX57DV8rx4t7PvZblsSc) | 3:15 | 2024-06-19 | 2024-10-10 |
 | [knees \(demo\)](https://open.spotify.com/track/4qGKYUIKNigV4NV84vfmVs) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [knees \(demo\)](https://open.spotify.com/album/6bmQ5atYMKtF7I9lUdaeE6) | 2:56 | 2023-01-11 | 2023-03-02 |
 | [Knock On Wood](https://open.spotify.com/track/6iWpKJjZ4tfmcoYwN2NA8C) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Getting Into Heaven](https://open.spotify.com/album/6HLUfcCmPPeS2HNAhYsR0t) | 4:13 | 2025-05-28 | 2025-08-21 |
@@ -1120,6 +1124,7 @@
 | [Might](https://open.spotify.com/track/55ZwLTMAr2gGDawefZAUdN) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Might](https://open.spotify.com/album/0Zun8lMQQRIiPA6iD38vFr) | 4:20 | 2025-04-09 | 2025-06-12 |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-03 | 2024-06-20 |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/2qglFgjSjGR1RuI1KbOiJo) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/2CGa8X4EQHcTXYiNMpIClp) | 1:17 | 2024-12-04 | 2025-01-16 |
+| [Millionaire Money](https://open.spotify.com/track/11Xej6CravthiyPLMqTvKe) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Millionaire Money](https://open.spotify.com/album/7vRzDaris7opeq6f4UN43N) | 3:02 | 2025-10-15 |  |
 | [MINE AGAIN](https://open.spotify.com/track/1sliW8SWjycvXp7o7DrB86) | [KYRIE](https://open.spotify.com/artist/6pNevK2GXYWyRGVaGC4aKc) | [ATTENTION](https://open.spotify.com/album/4zG3N3zZGyIV6Xr102AVif) | 5:29 | 2025-06-11 | 2025-08-21 |
 | [mirage](https://open.spotify.com/track/4ATeJw3PCPQxw6KDMjZ9Bs) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [mirage](https://open.spotify.com/album/0GSUSjqkI0VFRE8bqEysC4) | 3:03 | 2025-05-07 | 2025-07-10 |
 | [Miss Maine](https://open.spotify.com/track/5GOUliqSDh3kQ75qimjjRJ) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Miss Maine](https://open.spotify.com/album/0ghXmXrV0NQUokUUCQC49V) | 3:21 | 2024-07-24 | 2025-01-16 |

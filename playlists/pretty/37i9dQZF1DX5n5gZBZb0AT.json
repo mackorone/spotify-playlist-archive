@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 952913,
+  "num_followers": 953098,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "fragment",
+        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 97857,
+      "name": "fragment - slowed",
+      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "SLAY!",
         "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "fragment",
-        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
-      },
-      "artists": [
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 97857,
-      "name": "fragment - slowed",
-      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
       "added_at": "2025-07-25 04:00:45",

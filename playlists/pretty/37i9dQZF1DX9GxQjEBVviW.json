@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 246773,
+  "num_followers": 246801,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "United Artists Black Singles 1959-1967: ''Motor City To Central Park''",
-        "url": "https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 112200,
-      "name": "Love Potion No. 9",
-      "url": "https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "20 Best of Doo Wop",
         "url": "https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 134586,
       "name": "There Goes My Baby - Rerecorded",
       "url": "https://open.spotify.com/track/3ntA3FI3FR18yPO9snKvZ3"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "United Artists Black Singles 1959-1967: ''Motor City To Central Park''",
+        "url": "https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 112200,
+      "name": "Love Potion No. 9",
+      "url": "https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS"
     },
     {
       "added_at": "2024-07-14 11:36:52",

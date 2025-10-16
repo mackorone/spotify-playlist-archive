@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Astral Shore",
+        "url": "https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs"
+      },
+      "artists": [
+        {
+          "name": "Soothe My Soul",
+          "url": "https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216597,
+      "name": "Astral Shore",
+      "url": "https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V"
+    },
+    {
+      "album": {
         "name": "Aube",
         "url": "https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy"
       },
@@ -3048,7 +3066,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"

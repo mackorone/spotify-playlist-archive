@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAADnxWstA96Ev0eW+JIjg7My",
+  "snapshot_id": "aO2SgAAAAAARBcAakA99LzQjC1LYW747",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
-      "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musashi Project: Sadness and Sorrow (From \"Naruto\") [Arr. Telleria for Solo Piano]",
         "url": "https://open.spotify.com/album/3TmBPM55IvngAgpcbVwqtF"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 169040,
       "name": "Sadness and Sorrow (From \"Naruto\") [Arr. Telleria for Solo Piano]",
       "url": "https://open.spotify.com/track/4E1vizWEoCH1IPFuWJAJ4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang: The Chopin Album",
-        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 366320,
-      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
-      "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ann: ICARUS (Version for Piano 4 Hands)",
         "url": "https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 198906,
       "name": "ICARUS (Version for Piano 4 Hands)",
       "url": "https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 366320,
+      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
+      "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
     },
     {
       "added_at": null,
@@ -804,17 +804,17 @@
       },
       "artists": [
         {
-          "name": "Elena Kats-Chernin",
-          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
-      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
+      "duration_ms": 239360,
+      "name": "Lyric Pieces, Book 3, Op. 43: No. 6, To Spring",
+      "url": "https://open.spotify.com/track/2C9IBLwFL8uyY5kpUXPQSM"
     },
     {
       "added_at": null,
@@ -884,17 +884,17 @@
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Lyric Pieces, Book 3, Op. 43: No. 6, To Spring",
-      "url": "https://open.spotify.com/track/2C9IBLwFL8uyY5kpUXPQSM"
+      "duration_ms": 190626,
+      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
+      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
     },
     {
       "added_at": null,

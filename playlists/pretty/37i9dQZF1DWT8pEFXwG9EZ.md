@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,597 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,644 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 78 | [The Windmills of Your Mind \(Theme from the Thomas Crown Affair \) \- with Vocals by Noel Harrison](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
 | 79 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
 | 80 | [Body and Soul](https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:54 |
-| 81 | [Eddie's Theme](https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Who Framed Roger Rabbit](https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD) | 5:22 |
-| 82 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |
-| 83 | [Coffee Time \(from "The Subterraneans"\)](https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [The Subterraneans \(Original Soundtrack Recording\)](https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK) | 2:44 |
-| 84 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
+| 81 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |
+| 82 | [Eddie's Theme](https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Who Framed Roger Rabbit](https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD) | 5:22 |
+| 83 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
+| 84 | [Coffee Time \(from "The Subterraneans"\)](https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [The Subterraneans \(Original Soundtrack Recording\)](https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK) | 2:44 |
 | 85 | [Lullaby Of Birdland \- From "Fabulous Baker Boys" Soundtrack](https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG) | [The Earl Palmer Trio](https://open.spotify.com/artist/3MYbWvnIkAnKH2sAfFS6j6) | [The Fabulous Baker Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Cw0OKQKW52UTCrEH54uLD) | 2:31 |
 | 86 | [Fair Weather](https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 6:04 |
 | 87 | [Brass Brazilians](https://open.spotify.com/track/75Dg910bcWUB6ZimH4OrDn) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC) | [Rounders \(Music From The Miramax Motion Picture\)](https://open.spotify.com/album/4m5HdYzqg4BMsdijJ8azjt) | 2:50 |

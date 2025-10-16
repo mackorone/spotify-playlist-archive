@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Cool Patrol",
+        "url": "https://open.spotify.com/album/05VZA6Th4AQvZwDL3XUHt5"
+      },
+      "artists": [
+        {
+          "name": "Ninja Sex Party",
+          "url": "https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274740,
+      "name": "Danny Don't You Know",
+      "url": "https://open.spotify.com/track/2UAkvf29DvpqYCqK0VFf84"
+    },
+    {
+      "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },

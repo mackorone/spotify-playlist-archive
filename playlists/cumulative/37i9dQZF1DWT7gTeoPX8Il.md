@@ -4,7 +4,7 @@
 
 > layan je
 
-334 songs - 22 hr 4 min
+335 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Kesalahan Terindah](https://open.spotify.com/track/0Goyg7L3YHtGaOLNGoJXJx) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH) | [Kesalahan Terindah](https://open.spotify.com/album/0AuMLIbZT0tF5zzINkf0gl) | 3:47 | 2024-07-25 | 2024-08-31 |
 | [Kinrara](https://open.spotify.com/track/4EsUHudHGSdaOC7wmhZuxk) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Kinrara](https://open.spotify.com/album/1xQ3cMj9hLqc8uK0Gtrxhi) | 3:55 | 2024-03-07 | 2024-04-06 |
 | [Kisah Hati](https://open.spotify.com/track/1o5rB0dmixFLRFK9yi4hrF) | [Alyah](https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ) | [Kisah Hati](https://open.spotify.com/album/1SPQnY0RKyhAYdKsGU264n) | 4:41 | 2024-04-05 | 2024-04-19 |
-| [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 | 2024-02-29 |  |
+| [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 | 2024-02-29 | 2025-10-16 |
 | [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 | 2024-02-15 | 2024-02-23 |
 | [Kita Sama Sama Tau](https://open.spotify.com/track/2W88VFBsbYqCK2WXocaQZu) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Kita Sama Sama Tau](https://open.spotify.com/album/6IiO7rwSMqGEwC71XcgfnU) | 4:02 | 2024-10-17 | 2024-12-13 |
 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2024-01-18 | 2025-04-02 |
@@ -322,6 +322,7 @@
 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2024-01-25 | 2024-06-07 |
 | [Telapak](https://open.spotify.com/track/2tOGPUHBvPehZmp2CsIBlc) | [Here Comes July](https://open.spotify.com/artist/0MwqzrPnSMj6dDkIDNXNuF) | [Telapak](https://open.spotify.com/album/4OFuQuVo7a9IDTtRRPf41Z) | 4:04 | 2024-02-29 | 2024-03-08 |
 | [Teman](https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Teman](https://open.spotify.com/album/0HsFWCBUOfZdiIJC5xrbfL) | 3:57 | 2024-02-29 | 2024-03-08 |
+| [Tentang Aku,Kau dan Dia](https://open.spotify.com/track/1L7YPMbWve6EUPGa6F9nw5) | [Kangen Band](https://open.spotify.com/artist/2I3STBPK1DymMXPCjg3UIT) | [Tentang Aku,Kau dan Dia](https://open.spotify.com/album/5JEQxEQoFxYDXHRe3fETYJ) | 5:46 | 2025-07-28 |  |
 | [Terbang](https://open.spotify.com/track/6qKVuJFds2uONur7ijgJ6H) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Terbang](https://open.spotify.com/album/56rpGrle11kagKmui260fu) | 3:45 | 2024-12-12 | 2025-01-17 |
 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 | 2024-07-25 | 2025-04-17 |
 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-10-17 | 2025-04-16 |

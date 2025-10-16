@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain]
 
 > Dive into the sounds of Korea’s bold and brilliant female rappers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

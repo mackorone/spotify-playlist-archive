@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Phil Wickham",
-  "num_followers": 651289,
+  "num_followers": 651436,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 197706,
       "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267906,
-      "name": "Whom Shall I Fear (God Of Angel Armies)",
-      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "My Paper Heart",
         "url": "https://open.spotify.com/album/0b8SYUXuokh2t2ZzvKEIpc"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 208706,
       "name": "Free to Be Me",
       "url": "https://open.spotify.com/track/5TXwU5dCw3h6Tsr0UC3APQ"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Heed the Call",
-        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
-      },
-      "artists": [
-        {
-          "name": "The Imperials",
-          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Praise the Lord",
-      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7pfhRkBsKxw8mPNcVKReAT"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 247133,
       "name": "El-Shaddai",
       "url": "https://open.spotify.com/track/2VED4X4iTTLD4g1TQqxtAi"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Heed the Call",
+        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
+      },
+      "artists": [
+        {
+          "name": "The Imperials",
+          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Project",
-        "url": "https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Great Is The Lord",
-      "url": "https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Call on Your Name",
         "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Project",
+        "url": "https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Great Is The Lord",
+      "url": "https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2431,22 +2431,18 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+        "name": "God Is on the Move",
+        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 293331,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+      "duration_ms": 176615,
+      "name": "God Is on the Move",
+      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2463,6 +2459,42 @@
       "duration_ms": 204386,
       "name": "Good To Be Alive",
       "url": "https://open.spotify.com/track/1QiBuT1DkSfo9ld0xjDPV8"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 293331,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2495,42 +2527,6 @@
       "duration_ms": 201733,
       "name": "Drops In the Ocean",
       "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "God Is on the Move",
-        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 176615,
-      "name": "God Is on the Move",
-      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt"
-      },
-      "artists": [
-        {
-          "name": "Eric Champlin",
-          "url": "https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa"
-        },
-        {
-          "name": "Haylie Allcott",
-          "url": "https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I"
-        }
-      ],
-      "duration_ms": 242122,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP"
     }
   ],
   "unique_name": "Christian Classics",

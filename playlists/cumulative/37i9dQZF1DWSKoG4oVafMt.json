@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 172355,
       "name": "Channo",
       "url": "https://open.spotify.com/track/1qRfsMsBxKm4bhWnQws0he"
@@ -7630,7 +7630,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 164133,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
@@ -7750,7 +7750,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 191874,
       "name": "HIM.",
       "url": "https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8"
@@ -11097,6 +11097,32 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Kufar",
+      "url": "https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1"
+    },
+    {
+      "album": {
         "name": "Geetkaar",
         "url": "https://open.spotify.com/album/6pTzaVL8DYWRIAXTACbryg"
       },
@@ -12602,6 +12628,32 @@
       "duration_ms": 194202,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/3u506wwA1POn195LMh3NhV"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Mahiya",
+      "url": "https://open.spotify.com/track/14dckcTZuw0tj08vb8tcuA"
     },
     {
       "album": {
@@ -23918,6 +23970,32 @@
       "duration_ms": 152210,
       "name": "You & I",
       "url": "https://open.spotify.com/track/20xEtcpN5E3CvI0zBlk40v"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179469,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy"
     },
     {
       "album": {

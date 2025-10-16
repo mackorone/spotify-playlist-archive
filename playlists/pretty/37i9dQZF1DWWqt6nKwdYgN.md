@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Big Stan en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,769 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,774 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ILEGALMENTE LEGAL](https://open.spotify.com/track/3AUJgvWBAb38hlUjZDvton) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd) | [ILEGALMENTE LEGAL](https://open.spotify.com/album/4c3JqKzkI2iUJm9m9Lydle) | 3:09 |
+| 1 | [ILEGALMENTE LEGAL](https://open.spotify.com/track/3AUJgvWBAb38hlUjZDvton) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd), [Isek](https://open.spotify.com/artist/12osUSoqPugQPwSFTzcwnd) | [ILEGALMENTE LEGAL](https://open.spotify.com/album/4c3JqKzkI2iUJm9m9Lydle) | 3:09 |
 | 2 | [Boticario](https://open.spotify.com/track/37sJRZIWQeiHwywmhzt6n4) | [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Maco Maat](https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Boticario](https://open.spotify.com/album/4UMogwYKsk6xy2K3qMbE8e) | 3:10 |
 | 3 | [PAO PAO PAO](https://open.spotify.com/track/4qCjfeFcb6NU13nnXWSwcV) | [Solitario Soldado](https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG), [El sonido del javier](https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u) | [PAO PAO PAO](https://open.spotify.com/album/1KbAK8CWHyhjTt4RAi6At5) | 3:01 |
 | 4 | [CICATRICES](https://open.spotify.com/track/5FlU41T1HhNwkUdSATU1JG) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [KidBored](https://open.spotify.com/artist/1dN9C5uU8dhXed5YhVqs3r) | [CICATRICES](https://open.spotify.com/album/2sbpFYoRjobOADdSJnW7KW) | 2:58 |

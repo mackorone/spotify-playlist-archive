@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 13 hr 30 min
+232 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,9 +102,10 @@
 | [Eternal Love](https://open.spotify.com/track/4GUQAABjI1c4XbRXo8wFL5) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 5:03 | 2022-06-04 | 2024-03-12 |
 | [Expectations](https://open.spotify.com/track/09BuyKc8fA1eK8MMhxKiUV) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:08 | 2022-06-04 | 2022-10-19 |
 | [Expectations](https://open.spotify.com/track/3zuZpT1yl4iMkoqnRt7dOk) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:08 | 2022-10-18 |  |
+| [Fantasize](https://open.spotify.com/track/0yTCxxBXEus2816vCIovXG) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 4:18 | 2025-10-15 |  |
 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/1b7mHh72iJHnRtKuth5anA) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/2okr7Qi1xqCSzTbzEMaIAl) | [Fantasize \(feat\. Cecile\)](https://open.spotify.com/album/14fkh0mWVPaPCsvL61EuXu) | 7:45 | 2022-06-04 | 2025-02-08 |
 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/6rn8fHwXEwOCGjk3GtiYfw) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/2okr7Qi1xqCSzTbzEMaIAl) | [4 To The Floor Presents Classic Music Company](https://open.spotify.com/album/3trja7o6eRir0Iv4DGyvUs) | 7:45 | 2025-02-07 | 2025-02-10 |
-| [Fantasize \- Vocal Club Mix](https://open.spotify.com/track/5bBq3AhU4aSTFoDl68KYD6) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [4 To The Floor presents Classic Music Company](https://open.spotify.com/album/5dBH5PoD7BoTNVWcebH61W) | 7:45 | 2025-02-09 |  |
+| [Fantasize \- Vocal Club Mix](https://open.spotify.com/track/5bBq3AhU4aSTFoDl68KYD6) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [4 To The Floor presents Classic Music Company](https://open.spotify.com/album/5dBH5PoD7BoTNVWcebH61W) | 7:45 | 2025-02-09 | 2025-10-16 |
 | [Free Like A Bird](https://open.spotify.com/track/1Z9iPNOlVp6whFtC19PBnW) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:06 | 2022-06-04 |  |
 | [Go](https://open.spotify.com/track/4frROcrrwj4vrUs1USFvj2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:53 | 2022-06-04 | 2022-10-19 |
 | [Go](https://open.spotify.com/track/6OT5SEXE1FoTEPLcyBSNcN) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:53 | 2022-10-18 |  |

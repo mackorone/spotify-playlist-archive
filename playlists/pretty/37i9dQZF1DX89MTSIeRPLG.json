@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23076,
+  "num_followers": 23084,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "B.H.D. (Black Hearted Demon)",
+        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "My Life 4Hunnid",
         "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 216953,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "B.H.D. (Black Hearted Demon)",
-        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 182258,
       "name": "RPS & Codeine (feat. Gunna)",
       "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
-      },
-      "artists": [
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 155224,
       "name": "45 (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Boys To Men",
-        "url": "https://open.spotify.com/album/27au7UPN6qTdmKNZkDR6Qk"
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
       "artists": [
         {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
         }
       ],
-      "duration_ms": 124767,
-      "name": "Boys To Men",
-      "url": "https://open.spotify.com/track/1U1VI1YDJbxfWpRmZ2qLMp"
+      "duration_ms": 143772,
+      "name": "Florida Nights",
+      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
     }
   ],
   "unique_name": "Funny Marco's Taste",

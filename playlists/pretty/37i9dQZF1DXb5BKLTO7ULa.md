@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR Benelux</a>\), Froukje & S10, Davina Michelle, Henkie T en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,188 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,179 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 97 | [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 |
 | 98 | [Superhero](https://open.spotify.com/track/0Vtm21YdvqxfulouRscKMe) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Superhero](https://open.spotify.com/album/7FLdGnt4EzsnlCK2ukzccr) | 3:18 |
 | 99 | [Find Me](https://open.spotify.com/track/601duPbqge25OtknrrS99N) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Find Me](https://open.spotify.com/album/2Bw4yItttk3AbNpgCxecrh) | 4:04 |
-| 100 | [Recht Voor Je Raap](https://open.spotify.com/track/6Zg6yC5SRXwbegbh9qSrPL) | [Altijd Larstig & Rob Gasd’rop](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Recht Voor Je Raap](https://open.spotify.com/album/4chLgbALNHgS8aVRkbGNb0) | 2:37 |
+| 100 | [Recht Voor Je Raap](https://open.spotify.com/track/6Zg6yC5SRXwbegbh9qSrPL) | [LARSTIG & GASDROP](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Recht Voor Je Raap](https://open.spotify.com/album/4chLgbALNHgS8aVRkbGNb0) | 2:37 |
 
 Snapshot ID: `AAAAAHAx7W8z9pcUMOH54jEFvH+0Em/I`

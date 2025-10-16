@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49781,
+  "num_followers": 49783,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAACj+aY2voUsDooLNApOH0xw",
+  "snapshot_id": "aO2SgAAAAADfwmaeZ82tzqB31HFdGIH7",
   "tracks": [
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "The Six String Sorrow Sessions",
+        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
       },
       "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Oklahoma Sun",
-      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
+      "duration_ms": 288128,
+      "name": "Gunshy - Rerecorded",
+      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
     },
     {
       "added_at": null,
@@ -411,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Oklahoma Sun",
+      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 338346,
       "name": "Honey Pain",
       "url": "https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Six String Sorrow Sessions",
-        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 288128,
-      "name": "Gunshy - Rerecorded",
-      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
     },
     {
       "added_at": null,

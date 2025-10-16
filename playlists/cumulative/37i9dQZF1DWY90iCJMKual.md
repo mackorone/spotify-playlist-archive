@@ -4,7 +4,7 @@
 
 > PH vibin' cover: ALLMO$T
 
-394 songs - 21 hr 39 min
+395 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [ulan](https://open.spotify.com/track/444koElXksa3AgyCImMhkt) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [ulan](https://open.spotify.com/album/30Zf1vIhmHRfKSsHnsbGef) | 1:54 | 2024-07-26 | 2025-03-22 |
 | [VANISH MODE](https://open.spotify.com/track/3Xm0K8nqzxFesknHEvdprE) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP) | [VANISH MODE](https://open.spotify.com/album/11NIbuuOeLf8QbhwIYphvW) | 3:15 | 2023-12-01 | 2025-01-17 |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-10-12 | 2023-07-29 |
+| [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-15 |  |
 | [Wag Lang Ganon](https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [Wag Lang Ganon](https://open.spotify.com/album/6p1LtmHDDoaf4RrhAtQjJF) | 3:12 | 2024-10-11 |  |
 | [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 |  |
 | [Walang Iba](https://open.spotify.com/track/5h3vsRx6ipMLg7ijWECx06) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Walang Iba](https://open.spotify.com/album/5d1NY84EQaXOnrUEnz4z7V) | 3:20 | 2025-10-13 |  |

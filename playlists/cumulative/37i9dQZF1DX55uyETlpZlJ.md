@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-562 songs - 1 day 7 hr 56 min
+563 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Summer Girl](https://open.spotify.com/track/1YsFy6IbkzjJTKtFm7U0uA) | [HARIX](https://open.spotify.com/artist/0QfMaP5vyOlUIsqvRhLOOG) | [Summer Girl](https://open.spotify.com/album/4fqdz5PhrYqVdsmCCQiF5U) | 2:26 | 2025-03-26 | 2025-09-07 |
 | [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 | 2024-11-05 | 2025-03-26 |
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
+| [Taare Bindigeya](https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Taare Bindigeya](https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL) | 5:06 | 2025-10-15 |  |
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
 | [Tandanaa](https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Tandanaa](https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6) | 2:32 | 2025-04-23 | 2025-10-14 |
 | [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 | 2024-03-18 |

@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-172 songs - 12 hr 54 min
+173 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 | 2022-06-16 | 2024-04-19 |
 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5PVBS2Vg3NbCqdOamkHaUq) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [R&B Forever](https://open.spotify.com/album/4Y09GEoIvXeVpCTf0JyGVW) | 4:12 | 2022-06-16 | 2022-11-13 |
 | [Keep Your Worries](https://open.spotify.com/track/2iYM4CGkoTfsLw9MI5K1AC) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:58 | 2021-07-09 |  |
+| [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2025-10-15 |  |
 | [Lake By the Ocean](https://open.spotify.com/track/515Sz5OLZs4ySr234CP2js) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [blackSUMMERS'night \(2016\)](https://open.spotify.com/album/6pjoIUNpMtQaSJvRUmsnSh) | 3:58 | 2022-06-16 | 2024-04-19 |
 | [Lake By the Ocean](https://open.spotify.com/track/1GWVyqmjhJkUfqaJwUk8Xi) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Lake By the Ocean](https://open.spotify.com/album/28oqEXYe0R3QgzErwhQlfA) | 3:59 | 2021-07-09 |  |
 | [Lala](https://open.spotify.com/track/0AuoIaRCg1QA238w6HC30C) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:30 | 2021-07-09 |  |

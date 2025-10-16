@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨PinkPantheress x Bladee  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,864 likes - 229 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,875 likes - 229 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

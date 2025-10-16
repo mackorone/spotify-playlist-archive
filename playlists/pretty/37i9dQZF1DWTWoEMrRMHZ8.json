@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Chico",
-  "num_followers": 352806,
+  "num_followers": 352864,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
+        "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 189232,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Um Trem para as Estrelas",
         "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 216425,
       "name": "Um Trem Para as Estrelas",
       "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
-        "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Confiss\u00f5es (De Amor) vol.1",
-        "url": "https://open.spotify.com/album/6Q7E5DR26dRDmsRpZzq5bN"
-      },
-      "artists": [
-        {
-          "name": "Isabella Taviani",
-          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
-        }
-      ],
-      "duration_ms": 226076,
-      "name": "Flechas Na Parede",
-      "url": "https://open.spotify.com/track/0WoONZ0VAea84s3D8OV2iD"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "LATINO-AMERICANA (AO VIVO)",
-        "url": "https://open.spotify.com/album/0k2M0NIwb81V8J1Y3Grw2W"
+        "name": "Confiss\u00f5es (De Amor) vol.1",
+        "url": "https://open.spotify.com/album/6Q7E5DR26dRDmsRpZzq5bN"
       },
       "artists": [
         {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        },
-        {
-          "name": "Tulinho",
-          "url": "https://open.spotify.com/artist/4YECqT6rp19cjeH8XNvf4C"
+          "name": "Isabella Taviani",
+          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Uma Semente - Ao Vivo",
-      "url": "https://open.spotify.com/track/7pQPYpykSxaQ9zjt78Mi2K"
+      "duration_ms": 226076,
+      "name": "Flechas Na Parede",
+      "url": "https://open.spotify.com/track/0WoONZ0VAea84s3D8OV2iD"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -931,6 +911,26 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "LATINO-AMERICANA (AO VIVO)",
+        "url": "https://open.spotify.com/album/0k2M0NIwb81V8J1Y3Grw2W"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        },
+        {
+          "name": "Tulinho",
+          "url": "https://open.spotify.com/artist/4YECqT6rp19cjeH8XNvf4C"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Uma Semente - Ao Vivo",
+      "url": "https://open.spotify.com/track/7pQPYpykSxaQ9zjt78Mi2K"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "For\u00e7a Estranha",
+        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 257739,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "Fulor\u00e1",
         "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 233404,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "For\u00e7a Estranha",
-        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 257739,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Branco",
-        "url": "https://open.spotify.com/album/2FQBFjNRtYj8CvBxtAgwil"
-      },
-      "artists": [
-        {
-          "name": "Douglas Germano",
-          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
-        },
-        {
-          "name": "Henrique Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/60boj7zwzhQFeEazW1hDjl"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Na Ronda",
-      "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
         "name": "Esperan\u00e7a",
         "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
       },
@@ -1315,22 +1295,6 @@
       "duration_ms": 265192,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Chuva de Prata",
-        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
-      },
-      "artists": [
-        {
-          "name": "CATTO",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Chuva de Prata",
-      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1375,6 +1339,42 @@
       "duration_ms": 228072,
       "name": "Apocalipse",
       "url": "https://open.spotify.com/track/5ycVVsFuS5kGNOQ8hnIMD1"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
+        "name": "Chuva de Prata",
+        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
+      },
+      "artists": [
+        {
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "Chuva de Prata",
+      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
+        "name": "Branco",
+        "url": "https://open.spotify.com/album/2FQBFjNRtYj8CvBxtAgwil"
+      },
+      "artists": [
+        {
+          "name": "Douglas Germano",
+          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+        },
+        {
+          "name": "Henrique Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/60boj7zwzhQFeEazW1hDjl"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Na Ronda",
+      "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Ainda \u00e9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        },
-        {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        }
-      ],
-      "duration_ms": 172484,
-      "name": "Ainda \u00e9 Ver\u00e3o",
-      "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
         "name": "Fico a Fim",
         "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
       },
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
+        "name": "Ainda \u00e9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "duration_ms": 172484,
+      "name": "Ainda \u00e9 Ver\u00e3o",
+      "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
         "name": "a natureza das coisas",
         "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 119702,
       "name": "a natureza das coisas",
       "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2025-10-04 00:25:41",
+      "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1627,18 +1643,22 @@
     {
       "added_at": "2025-10-04 00:25:41",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+        "name": "Tudo Vai Conspirar",
+        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
       },
       "artists": [
         {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
         }
       ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+      "duration_ms": 184875,
+      "name": "Tudo Vai Conspirar",
+      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
     },
     {
       "added_at": "2025-10-04 00:25:41",
@@ -1695,26 +1715,6 @@
       "duration_ms": 177513,
       "name": "N\u00f3s dois \u00e9 bem melhor",
       "url": "https://open.spotify.com/track/4FEWrTX7MGHfV9AjLFZSPJ"
-    },
-    {
-      "added_at": "2025-10-04 00:25:41",
-      "album": {
-        "name": "Tudo Vai Conspirar",
-        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Tudo Vai Conspirar",
-      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
     },
     {
       "added_at": "2025-10-04 00:25:41",

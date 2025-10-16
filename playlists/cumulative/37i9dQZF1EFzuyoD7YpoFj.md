@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-610 songs - 1 day 9 hr 10 min
+612 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 | 2024-07-24 |  |
 | [For No Rhyme or Reason](https://open.spotify.com/track/2mJJs5Emtg83aNSpboiIqU) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Sing Me A Swing Song](https://open.spotify.com/album/0IPTjh7ZZB3jL8WWS78wqw) | 1:23 | 2024-07-24 |  |
 | [Fred's Feet](https://open.spotify.com/track/26ezeRK7J9moUqh4apZgXi) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 0:58 | 2024-07-24 |  |
-| [Fresh As A Daisy](https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:45 | 2024-07-24 |  |
+| [Fresh As A Daisy](https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:45 | 2024-07-24 | 2025-10-16 |
+| [Fresh As A Daisy](https://open.spotify.com/track/0xzqp1cuSZzVPAniCnBROp) | [Glenn Miller Orchestra](https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z) | [Moonlight Serenade](https://open.spotify.com/album/5zVJWmLOvtD3RO2dyEfeOO) | 2:47 | 2025-10-15 |  |
 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 | 2024-07-24 |  |
 | [From Alpha to Omega](https://open.spotify.com/track/0gUWRzwRKeerxnDx3wL3KO) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:44 | 2024-07-24 |  |
 | [From Now On \- Remastered](https://open.spotify.com/track/2qLfJ0RFI6SUW4NUEkR20D) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ole Ala Lee](https://open.spotify.com/album/3vvQ55dkibnUUE7A79HZDW) | 1:55 | 2025-07-10 |  |
@@ -246,7 +247,8 @@
 | [I've Been Thinking About You](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles 16 Tracks](https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz) | 3:50 | 2024-07-24 | 2025-06-28 |
 | [I've Come To Wive It Wealthily In Padua](https://open.spotify.com/track/5T0i46U2lhpQwSwpS5tagh) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:09 | 2025-06-27 |  |
 | [I've Got My Eyes On You](https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:57 | 2025-07-10 |  |
-| [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/26Uufz1ggmJ8mIWeER5y7x) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:55 | 2025-06-27 |  |
+| [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 | 2025-10-15 |  |
+| [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/26Uufz1ggmJ8mIWeER5y7x) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:55 | 2025-06-27 | 2025-10-16 |
 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 | 2025-09-10 |  |
 | [I've Got You On My Mind](https://open.spotify.com/track/5FK62sSVZItz8ihh0D01RX) | [White Plains](https://open.spotify.com/artist/0xWTQw2TL6j7mHGOTltsEW) | [My Baby Loves Lovin'](https://open.spotify.com/album/7scn5zWo1h0U1np5FVekWU) | 2:42 | 2024-07-24 | 2025-01-01 |
 | [I've Got You Under My Skin](https://open.spotify.com/track/7eL2UWdB8UglEfnCvSypbq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 6:10 | 2024-07-24 | 2025-06-28 |

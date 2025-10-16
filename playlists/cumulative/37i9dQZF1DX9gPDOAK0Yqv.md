@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-811 songs - 2 day 12 hr 57 min
+812 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Atomic Heart](https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Yana Blinder](https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R) | [Atomic Heart](https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf) | 7:13 | 2023-02-27 | 2025-01-17 |
 | [Aylyak](https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z) | [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [Aylyak](https://open.spotify.com/album/2HFA0eMSuzqqxFY1y3wMGr) | 3:31 | 2023-05-31 | 2024-05-24 |
 | [Azurblau](https://open.spotify.com/track/5x6sZ6mz23tTf7lCCa7F7A) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd) | [Berlin](https://open.spotify.com/album/58Mt8Tv2EEMupogXTFC9pB) | 6:51 | 2022-12-28 | 2023-01-06 |
+| [Back To The Sound](https://open.spotify.com/track/54HmVaiLg72bfmQ2lkhljF) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [ENDZ061](https://open.spotify.com/album/66l4BIequxiDPjxXoH900j) | 2:53 | 2025-10-09 |  |
 | [Back Up](https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Back Up](https://open.spotify.com/album/10yJevvqETfkqxVtKIL2Pd) | 6:11 | 2023-02-27 | 2023-03-04 |
 | [Backdraft](https://open.spotify.com/track/1OSqD3s36O6gsAweU52auZ) | [Naeiiv](https://open.spotify.com/artist/2abcn9W6DWwhy0oHuYZ0VU) | [Odd Ones V3](https://open.spotify.com/album/6uZsOAn5vwihIF5bh6mRlM) | 5:20 | 2025-01-09 | 2025-02-14 |
 | [Backstage](https://open.spotify.com/track/3tjQXSn4jfFNETRVvQotFB) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Backstage](https://open.spotify.com/album/50XMK7szkVVwVLGjueuKLB) | 3:06 | 2025-05-22 | 2025-07-18 |
@@ -768,7 +769,7 @@
 | [Unleashed](https://open.spotify.com/track/218l5c2LMvAIusPWi9v62I) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Unleashed](https://open.spotify.com/album/3RlCUXGxWy1TmXKdl4ck7Y) | 4:08 | 2025-08-08 |  |
 | [Uno Y Cuatro](https://open.spotify.com/track/1TLbo5g8bNTqKRjYjUqDSO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Uno Y Cuatro](https://open.spotify.com/album/7MR72n7GG87mK19Xh2Rwiu) | 3:56 | 2024-10-03 | 2024-12-21 |
 | [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 | 2022-11-29 |
-| [Vacilando](https://open.spotify.com/track/61QcPE2JaTf5CdSGSbEF3w) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [NAGINI](https://open.spotify.com/album/6wwx18luVrJaIHzroi2gTN) | 2:25 | 2025-08-29 |  |
+| [Vacilando](https://open.spotify.com/track/61QcPE2JaTf5CdSGSbEF3w) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [NAGINI](https://open.spotify.com/album/6wwx18luVrJaIHzroi2gTN) | 2:25 | 2025-08-29 | 2025-10-16 |
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-05-31 | 2023-10-14 |
 | [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 | 2023-01-27 | 2023-10-19 |
 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 | 2024-07-19 |  |

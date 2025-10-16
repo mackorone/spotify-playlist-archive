@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-205 songs - 11 hr 11 min
+206 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [O Christmas Tree](https://open.spotify.com/track/18k5cXsmyfv8zQjY7KManB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [O Christmas Tree](https://open.spotify.com/album/2G29sODSfS34dFxpBSGrdu) | 2:44 | 2023-11-24 | 2024-10-19 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/7vAtxxIskJvuEjEzzZ5hco) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [O Come All Ye Faithful](https://open.spotify.com/album/77RAitt8pGClwqj64jOGEB) | 3:59 | 2023-11-24 | 2024-10-19 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/2EDdWfBwIQPR94gbGIDHeE) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [O Come All Ye Faithful](https://open.spotify.com/album/2Tb5yS61H1XeS8BNqG9VSq) | 3:33 | 2024-11-22 |  |
+| [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 | 2025-10-15 |  |
 | [O Come, O Come Emmanuel \- \(LIVE\)](https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas \(LIVE\) \[The Cinematic Concert Album\]](https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd) | 4:10 | 2024-11-22 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/02EqC5FYolOzRXb3mUiPlM) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [O Come, O Come, Emmanuel](https://open.spotify.com/album/2s8owMRViyWBnztyAUNG2i) | 5:15 | 2024-11-01 |  |
 | [O Holy Night](https://open.spotify.com/track/24u4rA8edrSR9atuzyh91Q) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 4:37 | 2023-11-24 | 2024-10-19 |

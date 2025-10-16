@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tonton Naza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,288 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,360 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 5 | [Mususu](https://open.spotify.com/track/2Uzw0LCK1D4epiBWHNOva9) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Mususu](https://open.spotify.com/album/6h3RnIZIKupVCcMIck5jb9) | 2:17 |
 | 6 | [Wagyu du Jap'](https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Wagyu du Jap'](https://open.spotify.com/album/71iiMtckKbHxVjTKMTVFvV) | 1:45 |
 | 7 | [Tiens x2](https://open.spotify.com/track/7lhZIrBnEHmOfUlC8rWc4Y) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Tiens x2](https://open.spotify.com/album/3Dhsls9jIpD3VKnUHyCR9E) | 1:30 |
-| 8 | [J'avoue, j'avoue part\. 2](https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [J'avoue, j'avoue part\. 2](https://open.spotify.com/album/7y79dDxIeReWrhUOh02r2Z) | 2:51 |
+| 8 | [J'avoue, j'avoue part\. 2](https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [J'avoue, j'avoue part\. 2](https://open.spotify.com/album/7y79dDxIeReWrhUOh02r2Z) | 2:51 |
 | 9 | [Plus de larmes](https://open.spotify.com/track/7IM9TpFsMTVsxbzVpb6P02) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Plus de larmes](https://open.spotify.com/album/4fkOgzUqgMZuP6VEGGu29o) | 3:51 |
 | 10 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 |
 | 11 | [Cristalline](https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Cristalline](https://open.spotify.com/album/29nlVmBV3PkXA98DtlwMaR) | 2:54 |

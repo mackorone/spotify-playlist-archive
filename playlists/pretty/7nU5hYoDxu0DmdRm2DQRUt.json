@@ -1,13 +1,125 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7755,
+  "num_followers": 7758,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOQwQCK0MKwSH6O75KS666AF65v3ZP",
+  "snapshot_id": "AAAOTKh1sEDVJw5KZxbaqPzDfE/38X/o",
   "tracks": [
+    {
+      "added_at": "2025-10-15 13:58:52",
+      "album": {
+        "name": "Kompakt: Total 25",
+        "url": "https://open.spotify.com/album/6f9xOpwXeupwzm5BDQBa6Q"
+      },
+      "artists": [
+        {
+          "name": "Triola",
+          "url": "https://open.spotify.com/artist/4SpBNXtuURDoPjtIRvGyqi"
+        },
+        {
+          "name": "The Modernist",
+          "url": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88"
+        },
+        {
+          "name": "Irene Kalisvaart",
+          "url": "https://open.spotify.com/artist/5ZX4dPWl2PEe59aBX5rbIj"
+        }
+      ],
+      "duration_ms": 266204,
+      "name": "Arcadia - The Modernist Mix",
+      "url": "https://open.spotify.com/track/5cbBplEpRrghPsC5wMUlRX"
+    },
+    {
+      "added_at": "2025-10-15 13:52:21",
+      "album": {
+        "name": "What About Love",
+        "url": "https://open.spotify.com/album/7fsz62T06XwfyKVYACfF6c"
+      },
+      "artists": [
+        {
+          "name": "MONKYMAN",
+          "url": "https://open.spotify.com/artist/1OZYsEHLgv8uRLvMAywgod"
+        },
+        {
+          "name": "Ibon Goitia",
+          "url": "https://open.spotify.com/artist/11zvxMJZtBv30U1W3PB4tQ"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "What About Love",
+      "url": "https://open.spotify.com/track/2oSEDQrwjABTvFcL2SUJOR"
+    },
+    {
+      "added_at": "2025-10-15 13:53:46",
+      "album": {
+        "name": "Second Dimensions",
+        "url": "https://open.spotify.com/album/64VWtrhnimcagN9algwO2D"
+      },
+      "artists": [
+        {
+          "name": "The Sound Vandals",
+          "url": "https://open.spotify.com/artist/5JHcRK5jq5ZTgJqoij8S6y"
+        }
+      ],
+      "duration_ms": 514063,
+      "name": "On Your Way - Deep Mix",
+      "url": "https://open.spotify.com/track/2rpzt7UCgiSilaUa8AueCK"
+    },
+    {
+      "added_at": "2025-10-15 13:54:12",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4uKkcvm15yp9qS4IhSIZs5"
+      },
+      "artists": [
+        {
+          "name": "Quince",
+          "url": "https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8"
+        },
+        {
+          "name": "Sayne",
+          "url": "https://open.spotify.com/artist/14yfOG5LDT3qJbF2PGAN67"
+        }
+      ],
+      "duration_ms": 287126,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/5XKK77Oj58sGuv8Cg24pMM"
+    },
+    {
+      "added_at": "2025-10-15 13:54:29",
+      "album": {
+        "name": "Buddhist Hipsters",
+        "url": "https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 334680,
+      "name": "Arabebonics",
+      "url": "https://open.spotify.com/track/2dTXrnibwGXvZzGYhyBjgb"
+    },
+    {
+      "added_at": "2025-10-15 13:54:56",
+      "album": {
+        "name": "The Increased Difficulty Of Concentration, Part 1.2",
+        "url": "https://open.spotify.com/album/5W4nJZv03LlaQPR9RCKVbI"
+      },
+      "artists": [
+        {
+          "name": "Air Liquide",
+          "url": "https://open.spotify.com/artist/5MhxFD2oBgZmX4lbhjSc3N"
+        }
+      ],
+      "duration_ms": 368106,
+      "name": "This Is Not a Mind Trip - Live at Love Parade 1994",
+      "url": "https://open.spotify.com/track/198H335WASOsUYYAsLQB2G"
+    },
     {
       "added_at": "2025-10-07 07:08:45",
       "album": {

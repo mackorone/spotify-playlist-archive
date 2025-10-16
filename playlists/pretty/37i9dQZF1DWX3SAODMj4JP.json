@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 159086,
+  "num_followers": 159135,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Al\u00e9m do Que Se V\u00ea",
-        "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
+        "name": "Tantos Mares",
+        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
       "artists": [
         {
@@ -68,17 +68,13 @@
           "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         },
         {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        },
-        {
-          "name": "Ventania",
-          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
         }
       ],
-      "duration_ms": 301704,
-      "name": "Al\u00e9m do Que Se V\u00ea",
-      "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
+      "duration_ms": 280266,
+      "name": "Tantos Mares",
+      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -151,8 +147,8 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Tantos Mares",
-        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
+        "name": "Al\u00e9m do Que Se V\u00ea",
+        "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
       },
       "artists": [
         {
@@ -160,13 +156,17 @@
           "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         },
         {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Tantos Mares",
-      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+      "duration_ms": 301704,
+      "name": "Al\u00e9m do Que Se V\u00ea",
+      "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 352159,
       "name": "Close to Me - Acoustic",
       "url": "https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Eu Quero Voltar",
+        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
+      },
+      "artists": [
+        {
+          "name": "Lancellote",
+          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
+        }
+      ],
+      "duration_ms": 213762,
+      "name": "Eu Quero Voltar",
+      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Eu Quero Voltar",
-        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
-      },
-      "artists": [
-        {
-          "name": "Lancellote",
-          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
-        }
-      ],
-      "duration_ms": 213762,
-      "name": "Eu Quero Voltar",
-      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Vagner Dida",
-          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
-        }
-      ],
-      "duration_ms": 201247,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Estou Com Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 271154,
       "name": "Estou Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Vagner Dida",
+          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
+        }
+      ],
+      "duration_ms": 201247,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Simples Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 242829,
+      "name": "Simples Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 292788,
       "name": "Louvor IV",
       "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Simples Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 242829,
-      "name": "Simples Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Eu Te Amo, Senhor",
-        "url": "https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Moreno",
-          "url": "https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP"
-        }
-      ],
-      "duration_ms": 326136,
-      "name": "Eu Te Amo, Senhor",
-      "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Visita",
         "url": "https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 287647,
       "name": "Visita",
       "url": "https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Eu Te Amo, Senhor",
+        "url": "https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Moreno",
+          "url": "https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP"
+        }
+      ],
+      "duration_ms": 326136,
+      "name": "Eu Te Amo, Senhor",
+      "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+      },
+      "artists": [
+        {
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+        }
+      ],
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 205329,
       "name": "Agora, Aqui",
       "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
-      },
-      "artists": [
-        {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
-        }
-      ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2025-03-07 03:01:18",

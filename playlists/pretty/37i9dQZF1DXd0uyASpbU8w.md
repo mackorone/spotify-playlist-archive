@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Khalid, Lojay & Tyla,  UNLIMITEDSOUL and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,143 likes - 65 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,182 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 25 | [put it on \(eat\)...](https://open.spotify.com/track/772HhthzCt0z72jtdYz0JP) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [put it on \(eat\)...](https://open.spotify.com/album/1ZsPHDmAZuzbzOLgkNm0bM) | 2:11 |
 | 26 | [MBALI.](https://open.spotify.com/track/6bPQdN0lFhrhaWKbq8wuSw) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [MBALI.](https://open.spotify.com/album/0i73yHPIjgliw5cnBZfyi1) | 4:15 |
 | 27 | [Nearly There](https://open.spotify.com/track/67VwA5m6fOogeZ34lvGzyM) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Umzulu Phaqa](https://open.spotify.com/artist/3HRGnul96WGyVjYPoQZiyo) | [Nearly There](https://open.spotify.com/album/68u9TzijLRH7K2hPv28v1u) | 3:20 |
-| 28 | [Umjita](https://open.spotify.com/track/32lG4KLnCEG6lzpLcMRU1X) | [Piano City](https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc), [Royce77](https://open.spotify.com/artist/30pI5PqmjGX5Blqiw8fTEb), [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Umjita](https://open.spotify.com/album/1UFyOQHS1r5fI0A1ePfx47) | 7:04 |
+| 28 | [Umjita](https://open.spotify.com/track/32lG4KLnCEG6lzpLcMRU1X) | [Piano City](https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc), [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Royce77](https://open.spotify.com/artist/30pI5PqmjGX5Blqiw8fTEb), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Umjita](https://open.spotify.com/album/1UFyOQHS1r5fI0A1ePfx47) | 7:04 |
 | 29 | [Isibusiso \(feat\. Ntate Stunna\)](https://open.spotify.com/track/0q2VxWRJC7BoYmjIaKbKHP) | [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Nthabi Sings](https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL) | [Isibusiso \(feat\. Ntate Stunna\)](https://open.spotify.com/album/6i1L0M7bLhHiITO94lXWC1) | 4:53 |
 | 30 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
 | 31 | [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 |

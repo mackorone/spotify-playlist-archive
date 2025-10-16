@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Lycinaïs Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,317 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,362 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 16 | [Criminel](https://open.spotify.com/track/2Ed92MYjgZqeA66n2EWRDV) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI) | [Criminel](https://open.spotify.com/album/4rxC0UwtfdGWqnNuLMOwWX) | 2:34 |
 | 17 | [Si tu t'en vas](https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Si tu t'en vas](https://open.spotify.com/album/1sAElG5MK6ieLEHZbYqoET) | 3:21 |
 | 18 | [Loin de moi \- Studio](https://open.spotify.com/track/2ZNAILFfuZFe62K0T7ykmq) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw) | [Loin de moi \(Studio\)](https://open.spotify.com/album/4Cddzzv2N4beb8dQA1RkrZ) | 3:14 |
-| 19 | [J'avoue, j'avoue part\. 2](https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [J'avoue, j'avoue part\. 2](https://open.spotify.com/album/7y79dDxIeReWrhUOh02r2Z) | 2:51 |
+| 19 | [J'avoue, j'avoue part\. 2](https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [J'avoue, j'avoue part\. 2](https://open.spotify.com/album/7y79dDxIeReWrhUOh02r2Z) | 2:51 |
 | 20 | [Délice](https://open.spotify.com/track/7cHYUPz5z6BVDrcAhk5NL1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Délice](https://open.spotify.com/album/6ljFY4w4kQOepaA7KEr3N0) | 2:38 |
 | 21 | [DONNE\-MOI TOUT](https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [DONNE MOI TOUT](https://open.spotify.com/album/3lWXAEb4dAMNqPl2CFUw53) | 3:13 |
 | 22 | [Oublie\-nous \(feat\. Lucas Seb\)](https://open.spotify.com/track/3mp6ZRbK9cvL6RyIUVicnp) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl) | [POV : Exil](https://open.spotify.com/album/7vArvnSMCejBI686826Hom) | 3:00 |

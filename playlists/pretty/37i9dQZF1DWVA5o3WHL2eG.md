@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,839 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,842 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
 | 10 | [Open My Door](https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 2:33 |
 | 11 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
-| 12 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
-| 13 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
+| 12 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
+| 13 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
 | 14 | [Wo ist der Bus?](https://open.spotify.com/track/3K9w7OyVYqqdH3OCW1fitJ) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Wo ist der Bus?](https://open.spotify.com/album/32WbGkfl1nQ1BaOLEAzJlz) | 3:10 |
 | 15 | [Sommer](https://open.spotify.com/track/148ipTGpwMc6rqVLKv1Ni5) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Sommer](https://open.spotify.com/album/5eVuUpVYXKvRQHhD2wQlBn) | 2:43 |
 | 16 | [Superpower](https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Superpower](https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n) | 4:44 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 24 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
 | 25 | [Glow](https://open.spotify.com/track/7wR04K3JSaRJPO3D0f5fnx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 2:45 |
-| 26 | [Girls Like Girls](https://open.spotify.com/track/56ar3rohKTZkk6ALA9jDk3) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Girls Like Girls](https://open.spotify.com/album/6eoKHDGL3Ey9Svw5zhEX3Z) | 2:14 |
-| 27 | [wo & wann](https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [wo & wann](https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E) | 2:32 |
-| 28 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
-| 29 | [Hauptsache easy](https://open.spotify.com/track/0gUZPIUdHnpvSuQ3IyRtBZ) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Hauptsache easy](https://open.spotify.com/album/4mZBtGBI7O9pidY4Q2hmuU) | 2:52 |
+| 26 | [wo & wann](https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [wo & wann](https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E) | 2:32 |
+| 27 | [Girls Like Girls](https://open.spotify.com/track/56ar3rohKTZkk6ALA9jDk3) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Girls Like Girls](https://open.spotify.com/album/6eoKHDGL3Ey9Svw5zhEX3Z) | 2:14 |
+| 28 | [Hauptsache easy](https://open.spotify.com/track/0gUZPIUdHnpvSuQ3IyRtBZ) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Hauptsache easy](https://open.spotify.com/album/4mZBtGBI7O9pidY4Q2hmuU) | 2:52 |
+| 29 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
 | 30 | [beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [beine spüren](https://open.spotify.com/album/1u1SE1QyQgbP4A7KhTF1cF) | 2:52 |
 | 31 | [Du kannst nicht gut allein sein](https://open.spotify.com/track/2ZPIyzwaJ1fDdGdlqBq7Cy) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Du kannst nicht gut allein sein](https://open.spotify.com/album/0GdCyhce60HcUmnUugZV6W) | 3:03 |
 | 32 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |

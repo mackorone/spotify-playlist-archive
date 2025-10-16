@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,980 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,978 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Sos](https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Minissaia](https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6) | 3:31 |
 | 50 | [Beira Mar, Pt\. 2](https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Beira Mar, Pt\. 2](https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6) | 2:19 |
 
-Snapshot ID: `aOxBAAAAAAAPVsaqcEp07OEgv3yzFEUX`
+Snapshot ID: `aO2SgAAAAAAOEkwY3gjPB9La/YJpO19b`

@@ -1,6 +1,6 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 45871,
+  "num_followers": 45910,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
@@ -33,22 +33,6 @@
       "url": "https://open.spotify.com/track/0YP2zvKNM70QgRaHqUOtXG"
     },
     {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Gallina Pintadita, Vol. 2",
-        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Mariposita",
-      "url": "https://open.spotify.com/track/089Ck3bvQWvl15HUFvklv5"
-    },
-    {
       "added_at": "2022-07-11 22:47:32",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
@@ -63,6 +47,22 @@
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Gallina Pintadita, Vol. 2",
+        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Mariposita",
+      "url": "https://open.spotify.com/track/089Ck3bvQWvl15HUFvklv5"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -119,22 +119,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Gallina Pintadita, Vol. 1",
-        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 107674,
-      "name": "Pollito Amarillito",
-      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 129440,
       "name": "O Pato - El Pato",
       "url": "https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Gallina Pintadita, Vol. 1",
+        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 107674,
+      "name": "Pollito Amarillito",
+      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
     },
     {
       "added_at": "2020-04-23 19:03:50",

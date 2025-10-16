@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Poppy, Amy Lee and Courtney LaPlante
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,804 likes - 76 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,866 likes - 76 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

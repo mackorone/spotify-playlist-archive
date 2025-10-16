@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 111959,
+  "num_followers": 111951,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
         "name": "TIT FOR TAT",
         "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -151,18 +151,22 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -211,22 +215,18 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 163278,
       "name": "kyoto",
       "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "mario",
-        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
-      },
-      "artists": [
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "mario",
-      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
         "name": "Po blady \u015bwit",
         "url": "https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "mario",
+        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "mario",
+      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -831,58 +831,6 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "Nie B\u0119dziemy T\u0119skni\u0107",
-        "url": "https://open.spotify.com/album/7HkatmlcnRTZ3Or1hhXvIr"
-      },
-      "artists": [
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 146742,
-      "name": "Nie B\u0119dziemy T\u0119skni\u0107",
-      "url": "https://open.spotify.com/track/0KD4ViguSRKEZry2Qh5Of5"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
-        "name": "Los",
-        "url": "https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj"
-      },
-      "artists": [
-        {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Los",
-      "url": "https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
-        "name": "sticky rice",
-        "url": "https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF"
-      },
-      "artists": [
-        {
-          "name": "Fausti",
-          "url": "https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "sticky rice",
-      "url": "https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
         "name": "TOKSYNA",
         "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
       },
@@ -907,22 +855,54 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "Wi\u0119cej nas",
-        "url": "https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx"
+        "name": "Los",
+        "url": "https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj"
       },
       "artists": [
         {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        },
-        {
-          "name": "EMO",
-          "url": "https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM"
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
         }
       ],
-      "duration_ms": 181090,
-      "name": "Wi\u0119cej nas",
-      "url": "https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4"
+      "duration_ms": 164571,
+      "name": "Los",
+      "url": "https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "Nie B\u0119dziemy T\u0119skni\u0107",
+        "url": "https://open.spotify.com/album/7HkatmlcnRTZ3Or1hhXvIr"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "duration_ms": 146742,
+      "name": "Nie B\u0119dziemy T\u0119skni\u0107",
+      "url": "https://open.spotify.com/track/0KD4ViguSRKEZry2Qh5Of5"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "sticky rice",
+        "url": "https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF"
+      },
+      "artists": [
+        {
+          "name": "Fausti",
+          "url": "https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "sticky rice",
+      "url": "https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -939,6 +919,26 @@
       "duration_ms": 130342,
       "name": "prosz\u0119 pana",
       "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "Wi\u0119cej nas",
+        "url": "https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        },
+        {
+          "name": "EMO",
+          "url": "https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Wi\u0119cej nas",
+      "url": "https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO"
-      },
-      "artists": [
-        {
-          "name": "BLANKA",
-          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
-        }
-      ],
-      "duration_ms": 143600,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
         "name": "Shadowboxing",
         "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 172952,
       "name": "Shadowboxing",
       "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7"
     }
   ],
   "unique_name": "... ale najpierw kawa",

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: George Pickens
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry
 
 849 songs - 1 day 19 hr 31 min
 

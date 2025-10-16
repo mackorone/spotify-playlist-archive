@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Witch Fever
 
-644 songs - 1 day 14 hr 39 min
+646 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Afterlove](https://open.spotify.com/track/2guRN4CqL8RzsauI3nKOqY) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Afterlove](https://open.spotify.com/album/3hUGMqXXDHKYBEMySgoHGY) | 3:20 | 2024-11-22 | 2025-09-12 |
 | [Aimless](https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Aimless](https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt) | 3:37 | 2025-03-26 | 2025-09-12 |
 | [AIN'T MY GAME](https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [AIN'T MY GAME](https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py) | 3:01 | 2025-10-03 |  |
-| [Albatross](https://open.spotify.com/track/0UtLADPcthTHNsdkKXTJCL) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Albatross](https://open.spotify.com/album/6356xgpTuIF4p5oWdQ0jSR) | 4:29 | 2025-09-01 |  |
+| [Albatross](https://open.spotify.com/track/0UtLADPcthTHNsdkKXTJCL) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Albatross](https://open.spotify.com/album/6356xgpTuIF4p5oWdQ0jSR) | 4:29 | 2025-09-01 | 2025-10-16 |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2023-02-10 | 2023-03-25 |
 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 | 2022-11-10 | 2023-02-18 |
 | [All For Nothing](https://open.spotify.com/track/4jVxw1PPpXYVtmZp6UQwmE) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [All For Nothing](https://open.spotify.com/album/7AD4sMaffGvpkWrBOQOEoq) | 4:08 | 2025-02-07 | 2025-09-12 |
@@ -98,6 +98,7 @@
 | [Break](https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:23 | 2024-01-26 | 2024-04-12 |
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-04-19 | 2025-09-12 |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-04-04 | 2025-09-12 |
+| [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 | 2025-10-10 |  |
 | [Bury Me With My Screams](https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Bury Me With My Screams](https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1) | 5:16 | 2025-08-11 |  |
 | [By a Monster's Hand](https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster's Hand](https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7) | 3:42 | 2025-03-26 | 2025-09-12 |
 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 | 2023-07-26 |
@@ -390,6 +391,7 @@
 | [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 | 2023-07-25 | 2023-08-11 |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-02-07 | 2025-09-12 |
 | [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 | 2023-07-26 |
+| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-10 |  |
 | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP) | 3:12 | 2024-03-22 | 2025-09-12 |
 | [MURDERER](https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [MURDERER + NOSEBLEEDS](https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8) | 3:18 | 2024-09-20 | 2025-09-12 |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-11 |  |
@@ -467,7 +469,7 @@
 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 | 2025-10-06 |
 | [Sacrifice](https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Sacrifice](https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32) | 3:59 | 2025-10-03 |  |
 | [SAFE](https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [SAFE](https://open.spotify.com/album/0FyUHoVMe1FqC7kV79CIMC) | 4:46 | 2025-10-03 |  |
-| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-10-03 |  |
+| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-10-03 | 2025-10-16 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Sandman](https://open.spotify.com/track/5hWW4M4pRUANaf3QwhWoxX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Parasites & Butterflies](https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk) | 2:30 | 2025-09-01 | 2025-09-12 |
 | [Saviour II](https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Saviour II](https://open.spotify.com/album/6ehXKNVHjv2GYuhhy7ecwG) | 3:20 | 2022-11-10 | 2023-07-26 |

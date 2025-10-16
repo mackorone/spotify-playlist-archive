@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-177 songs - 10 hr 1 min
+178 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cuphead Rap](https://open.spotify.com/track/3GMuEUTFL1sNfLrY4q4qW5) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [O.P.](https://open.spotify.com/album/2FbTHUdaQgMPVKR0mfmvvN) | 3:51 | 2020-03-26 |  |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2023-06-27 |  |
 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 | 2019-11-12 |  |
+| [Danny Don't You Know](https://open.spotify.com/track/2UAkvf29DvpqYCqK0VFf84) | [Ninja Sex Party](https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx) | [Cool Patrol](https://open.spotify.com/album/05VZA6Th4AQvZwDL3XUHt5) | 4:34 | 2025-10-15 |  |
 | [Death of a Bachelor](https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:23 | 2021-02-15 |  |
 | [Disconnected](https://open.spotify.com/track/4HEFKRGM0Z3c24PtBkUYtc) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Monstercat 007 \- Solace](https://open.spotify.com/album/7dArkHuO5wkus2TJTu6Ytx) | 4:01 | 2018-12-23 |  |
 | [Discord](https://open.spotify.com/track/611nlMA40SKg9gQ4pTVXT3) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Eurobeat Brony](https://open.spotify.com/artist/2uDaDi5TsgEtUBCPRx7mlp) | [Discord](https://open.spotify.com/album/43zCo4E3RoYyj2tkeZWJCF) | 3:13 | 2020-06-06 |  |

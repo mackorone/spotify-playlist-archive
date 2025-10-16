@@ -2,7 +2,7 @@
 
 ### [SPY×FAMILY](https://open.spotify.com/playlist/37i9dQZF1DX8hWYpNQhxSa)
 
-> Enjoy music & episodes of "SPY×FAMILY"! ©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
+> Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
 224 songs - 15 hr 37 min
 

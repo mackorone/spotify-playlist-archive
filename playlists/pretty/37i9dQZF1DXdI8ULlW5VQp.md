@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Delilah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,048 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,042 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 22 | [Viendo Vemos](https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Viendo Vemos](https://open.spotify.com/album/5VffydBNDq78uI8GH22itk) | 3:18 |
 | 23 | [Duele](https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Duele](https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3) | 3:58 |
 | 24 | [Cien Años](https://open.spotify.com/track/5o0NpJ8lJqcdiIIpeZPP6u) | [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Las De Infante](https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH) | 2:37 |
-| 25 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
-| 26 | [todas las veces](https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [todas las veces](https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj) | 2:50 |
+| 25 | [todas las veces](https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [todas las veces](https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj) | 2:50 |
+| 26 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 | 27 | [El Palomo y La Negra](https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 7:00 |
 | 28 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
 | 29 | [No Te Vayas Sin Saber](https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [No Te Vayas Sin Saber](https://open.spotify.com/album/7EP6fqNBUnJcjNirm8UwOJ) | 3:44 |

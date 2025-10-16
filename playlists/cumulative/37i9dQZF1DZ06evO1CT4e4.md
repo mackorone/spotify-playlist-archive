@@ -4,7 +4,7 @@
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 57 min
+69 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Spiegel im Spiegel \(Version for Cello & Piano\) \- Version for Cello and Piano](https://open.spotify.com/track/7z88hLSesdUzt84MsPuAil) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH), [Dietmar Schwalke](https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 9:12 | 2025-09-02 |  |
 | [Spiegel im Spiegel \(Version for Viola and Piano\)](https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Pärt: Spiegel im Spiegel \(Version for Viola and Piano\)](https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ) | 12:30 | 2025-09-02 | 2025-09-18 |
 | [Spiegel im Spiegel \(Version for Violin & Piano\) \- Version for Violin and Piano](https://open.spotify.com/track/4wudbbceOZKjRlhTtbHvAs) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Vladimir Spivakov](https://open.spotify.com/artist/24o3OUQvNiz3IY9DQhFhnF), [Sergej Bezrodny](https://open.spotify.com/artist/5SB7fgTMdoI0NbO5uEfp9D) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:36 | 2025-09-02 |  |
+| [Spiegel im Spiegel \- Arr\. for Violin and Piano](https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Nadia Vasileva](https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs) | [Spiegel im Spiegel \(Arr\. for Violin and Piano\)](https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns) | 8:29 | 2025-10-16 |  |
 | [Statuit ei Dominus](https://open.spotify.com/track/1BTqRDE6M147oHRpiHMMtj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Sinfonietta Riga](https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT), [Latvian Radio Choir](https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP), [Vox Clamantis](https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p) | [Arvo Pärt: Adam's Lament](https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v) | 4:56 | 2025-09-02 | 2025-09-10 |
 | [Summa](https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Serenity \- The Beauty Of Arvo Pärt](https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY) | 5:00 | 2025-09-02 | 2025-10-03 |
 | [Summa](https://open.spotify.com/track/7reJHppPrP035JLZ4gzyHu) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS) | [Arvo Pärt: Arbos](https://open.spotify.com/album/3cPt4kIfEuUj5JcLVqVoNj) | 5:11 | 2025-09-02 | 2025-09-10 |

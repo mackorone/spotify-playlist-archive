@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Young Hash in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,716 likes - 67 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,712 likes - 67 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 26 | [COMPAGNI DI MERENDE](https://open.spotify.com/track/1PzGQSuVJsTNBtDUGO9PrL) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR) | [COMPAGNI DI MERENDE](https://open.spotify.com/album/7FvwudzAUUCKbu45tiNj8Y) | 2:33 |
 | 27 | [Gulag](https://open.spotify.com/track/2wVTIZRWe3iqUwBC1kE3wP) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Gulag](https://open.spotify.com/album/6N14QOK0qpJUlJ0uzBRNKe) | 2:40 |
 | 28 | [7 NANI](https://open.spotify.com/track/3GZfkiTpQ7I8KSDqiGeHa7) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [7 NANI](https://open.spotify.com/album/4dpWBmnAbdcl5WM4xBeJ6k) | 1:47 |
-| 29 | [Hooligans](https://open.spotify.com/track/7HDrHs5tmhvVQsMEqb0FPx) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [NACHELO](https://open.spotify.com/artist/46EBXauU1flzrR1huA7HId), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [COSA LASCIA LA CENERE](https://open.spotify.com/album/2G1swAhZX0UVbzcxLSKizr) | 2:27 |
+| 29 | [Hooligans](https://open.spotify.com/track/7HDrHs5tmhvVQsMEqb0FPx) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [NACHELO](https://open.spotify.com/artist/46EBXauU1flzrR1huA7HId), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [COSA LASCIA LA CENERE, Vol\. 3](https://open.spotify.com/album/2G1swAhZX0UVbzcxLSKizr) | 2:27 |
 | 30 | [KASPAR HAUSER](https://open.spotify.com/track/05T8Zm1AgIt1Tx3SllCpgJ) | [Leeunam](https://open.spotify.com/artist/1r0RmkNDCDD63QnTQGEFfy) | [KASPAR HAUSER](https://open.spotify.com/album/2tTSPN4njn1OovwJb3zK6J) | 2:20 |
 | 31 | [PANCiA!!!](https://open.spotify.com/track/2RNkbdsqhQYkTtHtnB0j3T) | [ORBITa](https://open.spotify.com/artist/59OY0ogpHkeuHUVwBTwedi) | [PANCiA!!!](https://open.spotify.com/album/4LnNhtLLmWBM93wUognJYf) | 2:54 |
 | 32 | [STORYLINE](https://open.spotify.com/track/4LhwLOtXvvHi5o4bM9yx4L) | [Luca560](https://open.spotify.com/artist/6aicb1Rj7QvG7UpmeBJDfC), [enzo560](https://open.spotify.com/artist/7xKyu7edP8gQmLDY4xCkBe), [MarioQuelloVero](https://open.spotify.com/artist/067UpgZXQiLgrQFVKM2NcP) | [STORYLINE](https://open.spotify.com/album/4aGxff3hFcAJUxe5ygnYac) | 3:13 |

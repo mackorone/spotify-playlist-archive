@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-281 songs - 12 hr 42 min
+282 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 | 2025-01-20 |
 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 | 2025-07-17 |  |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
-| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
+| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 | 2025-10-16 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2025-08-17 |
 | [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 | 2025-10-10 |  |
 | [Chat GPT](https://open.spotify.com/track/3lbzJMBosiFEjpyyRBAWrk) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Chat GPT](https://open.spotify.com/album/7wzvLGAY31cAsIowxkhqkp) | 2:41 | 2025-08-14 |  |
@@ -252,6 +252,7 @@
 | [Ungebrochen](https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ungebrochen](https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa) | 3:51 | 2025-03-24 | 2025-07-31 |
 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 | 2024-10-10 | 2025-09-24 |
 | [Unzertrennlich](https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Unzertrennlich](https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ) | 2:58 | 2024-11-18 | 2025-03-24 |
+| [VERLOREN](https://open.spotify.com/track/1u6W22YcQHmGQTY7PwIyMA) | [lilmido](https://open.spotify.com/artist/3SfYZvCYQabP2AXGZ6ocU5), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [VERLOREN](https://open.spotify.com/album/1E0GuBw3isPK2hQVRpw77v) | 3:01 | 2025-10-10 |  |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
 | [Verräter](https://open.spotify.com/track/6IrdU8HfMZ63C7nE2hWZuM) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:33 | 2025-10-09 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-06-28 | 2025-10-03 |

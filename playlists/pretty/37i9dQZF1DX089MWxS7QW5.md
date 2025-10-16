@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,735 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,767 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [Hysteric Glamour](https://open.spotify.com/track/6N6qFybzXW3ntTLo4vlaG9) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Hysteric Glamour](https://open.spotify.com/album/6noSYDigj8HJ3e3bfvkunE) | 2:54 |
 | 51 | [Windy](https://open.spotify.com/track/5UzaQDCpji2QduDow3HINS) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Windy](https://open.spotify.com/album/4Kz6jdO3mHtVTIIe7jxgDE) | 2:43 |
 
-Snapshot ID: `AAAAAJ3bp3PKYYTR0AC03ErYOD/+yuoe`
+Snapshot ID: `AAAAADv67MbbMhW5skPaPQ5kVR9IVtOK`

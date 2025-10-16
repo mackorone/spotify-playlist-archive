@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 十明
 
-934 songs - 2 day 10 hr 43 min
+936 songs - 2 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [happy ever after](https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ever after](https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9) | 3:46 | 2024-08-20 | 2024-11-21 |
 | [Hard work](https://open.spotify.com/track/21LClr5fRDBJSEnArdK18P) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Ai no Ubugoe, Ai no Nakigoe](https://open.spotify.com/album/5xfP0RaptOkznxJ2gcpyKz) | 3:03 | 2024-09-24 | 2025-01-15 |
 | [HATE ME](https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [HATE ME](https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu) | 2:05 | 2024-10-08 | 2025-04-23 |
-| [Hatsukoi \(Love Song\)](https://open.spotify.com/track/2HGDojVS9SrWBlnMSmSAfu) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [](https://open.spotify.com/album/null) | 4:13 | 2025-10-14 |  |
+| [Hatsukoi \(Love Song\)](https://open.spotify.com/track/2HGDojVS9SrWBlnMSmSAfu) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [Love Songs](https://open.spotify.com/album/5vEutk4QWhncVtDa2xLe0L) | 4:13 | 2025-10-14 |  |
 | [Haze](https://open.spotify.com/track/0Mi7V9W3m3QnUcj9YRf4CK) | [飯田瑞規](https://open.spotify.com/artist/4iF6LI1a3C9QZHjtWJvoSZ) | [Ubik](https://open.spotify.com/album/0SWE1GlGmNxCejmEQf7vas) | 3:53 | 2025-04-08 | 2025-04-16 |
 | [HEA7EN](https://open.spotify.com/track/0SwcRsJukuBm5OECKV6oP5) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [HEA7EN](https://open.spotify.com/album/0kkJC2Il3eHQOBe1IVRQsO) | 2:26 | 2025-09-09 |  |
 | [Heartbreaker \(I fell in love with a cowgirl\)](https://open.spotify.com/track/5ARjKm7zjYDYZ4HxAKsLTN) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Heartbreaker \(I fell in love with a cowgirl\)](https://open.spotify.com/album/4zKDfEdxPcnEMldM6R4B0n) | 3:01 | 2025-04-22 | 2025-07-09 |
@@ -221,7 +221,7 @@
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2024-07-02 | 2024-11-20 |
 | [Lady](https://open.spotify.com/track/1wi50gwaeaIfA9UuC3N6b1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [Gradation](https://open.spotify.com/album/2FsPwRN3eVBic4gVtixjnx) | 2:47 | 2025-03-25 | 2025-08-02 |
 | [Lan la](https://open.spotify.com/track/25DwQL8Lb235GHwpWPRkwt) | [Kaori Kusuhashi](https://open.spotify.com/artist/40NGX8Hj6US8dXfBsaJKIP) | [Lan la](https://open.spotify.com/album/1mCzEVPVN8nu88kYbPIp7I) | 3:20 | 2025-06-11 | 2025-06-18 |
-| [Land](https://open.spotify.com/track/4NIruJVVykCcTKIa7y9kkW) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [](https://open.spotify.com/album/null) | 3:53 | 2025-10-14 |  |
+| [Land](https://open.spotify.com/track/4NIruJVVykCcTKIa7y9kkW) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:53 | 2025-10-14 |  |
 | [LAST LOVE LETTER](https://open.spotify.com/track/14HAoLdDKYn6WfI9VZB4Sm) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [LAST LOVE LETTER](https://open.spotify.com/album/5jMeVRXPkfx6JPXs92tPdB) | 4:34 | 2024-07-16 | 2024-08-07 |
 | [Last Summer Bye\-bye](https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Last Summer Bye\-bye](https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm) | 5:22 | 2025-09-30 | 2025-10-09 |
 | [leeway](https://open.spotify.com/track/4KOaVXtQ905oQbzPvflnum) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [leeway](https://open.spotify.com/album/37YjSR5m2VC05W5JET65un) | 3:52 | 2025-04-01 | 2025-04-09 |
@@ -304,7 +304,7 @@
 | [Peaches](https://open.spotify.com/track/7sH58ftqX5GPmraf2vRUVt) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Stillness of a New Dawn](https://open.spotify.com/album/6eL24SSZkAPbOhn727RZDW) | 1:55 | 2025-05-07 | 2025-05-28 |
 | [Pearl](https://open.spotify.com/track/7ftpHJHd9AUycFXaXL89hM) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Pearl](https://open.spotify.com/album/6Fu58AfDv5ohCkJXvRT6F9) | 3:32 | 2025-01-21 | 2025-02-19 |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-03 | 2024-09-18 |
-| [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 |  |
+| [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 | 2025-10-16 |
 | [Pineapple Rock](https://open.spotify.com/track/3Fks5VtxTq7j0GF2RpzzGL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Pineapple Rock](https://open.spotify.com/album/5RnnbDNs52JZ5kRmNw3yOI) | 2:39 | 2025-06-17 | 2025-06-25 |
 | [PINK PUNCH](https://open.spotify.com/track/1hRT4tRsLgOkejN2KGqukf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [PINK PUNCH](https://open.spotify.com/album/6vgybAHVnds7q6FgoDkeFq) | 2:07 | 2025-04-15 | 2025-05-22 |
 | [Pioneer \- 2024 mined ver.](https://open.spotify.com/track/6Jt0NgRCBuFvCUBSgqmXh2) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Pioneer \(2024 mined ver.\)](https://open.spotify.com/album/5SspPJZnGKmHBF3FG2gQeh) | 3:52 | 2024-09-03 | 2024-09-11 |
@@ -772,6 +772,7 @@
 | [幻界](https://open.spotify.com/track/3UELWrwO3UU5nIJxGKGpIB) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [幻界](https://open.spotify.com/album/4MpvzmWjhtncO9oZsYgy52) | 4:09 | 2025-09-09 |  |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-08-06 | 2024-12-25 |
 | [後悔史](https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [後悔史](https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW) | 4:20 | 2025-05-21 | 2025-09-01 |
+| [徒然 \- Tsurezure](https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [徒然 \- Tsurezure](https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy) | 2:36 | 2025-10-14 |  |
 | [徘徊](https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [徘徊](https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH) | 3:11 | 2025-04-15 | 2025-10-15 |
 | [快晴浪漫](https://open.spotify.com/track/19nqy9tmxZ7GvqesKym1PR) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [快晴浪漫](https://open.spotify.com/album/2ROR9v4EDlZOLiZKRPA5py) | 4:39 | 2024-07-09 | 2024-07-17 |
 | [怪物](https://open.spotify.com/track/048PMBca62rmCNnGt4eEp0) | [Shigeru Izumiya](https://open.spotify.com/artist/2cEudNpRawXl3CAGMNYsLS) | [怪物](https://open.spotify.com/album/3fITb3Ay7HqTO4ilSCJ3yP) | 8:36 | 2025-02-11 | 2025-02-19 |
@@ -810,6 +811,7 @@
 | [月並](https://open.spotify.com/track/1gKVnefvQ6beLh3TGvolAT) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [月並](https://open.spotify.com/album/6ftGMbUNSNwaWYYpPQngXW) | 3:34 | 2025-07-15 | 2025-09-03 |
 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-07 |  |
 | [朗朗](https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [朗朗](https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um) | 3:33 | 2025-01-07 | 2025-05-29 |
+| [未刊の行進](https://open.spotify.com/track/597kPszXm2YkB9GZx131GG) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [未刊の行進](https://open.spotify.com/album/5cKxnU6oQhbyyiKTwlxjFO) | 4:55 | 2025-10-14 |  |
 | [条司](https://open.spotify.com/track/1GPJ7qT0APz9GqZyotCMhu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [条司](https://open.spotify.com/album/4FtXFRN2SUz02ERbkdf25d) | 3:48 | 2025-06-10 | 2025-07-09 |
 | [条司](https://open.spotify.com/track/46Z3vyJVJaPzHZpZ60frGi) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [あえか](https://open.spotify.com/album/1m4YB8DCw5w1XgjqUOhmSn) | 3:48 | 2025-07-08 | 2025-07-23 |
 | [東京の光](https://open.spotify.com/track/6FPaknXxq2eYgqSFLxuTni) | [Sundayカミデ](https://open.spotify.com/artist/68gwW3maybvvPRmjHufvgy) | [東京の光](https://open.spotify.com/album/1SLpSmzSSza5P6hGTxk6GI) | 4:57 | 2025-09-23 | 2025-10-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1484597,
+  "num_followers": 1484971,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "It Will Be OK",
+        "url": "https://open.spotify.com/album/0DaQqq24cESLXFjyt4kMfv"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "It Will Be OK",
+      "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
         "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 182709,
       "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
       "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "It Will Be OK",
-        "url": "https://open.spotify.com/album/0DaQqq24cESLXFjyt4kMfv"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "It Will Be OK",
-      "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "FTS (Sub Zero Project Rework)",
-        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 203862,
-      "name": "FTS - Sub Zero Project Rework",
-      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "FTS (Sub Zero Project Rework)",
+        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 203862,
+      "name": "FTS - Sub Zero Project Rework",
+      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1BiyT5wfHDKjgY4FNyllvS"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Waste Your Youth",
         "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 164000,
       "name": "Waste Your Youth",
       "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1BiyT5wfHDKjgY4FNyllvS"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 202513,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
         "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 154639,
       "name": "Kiss Kiss Bang",
       "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 202513,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6dMqEElnU2Wvs51782cVoA"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 211317,
       "name": "Voices",
       "url": "https://open.spotify.com/track/0HJ2kATf1sI79sLu4FNxd2"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Never Give Up (Intents Festival 2025 Closing Theme)",
         "url": "https://open.spotify.com/album/1uB8205LoMdzfbXY6jMXwy"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 243551,
       "name": "Never Give Up - Intents Festival 2025 Closing Theme",
       "url": "https://open.spotify.com/track/754pkAbzV15HMzH1GCr1DX"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0ZXPIUZ103IBjPI2qHGI9T"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 182468,
       "name": "Together",
       "url": "https://open.spotify.com/track/1LVaVxu8lFUvMYVBlPMsUu"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2823,6 +2823,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "duration_ms": 188774,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "HELP_LESS",
         "url": "https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7"
       },
@@ -2835,22 +2851,6 @@
       "duration_ms": 187875,
       "name": "HELP_LESS",
       "url": "https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "G.L.Y.",
-        "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "G.L.Y.",
-      "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2871,42 +2871,34 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Sandstorm",
-        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+        "name": "G.L.Y.",
+        "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
       },
       "artists": [
         {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
         }
       ],
-      "duration_ms": 188774,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+      "duration_ms": 213995,
+      "name": "G.L.Y.",
+      "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
     },
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
+        "name": "The Alarm",
+        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "BassWar & CaoX",
-          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
-        },
-        {
-          "name": "HARRY",
-          "url": "https://open.spotify.com/artist/3KlBgpZwfiteVPV1KHzcfw"
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
+      "duration_ms": 193500,
+      "name": "The Alarm",
+      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2931,18 +2923,26 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "The Alarm",
-        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
       },
       "artists": [
         {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        },
+        {
+          "name": "HARRY",
+          "url": "https://open.spotify.com/artist/3KlBgpZwfiteVPV1KHzcfw"
         }
       ],
-      "duration_ms": 193500,
-      "name": "The Alarm",
-      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
+      "duration_ms": 193000,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
     },
     {
       "added_at": "2025-10-06 22:00:28",

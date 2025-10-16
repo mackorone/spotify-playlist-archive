@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,521 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,542 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 |
+| 1 | [Modalali](https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Modalali](https://open.spotify.com/album/2mBvlgySmYubAVGWv0UcAx) | 3:16 |
 | 2 | [Ahla Sodfa](https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ahla Sodfa](https://open.spotify.com/album/5Whxsm6Gg1VMp0pJxmmbwQ) | 3:38 |
-| 3 | [Jabal Chamekh](https://open.spotify.com/track/699UW50gxSh976xtnckNmg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Jabal Chamekh](https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR) | 3:45 |
-| 4 | [Modalali](https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Modalali](https://open.spotify.com/album/2mBvlgySmYubAVGWv0UcAx) | 3:16 |
+| 3 | [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 |
+| 4 | [Jabal Chamekh](https://open.spotify.com/track/699UW50gxSh976xtnckNmg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Jabal Chamekh](https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR) | 3:45 |
 | 5 | [Hafida Al Tarikh](https://open.spotify.com/track/3sEvdzY8BPSDXmuhI7UHHf) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hafida Al Tarikh](https://open.spotify.com/album/3iVRECZJzjZ0W27spRlbRX) | 6:16 |
 | 6 | [Wsh Rayek](https://open.spotify.com/track/125BdPTq6okVCzPf3lU1iM) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Wsh Rayek](https://open.spotify.com/album/1AjD2aGHzHW3jcIDQaRZpT) | 4:52 |
 | 7 | [مثل البحر](https://open.spotify.com/track/0g3lVcXih3qn1ByJvpnxI2) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [الرقم الصعب 2025](https://open.spotify.com/album/03IcTc5E05u5XFcV7OPIO4) | 3:49 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 29 | [ألمح لك](https://open.spotify.com/track/3NKkS7QOGTOSLD6B5aMi9r) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [ألمح لك](https://open.spotify.com/album/0QQUrE9rkF9TWSsK4zapDZ) | 2:52 |
 | 30 | [أول حب](https://open.spotify.com/track/534RVKGLxnWrjIYSKZKtOA) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU) | [بشار الشطي ٢٠٢٥](https://open.spotify.com/album/2r0N6tR20cIbndXE6TjTxo) | 3:45 |
 
-Snapshot ID: `AAAAACjsgwF8meIodjptJZUIUvR1XR0p`
+Snapshot ID: `AAAAANMQzaWx1VKWIosT3M+qqcIUh284`

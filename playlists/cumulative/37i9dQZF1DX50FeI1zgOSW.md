@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-635 songs - 1 day 12 hr 20 min
+636 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [BABY](https://open.spotify.com/track/7L61JVdJQ5ExbmQ1WSnoPY) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [BABY](https://open.spotify.com/album/7mbfRQQQOPFYdHnPdPcYNM) | 4:01 | 2023-11-28 | 2024-05-21 |
 | [BACHELOR PARTY](https://open.spotify.com/track/34wSQJTGR7iEU96azpgEz1) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [BACHELOR PARTY](https://open.spotify.com/album/26mvPxCtFLqnchjkrvWOUj) | 2:22 | 2024-09-30 | 2025-02-08 |
 | [Barbie Dolly](https://open.spotify.com/track/4eaWzbLKHb3pAKvZQ8Z3Ek) | [Girish Karthik](https://open.spotify.com/artist/4ZkbHRnpFZkiLrHPJcTb9Z) | [Barbie Dolly](https://open.spotify.com/album/5GiFCoI7VSFCBC17PIoooW) | 4:16 | 2025-05-16 | 2025-09-19 |
+| [Beggin](https://open.spotify.com/track/1qGrOTJLK9C9ERCvf5gP49) | [Krishpy](https://open.spotify.com/artist/1jKmjC44MUhtHG00dSp90N), [Mask Kai](https://open.spotify.com/artist/2D4WdqpkciZUSQmMKwJaEo), [Mc Valluvar](https://open.spotify.com/artist/6joWFVw85R71C2SDjwGiVh), [Smile Tupakeys](https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA) | [Beggin](https://open.spotify.com/album/6w9LzFdrPkLtxBswNmRQQP) | 2:31 | 2025-10-15 |  |
 | [Bigger Dreams](https://open.spotify.com/track/4J8pie9lRMn0FNbdmzBcsq) | [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4), [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5), [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Bigger Dreams](https://open.spotify.com/album/4hXSfo4J0e7Ryc4pcVISjX) | 4:45 | 2023-04-13 | 2023-08-17 |
 | [Birthday Party](https://open.spotify.com/track/0S6BjfTkUUKpaFe5CubPmm) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O), [Jeffrey Jonathan](https://open.spotify.com/artist/0ANx0DWf2r3zVIxfJoyu6Q) | [Birthday Party](https://open.spotify.com/album/6Q929pOAQFeycX8FEADNHE) | 2:48 | 2025-02-03 | 2025-05-07 |
 | [Black & White kadhali \- From Saina Music Indie](https://open.spotify.com/track/0lRolEcSPlig9oWIspGfz7) | [Kael Blue](https://open.spotify.com/artist/5KPTemOA2QDf8oNIMTZr1W) | [Black & White kadhali \(From Saina Music Indie\)](https://open.spotify.com/album/6st3MMWQdWDf6QEd0osJ7X) | 2:57 | 2025-05-23 | 2025-10-04 |

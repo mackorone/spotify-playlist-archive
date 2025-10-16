@@ -1,12 +1,12 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 872,
+  "num_followers": 873,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAAC24+DzSBh4i4QtDe8vA1Yd",
+  "snapshot_id": "aO2SgAAAAACcOVrtupEddjMhy+Wscf/H",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 200881,
-      "name": "Lost Little Boys",
-      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
+      "duration_ms": 189792,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 189792,
-      "name": "Open Book",
-      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
+      "duration_ms": 200881,
+      "name": "Lost Little Boys",
+      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+      "duration_ms": 297828,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 297828,
-      "name": "James",
-      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -340,9 +324,25 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0vAIEEH2tkYgmotVvEb84d"
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "An Island",
+      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 194919,
-      "name": "An Island",
-      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
+      "duration_ms": 170360,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0vAIEEH2tkYgmotVvEb84d"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Born",
-        "url": "https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "First Born",
-      "url": "https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 188447,
       "name": "Lights",
       "url": "https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Born",
+        "url": "https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "First Born",
+      "url": "https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m"
     }
   ],
   "unique_name": "This Is Fatherson",

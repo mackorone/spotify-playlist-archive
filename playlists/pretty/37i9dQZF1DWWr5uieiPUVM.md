@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > loko esse tracksuit hein chefe?!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,512 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,668 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 16 | [Cê Deve Tá Linda](https://open.spotify.com/track/3PZP7Y2w3cy5DC7lyRomZ3) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 2:25 |
 | 17 | [Lei Anti O.R.U.A.M](https://open.spotify.com/track/3iDZj9V0RSElRwVgtmMYgJ) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 2:38 |
 | 18 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
-| 19 | [22 Meu Vulgo](https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Gigant](https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O), [nobuddy](https://open.spotify.com/artist/5mqAb7k2TMZxOP5GjH0rcl), [Goldgrain](https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 3:39 |
+| 19 | [22 Meu Vulgo](https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [nobuddy](https://open.spotify.com/artist/5mqAb7k2TMZxOP5GjH0rcl), [Gigant](https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O), [Goldgrain](https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 3:39 |
 | 20 | [Mente Além](https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 3:22 |
 | 21 | [Deus Abençoe o Trap](https://open.spotify.com/track/1UoDg4cTqp6zJbwHCfJj5Q) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 2:11 |
 | 22 | [Freestyle Depois da Cadeia](https://open.spotify.com/track/1VbJ9rEBlTfqpVQA7tGLqo) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI) | [Freestyle Depois da Cadeia](https://open.spotify.com/album/5NIDeTN0nU6jjAG6TEaW8E) | 2:26 |

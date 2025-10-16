@@ -1225,6 +1225,36 @@
     },
     {
       "album": {
+        "name": "Beggin",
+        "url": "https://open.spotify.com/album/6w9LzFdrPkLtxBswNmRQQP"
+      },
+      "artists": [
+        {
+          "name": "Krishpy",
+          "url": "https://open.spotify.com/artist/1jKmjC44MUhtHG00dSp90N"
+        },
+        {
+          "name": "Mask Kai",
+          "url": "https://open.spotify.com/artist/2D4WdqpkciZUSQmMKwJaEo"
+        },
+        {
+          "name": "Mc Valluvar",
+          "url": "https://open.spotify.com/artist/6joWFVw85R71C2SDjwGiVh"
+        },
+        {
+          "name": "Smile Tupakeys",
+          "url": "https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Beggin",
+      "url": "https://open.spotify.com/track/1qGrOTJLK9C9ERCvf5gP49"
+    },
+    {
+      "album": {
         "name": "Bigger Dreams",
         "url": "https://open.spotify.com/album/4hXSfo4J0e7Ryc4pcVISjX"
       },

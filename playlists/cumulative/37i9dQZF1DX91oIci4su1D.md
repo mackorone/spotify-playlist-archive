@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Ilan Bluestone
 
-1,202 songs - 3 day 0 hr 6 min
+1,203 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1108,6 +1108,7 @@
 | [True Colors](https://open.spotify.com/track/6NheG5mzQSKKu5gMGgSUy5) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [True Colors](https://open.spotify.com/album/4wuQtzxlOdDDLph2YGiADu) | 3:29 | 2023-07-07 | 2024-10-26 |
 | [Trust You](https://open.spotify.com/track/69put4h88TnxaArojbc15b) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Leon Bolier](https://open.spotify.com/artist/4iqg3LlZiqAElJOXJtC11H), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Trust You](https://open.spotify.com/album/02Cc7jp5gajM4TIXaFlUAL) | 3:14 | 2021-12-17 | 2022-01-08 |
 | [Trustfall](https://open.spotify.com/track/1CkUMMdKrZsmuJdzkHKFwo) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Trustfall](https://open.spotify.com/album/7aaYQwMrTyNyrMgqvRpLZY) | 3:33 | 2025-03-14 |  |
+| [Turn Back](https://open.spotify.com/track/6XAlf4sB4AWqwsKCTCQ9Ei) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Turn Back](https://open.spotify.com/album/5US7NXUSEZcFrWpumiMQ5i) | 3:15 | 2025-10-10 |  |
 | [Turn! Turn! Turn!](https://open.spotify.com/track/2V3NVm4RWFjb6gXrfTFjkb) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Sir Ivan](https://open.spotify.com/artist/65Es5dYCk8l5Vvaf4dbjvs) | [Turn! Turn! Turn!](https://open.spotify.com/album/7AixLfvtBeIjJZmXxNzDHa) | 3:40 | 2024-05-17 | 2024-07-13 |
 | [U](https://open.spotify.com/track/4Bfpl39pwLWVFXdiv16sPX) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [U](https://open.spotify.com/album/4tEYpiGHCylPgdCdQG2LFu) | 3:34 | 2024-03-15 | 2025-05-17 |
 | [U Found Me](https://open.spotify.com/track/1nL5Bmv3eXkrBsKrwheMrC) | [Ghost Etiquette](https://open.spotify.com/artist/20Vo3MKByZZE4wENawnYmn), [Aza Nabuko](https://open.spotify.com/artist/67MPBxYFE4duKEZr0XmJD0) | [U Found Me](https://open.spotify.com/album/4dbfJXSX2V1cq5wIYOHCwL) | 3:30 | 2023-08-11 | 2024-06-01 |
@@ -1182,7 +1183,7 @@
 | [With You](https://open.spotify.com/track/1I7ECKIaUlA1mBSBOc8cL0) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [With You](https://open.spotify.com/album/0rkfo8dXfdQdvEh0QUPbwz) | 3:52 | 2024-07-12 | 2024-11-16 |
 | [With You](https://open.spotify.com/track/1YuDhmEbY8RVZWUn3k5e0E) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [With You](https://open.spotify.com/album/46fC6GD90ajR0ntjS8tSLV) | 4:17 | 2021-12-17 | 2022-11-12 |
 | [Without You](https://open.spotify.com/track/4ynRYz5CzTeSqsOPZOKWEQ) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [Adriana Stone](https://open.spotify.com/artist/5s8VWRoP7qFE4SVRaIdStT), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Without You](https://open.spotify.com/album/0HyySC938YX2eHQTlnywYc) | 3:41 | 2025-03-21 |  |
-| [Wizards Of The Sonic \- Mark Sherry Remix](https://open.spotify.com/track/70isT141aM3FMx7ecvKpmA) | [Westbam](https://open.spotify.com/artist/1zcj0EOWK3jRZKeh20dnMR), [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH) | [Wizards Of The Sonic \(Mark Sherry Remix\)](https://open.spotify.com/album/2yHLKPRcDqgFKORTyBGfo5) | 4:06 | 2024-12-13 |  |
+| [Wizards Of The Sonic \- Mark Sherry Remix](https://open.spotify.com/track/70isT141aM3FMx7ecvKpmA) | [Westbam](https://open.spotify.com/artist/1zcj0EOWK3jRZKeh20dnMR), [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH) | [Wizards Of The Sonic \(Mark Sherry Remix\)](https://open.spotify.com/album/2yHLKPRcDqgFKORTyBGfo5) | 4:06 | 2024-12-13 | 2025-10-16 |
 | [Wolf Cry](https://open.spotify.com/track/6RjjHpYw3aOsgGQhRlpHsK) | [ThoBa](https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Wolf Cry](https://open.spotify.com/album/1uQ2F7K5XDugJXdXdbrDpx) | 3:37 | 2022-02-18 | 2022-06-21 |
 | [wolves](https://open.spotify.com/track/5HP59IcZWbnL5JKbnbjkKI) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [wolves](https://open.spotify.com/album/1JxbJE9Uo0aaTj2Erv3b9S) | 3:22 | 2022-02-18 | 2022-11-20 |
 | [Wolves](https://open.spotify.com/track/4c5dqZobPfeXGrp9aTwoRJ) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV) | [Wolves](https://open.spotify.com/album/0WwzAHt40B15xecxFwqJO7) | 3:46 | 2024-02-16 | 2024-07-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New era songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,555 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,563 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 49 | [Wishing For A Hero \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/track/192RjH0gN6en7nE6ElN96T) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 3:04 |
 | 50 | [Don't Touch My Hair \(feat\. Sampha\)](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:17 |
 
-Snapshot ID: `AAAAAJtJkcCUQAAO7Cr+nIGc85r+9o3M`
+Snapshot ID: `AAAAAAWtGBc7Yp8X11XgfLuxKN0+B7Oa`

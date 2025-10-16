@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie twang fall bby 🍂 Frog on the cover
+> indie twang fall bby 🍂 Whitney on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,883 likes - 154 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,906 likes - 154 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 |
-| 2 | [COME COME COME VAR\. XIV](https://open.spotify.com/track/5C6GbWeiB4UolxeXPXG4Bl) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 3:10 |
+| 2 | [Dandelions](https://open.spotify.com/track/5mHsotYwPLGpCcy6EWHzD9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:16 |
 | 3 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:28 |
-| 4 | [Sideways](https://open.spotify.com/track/4mUgLu7PjDvTsKbUF8iTB4) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Sideways](https://open.spotify.com/album/1X6cnNJYkAJoOVEuQ557TF) | 2:59 |
-| 5 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
-| 6 | [Zodiac](https://open.spotify.com/track/3j0f2HBhLlnEfMjGWkwOJ1) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 2:20 |
-| 7 | [I Wasn’t There](https://open.spotify.com/track/0GT98Z4TvJJlrPwhxnaIzA) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:07 |
-| 8 | [Pretty Eyes Lorraine](https://open.spotify.com/track/0sLPXoUB1Q1gQcs1OOYy49) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Sounds Like...](https://open.spotify.com/album/54WXEOsnZYULedb3Gz7fnr) | 3:54 |
-| 9 | [Beekeeping](https://open.spotify.com/track/1snJ7O1FeSgvECP095NXZb) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:23 |
-| 10 | [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 6:00 |
-| 11 | [Oranges](https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 2:52 |
-| 12 | [Dandelions](https://open.spotify.com/track/5mHsotYwPLGpCcy6EWHzD9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:16 |
+| 4 | [COME COME COME VAR\. XIV](https://open.spotify.com/track/5C6GbWeiB4UolxeXPXG4Bl) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 3:10 |
+| 5 | [Sideways](https://open.spotify.com/track/4mUgLu7PjDvTsKbUF8iTB4) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Sideways](https://open.spotify.com/album/1X6cnNJYkAJoOVEuQ557TF) | 2:59 |
+| 6 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
+| 7 | [Zodiac](https://open.spotify.com/track/3j0f2HBhLlnEfMjGWkwOJ1) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 2:20 |
+| 8 | [I Wasn’t There](https://open.spotify.com/track/0GT98Z4TvJJlrPwhxnaIzA) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:07 |
+| 9 | [Pretty Eyes Lorraine](https://open.spotify.com/track/0sLPXoUB1Q1gQcs1OOYy49) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Sounds Like...](https://open.spotify.com/album/54WXEOsnZYULedb3Gz7fnr) | 3:54 |
+| 10 | [Beekeeping](https://open.spotify.com/track/1snJ7O1FeSgvECP095NXZb) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:23 |
+| 11 | [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 6:00 |
+| 12 | [Oranges](https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 2:52 |
 | 13 | [Curtain](https://open.spotify.com/track/66yo9SvT59QyxWe1Of6VhX) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 6:39 |
 | 14 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 |
 | 15 | [Not All Bad Boys Are Bad All The Time](https://open.spotify.com/track/6fwLAB0ju6BSiLSO1jqu4W) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Not All Bad Boys Are Bad All The Time](https://open.spotify.com/album/28i1Bw7IY8I9RSjld7tuB4) | 2:30 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 153 | [Solar Pilgrim](https://open.spotify.com/track/2diIDjwlKc20RCAZbduELu) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/7dF7onqAzMMauRg11raQZh) | 5:20 |
 | 154 | [Ur Name on a Grain of Rice](https://open.spotify.com/track/6RmefriEmuqmToFqMlvwlF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/3UQh0f5HtW2WmcwMvjhiIJ) | 5:01 |
 
-Snapshot ID: `AAAAAPNO+l91FToWineaJdO1HrvgNquH`
+Snapshot ID: `AAAAAEGloZo9N2ywYiFkGovzdqW+cI1X`

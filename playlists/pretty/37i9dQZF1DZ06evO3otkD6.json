@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 86782,
+  "num_followers": 86802,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAABHBOmeLPh9qTEm3uNBGI7j",
+  "snapshot_id": "aO2SgAAAAAAN+E/7bbjRQgKYa0xh/5d2",
   "tracks": [
     {
       "added_at": null,
@@ -991,46 +991,6 @@
       "duration_ms": 239440,
       "name": "En El Amor Hay Que Perdonar",
       "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blink Twice (Dos Veces Remix)",
-        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 154134,
-      "name": "Blink Twice - Dos Veces Remix",
-      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Encantar\u00eda",
-        "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 177328,
-      "name": "Me Encantar\u00eda",
-      "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
     }
   ],
   "unique_name": "This Is Belinda",

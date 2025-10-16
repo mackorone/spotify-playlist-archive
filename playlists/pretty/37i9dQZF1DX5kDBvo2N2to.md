@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,386 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,391 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 17 | [Skyddar mig från dig](https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Skyddar mig från dig](https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9) | 3:05 |
 | 18 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 |
 | 19 | [Waiting For A Star To Fall](https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Waiting For A Star To Fall](https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF) | 2:46 |
-| 20 | [Love is for Losers](https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Love is for Losers](https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs) | 3:24 |
-| 21 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 |
+| 20 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 |
+| 21 | [Love is for Losers](https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Love is for Losers](https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs) | 3:24 |
 | 22 | [Klara](https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Klara](https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H) | 3:49 |
 | 23 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 |
 | 24 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 32 | [Bon Voyage](https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Bon Voyage](https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg) | 2:43 |
 | 33 | [Andarna](https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Andarna](https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY) | 3:46 |
 | 34 | [Mjukt ljus](https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Mjukt ljus](https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe) | 2:40 |
-| 35 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 |
-| 36 | [Blåljus](https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Blåljus](https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF) | 3:27 |
+| 35 | [Blåljus](https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Blåljus](https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF) | 3:27 |
+| 36 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 |
 | 37 | [RING MIG 112!!?](https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [RING MIG 112!!?](https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt) | 2:56 |
 | 38 | [SOS](https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOS](https://open.spotify.com/album/6YSni14WiEq5mIihve4u3V) | 1:51 |
 | 39 | [Men du](https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Men du](https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P) | 3:07 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 50 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 |
 | 51 | [Solros](https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Solros](https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT) | 2:41 |
 | 52 | [02:30](https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [02:30](https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja) | 3:37 |
-| 53 | [Svårt](https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Svårt](https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9) | 2:59 |
-| 54 | [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 |
+| 53 | [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 |
+| 54 | [Svårt](https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Svårt](https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9) | 2:59 |
 | 55 | [Jag måste välja](https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Jag måste välja](https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE) | 3:15 |
 | 56 | [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 |
-| 57 | [Grön hatt](https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Grön hatt](https://open.spotify.com/album/1PzD5BBmOQVFFJWhVI1XGm) | 3:02 |
-| 58 | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3) | 2:52 |
-| 59 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
+| 57 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
+| 58 | [Grön hatt](https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Grön hatt](https://open.spotify.com/album/1PzD5BBmOQVFFJWhVI1XGm) | 3:02 |
+| 59 | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3) | 2:52 |
 | 60 | [Dina fula skor](https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dina fula skor](https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX) | 2:18 |
 | 61 | [Någon annan än dig](https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Någon annan än dig](https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB) | 2:44 |
 | 62 | [Stanna lite till](https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stanna lite till](https://open.spotify.com/album/03lZozSOhCG4pv2UXHUSj5) | 3:27 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 71 | [Freedom](https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Freedom](https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn) | 3:14 |
 | 72 | [Gatorna i Borås](https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [Gatorna i Borås](https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV) | 2:44 |
 | 73 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
-| 74 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 |
-| 75 | [So Fine](https://open.spotify.com/track/3FRjmy9LaX2H9gWAf2gKVy) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [Overseas Infinity Pt\. 1](https://open.spotify.com/album/7tNsMF0fcgNL4OgvSVmc9u) | 3:01 |
+| 74 | [So Fine](https://open.spotify.com/track/3FRjmy9LaX2H9gWAf2gKVy) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [Overseas Infinity Pt\. 1](https://open.spotify.com/album/7tNsMF0fcgNL4OgvSVmc9u) | 3:01 |
+| 75 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 |
 | 76 | [IN YOUR BLUE](https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [4Eternity](https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1) | 2:16 |
 | 77 | [Lova & Skriv](https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Lova & Skriv](https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T) | 2:59 |
 | 78 | [Hennessy](https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hennessy](https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1) | 2:20 |

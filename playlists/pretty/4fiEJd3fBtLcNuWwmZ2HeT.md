@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 379 songs - 21 hr 47 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 380 songs - 21 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -387,5 +387,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 377 | [夜になったら耿十八は](https://open.spotify.com/track/67m8OAMRKgo4zhTFoKinW3) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3F8Y95zceuJs2RWgn5VQwS) | 3:37 |
 | 378 | [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 |
 | 379 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
+| 380 | [Illuminati](https://open.spotify.com/track/5cZrqkfTckgUAONHdRiuLv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Illuminati](https://open.spotify.com/album/0ywqgmOBttYXxvJlo78vDK) | 5:10 |
 
-Snapshot ID: `AAAJcBWLXQ/jm0cTW9nQvUVBa+31yky3`
+Snapshot ID: `AAAJcaGynyu8h06RhBY4PFu4SBQHr0Ru`

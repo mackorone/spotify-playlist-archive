@@ -1,12 +1,12 @@
 {
   "description": "This is Irv Gotti. The essential tracks, all in one playlist.",
-  "num_followers": 145,
+  "num_followers": 146,
   "original_name": "This Is Irv Gotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAAA8wOslJQt9IdUIZ+vIiHaq",
+  "snapshot_id": "aO2SgAAAAABzEuJKv4kCiGLvcNT42T+o",
   "tracks": [
     {
       "added_at": null,
@@ -258,11 +258,23 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 42826,
-      "name": "Boss - Skit",
-      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
+      "duration_ms": 223360,
+      "name": "No One Does It Better - Remix",
+      "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
     },
     {
       "added_at": null,
@@ -298,23 +310,11 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 223360,
-      "name": "No One Does It Better - Remix",
-      "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
+      "duration_ms": 42826,
+      "name": "Boss - Skit",
+      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
     },
     {
       "added_at": null,

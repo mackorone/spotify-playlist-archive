@@ -109,6 +109,24 @@
     },
     {
       "album": {
+        "name": "Creep (Piano & Strings Version)",
+        "url": "https://open.spotify.com/album/06kLd1KGgjtVayoANrjzEc"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162098,
+      "name": "Creep - Piano & Strings Version",
+      "url": "https://open.spotify.com/track/7hEU30eKrU7hASxDqTNdnn"
+    },
+    {
+      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 522946,
+  "num_followers": 522977,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,26 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
+      },
+      "artists": [
+        {
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        },
+        {
+          "name": "Mayito Rivera",
+          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
+        }
+      ],
+      "duration_ms": 306449,
+      "name": "Yo Comprendo",
+      "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Que Tiene Que Te Mueve",
-        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        },
-        {
-          "name": "Mayito Rivera",
-          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
-        }
-      ],
-      "duration_ms": 306449,
-      "name": "Yo Comprendo",
-      "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
     },
     {
       "added_at": "2025-03-07 06:00:25",

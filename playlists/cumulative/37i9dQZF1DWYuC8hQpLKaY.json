@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Trust of Perspective",
+        "url": "https://open.spotify.com/album/19f2y5fLnqQ7RVflZWdR9I"
+      },
+      "artists": [
+        {
+          "name": "Liam Casablanca",
+          "url": "https://open.spotify.com/artist/0gUlEeszhxPzBIt7YOyWzM"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146790,
+      "name": "Man I Need - Piano Version",
+      "url": "https://open.spotify.com/track/2lvzVTi1vTHUpas0zzfmtX"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/6IEifv95ND12iR1WHrRFxD"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 218581,
       "name": "Someone like you",
       "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"

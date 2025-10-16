@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mathias Ranch",
-  "num_followers": 47075,
+  "num_followers": 47074,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "hun m\u00e6rker aldrig smerten.",
+        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "duration_ms": 160105,
+      "name": "hun m\u00e6rker aldrig smerten.",
+      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "I Made It (feat. Andreas Odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 209923,
       "name": "I Made It (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "hun m\u00e6rker aldrig smerten.",
-        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
-      },
-      "artists": [
-        {
-          "name": "JONATHAN",
-          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
-        }
-      ],
-      "duration_ms": 160105,
-      "name": "hun m\u00e6rker aldrig smerten.",
-      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "Vilde \u00d8jne",
         "url": "https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 190000,
       "name": "Vilde \u00d8jne",
       "url": "https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 196526,
-      "name": "Regnvejr",
-      "url": "https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "P\u00c5 TIL DET SAMME",
         "url": "https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 116259,
       "name": "P\u00c5 TIL DET SAMME",
       "url": "https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 196526,
+      "name": "Regnvejr",
+      "url": "https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "Perker Pop (Jeg vil ha')",
         "url": "https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 180441,
       "name": "Perker Pop (Jeg vil ha')",
       "url": "https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N"
-      },
-      "artists": [
-        {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
+        "name": "Sodalite",
+        "url": "https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S"
+      },
+      "artists": [
+        {
+          "name": "Jaleesa",
+          "url": "https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4"
+        }
+      ],
+      "duration_ms": 248041,
+      "name": "Let Love In",
+      "url": "https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
         "name": "Fanget I En Dr\u00f8m",
         "url": "https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Sodalite",
-        "url": "https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S"
+        "name": "Fri",
+        "url": "https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy"
       },
       "artists": [
         {
-          "name": "Jaleesa",
-          "url": "https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4"
+          "name": "willum",
+          "url": "https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz"
         }
       ],
-      "duration_ms": 248041,
-      "name": "Let Love In",
-      "url": "https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR"
+      "duration_ms": 167007,
+      "name": "Fri",
+      "url": "https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1055,22 +1071,6 @@
       "duration_ms": 189486,
       "name": "How Does It Make U Feel",
       "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
-        "name": "Kys f\u00f8r fald",
-        "url": "https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx"
-      },
-      "artists": [
-        {
-          "name": "Downtown July",
-          "url": "https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD"
-        }
-      ],
-      "duration_ms": 194937,
-      "name": "Kys f\u00f8r fald",
-      "url": "https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "Fri",
-        "url": "https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy"
+        "name": "Kys f\u00f8r fald",
+        "url": "https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx"
       },
       "artists": [
         {
-          "name": "willum",
-          "url": "https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz"
+          "name": "Downtown July",
+          "url": "https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD"
         }
       ],
-      "duration_ms": 167007,
-      "name": "Fri",
-      "url": "https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0"
+      "duration_ms": 194937,
+      "name": "Kys f\u00f8r fald",
+      "url": "https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz"
     },
     {
       "added_at": "2025-10-09 22:00:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "shout pillow",
-        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
-      },
-      "artists": [
-        {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
-        }
-      ],
-      "duration_ms": 141677,
-      "name": "shout pillow",
-      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
-    },
-    {
-      "added_at": "2025-10-09 22:00:30",
-      "album": {
         "name": "Words for Myself",
         "url": "https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z"
       },
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2025-10-09 22:00:30",
       "album": {
-        "name": "R\u00f8dt Flag",
-        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
+        "name": "shout pillow",
+        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
       },
       "artists": [
         {
-          "name": "Zira",
-          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
         }
       ],
-      "duration_ms": 147739,
-      "name": "R\u00f8dt Flag",
-      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
+      "duration_ms": 141677,
+      "name": "shout pillow",
+      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
+    },
+    {
+      "added_at": "2025-10-09 22:00:30",
+      "album": {
+        "name": "Til Mit Efter\u00e5r",
+        "url": "https://open.spotify.com/album/7IzaD6xvzLsPzzCusVqC8X"
+      },
+      "artists": [
+        {
+          "name": "hun_sagde",
+          "url": "https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB"
+        }
+      ],
+      "duration_ms": 174090,
+      "name": "Virkeligheden",
+      "url": "https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F"
     }
   ],
   "unique_name": "ung kniv ",

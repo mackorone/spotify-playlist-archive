@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 115539,
+  "num_followers": 115577,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Spider Ballad",
-        "url": "https://open.spotify.com/album/4ZqtS7gozAe9gcsau9HmMw"
-      },
-      "artists": [
-        {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 455419,
-      "name": "Spider Ballad",
-      "url": "https://open.spotify.com/track/6AfXAFKkqmp6EsJWxHXihQ"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Spider Ballad",
+        "url": "https://open.spotify.com/album/4ZqtS7gozAe9gcsau9HmMw"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 455419,
+      "name": "Spider Ballad",
+      "url": "https://open.spotify.com/track/6AfXAFKkqmp6EsJWxHXihQ"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Somebody (Mixed)",
         "url": "https://open.spotify.com/album/4kY0vJC1JGRDIwSsIjZey9"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Apertura",
-        "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Flaco 92'",
-      "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "sleep with a cane",
         "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "Apertura",
+        "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Flaco 92'",
+      "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Piedras 2",
         "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 225625,
       "name": "I, you",
       "url": "https://open.spotify.com/track/7xznVSBGvlqEbxMPFAoEZY"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
-      },
-      "artists": [
-        {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Eagle 12'",
-        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Eagle 12'",
-      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "Eagle 12'",
+        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Eagle 12'",
+      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
         }
       ],
-      "duration_ms": 414706,
-      "name": "#9",
-      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
+      "duration_ms": 424170,
+      "name": "Psychic Geography",
+      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 424170,
-      "name": "Psychic Geography",
-      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+      "duration_ms": 414706,
+      "name": "#9",
+      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "T\u1ebft 41",
-        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319554,
-      "name": "Gi\u00f3",
-      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "T\u1ebft 41",
+        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319554,
+      "name": "Gi\u00f3",
+      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Music for the Film \"Who I Am\"",
-        "url": "https://open.spotify.com/album/6YMGkY3yRwqT2IqCUiwytN"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 71802,
-      "name": "Movement #1",
-      "url": "https://open.spotify.com/track/1mhDpIULcMecLnEQKpWUAH"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Tintswalo / Falling",
         "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 209563,
       "name": "Tintswalo",
       "url": "https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Music for the Film \"Who I Am\"",
+        "url": "https://open.spotify.com/album/6YMGkY3yRwqT2IqCUiwytN"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 71802,
+      "name": "Movement #1",
+      "url": "https://open.spotify.com/track/1mhDpIULcMecLnEQKpWUAH"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "O, Dark Mother",
         "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 109937,
       "name": "3eee",
       "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Wave After Wave",
-        "url": "https://open.spotify.com/album/0crbujmjniQVonKRhJsOXI"
-      },
-      "artists": [
-        {
-          "name": "Carrier",
-          "url": "https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u"
-        }
-      ],
-      "duration_ms": 348945,
-      "name": "Wave After Wave",
-      "url": "https://open.spotify.com/track/4oLPHdbUNsWTkjyqAEjnwA"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "La Hormiga",
         "url": "https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb"
       },
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+        "name": "Wave After Wave",
+        "url": "https://open.spotify.com/album/0crbujmjniQVonKRhJsOXI"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "Carrier",
+          "url": "https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u"
         }
       ],
-      "duration_ms": 139184,
-      "name": "Heterodina",
-      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+      "duration_ms": 348945,
+      "name": "Wave After Wave",
+      "url": "https://open.spotify.com/track/4oLPHdbUNsWTkjyqAEjnwA"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1907,18 +1891,18 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "The Night",
-        "url": "https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q"
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
       "artists": [
         {
-          "name": "Saint Etienne",
-          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Through The Glass",
-      "url": "https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P"
+      "duration_ms": 139184,
+      "name": "Heterodina",
+      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1935,6 +1919,22 @@
       "duration_ms": 482771,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "The Night",
+        "url": "https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q"
+      },
+      "artists": [
+        {
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Through The Glass",
+      "url": "https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2179,26 +2179,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Daze",
-        "url": "https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg"
-      },
-      "artists": [
-        {
-          "name": "Stilhed",
-          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
-        },
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Power Down the Heart",
         "url": "https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 221128,
       "name": "Power Down the Heart",
       "url": "https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Daze",
+        "url": "https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg"
+      },
+      "artists": [
+        {
+          "name": "Stilhed",
+          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+        },
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
-      },
-      "artists": [
-        {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
-        }
-      ],
-      "duration_ms": 330673,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "QQQQ",
         "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 256579,
       "name": "COMBAT",
       "url": "https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+      },
+      "artists": [
+        {
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+        }
+      ],
+      "duration_ms": 447847,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "The Milky Sea",
-        "url": "https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC"
-      },
-      "artists": [
-        {
-          "name": "Jefre Cantu-Ledesma",
-          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
-        }
-      ],
-      "duration_ms": 1202000,
-      "name": "The Milky Sea",
-      "url": "https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Eleven Fugues For Sodium Pentothal",
         "url": "https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 264155,
       "name": "Mexican Helium",
       "url": "https://open.spotify.com/track/6JSfZeeU5uG9GjRXE8H9ua"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "The Milky Sea",
+        "url": "https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC"
+      },
+      "artists": [
+        {
+          "name": "Jefre Cantu-Ledesma",
+          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
+        }
+      ],
+      "duration_ms": 1202000,
+      "name": "The Milky Sea",
+      "url": "https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Joy Paradox (Reimagined)",
-        "url": "https://open.spotify.com/album/4L0ugCc2D3eFwuSV7nPonU"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        }
-      ],
-      "duration_ms": 313641,
-      "name": "Recompose - In Nature",
-      "url": "https://open.spotify.com/track/3WdNEYkSo7d6E9EKJLIaSe"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -2388,41 +2372,9 @@
           "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
         }
       ],
-      "duration_ms": 447847,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "Doff",
-        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
-      },
-      "artists": [
-        {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Doff",
-      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "The Eternal Thrill",
-        "url": "https://open.spotify.com/album/6UdEjN9OMrdz9DlEzU5U3n"
-      },
-      "artists": [
-        {
-          "name": "Eric Hilton",
-          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
-        }
-      ],
-      "duration_ms": 437622,
-      "name": "The Eternal Thrill",
-      "url": "https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu"
+      "duration_ms": 330673,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2463,22 +2415,18 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "no floor",
-        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+        "name": "The Eternal Thrill",
+        "url": "https://open.spotify.com/album/6UdEjN9OMrdz9DlEzU5U3n"
       },
       "artists": [
         {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Eric Hilton",
+          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
         }
       ],
-      "duration_ms": 357293,
-      "name": "the applebees outside kalamazoo, michigan",
-      "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
+      "duration_ms": 437622,
+      "name": "The Eternal Thrill",
+      "url": "https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2499,18 +2447,54 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
-        "name": "Afrodisia",
-        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 540340,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Joy Paradox (Reimagined)",
+        "url": "https://open.spotify.com/album/4L0ugCc2D3eFwuSV7nPonU"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 313641,
+      "name": "Recompose - In Nature",
+      "url": "https://open.spotify.com/track/3WdNEYkSo7d6E9EKJLIaSe"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 357293,
+      "name": "the applebees outside kalamazoo, michigan",
+      "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -2527,6 +2511,22 @@
       "duration_ms": 201000,
       "name": "Fuggire",
       "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Afrodisia",
+        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 540340,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
     },
     {
       "added_at": "2025-10-10 04:00:42",

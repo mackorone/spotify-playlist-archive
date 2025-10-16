@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-208 songs - 9 hr 25 min
+209 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Outro](https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Henry Nowhere](https://open.spotify.com/album/5ayz7Qdd4R5OASJ7NE0doo) | 1:02 | 2022-08-26 | 2023-07-29 |
 | [overpopulation at the end of everything is less of a worry, haha \('a letter to you' from mother 3\)](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 | 2022-08-22 |  |
 | [Philosophy of Time Travel](https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3) | 2:02 | 2023-01-26 | 2023-03-21 |
+| [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-15 |  |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2023-08-16 |  |
 | [PP1](https://open.spotify.com/track/1lZUpqag6NEbHJqOEVKsAz) | [Frakkur](https://open.spotify.com/artist/7MsCO5nqwXGWzbEFzpXxMV) | [2000 \- 2004](https://open.spotify.com/album/0XEVhUvCuqZpSClREEsVlg) | 4:21 | 2022-11-15 |  |
 | [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 | 2025-02-21 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124896,
+  "num_followers": 124893,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUrkmLjcWk/heRw+Q0rwL2YatDm4xB",
+  "snapshot_id": "AAAUr6/d5vb3DtSq3TdMWBqnH1NeXgup",
   "tracks": [
+    {
+      "added_at": "2025-10-15 14:18:03",
+      "album": {
+        "name": "Stealing Fire (Remixes)",
+        "url": "https://open.spotify.com/album/04OcnH4C6pWDqvT5fdtkKQ"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Dodge & Fuski",
+          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Dino Killer - Dodge & Fuski Remix",
+      "url": "https://open.spotify.com/track/48BEoeZBILGunmflYqDFKG"
+    },
     {
       "added_at": "2025-10-14 14:10:59",
       "album": {

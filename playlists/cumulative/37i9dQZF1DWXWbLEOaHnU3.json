@@ -1427,6 +1427,32 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5vpolLJLleSrU4fXCzA4V4"
+      },
+      "artists": [
+        {
+          "name": "Major7",
+          "url": "https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V"
+        },
+        {
+          "name": "Eddie Bitar",
+          "url": "https://open.spotify.com/artist/2lYqW6goFxy80hB83z69nT"
+        },
+        {
+          "name": "Jennifer June",
+          "url": "https://open.spotify.com/artist/2cajIeFCEjx5pOI7BgUqND"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4yCa0360R21JScXkQ5H7aA"
+    },
+    {
+      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
       },
@@ -6180,7 +6206,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 149617,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r"

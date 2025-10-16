@@ -1,12 +1,12 @@
 {
   "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 34359,
+  "num_followers": 34365,
   "original_name": "This Is kessoku band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAABLO8HSEz8EeSOvfPSLbt4P",
+  "snapshot_id": "aO2SgAAAAADv2VpeelSfHtV6fLVQ1xk5",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078-instrumental-",
-      "url": "https://open.spotify.com/track/1t8KHcCAzyvXrCc4AIuZjN"
+      "duration_ms": 205133,
+      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9-instrumental-",
+      "url": "https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9-instrumental-",
-      "url": "https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5149\u306e\u4e2d\u3078",
         "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 251360,
-      "name": "\u9752\u3044\u6625\u3068\u897f\u306e\u7a7a-instrumental-",
-      "url": "https://open.spotify.com/track/3skl1XsMWVYXPOwq3BHRDG"
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078-instrumental-",
+      "url": "https://open.spotify.com/track/1t8KHcCAzyvXrCc4AIuZjN"
     },
     {
       "added_at": null,

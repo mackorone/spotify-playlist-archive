@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Illuminati",
+        "url": "https://open.spotify.com/album/0ywqgmOBttYXxvJlo78vDK"
+      },
+      "artists": [
+        {
+          "name": "Malace Mizer",
+          "url": "https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310266,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/5cZrqkfTckgUAONHdRiuLv"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
       },

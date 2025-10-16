@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Pace",
+        "url": "https://open.spotify.com/album/6MQYhciGla1N3HuZ9afcP6"
+      },
+      "artists": [
+        {
+          "name": "Fabio D'Andrea",
+          "url": "https://open.spotify.com/artist/68JRaDNqCVf8U5miwvFHe2"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299363,
+      "name": "Pace",
+      "url": "https://open.spotify.com/track/7slVyxlHDZbnQ5qz0gAYXF"
+    },
+    {
+      "album": {
         "name": "Parisian Lovers",
         "url": "https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr"
       },
@@ -1808,6 +1830,28 @@
       "duration_ms": 185373,
       "name": "The Voice",
       "url": "https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ"
+    },
+    {
+      "album": {
+        "name": "There Was a Ship",
+        "url": "https://open.spotify.com/album/06qspLXYpttKK7UuNsvicf"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Cecily Eno",
+          "url": "https://open.spotify.com/artist/1L3WQsdf4LVCNxBQG2wRez"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165253,
+      "name": "There Was a Ship",
+      "url": "https://open.spotify.com/track/3I49sHrhNcMHwp1H5mSxnA"
     },
     {
       "album": {

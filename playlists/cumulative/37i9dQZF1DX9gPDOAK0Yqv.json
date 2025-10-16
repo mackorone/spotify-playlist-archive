@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "ENDZ061",
+        "url": "https://open.spotify.com/album/66l4BIequxiDPjxXoH900j"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "Back To The Sound",
+      "url": "https://open.spotify.com/track/54HmVaiLg72bfmQ2lkhljF"
+    },
+    {
+      "album": {
         "name": "Back Up",
         "url": "https://open.spotify.com/album/10yJevvqETfkqxVtKIL2Pd"
       },
@@ -16020,7 +16038,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 145519,
       "name": "Vacilando",
       "url": "https://open.spotify.com/track/61QcPE2JaTf5CdSGSbEF3w"

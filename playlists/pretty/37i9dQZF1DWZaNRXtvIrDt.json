@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 131291,
+  "num_followers": 131282,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2025-10-13 02:22:12",
       "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "added_at": "2025-10-13 02:22:12",
+      "album": {
         "name": "Maia Maia",
         "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 201247,
       "name": "Old' On",
       "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
-    },
-    {
-      "added_at": "2025-10-13 02:22:12",
-      "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2025-10-13 02:22:12",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-10-13 02:22:12",
       "album": {
+        "name": "The Way I'm Feeling",
+        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 257766,
+      "name": "The Way I'm Feeling",
+      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
+    },
+    {
+      "added_at": "2025-10-13 02:22:12",
+      "album": {
         "name": "Groovy Thang",
         "url": "https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC"
       },
@@ -419,18 +435,22 @@
     {
       "added_at": "2025-10-13 02:22:12",
       "album": {
-        "name": "The Way I'm Feeling",
-        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 257766,
-      "name": "The Way I'm Feeling",
-      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2025-10-13 02:22:12",
@@ -467,26 +487,6 @@
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
-    },
-    {
-      "added_at": "2025-10-13 02:22:12",
-      "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2025-10-13 02:22:12",
@@ -559,6 +559,42 @@
     {
       "added_at": "2025-10-13 02:22:12",
       "album": {
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+        }
+      ],
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2025-10-13 02:22:12",
+      "album": {
+        "name": "play it again",
+        "url": "https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "play it again",
+      "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
+    },
+    {
+      "added_at": "2025-10-13 02:22:12",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -583,42 +619,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2025-10-13 02:22:12",
-      "album": {
-        "name": "play it again",
-        "url": "https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "play it again",
-      "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
-    },
-    {
-      "added_at": "2025-10-13 02:22:12",
-      "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
-        }
-      ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2025-10-13 02:22:12",
@@ -679,26 +679,6 @@
       "duration_ms": 229107,
       "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
-    },
-    {
-      "added_at": "2025-10-13 02:22:12",
-      "album": {
-        "name": "Yosemite",
-        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 266375,
-      "name": "Yosemite",
-      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
     },
     {
       "added_at": "2025-10-13 02:22:12",
@@ -767,6 +747,26 @@
       "duration_ms": 201508,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
+    },
+    {
+      "added_at": "2025-10-13 02:22:12",
+      "album": {
+        "name": "Yosemite",
+        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 266375,
+      "name": "Yosemite",
+      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
     },
     {
       "added_at": "2025-10-13 02:22:12",

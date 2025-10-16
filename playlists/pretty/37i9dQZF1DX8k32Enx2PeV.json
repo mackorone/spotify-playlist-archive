@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 14552,
+  "num_followers": 14558,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-10-10 04:59:28",
       "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
         "name": "Adi\u00f3s Batata (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 407295,
       "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2025-10-10 04:59:28",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-10-10 04:59:28",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 155613,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
     },
     {
       "added_at": "2025-10-10 04:59:28",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-10-10 04:59:28",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd"
-      },
-      "artists": [
-        {
-          "name": "La Beat Machine",
-          "url": "https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6"
-        }
-      ],
-      "duration_ms": 202888,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
         "name": "Yo Quisiera",
         "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 177446,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd"
+      },
+      "artists": [
+        {
+          "name": "La Beat Machine",
+          "url": "https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6"
+        }
+      ],
+      "duration_ms": 202888,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj"
     },
     {
       "added_at": "2025-10-10 04:59:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-10 04:59:28",
       "album": {
-        "name": "Isla",
-        "url": "https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG"
-      },
-      "artists": [
-        {
-          "name": "Som Caney",
-          "url": "https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH"
-        }
-      ],
-      "duration_ms": 231608,
-      "name": "Isla",
-      "url": "https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
         "name": "Sol Y Lluvia",
         "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
       },
@@ -1499,26 +1483,6 @@
       "duration_ms": 184925,
       "name": "Como Fuego",
       "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
-    },
-    {
-      "added_at": "2025-10-10 04:59:28",
-      "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
-      },
-      "artists": [
-        {
-          "name": "Para\u00edsos",
-          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 195317,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
     },
     {
       "added_at": "2025-10-10 04:59:28",
@@ -1539,6 +1503,42 @@
       "duration_ms": 165923,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
+        "name": "Isla",
+        "url": "https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG"
+      },
+      "artists": [
+        {
+          "name": "Som Caney",
+          "url": "https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH"
+        }
+      ],
+      "duration_ms": 231608,
+      "name": "Isla",
+      "url": "https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ"
+    },
+    {
+      "added_at": "2025-10-10 04:59:28",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edsos",
+          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
     },
     {
       "added_at": "2025-10-10 04:59:28",

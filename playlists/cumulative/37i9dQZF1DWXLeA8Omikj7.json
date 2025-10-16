@@ -796,7 +796,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 160067,
       "name": "Air",
       "url": "https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC"
@@ -6716,7 +6716,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -18627,6 +18627,24 @@
     },
     {
       "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6bjLW5oKgSanC18sGIlkl8"
+      },
+      "artists": [
+        {
+          "name": "Ghost Dubs",
+          "url": "https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244570,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/7CgCX1EqTDmikX0tsZdQiK"
+    },
+    {
+      "album": {
         "name": "The Rip",
         "url": "https://open.spotify.com/album/024m5yprtbKRHNCFVEbOps"
       },
@@ -20212,7 +20230,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 142812,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi"

@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Liquid Mike",
-  "num_followers": 166496,
+  "num_followers": 166522,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADMh3NYpHv7aTH10JtAVzZHKR/lz",
+  "snapshot_id": "AAAAAOZLazWlDdy9KC3dPCnyFseTtvCA",
   "tracks": [
     {
       "added_at": "2025-09-17 16:00:14",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/0bGfL3qbDYqiExPbt0m1xJ"
     },
     {
+      "added_at": "2025-10-15 16:00:31",
+      "album": {
+        "name": "In A Box",
+        "url": "https://open.spotify.com/album/6zrz8nPg5aA9h7Ph1cnOf5"
+      },
+      "artists": [
+        {
+          "name": "Cusp",
+          "url": "https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8"
+        }
+      ],
+      "duration_ms": 180613,
+      "name": "In A Box",
+      "url": "https://open.spotify.com/track/2EIB4eM1cPpUivQiImSgyv"
+    },
+    {
+      "added_at": "2025-10-15 16:00:31",
+      "album": {
+        "name": "Sky is Falling",
+        "url": "https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2"
+      },
+      "artists": [
+        {
+          "name": "dust",
+          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
+        }
+      ],
+      "duration_ms": 197385,
+      "name": "Swamped",
+      "url": "https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87"
+    },
+    {
       "added_at": "2025-10-08 16:00:11",
       "album": {
         "name": "Days Are Gone",
@@ -103,6 +135,22 @@
       "duration_ms": 211777,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/7ht5YnsrVWkDm0XwVdIqxX"
+    },
+    {
+      "added_at": "2025-10-15 16:00:31",
+      "album": {
+        "name": "dawg rock vol. 1",
+        "url": "https://open.spotify.com/album/3Zf568bJ353Xe0Hn7lfYiQ"
+      },
+      "artists": [
+        {
+          "name": "armbite",
+          "url": "https://open.spotify.com/artist/3szLtt4txG5WdKTEXZweaW"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "catsitting",
+      "url": "https://open.spotify.com/track/7GPSHLFx3Ums2kOQRNXVjb"
     },
     {
       "added_at": "2025-10-08 16:00:11",

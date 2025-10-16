@@ -4,7 +4,7 @@
 
 > but listened to this instead
 
-69 songs - 3 hr 38 min
+70 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2025-02-20 | 2025-04-08 |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2025-02-20 |  |
 | [Lover \- Piano](https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/3tuqnyoZ4SCBa5q2KwjVJH) | 3:14 | 2025-02-20 | 2025-05-03 |
+| [Man I Need \- Piano Version](https://open.spotify.com/track/2lvzVTi1vTHUpas0zzfmtX) | [Liam Casablanca](https://open.spotify.com/artist/0gUlEeszhxPzBIt7YOyWzM) | [Trust of Perspective](https://open.spotify.com/album/19f2y5fLnqQ7RVflZWdR9I) | 2:26 | 2025-10-15 |  |
 | [Manchild](https://open.spotify.com/track/7MMFRjAiYOwPxQnmxcsert) | [Davy Burns](https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi) | [Manchild](https://open.spotify.com/album/6IEifv95ND12iR1WHrRFxD) | 3:25 | 2025-07-04 |  |
 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-03-28 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2025-02-20 |  |
@@ -61,7 +62,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/7dUKp6hhkJrKhcLTqrJ3Gj) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/7FrsF0YugEWz3Y6NKNCJm6) | 3:03 | 2025-03-28 |  |
 | [Running Up That Hill \(A Deal With God\) \- Piano Version](https://open.spotify.com/track/3k7XdOax96YAFfQ9Io5s9M) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [Running Up That Hill \(A Deal With God\) \[Piano Version\]](https://open.spotify.com/album/0DorLK7XCFmEX2VykO2Ch2) | 4:45 | 2025-02-20 | 2025-03-29 |
 | [See You Again \(Piano Arrangement\)](https://open.spotify.com/track/4zfWNeNDXaJjOLebhbQ7dI) | [Alexandre Pachabezian](https://open.spotify.com/artist/1IT9QRtjGpp7XoEGX4UcmH) | [See You Again \(Piano Arrangement\)](https://open.spotify.com/album/2gXobLmeqO74oQKGC6Levy) | 3:54 | 2025-02-20 | 2025-03-15 |
-| [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 | 2025-02-20 |  |
+| [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 | 2025-02-20 | 2025-10-16 |
 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 | 2025-02-20 |  |
 | [Space Song \- Piano Version](https://open.spotify.com/track/1SBo9qvXe85LUwrrIsDEWr) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Piano Cover Collection \(Vol.3\)](https://open.spotify.com/album/4UjatSTl3ifWztP8eJzdDm) | 2:57 | 2025-02-20 |  |
 | [STAY \- Piano Cover](https://open.spotify.com/track/1CmppZTbQicdsK3Wvf1pZh) | [Milo Grande](https://open.spotify.com/artist/182Ff74ykrt6AQ716FsefI) | [Small Parts of big Parts](https://open.spotify.com/album/2kw5VPT7h3LHWAj6Dafq9t) | 2:08 | 2025-02-20 | 2025-05-03 |

@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 142040,
       "name": "Everyone Bleeds",
       "url": "https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -6302,7 +6302,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
@@ -9968,7 +9968,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 273960,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne"
@@ -10026,7 +10026,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 164053,
       "name": "Unpretty",
       "url": "https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ"
@@ -10867,6 +10867,24 @@
     },
     {
       "album": {
+        "name": "Awakenbake",
+        "url": "https://open.spotify.com/album/2N44QOkfNaEXIWubqmR5FM"
+      },
+      "artists": [
+        {
+          "name": "Awaken A Cappella",
+          "url": "https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "You Don't Care",
+      "url": "https://open.spotify.com/track/1tEAbWyxf1wDSgTl2CY3up"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/7DiWEdYfLp5VBU6qKIPLpN"
       },
@@ -10878,7 +10896,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 243120,
       "name": "You Don't Care",
       "url": "https://open.spotify.com/track/33k4c6GEjcNLK33SFFDacm"

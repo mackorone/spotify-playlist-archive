@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: サバシスター Saba Sister
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,439 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,476 likes - 99 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [](https://open.spotify.com/album/null) | 3:56 |
+| 1 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 |
 | 2 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 |
 | 3 | [だからなんだって話](https://open.spotify.com/track/5WihpZNbe6UrVphH3bM9Jl) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [だからなんだって話](https://open.spotify.com/album/6G9qwO6BxtKgjpA6mXJelS) | 3:37 |
 | 4 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 91 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 |
 | 92 | [Moon](https://open.spotify.com/track/6TKnt3hcvX0YaXeK19TjXd) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Moon](https://open.spotify.com/album/00u6G2aYk05GMJ0FcZlGCm) | 4:33 |
 | 93 | [エンドレスサマー](https://open.spotify.com/track/68IfDjhHNu7ZWTJbc89UKs) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [エンドレスサマー](https://open.spotify.com/album/3NvLu5ZToQdTikFtVwHIGt) | 4:28 |
-| 94 | [Seen'YourGhost](https://open.spotify.com/track/6RVkRXZcMC1eBIFpI2nSCe) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Seen' Your Ghost](https://open.spotify.com/album/0U8yIdPUbkVtiTh2o562Ac) | 2:57 |
+| 94 | [Seein' Your Ghost](https://open.spotify.com/track/6RVkRXZcMC1eBIFpI2nSCe) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Seein' Your Ghost](https://open.spotify.com/album/0U8yIdPUbkVtiTh2o562Ac) | 2:57 |
 | 95 | [CUCKOO!!](https://open.spotify.com/track/4oGVf4oUE9tejZ8NWQMR8A) | [Onsoku Line](https://open.spotify.com/artist/6TTEfWEjAdpjbchHYfo62Q) | [CUCKOO!!](https://open.spotify.com/album/2C6wqkB4MB1deJd9Z6E9GL) | 3:36 |
 | 96 | [Pioneer](https://open.spotify.com/track/6ZkTq5ZtFghMkP4BaMsGFh) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [Pioneer](https://open.spotify.com/album/1umYOhY17yyVPtlDqzdyhQ) | 3:06 |
 | 97 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 250187,
+  "num_followers": 250426,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Pads of Redemption",
-        "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
-      },
-      "artists": [
-        {
-          "name": "Masala Roo",
-          "url": "https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE"
-        }
-      ],
-      "duration_ms": 168536,
-      "name": "Pads of Redemption",
-      "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "Forest Temple",
@@ -319,6 +303,22 @@
       "duration_ms": 234000,
       "name": "Forest Temple",
       "url": "https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Pads of Redemption",
+        "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
+      },
+      "artists": [
+        {
+          "name": "Masala Roo",
+          "url": "https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE"
+        }
+      ],
+      "duration_ms": 168536,
+      "name": "Pads of Redemption",
+      "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
     },
     {
-      "added_at": "2023-12-01 09:10:43",
-      "album": {
-        "name": "Yoga Dream",
-        "url": "https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq"
-      },
-      "artists": [
-        {
-          "name": "Namaste Flute",
-          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
-        }
-      ],
-      "duration_ms": 209048,
-      "name": "Yoga Dream",
-      "url": "https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Still Moment",
@@ -535,6 +519,22 @@
       "duration_ms": 343000,
       "name": "Still Moment",
       "url": "https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM"
+    },
+    {
+      "added_at": "2023-12-01 09:10:43",
+      "album": {
+        "name": "Yoga Dream",
+        "url": "https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "duration_ms": 209048,
+      "name": "Yoga Dream",
+      "url": "https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Romantic Evening Ragas'",
-        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
-      },
-      "artists": [
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Raga Hemavati (Flute)",
-      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Surya Namaskar",
         "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 918750,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Romantic Evening Ragas'",
+        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "Raga Hemavati (Flute)",
+      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Yoga Harmony",
-        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
-      },
-      "artists": [
-        {
-          "name": "Terry Oldfield",
-          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
-        }
-      ],
-      "duration_ms": 499696,
-      "name": "Earth and Sky",
-      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
         "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 471589,
       "name": "Between the Worlds Yoga Nidra - Sunset Flow",
       "url": "https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation",
+        "url": "https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO"
+      },
+      "artists": [
+        {
+          "name": "Naomi Read",
+          "url": "https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx"
+        }
+      ],
+      "duration_ms": 303786,
+      "name": "Healing Sounds (Nature Music)",
+      "url": "https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation",
-        "url": "https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO"
+        "name": "Yoga Harmony",
+        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
       },
       "artists": [
         {
-          "name": "Naomi Read",
-          "url": "https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx"
+          "name": "Terry Oldfield",
+          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
         }
       ],
-      "duration_ms": 303786,
-      "name": "Healing Sounds (Nature Music)",
-      "url": "https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR"
+      "duration_ms": 499696,
+      "name": "Earth and Sky",
+      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
-        "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
-      },
-      "artists": [
-        {
-          "name": "Namaste Healing Yoga",
-          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Baby Deep Sleep",
-      "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 143333,
       "name": "The Longest Rest",
       "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
+        "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
+      },
+      "artists": [
+        {
+          "name": "Namaste Healing Yoga",
+          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Baby Deep Sleep",
+      "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
-        "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Solaris",
-          "url": "https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU"
-        }
-      ],
-      "duration_ms": 317277,
-      "name": "A Peaceful Music",
-      "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
         "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 288298,
       "name": "REM Deep Sleep Inducing",
       "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
+        "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Solaris",
+          "url": "https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU"
+        }
+      ],
+      "duration_ms": 317277,
+      "name": "A Peaceful Music",
+      "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Relaxation and Meditation in Bollywood",
-        "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
-      },
-      "artists": [
-        {
-          "name": "Arijit Ghoshal",
-          "url": "https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86"
-        }
-      ],
-      "duration_ms": 406999,
-      "name": "Inner Calmness",
-      "url": "https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK"
-    },
-    {
       "added_at": "2025-02-06 10:03:27",
       "album": {
         "name": "Trinity",
@@ -1351,6 +1335,22 @@
       "duration_ms": 304000,
       "name": "Poornam",
       "url": "https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Relaxation and Meditation in Bollywood",
+        "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
+      },
+      "artists": [
+        {
+          "name": "Arijit Ghoshal",
+          "url": "https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86"
+        }
+      ],
+      "duration_ms": 406999,
+      "name": "Inner Calmness",
+      "url": "https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Ragas Relax",
-        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
-      },
-      "artists": [
-        {
-          "name": "Chinmaya Dunster",
-          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
-        }
-      ],
-      "duration_ms": 399666,
-      "name": "Goddess Evocation",
-      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
-    },
-    {
       "added_at": "2025-02-06 10:03:27",
       "album": {
         "name": "Trinity",
@@ -1439,6 +1423,22 @@
       "duration_ms": 330000,
       "name": "Swasa",
       "url": "https://open.spotify.com/track/5W8G3QUUFXMhe1RpYR40ms"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ragas Relax",
+        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
+      },
+      "artists": [
+        {
+          "name": "Chinmaya Dunster",
+          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
+        }
+      ],
+      "duration_ms": 399666,
+      "name": "Goddess Evocation",
+      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
     },
     {
       "added_at": "2021-06-15 08:38:14",

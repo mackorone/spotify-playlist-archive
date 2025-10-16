@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: MaRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,258 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,262 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alright](https://open.spotify.com/track/2zIV5wKbGzJc0QK6GprwBb) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [IIInana](https://open.spotify.com/artist/3O1dmNv7sOKWyiItxpce9e) | [](https://open.spotify.com/album/null) | 2:52 |
+| 1 | [Alright](https://open.spotify.com/track/2zIV5wKbGzJc0QK6GprwBb) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [IIInana](https://open.spotify.com/artist/3O1dmNv7sOKWyiItxpce9e) | [Trophy Bitch](https://open.spotify.com/album/5377CASsGvf1X3cCxxBBZB) | 2:52 |
 | 2 | [i love you](https://open.spotify.com/track/583H4PwxDEj4bOcIN2ZQOG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [i love you](https://open.spotify.com/album/3hdlZbQm127kMJuMYdLJE2) | 3:29 |
 | 3 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 |
 | 4 | [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 |

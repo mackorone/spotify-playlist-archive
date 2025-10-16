@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,582 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,587 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [MAL PORTA](https://open.spotify.com/track/0Fb8RH9cZJtUsbSE6HM01G) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [WORLDWAI](https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg) | 2:20 |
 | 50 | [Somos Diferentes \(Remix\)](https://open.spotify.com/track/6Ne8CMowcnP2t9WeL9pai9) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Somos Diferentes](https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J) | 3:59 |
 
-Snapshot ID: `MIG8oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MIMQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

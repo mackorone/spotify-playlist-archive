@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13446,
+  "num_followers": 13449,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAAAS5mdhkkQiXHkuhed8MeMs",
+  "snapshot_id": "aO2SgAAAAACJPv0MmaWDXew7hWVyN4Wz",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soft Error",
+        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Aibo (feat. Bratty)",
+      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Continental",
         "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 204613,
       "name": "Continental",
       "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soft Error",
-        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Aibo (feat. Bratty)",
-      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
     },
     {
       "added_at": null,

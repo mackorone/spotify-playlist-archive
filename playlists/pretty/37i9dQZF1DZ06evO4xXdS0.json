@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 502979,
+  "num_followers": 503007,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOxBAAAAAACuKuFhv95AGQpWWbXv5M/m",
+  "snapshot_id": "aO2SgAAAAADWWuo26UmAu3QvHOIf6+4K",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 416693,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
-        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "To Be Young, Gifted and Black - 2005 Remix",
-      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187973,
       "name": "Tell Me More And More And Then Some",
       "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
+        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "To Be Young, Gifted and Black - 2005 Remix",
+      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
     },
     {
       "added_at": null,

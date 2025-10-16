@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,613 likes - 168 songs - 9 hr 34 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,619 likes - 169 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,6 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 166 | [Child Wielding Needle](https://open.spotify.com/track/4GaqtBAvP2zxckmzATwSnf) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Child Wielding Needle](https://open.spotify.com/album/70jrnQoxwmqJAuvSjjrzAx) | 2:31 |
 | 167 | [GOT IT MAID \(CG5 VERSION\)](https://open.spotify.com/track/5Fyzs4GZ6D48SalVZFeKh8) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Glitch Whisper](https://open.spotify.com/artist/1Jhi8R6zNodyhHadhC9IDe) | [GOT IT MAID \(CG5 VERSION\)](https://open.spotify.com/album/6lN5CKNmh8nSkDDHpywD0P) | 2:41 |
 | 168 | [I Got No Time](https://open.spotify.com/track/6WJHeQ57A33CN34L0xIQFU) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [I Got No Time](https://open.spotify.com/album/1ql24qUYun2MT6P8Mt1www) | 2:58 |
+| 169 | [Danny Don't You Know](https://open.spotify.com/track/2UAkvf29DvpqYCqK0VFf84) | [Ninja Sex Party](https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx) | [Cool Patrol](https://open.spotify.com/album/05VZA6Th4AQvZwDL3XUHt5) | 4:34 |
 
-Snapshot ID: `AAAB970gAqRVC5ydRLciHJ+i1QWRcdtv`
+Snapshot ID: `AAAB+GIye1tldE4PizHeqkomkbtg3i9/`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,896 likes - 79 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,881 likes - 79 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Legacy in Motion](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Legacy In Motion](https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj) | 3:16 |
+| 1 | [Legacy In Motion](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Legacy In Motion](https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj) | 3:16 |
 | 2 | [LIKE THIS LIKE THAT](https://open.spotify.com/track/2yrfdCbkMEjP41qKoejhya) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [LIKE THIS LIKE THAT](https://open.spotify.com/album/2K2L4dD0jF4B274y3duqY0) | 2:31 |
 | 3 | [Up & Stuck](https://open.spotify.com/track/3BcKy00Bn0Dg289aRxyaE2) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Up & Stuck](https://open.spotify.com/album/5OPVh7jvp6aLaJT2qx40vn) | 2:43 |
 | 4 | [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 |

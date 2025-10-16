@@ -2733,8 +2733,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5vEutk4QWhncVtDa2xLe0L"
       },
       "artists": [
         {
@@ -3887,8 +3887,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Horse County",
+        "url": "https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS"
       },
       "artists": [
         {
@@ -5420,7 +5420,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 218839,
       "name": "Pick you up",
       "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
@@ -13889,6 +13889,24 @@
     },
     {
       "album": {
+        "name": "\u5f92\u7136 - Tsurezure",
+        "url": "https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156244,
+      "name": "\u5f92\u7136 - Tsurezure",
+      "url": "https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g"
+    },
+    {
+      "album": {
         "name": "\u5f98\u5f8a",
         "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
       },
@@ -14574,6 +14592,24 @@
       "duration_ms": 213191,
       "name": "\u6717\u6717",
       "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
+    },
+    {
+      "album": {
+        "name": "\u672a\u520a\u306e\u884c\u9032",
+        "url": "https://open.spotify.com/album/5cKxnU6oQhbyyiKTwlxjFO"
+      },
+      "artists": [
+        {
+          "name": "Yu Takahashi",
+          "url": "https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "\u672a\u520a\u306e\u884c\u9032",
+      "url": "https://open.spotify.com/track/597kPszXm2YkB9GZx131GG"
     },
     {
       "album": {

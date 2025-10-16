@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Oct 18:10 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Oct 18:11 UTC.
 
-5,656 songs - 13 day 3 hr 6 min
+5,657 songs - 13 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2639,7 +2639,7 @@
 | [Just Getting By, Pt\. 2](https://open.spotify.com/track/1UgGL75FJDEWMowAzILMOx) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Just Getting By, Pt\. 2](https://open.spotify.com/album/0d8HioxkuWiYfF2Fma9JoA) | 2:13 | 2024-07-12 | 2024-07-14 |
 | [just have PATIENCE](https://open.spotify.com/track/1idt9jqgfTMir2gRfVi6mg) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [just have PATIENCE](https://open.spotify.com/album/6JRMa3tSweP6kdYTeKN9mK) | 2:23 | 2025-06-03 | 2025-06-07 |
 | [Just How It Goes](https://open.spotify.com/track/7ERaWfzZyBrZzsCQxz60TB) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Just How It Goes](https://open.spotify.com/album/2Wjh2ei6fCItklUFsC5xcQ) | 5:13 | 2025-01-03 | 2025-01-17 |
-| [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-03 |  |
+| [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-03 | 2025-10-16 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-30 | 2025-06-09 |
 | [Just Like That](https://open.spotify.com/track/7lkty9PPa9DyezSj5aVI3T) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Just Like That](https://open.spotify.com/album/7Ix18Y6dOfDbCHl5pstpQ2) | 2:35 | 2024-10-10 | 2024-10-12 |
 | [Just My Imagination](https://open.spotify.com/track/0368lOMuZpoGPc2EslRoF5) | [Who's Who](https://open.spotify.com/artist/2tDdw93ry3nkCCLe6IsBm3), [Christopher Saint](https://open.spotify.com/artist/2AEUF7hpBuvR53wIJXhXk2) | [Just My Imagination](https://open.spotify.com/album/2L7cQcindSr0wakTO7RSAA) | 3:23 | 2024-10-01 | 2024-10-04 |
@@ -3606,6 +3606,7 @@
 | [Ostatnie](https://open.spotify.com/track/5tHuq9Fd9ASatOwM1JPyUL) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX), [Zespół Pieśni i Tańca Śląsk](https://open.spotify.com/artist/73L5GZ2KVgguSth6DnNNpU), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Ostatnie](https://open.spotify.com/album/50bgloJFexhFH0LijSJaL0) | 5:00 | 2024-09-12 | 2024-09-14 |
 | [othello](https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [othello](https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h) | 3:12 | 2025-04-11 | 2025-04-19 |
 | [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 | 2025-03-29 | 2025-04-05 |
+| [Our Parting Ways](https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Our Parting Ways](https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL) | 3:40 | 2025-10-15 |  |
 | [Our Promise \- Instrumental](https://open.spotify.com/track/0BWyR9sRFcVUt1RnWiyM92) | [IRyS](https://open.spotify.com/artist/7y1hO3QeftnOJmWCbzeZav), [Ceres Fauna](https://open.spotify.com/artist/76xXQq2nPiexRDstB9MY70), [Ouro Kronii](https://open.spotify.com/artist/1LLRRrE5gZ3964ThLvo2nu), [Nanashi Mumei](https://open.spotify.com/artist/3LWmimMpybGBGCjuvFqhAT), [Hakos Baelz](https://open.spotify.com/artist/3h5FLKIAPF9O96Sdz2j4Jb), [hololive English \-Promise\-](https://open.spotify.com/artist/57uZJwOo14YiRqK0ekqNyf) | [Our Promise](https://open.spotify.com/album/6vPOhImLKE16pWr21DNlxP) | 3:58 | 2024-06-18 | 2024-06-20 |
 | [out of body](https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [out of body](https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE) | 2:55 | 2025-09-26 | 2025-10-12 |
 | [Out of Control](https://open.spotify.com/track/5OEXWuoY67RwCvLojPAtPE) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [DREAMLIKE](https://open.spotify.com/album/6SEZODcAqs3POcivEfRJiX) | 3:32 | 2024-06-12 | 2024-06-14 |

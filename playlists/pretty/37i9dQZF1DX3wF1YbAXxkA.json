@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 120634,
+  "num_followers": 120669,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -705,24 +685,24 @@
       "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
     },
     {
-      "added_at": "2024-09-16 18:33:06",
+      "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "NASSY",
-        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
       "artists": [
         {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
         }
       ],
-      "duration_ms": 142767,
-      "name": "NASSY",
-      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -759,6 +739,26 @@
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
+    },
+    {
+      "added_at": "2024-09-16 18:33:06",
+      "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Allergy",
-        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Allergy",
-      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Silence Of Love",
         "url": "https://open.spotify.com/album/00UQmxp15bECetcjau5hTO"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 250000,
       "name": "Silence Of Love",
       "url": "https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Allergy",
+        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Allergy",
+      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Lost In Mumbai",
-        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Lost In Mumbai",
-      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "DESI TRILL (Remix)",
         "url": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 160645,
       "name": "DESI TRILL (Remix)",
       "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Lost In Mumbai",
+        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Lost In Mumbai",
+      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "BABE",
-        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 147920,
-      "name": "BABE",
-      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Looking For A Way Out (Of Del Rio)",
         "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 187613,
       "name": "Looking For A Way Out (Of Del Rio)",
       "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "BABE",
+        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 147920,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1789,22 +1789,6 @@
       "url": "https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit"
     },
     {
-      "added_at": "2024-10-15 21:01:54",
-      "album": {
-        "name": "Just My Luck / Tomorrow Man",
-        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Tomorrow Man",
-      "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Gwara Gwara",
@@ -1819,6 +1803,22 @@
       "duration_ms": 198533,
       "name": "Gwara Gwara",
       "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
+    },
+    {
+      "added_at": "2024-10-15 21:01:54",
+      "album": {
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Tomorrow Man",
+      "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
     },
     {
       "added_at": "2024-09-16 11:00:00",

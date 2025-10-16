@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,296 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,299 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 73 | [Never Gonna Run Away](https://open.spotify.com/track/6RaMCZqzgc9QIZdUJEwdu5) | [Brandon Woody](https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t) | [For The Love Of It All](https://open.spotify.com/album/6Ug4LyNXrVc7W1B4qZlKG4) | 6:51 |
 | 74 | [Flor de Lis \(Upside Down\)](https://open.spotify.com/track/1NUy3QgtzwdxaQ1beWHSK1) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Flor de Lis \(Upside Down\)](https://open.spotify.com/album/0OwNT4Lv1ViODTp9lI9r1K) | 5:37 |
 | 75 | [Nothing New](https://open.spotify.com/track/5lVa0Xk92kBLl1Pbg1Gf8Z) | [INSTANT ALTER](https://open.spotify.com/artist/4fKUw2uU0uGJJUe523yzIf), [Natasha Agrama](https://open.spotify.com/artist/5IPHEpzQLhUPfrqt4BatR5), [Emilio Modeste](https://open.spotify.com/artist/3nzBo4Edo33cChnzfyraEG) | [Nothing New](https://open.spotify.com/album/46FslfGTc7UaEi5sgmIjyn) | 5:21 |
-| 76 | [Everything That Isn’t](https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [Everything That Isn’t](https://open.spotify.com/album/152HIZKJspSoDCqZfqglop) | 4:13 |
+| 76 | [Everything That Isn’t](https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21) | [Everything That Isn’t](https://open.spotify.com/album/152HIZKJspSoDCqZfqglop) | 4:13 |
 | 77 | [WeMaj \(feat\. Rapsody\)](https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Come As You Are](https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ) | 2:21 |
 | 78 | [NOD YORC \(feat\. James Maddren\)](https://open.spotify.com/track/3Iev06PYajWQzH4CMQE78z) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [NOD YORC \(feat\. James Maddren\)](https://open.spotify.com/album/5g3r747VexI56BdgzoyQi2) | 5:41 |
 | 79 | [Flowers and Butterfly](https://open.spotify.com/track/0TnZDDsrZJHf05NMM6YkJW) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flowers and Butterfly](https://open.spotify.com/album/0a4ChujBi0qpoWUmu405J4) | 4:05 |

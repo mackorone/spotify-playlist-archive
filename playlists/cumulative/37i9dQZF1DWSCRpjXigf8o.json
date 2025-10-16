@@ -4844,7 +4844,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 208375,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/5wZJxky1QtCNqv4WyonHLG"
@@ -8484,6 +8484,24 @@
       "duration_ms": 205634,
       "name": "The End",
       "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+    },
+    {
+      "album": {
+        "name": "first light",
+        "url": "https://open.spotify.com/album/2Xszy3tyIDXRU7GfO1oS0U"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        }
+      ],
+      "date_added": "2025-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204438,
+      "name": "the end of us",
+      "url": "https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf"
     },
     {
       "album": {

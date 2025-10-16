@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-181 songs - 10 hr 57 min
+182 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Never hate you](https://open.spotify.com/track/3tx4KMR9xXVwOAINuoFdzr) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [POETIC](https://open.spotify.com/album/6abgwNSjwS5Y80uD5hR255) | 3:35 | 2022-11-03 | 2024-04-19 |
 | [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 | 2022-07-04 |  |
 | [Nowhere](https://open.spotify.com/track/4kTZxgvVmd7K7aHIWCbC9z) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Nowhere](https://open.spotify.com/album/3koUyscDUfW9sJsrdQZqk6) | 3:26 | 2023-08-05 | 2024-04-19 |
+| [October Rain](https://open.spotify.com/track/0tQAoHsU1R8pnKW5iKzSxG) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.1](https://open.spotify.com/album/4ISoc4JbHzVCKkOLcrl2O9) | 4:15 | 2025-10-15 |  |
 | [Only in the evening](https://open.spotify.com/track/2o87KX4RWcjQbikKl7MZIA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/3P7ArYxQfuMfjL9eF122Ka) | 3:10 | 2024-03-08 |  |
 | [Only in the evening](https://open.spotify.com/track/3WgM1bEvbblhkE4MTLbXUA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/6SVY8Ud5zymLWKQRh9GZeX) | 3:10 | 2022-07-04 | 2024-04-19 |
 | [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 | 2024-09-13 |  |

@@ -730,6 +730,36 @@
     {
       "album": {
         "name": "Everything We Ever Dreamed Of",
+        "url": "https://open.spotify.com/album/1AZ4d6wcNJtFAcOzLSyoyG"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        },
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190905,
+      "name": "Everything We Ever Dreamed Of",
+      "url": "https://open.spotify.com/track/3M7sdS0K9xOWZ8cSFqzxZx"
+    },
+    {
+      "album": {
+        "name": "Everything We Ever Dreamed Of",
         "url": "https://open.spotify.com/album/7jrG1Rv01z3GHnn1XMU56s"
       },
       "artists": [
@@ -752,7 +782,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 190905,
       "name": "Everything We Ever Dreamed Of",
       "url": "https://open.spotify.com/track/57OcQJFlL91Jzb7wSr8WLE"

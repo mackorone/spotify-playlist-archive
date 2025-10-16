@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Denny Caknan, NDX A.K.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,470 likes - 104 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,584 likes - 104 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

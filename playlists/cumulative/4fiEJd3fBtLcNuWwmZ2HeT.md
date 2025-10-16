@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-385 songs - 22 hr 13 min
+386 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2024-08-31 |  |
 | [I want to be poisoned by you and drown](https://open.spotify.com/track/1EXISH6kISEMaqXAoD8uEO) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [I want to be poisoned by you and drown](https://open.spotify.com/album/165uzoJNb4F27IaludLZCU) | 2:12 | 2024-10-14 |  |
 | [If...with tears in one's eyes](https://open.spotify.com/track/3OikLDf5WAJkVinnP30Cqp) | [SHAZNA](https://open.spotify.com/artist/1qWhc5xaI8R8Mv95ZY2rY6) | [Promise Eve](https://open.spotify.com/album/1fSiPEa4ZV41tivCVUqhcD) | 3:05 | 2025-09-25 |  |
+| [Illuminati](https://open.spotify.com/track/5cZrqkfTckgUAONHdRiuLv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Illuminati](https://open.spotify.com/album/0ywqgmOBttYXxvJlo78vDK) | 5:10 | 2025-10-15 |  |
 | [Inochi No Tabekata](https://open.spotify.com/track/0maSUktGFelOHPjTP8c1Kd) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 3:44 | 2023-01-29 |  |
 | [Instant](https://open.spotify.com/track/08hbdRyBT1P1SutVtzfnUP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:04 | 2023-11-27 |  |
 | [Instant death](https://open.spotify.com/track/6rKylVi61F1yekVG19hVE0) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Instant death](https://open.spotify.com/album/23LZUfEMmcstJAVP0WS0Mz) | 2:25 | 2024-07-23 |  |

@@ -2511,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177320,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/6S8TAM25chITwWVzlL7mlf"
+    },
+    {
+      "album": {
         "name": "First & Foremost",
         "url": "https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG"
       },

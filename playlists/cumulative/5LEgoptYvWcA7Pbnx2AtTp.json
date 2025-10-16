@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Dot",
+        "url": "https://open.spotify.com/album/4voc4nmHBjqM4Dm5rjMDUs"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Zachary Barker",
+          "url": "https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Disco Snails",
+      "url": "https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V"
+    },
+    {
+      "album": {
         "name": "Do It All The Time",
         "url": "https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS"
       },

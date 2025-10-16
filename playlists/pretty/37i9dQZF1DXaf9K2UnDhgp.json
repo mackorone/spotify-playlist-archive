@@ -1,13 +1,29 @@
 {
-  "description": "Riffing around the Christmas tree. ",
-  "num_followers": 239137,
+  "description": "Riffing around the Christmas tree with Fall Out Boy.",
+  "num_followers": 239126,
   "original_name": "Rock Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADDsj9lwFtGYOtYAZuX5Y6PQV4LR",
+  "snapshot_id": "AAAAAHfw51BJDOJpsbb7LGNLJp+wZNq3",
   "tracks": [
+    {
+      "added_at": "2025-10-15 04:00:14",
+      "album": {
+        "name": "It Feels Like Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 134795,
+      "name": "It Feels Like Christmas (Spotify Singles Holiday)",
+      "url": "https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq"
+    },
     {
       "added_at": "2025-10-14 20:20:48",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
     },
     {
+      "added_at": "2025-10-15 04:00:14",
+      "album": {
+        "name": "Last Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Last Christmas (Spotify Singles Holiday)",
+      "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
+    },
+    {
       "added_at": "2024-11-05 05:25:47",
       "album": {
         "name": "Gift Wrapped: 20 Songs That Keep On Giving",
@@ -39,22 +71,6 @@
       "duration_ms": 224586,
       "name": "All I Want for Christmas Is You - 2005",
       "url": "https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4"
-    },
-    {
-      "added_at": "2024-11-05 05:25:47",
-      "album": {
-        "name": "Christmas EP",
-        "url": "https://open.spotify.com/album/2doWCGfknSdgTc7pM1N6Rf"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Last Christmas - Studio Version",
-      "url": "https://open.spotify.com/track/4XktdsM5pn4QfzfIbQmbE2"
     },
     {
       "added_at": "2024-11-05 05:25:47",
@@ -811,6 +827,22 @@
     {
       "added_at": "2024-11-05 05:25:47",
       "album": {
+        "name": "Christmas EP",
+        "url": "https://open.spotify.com/album/2doWCGfknSdgTc7pM1N6Rf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Last Christmas - Studio Version",
+      "url": "https://open.spotify.com/track/4XktdsM5pn4QfzfIbQmbE2"
+    },
+    {
+      "added_at": "2024-11-05 05:25:47",
+      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/21Txm9MFkx4lEuO4h7CAFY"
       },
@@ -1555,30 +1587,6 @@
     {
       "added_at": "2024-11-05 05:25:47",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/2InfiszrMb4YWyXo3pIfyA"
-      },
-      "artists": [
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        },
-        {
-          "name": "Downer Inc.",
-          "url": "https://open.spotify.com/artist/5MPsaugll7lskvPsYaRvGr"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 246250,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/6ZGwQBPjikhN8L2xoDw9IF"
-    },
-    {
-      "added_at": "2024-11-05 05:25:47",
-      "album": {
         "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
         "url": "https://open.spotify.com/album/1Umb8lHSJUIXnF0bx9DlH2"
       },
@@ -1655,38 +1663,6 @@
       "duration_ms": 265013,
       "name": "No Christmas While I'm Talking",
       "url": "https://open.spotify.com/track/29h1ZIoHfHxsU4Eyjpu8je"
-    },
-    {
-      "added_at": "2024-11-05 05:25:47",
-      "album": {
-        "name": "Everything In Transit (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2tiKjIoifWlFXTlJJSB6kv"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "The Lights and Buzz - 2015 Remastered",
-      "url": "https://open.spotify.com/track/7pw7YBfcX0F3e0Pm4vkO0F"
-    },
-    {
-      "added_at": "2024-11-05 05:25:47",
-      "album": {
-        "name": "Break Like The Wind",
-        "url": "https://open.spotify.com/album/14xey59x8BvxPeTLoztAyV"
-      },
-      "artists": [
-        {
-          "name": "Spinal Tap",
-          "url": "https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn"
-        }
-      ],
-      "duration_ms": 273373,
-      "name": "Christmas With The Devil",
-      "url": "https://open.spotify.com/track/7dfdlrPQu0IBUnvdcLgnYt"
     }
   ],
   "unique_name": "Rock Christmas",

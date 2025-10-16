@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-394 songs - 1 day 12 hr 28 min
+395 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Kisi Roz \- From "Auron Mein Kahan Dum Tha"](https://open.spotify.com/track/32pFFYJ4Rhr7JoxupIen7p) | [Maithili Thakur](https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY), [M\. M\. Kreem](https://open.spotify.com/artist/5YewttB9YNwpp5u3SGrRER), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Kisi Roz \(From "Auron Mein Kahan Dum Tha"\)](https://open.spotify.com/album/4871XszA8zb4D0KrtYrmq3) | 5:11 | 2024-06-30 |  |
 | [Koyal](https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Koyal](https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw) | 3:28 | 2025-04-08 |  |
 | [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 | 2025-07-20 |
+| [Koyaliya Kook Sunave](https://open.spotify.com/track/7qtwHsQZ2fvmYezRmfmaL0) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Nandini Shankar](https://open.spotify.com/artist/0C2DP7uplGzdy1Y1Jsykal) | [Koyaliya Kook Sunave](https://open.spotify.com/album/79KTGruCDjxSAF9oFDWe9s) | 4:33 | 2025-10-10 |  |
 | [Koyeliya Kook Sunave](https://open.spotify.com/track/38UtZoKc7J5ZtMomrIzx7B) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Koyeliya Kook Sunave](https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg) | 4:34 | 2024-04-05 | 2024-05-29 |
 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 | 2022-05-17 | 2024-02-23 |
 | [Kuhu Kuhu Bole Koyalia](https://open.spotify.com/track/0XiwdXAtiAnKPUnCK72N5w) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 5:55 | 2023-09-28 | 2024-04-19 |
@@ -183,7 +184,7 @@
 | [Kyun Aise Rehti Hai](https://open.spotify.com/track/7CNN4EStQ8H0zEIvZHFMkP) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:49 | 2025-07-14 |  |
 | [Laage Re Nain](https://open.spotify.com/track/2CcDWQ91UP02tCJQBuYE8X) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Laage Re Nain](https://open.spotify.com/album/4bthXByXAgc3gD1zVRF4ix) | 4:30 | 2022-05-17 | 2023-09-12 |
 | [Laagi Lagan](https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Anuja Zokarkar](https://open.spotify.com/artist/41nGHynGUDOWMtq9aiIJpE) | [Laagi Lagan](https://open.spotify.com/album/0pe7KWucbu7xaHnjeq1mNY) | 4:15 | 2022-05-17 | 2023-03-04 |
-| [Lakh Jatan](https://open.spotify.com/track/6JtVsFD1cjpTcXfw4SCapB) | [Sameer Pandit](https://open.spotify.com/artist/5U7GaQbrU6aH7HWSXqhkvi) | [Lakh Jatan](https://open.spotify.com/album/3g6OcjSjtYcACkDFGK4ymH) | 3:11 | 2025-08-21 |  |
+| [Lakh Jatan](https://open.spotify.com/track/6JtVsFD1cjpTcXfw4SCapB) | [Sameer Pandit](https://open.spotify.com/artist/5U7GaQbrU6aH7HWSXqhkvi) | [Lakh Jatan](https://open.spotify.com/album/3g6OcjSjtYcACkDFGK4ymH) | 3:11 | 2025-08-21 | 2025-10-16 |
 | [Last Chance](https://open.spotify.com/track/4dXcDVX3HVQrHFyGE11wue) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Land Of Gold](https://open.spotify.com/album/4zPcbxBEKkZDEjsdbQoEJi) | 4:42 | 2022-05-17 | 2023-03-23 |
 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 | 2022-05-17 | 2023-08-29 |
 | [Lat Ulajhi](https://open.spotify.com/track/77477vF5I3QnC4lgpwYKS2) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f) | [Lat Ulajhi](https://open.spotify.com/album/4J8ezAfeDYpEYyLaQ56JGD) | 3:50 | 2022-05-17 | 2024-02-20 |

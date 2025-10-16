@@ -3705,6 +3705,28 @@
     },
     {
       "album": {
+        "name": "Koyaliya Kook Sunave",
+        "url": "https://open.spotify.com/album/79KTGruCDjxSAF9oFDWe9s"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+        },
+        {
+          "name": "Nandini Shankar",
+          "url": "https://open.spotify.com/artist/0C2DP7uplGzdy1Y1Jsykal"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Koyaliya Kook Sunave",
+      "url": "https://open.spotify.com/track/7qtwHsQZ2fvmYezRmfmaL0"
+    },
+    {
+      "album": {
         "name": "Koyeliya Kook Sunave",
         "url": "https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg"
       },
@@ -3882,7 +3904,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 191307,
       "name": "Lakh Jatan",
       "url": "https://open.spotify.com/track/6JtVsFD1cjpTcXfw4SCapB"

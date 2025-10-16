@@ -1,13 +1,77 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 239007,
+  "num_followers": 239017,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLqWj/cVHqtSNgavA1Qsq8V6G4w",
+  "snapshot_id": "AAAAANP+yyxJayuDpi6VLQTaTmqD7Nym",
   "tracks": [
+    {
+      "added_at": "2025-10-15 14:06:03",
+      "album": {
+        "name": "O Holy Night - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 180711,
+      "name": "O Holy Night - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q"
+    },
+    {
+      "added_at": "2025-10-15 14:06:03",
+      "album": {
+        "name": "O Come All Ye Faithful (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 185270,
+      "name": "O Come All Ye Faithful - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM"
+    },
+    {
+      "added_at": "2025-10-15 14:06:03",
+      "album": {
+        "name": "Last Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Last Christmas (Spotify Singles Holiday)",
+      "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
+    },
+    {
+      "added_at": "2025-10-15 14:06:03",
+      "album": {
+        "name": "Christmas Lights (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 202635,
+      "name": "Christmas Lights - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T"
+    },
     {
       "added_at": "2025-07-08 12:02:04",
       "album": {

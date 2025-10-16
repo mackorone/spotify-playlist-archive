@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Marine
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,436 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,710 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Miroir](https://open.spotify.com/track/5Fq5M0I9z4Whzw2BrssHBG) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Miroir](https://open.spotify.com/album/5TQ0ila42eW3Mp0rnc5vLS) | 2:40 |
 | 50 | [Pas besoin de toi](https://open.spotify.com/track/28NjRNl9MQ67pc6piNL8uZ) | [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Pas besoin de toi](https://open.spotify.com/album/1WOnAen8RbXgxclAukfOfe) | 2:28 |
 
-Snapshot ID: `AAAAANK1nzachWCDHQbLaU4zmNIHEKHe`
+Snapshot ID: `AAAAAKBjUpMMtqozNAm1m2inEL7hwAM9`

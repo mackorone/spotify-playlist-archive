@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for all your activities.
 
-1,583 songs - 3 day 22 hr 39 min
+1,585 songs - 3 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Back in Tulsa Again](https://open.spotify.com/track/5QmETBZy4QKilXKJepCS0Y) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [Back in Tulsa Again](https://open.spotify.com/album/6OxoaQXUrkUyxfxSRNXLNX) | 3:08 | 2024-06-17 | 2024-11-26 |
 | [Bad Timing](https://open.spotify.com/track/3smboUUIssl27LBnIjoC9I) | [Par Noir](https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9) | [Bad Timing](https://open.spotify.com/album/0vZujZQeKmVeR7VsFBNdi3) | 3:18 | 2024-06-03 | 2025-01-21 |
 | [Bag's Groove](https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:40 | 2022-01-17 | 2022-11-11 |
+| [Balcony Blues](https://open.spotify.com/track/441cKPbK8JCwKRipUKJVCp) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Balcony Blues](https://open.spotify.com/album/7HLjNFPf97U76176Hy4RIW) | 3:27 | 2025-10-15 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-02-14 | 2022-08-17 |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2022-01-17 | 2022-11-25 |
 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 | 2022-01-17 | 2022-12-02 |
@@ -401,6 +402,7 @@
 | [Eyes of a Child](https://open.spotify.com/track/0TWnrAQP2ehkJhU0kM2XXS) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Eyes of a Child](https://open.spotify.com/album/192KYOfZZHuXaos0vDzf7Z) | 3:00 | 2024-08-19 |  |
 | [Faded Moment](https://open.spotify.com/track/4Q0ZXubqmxlZEKSDXQwe7O) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Faded Moment](https://open.spotify.com/album/0q3q8lgUdNuIx63NpBzlIm) | 2:38 | 2023-03-24 |  |
 | [Fading](https://open.spotify.com/track/1ArhjWwJQ0xsNEfcsOIwpF) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Fading](https://open.spotify.com/album/4MSyGS3o1sJerFoHkvOAKJ) | 3:18 | 2025-02-24 |  |
+| [Fading light](https://open.spotify.com/track/2GAdbfgaUBYIIPDoWPxvSO) | [Blue Hour Theory](https://open.spotify.com/artist/2HRFwBMwsqAMf7c6xFhz2H) | [Fading light](https://open.spotify.com/album/3mLDkUCSOPaDn4t3q8b0w6) | 2:35 | 2025-10-15 |  |
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2022-01-17 | 2023-04-21 |
 | [Fading Skies](https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Fading Skies](https://open.spotify.com/album/10t4J4mFT0ChaEJUnSYpdF) | 3:01 | 2023-10-20 | 2025-07-16 |
 | [Fain](https://open.spotify.com/track/5McpxKNwTXzvnrvFCb2Bza) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Fain](https://open.spotify.com/album/6vFy7x4QJKpHe6My1CW4Gh) | 3:44 | 2025-03-03 |  |
@@ -498,7 +500,7 @@
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-01-17 | 2025-01-21 |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-03-30 | 2025-07-16 |
 | [Harness Your Love](https://open.spotify.com/track/3BRHCdQZeVwUj3J6evUKEF) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [If You Love Me](https://open.spotify.com/album/6Jzn1W3g575lrC847GFzqh) | 2:43 | 2023-04-13 | 2025-07-16 |
-| [Have Faith in Me](https://open.spotify.com/track/7yHL8icna5M5UL1buEUlNW) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Have Faith in Me](https://open.spotify.com/album/3nGpzHh9kKvqmKRrMRCdeQ) | 3:52 | 2025-01-27 |  |
+| [Have Faith in Me](https://open.spotify.com/track/7yHL8icna5M5UL1buEUlNW) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Have Faith in Me](https://open.spotify.com/album/3nGpzHh9kKvqmKRrMRCdeQ) | 3:52 | 2025-01-27 | 2025-10-16 |
 | [Have You Met Miss Jones](https://open.spotify.com/track/6aoLCgYA8ZbqSu1raQ3uJI) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Have You Met Miss Jones](https://open.spotify.com/album/7dykJj6Io1cYijnvaA7VkG) | 3:19 | 2025-03-24 | 2025-07-16 |
 | [Hay Square Serenade](https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Hay Square Serenade](https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr) | 3:48 | 2024-02-02 | 2024-10-15 |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-05-24 | 2025-01-28 |
@@ -767,7 +769,7 @@
 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 | 2022-01-17 | 2025-03-04 |
 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 | 2022-01-17 | 2024-07-27 |
 | [Lone Pine](https://open.spotify.com/track/6n53sSnd8THaUSPvAOEMY7) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Lone Pine](https://open.spotify.com/album/7nFMmdQmPvYMhOA3khr8wI) | 3:00 | 2024-03-22 | 2024-11-26 |
-| [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |
+| [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 | 2025-10-16 |
 | [Lonely Avenue](https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Lonely Avenue](https://open.spotify.com/album/3IYk8IZhaNiz2JETes8Cbd) | 3:39 | 2024-02-02 | 2024-08-20 |
 | [Lonely Dreams](https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Lonely Dreams](https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5) | 3:37 | 2022-11-17 | 2024-06-04 |
 | [Long Ago And Far Away](https://open.spotify.com/track/4E8iJLPtZiIHvquh0rf0f5) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Long Ago And Far Away](https://open.spotify.com/album/579pCXCY423zV2a3ReVko9) | 3:25 | 2022-10-27 | 2025-07-16 |

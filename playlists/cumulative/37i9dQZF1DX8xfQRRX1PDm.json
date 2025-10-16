@@ -2267,6 +2267,36 @@
     },
     {
       "album": {
+        "name": "Dilbar Ki Aankhon Ka (From \"Thamma\")",
+        "url": "https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Dilbar Ki Aankhon Ka (From \"Thamma\")",
+      "url": "https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2"
+    },
+    {
+      "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },
@@ -7376,7 +7406,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 226501,
       "name": "Zingaat",
       "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"

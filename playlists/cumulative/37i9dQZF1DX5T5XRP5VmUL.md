@@ -4,7 +4,7 @@
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-374 songs - 20 hr 16 min
+375 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 | 2021-12-24 | 2023-05-23 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2023-10-13 |  |
 | [christmas lights](https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [christmas lights](https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV) | 4:28 | 2023-11-17 |  |
+| [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 | 2025-10-15 |  |
 | [Christmas Love](https://open.spotify.com/track/0YukTlbDJPeR8GMaBYPP9S) | [The Dears](https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX) | [Christmas Love b/w O Little Town of Bethlehem](https://open.spotify.com/album/25mCaiPEEDnLRorNuDtzww) | 5:04 | 2021-12-24 | 2022-07-02 |
 | [Christmas Mistletoe](https://open.spotify.com/track/1wQL9RDfMNXoCKNmtA0xrW) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Christmas Mistletoe](https://open.spotify.com/album/4ZReXPucygstGyAsdPrG25) | 3:16 | 2021-12-24 | 2022-07-27 |
 | [Christmas Morning is Finally Here!](https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Yet Another BROS Christmas](https://open.spotify.com/album/38NS7xdd19T0kWT89XDTmZ) | 2:25 | 2021-12-24 | 2023-04-10 |
@@ -235,7 +236,7 @@
 | [Merry Christmas Everybody](https://open.spotify.com/track/5y4tLbaZJ4Yzy5W5Flksmk) | [Eleven Past One](https://open.spotify.com/artist/3nkE7E51pOn9kif5cyC2eb) | [Merry Christmas Everybody](https://open.spotify.com/album/1yupCayowArixzFoXupKoz) | 3:16 | 2021-12-24 | 2022-07-27 |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 | 2023-10-13 |  |
 | [Merry Christmas, Happy New Year](https://open.spotify.com/track/5rvi6rttNhcEfEpCQqFKLE) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Merry Christmas, Happy New Year](https://open.spotify.com/album/1TRyUUDjB1rKdtGN60dwhl) | 4:08 | 2022-11-04 | 2023-06-03 |
-| [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 | 2024-12-24 |  |
+| [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 | 2024-12-24 | 2025-10-16 |
 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 | 2023-10-13 | 2024-10-26 |
 | [Miss Christmas](https://open.spotify.com/track/5atM92gismXIqb3IVRIEov) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Bientôt ce sera Noël](https://open.spotify.com/album/4VQhmcigTJIL2XljKIzeva) | 3:32 | 2021-12-24 | 2022-10-30 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-24 |  |

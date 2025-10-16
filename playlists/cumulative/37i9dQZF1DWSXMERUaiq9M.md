@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-570 songs - 1 day 11 hr 6 min
+571 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/track/74859SONTVsXf1Cpdl8t3g) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/album/4N1XvwsjPGm2ghapARnpn3) | 3:39 | 2023-11-09 | 2023-11-17 |
 | [Lalala \- 4am Club Mix](https://open.spotify.com/track/2BrjxcaFVwTVyObNix7d5W) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz), [Zinda Reinhardt](https://open.spotify.com/artist/5UwjmM9lYXJ4RIyabSSE8s) | [Lalala](https://open.spotify.com/album/78tFhBC20K9FouxalWWWAK) | 5:36 | 2024-12-28 | 2025-01-07 |
 | [Last Time Under Purple Skies](https://open.spotify.com/track/1JYACIHJjFOUzOnbxUBmLm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Last Time Under Purple Skies](https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr) | 3:21 | 2025-01-30 | 2025-03-04 |
-| [Late At Night](https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/4K6cOnk67OJZAbFS3maaJf) | 2:36 | 2025-06-20 |  |
+| [Late At Night](https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/4K6cOnk67OJZAbFS3maaJf) | 2:36 | 2025-06-20 | 2025-10-16 |
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
 | [Left On Read](https://open.spotify.com/track/6KNrgoXljii0isy9i7JaqP) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:10 | 2024-10-10 | 2024-10-18 |
 | [Let UwU Go](https://open.spotify.com/track/3QSBy7qDcKaBCCLxNCvSRe) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt) | [Let UwU Go](https://open.spotify.com/album/0XPTuN0nuRwzgbSGJod0Gg) | 2:55 | 2023-11-23 | 2023-12-01 |
@@ -400,6 +400,7 @@
 | [Poquito Mas](https://open.spotify.com/track/2V4jyBmBxM0MaXTBXVetUn) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Poquito Mas](https://open.spotify.com/album/09CzBTBu3McSmI04jHbMEq) | 3:32 | 2024-12-28 | 2025-01-07 |
 | [Power 2 Tha People](https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Return of the Golden Funk](https://open.spotify.com/album/2FHptZi8FfJvJa8rr7RbWK) | 5:44 | 2023-03-10 | 2023-03-22 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-14 | 2024-08-02 |
+| [Pretty Friends](https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Pretty Friends](https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp) | 1:59 | 2025-10-10 |  |
 | [Pretty Green Eyes \- Extended Mix](https://open.spotify.com/track/4cmtzpUp918D4XOGD43fzo) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 6:53 | 2024-12-28 | 2025-01-07 |
 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 | 2023-06-22 | 2024-05-24 |
 | [Promises](https://open.spotify.com/track/3z1fidS7QtOfR2Y7EIqP2L) | [Liah](https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi), [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv) | [Promises](https://open.spotify.com/album/6ynt21bDpHrHaSlqyq2gWx) | 2:20 | 2023-06-15 | 2023-08-05 |

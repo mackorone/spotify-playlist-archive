@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,624 likes - 276 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,618 likes - 276 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

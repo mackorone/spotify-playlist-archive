@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Cozy Christmas vibes. Cover: Lyn Lapid",
+  "description": "Cozy Christmas vibes. Cover: Sofia Camara",
   "name": "Mellow Christmas",
   "tracks": [
     {
@@ -482,6 +482,24 @@
       "duration_ms": 196253,
       "name": "Christmas Isn't Christmas",
       "url": "https://open.spotify.com/track/2CcKj9jycmP3i4ommID7wL"
+    },
+    {
+      "album": {
+        "name": "Christmas Lights (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202635,
+      "name": "Christmas Lights - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T"
     },
     {
       "album": {
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 320760,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
@@ -1852,6 +1870,24 @@
       "duration_ms": 278775,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6bHLe3rfMqYBmlJnvhyFS9"
+    },
+    {
+      "album": {
+        "name": "O Holy Night - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180711,
+      "name": "O Holy Night - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q"
     },
     {
       "album": {
@@ -2130,7 +2166,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 242866,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/3ozttElSI0x31gVQYnRPLs"

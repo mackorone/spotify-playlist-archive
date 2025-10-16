@@ -4,12 +4,14 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-73 songs - 4 hr 27 min
+77 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Nightmare On Elm Street](https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc) | [Spooky Orchestra](https://open.spotify.com/artist/2UBjlPiaNy9vMWp3mabXTW) | [Horror Movie Themes](https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S) | 2:07 | 2021-12-15 |  |
 | [Agatha's Theme \- From "Agatha All Along"](https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha's Theme \(From "Agatha All Along"\)](https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1) | 2:11 | 2024-10-04 |  |
+| [Alien: Romulus Suite](https://open.spotify.com/track/3gM0ELRc4PvDZ2RMrRmQm1) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus Suite EP](https://open.spotify.com/album/2Tnrgt3HIHNddvftg9lroa) | 13:49 | 2025-10-15 |  |
+| [Anemone](https://open.spotify.com/track/4BJldz538I9DNQHYfizTWX) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [Anemone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vlPwRh3MG46pwuh8jQVm8) | 5:04 | 2025-10-15 |  |
 | [Ave Satani \- From "The Omen"](https://open.spotify.com/track/35SNWrNveMTGBleOQ0i97l) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Varèse Sarabande: 40 Years of Great Film Music 1978\-2018](https://open.spotify.com/album/4KutdJWvtiOQwTbGxK2DXU) | 2:34 | 2021-12-15 | 2022-11-13 |
 | [Ave Satani \- From "The Omen"](https://open.spotify.com/track/2n2Uugl3wR9s2pYjIKbbL9) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Omen \(The Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mt098QxrMToyd5GIbJzdm) | 2:35 | 2021-12-15 | 2024-04-19 |
 | [Bagman Main Title](https://open.spotify.com/track/6kYndH7CwSzuZcitSXDZ67) | [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Bagman \(Original Motion Picture Score\)](https://open.spotify.com/album/31gOi5lxTcVv9DJpFdoC9o) | 2:07 | 2024-10-04 |  |
@@ -53,6 +55,7 @@
 | [Side A](https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 20:08 | 2021-12-15 | 2024-04-19 |
 | [Side A](https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt) | [David Lynch & Alan R\. Splet](https://open.spotify.com/artist/29O0eYoRjupuO4wth6D0k7) | [Eraserhead Soundtrack](https://open.spotify.com/album/1l0NtS7ohVK9xqByCKVSlQ) | 20:08 | 2021-12-15 |  |
 | [Sidney's Lament \- From "Scream"](https://open.spotify.com/track/0V7wkk4c6GUJyVs8Ou2XpF) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [Scream And Scream 2 \(Music From The Dimension Motion Pictures\)](https://open.spotify.com/album/6O5CLPCsZzKLSqyCo0XbJS) | 1:37 | 2024-03-26 |  |
+| [Start](https://open.spotify.com/track/2nnbS5LoXq3hgcl17UXIqg) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly) | [The Long Walk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/299JMlozzQsRunxVSje81v) | 1:42 | 2025-10-15 |  |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2021-12-15 |  |
 | [Suspiria \- Originale](https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria](https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg) | 6:02 | 2021-12-15 |  |
 | [Tea for Three Plus One](https://open.spotify.com/track/1JSDvcMOMu0y4FLEs3kHl7) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [The Woman in Black \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zp55qqSmLS37hCVfqPleV) | 1:40 | 2024-03-26 | 2024-04-19 |
@@ -62,6 +65,7 @@
 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 | 2024-03-26 |  |
 | [The Legend of Ashitaka](https://open.spotify.com/track/6JqEDCqvAQx4F1D8TuQMw1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 1:39 | 2024-10-04 |  |
 | [The Omen \- Ave Santani](https://open.spotify.com/track/2FjW6XLCZCQORjl2RQpIMP) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Omen \- Deluxe Edition](https://open.spotify.com/album/5wuC3fOv5p1g4GgIpoNHHt) | 2:35 | 2021-12-15 |  |
+| [The Pattern](https://open.spotify.com/track/7erZ2gViLmk7nh5wMxzk8P) | [Marie\-Hélène L\. Delorme](https://open.spotify.com/artist/4uAWtRkxSbiWIzyF8tCvWB) | [Wayward \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3vof1aWYyf2cZsgxe52wOX) | 3:51 | 2025-10-15 |  |
 | [THE SHINING](https://open.spotify.com/track/5CLs2ZsEMPVSEgWOD3sVFE) | [101 Strings Orchestra](https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE) | [HORROR MOVIE BEST SELECTION \- FRIDAY THE 13TH \-](https://open.spotify.com/album/3YAiVfJ5pp30Sgq62GieHQ) | 2:55 | 2021-12-15 | 2024-04-19 |
 | [The Shock](https://open.spotify.com/track/7ywQ5kMHhMIzPnq1pWnx4P) | [Libra](https://open.spotify.com/artist/5NcUfLgHkxGWEUgG30Rkz2) | [Shock](https://open.spotify.com/album/7d38p5xz6uCm4PZInK3EmA) | 4:10 | 2021-12-15 |  |
 | [The Shock](https://open.spotify.com/track/5dBCwVCqra4ld5e0mXKI84) | [Libra](https://open.spotify.com/artist/40TMqq78lcuRecnDO2PaYG) | [Shock \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Za0FtIVPP7xQI1IxyK9NP) | 4:10 | 2021-12-15 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Victor Ray",
-  "num_followers": 77600,
+  "num_followers": 77603,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
+        "name": "Dendam",
+        "url": "https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn"
+      },
+      "artists": [
+        {
+          "name": "Firdaus Rahmat",
+          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
+        }
+      ],
+      "duration_ms": 219465,
+      "name": "Dendam",
+      "url": "https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
         "name": "Mamulengo",
         "url": "https://open.spotify.com/album/6PCJ0Y9gF37PgbBHFJUK7p"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 121333,
       "name": "Mamulengo",
       "url": "https://open.spotify.com/track/7fInbajkdujX3jNoaRMITl"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
-        "name": "Dendam",
-        "url": "https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn"
-      },
-      "artists": [
-        {
-          "name": "Firdaus Rahmat",
-          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
-        }
-      ],
-      "duration_ms": 219465,
-      "name": "Dendam",
-      "url": "https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K"
     },
     {
       "added_at": "2025-10-01 08:00:31",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "favourite jeans",
+      "url": "https://open.spotify.com/track/4AuTXxUCBb3hUTowdXTRtm"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
         "name": "twenty three",
         "url": "https://open.spotify.com/album/3UXfEeyTSTziQL6AVITSsA"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 229429,
       "name": "twenty three",
       "url": "https://open.spotify.com/track/3CrSjYWQn1MYLDRbNaBzzn"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 208461,
-      "name": "favourite jeans",
-      "url": "https://open.spotify.com/track/4AuTXxUCBb3hUTowdXTRtm"
     },
     {
       "added_at": "2025-10-01 08:00:31",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
-        "name": "VIBEX",
-        "url": "https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91"
+        "name": "Hari Ini, Esok & Selamanya",
+        "url": "https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ"
       },
       "artists": [
         {
-          "name": "UNIVERSE",
-          "url": "https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV"
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
         }
       ],
-      "duration_ms": 99955,
-      "name": "VIBEX",
-      "url": "https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4"
+      "duration_ms": 284400,
+      "name": "Pengagum",
+      "url": "https://open.spotify.com/track/4bDVT4vPR2KM2RdOV4mTJL"
     },
     {
       "added_at": "2025-10-01 08:00:31",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
-        "name": "Hari Ini, Esok & Selamanya",
-        "url": "https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ"
+        "name": "VIBEX",
+        "url": "https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91"
       },
       "artists": [
         {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+          "name": "UNIVERSE",
+          "url": "https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV"
         }
       ],
-      "duration_ms": 284400,
-      "name": "Pengagum",
-      "url": "https://open.spotify.com/track/4bDVT4vPR2KM2RdOV4mTJL"
+      "duration_ms": 99955,
+      "name": "VIBEX",
+      "url": "https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4"
     },
     {
       "added_at": "2025-10-01 08:00:31",

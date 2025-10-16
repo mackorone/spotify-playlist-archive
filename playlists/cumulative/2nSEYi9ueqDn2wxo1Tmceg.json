@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Allnighter",
+        "url": "https://open.spotify.com/album/42VsfS8QjkHZs5qmjM9iy6"
+      },
+      "artists": [
+        {
+          "name": "Twen",
+          "url": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256495,
+      "name": "Allnighter",
+      "url": "https://open.spotify.com/track/4fXN5gRj2iszjV6D11joop"
+    },
+    {
+      "album": {
         "name": "Xandri",
         "url": "https://open.spotify.com/album/1WAbGJ9woxMohvlgKZfAUl"
       },
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 183960,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/6UYzOKGh4hXae0reTWKK24"
@@ -7295,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Don't Trust Mirrors",
+        "url": "https://open.spotify.com/album/28npNYRc0n2EYmv56rnzSY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278028,
+      "name": "Echo in the Field",
+      "url": "https://open.spotify.com/track/4xIOeiLTEaoKFsD8JrCdPw"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
       },
@@ -10502,6 +10538,28 @@
       "duration_ms": 335474,
       "name": "Graucha Max",
       "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
+    },
+    {
+      "album": {
+        "name": "greaser (panda bear version)",
+        "url": "https://open.spotify.com/album/0eoyY6G0EsIzP1cyQ0sDnk"
+      },
+      "artists": [
+        {
+          "name": "The Crying Nudes",
+          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "greaser (panda bear version)",
+      "url": "https://open.spotify.com/track/7Dx2ZULFEpBUNU1hlSzNu7"
     },
     {
       "album": {
@@ -15907,6 +15965,28 @@
     },
     {
       "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251575,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
+    },
+    {
+      "album": {
         "name": "Arkhon",
         "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
       },
@@ -16468,7 +16548,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 171112,
       "name": "Man\u00eda",
       "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
@@ -17766,7 +17846,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 155150,
       "name": "M\u00e1gica",
       "url": "https://open.spotify.com/track/6YeREUsdPr4u4wmZ7cuGE6"
@@ -29506,7 +29586,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 270453,
       "name": "Zoology",
       "url": "https://open.spotify.com/track/3IIZPwg2dxQlXUd1iqnmVf"

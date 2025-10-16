@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some calm and slow Jazz
 
-736 songs - 1 day 19 hr 36 min
+737 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 | 2024-11-06 |
 | [Mysterious Letters](https://open.spotify.com/track/3Yy1WSxT3tVEYrAD5EXwoF) | [Simple Paradise](https://open.spotify.com/artist/6lvIL2hc3kaKcKZg0HAGm4) | [Mysterious Letters](https://open.spotify.com/album/5N9omwWeZmRbEsUrsyHcTD) | 3:47 | 2024-08-06 | 2025-07-16 |
 | [Mystique](https://open.spotify.com/track/30lmTGE7dF3Pzz9jqnTJjW) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Mystique](https://open.spotify.com/album/0OU10iqaBUVDglf8IfEG28) | 4:51 | 2024-06-17 | 2024-08-13 |
+| [Mälaren](https://open.spotify.com/track/46UFUx0APsOYeIpfNMjtTP) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Mälaren](https://open.spotify.com/album/2QtaCX9nG6L3hN8bUBgz8I) | 3:01 | 2025-10-15 |  |
 | [Need You Here](https://open.spotify.com/track/6U31miey75JtdzenSiTToi) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Need You Here](https://open.spotify.com/album/5fb0JVW12CPXXIZQ4LIcW4) | 4:08 | 2024-04-10 | 2025-01-21 |
 | [Nevermore](https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Reimagine](https://open.spotify.com/album/3jBOhHMWIVsCGsexc7JgGy) | 4:14 | 2024-12-09 | 2025-03-04 |
 | [New Day](https://open.spotify.com/track/1Qiyu2GJvxBWkFF9z0Rhx5) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [New Day](https://open.spotify.com/album/2BMJLFX0u1cvluUuTGq8Zy) | 2:37 | 2023-09-29 | 2024-08-27 |
@@ -445,7 +446,7 @@
 | [Not About That](https://open.spotify.com/track/71TNaQoForBRrgDavHCAzr) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Not About That](https://open.spotify.com/album/4qoTyKAwkt0pUYXH17ew25) | 3:19 | 2024-04-23 | 2024-08-20 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
 | [Nothing But Elegant](https://open.spotify.com/track/58Q2Hb5b9P952cBon5gwnA) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Nothing But Elegant](https://open.spotify.com/album/37zUfQAczCkASpy7gHJWDH) | 3:27 | 2024-05-23 | 2025-07-16 |
-| [November Fall](https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad) | [Farmer Street Quartet](https://open.spotify.com/artist/7rF2UMGa1Egx35lgjungrD) | [November Fall](https://open.spotify.com/album/0W0UhyUlgkAeNLe0qrM3JE) | 3:58 | 2024-01-19 |  |
+| [November Fall](https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad) | [Farmer Street Quartet](https://open.spotify.com/artist/7rF2UMGa1Egx35lgjungrD) | [November Fall](https://open.spotify.com/album/0W0UhyUlgkAeNLe0qrM3JE) | 3:58 | 2024-01-19 | 2025-10-16 |
 | [Nowhere To Go](https://open.spotify.com/track/30qiKII7quQgj7xBz9hL74) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Nowhere To Go](https://open.spotify.com/album/65hkYKJukpRB7kvDFbewtr) | 2:44 | 2023-08-10 |  |
 | [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2022-05-17 | 2023-09-10 |
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-12 | 2025-05-20 |

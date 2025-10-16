@@ -4,7 +4,7 @@
 
 > 
 
-7,818 songs - 20 day 4 hr 18 min
+7,820 songs - 20 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [And the Beat Goes On](https://open.spotify.com/track/71g6mvXUAQuBhiIE4o5Kqg) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [A Night to Remember \(Mixed By Tony Okungbowa & Jojoflores\)](https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE) | 3:01 | 2025-01-15 |  |
 | [Andromeda \(feat\. DRAM\)](https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:17 | 2025-02-03 |  |
 | [ANGEL](https://open.spotify.com/track/4mgSk2zxeT03FLtSlnzxwt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:39 | 2024-12-10 |  |
+| [Angel \#48](https://open.spotify.com/track/721VUrqzx4JvJb2lSOBjPu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:15 | 2025-10-15 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2025-04-18 |  |
 | [Angel Dust](https://open.spotify.com/track/1RkPqBGgFNPxdzlGD2Ar0m) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:42 | 2025-01-04 |  |
 | [Angel's Share](https://open.spotify.com/track/0MFky4zpOENxfUb35EK6rx) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:53 | 2025-03-23 |  |
@@ -5640,6 +5641,7 @@
 | [sunny days](https://open.spotify.com/track/3URe1bi21ftFK4zh5nO1P1) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 4:08 | 2025-01-15 |  |
 | [SUNNYSIDE CRUISE](https://open.spotify.com/track/5pbY3t5dcbmpOPhzxhg44R) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [Welcome to the Rose Garden](https://open.spotify.com/album/7B5Fsyd9jIU6AU73mvouTf) | 5:33 | 2025-01-20 |  |
 | [Sunrays](https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Sunrays](https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz) | 2:12 | 2025-04-29 |  |
+| [Sunrise](https://open.spotify.com/track/31ihTxEFH8iLwYuXiXTyK8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Time for us](https://open.spotify.com/album/4riaU6GV6byR8wt1GT9tEg) | 3:36 | 2025-10-15 |  |
 | [SUNSET](https://open.spotify.com/track/5QBMMVGf7FahkNOVHgiFR8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:42 | 2025-01-15 |  |
 | [Sunset Bridge](https://open.spotify.com/track/6uwDURXSKKIHAgE9k8PixF) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 1:40 | 2025-04-20 |  |
 | [Sunshine Beach](https://open.spotify.com/track/1fyDpdIbE81qHFuAVf5LB5) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage \(Original Game Soundtrack\)](https://open.spotify.com/album/3Zw9PiPgAvNtNUnusZAcva) | 1:51 | 2025-07-28 |  |

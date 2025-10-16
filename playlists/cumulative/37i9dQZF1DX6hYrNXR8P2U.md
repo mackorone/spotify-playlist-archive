@@ -4,7 +4,7 @@
 
 > porque sí.<br/>📷 tatool y Trueno
 
-549 songs - 1 day 4 hr 45 min
+550 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [No me claves](https://open.spotify.com/track/4NkxgpbJuQZEqbF29rS1zH) | [BUCHE](https://open.spotify.com/artist/3DIsbiQexuwLqWMZThLmDg) | [No me claves](https://open.spotify.com/album/5xlvVCq689XNm6UkUX5vS7) | 4:04 | 2025-04-25 | 2025-09-02 |
 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 | 2024-11-29 | 2025-07-05 |
 | [no me mires así](https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [no me mires así](https://open.spotify.com/album/5pSoAsZRO5zgZXQGsQ7tSo) | 2:26 | 2025-08-18 |  |
+| [No me quiero ver](https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [No me quiero ver](https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a) | 1:51 | 2025-10-15 |  |
 | [NO ME SORPRENDE](https://open.spotify.com/track/0s5FgdxYJm0tB68OICOglY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:30 | 2023-10-13 | 2024-02-24 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-07-25 |  |
 | [No Pierdas La Cabeza](https://open.spotify.com/track/70u5gYrZTFuhlWELo9N78s) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [No Pierdas La Cabeza](https://open.spotify.com/album/4NdURclkNchMSMklnDxCN0) | 4:17 | 2024-02-01 | 2024-04-06 |

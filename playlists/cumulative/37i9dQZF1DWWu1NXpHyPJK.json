@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Lief",
+        "url": "https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP"
+      },
+      "artists": [
+        {
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284093,
+      "name": "'k Heb Je Lief",
+      "url": "https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3"
+    },
+    {
+      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 204586,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX"

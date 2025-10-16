@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Jazzy
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,337 likes - 172 songs - 8 hr 54 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,336 likes - 172 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

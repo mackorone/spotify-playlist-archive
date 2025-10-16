@@ -1,13 +1,29 @@
 {
-  "description": "Your soundtrack for a not-so-silent night.",
-  "num_followers": 143555,
+  "description": "Your soundtrack for a not-so-silent night. Cover: Poppy",
+  "num_followers": 143554,
   "original_name": "Metal Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANgJ0sOGW+XPattEVHdwsf1Gkpkq",
+  "snapshot_id": "AAAAACaNd14GoI7eGOKJQrgk+VqmjEI3",
   "tracks": [
+    {
+      "added_at": "2025-10-15 04:00:13",
+      "album": {
+        "name": "Last Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Last Christmas (Spotify Singles Holiday)",
+      "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
+    },
     {
       "added_at": "2024-11-05 05:30:57",
       "album": {
@@ -1299,22 +1315,6 @@
       "duration_ms": 187973,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP"
-    },
-    {
-      "added_at": "2024-11-05 05:30:57",
-      "album": {
-        "name": "Halford III - Winter Songs",
-        "url": "https://open.spotify.com/album/4qZcP2fz0FT01T1dUTWL98"
-      },
-      "artists": [
-        {
-          "name": "Halford",
-          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/43PHqZVeSkLEN6Tsjq8h9d"
     },
     {
       "added_at": "2024-11-05 05:30:57",

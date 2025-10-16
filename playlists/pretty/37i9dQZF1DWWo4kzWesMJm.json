@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 177421,
+  "num_followers": 177428,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
-      },
-      "artists": [
-        {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "Lady M\u00e9lody",
-      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 209000,
       "name": "Belle demoiselle",
       "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Lady M\u00e9lody",
+      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Juste Comme \u00c7a",
-        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
-      },
-      "artists": [
-        {
-          "name": "Mickael Miro",
-          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "L'horloge tourne",
-      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Divinidylle",
         "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 159186,
       "name": "Divine idylle",
       "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Juste Comme \u00c7a",
+        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
+      },
+      "artists": [
+        {
+          "name": "Mickael Miro",
+          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "L'horloge tourne",
+      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -899,7 +899,7 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Le Vagabond",
+        "name": "Le vagabond",
         "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-314 songs - 1 day 3 hr 26 min
+315 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Dark Side](https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [Dark Side](https://open.spotify.com/album/5kKeGfAjPzBuANhCfhAJ0e) | 4:16 | 2022-04-22 | 2022-07-29 |
 | [Darkside](https://open.spotify.com/track/3vYU3g6y2L0brDR3nt8F5d) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [SPARKS](https://open.spotify.com/artist/7CNgXa0k7ieLtaynmrgUBl) | [Darkside](https://open.spotify.com/album/3vXkiXQge96O332xl5hoSt) | 3:21 | 2022-09-09 | 2022-09-30 |
 | [Daylight](https://open.spotify.com/track/3ZgDqrgYjTGSTqb0AZtcc0) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [ALY](https://open.spotify.com/artist/7mAoNqdajE6YXCeH0GxzDG) | [Unreal Scapes](https://open.spotify.com/album/62cs9S5l8Ivtvv2er3g8Bc) | 4:17 | 2022-04-15 | 2022-05-18 |
+| [Deeper](https://open.spotify.com/track/4yCa0360R21JScXkQ5H7aA) | [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Eddie Bitar](https://open.spotify.com/artist/2lYqW6goFxy80hB83z69nT), [Jennifer June](https://open.spotify.com/artist/2cajIeFCEjx5pOI7BgUqND) | [Deeper](https://open.spotify.com/album/5vpolLJLleSrU4fXCzA4V4) | 6:00 | 2025-08-15 |  |
 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 | 2023-09-14 | 2025-10-15 |
 | [Dont Blame Me](https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dont Blame Me](https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS) | 5:10 | 2023-11-25 |  |
 | [Down](https://open.spotify.com/track/73q270xh3XdySWtt9NZxWX) | [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr), [Kova](https://open.spotify.com/artist/4fEckNuqOODv3H0ZimhCft), [NewGapy](https://open.spotify.com/artist/0rz8esMME7lhGigsAoKmQ3) | [Down](https://open.spotify.com/album/4BWrUcOTBw2Ydp58kRYTj8) | 4:38 | 2024-09-27 | 2024-10-30 |
@@ -288,7 +289,7 @@
 | [To Be](https://open.spotify.com/track/5MmJ45s9n3RTin6QwZvH3v) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [To Be](https://open.spotify.com/album/3O9B0glL0bEVgBsjdWeK74) | 2:26 | 2022-04-15 | 2022-07-01 |
 | [Tokyo Core](https://open.spotify.com/track/4JzmYfrpFyTOXHZsoB9rL6) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [ARTCORE DUO I](https://open.spotify.com/album/02irXlkWzK3uUlVYF5j6v4) | 3:30 | 2025-01-24 | 2025-03-30 |
 | [Tomorrow](https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [TOX1C](https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Tomorrow](https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ) | 4:46 | 2023-11-10 |  |
-| [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 | 2022-09-23 |  |
+| [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 | 2022-09-23 | 2025-10-16 |
 | [Transparent](https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw) | 4:17 | 2022-11-10 | 2023-09-18 |
 | [Transparent](https://open.spotify.com/track/4MRwMKUwl3ognSdlzQyZ9f) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/2OKDQOcsc2yOWFjHqjcPdk) | 4:17 | 2022-06-03 | 2022-10-05 |
 | [Trumpet](https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L) | [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr) | [Trumpet](https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR) | 7:23 | 2023-09-14 | 2024-04-04 |

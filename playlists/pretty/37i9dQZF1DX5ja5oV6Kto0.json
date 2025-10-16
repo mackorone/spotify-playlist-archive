@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: 99Phaces",
-  "num_followers": 108946,
+  "num_followers": 108966,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/1UZpFYWfMkGkrk04P5rTSJ"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/1BAEgoevzYy6VtPMUlKPFN"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
         "name": "Cutesy",
         "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
       },
@@ -251,22 +271,6 @@
       "duration_ms": 181589,
       "name": "Cutesy",
       "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
-        "name": "Maye",
-        "url": "https://open.spotify.com/album/3kFUtkt9hqN6U1ZNDXyh2r"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "Maye",
-      "url": "https://open.spotify.com/track/1PjyINgPWTC8lrhufounlb"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -303,6 +307,22 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
+        "name": "Maye",
+        "url": "https://open.spotify.com/album/3kFUtkt9hqN6U1ZNDXyh2r"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Maye",
+      "url": "https://open.spotify.com/track/1PjyINgPWTC8lrhufounlb"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
         "name": "WONDERFUL",
         "url": "https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 140751,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/1UZpFYWfMkGkrk04P5rTSJ"
-      },
-      "artists": [
-        {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
-        },
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/1BAEgoevzYy6VtPMUlKPFN"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
-        "name": "Girlie-Pop!",
-        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 123950,
-      "name": "Girlie-Pop!",
-      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
         "name": "Painless Melody",
         "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
-      },
-      "artists": [
-        {
-          "name": "OS\u00c1",
-          "url": "https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 125581,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
         "name": "Sweetest Time",
         "url": "https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 154074,
       "name": "Sweetest Time",
       "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
+      },
+      "artists": [
+        {
+          "name": "OS\u00c1",
+          "url": "https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 125581,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
-        "name": "Designer Baby",
-        "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        },
-        {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
-        }
-      ],
-      "duration_ms": 142138,
-      "name": "Designer Baby",
-      "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/1PC58n8MP6vQwuOdyz01WV"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 181959,
       "name": "2AM",
       "url": "https://open.spotify.com/track/7t8s2vubxLWWIV614tquv3"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
+        "name": "Designer Baby",
+        "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+        }
+      ],
+      "duration_ms": 142138,
+      "name": "Designer Baby",
+      "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
-        "name": "LUV U",
-        "url": "https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "LUV U",
-      "url": "https://open.spotify.com/track/5RLKu8UORU150aRLREflOK"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
         "name": "4GET IT",
         "url": "https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 176170,
       "name": "4GET IT",
       "url": "https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
+        "name": "LUV U",
+        "url": "https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "LUV U",
+      "url": "https://open.spotify.com/track/5RLKu8UORU150aRLREflOK"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
-        "name": "Open Casket",
-        "url": "https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2"
-      },
-      "artists": [
-        {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Open Casket",
-      "url": "https://open.spotify.com/track/7KIyiysRmpi0hclcataHy4"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
         "name": "RIGO KAMP",
         "url": "https://open.spotify.com/album/0Grq9e7Cct75x5kzpUjFuP"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 171617,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/1vMLJdnRW7L875koXcRlzM"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
+        "name": "Open Casket",
+        "url": "https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Open Casket",
+      "url": "https://open.spotify.com/track/7KIyiysRmpi0hclcataHy4"
     },
     {
       "added_at": "2025-10-10 00:10:21",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-10-10 00:10:21",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe"
-      },
-      "artists": [
-        {
-          "name": "Keziah Mallam",
-          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO"
-    },
-    {
-      "added_at": "2025-10-10 00:10:21",
-      "album": {
         "name": "Everyday People",
         "url": "https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 217376,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1"
+    },
+    {
+      "added_at": "2025-10-10 00:10:21",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe"
+      },
+      "artists": [
+        {
+          "name": "Keziah Mallam",
+          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

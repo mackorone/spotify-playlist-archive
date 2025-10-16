@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: KLER
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,309 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,308 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 39 | [Promin’](https://open.spotify.com/track/4mJoTcXmBHWbBy1ftIBO5h) | [аліса хоче додому](https://open.spotify.com/artist/0HGWoewkSQKFRQf64yfkv6) | [Promin’](https://open.spotify.com/album/04Oivgl1izd0uCHDOQlfwa) | 2:58 |
 | 40 | [Пшек](https://open.spotify.com/track/15Nzud7U12n63mDc8i7O6I) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [Пшек](https://open.spotify.com/album/3M5tx1GUFfXI96ME0NEA07) | 1:49 |
 
-Snapshot ID: `AAAAAFRXKlQye8Ae6oXvRYUTU1R1VN6r`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

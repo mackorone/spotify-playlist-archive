@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,920 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,915 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 15 | [GT\-R](https://open.spotify.com/track/4fzmpZmqz5R8vykOew3Mda) | [Uma Scheffer](https://open.spotify.com/artist/2y1JA9jNWjTJY0n0b4M6GO) | [WANGAN CLUB V.A 001](https://open.spotify.com/album/55XrmJUSkvba1KQzWgks8f) | 5:24 |
 | 16 | [Maniac Girl](https://open.spotify.com/track/5tQXuFK64dK0sQ7j5oHRsm) | [Gina Demarchi](https://open.spotify.com/artist/7hqmhjZKJeV1zIxWcpBKNY) | [Lady Tazz presents Hermanas \(Part Two\)](https://open.spotify.com/album/48Sgw03L7rcXljlwKMhlWG) | 5:24 |
 | 17 | [8 Bit Robot](https://open.spotify.com/track/0YkrjTgapBLGdF71CGtiBi) | [Melanie Massa](https://open.spotify.com/artist/2WgwO7cZsu6jA0XbGKnZE3) | [Vanishes](https://open.spotify.com/album/44FNhylmi7hN78Mr9w4ohF) | 6:18 |
-| 18 | [Stay](https://open.spotify.com/track/4p2XptEA66p6QBpPo75CG7) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Stay](https://open.spotify.com/album/0EUb4OCzSjUASNg1jwzH3K) | 4:43 |
-| 19 | [Nothing Feels Right](https://open.spotify.com/track/5Q66rYlhfXkhrJ3F80FIxE) | [Julieta Kopp](https://open.spotify.com/artist/5fczVg2llLHrH7bqRerVH6) | [Clergy 10 Years \| Echo](https://open.spotify.com/album/0LnF4BpITs92ejMuaciBJt) | 5:54 |
+| 18 | [Nothing Feels Right](https://open.spotify.com/track/5Q66rYlhfXkhrJ3F80FIxE) | [Julieta Kopp](https://open.spotify.com/artist/5fczVg2llLHrH7bqRerVH6) | [Clergy 10 Years \| Echo](https://open.spotify.com/album/0LnF4BpITs92ejMuaciBJt) | 5:54 |
+| 19 | [Stay](https://open.spotify.com/track/4p2XptEA66p6QBpPo75CG7) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Stay](https://open.spotify.com/album/0EUb4OCzSjUASNg1jwzH3K) | 4:43 |
 | 20 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |
 | 21 | [Peak 3](https://open.spotify.com/track/0biGkF7tOFb9a8uCuxiZCY) | [Sol Caballero](https://open.spotify.com/artist/4Yc0oTAY0trDl1pMAnNh6D) | [Patterns](https://open.spotify.com/album/2iPKyBhhYrNOSx62UbTpjp) | 5:29 |
 | 22 | [Get that](https://open.spotify.com/track/1hiPghu8NoK8B7Y5woX50Q) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Pleasure EP](https://open.spotify.com/album/0rffzwv2Oj8snKQGwkCQhj) | 5:17 |

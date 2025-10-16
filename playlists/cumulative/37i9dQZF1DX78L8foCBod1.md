@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-190 songs - 12 hr 56 min
+191 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [VANE \- English Ver.](https://open.spotify.com/track/2b2ac5Ng0bMnFGpIQ6Xn0k) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VANE \(English Ver.\)](https://open.spotify.com/album/25DRBaekz7SLPO27kHiLUC) | 3:29 | 2022-11-15 | 2023-05-12 |
 | [Vigilante](https://open.spotify.com/track/56gXhLZNBqY3tlHjrYMFRG) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [MOBILE SUIT GUNDAM NT \(Narrative\) Original Motion Picture Soundtrack](https://open.spotify.com/album/0qbCFg0xqkC0TUadjNaTfu) | 3:44 | 2023-05-12 | 2024-04-19 |
 | [Vigilante](https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB) | [mpi & Gemie](https://open.spotify.com/artist/23YITgz9JtLap171zsjibc) | [Vigilante](https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP) | 3:45 | 2022-06-07 |  |
+| [VISIONS \- （『仮面ライダーゼッツ』主題歌）](https://open.spotify.com/track/3DD6HFNf1cOcCfhn1ghHIz) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VISIONS \(（『仮面ライダーゼッツ』主題歌）\)](https://open.spotify.com/album/0DY3ag3z7nQck27zY5tZN5) | 3:03 | 2025-10-15 |  |
 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 | 2022-06-07 |  |
 | [X.U.](https://open.spotify.com/track/15tzlxIHJKn0axkuhhCvUX) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:43 | 2022-06-21 | 2024-04-19 |
 | [X.U.](https://open.spotify.com/track/6bAiYbJ37zaQ6dTTcW49EA) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [X.U\. \| scaPEGoat](https://open.spotify.com/album/21TgGuLWBGqtggQtWpiEdB) | 4:45 | 2022-06-07 |  |

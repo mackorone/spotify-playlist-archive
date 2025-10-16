@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Oct 18:10 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Oct 18:11 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVZRfLRLCEdg8aGTB2fvsRRzScHLnc",
+  "snapshot_id": "AAAVZ5+shEX2K9Q53CbP0X/zFl7fSKOB",
   "tracks": [
+    {
+      "added_at": "2025-10-15 18:11:14",
+      "album": {
+        "name": "Our Parting Ways",
+        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Our Parting Ways",
+      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
+    },
     {
       "added_at": "2025-10-14 13:10:00",
       "album": {
@@ -823,22 +839,6 @@
       "duration_ms": 247626,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5WFOdaZWB9bYhRq8MR2uON"
-    },
-    {
-      "added_at": "2025-10-03 13:04:04",
-      "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     }
   ],
   "unique_name": "New Singles Now",

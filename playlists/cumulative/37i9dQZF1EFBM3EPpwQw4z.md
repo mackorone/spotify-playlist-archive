@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 8 hr 27 min
+146 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 | 2023-12-30 |  |
 | [Ember](https://open.spotify.com/track/5vRKDB7qR2A3WBHBuukeqg) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ember EP](https://open.spotify.com/album/2leC9bFdVDkE4feqKf7xOX) | 3:23 | 2023-12-30 |  |
 | [Energy](https://open.spotify.com/track/7gOdmNazfs5qdtsgWOB1Z4) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/4jnCb5V9ru3GAHtNr7rfkS) | 3:28 | 2023-12-30 |  |
-| [Everything We Ever Dreamed Of](https://open.spotify.com/track/57OcQJFlL91Jzb7wSr8WLE) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Everything We Ever Dreamed Of](https://open.spotify.com/album/7jrG1Rv01z3GHnn1XMU56s) | 3:10 | 2023-12-30 |  |
+| [Everything We Ever Dreamed Of](https://open.spotify.com/track/3M7sdS0K9xOWZ8cSFqzxZx) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Everything We Ever Dreamed Of](https://open.spotify.com/album/1AZ4d6wcNJtFAcOzLSyoyG) | 3:10 | 2025-10-15 |  |
+| [Everything We Ever Dreamed Of](https://open.spotify.com/track/57OcQJFlL91Jzb7wSr8WLE) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Everything We Ever Dreamed Of](https://open.spotify.com/album/7jrG1Rv01z3GHnn1XMU56s) | 3:10 | 2023-12-30 | 2025-10-16 |
 | [Eyes on You](https://open.spotify.com/track/3ua8ZjsvMZ5KBVd6P3EUib) | [KyHeezie](https://open.spotify.com/artist/3UPeHlGPAeX6seBcLtfDon) | [Karma](https://open.spotify.com/album/2jUHjfC4leHIs3imrprfte) | 4:21 | 2023-12-30 | 2025-07-24 |
 | [Feel the Love](https://open.spotify.com/track/6luGjPoePdUnCzd0XIUN9j) | [Commandeur](https://open.spotify.com/artist/4iht8vH9H3ieMmxlAz26c0), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Feel the Love](https://open.spotify.com/album/4zpSThliGud7jxJ7TpPz4k) | 3:48 | 2023-12-30 |  |
 | [Feel The Same](https://open.spotify.com/track/6wTsw4ebuhAEZCt2BfHhsk) | [SH Gemini](https://open.spotify.com/artist/4HuQvj8yNjMKptqwpbp48T), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Feel The Same](https://open.spotify.com/album/3aCaulVSKxR8zCFm5L5qgp) | 3:16 | 2023-12-30 |  |

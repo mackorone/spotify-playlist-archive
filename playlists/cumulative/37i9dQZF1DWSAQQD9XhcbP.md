@@ -2,9 +2,9 @@
 
 ### [Mellow Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSAQQD9XhcbP)
 
-> Cozy Christmas vibes\. Cover: Lyn Lapid
+> Cozy Christmas vibes\. Cover: Sofia Camara
 
-148 songs - 8 hr 13 min
+150 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Christmas Eve](https://open.spotify.com/track/5QYZDXADCmEU69KXxfRxNX) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 3:21 | 2021-12-23 |  |
 | [Christmas in New York](https://open.spotify.com/track/7jCdK822bbHtDLSXKmNMd9) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Christmas in New York](https://open.spotify.com/album/4xq8uAmrX7wFF6thULGYhb) | 2:58 | 2021-12-23 |  |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/2CcKj9jycmP3i4ommID7wL) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Officially Christmas](https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa) | 3:16 | 2021-12-23 |  |
+| [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 | 2025-10-15 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/1mnpw3ZChfpjGoK0WjgJLB) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Estefan Family Christmas](https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk) | 3:28 | 2022-11-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/0yHmaiDRUkiQcl0heatewy) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:03 | 2021-12-23 | 2022-12-06 |
 | [Christmas Time Is Here \(with Tony Bennett\)](https://open.spotify.com/track/7GhKjft6686rQW4G5UzFr3) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Noël \(Deluxe Edition\)](https://open.spotify.com/album/27Ovu2vEYcN7dcd27yRkGg) | 3:30 | 2022-12-05 |  |
@@ -104,9 +105,10 @@
 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 | 2021-12-23 | 2023-12-14 |
 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 | 2022-11-22 |  |
 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 | 2021-12-23 | 2022-12-06 |
-| [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 | 2022-12-05 |  |
+| [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 | 2022-12-05 | 2025-10-16 |
 | [O Holy Night](https://open.spotify.com/track/5ExNvXqx2wvdb6v0b840Us) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [O Holy Night](https://open.spotify.com/album/5YSq86Fw1G4WrAVjXT6CAs) | 4:38 | 2021-12-23 | 2024-04-19 |
 | [O Holy Night](https://open.spotify.com/track/6bHLe3rfMqYBmlJnvhyFS9) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [O Holy Night](https://open.spotify.com/album/1OQvt7GdufQwHedB373LDw) | 4:38 | 2021-12-23 |  |
+| [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 | 2025-10-15 |  |
 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 | 2024-11-15 |  |
 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 | 2021-12-23 |  |
 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 | 2021-12-23 |  |
@@ -121,7 +123,7 @@
 | [Snow in LA](https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Snow in LA](https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5) | 3:49 | 2024-11-25 |  |
 | [Snowflake](https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 4:02 | 2021-12-23 | 2024-04-19 |
 | [Snowflake](https://open.spotify.com/track/0zroGepO6oOkdhF7UmOiDL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/0ksZoEgWVdI2Tw6vtsc79a) | 4:02 | 2021-12-23 | 2022-11-13 |
-| [Snowflake](https://open.spotify.com/track/3ozttElSI0x31gVQYnRPLs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 4:02 | 2021-12-23 |  |
+| [Snowflake](https://open.spotify.com/track/3ozttElSI0x31gVQYnRPLs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 4:02 | 2021-12-23 | 2025-10-16 |
 | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL) | 3:20 | 2024-11-04 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/album/6qSiSv2qh4fTiqjvmSQLCy) | 3:30 | 2021-12-23 | 2022-11-12 |
 | [The Christmas Waltz](https://open.spotify.com/track/0Q7iUK8jHVcKu8dW1s0VFm) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:44 | 2021-12-23 | 2024-04-19 |

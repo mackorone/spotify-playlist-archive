@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-225 songs - 11 hr 29 min
+226 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 | 2024-10-05 |
 | [Ain't Like Me](https://open.spotify.com/track/0cyNBS2zNhVijDM6WDsbPp) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Ain't Like Me](https://open.spotify.com/album/2AS8Kzr2SyuFqxSndz615Y) | 3:44 | 2025-02-14 |  |
 | [AKH](https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [AKH](https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB) | 3:35 | 2024-09-09 | 2024-10-23 |
+| [All About Me](https://open.spotify.com/track/5z0TMApul2gljzU7D5wdSe) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc) | [All About Me](https://open.spotify.com/album/7b0LyWJWBL5logHL9J00hL) | 2:16 | 2025-10-15 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 | 2024-09-13 |  |
 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 | 2024-10-10 |  |
@@ -85,7 +86,7 @@
 | [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 | 2024-09-21 |
 | [Ishqe Di Maar](https://open.spotify.com/track/6UNjoKh29q5ovirHss4qb5) | [Rani Randeep](https://open.spotify.com/artist/6lfYp7aQFOnsSMPY0pE9oS) | [Ishqe Di Maar](https://open.spotify.com/album/6XUGr2nnRsVyVoRERZdNLu) | 5:58 | 2025-06-02 |  |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 | 2024-09-14 |
-| [Jaani Tera Naa](https://open.spotify.com/track/6tkNEWu4xnu4iVSkjVU0Jo) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/3dn0TXrTyr2Hv1Z2s1ue4r) | 3:08 | 2025-03-20 |  |
+| [Jaani Tera Naa](https://open.spotify.com/track/6tkNEWu4xnu4iVSkjVU0Jo) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/3dn0TXrTyr2Hv1Z2s1ue4r) | 3:08 | 2025-03-20 | 2025-10-16 |
 | [Jamanat Pakki](https://open.spotify.com/track/6ipe1JZXmL2iFV9iEBMHxM) | [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q), [Bhana Sidhu](https://open.spotify.com/artist/3JXtvUVyycGu7AItCpMKYT) | [Jamanat Pakki](https://open.spotify.com/album/5SwyGRbynubS2miE9RhCRd) | 2:34 | 2024-11-08 | 2024-11-27 |
 | [Jattiyan Da Daur \(From "Phaphey Kuttniyan"\)](https://open.spotify.com/track/0aVmj0LCcpHcFOcA3rnv9Y) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Simar Nick](https://open.spotify.com/artist/37VJDT0hDpO6LKPkM0equc), [Arjan virk](https://open.spotify.com/artist/1RRpag2X9S30WTj1bZF9mX) | [Jattiyan Da Daur \(From "Phaphey Kuttniyan"\)](https://open.spotify.com/album/5HlDFt0WxeoN5jP1Va5abe) | 3:16 | 2025-09-12 |  |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |

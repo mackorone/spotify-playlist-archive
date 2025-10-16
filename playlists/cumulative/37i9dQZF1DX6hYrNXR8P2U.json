@@ -6433,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "No me quiero ver",
+        "url": "https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "No me quiero ver",
+      "url": "https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u"
+    },
+    {
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },

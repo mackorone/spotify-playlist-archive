@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 208695,
       "name": "4AM in Karachi",
       "url": "https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj"
@@ -78,10 +78,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 202473,
       "name": "4U",
       "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
+    },
+    {
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5oPp2fFQmn5XhClwwGnHmv"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202473,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5YqHwJeVcLl29QRcoDNmBq"
     },
     {
       "album": {
@@ -170,7 +188,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 232066,
       "name": "Aaja We Mahiya",
       "url": "https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2"
@@ -610,10 +628,28 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 228205,
       "name": "Bematlab",
       "url": "https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy"
+    },
+    {
+      "album": {
+        "name": "Beparwah",
+        "url": "https://open.spotify.com/album/5AntNs7eAxvw6zn9YZeP6J"
+      },
+      "artists": [
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272986,
+      "name": "Beparwah",
+      "url": "https://open.spotify.com/track/1BkYDk1hrLKkPi10OVSrhR"
     },
     {
       "album": {
@@ -918,7 +954,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 233012,
       "name": "Chan Kithan",
       "url": "https://open.spotify.com/track/3DJVLBNKQi8fzhTWFxAzS6"
@@ -1552,7 +1588,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 167750,
       "name": "FWM",
       "url": "https://open.spotify.com/track/5KqkyLiact4SHIsHa0c45H"
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Gumaan",
       "url": "https://open.spotify.com/track/6cdiviyVL3tFYE1eDcmUzL"
@@ -1662,7 +1698,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 184000,
       "name": "Haaray",
       "url": "https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU"
@@ -1794,10 +1830,36 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 250746,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
+    },
+    {
+      "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/3aOB56T2gNIsntm20QvF9P"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250746,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/4fp8FVTdpieFTQxBwJHqNg"
     },
     {
       "album": {
@@ -1910,7 +1972,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 258857,
       "name": "Ik Lamha",
       "url": "https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT"
@@ -1946,7 +2008,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
@@ -1994,7 +2056,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 228639,
       "name": "Ishq - From \"Lost;Found\"",
       "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
@@ -2118,10 +2180,28 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 277600,
       "name": "Jhol - Acoustic",
       "url": "https://open.spotify.com/track/0S7MLlU27WnE3bwCcDu6Pj"
+    },
+    {
+      "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/055PeVqsdCXk1R3QUER654"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298986,
+      "name": "Jhoom - R&B Mix",
+      "url": "https://open.spotify.com/track/6dma400V61sOAfIdrVVSYZ"
     },
     {
       "album": {
@@ -2140,7 +2220,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 234037,
       "name": "Jo Tu Na Mila",
       "url": "https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS"
@@ -2322,7 +2402,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 173637,
       "name": "Kahani Suno 2.0",
       "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
@@ -2597,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Doorie",
+        "url": "https://open.spotify.com/album/3bbgWL9OAJ9lKxrdu9ybCG"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313825,
+      "name": "Kuch Is Tarah",
+      "url": "https://open.spotify.com/track/7MpBCqNHuNc2dgSckXizRo"
+    },
+    {
+      "album": {
         "name": "Kya sach ho tum?",
         "url": "https://open.spotify.com/album/0jQ4tYapUB62uhzoIEPE1n"
       },
@@ -2686,6 +2784,32 @@
     {
       "album": {
         "name": "Laykin",
+        "url": "https://open.spotify.com/album/5NWNJFX1CDY3ZQPPxNe6zM"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Laykin",
+      "url": "https://open.spotify.com/track/3Vfn4GqRFPY1DHi776AGGa"
+    },
+    {
+      "album": {
+        "name": "Laykin",
         "url": "https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ"
       },
       "artists": [
@@ -2741,6 +2865,36 @@
     },
     {
       "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/5ZbcUxEusiRkTT8T5Db8Ii"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/4eIomBCLTXbjrkrSHnqlgK"
+    },
+    {
+      "album": {
         "name": "Long time no see",
         "url": "https://open.spotify.com/album/0UdB3UJ8lJ5xgvWkSTmj3U"
       },
@@ -2786,7 +2940,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 218600,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg"
@@ -2856,6 +3010,32 @@
       "duration_ms": 180800,
       "name": "love lost",
       "url": "https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0"
+    },
+    {
+      "album": {
+        "name": "Luv Summer",
+        "url": "https://open.spotify.com/album/4Rj4pFxfcihI6WlC8efI1v"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        },
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170376,
+      "name": "Luv Summer",
+      "url": "https://open.spotify.com/track/72fnjwohXwVLqudRXiRmbc"
     },
     {
       "album": {
@@ -2944,7 +3124,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 145333,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
@@ -3097,6 +3277,32 @@
     },
     {
       "album": {
+        "name": "Dil Kay Parday",
+        "url": "https://open.spotify.com/album/2syS3QElH8i353yYdXNBam"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Justin Bibis",
+          "url": "https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/0XtNMC1jG97ysiIvcAQDGN"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL"
       },
@@ -3116,7 +3322,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 158333,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe"
@@ -3225,6 +3431,28 @@
     },
     {
       "album": {
+        "name": "Muaziz Saarif",
+        "url": "https://open.spotify.com/album/1TpkynqQUmK6bTwMotcx1L"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        },
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281186,
+      "name": "Muaziz Saarif",
+      "url": "https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi"
+    },
+    {
+      "album": {
         "name": "Mushk",
         "url": "https://open.spotify.com/album/0TqLMqmG2Gp3W6QhsCGQCJ"
       },
@@ -3236,7 +3464,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 262001,
       "name": "Mushk",
       "url": "https://open.spotify.com/track/2r83dnQ5g2gwF87Tph6AF9"
@@ -3306,7 +3534,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 285656,
       "name": "Nahin Milta",
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
@@ -3405,6 +3633,28 @@
     },
     {
       "album": {
+        "name": "Oh Sahib (Original Sountrack Of Abdullahpur Ka Devdas)",
+        "url": "https://open.spotify.com/album/29hYmprNyxMkCWXFDg15b7"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        },
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194966,
+      "name": "Oh Sahib - Original Sountrack Of Abdullahpur Ka Devdas",
+      "url": "https://open.spotify.com/track/6I8ImLg9xfoVRNmcV83mL6"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv"
       },
@@ -3493,6 +3743,28 @@
     },
     {
       "album": {
+        "name": "Par Chanaa De (Coke Studio Season 9)",
+        "url": "https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666000,
+      "name": "Par Chanaa De (Coke Studio Season 9)",
+      "url": "https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ"
+    },
+    {
+      "album": {
         "name": "Pardes Katenda",
         "url": "https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd"
       },
@@ -3504,7 +3776,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 167921,
       "name": "Pardes Katenda",
       "url": "https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL"
@@ -3534,17 +3806,17 @@
       },
       "artists": [
         {
-          "name": "Shae Gill",
-          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
-        },
-        {
           "name": "Ali Sethi",
           "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
         }
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -3610,7 +3882,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 298771,
       "name": "Pehli Dafa",
       "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
@@ -3768,7 +4040,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 219574,
       "name": "Radha",
       "url": "https://open.spotify.com/track/0oOVxu88I7Bj9jjDnXVRus"
@@ -3896,10 +4168,36 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 242823,
       "name": "REGRETS",
       "url": "https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV"
+    },
+    {
+      "album": {
+        "name": "REGRETS/PROMISES",
+        "url": "https://open.spotify.com/album/5u6i5eWsGiTk325putsGZp"
+      },
+      "artists": [
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "REGRETS",
+      "url": "https://open.spotify.com/track/6OUPWxtBj1KaAV7Ku3xgmr"
     },
     {
       "album": {
@@ -3988,7 +4286,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 154455,
       "name": "Sadqay",
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
@@ -4046,7 +4344,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 253150,
       "name": "Sajna da Dil Torya",
       "url": "https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh"
@@ -4101,6 +4399,28 @@
     },
     {
       "album": {
+        "name": "savera",
+        "url": "https://open.spotify.com/album/57XU5RuEZQWoYsTuJP6rnJ"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177499,
+      "name": "savera",
+      "url": "https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV"
+    },
+    {
+      "album": {
         "name": "thikaana",
         "url": "https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe"
       },
@@ -4116,7 +4436,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 177499,
       "name": "savera",
       "url": "https://open.spotify.com/track/6F2M6zx8uXuPo5XAVsbBiV"
@@ -4196,7 +4516,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 270000,
       "name": "Shikayat",
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
@@ -4218,7 +4538,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 202159,
       "name": "SHIKWA",
       "url": "https://open.spotify.com/track/3G6HBmFkfeuK6dNrnyFfO9"
@@ -4240,7 +4560,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 171290,
       "name": "Siyah",
       "url": "https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X"
@@ -4328,6 +4648,24 @@
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/0FUY81MasEucB0P4u3vtge"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3BIpgJZyNEiSwcZknQxwrr"
     },
     {
       "album": {
@@ -4430,7 +4768,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 208000,
       "name": "Tera Mera Hai Pyar (From \"Ishq Murshid\")",
       "url": "https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv"
@@ -4448,10 +4786,32 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-16",
       "duration_ms": 347040,
       "name": "Tera Mera Rishta",
       "url": "https://open.spotify.com/track/2PxZSFOv7RebkeSEwQTjr7"
+    },
+    {
+      "album": {
+        "name": "Awarapan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347040,
+      "name": "Tera Mera Rishta",
+      "url": "https://open.spotify.com/track/23T4WcVkvuaAEOgXr848i1"
     },
     {
       "album": {
@@ -4492,6 +4852,24 @@
       "duration_ms": 208500,
       "name": "Teray Naal",
       "url": "https://open.spotify.com/track/6ZkFBPYesUv0PzI8V3PZH6"
+    },
+    {
+      "album": {
+        "name": "Gunkali (Original Score)",
+        "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302706,
+      "name": "Tere Pyar Main",
+      "url": "https://open.spotify.com/track/6JB0h4leDJ4Akabtu42Epd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-603 songs - 1 day 9 hr 41 min
+604 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [rukne ki](https://open.spotify.com/track/3HMroRm92lzNVGAOQFY04N) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:28 | 2025-09-26 |  |
 | [Ruqsat](https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ruqsat](https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE) | 3:39 | 2024-01-08 | 2024-03-14 |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
+| [Saanson Ki Mala \- Live Loop Version](https://open.spotify.com/track/0H2LYJrPFMEr5JmdNBSwUd) | [Bhuwin](https://open.spotify.com/artist/6vsLn0UxL3GhtYP7ghpF3t) | [Saanson Ki Mala \(Live Loop Version\)](https://open.spotify.com/album/1o90SCXyYBya1VybapCgjS) | 3:36 | 2025-10-15 |  |
 | [Saare Badal](https://open.spotify.com/track/5MTi1rw6cAtPKY4SuyRYh5) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Saare Badal](https://open.spotify.com/album/1RYWtFD73pspXEkm2v04ZA) | 3:30 | 2025-03-21 | 2025-07-17 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sab Kuch Mera \- Deep Heart](https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Mann](https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79) | [Sab Kuch Mera \(Deep Heart\)](https://open.spotify.com/album/7EkrO0mqn5b16y10sFELow) | 2:07 | 2024-06-27 | 2024-07-27 |
@@ -560,7 +561,7 @@
 | [Tum Hi Ho Zindagi](https://open.spotify.com/track/63fb4uUccR5njgRs53yhI0) | [Dr Prashant Shah](https://open.spotify.com/artist/0S5pmNjdaDdybWL6TSZTpj), [Mithun Kumar](https://open.spotify.com/artist/7D7J1kkyEyVW7n05cd7hof) | [Tum Hi Ho Zindagi](https://open.spotify.com/album/3pU6Zmnvcn2GSiLKcn4E0B) | 1:45 | 2024-09-29 | 2024-10-02 |
 | [Tum Ho](https://open.spotify.com/track/3etyNnDggmCD0kCA7f8S25) | [Peddy Jey](https://open.spotify.com/artist/69nhISlOUkxh6wI5XagbBB) | [Tum Ho](https://open.spotify.com/album/2reqa4xPxtc2O0liIs6RvV) | 3:36 | 2025-03-20 | 2025-04-23 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 | 2024-04-01 |
-| [tum jo aaye](https://open.spotify.com/track/2XkHhvDW8YC3I0uoKfXqET) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shams](https://open.spotify.com/artist/3ySN8uxbVT9g3J1YLUUwoc) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:54 | 2025-09-26 |  |
+| [tum jo aaye](https://open.spotify.com/track/2XkHhvDW8YC3I0uoKfXqET) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shams](https://open.spotify.com/artist/3ySN8uxbVT9g3J1YLUUwoc) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:54 | 2025-09-26 | 2025-10-16 |
 | [Tum Jo Mil Gye](https://open.spotify.com/track/7vBXs7qy52027RpuzietIC) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Tum Jo Mil Gaye](https://open.spotify.com/album/0cRJ70Co1cb0ndnFLoE4EN) | 1:31 | 2025-08-18 | 2025-09-19 |
 | [Tum Jo Mile](https://open.spotify.com/track/7I8wUSlvmYKv1bf2TU3UBy) | [Shubhashish Upadhyay](https://open.spotify.com/artist/3FMZ4EYLC6d2M2I0UZgSsA), [Anurag D](https://open.spotify.com/artist/2q0wPAJHBknTwwKMsPxoAv) | [Tum Jo Mile](https://open.spotify.com/album/74MuugXpPZBBqEbp2LkSEV) | 2:45 | 2025-08-05 | 2025-09-13 |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 448,669 likes - 50 songs - 2 hr 44 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 448,836 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 38 | [Get It All](https://open.spotify.com/track/0RaAhmoE4TuDFNt7ntHYvv) | [DecadeZ](https://open.spotify.com/artist/66rzsIT4PWKYvcxijbtXe1) | [Get It All](https://open.spotify.com/album/0SxW5xu8DQRATbKZpXhUyK) | 3:12 |
 | 39 | [Change](https://open.spotify.com/track/5bZtIKa5r2cbfnFQTwQzqp) | [504 B\-Eazy](https://open.spotify.com/artist/6bmYNHzDCOKGlOXY7RL0yp) | [N.O.L.A\. New Orleans Living Always](https://open.spotify.com/album/43Uw0cqfTS0FknGNSiwQez) | 3:16 |
 | 40 | [Turrón De Coco](https://open.spotify.com/track/1p6kJWbTU8QbuH1P5Qjusn) | [Kustodio](https://open.spotify.com/artist/41BtNl65WxhXbvcBwQHSRo), [Chico Ché](https://open.spotify.com/artist/41auGO30gL52IeS89JnSAH) | [De Vuelta a Casa](https://open.spotify.com/album/7fvn49PnU2WZ8ryn8oWJt5) | 3:36 |
-| 41 | [Nice Eyez](https://open.spotify.com/track/0wyYRtcVeCuiT47Q6j3NML) | [BeePee](https://open.spotify.com/artist/1FdTmAog7luOKzA0xWJBD6) | [Nice Eyez](https://open.spotify.com/album/2GjCWDm43kASmE2WSx23gK) | 2:20 |
+| 41 | [Nice Eyez](https://open.spotify.com/track/0wyYRtcVeCuiT47Q6j3NML) | [BeePee](https://open.spotify.com/artist/1FdTmAog7luOKzA0xWJBD6) | [Nice Eyez](https://open.spotify.com/album/2GjCWDm43kASmE2WSx23gK) | 2:19 |
 | 42 | [YES, ¥€$](https://open.spotify.com/track/6X637ukNNpYetZv2sksCQa) | [Nene Yola](https://open.spotify.com/artist/3xhnRHakk9xfBkTi51bC5x) | [YES, ¥€$](https://open.spotify.com/album/35j5J7qi8gr577YJjucjNd) | 2:57 |
 | 43 | [..\. an Interlude](https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU) | [Thani](https://open.spotify.com/artist/2RgfBo65pqPZr2DGvIoLU7), [Ufo Funk Band](https://open.spotify.com/artist/3kdOJSaifGuoBuGX8RRFnp) | [Response](https://open.spotify.com/album/2InMJQxasP3ARf22lNWH8j) | 0:39 |
 | 44 | [R.L.S.N](https://open.spotify.com/track/0deVmpMxHNg1qqYIJYZPWa) | [Lbz48](https://open.spotify.com/artist/2SRRR3dLymGLftftefMja9) | [Trap Aint Dead](https://open.spotify.com/album/5LEjP5pET8e6rpuHZYIwew) | 2:54 |
