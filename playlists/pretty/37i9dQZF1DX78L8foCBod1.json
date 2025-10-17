@@ -1,12 +1,12 @@
 {
   "description": "One-of-a-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films. ",
-  "num_followers": 50352,
+  "num_followers": 50362,
   "original_name": "Hiroyuki Sawano Works",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMra+hpa1fWQbNPfiOvnWPRk3jel",
+  "snapshot_id": "AAAAACL92x9VcnjbZNoUrfE5AtkYNfG9",
   "tracks": [
     {
       "added_at": "2025-10-15 09:28:06",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-04-29 16:14:04",
       "album": {
-        "name": "JEOPARDY",
-        "url": "https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL"
-      },
-      "artists": [
-        {
-          "name": "Sawano Hiroyuki",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "duration_ms": 237970,
-      "name": "JEOPARDY",
-      "url": "https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al"
-    },
-    {
-      "added_at": "2025-04-29 16:14:04",
-      "album": {
         "name": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season2 -Arise from the Shadow- Original Soundtrack",
         "url": "https://open.spotify.com/album/1RiSRSE9wGtGUxPaH9LZ5X"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 167213,
       "name": "H\u2205WL",
       "url": "https://open.spotify.com/track/62VDazmckQkZcrVvwW1syL"
+    },
+    {
+      "added_at": "2025-04-29 16:14:04",
+      "album": {
+        "name": "JEOPARDY",
+        "url": "https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "duration_ms": 237970,
+      "name": "JEOPARDY",
+      "url": "https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al"
     },
     {
       "added_at": "2025-04-29 16:14:04",

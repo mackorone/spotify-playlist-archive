@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 48302,
+  "num_followers": 48306,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHsyW3nHAi/RO20zwVPvjzaAR7W",
+  "snapshot_id": "AAAAALUpbhptOzIKgF9qQkOveXveJY+G",
   "tracks": [
     {
       "added_at": "2020-02-10 14:27:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Dan Volg Je Haar Benen",
-        "url": "https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Dan Volg Je Haar Benen",
-      "url": "https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Uit de schaduw",
         "url": "https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 229866,
       "name": "Uit de Schaduw",
       "url": "https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Dan Volg Je Haar Benen",
+        "url": "https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Dan Volg Je Haar Benen",
+      "url": "https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -731,6 +731,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Totzoverder (Het Beste Van 3JS)",
         "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 208560,
       "name": "Watermensen",
       "url": "https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Wit Licht (Standard Version)",
-        "url": "https://open.spotify.com/album/2Gk24J2x9vGul4YHQQkvJ6"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "Dochters",
-      "url": "https://open.spotify.com/track/6Vt0vbQUZ8QP3apAMhn1Vk"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -831,18 +831,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Verschil Moet Er Zijn",
-        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+        "name": "Allennig II",
+        "url": "https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS"
       },
       "artists": [
         {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+          "name": "Dani\u00ebl Lohues",
+          "url": "https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
+      "duration_ms": 208160,
+      "name": "Hier Kom Ik Weg",
+      "url": "https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f"
     }
   ],
   "unique_name": "00's Nederlandstalig",

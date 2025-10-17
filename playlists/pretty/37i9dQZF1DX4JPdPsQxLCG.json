@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 104513,
+  "num_followers": 104516,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3xBeW+1siwtHhzfj5kcYDJpVXM",
+  "snapshot_id": "AAAAAGUFSnJ/0XsGw5KboHeAylHaQz7W",
   "tracks": [
     {
       "added_at": "2025-09-19 17:19:45",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
+      "added_at": "2025-10-17 01:19:44",
+      "album": {
+        "name": "Back to the Wind",
+        "url": "https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Back to the Wind",
+      "url": "https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM"
+    },
+    {
       "added_at": "2025-10-09 22:06:15",
       "album": {
         "name": "Give Me All Your Love",
@@ -39,22 +55,6 @@
       "duration_ms": 200414,
       "name": "Give Me All Your Love",
       "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Where'd All the Time Go?",
-      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+        "name": "Shame, Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
         }
       ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+      "duration_ms": 234800,
+      "name": "Where'd All the Time Go?",
+      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -143,22 +143,18 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 211680,
-      "name": "Ventura Highway",
-      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -179,18 +175,22 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+      "duration_ms": 211680,
+      "name": "Ventura Highway",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -211,18 +211,18 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -239,6 +239,22 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -343,22 +359,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "say something",
-        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 144544,
-      "name": "say something",
-      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "We Were Born In A Flame",
         "url": "https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL"
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -403,6 +403,22 @@
       "duration_ms": 181640,
       "name": "Nowhere With You",
       "url": "https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -503,22 +519,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Such Jubilee",
-        "url": "https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Old Ties and Companions",
-      "url": "https://open.spotify.com/track/6n7Aj8Ok0kyktLxFjcUreo"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Sounding a Mosaic",
         "url": "https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Such Jubilee",
+        "url": "https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Old Ties and Companions",
+      "url": "https://open.spotify.com/track/6n7Aj8Ok0kyktLxFjcUreo"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -979,22 +995,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Wild One",
-        "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 142489,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 241290,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Wild One",
+        "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 142489,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Maybe It's Me",
-        "url": "https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "Maybe It's Me",
-      "url": "https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Christian",
         "url": "https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ"
       },
@@ -1167,38 +1167,6 @@
       "duration_ms": 192480,
       "name": "Road Warrior",
       "url": "https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "Deadpan Love",
-        "url": "https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "Get Back Again",
-        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 250331,
-      "name": "Get Back Again",
-      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     },
     {
       "added_at": "2025-10-09 22:06:15",
@@ -1219,22 +1187,50 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Daisy Chain",
-        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+        "name": "Maybe It's Me",
+        "url": "https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        },
-        {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 166600,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+      "duration_ms": 197786,
+      "name": "Maybe It's Me",
+      "url": "https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Get Back Again",
+        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 250331,
+      "name": "Get Back Again",
+      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Deadpan Love",
+        "url": "https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
     }
   ],
   "unique_name": "Long Drives",

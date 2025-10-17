@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Annalisa sulla cover della playlist più grande in Italia 🔥
+> 22simba e Marracash sulla cover della playlist più grande in Italia 🔥
 
 245 songs - 12 hr 38 min
 

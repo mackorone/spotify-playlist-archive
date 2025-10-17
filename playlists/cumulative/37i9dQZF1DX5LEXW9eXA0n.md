@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: DAVICHI \(다비치\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,568 songs - 4 day 5 hr 46 min
+1,570 songs - 4 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Beautiful \(Part.3\)](https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [B\-Side](https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu) | 3:54 | 2022-01-27 | 2022-06-29 |
 | [Beautiful Day](https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/1ukP3q6p2lZMfi2Tv4eLXq) | 4:09 | 2023-12-13 | 2024-05-01 |
 | [Beautiful Days](https://open.spotify.com/track/2QpkJZZRkVkNvbfGNlZgVv) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Beautiful Days](https://open.spotify.com/album/5e09GzU4VA4DPxTLwJQ5T5) | 3:42 | 2025-05-19 | 2025-10-13 |
+| [Beautiful fact](https://open.spotify.com/track/19KheJUp8m8rTsnfheQ0Zc) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Beautiful fact](https://open.spotify.com/album/4uq8r8o4xUy4YrDkD4VJVq) | 3:40 | 2025-10-17 |  |
 | [Beautiful Memories](https://open.spotify.com/track/3fsuqdPCR4rJCYJoyi2FTu) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Beautiful Memories](https://open.spotify.com/album/5ZCMg1aIst5LPixDLg69bL) | 3:35 | 2022-08-27 | 2022-12-27 |
 | [Beautiful My Love](https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4f415rW7jQPbi5a2tPo4pA) | 3:50 | 2021-12-20 | 2022-07-07 |
 | [Beauty\(2021\)](https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Beauty\(2021\)](https://open.spotify.com/album/2POm3VpxdpC8NyZ5qpC5G8) | 3:41 | 2022-03-31 | 2022-04-13 |
@@ -382,7 +383,7 @@
 | [Fixing My Makeup \- 2025 Remake](https://open.spotify.com/track/1DyufQskFnV9W8noGwcsYY) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Fixing My Makeup \(2025 Remake\)](https://open.spotify.com/album/1pQ2H0qIOwbLrg16ZWbEuU) | 4:14 | 2025-06-13 |  |
 | [FLAG](https://open.spotify.com/track/0LvrQEsWwKL1X30rHYiYUw) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Breaking Dawn](https://open.spotify.com/album/0WHepgrI931FocWbM11bJN) | 3:55 | 2022-01-03 | 2022-07-06 |
 | [Flame](https://open.spotify.com/track/5t78RTodTK1mITfr01YcRG) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6Dx3FX8pQPYrq8tmSXMz8F) | 3:39 | 2025-01-11 | 2025-03-27 |
-| [Fleeting: Time That Won’t Return](https://open.spotify.com/track/4xQtEwsRpDt1Hw9Xf3Y6GP) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Fleeting: Time That Won’t Return \(Oh My Ghost Clients Original Soundtrack Part.1\)](https://open.spotify.com/album/2VW0gXd0Rp9m83I13T5pMK) | 4:27 | 2025-05-30 |  |
+| [Fleeting: Time That Won’t Return](https://open.spotify.com/track/4xQtEwsRpDt1Hw9Xf3Y6GP) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Fleeting: Time That Won’t Return \(Oh My Ghost Clients Original Soundtrack Part.1\)](https://open.spotify.com/album/2VW0gXd0Rp9m83I13T5pMK) | 4:27 | 2025-05-30 | 2025-10-17 |
 | [Flirting](https://open.spotify.com/track/0sNm6uJlooT2vfybQDeEv0) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Flirting](https://open.spotify.com/album/0LbXOtK5soHLXU7Ahzc0up) | 4:06 | 2024-07-31 | 2024-11-29 |
 | [Float Away](https://open.spotify.com/track/583g5sTbEhQgHAaEcfXE4u) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About Me](https://open.spotify.com/album/6UgjlN9VufdzNl2ojRMF8Y) | 4:00 | 2022-03-31 | 2022-04-18 |
 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-02-27 | 2023-06-23 |
@@ -1244,7 +1245,7 @@
 | [The first moment](https://open.spotify.com/track/05qHfI61F95lluddfpyxk9) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Kokdu: Season of Deity \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/17YJmjOShQ9NtxffEX70U8) | 3:27 | 2023-03-15 | 2023-07-08 |
 | [The fool](https://open.spotify.com/track/0zj7btS9fZMqZFZWO6fYI9) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [His voice](https://open.spotify.com/album/1HmeEj59HYaGy8tKR636j6) | 3:58 | 2023-05-05 | 2023-05-16 |
 | [The garden of adverbs \(feat\. Lee Hi\)](https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 3:52 | 2024-04-26 | 2024-08-11 |
-| [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 | 2025-06-02 |  |
+| [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 | 2025-06-02 | 2025-10-17 |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-01 | 2022-11-02 |
 | [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-11 | 2025-08-12 |
 | [The Man](https://open.spotify.com/track/6lDWYtXTFgHUjMybqYc88U) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Man](https://open.spotify.com/album/4i2vNNCgU467jng2k7EGi2) | 5:04 | 2023-09-18 | 2023-11-14 |
@@ -1300,6 +1301,7 @@
 | [Three Methods of Containing Sorrow](https://open.spotify.com/track/3RDCy9sr00fMnAN8b3E26Y) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Three Methods of Containing Sorrow](https://open.spotify.com/album/5dq1nYp45LJ0t5rng19jnU) | 3:56 | 2024-05-17 | 2024-09-14 |
 | [Threshold](https://open.spotify.com/track/0KCCMxvjXlhxH0Ha37popR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 4:11 | 2024-07-15 | 2025-02-12 |
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2021-12-20 | 2022-07-08 |
+| [TIME CAPSULE](https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [TIME CAPSULE](https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2) | 4:12 | 2025-10-17 |  |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 | 2023-11-03 |
 | [Time To Break Up](https://open.spotify.com/track/7r4V6nIAovtbrXOoXIDM9W) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [Time To Break Up](https://open.spotify.com/album/41YjMufLJv2wg2C8wZaBRx) | 3:25 | 2022-10-27 | 2023-01-21 |
 | [Time Travel](https://open.spotify.com/track/3ppS6pCWBP6Yh47ypI3zEo) | [gnay](https://open.spotify.com/artist/7Fni4XZIpShWwVpEMtyqzi) | [Time Travel](https://open.spotify.com/album/7DZVRDnf7r0aR3PBBmQ0Pq) | 3:41 | 2024-08-10 | 2024-09-24 |

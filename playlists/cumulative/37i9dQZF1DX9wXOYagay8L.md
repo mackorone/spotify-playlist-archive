@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Danya Devs
+> Proudly Southern African Afropop gems\. Cover: Zuko SA
 
-718 songs - 2 day 3 hr 13 min
+719 songs - 2 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Abantu abaThandanako \(feat\. NtoMusica, Nokulunga Vilakazi, Lunga Dima\)](https://open.spotify.com/track/6JpBemU4DvK1ZjBeS9ADtn) | [Daskidoh](https://open.spotify.com/artist/0kja8d7Y2jmEMPREkWJf8U), [Pixie L](https://open.spotify.com/artist/38qnDEjuo43UZMmxZRcK6G), [Lunga Dima](https://open.spotify.com/artist/5fyWQbqYFny969khZRMKRU), [Nokulunga Vilakazi](https://open.spotify.com/artist/6wtQMMlPR1S9gBNIsNOTZK), [NtoMusica](https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw) | [iKhambo Lami](https://open.spotify.com/album/5UI6I0JRQlmU4Kf8ukF4rm) | 4:00 | 2024-06-20 | 2024-10-12 |
 | [Abantu Bam](https://open.spotify.com/track/0UwENEL1GkvnoxHqT1Wv8q) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U) | [Abantu Bam](https://open.spotify.com/album/2gnhRknPpOxmViYm4TsKgl) | 4:40 | 2025-04-24 |  |
 | [Abazali](https://open.spotify.com/track/6J0jX6MuObIpZkP1Ob9V3C) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Abazali](https://open.spotify.com/album/2JBdrMf9aP33faZjfBMkzG) | 2:55 | 2025-08-15 |  |
-| [Abazali](https://open.spotify.com/track/7yfB1QDIyeVUbmZhMnFstw) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Painfully Happy](https://open.spotify.com/album/6VLAPA4OpFBrPoLZp46FGH) | 2:55 | 2025-08-29 |  |
+| [Abazali](https://open.spotify.com/track/7yfB1QDIyeVUbmZhMnFstw) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Painfully Happy](https://open.spotify.com/album/6VLAPA4OpFBrPoLZp46FGH) | 2:55 | 2025-08-29 | 2025-10-17 |
 | [Abazazi Bafunani](https://open.spotify.com/track/0spmIF7xn9SuE5hH5ubT8f) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Icala Le Mpumelelo](https://open.spotify.com/album/61J1H6eXGo2MrfDQ2iBhfo) | 3:49 | 2025-04-14 |  |
 | [Abelungu](https://open.spotify.com/track/1rN3hYaB9H4UcYOuSep8i7) | [Diezel Smoke](https://open.spotify.com/artist/0hQEcRSi3aKAYzRuOo7ZF5), [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [Abelungu](https://open.spotify.com/album/2VIQm1GmXG8iZUXytiydxJ) | 4:24 | 2022-07-25 | 2022-09-16 |
 | [Abondaba](https://open.spotify.com/track/64hkawrDFd2UW8wuuf5DGN) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Abondaba](https://open.spotify.com/album/0iLKzBFZd9dqHy6dQNkXZa) | 4:42 | 2023-08-10 | 2024-02-09 |
@@ -713,6 +713,7 @@
 | [Y.O.U.](https://open.spotify.com/track/5PGCJcOdDR8DlqkhMZMODk) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Y.O.U.](https://open.spotify.com/album/2CZiEK2WAD9LNJKB64zLN5) | 4:21 | 2024-02-08 | 2025-02-14 |
 | [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-14 | 2023-06-30 |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
+| [Yinton Na](https://open.spotify.com/track/2sKKbTec2AgNTua3vElSgG) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [ONDITHUMILEYO](https://open.spotify.com/album/7GHhZLJQBQLCIMdDJLA6qk) | 3:09 | 2025-10-16 |  |
 | [Yitshoni](https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD) | [Ndiyehlela](https://open.spotify.com/album/74auQhsM98zKG619UaEFav) | 1:32 | 2024-01-11 | 2024-07-12 |
 | [You Complete Me](https://open.spotify.com/track/18nTfySfK4zRZU9ZPk6BAi) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [You Complete Me](https://open.spotify.com/album/59uox6bthXBgB0sXHMuDSw) | 2:26 | 2024-03-28 | 2024-05-24 |
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-23 | 2024-09-27 |

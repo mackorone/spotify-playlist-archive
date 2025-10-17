@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,743 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,679 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 35 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 36 | [The Omerta](https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 3:18 |
 | 37 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
-| 38 | [Daddy's Girl](https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [MadRaps](https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV) | 2:10 |
-| 39 | [DeadStock](https://open.spotify.com/track/69xH7PCfjipUSctvJj8c8C) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [DeadStock](https://open.spotify.com/album/7A2xLZSQRiSZWInw4fUoC0) | 2:47 |
+| 38 | [No Blemishes](https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [No Blemishes](https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX) | 2:46 |
+| 39 | [Daddy's Girl](https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [MadRaps](https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV) | 2:10 |
 | 40 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
-| 41 | [No Blemishes](https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [No Blemishes](https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX) | 2:46 |
+| 41 | [DeadStock](https://open.spotify.com/track/69xH7PCfjipUSctvJj8c8C) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [DeadStock](https://open.spotify.com/album/7A2xLZSQRiSZWInw4fUoC0) | 2:47 |
 | 42 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
 | 43 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
 | 44 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |

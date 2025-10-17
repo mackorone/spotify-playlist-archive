@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Cenobia
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Lucifena
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,914 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,960 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
-| 2 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:01 |
+| 1 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:01 |
+| 2 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 3 | [Drown With Me](https://open.spotify.com/track/6pw10ovi5o7d44PKAgIG9h) | [False Saints](https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk) | [Echoes Of The Broken](https://open.spotify.com/album/5KVuRyYjxptuue1B9a8rEt) | 3:26 |
 | 4 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:05 |
 | 5 | [Half\-Life](https://open.spotify.com/track/6yH2K3Xgu7X9gqky8NU0vt) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [Half\-Life](https://open.spotify.com/album/2RwNAoB12EkXDjj0qt5u0g) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 99 | [kratom](https://open.spotify.com/track/73IOVaqfXdvt6SKNEmHc9v) | [NOVA BRUTE](https://open.spotify.com/artist/1JQanS92h4TfGqd5fKZvWi), [EX\-LUDO](https://open.spotify.com/artist/0xTcUsBnw9GGAAw2P8zLyK) | [kratom](https://open.spotify.com/album/6Ul1B2jOjz65qFxE3IPyY1) | 2:52 |
 | 100 | [Dead & Gone](https://open.spotify.com/track/5qa1Z8uiWItEsTTAKmORlk) | [Sever](https://open.spotify.com/artist/2EEOsdvu1oJzCKk9rUNQFq) | [Dead & Gone](https://open.spotify.com/album/7803WHnzqcYzacC26JK00j) | 3:01 |
 
-Snapshot ID: `AAAAAPcy1mYa9InPywH8C75gHewhFx48`
+Snapshot ID: `AAAAANFdhgh9Bg8VMoQA4cBKJttuFH6t`

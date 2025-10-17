@@ -1,13 +1,65 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: The Skuy",
-  "num_followers": 113062,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordan Susanto",
+  "num_followers": 113066,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPfZboiAPhr8bPKi5CdAP/6Es/PV",
+  "snapshot_id": "AAAAAOtecnJ5Hhq/C0x6BN0rcEcSwWj5",
   "tracks": [
+    {
+      "added_at": "2025-10-16 17:00:27",
+      "album": {
+        "name": "Fleeting Love (Live at the Jazz Marathon 2025)",
+        "url": "https://open.spotify.com/album/6wNnQiw2o8d3bGFCFrGBP6"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "Nial Djuliarso",
+          "url": "https://open.spotify.com/artist/7xvuA4KIDWeASr76zEvwOw"
+        },
+        {
+          "name": "Joshua Alexander",
+          "url": "https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr"
+        },
+        {
+          "name": "Eliezer Robby",
+          "url": "https://open.spotify.com/artist/4k5MhA8vpfXUCcpRsaiGQj"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Fleeting Love - Live at the Jazz Marathon 2025",
+      "url": "https://open.spotify.com/track/4nNsggh8grTMfylhkPLHbz"
+    },
+    {
+      "added_at": "2025-10-16 17:00:27",
+      "album": {
+        "name": "A SINNER WHO WILL DIE SINGING",
+        "url": "https://open.spotify.com/album/1GADp4d6kTo2dOuuQQnwVY"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        },
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        },
+        {
+          "name": "Grill Dg Lopo",
+          "url": "https://open.spotify.com/artist/0wyjg41UeDkSPH2zPawbNb"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "How Much Love's at Stake?",
+      "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
+    },
     {
       "added_at": "2025-10-09 17:00:21",
       "album": {
@@ -591,22 +643,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Tempat Untuk Pulang",
-        "url": "https://open.spotify.com/album/0MR48dz9ddtrGUnWV3FxXO"
-      },
-      "artists": [
-        {
-          "name": "Didin Marlin",
-          "url": "https://open.spotify.com/artist/5HmV6WP4nWIeY3S63ssgdx"
-        }
-      ],
-      "duration_ms": 258762,
-      "name": "Malam Yang Berisik Di Kenangan",
-      "url": "https://open.spotify.com/track/2QgOQjFtk7PR12Qym1wfER"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "New Flow",
         "url": "https://open.spotify.com/album/1DsQqK4QdsoJ50KdsDS9eZ"
       },
@@ -759,22 +795,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Kamardikan",
-        "url": "https://open.spotify.com/album/2CFNuSpPf44iNrYY089Xfw"
-      },
-      "artists": [
-        {
-          "name": "Avalokiteshvara",
-          "url": "https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2"
-        }
-      ],
-      "duration_ms": 248088,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/7tn0pGHHxcR5EVFcGHkhea"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/2ZY2Kiukixr1VqBotNsTmf"
       },
@@ -795,22 +815,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Wanderer (Trilogy Live Session)",
-        "url": "https://open.spotify.com/album/6zfxCTaB6i47pzlFBJQZlh"
-      },
-      "artists": [
-        {
-          "name": "Tarasinta",
-          "url": "https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL"
-        }
-      ],
-      "duration_ms": 227698,
-      "name": "Wandering - Live Session",
-      "url": "https://open.spotify.com/track/5UldVnKxq9ZMcITiRPh2qx"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Two Pawns / Crutched",
         "url": "https://open.spotify.com/album/1CNF6Y0xdxT9GGeg3WcjQ6"
       },
@@ -823,22 +827,6 @@
       "duration_ms": 235087,
       "name": "I Am",
       "url": "https://open.spotify.com/track/4UvnQjky2iIGSWjaFTZxJr"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr"
-      },
-      "artists": [
-        {
-          "name": "Rahma Savitri",
-          "url": "https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -871,26 +859,6 @@
       "duration_ms": 188224,
       "name": "Gagal Diet",
       "url": "https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir"
-      },
-      "artists": [
-        {
-          "name": "tjdika",
-          "url": "https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7"
-        },
-        {
-          "name": "Tommy Pratomo",
-          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -943,22 +911,6 @@
       "duration_ms": 206376,
       "name": "Nurlela",
       "url": "https://open.spotify.com/track/2FyIuOusvjzE5cAXH2iMPW"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Chroma",
-        "url": "https://open.spotify.com/album/0CMeBic02tygImc4JupoEl"
-      },
-      "artists": [
-        {
-          "name": "Andre Dinuth",
-          "url": "https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Chroma",
-      "url": "https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP"
     },
     {
       "added_at": "2025-06-26 17:47:30",

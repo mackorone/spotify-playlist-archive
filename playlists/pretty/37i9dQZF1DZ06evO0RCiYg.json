@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 537406,
+  "num_followers": 537481,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO2SgAAAAADFVKFP6t2J3OBfdY+HGXG0",
+  "snapshot_id": "aO7kAAAAAABWOZkZtEmQgwOjrQfJ+oc6",
   "tracks": [
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Front",
-        "url": "https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz"
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Joints & Jam",
-      "url": "https://open.spotify.com/track/1oPxTBaK2Hjtmwd7ICWHbK"
+      "duration_ms": 221694,
+      "name": "NO MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso"
     }
   ],
   "unique_name": "This Is Black Eyed Peas",

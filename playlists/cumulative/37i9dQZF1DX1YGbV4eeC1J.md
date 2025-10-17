@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Diamond Platnumz
+> What is your love language? Say it in Swahili\.  Cover: Alikiba
 
-319 songs - 17 hr 56 min
+320 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Miss U Bad](https://open.spotify.com/track/14rxnzoifQ42TBqxuWJ5Ys) | [Stepperz](https://open.spotify.com/artist/1XQPI6QqsHeBoCFUfAHDth), [Winnie Paul](https://open.spotify.com/artist/0X5mUWmOKejiTwwpFpwm3l) | [Miss U Bad](https://open.spotify.com/album/473plLt1yX2E2P0yN8gGKI) | 2:32 | 2025-09-12 |  |
 | [Miss U Mama](https://open.spotify.com/track/6whQSAHFD8uejAoSKXJC9e) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Miss U Mama](https://open.spotify.com/album/5s6W0xnh5X2RnLC5GQBaIL) | 4:02 | 2024-04-18 | 2024-05-10 |
 | [Morning Call](https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Morning Call](https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro) | 3:13 | 2023-06-15 | 2024-03-01 |
-| [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 |  |
+| [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 | 2025-10-17 |
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-05-26 | 2022-11-18 |
 | [Moyo](https://open.spotify.com/track/4p7r68fFE5bXHgcTrlokp0) | [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Moyo](https://open.spotify.com/album/2uwXA4cezt9I7b9oNeE0Un) | 3:02 | 2025-02-20 | 2025-08-15 |
@@ -254,6 +254,7 @@
 | [Sare](https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sare](https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp) | 3:34 | 2025-01-31 | 2025-06-10 |
 | [Sawa \(feat\. Bailey RSA\)](https://open.spotify.com/track/2ZuRik1hV7YmIDqJo8rDl6) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Bailey RSA](https://open.spotify.com/artist/2QkOBh67XdbHPuruBuTYGZ) | [Sawa \(feat\. Bailey RSA\)](https://open.spotify.com/album/38jrW3CUIjHwc5sHiohB4B) | 4:10 | 2024-03-14 | 2024-03-22 |
 | [Sele \(feat\. Chley\)](https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Sele \(feat\. Chley\)](https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc) | 4:12 | 2024-03-14 | 2024-03-22 |
+| [Sella](https://open.spotify.com/track/7LOTcIQ7yuQHxTPEdIvP9g) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Sella](https://open.spotify.com/album/7pz3hUlORG75E9FupX5iJJ) | 3:09 | 2025-10-16 |  |
 | [Shika](https://open.spotify.com/track/6XxqdIiwZNUwJkXZVEmXJD) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Shika](https://open.spotify.com/album/0Z1NRlQAq2ZJKYpqibIBMB) | 3:11 | 2024-03-14 | 2024-03-22 |
 | [Show Off](https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Show Off](https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ) | 3:11 | 2023-08-31 | 2024-04-19 |
 | [Shu! \(feat\. Chley\)](https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Shu! \(feat\. Chley\)](https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn) | 4:23 | 2024-03-14 | 2024-03-22 |

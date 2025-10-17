@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Siamese Youth, Michael Oakley, PRIZM and more
+> With Siamese Youth, PRIZM, Coastal and more
 
 1,595 songs - 4 day 14 hr 29 min
 

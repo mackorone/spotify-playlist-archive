@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 107339,
       "name": "BMW",
       "url": "https://open.spotify.com/track/0anUN5hO584TVu17CDRmLW"
@@ -6524,7 +6524,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 168036,
       "name": "Complica",
       "url": "https://open.spotify.com/track/1Q9SCRgQgWwokmb6ZZbyhx"
@@ -10170,7 +10170,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 172233,
       "name": "DIOS LO QUIZO AS\u00cd",
       "url": "https://open.spotify.com/track/0eYxHp5xLmvIgvVWs32BwG"
@@ -10384,6 +10384,28 @@
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/55QOkGHSlGHC83G7JxBSI5"
+      },
+      "artists": [
+        {
+          "name": "ASPEN",
+          "url": "https://open.spotify.com/artist/4nsimrcTQCVaH3IMBjLgfH"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135921,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2DBEeJtfesP6YiWFIBLLNr"
     },
     {
       "album": {
@@ -17684,7 +17706,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -26090,7 +26112,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 225000,
       "name": "Odio (feat. Drake)",
       "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Your weekly dose of new dance. Cover: Sara Landry",
+  "description": "Your weekly dose of new dance. Cover: Sonny Fodera, Poppy Baskcomb & D.O.D",
   "name": "New Dance Beats",
   "tracks": [
     {
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 251620,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/5Q9abVcN6DumI7b5Eggfr2"
@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186249,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3SUxfs7UkI1GX3PKDOTNl2"
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
@@ -7037,6 +7037,32 @@
     },
     {
       "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/6J80PV8CviBHXCzN0T3Fey"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Crazy Donkey",
+          "url": "https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi"
+        },
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160198,
+      "name": "Billion Dollar Baby",
+      "url": "https://open.spotify.com/track/0kPnkK1rMEADUPc7GyG5TL"
+    },
+    {
+      "album": {
         "name": "Birthday Party",
         "url": "https://open.spotify.com/album/5dKGmIA6q1wd3Pid0xaRZO"
       },
@@ -7874,7 +7900,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
@@ -15843,6 +15869,28 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
       },
@@ -16648,6 +16696,24 @@
       "duration_ms": 203134,
       "name": "DNA \u221e",
       "url": "https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH"
+    },
+    {
+      "album": {
+        "name": "DNCR / Imprint",
+        "url": "https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187434,
+      "name": "DNCR",
+      "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
     },
     {
       "album": {
@@ -17900,6 +17966,28 @@
       "duration_ms": 177390,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/61rmsEZyLo8goU99wBxlFA"
+    },
+    {
+      "album": {
+        "name": "Dreaming (Feelings)",
+        "url": "https://open.spotify.com/album/0VhInKrXGDFPWZFSy2VOY4"
+      },
+      "artists": [
+        {
+          "name": "Fish56Octagon",
+          "url": "https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151904,
+      "name": "Dreaming (Feelings)",
+      "url": "https://open.spotify.com/track/03fBbF1Y6uNdC4v7RhBCrH"
     },
     {
       "album": {
@@ -29800,7 +29888,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 174857,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/4gCgW62hyQq7a0mkfsj1fe"
@@ -32560,7 +32648,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 255013,
       "name": "Ibiza is Calling",
       "url": "https://open.spotify.com/track/5bwt9qZN5mNNAX0KgZkBpC"
@@ -38778,7 +38866,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 220108,
       "name": "LOOK4MYLOVE",
       "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
@@ -44376,6 +44464,28 @@
       "duration_ms": 176041,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu"
+    },
+    {
+      "album": {
+        "name": "Needed You",
+        "url": "https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp"
+      },
+      "artists": [
+        {
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+        },
+        {
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123406,
+      "name": "Needed You",
+      "url": "https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0"
     },
     {
       "album": {
@@ -54727,6 +54837,32 @@
     },
     {
       "album": {
+        "name": "Run That Back",
+        "url": "https://open.spotify.com/album/7rLtJk6aOvBZUhEH3i7rrp"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Chandler",
+          "url": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
+        },
+        {
+          "name": "Brazen Barbie",
+          "url": "https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171711,
+      "name": "Run That Back",
+      "url": "https://open.spotify.com/track/7mDLlj213D5YK447mlmTZk"
+    },
+    {
+      "album": {
         "name": "Run The Night (feat. AKOSIA)",
         "url": "https://open.spotify.com/album/6FkbHKB2LJCjXIskMBWycr"
       },
@@ -58128,6 +58264,24 @@
       "duration_ms": 130731,
       "name": "Single In The Club",
       "url": "https://open.spotify.com/track/6If5wHFAxDVNz8g4MNjUrc"
+    },
+    {
+      "album": {
+        "name": "Sit Tight",
+        "url": "https://open.spotify.com/album/0Ny3Pl3MhVHSWNlBgcYgLz"
+      },
+      "artists": [
+        {
+          "name": "Brad Mullins",
+          "url": "https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191904,
+      "name": "Sit Tight",
+      "url": "https://open.spotify.com/track/0lw3XIbcnRNjR4CQ62gcYS"
     },
     {
       "album": {
@@ -62720,7 +62874,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 215992,
       "name": "Synthesizer",
       "url": "https://open.spotify.com/track/2sfJ59epGr4fe2nwjNK5DV"
@@ -64585,6 +64739,28 @@
     },
     {
       "album": {
+        "name": "The Boy / Moon",
+        "url": "https://open.spotify.com/album/2D6VMDBpN8qEy5ceRKoRZY"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/4sJj3nlx2SO2YJCV13T2CZ"
+    },
+    {
+      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
@@ -65923,6 +66099,32 @@
     },
     {
       "album": {
+        "name": "Think About Us",
+        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178148,
+      "name": "Think About Us",
+      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
+    },
+    {
+      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -66724,6 +66926,24 @@
       "duration_ms": 211782,
       "name": "To Be Yours (feat. Claud)",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+    },
+    {
+      "album": {
+        "name": "Try Your Wings (To Fly)",
+        "url": "https://open.spotify.com/album/5pJmaLXoRzqb1wJydBy770"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281403,
+      "name": "To Fly",
+      "url": "https://open.spotify.com/track/16r56xxgu3zzzK4olZhZ1G"
     },
     {
       "album": {
@@ -70414,7 +70634,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"

@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-262 songs - 1 day 11 hr 6 min
+263 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ain't Bragging \- Live](https://open.spotify.com/track/10oklXEk4wEvuvmmarG4lS) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Ain't Bragging \(Live\)](https://open.spotify.com/album/6G67sJTPZPEosjkooWtain) | 5:26 | 2024-08-16 | 2024-10-04 |
 | [All I Have](https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All I Have](https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP) | 5:50 | 2024-10-11 |  |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 |  |
+| [Amandla \- Live](https://open.spotify.com/track/1aouk0cuImwh43TboSr12l) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Sesi Rhoda](https://open.spotify.com/artist/5QGDLCb92eloRXUmd9UIGq) | [Amandla \(Live\)](https://open.spotify.com/album/3OoMombUZCPzfif0JtaRPD) | 8:54 | 2025-10-17 |  |
 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 | 2024-05-10 |  |
 | [Anesu \(God with us\) \- Live](https://open.spotify.com/track/3ebUYrBfGD2A0dvOxQx6Cc) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Chairo](https://open.spotify.com/artist/1FFHFMUEGwwivLM3rO42ce) | [Anesu \(God with us\) \[Live\]](https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ) | 11:06 | 2025-02-28 | 2025-04-18 |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 |  |
@@ -129,7 +130,7 @@
 | [King Of Glory \- Live](https://open.spotify.com/track/4itomPSq33Qajs152476n0) | [Ugee Royalty](https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF) | [King Of Glory \(Live\)](https://open.spotify.com/album/3D1wfBDMZFJP7L0HVccuQ7) | 4:37 | 2025-04-11 | 2025-05-30 |
 | [King of the Host \(Live\)](https://open.spotify.com/track/4Y1f8aq1DPk9EXsHQySpZ9) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [King of the Host \(Live\)](https://open.spotify.com/album/0wvcihCblE6rVUcjTwnCRL) | 8:13 | 2025-03-14 | 2025-04-18 |
 | [Kingdom Come \- Live](https://open.spotify.com/track/3Q7oyCiwMOYyUlGhYfxU2i) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Hallel](https://open.spotify.com/artist/46UGxcEh5kqVkGG9O09U4S), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc), [CJ Nonso](https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F), [Favvy Sings](https://open.spotify.com/artist/7scyetePnpih3zaBZIZE8t) | [Kingdom Come \(Live\)](https://open.spotify.com/album/2qc2BQ2DpXKbChrvM02Djq) | 10:34 | 2024-11-08 | 2024-12-20 |
-| [KINGS AND PRIESTS \- Live](https://open.spotify.com/track/3V5B57fJImvhzpWuzrVyKi) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Caleb David](https://open.spotify.com/artist/7C2oEPctxS2j9pXPODStKz) | [KINGS AND PRIESTS \(Live\)](https://open.spotify.com/album/4VVIg3orQVZqpGEg3imi6C) | 11:36 | 2025-05-23 |  |
+| [KINGS AND PRIESTS \- Live](https://open.spotify.com/track/3V5B57fJImvhzpWuzrVyKi) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Caleb David](https://open.spotify.com/artist/7C2oEPctxS2j9pXPODStKz) | [KINGS AND PRIESTS \(Live\)](https://open.spotify.com/album/4VVIg3orQVZqpGEg3imi6C) | 11:36 | 2025-05-23 | 2025-10-17 |
 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \(Live\)](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 | 2024-09-13 | 2024-11-01 |
 | [Let Them Know \- Live](https://open.spotify.com/track/0HqvZlBUawha81zBQ5wnFl) | [David Ekene](https://open.spotify.com/artist/5A7uVlEs5QcS92rQl9A2IJ) | [Let Them Know \(Live\)](https://open.spotify.com/album/5V9HkW2CNncaS6dI8K3WG9) | 9:07 | 2024-09-20 | 2024-11-15 |
 | [Lift Up Your Voices \- Live](https://open.spotify.com/track/0TXH1EyG4FsKHpp8CIBK4I) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Lift Up Your Voices \(Live\)](https://open.spotify.com/album/66rGbvNL1jJAcKHf6fqMi7) | 9:17 | 2024-09-13 | 2025-02-21 |

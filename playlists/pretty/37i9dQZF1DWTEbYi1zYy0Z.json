@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 80518,
+  "num_followers": 80569,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm",
+  "snapshot_id": "AAAAADjDMTPqUDOAn0Qcmzch67exNxBZ",
   "tracks": [
+    {
+      "added_at": "2025-10-16 04:00:18",
+      "album": {
+        "name": "Live n' Learn (Radio Version)",
+        "url": "https://open.spotify.com/album/7dIZbHJbukXGYrb2Xh3rOn"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 225899,
+      "name": "Live n' Learn - Radio Version",
+      "url": "https://open.spotify.com/track/3hUHWDxeEwa80JKIMMVYGZ"
+    },
+    {
+      "added_at": "2025-10-16 04:00:18",
+      "album": {
+        "name": "The Diamond",
+        "url": "https://open.spotify.com/album/0C3ntqClW5078JX1je6doc"
+      },
+      "artists": [
+        {
+          "name": "Steve Bach",
+          "url": "https://open.spotify.com/artist/3D5yBvdAeYy4tUd7hHXCzS"
+        },
+        {
+          "name": "Alisha Pattillo",
+          "url": "https://open.spotify.com/artist/3gT1IaoSPIqTItiykIp5uU"
+        }
+      ],
+      "duration_ms": 222565,
+      "name": "The Diamond",
+      "url": "https://open.spotify.com/track/7fqZbjcr0ZHxckKZNlW76v"
+    },
     {
       "added_at": "2025-09-26 04:00:27",
       "album": {
@@ -995,22 +1031,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/1EW7QmjmT59aUY5GXYLjrn"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 227197,
-      "name": "Road Trip",
-      "url": "https://open.spotify.com/track/1fZsFEOuUwJ46AMglQgtF9"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "That's The Way Of The World (Radio Edit)",
         "url": "https://open.spotify.com/album/1z53AlUZCtP4wwKPz2elg5"
       },
@@ -1675,22 +1695,6 @@
       "duration_ms": 201231,
       "name": "Slo Jam",
       "url": "https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Can You Stand the Rain",
-        "url": "https://open.spotify.com/album/0lIu2Rc7OdLodxbwCbsd3i"
-      },
-      "artists": [
-        {
-          "name": "Brian Lenair",
-          "url": "https://open.spotify.com/artist/5yqmxKpOCtz0LAjPNlvf68"
-        }
-      ],
-      "duration_ms": 244270,
-      "name": "Can You Stand the Rain",
-      "url": "https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR"
     },
     {
       "added_at": "2023-06-16 04:01:00",

@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178114,
+      "name": "Heisenberg",
+      "url": "https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0"
+    },
+    {
+      "album": {
         "name": "Heisenberg",
         "url": "https://open.spotify.com/album/0DwmfIRLTlKWbYm9mH0y4S"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 178114,
       "name": "Heisenberg",
       "url": "https://open.spotify.com/track/6QCupuIoTrOUxO214431rw"

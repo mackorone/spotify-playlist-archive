@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C?si=Ir-jxYolQAa_kEyVh8eDuQ\">D'banj</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=MQIy0hxGSWSE56AjAIzpEg\">DJ Maphorisa</a>, <a href=\"https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe?si=ddoaKh86SCanWqMsvMzAVg\">DJ OBI</a>",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=VUsz2vANRxaUtW2NgYkDSg\">Diamond Platnumz</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
@@ -4362,7 +4362,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 188571,
       "name": "Joy Is Coming",
       "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
@@ -7870,10 +7870,44 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 387433,
       "name": "Sangena (feat. Scotts Maphuma & Toss)",
       "url": "https://open.spotify.com/track/7uyScF14QVoYWUE51t3XYi"
+    },
+    {
+      "album": {
+        "name": "Sasampa (feat. Focalistic, Uncool MC, Silas Africa, Xduppy)",
+        "url": "https://open.spotify.com/album/1nrlsDYvIwth84Tkm8vNqA"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Silas Africa",
+          "url": "https://open.spotify.com/artist/6a4F8FONY3tD2Jidnm4bIG"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310088,
+      "name": "Sasampa (feat. Focalistic, Uncool MC, Silas Africa, Xduppy)",
+      "url": "https://open.spotify.com/track/4N3tlrZAKLZCFPv7Dfqgc2"
     },
     {
       "album": {
@@ -8140,6 +8174,32 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "album": {
+        "name": "Sinatanale (Thakzin Remix)",
+        "url": "https://open.spotify.com/album/1ogMXpQmOhWRkswqMsKHyd"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272713,
+      "name": "Sinatanale - Thakzin Remix",
+      "url": "https://open.spotify.com/track/3YwmwvHOaSb88O9bWMrEai"
     },
     {
       "album": {
@@ -9550,6 +9610,32 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
+      "album": {
+        "name": "Water Water Yansh",
+        "url": "https://open.spotify.com/album/5Fx3D1mEkXudkDzqZxWK95"
+      },
+      "artists": [
+        {
+          "name": "OBA DDJ45",
+          "url": "https://open.spotify.com/artist/0YYhkcOClhez1bIgsKwB3M"
+        },
+        {
+          "name": "Muripounds",
+          "url": "https://open.spotify.com/artist/3hEUb73oRSHRqUwGSShcG5"
+        },
+        {
+          "name": "Emmyblaqcfr_",
+          "url": "https://open.spotify.com/artist/3vmt0ECmETTJzJInF8maoB"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212154,
+      "name": "Water Water Yansh",
+      "url": "https://open.spotify.com/track/0VSDlMxY0MmkVrTloPOKuJ"
     },
     {
       "album": {

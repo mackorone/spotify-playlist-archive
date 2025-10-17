@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Hatchie
 
-1,042 songs - 2 day 8 hr 42 min
+1,043 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [One Last Drag](https://open.spotify.com/track/72EdNYAMrxZKcnxvP1mpu4) | [Hayley Mary](https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH) | [One Last Drag](https://open.spotify.com/album/11i8xYfkd4zdBkKcSBKqSe) | 4:11 | 2024-04-25 | 2024-06-18 |
 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 | 2024-02-14 | 2024-08-28 |
 | [One More Step](https://open.spotify.com/track/5ah0lStBk74Qb8pgSeLupG) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [One More Step](https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG) | 3:19 | 2024-10-15 | 2024-11-19 |
+| [One Way Trip](https://open.spotify.com/track/34Wc9WsrsfVWnr9V9vEmeZ) | [Reb Fountain](https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1) | [One Way Trip](https://open.spotify.com/album/1bWt6uFIiZe8NxwOj7Hdwa) | 4:46 | 2025-10-09 |  |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-31 | 2024-04-26 |
 | [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 | 2022-09-05 | 2023-07-04 |
 | [Only Girl](https://open.spotify.com/track/6yjRjFRX16Vk4bUYFl13x4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Only Girl](https://open.spotify.com/album/5dV4k7tbseS5O9ySeFUDLz) | 2:14 | 2025-08-12 |  |

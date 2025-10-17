@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,360 songs - 12 day 11 hr 34 min
+5,364 songs - 12 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 | 2024-04-29 | 2024-08-13 |
 | [ALUCINABA](https://open.spotify.com/track/5I1HVRAtnvapsOF7iBN9Y8) | [Goca](https://open.spotify.com/artist/2wQl8Iv3h5Q0cwhMreVexO) | [ALUCINABA](https://open.spotify.com/album/5e1ffCGOWj0ci7jNGOBJD9) | 3:26 | 2024-01-30 | 2024-02-11 |
 | [Always](https://open.spotify.com/track/4P2dm3RqDbYG4LZ4pN4dLc) | [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Always](https://open.spotify.com/album/79zleP3xolhmPF5zusxn2G) | 3:07 | 2024-06-05 | 2024-06-17 |
+| [always b there](https://open.spotify.com/track/5SfiKFsVQnzFt2kIhkaO3n) | [bbluv](https://open.spotify.com/artist/0hCRS1ioCHeuhDbRBK4ckq), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [JohnMD](https://open.spotify.com/artist/5zqxCFyWIEgVQ6vwXUFuzJ) | [always b there](https://open.spotify.com/album/6zysvQq7dVeSp7eVvKyjuA) | 2:00 | 2025-10-16 |  |
 | [Always Dreaming \(of Gina\)](https://open.spotify.com/track/2aHthzuDY74jguQJaXIF2Q) | [KIND\-O\-CHILL](https://open.spotify.com/artist/4PHMOjbAOjBNbkShrdzE3y) | [Always Dreaming \(of Gina\)](https://open.spotify.com/album/0Q6AE7Vpt9p7M1RmW81qOa) | 2:48 | 2024-06-15 | 2024-06-27 |
 | [Always in Time](https://open.spotify.com/track/5Q47duygQZfoSZBFPboqwB) | [Troielle](https://open.spotify.com/artist/17SfPqAL8LbL5kA9YNYIwY) | [Always in Time](https://open.spotify.com/album/16LLppA284KUMddowtYoVJ) | 3:10 | 2024-04-26 | 2024-05-14 |
 | [ALWAYS NOWHERE](https://open.spotify.com/track/0yzb7gPnOMuTI1hR8JqfEa) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [ALWAYS NOWHERE](https://open.spotify.com/album/2uBcHRyXm7tITq6MKWXoqM) | 1:55 | 2023-03-06 | 2023-03-31 |
@@ -1264,6 +1265,7 @@
 | [Don't Wanna Wake](https://open.spotify.com/track/0beGbe6JESMEjCDRsxBTAz) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Don't Wanna Wake](https://open.spotify.com/album/11qhiCd89CMKDuh9rQTFtx) | 3:09 | 2023-06-22 | 2023-07-09 |
 | [Don't Want You](https://open.spotify.com/track/0JdJYG1Utuq5bL9lZ1Hjdy) | [Elijah Parham](https://open.spotify.com/artist/25YJk0CscumhEfX5eZ37tQ) | [Caving](https://open.spotify.com/album/6wgWqeGy6QJpyWzu1P7bXK) | 3:26 | 2024-06-08 | 2024-06-20 |
 | [Don't Waste It](https://open.spotify.com/track/6YEgVSezyB2Ao8S8sTkG3A) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Don't Waste It](https://open.spotify.com/album/3gjgoW5hY1qQc3vQqcXRhq) | 3:14 | 2025-09-18 | 2025-10-01 |
+| [Don't You Forget About Me](https://open.spotify.com/track/1gUdr56ko9J7fZHHHN6nFh) | [Sara Melson](https://open.spotify.com/artist/1Kytaevw3xfR35imimNkaG) | [Don't You Forget About Me](https://open.spotify.com/album/5j8SuHgWHUHTygLbqVH8Rj) | 3:44 | 2025-10-16 |  |
 | [Don't You Know](https://open.spotify.com/track/38d1M3vfvW3nOBaNHbMMwf) | [LorZzz](https://open.spotify.com/artist/0wZWiHVMV9Cp8trFwEVQsk) | [Don't You Know](https://open.spotify.com/album/4T5hbdHZbaCCowCH7Rh7nI) | 2:28 | 2024-06-18 | 2024-06-30 |
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 | 2019-09-29\* | 2020-09-01 |
 | [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 | 2021-07-12 | 2021-11-19 |
@@ -2126,6 +2128,7 @@
 | [Hummingbird](https://open.spotify.com/track/5GgahQKKYPNkGUG6WiqFtv) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [Hummingbird](https://open.spotify.com/album/4xIGwlKLHdniTwykkQB0Po) | 2:39 | 2022-10-28 | 2022-11-19 |
 | [Hurricane](https://open.spotify.com/track/0ht9IhvyLF82NbBHMGm6YF) | [Patric Scott](https://open.spotify.com/artist/0DOm3VLDtv0mzfkG1FqOH7), [Skulduggz](https://open.spotify.com/artist/4IE37AP3FMBKs5yG7FosV9) | [Hurricane](https://open.spotify.com/album/3YXu6rfTxAf6q142kjoK8x) | 3:25 | 2022-07-04 | 2022-07-22 |
 | [Hurt](https://open.spotify.com/track/5SZWEsqu7ti9LePn6i82lj) | [Mark Hamilton](https://open.spotify.com/artist/05GVMeplEuVRQ8SXTkJ5UI), [Jan Gałach](https://open.spotify.com/artist/0xnDMUp6MDOZpGYtorQQs6) | [Hurt](https://open.spotify.com/album/5BM7wNrm846dWVG4fM5Zqd) | 4:22 | 2021-12-14 | 2022-01-07 |
+| [hurt](https://open.spotify.com/track/5N1jyQbx2Yxk3dHKJ0nrpG) | [Mary Ann Wright](https://open.spotify.com/artist/7wv9wEpM5NKI877LAbwWbf) | [enough](https://open.spotify.com/album/0M6gHInXljtImqUGAj6ojb) | 3:34 | 2025-10-16 |  |
 | [Hurt Aagain](https://open.spotify.com/track/5q2OmTIERXXvksnwxTWxbc) | [Naomi Yanos](https://open.spotify.com/artist/6eCReEuVa650ZuotJvKksc) | [Trying to Keep My Toes](https://open.spotify.com/album/1VSAtAAtDpIcYEWSuLBi7t) | 4:18 | 2025-01-14 | 2025-01-26 |
 | [Hush](https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Deluxe\)](https://open.spotify.com/album/7rkuRWugpXPOj9KVaYQZlM) | 2:09 | 2025-04-27 | 2025-06-14 |
 | [Hush](https://open.spotify.com/track/1KkwbgyZBXNJWtCohp77CA) | [Keyahxh](https://open.spotify.com/artist/77fGnJ4lxXstp9JCyWm2zk) | [Not to Much](https://open.spotify.com/album/4fpJcz4FhnUgpcKrMK6apo) | 2:07 | 2025-03-05 | 2025-03-17 |
@@ -3340,6 +3343,7 @@
 | [O Holy Night](https://open.spotify.com/track/6HBmHmKx6oWCEYLMvefeTL) | [As Is](https://open.spotify.com/artist/3kCaOfJgiMuDKOPkzJL3aI) | [O Holy Night](https://open.spotify.com/album/2F5qPNipWof3MHpmLWY3FG) | 3:06 | 2024-12-14 | 2024-12-26 |
 | [O Quarto \- Soundtrack Version](https://open.spotify.com/track/4iGW3Cjru1RVBzFEFfBlYI) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:16 | 2024-08-12 |  |
 | [Oak Tree](https://open.spotify.com/track/0MJahZptuCBfLX5DVrL682) | [Hieros Gamos](https://open.spotify.com/artist/5Oors7sxVBhBHKVXfBRd1J) | [Oak Tree](https://open.spotify.com/album/4XQJLSdUk4dDtrtxMN42VY) | 6:49 | 2023-12-28 | 2024-01-05 |
+| [Oasis](https://open.spotify.com/track/2BErRZBoWGubwxNzjhy7S3) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Oasis](https://open.spotify.com/album/5lA2i5jeybyU72tr13vsuv) | 3:06 | 2025-10-16 |  |
 | [Oasis](https://open.spotify.com/track/6a1TU3CohMRB3GQrPE4CUh) | [Us3r](https://open.spotify.com/artist/6WKERvE3l2iklzOSZxtLsf) | [Oasis](https://open.spotify.com/album/1Be1lPGRJq5A3xGfVH0FS3) | 3:15 | 2021-06-26 | 2021-07-12 |
 | [Obsessed](https://open.spotify.com/track/27JQIiCCGGj9RsvQuCtc27) | [coasT](https://open.spotify.com/artist/6yTH0xQfcVbp8b6afRfAJZ) | [Obsessed](https://open.spotify.com/album/3I2dpWdCd38ArJ7xbpT0x8) | 2:19 | 2024-07-24 | 2024-08-05 |
 | [Obsessed](https://open.spotify.com/track/1V5e1iDlwRbHw9OL8DBrAG) | [Mia Grace](https://open.spotify.com/artist/3sQqNOqJbcGWXJz9UUnFm0) | [Obsessed](https://open.spotify.com/album/0qM09b6ga8COUk0tE5x8er) | 3:35 | 2024-10-18 | 2024-11-02 |

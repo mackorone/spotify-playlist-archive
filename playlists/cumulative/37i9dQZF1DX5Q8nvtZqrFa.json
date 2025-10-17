@@ -3305,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30b9\u30c8\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/5JbBvqVLhiD0pujKZgNDhQ"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/0rzrNUsy4jOBCRz8GCFk8M"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220629,
+      "name": "\u30ed\u30b9\u30c8\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3BH0XiKdNmDBEObMgQwdPv"
+    },
+    {
+      "album": {
         "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/3JEKdUwAJRzQ6nOmudnvnn"
       },

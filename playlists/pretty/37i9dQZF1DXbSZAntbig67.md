@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,595 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,598 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 76 | [En Navidad, turrón y mazapán](https://open.spotify.com/track/76fqmDPUF7NNQKVWMqiEop) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 3:12 |
 | 77 | [Feliz Navidad](https://open.spotify.com/track/2q6Pjan1gvTJA4Jz1Uh0tx) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones De Navidad En Español](https://open.spotify.com/album/716i3FUoHuiLCScWOZFvUn) | 3:19 |
 | 78 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/7u6Na5Zer1w9PBmra42tlh) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 2:26 |
-| 79 | [El Beat de la Navidad](https://open.spotify.com/track/1LOmOworKCTUaYrfCoekFC) | [The Innfluencers](https://open.spotify.com/artist/7oG16xbmQGISrCWU5oIIP9), [Charito D'Alessio](https://open.spotify.com/artist/3V5Qw3ZCcw61Yxal7ydnIi), [Jimena Longoria](https://open.spotify.com/artist/3LfKAsfLT8rsYhO0u0Uj16), [Andy Benavides](https://open.spotify.com/artist/5KZjdL9bBiJpRS1VUCIclr) | [El Beat de la Navidad](https://open.spotify.com/album/4V4lEwBl7eijAlSsbVaN8h) | 3:14 |
+| 79 | [El Beat de la Navidad](https://open.spotify.com/track/1LOmOworKCTUaYrfCoekFC) | [The Innfluencers](https://open.spotify.com/artist/7oG16xbmQGISrCWU5oIIP9), [Andy Benavides](https://open.spotify.com/artist/5KZjdL9bBiJpRS1VUCIclr), [Jimena Longoria](https://open.spotify.com/artist/3LfKAsfLT8rsYhO0u0Uj16), [Charito D'Alessio](https://open.spotify.com/artist/3V5Qw3ZCcw61Yxal7ydnIi) | [El Beat de la Navidad](https://open.spotify.com/album/4V4lEwBl7eijAlSsbVaN8h) | 3:14 |
 | 80 | [¡Ay! del Chiquirritin](https://open.spotify.com/track/3avEmlpCtDrgkZCilJ1M7n) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:09 |
 | 81 | [Ya Vienen los Reyes](https://open.spotify.com/track/3U6Pdh2Smnwc8ruhcv9PKc) | [Coro Católico Navideño Virgen María](https://open.spotify.com/artist/1i2brfbbB4R5ZfRcKRaazP) | [Navidad para Niños\. Voces Blancas Cantan Villancicos](https://open.spotify.com/album/44PVoGzXgo7Awm0r37jPF4) | 2:33 |
 | 82 | [Santa Claus de noche vendrá](https://open.spotify.com/track/2vTMA1BdYJo1OC5j12xYkx) | [Los Niños de Navidad](https://open.spotify.com/artist/3KpS6H7CXNEQkbxtoHH6ri) | [Feliz Navidad & a Merry Christmas: 40 Canciones Favoritas Para Niños](https://open.spotify.com/album/5CXFZPU8JSP6gxz7gpW0yi) | 2:32 |

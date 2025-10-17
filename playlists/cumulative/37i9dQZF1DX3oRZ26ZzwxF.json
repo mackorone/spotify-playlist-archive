@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Ninho x Himra",
+  "description": "Le meilleur du rap africain francophone. Photo : Suspect 95",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 192933,
       "name": "Dj Bombastik",
       "url": "https://open.spotify.com/track/3fo1U6TLPAlmx3E7kV1QFA"
@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/7b9XLdMqDrkthHIuM8B77h"
+      },
+      "artists": [
+        {
+          "name": "Meulo",
+          "url": "https://open.spotify.com/artist/1xmIVGnS3UQ9QQp5oVvtIz"
+        },
+        {
+          "name": "Chamy",
+          "url": "https://open.spotify.com/artist/7pdqEUfByowi1RO4ucWKcz"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/4XFrp77rakw330z3XEh3Qp"
+    },
+    {
+      "album": {
         "name": "GNINNIN TRAFIC",
         "url": "https://open.spotify.com/album/1DMDXPhs3b0yGGntCKAiQ2"
       },
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 168979,
       "name": "JAMAIS CHERLA (feat. D\u00f8pelym & Himra)",
       "url": "https://open.spotify.com/track/6pywovJJTEQYgwvrrTAABN"
@@ -1682,6 +1704,28 @@
       "duration_ms": 146000,
       "name": "KATI-K",
       "url": "https://open.spotify.com/track/49L6HSlrQ8DOrAOAmHathK"
+    },
+    {
+      "album": {
+        "name": "Kilometazz",
+        "url": "https://open.spotify.com/album/5N11YqiaSWPE8NfWs9XJwI"
+      },
+      "artists": [
+        {
+          "name": "Mr Behi",
+          "url": "https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF"
+        },
+        {
+          "name": "Kawid",
+          "url": "https://open.spotify.com/artist/5syggS0mW2lbXyA9L5XzRN"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168711,
+      "name": "Kilometazz",
+      "url": "https://open.spotify.com/track/7wlEX9Sfm0ALjdGsDR7OuE"
     },
     {
       "album": {
@@ -2007,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Merci au Syndicat II",
+        "url": "https://open.spotify.com/album/0WGnOAkd5WwPtbcjaRrnWT"
+      },
+      "artists": [
+        {
+          "name": "Suspect95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Merci au Syndicat II",
+      "url": "https://open.spotify.com/track/5i0MBn7IWBKj0WhG6zUX6i"
+    },
+    {
+      "album": {
         "name": "META, Vol. 2",
         "url": "https://open.spotify.com/album/0hKfYKDdugoKUzpFq8nc7A"
       },
@@ -2058,7 +2120,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 177696,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/55UrNTlMsd1ADUZ4kzriV7"

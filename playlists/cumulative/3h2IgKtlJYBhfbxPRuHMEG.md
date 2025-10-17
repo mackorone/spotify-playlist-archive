@@ -2,7 +2,7 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: SIPPY
 
 188 songs - 10 hr 32 min
 

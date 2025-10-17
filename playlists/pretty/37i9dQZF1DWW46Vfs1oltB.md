@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>BABYMONSTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,452 likes - 105 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,406 likes - 105 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

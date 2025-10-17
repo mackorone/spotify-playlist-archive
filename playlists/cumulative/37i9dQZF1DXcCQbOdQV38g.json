@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Naar Malaga Ga",
+        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143203,
+      "name": "Als Ik Naar Malaga Ga",
+      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
+    },
+    {
+      "album": {
         "name": "Amalia",
         "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 164280,
       "name": "Oh Ja Ja Ja (Zon In Mijn Hart)",
       "url": "https://open.spotify.com/track/06CuCa8iOFYqcENCrRGRKG"

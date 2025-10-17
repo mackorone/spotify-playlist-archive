@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Rossa",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Juicy Luicy",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
+    },
+    {
+      "album": {
+        "name": "Ada Untukmu",
+        "url": "https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257452,
+      "name": "Ada Untukmu",
+      "url": "https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw"
     },
     {
       "album": {
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 240875,
       "name": "Bodohnya Aku",
       "url": "https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 232880,
       "name": "Bukan Untukku",
       "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
@@ -1799,6 +1817,42 @@
     },
     {
       "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248832,
+      "name": "Cinta Seperti Aku",
+      "url": "https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG"
+    },
+    {
+      "album": {
+        "name": "Cinta Tak Berbatas (From Novel \"Bukan Sekadar Cinta\")",
+        "url": "https://open.spotify.com/album/0W08j84GtpWZ5qAffRJytQ"
+      },
+      "artists": [
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Cinta Tak Berbatas - From Novel \"Bukan Sekadar Cinta\"",
+      "url": "https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S"
+    },
+    {
+      "album": {
         "name": "Cinta Takkan Usai",
         "url": "https://open.spotify.com/album/1lni0LznmjMWpBp9em36Wa"
       },
@@ -1894,7 +1948,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 236470,
       "name": "Cukup Dewasa",
       "url": "https://open.spotify.com/track/1XW9zp8BY4DJbpiQhJYKc6"
@@ -2336,6 +2390,24 @@
       "duration_ms": 260060,
       "name": "Ego - Live Version",
       "url": "https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X"
+    },
+    {
+      "album": {
+        "name": "Elu-elukan",
+        "url": "https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243614,
+      "name": "Elu-elukan",
+      "url": "https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo"
     },
     {
       "album": {
@@ -3042,6 +3114,24 @@
       "duration_ms": 264444,
       "name": "I Don\u2019t Wanna Go Back Home",
       "url": "https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h"
+    },
+    {
+      "album": {
+        "name": "I'm on My Way",
+        "url": "https://open.spotify.com/album/3K8KlJNK2SOgM8NyDWMrre"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254952,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P"
     },
     {
       "album": {
@@ -4986,7 +5076,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 213809,
       "name": "Masih Seperti Dulu",
       "url": "https://open.spotify.com/track/7C7MCnfVKAVEEYVk2HLqmG"
@@ -5772,7 +5862,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 305868,
       "name": "o,Tuan",
       "url": "https://open.spotify.com/track/2WXXgjU6foIi4FBIPDMf9t"
@@ -6188,7 +6278,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 229690,
       "name": "Percik Kecil",
       "url": "https://open.spotify.com/track/6CsSNFkQVVuQjRQMrzyDzq"
@@ -6210,7 +6300,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 247265,
       "name": "Percuma",
       "url": "https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm"
@@ -6459,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Cerita Kita",
+        "url": "https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ"
+    },
+    {
+      "album": {
         "name": "Rindu Tak Berujung (Rindu Tak Berujung Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4555EkSU9FLrOsj7G8TM91"
       },
@@ -6528,7 +6636,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 203570,
       "name": "Ruang Hidup",
       "url": "https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o"
@@ -7350,7 +7458,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 254962,
       "name": "Semoga Saja",
       "url": "https://open.spotify.com/track/3fnMt6QfDcBJ1OjFjhQxds"
@@ -8468,7 +8576,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 226220,
       "name": "Tak Satu Cerita",
       "url": "https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5"
@@ -8786,6 +8894,24 @@
       "duration_ms": 251600,
       "name": "Tapi Tahukah Kamu?",
       "url": "https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG"
+    },
+    {
+      "album": {
+        "name": "Tatap Mata",
+        "url": "https://open.spotify.com/album/2Vy7gULsfkdO1EwjfwtyNS"
+      },
+      "artists": [
+        {
+          "name": "Shakirra Vier",
+          "url": "https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201166,
+      "name": "Tatap Mata",
+      "url": "https://open.spotify.com/track/70zHRaP6g351dQktpUq6Bo"
     },
     {
       "album": {
@@ -9318,7 +9444,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 309226,
       "name": "Titip Rindu Buat Ayah",
       "url": "https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0"
@@ -9340,6 +9466,24 @@
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Naykilla",
+          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9"
     },
     {
       "album": {
@@ -9462,7 +9606,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 245174,
       "name": "Ujung-Ujungnya Kamu",
       "url": "https://open.spotify.com/track/3zuI3idyWxEEkcUysRohKC"

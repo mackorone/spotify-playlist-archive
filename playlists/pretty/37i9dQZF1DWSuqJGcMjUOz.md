@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,159 likes - 91 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,160 likes - 91 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

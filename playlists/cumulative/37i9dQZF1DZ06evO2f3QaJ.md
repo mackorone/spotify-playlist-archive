@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 21 min
+105 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [N.Word](https://open.spotify.com/track/4NTpfwaGo1Rhi4FM2SqfpV) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [MANHÃ, TARDE & NOITE](https://open.spotify.com/album/7fgltlJhEmfdtwVQK8QZN9) | 3:30 | 2023-09-18 | 2023-12-14 |
 | [Nervos de Aço](https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:00 | 2024-12-21 |  |
 | [Nuvens](https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:48 | 2023-09-18 | 2025-09-06 |
-| [Nuvens](https://open.spotify.com/track/2v48wPXVG9PdrW0XVDwxMH) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:13 | 2025-09-06 |  |
+| [Nuvens](https://open.spotify.com/track/7uO9qHPMCClOTgJv57Im6A) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 2:48 | 2025-10-17 |  |
+| [Nuvens](https://open.spotify.com/track/2v48wPXVG9PdrW0XVDwxMH) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:13 | 2025-09-06 | 2025-10-17 |
 | [Não](https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Não](https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4) | 4:27 | 2023-11-10 |  |
 | [Não Rimo Por Grammys](https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Yangprj](https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv) | [Não Rimo Por Grammys](https://open.spotify.com/album/4htJju9wpP413iOJHuOix1) | 2:05 | 2024-08-25 |  |
 | [Não Sei Se Me Ouvem](https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:52 | 2024-02-10 | 2025-10-04 |
@@ -69,7 +70,7 @@
 | [Pequenas Coisas](https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:16 | 2023-09-18 |  |
 | [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 | 2023-09-18 | 2025-06-27 |
 | [Prisma](https://open.spotify.com/track/28azbjBNeQAUv060KuGomn) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:37 | 2023-12-13 | 2025-09-16 |
-| [Prisma](https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:37 | 2025-09-16 |  |
+| [Prisma](https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:37 | 2025-09-16 | 2025-10-17 |
 | [Proveito](https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6) | 3:36 | 2023-09-18 |  |
 | [PSLS](https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:42 | 2024-12-02 |  |
 | [Quero ser tua](https://open.spotify.com/track/6Lzk9116XUyfm3AiqoFYNM) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Vinhos & Fumaça](https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa) | 3:14 | 2024-06-15 |  |
@@ -91,7 +92,7 @@
 | [Sex Tape](https://open.spotify.com/track/30jS03B59bVieShQSx4qIN) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 4:00 | 2024-12-01 | 2025-10-10 |
 | [Sintonize](https://open.spotify.com/track/4pWyranTmpQAApnSRgNuu3) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:00 | 2023-09-18 |  |
 | [SKIT \(AZUL NEON\)](https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 2:23 | 2023-09-18 | 2025-10-02 |
-| [Smooth Operator](https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 5:13 | 2023-12-13 | 2025-10-16 |
+| [Smooth Operator](https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 5:13 | 2023-12-13 |  |
 | [Sob Controle](https://open.spotify.com/track/5tKwo5oKZXU8VdhUWNybJL) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Sob Controle](https://open.spotify.com/album/2AA45ILcKOlyYpnI9Q0fig) | 1:59 | 2023-09-18 | 2024-01-08 |
 | [SONHOS IMPERIAIS](https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:18 | 2023-09-18 |  |
 | [Steez](https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Steez](https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy) | 2:55 | 2023-12-13 |  |

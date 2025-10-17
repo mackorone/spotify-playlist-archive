@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Live Today, Love Tomorrow, Unite Forever 🫶🫶 It's the sound of Tomorrowland!
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,938 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,389 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 24 | [Why Not](https://open.spotify.com/track/25HLKK4SyMaRcSU5s9ENig) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Doriann](https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq) | [Why Not](https://open.spotify.com/album/3T3SOJ7tkywSCuIRCqJVOO) | 3:37 |
 | 25 | [Heaven](https://open.spotify.com/track/79nRqde4cRssDzkJcu275a) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:58 |
 | 26 | [Terminator](https://open.spotify.com/track/26ku6JokELdwswrsC2YjXQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOLANCE](https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha) | [Alok x Tomorrowland 2025 EP](https://open.spotify.com/album/6IksGwbdSw0JLb0vSllsN5) | 3:04 |
-| 27 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
+| 27 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
 | 28 | [Labyrinth](https://open.spotify.com/track/2sU1ck6zviGIfJ9QYJBaVV) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Labyrinth](https://open.spotify.com/album/5TJOZYHA13yDju6B0tuh5P) | 2:45 |
 | 29 | [Take Me Home \(feat\. Bonn\)](https://open.spotify.com/track/6PCu6yYtAkjXimFQ6dHXw7) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Take Me Home \(feat\. Bonn\)](https://open.spotify.com/album/5uo0BGmylJWuqe3a4hH2El) | 4:04 |
 | 30 | [Vorozhyla](https://open.spotify.com/track/1k7CJjdUHWs67jHcAMDCvo) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP), [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x), [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF) | [Vorozhyla](https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu) | 3:05 |

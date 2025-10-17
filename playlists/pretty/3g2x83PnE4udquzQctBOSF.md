@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,608 likes - 50 songs - 2 hr 59 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,610 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 30 | [Don't Watch Her](https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:19 |
 | 31 | [Keep It Dirty](https://open.spotify.com/track/0W7HK29oIiTaBUggfiY3PR) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [The COCO Chronicles, Vol\. 1](https://open.spotify.com/album/7jmH7guFHIBdxyWnOb5pQp) | 3:15 |
 | 32 | [Flying Like A God](https://open.spotify.com/track/567SbTRbgoWQ9Ey8hLT4Pa) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Flying Like A God](https://open.spotify.com/album/4zuuwf1rSwkhzonhOYXuDg) | 4:26 |
-| 33 | [Lonely Girl](https://open.spotify.com/track/58sqgpGAPAWNKvSIhVompE) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Hand Clap](https://open.spotify.com/album/2ZRQc6ZGlugiVhBWuMx3qr) | 2:50 |
+| 33 | [Lonely Girl](https://open.spotify.com/track/58sqgpGAPAWNKvSIhVompE) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Hand Clap](https://open.spotify.com/album/2ZRQc6ZGlugiVhBWuMx3qr) | 2:50 |
 | 34 | [Freak](https://open.spotify.com/track/4LMkddDKX4H7YiRvDdFEIe) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Freak](https://open.spotify.com/album/7wpmdRuDdvRurwIaqpVRby) | 4:22 |
 | 35 | [Girls Like](https://open.spotify.com/track/61ebLuFC24bFIv7WqNENy1) | [Micah Baxter](https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje), [Aaron Klugg](https://open.spotify.com/artist/2wmuwPAXRhL4Xi0cWis1zG) | [Girls Like EP](https://open.spotify.com/album/3sdBGawmVFt1VfZTaE8WBa) | 5:12 |
 | 36 | [Shimmy To The Beat](https://open.spotify.com/track/33bbCXbwV5pgI2EZKSJ9yG) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Heyssis](https://open.spotify.com/artist/7olZ1BADnsM8bWzMEL1uQ1) | [Shimmy To The Beat](https://open.spotify.com/album/7eAxn1gd0XYw6VbmDa62gu) | 3:08 |

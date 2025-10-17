@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-555 songs - 1 day 5 hr 7 min
+556 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-05-18 | 2025-02-23 |
 | [911](https://open.spotify.com/track/5jFQM82pmdJSBHGnlhL8as) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [911](https://open.spotify.com/album/4UKWh8YBQqktuX1HArlnwq) | 3:13 | 2021-12-16 | 2022-01-26 |
 | [911](https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [911](https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3) | 2:49 | 2023-04-12 | 2024-04-19 |
+| [A Toro Pasao](https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [A Toro Pasao](https://open.spotify.com/album/3vkguHKm1kGA5CryAk48bi) | 3:24 | 2025-10-16 |  |
 | [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 | 2023-03-09 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-03-23 | 2024-03-29 |
 | [Activate](https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Activate](https://open.spotify.com/album/0tQ3jHEuVyNat7bmECwY4d) | 3:10 | 2021-12-28 | 2022-07-20 |
@@ -227,7 +228,7 @@
 | [Hurtin' Me \- The Remix](https://open.spotify.com/track/3UMhetaB5d2Egu49pfpNQA) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [SECURE](https://open.spotify.com/album/5asFxV5BYQsPkI1IaIOGAU) | 4:01 | 2021-12-16 | 2022-02-23 |
 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-04-11 | 2024-05-16 |
 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 | 2021-12-16 | 2022-06-17 |
-| [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 | 2025-05-15 |  |
+| [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 | 2025-05-15 | 2025-10-17 |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2023-02-02 |  |
 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 | 2022-03-25 | 2022-04-20 |
 | [I.L.Y](https://open.spotify.com/track/37Sw3UuUzxK5iqbDfao6Df) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [I.L.Y](https://open.spotify.com/album/6n6czlJGJOEXP4BC2CRPXh) | 4:05 | 2022-02-03 | 2022-04-21 |

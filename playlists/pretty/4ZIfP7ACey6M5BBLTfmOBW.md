@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,023 likes - 83 songs - 3 hr 50 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,021 likes - 83 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
-| 2 | [Act Like You Know](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 |
+| 2 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 |
 | 3 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
 | 4 | [Chinatown Pt 2](https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Chinatown Pt 2](https://open.spotify.com/album/0RSlvvBV6LEwRAOocTiyqv) | 2:38 |
 | 5 | [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 |
 | 6 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 |
-| 7 | [Act Like You Know](https://open.spotify.com/track/2g4fSeNMaQL88OPNKdXS1a) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know](https://open.spotify.com/album/7pJl4HubbWHpp9pDg1ZH96) | 2:39 |
+| 7 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/2g4fSeNMaQL88OPNKdXS1a) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/7pJl4HubbWHpp9pDg1ZH96) | 2:39 |
 | 8 | [industry fck up](https://open.spotify.com/track/1fUoUpUheJn8cuHY8fyqT8) | [Blo](https://open.spotify.com/artist/2gVDLJAm1sZo8jDXgmnB3z) | [industry fck up](https://open.spotify.com/album/4ICh1bbaISb3mcbjSBSbm3) | 2:47 |
 | 9 | [NEXT DAY](https://open.spotify.com/track/19SPvZYBAIlTyQOCFdy1s1) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [NEXT DAY](https://open.spotify.com/album/13VaqZ49DCqfgUKJJKCuGr) | 2:24 |
 | 10 | [Dropped My Blunt](https://open.spotify.com/track/1wIcPmzeDeYaF8Sg3OK4ZV) | [maxon](https://open.spotify.com/artist/2Ltzex0JQrDiei63A1N4iP) | [Dropped My Blunt](https://open.spotify.com/album/3zSO1zMbU7fbExWmR9x3zU) | 2:51 |

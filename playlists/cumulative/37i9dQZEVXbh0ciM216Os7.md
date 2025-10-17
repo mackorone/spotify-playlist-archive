@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,880 songs - 7 day 12 hr 16 min
+2,881 songs - 7 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1339,7 +1339,7 @@
 | [Key to the Streets \(feat\. Migos & Trouble\) \- Sped Up](https://open.spotify.com/track/6m2xmaqZYnZNrCAa4kctaM) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Wish Me Well 2 \(Sped Up\)](https://open.spotify.com/album/20gKlQvrOioOcSjqECTNcV) | 4:00 | 2024-05-10 | 2024-05-15 |
 | [Key To Your Love \- Remastered 2023](https://open.spotify.com/track/7pGVuPUeGIMMynctL8soQ7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 4:12 | 2023-07-28 | 2023-08-20 |
 | [Key103 \[a56 edit\]](https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Key103](https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ) | 3:56 | 2024-07-12 | 2024-08-04 |
-| [Kids Can't Sleep](https://open.spotify.com/track/1WOypvJUxOp7wM8F3ByEnP) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:39 | 2025-10-10 |  |
+| [Kids Can't Sleep](https://open.spotify.com/track/1WOypvJUxOp7wM8F3ByEnP) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:39 | 2025-10-10 | 2025-10-17 |
 | [Kill A Prayer](https://open.spotify.com/track/6mFrsOwzg8ieFWqOZzLmgA) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Kill A Prayer](https://open.spotify.com/album/03Tbg7HutFg1bM557zjCj3) | 3:06 | 2025-01-31 | 2025-02-08 |
 | [Kill Bill](https://open.spotify.com/track/3eo1hxQngQd5mPUfs9xBTs) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Her Thoughts](https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD) | 2:47 | 2024-03-01 | 2024-03-10 |
 | [Kill You](https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum \(Expanded Edition\)](https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1) | 3:40 | 2023-05-26 | 2023-06-18 |
@@ -2181,6 +2181,7 @@
 | [Skate Odyssey](https://open.spotify.com/track/2UGyOB1uHT8j5oYuy62HuA) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 3:38 | 2024-05-10 | 2024-06-08 |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-26 | 2024-02-03 |
 | [Skip The Games \(feat\. T\-Pain\)](https://open.spotify.com/track/6vnCpOmXAs7Psjex55HEj2) | [JP Izzalap](https://open.spotify.com/artist/7A3TC26r9bdevx64rDJWBR), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Skip The Games \(feat\. T\-Pain\)](https://open.spotify.com/album/1p1QWqPvo2emJzMQMJGqhq) | 2:06 | 2023-08-18 | 2023-08-25 |
+| [Skipping Stones](https://open.spotify.com/track/2PyPCZQ9bDROe3yb3MrM5X) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 3:04 | 2025-10-10 |  |
 | [Skyfall \(Metal Version\)](https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Leo Metal, Vol\. 44](https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn) | 4:47 | 2023-09-29 | 2023-10-13 |
 | [Skyfall \(Metal Version\)](https://open.spotify.com/track/3Nd1FM5i5aBIXqyVyD4BOT) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Skyfall \(Metal Version\)](https://open.spotify.com/album/15GVwQBYsFGYaITw391EKd) | 4:47 | 2023-10-06 | 2023-10-14 |
 | [Slaughter House](https://open.spotify.com/track/2o21GeUQjgpHdp0UhWvRPE) | [DR\. Moriarity](https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Slaughter House](https://open.spotify.com/album/6Wi2O0t74XhEVMeXpBtgA3) | 2:24 | 2024-11-29 | 2024-12-12 |

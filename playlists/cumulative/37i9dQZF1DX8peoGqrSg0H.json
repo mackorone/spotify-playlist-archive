@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KimGun",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 176548,
       "name": "FAKE NEWS (\u0e2b\u0e30 \u0e2d\u0e30\u0e44\u0e23\u0e19\u0e30\u0e04\u0e30?)",
       "url": "https://open.spotify.com/track/1SnCcjLCMnK0Gyw9gjn3eB"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 218125,
       "name": "Hip Chain",
       "url": "https://open.spotify.com/track/4vwJnfsN2mwrdGyqefuYbK"
@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "LEVELING UP",
+        "url": "https://open.spotify.com/album/2YpGgxRmJ3d284e8xJJjJA"
+      },
+      "artists": [
+        {
+          "name": "LE7EL",
+          "url": "https://open.spotify.com/artist/6W1itHL95v5jqmqrg1N6fc"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203505,
+      "name": "LEVELING UP",
+      "url": "https://open.spotify.com/track/1IA9sG0rTu8ewvtrQK89u1"
+    },
+    {
+      "album": {
         "name": "LIAR",
         "url": "https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R"
       },
@@ -2515,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Midnight Text",
+        "url": "https://open.spotify.com/album/3KyfG1K2zgOJS4ndPcxRQR"
+      },
+      "artists": [
+        {
+          "name": "QRRA",
+          "url": "https://open.spotify.com/artist/2jZTg3Uabja37iBJCXd9Ia"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193663,
+      "name": "Midnight Text",
+      "url": "https://open.spotify.com/track/4ic1rQpBGullCQ91NNcZiW"
+    },
+    {
+      "album": {
         "name": "MIRROR MIRROR - Single",
         "url": "https://open.spotify.com/album/2OpFTU0dMeSWDmNLiogAiN"
       },
@@ -2790,7 +2826,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 187714,
       "name": "nowhere (\u0e44\u0e21\u0e48\u0e1c\u0e39\u0e01\u0e21\u0e31\u0e14 \u0e44\u0e21\u0e48\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19)",
       "url": "https://open.spotify.com/track/568zN4EDDRFwJCJno6hLCu"
@@ -3986,7 +4022,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 255652,
       "name": "UNIVERSE",
       "url": "https://open.spotify.com/track/4EDV6Z87agVcJFvLBtPekZ"
@@ -6177,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "DUSK & DAWN",
+        "url": "https://open.spotify.com/album/6ClfflTjLdTkVP4ElFO6Pb"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199288,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e01\u0e47\u0e1a\u0e2d\u0e01 (Feel Like Me)",
+      "url": "https://open.spotify.com/track/3rttDTDTMSv1NuHPx7Njkv"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e2d\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e07\u0e32 (Loneliness)",
         "url": "https://open.spotify.com/album/2ocXPv98Cd9un077PQCbIi"
       },
@@ -6662,7 +6716,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 232048,
       "name": "\u0e14\u0e49\u0e32\u0e19\u0e0a\u0e32 (Numb) [feat. Paper Planes]",
       "url": "https://open.spotify.com/track/3KTpHLuTJBwolcFNXIrEtV"
@@ -7994,6 +8048,24 @@
       "duration_ms": 208421,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e08\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e2a\u0e14 (WTH)",
+        "url": "https://open.spotify.com/album/1nrw6CHbemgtLx2gfy8sNm"
+      },
+      "artists": [
+        {
+          "name": "ily",
+          "url": "https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252558,
+      "name": "\u0e1b\u0e2a\u0e14 (WTH)",
+      "url": "https://open.spotify.com/track/485mVs5B5ADp7WlqFB3ggt"
     },
     {
       "album": {
@@ -9896,7 +9968,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 150620,
       "name": "\u0e25\u0e39\u0e01\u0e04\u0e38\u0e13\u0e1b\u0e49\u0e32 (Dear Auntie)",
       "url": "https://open.spotify.com/track/2OVqm283mBYdUYA2syCnRx"
@@ -10550,7 +10622,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 225837,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1a\u0e25\u0e2d\u0e2b\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e14 (Foreground)",
       "url": "https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N"
@@ -11004,6 +11076,24 @@
       "duration_ms": 210000,
       "name": "\u0e2b\u0e4a\u0e30! (Huh!)",
       "url": "https://open.spotify.com/track/7ijSTwXKu4SoVJS7BPxPSt"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d (Beside you)",
+        "url": "https://open.spotify.com/album/1h9BsGXHOucFo2tz0AdPdS"
+      },
+      "artists": [
+        {
+          "name": "DEXX",
+          "url": "https://open.spotify.com/artist/6O1il28dFXeWugxZc2CbQV"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d (Beside you)",
+      "url": "https://open.spotify.com/track/0CXLaDCMekkzbPrkkcQDmx"
     },
     {
       "album": {
@@ -13999,6 +14089,28 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e1a\u0e1e\u0e31\u0e14",
+        "url": "https://open.spotify.com/album/59VSv8U1wMRFY0NuO8SuGS"
+      },
+      "artists": [
+        {
+          "name": "COPTER",
+          "url": "https://open.spotify.com/artist/2uadqiwrZXc9uxxuP3AXsX"
+        },
+        {
+          "name": "TAKHLI GANG",
+          "url": "https://open.spotify.com/artist/7MPbxRBRGAbRHXldxxi8ON"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "\u0e43\u0e1a\u0e1e\u0e31\u0e14",
+      "url": "https://open.spotify.com/track/0brFVslPMHgQT6utYAw6Im"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e2b\u0e49\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e44\u0e07",
         "url": "https://open.spotify.com/album/15wHbinXVWnLH0n2NgQ4EI"
       },
@@ -14068,6 +14180,40 @@
       "duration_ms": 264762,
       "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e1b\u0e15\u0e35\u0e49 (Roll With Me) [From 'GELTY (GELBOYS VARIETY)']",
+        "url": "https://open.spotify.com/album/0bGQTSy0Sd6i22QUBmD2jP"
+      },
+      "artists": [
+        {
+          "name": "GELBOYS",
+          "url": "https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w"
+        },
+        {
+          "name": "NEW CHAYAPAK",
+          "url": "https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW"
+        },
+        {
+          "name": "PIDE",
+          "url": "https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP"
+        },
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0"
+        },
+        {
+          "name": "LEON BROCCO",
+          "url": "https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "\u0e44\u0e1b\u0e15\u0e35\u0e49 (Roll With Me) - From 'GELTY (GELBOYS VARIETY)'",
+      "url": "https://open.spotify.com/track/71iFacnDkpVGUzqDxjfo5w"
     },
     {
       "album": {

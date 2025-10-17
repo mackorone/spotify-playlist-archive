@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,702 likes - 70 songs - 4 hr 18 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,703 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 54 | [Nara](https://open.spotify.com/track/7f4zojBhTc54nRXTex6apl) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [When Are You Leaving?](https://open.spotify.com/album/073KfYmVFHQtkmh6zpTQ3N) | 4:19 |
 | 55 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 56 | [Maldição \(Demo\-Búzios\)](https://open.spotify.com/track/6GXGJQ5dcMGsnARbDVMdwB) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Reflectors, Vol\. I](https://open.spotify.com/album/1Nl7kEG34yaCURnfeaChpz) | 8:42 |
-| 57 | [In Your Pocket](https://open.spotify.com/track/2tn0Rhm58I9TCWuKjUkk5z) | [Packaging](https://open.spotify.com/artist/0Ptdlmg0GmSHwgazEsZFZ0), [Flaural](https://open.spotify.com/artist/3iqf1QQ0KZwcWutFLcM6cs), [Spirit Award](https://open.spotify.com/artist/2292qee860HNM8MjdKK4iZ) | [Packaging](https://open.spotify.com/album/1I4URginOGHxz9HlG6tt3m) | 3:57 |
+| 57 | [In Your Pocket](https://open.spotify.com/track/2tn0Rhm58I9TCWuKjUkk5z) | [Packaging](https://open.spotify.com/artist/0Ptdlmg0GmSHwgazEsZFZ0) | [Packaging](https://open.spotify.com/album/1I4URginOGHxz9HlG6tt3m) | 3:57 |
 | 58 | [Mercy, Kill Me](https://open.spotify.com/track/5ISIobdx92MWpxHVttC9DO) | [Pansy](https://open.spotify.com/artist/2KdCjxsjvl8Zvrj1Pd7KHT) | [Mercy, Kill Me](https://open.spotify.com/album/5ElEXFtKt0QiFge9npzG35) | 2:44 |
 | 59 | [Ami imaginaire](https://open.spotify.com/track/170TffoApcTb9ssi9ocfom) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 4:10 |
 | 60 | [Earthshaker](https://open.spotify.com/track/3dcAXXsNJb2VgX7k1Okz2L) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Earthshaker](https://open.spotify.com/album/6zVMSQa3VzNxUiC6Z5q954) | 2:59 |

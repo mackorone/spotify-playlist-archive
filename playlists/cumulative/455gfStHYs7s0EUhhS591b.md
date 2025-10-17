@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-224 songs - 13 hr 15 min
+226 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Kuja](https://open.spotify.com/track/0mc7L3ul1C1s4hsXvtt905) | [Mich](https://open.spotify.com/artist/2o8ASGzE6CvIFtfBdX3X9h), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Kuja](https://open.spotify.com/album/77Fjap5FpSIKNJEiwLwelN) | 4:49 | 2025-06-19 |  |
 | [Leave U Here](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Leave U Here](https://open.spotify.com/album/4OfZMe68ViqcQguGMwBxBJ) | 2:48 | 2025-07-18 |  |
 | [Leaving You](https://open.spotify.com/track/5mhVQmyRLZCOzm7u0KJZhX) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/2EdbXpXzHbNNn7zCgx8qs8) | 3:08 | 2025-06-19 |  |
+| [Let You Down](https://open.spotify.com/track/208UTWaWWnFjuGLriXC63E) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch), [a.bech](https://open.spotify.com/artist/6gms5g1TeoEo8HsUuiWWaQ) | [Let You Down](https://open.spotify.com/album/3rmMMklQao5LtEqMooTnyL) | 2:20 | 2025-10-17 |  |
 | [Liberation](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation](https://open.spotify.com/album/7BN98R9k9tbqaU9kLJzGXa) | 2:29 | 2025-07-02 |  |
 | [Liberation \- Lufthaus Remix](https://open.spotify.com/track/3xaE0tB9Pg9lESzikfV7c9) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg), [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU) | [Liberation \(Lufthaus Remix\)](https://open.spotify.com/album/2rb39YStVCw0X7OcMwPjfW) | 3:32 | 2025-07-18 |  |
 | [Lifetime \- Acoustic Version](https://open.spotify.com/track/3tdcEMfuERuOd39eO7UlXK) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [Lifetime \(feat\. Damon Sharpe\) \[VIP & Acoustic\]](https://open.spotify.com/album/1Ax5labB08CGc2CDHmyqKF) | 3:07 | 2025-07-18 |  |
@@ -225,6 +226,7 @@
 | [We Are Together](https://open.spotify.com/track/6SnTI27uo9uToOEAKF0ITl) | [Planet Of Sound](https://open.spotify.com/artist/4ZdAf6hSgPoUKGUYcJKYWM) | [We Are Together](https://open.spotify.com/album/4TC5nnyrFwB7GMF0szkmDg) | 2:47 | 2025-07-18 |  |
 | [We Are Together \- French Braids Remix](https://open.spotify.com/track/4bmlDOowCCCjJm3aQKiOfI) | [Planet Of Sound](https://open.spotify.com/artist/4ZdAf6hSgPoUKGUYcJKYWM), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [We Are Together \(French Braids Remix\)](https://open.spotify.com/album/5BHNkOwQe7FUKy2dth9paW) | 3:32 | 2025-07-18 |  |
 | [Where The Mountains Grow](https://open.spotify.com/track/4VG2Aq26xZWJUoUywi4x4r) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Where The Mountains Grow](https://open.spotify.com/album/7Ky5LYmNqG33DayRxkXaOu) | 3:51 | 2025-07-18 |  |
+| [Wherever I Go](https://open.spotify.com/track/5XTse88NiuHbsw9Ncs9GRm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Wherever I Go](https://open.spotify.com/album/3oVXGXMU9Hy4fhHEd6TY4G) | 2:48 | 2025-10-17 |  |
 | [Who Do You Love Now \(Stringer\) \- Larry Lush Ambient Extended Remix](https://open.spotify.com/track/7JT6rZ4chNbzwQMrLCkFZc) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Larry Lush](https://open.spotify.com/artist/3OvoEybnW789EWk2rhwm6O) | [Who Do You Love Now \(Stringer\)](https://open.spotify.com/album/2YJClku4XNBHu8tHVE893l) | 7:15 | 2025-06-19 |  |
 | [Wide Awake & Dreaming](https://open.spotify.com/track/2JR8MPHL6BqC22nZbMQTmD) | [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Wide Awake & Dreaming](https://open.spotify.com/album/0kSLx1snPuLdY9wIsRTTQH) | 3:09 | 2025-09-12 |  |
 | [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2025-07-18 |  |

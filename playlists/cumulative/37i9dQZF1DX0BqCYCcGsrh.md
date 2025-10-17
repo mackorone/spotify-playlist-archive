@@ -4,7 +4,7 @@
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-160 songs - 13 hr 3 min
+165 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [DADA](https://open.spotify.com/track/2ZwxmkNgy1pVTiEgSiAlNb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [DADA](https://open.spotify.com/album/6kk8W2yMobxmcypHlRGjI0) | 3:45 | 2023-07-03 |  |
 | [Darma grand prix](https://open.spotify.com/track/0HAxFn0IRTkXSH2g7E4gNu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Batsu to Maru to Tsumi to](https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3) | 4:09 | 2023-07-03 | 2024-04-19 |
 | [DARMA GRAND PRIX](https://open.spotify.com/track/1xWoDv0dLEzHRmMkRhOIkZ) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [×と○と罪と](https://open.spotify.com/album/5ikhX6zaLZZS3gVLTlYxED) | 4:09 | 2024-01-23 |  |
+| [DASAI DAZAI](https://open.spotify.com/track/2gzCeQDiECL9uzrca3sM4j) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 2:50 | 2025-10-16 |  |
 | [Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:11 | 2023-07-03 | 2024-04-19 |
 | [Dreamer's high](https://open.spotify.com/track/7jC12iQrBnzkylfSyxmsK8) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Batsu to Maru to Tsumi to](https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3) | 5:57 | 2023-07-03 | 2024-04-19 |
 | [G Koui](https://open.spotify.com/track/4vNFSfhnh9HoYQDmOIXFsC) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Zettaizetsumei](https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP) | 4:02 | 2023-07-03 | 2024-04-19 |
@@ -124,6 +125,7 @@
 | [ドリーマーズ・ハイ](https://open.spotify.com/track/1Q3bsjMjRhzg0soa0VhnLj) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ドリーマーズ・ハイ](https://open.spotify.com/album/52kb9rw7NPrjHsKn2MSyP8) | 5:57 | 2024-01-23 |  |
 | [マニフェスト](https://open.spotify.com/track/2glwCeYYx1u1TAAXf6aKZM) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [マニフェスト](https://open.spotify.com/album/5cwbtm1hHxSm4j444aWlwL) | 4:40 | 2024-01-23 |  |
 | [ラストバージン](https://open.spotify.com/track/2TqD22QsvKBavgREJTB4gs) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [五月の蝿 / ラストバージン](https://open.spotify.com/album/0UgRzfgpCdZIBQOlnYPE1o) | 5:18 | 2024-01-23 |  |
+| [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 | 2025-10-16 |  |
 | [万歳千唱](https://open.spotify.com/track/4ZTmCmlgeYG2DWCCN03Bgt) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 4:23 | 2024-01-23 |  |
 | [五月の蝿](https://open.spotify.com/track/3cj1GdMsLxHXqOkqpgVjFn) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [五月の蝿 / ラストバージン](https://open.spotify.com/album/0UgRzfgpCdZIBQOlnYPE1o) | 5:01 | 2024-01-23 |  |
 | [人間ごっこ](https://open.spotify.com/track/1x8BxQZ7JpGLPfqiP0H6WC) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間ごっこ](https://open.spotify.com/album/5DXwoxFKb3HqP1oPlrgem5) | 4:17 | 2024-01-23 |  |
@@ -135,7 +137,8 @@
 | [叫べ](https://open.spotify.com/track/101vZ1CG1NwwKpvLW5RPs4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 4:53 | 2024-01-23 |  |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2024-01-23 |  |
 | [告白](https://open.spotify.com/track/5vRrsna6LudhScpZiIvhiT) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間開花](https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur) | 6:41 | 2024-01-23 |  |
-| [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 |  |
+| [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 | 2025-10-17 |
+| [命題](https://open.spotify.com/track/5960MzAO6glRmxvHUUQsLr) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 4:51 | 2025-10-16 |  |
 | [夏のせい](https://open.spotify.com/track/20sY6R3DYZffBG3o2HhGUK) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD) | 5:43 | 2024-01-23 |  |
 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 | 2024-01-23 |  |
 | [夢番地](https://open.spotify.com/track/3OborUBAOYmOmu9kVyoMvr) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 5:01 | 2023-07-03 |  |
@@ -161,9 +164,11 @@
 | [猫じゃらし](https://open.spotify.com/track/34nBbteOgBstzwim7vWClc) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [猫じゃらし](https://open.spotify.com/album/1deE5TNdEH8eZxU8BvBzDS) | 4:29 | 2024-01-23 |  |
 | [白日 \- 10 years ver.](https://open.spotify.com/track/2gCUPB3i0nwlNBJZcpEfLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [2+0+2+1+3+1+1= 10 years 10 songs](https://open.spotify.com/album/693ar0bRYwaKwnepcKW2Tr) | 4:27 | 2024-01-23 |  |
 | [空窓](https://open.spotify.com/track/0w9Zo0aloXol4iKdH16X4X) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [2+0+2+1+3+1+1= 10 years 10 songs](https://open.spotify.com/album/693ar0bRYwaKwnepcKW2Tr) | 4:12 | 2024-01-23 |  |
+| [筆舌](https://open.spotify.com/track/3JGXUsiAlw0FsgWhtBu9bB) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 5:55 | 2025-10-16 |  |
 | [螢](https://open.spotify.com/track/0h0cuQyKvNmfcHm3boPEhb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 3 ～無人島に持っていき忘れた一枚～](https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f) | 4:18 | 2023-07-03 |  |
 | [謎謎](https://open.spotify.com/track/7mJp1hOghpjUSa2kQcnH5u) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 5:45 | 2024-01-23 |  |
-| [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:49 | 2025-05-08 |  |
+| [賜物](https://open.spotify.com/track/0Mm6ObueLFtjsJ6msrKgOi) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 4:49 | 2025-10-16 |  |
+| [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:49 | 2025-05-08 | 2025-10-17 |
 | [賜物 \- Orchestra Version](https://open.spotify.com/track/5w5JtQFhb54fIBY2E6FHKN) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物 \(Orchestra Version\)](https://open.spotify.com/album/6nwyX3CchW7gSMBkyUa8eG) | 3:56 | 2025-09-25 |  |
 | [透明人間18号](https://open.spotify.com/track/2pETp6FMCh2gEQvxGejrma) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 4:25 | 2024-01-23 |  |
 | [遠恋](https://open.spotify.com/track/1ZpdYiZlp4xv0X0CMOePzD) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:41 | 2023-07-03 |  |

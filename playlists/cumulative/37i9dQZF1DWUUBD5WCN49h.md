@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Esoterica
 
-1,377 songs - 2 day 18 hr 3 min
+1,378 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,7 @@
 | [Lethal](https://open.spotify.com/track/1wSCqDsbq40qjABlTj9e9G) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Lethal](https://open.spotify.com/album/34L0y1MMn3tvxZilI8ZUAH) | 2:52 | 2023-10-27 | 2023-11-03 |
 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-01 |
 | [LETTER 222 DELE](https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [ROCK, PAPER, SCISSORS](https://open.spotify.com/album/6PeVBL2DDJgqkVyNUaHy2j) | 2:40 | 2024-10-25 | 2024-12-06 |
-| [Liar](https://open.spotify.com/track/64uY1XlIBBJirvS51L6zWP) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [The Waiting Room](https://open.spotify.com/album/1AFQCNdAdN7fnkox4EHD81) | 2:13 | 2025-08-08 |  |
+| [Liar](https://open.spotify.com/track/64uY1XlIBBJirvS51L6zWP) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [The Waiting Room](https://open.spotify.com/album/1AFQCNdAdN7fnkox4EHD81) | 2:13 | 2025-08-08 | 2025-10-17 |
 | [Life](https://open.spotify.com/track/5dpkojjeGT4Q3QHojlOU0Y) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Life](https://open.spotify.com/album/7qMz7agXz7ZBAiJLYBL1XK) | 2:24 | 2023-07-20 | 2023-07-28 |
 | [LIFE](https://open.spotify.com/track/6hNyXtjP9mvPh3BR1Q17SE) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [LIFE](https://open.spotify.com/album/0mKDwXFe8arzlBmhURf6Oh) | 2:32 | 2024-11-22 | 2025-06-21 |
 | [Life Time](https://open.spotify.com/track/39L5IQFIDRf8iMI9vtDDNc) | [Nedu Nelson](https://open.spotify.com/artist/3GGsDUBwGgAdA07zkJt6wV) | [Life Time](https://open.spotify.com/album/41TC0sRe79QaaS6xbIg3cb) | 2:39 | 2025-02-21 | 2025-03-15 |
@@ -914,7 +914,7 @@
 | [Open Casket](https://open.spotify.com/track/7KIyiysRmpi0hclcataHy4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [Open Casket](https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2) | 2:23 | 2025-06-13 |  |
 | [Options](https://open.spotify.com/track/7lpZMYFIwH9ENMvC9UMWz5) | [Tesh Carter](https://open.spotify.com/artist/5U8rCIDXI98zaaUXw6Y0J5) | [Options](https://open.spotify.com/album/2IKQlz9gR6hg5Viw6pvKT8) | 2:38 | 2025-03-28 | 2025-05-17 |
 | [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-09 | 2024-03-23 |
-| [original](https://open.spotify.com/track/7EJuLbpSE53VgRQSn20OB3) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [Brizy Beatz](https://open.spotify.com/artist/6v6943GOMESAlI5uZ1CV5r) | [original](https://open.spotify.com/album/73RIHDQuTxH0k6jKc8FwHR) | 2:52 | 2025-07-18 |  |
+| [original](https://open.spotify.com/track/7EJuLbpSE53VgRQSn20OB3) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [Brizy Beatz](https://open.spotify.com/artist/6v6943GOMESAlI5uZ1CV5r) | [original](https://open.spotify.com/album/73RIHDQuTxH0k6jKc8FwHR) | 2:52 | 2025-07-18 | 2025-10-17 |
 | [Oshe](https://open.spotify.com/track/7I8QM1U3MlX21c6348Ywoz) | [Blizz](https://open.spotify.com/artist/4y5iTAoxxjUQIbjE07cgQ7) | [Oshe](https://open.spotify.com/album/6j8nqWuHnrNQ3OcJIEEdBs) | 3:02 | 2023-02-10 | 2023-04-21 |
 | [Osondi Owendi](https://open.spotify.com/track/0vG1ADDsKH633S42iVG6MW) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Osondi Owendi](https://open.spotify.com/album/72Ej57wkEwKeVt8oIBVW81) | 3:37 | 2023-12-08 | 2024-03-22 |
 | [Otherside](https://open.spotify.com/track/5QpNm20lOdkgbDZjRc5Qi0) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Fazil](https://open.spotify.com/album/7mY9TkeeWTfoUncKY8mrnS) | 3:02 | 2024-11-08 | 2025-02-14 |
@@ -1309,6 +1309,7 @@
 | [WATA BAMBAM](https://open.spotify.com/track/0trNmAJfTKAsNa0wvRZS4l) | [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [WATA BAMBAM](https://open.spotify.com/album/4EdKR0Y5poNvd65PHG4POZ) | 2:24 | 2024-04-12 | 2024-06-28 |
 | [Way That I Love](https://open.spotify.com/track/3SFXq9A4UG6bT0BEycEiWf) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Way That I Love](https://open.spotify.com/album/275vnEZCvlxPeRJ7IKjsX9) | 4:12 | 2023-04-20 | 2023-07-01 |
 | [Wayside](https://open.spotify.com/track/5FEkkvBVBH50vtpxWQ1ctV) | [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Wayside](https://open.spotify.com/album/7M3HnxJBwhzNqTLNPBnAcJ) | 2:12 | 2025-07-18 |  |
+| [WDYM](https://open.spotify.com/track/5XBLk844D2Is3Kc8SYdrk7) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Damare YK](https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz), [Hargoi](https://open.spotify.com/artist/5EKMO9ebgUrSybptTbz4TD) | [WDYM](https://open.spotify.com/album/154BSSqIqFpRxcVOQrvtAd) | 2:50 | 2025-10-16 |  |
 | [WEAK](https://open.spotify.com/track/2woVKwAIDNzJDV1NloQu56) | [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [WEAK](https://open.spotify.com/album/5cfdSZBCmoRM03EhLGst9D) | 2:11 | 2023-09-14 | 2023-10-27 |
 | [Weekend](https://open.spotify.com/track/7yYHvtG3OvRQKVfhbaJqa6) | [Joel Prodigee](https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd) | [Weekend](https://open.spotify.com/album/6tOWSPL3bvu7gvkRjx7S2z) | 2:17 | 2024-05-03 | 2024-06-01 |
 | [weight](https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Ashref](https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe) | [Dear Z](https://open.spotify.com/album/5yYCqkCxYnXFLqApA98Ltv) | 2:54 | 2024-11-22 | 2025-06-14 |

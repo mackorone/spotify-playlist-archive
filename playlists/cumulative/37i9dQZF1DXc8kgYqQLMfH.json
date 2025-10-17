@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 110668,
       "name": "down the street",
       "url": "https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ"
@@ -9914,7 +9914,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 133787,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm"
@@ -12761,6 +12761,24 @@
     },
     {
       "album": {
+        "name": "mangoes",
+        "url": "https://open.spotify.com/album/5SQ2R6kxVV4luIcytiSMjx"
+      },
+      "artists": [
+        {
+          "name": "red cap",
+          "url": "https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "mangoes",
+      "url": "https://open.spotify.com/track/2T0NMR5RPcUDsu2tgIVFS4"
+    },
+    {
+      "album": {
         "name": "Lofi City",
         "url": "https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2"
       },
@@ -13026,6 +13044,24 @@
       "duration_ms": 119812,
       "name": "Mellow Moods",
       "url": "https://open.spotify.com/track/1yRN8ZelpRKfhTzzNuandF"
+    },
+    {
+      "album": {
+        "name": "mellow out",
+        "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
+      },
+      "artists": [
+        {
+          "name": "costa rossa",
+          "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122919,
+      "name": "mellow out",
+      "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,044 songs - 1 day 21 hr 17 min
+1,045 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Need Somebody](https://open.spotify.com/track/2vCr8PaCCAGxL1sTnFe7XA) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Ideo](https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl), [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Sax'Appeal](https://open.spotify.com/artist/4bAREk3cDlzskT2ILU8bBG) | [Need Somebody](https://open.spotify.com/album/5rgdVIwi4nIBYLKiPhaUo6) | 2:49 | 2025-06-15 | 2025-08-11 |
 | [Need You](https://open.spotify.com/track/0ujT2z8Pz9Z4PPdLSYsuw1) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [S3DA](https://open.spotify.com/artist/4oqWSRy51erX3U6qwoZvkr), [Coulson](https://open.spotify.com/artist/6u2NpLFP9qe6S7MM8y7yu9) | [Need You](https://open.spotify.com/album/0V9twC9HD95cwUHRNr2Zko) | 2:19 | 2023-09-22 | 2024-04-22 |
 | [Never Enough](https://open.spotify.com/track/0asIZr1ITQrGQLVT9vmdld) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG), [Harmless Night](https://open.spotify.com/artist/0vGdi8zNID6cg6Ua9ksmyQ) | [Never Enough](https://open.spotify.com/album/4cH4VMzQkEbIHTXgy8HknL) | 2:30 | 2024-11-04 |  |
+| [Never Felt So Long](https://open.spotify.com/track/512Ms0exMAqudWE7t4u5A5) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Never Felt So Long](https://open.spotify.com/album/4WVom736tEY5iBHPV2Nvbs) | 2:12 | 2025-10-16 |  |
 | [Never Found It](https://open.spotify.com/track/5vz1ItCx8S2bZWbfjk4ESo) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Never Found It](https://open.spotify.com/album/6FU7w4Ecf0uA6fQXiDH1B0) | 2:44 | 2024-01-20 | 2024-02-26 |
 | [Never Let Me Go](https://open.spotify.com/track/6pKlEVAue9oZO1qsNCZton) | [Made Of Marble](https://open.spotify.com/artist/3nkiEsorNbO1gdtibcPUdW), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Never Let Me Go](https://open.spotify.com/album/2gBKmaHMvmW3aqNriAmEmw) | 2:24 | 2025-02-02 | 2025-02-17 |
 | [Never Say Goodbye](https://open.spotify.com/track/5hCod6lx9NNAxS1MfZrsAl) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy) | [Never Say Goodbye](https://open.spotify.com/album/5Mj9xW75Kh49AvTC2fsS9H) | 2:35 | 2025-07-06 | 2025-08-04 |

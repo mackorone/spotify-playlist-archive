@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 365810,
+  "num_followers": 366063,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-10-14 06:40:45",
       "album": {
+        "name": "how it starts",
+        "url": "https://open.spotify.com/album/1GXkS6OirBCJ37LYCSWfFI"
+      },
+      "artists": [
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        }
+      ],
+      "duration_ms": 213402,
+      "name": "how it starts",
+      "url": "https://open.spotify.com/track/510YEKitz3E6ejFbw8rmIB"
+    },
+    {
+      "added_at": "2025-10-14 06:40:45",
+      "album": {
         "name": "THE DRAIN",
         "url": "https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 225701,
       "name": "THE DRAIN",
       "url": "https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc"
-    },
-    {
-      "added_at": "2025-10-14 06:40:45",
-      "album": {
-        "name": "how it starts",
-        "url": "https://open.spotify.com/album/1GXkS6OirBCJ37LYCSWfFI"
-      },
-      "artists": [
-        {
-          "name": "elijah",
-          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
-        }
-      ],
-      "duration_ms": 213402,
-      "name": "how it starts",
-      "url": "https://open.spotify.com/track/510YEKitz3E6ejFbw8rmIB"
     },
     {
       "added_at": "2025-10-14 06:40:45",

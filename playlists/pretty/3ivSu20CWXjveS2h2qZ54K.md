@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,837 likes - 113 songs - 6 hr 25 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,835 likes - 113 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 10 | [I told ya](https://open.spotify.com/track/2p62Qdz5g4rW0lEmF6QEM7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I told ya](https://open.spotify.com/album/12RkrZxeDy1usKwyEYhna8) | 2:44 |
 | 11 | [La canción de los días felices](https://open.spotify.com/track/55Q1GtUUr8m6yUs4gYKjmy) | [CORTE!](https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT) | [Música para humanos](https://open.spotify.com/album/3gYBIhPBcEpcScBUBVVbJb) | 2:46 |
 | 12 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
-| 13 | [Soy Lo Peor](https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DSxBB](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:53 |
+| 13 | [Soy Lo Peor](https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DepresionTrickz](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:53 |
 | 14 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 |
 | 15 | [Cuando el amor crece](https://open.spotify.com/track/2PTkxfNk1clEecK3sro6Xx) | [Lorena Álvarez](https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA) | [El poder sobre una misma](https://open.spotify.com/album/17NsKVkljACGaB8ZU83Uf1) | 5:23 |
 | 16 | [No Tocar](https://open.spotify.com/track/1tOcGxiBoKfujlna4Ze57I) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [No Tocar](https://open.spotify.com/album/7LcrScSI6fyuQA0KLSZpkf) | 3:18 |

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,272 songs - 2 day 0 hr 38 min
+1,274 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [dotted patterns](https://open.spotify.com/track/4Fwg4pKDRfFUVetKK1xPQK) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [dotted patterns](https://open.spotify.com/album/6KiGjR8rUyJmrVNYrTXl0V) | 2:08 | 2022-11-25 | 2025-06-28 |
 | [Double Space X](https://open.spotify.com/track/6sN8hNfLvBLGPr7leeL9tR) | [Filippinoboh](https://open.spotify.com/artist/0wJZLo1pCWYUKTaWe4JLZc) | [Double Space X](https://open.spotify.com/album/3DOga8y8M4FYdAxzfGFunt) | 1:50 | 2022-07-15 | 2023-09-29 |
 | [Down By The Docks](https://open.spotify.com/track/5llK7Ua6MiBxZouPpwPm5r) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Down By The Docks](https://open.spotify.com/album/5eWu3EphAuVNzkhp7MAyu8) | 3:01 | 2022-07-22 | 2023-10-06 |
-| [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 |  |
+| [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 | 2025-10-17 |
 | [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 | 2023-02-07 | 2024-04-19 |
 | [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 | 2025-01-11 |
 | [Dream](https://open.spotify.com/track/3UZRaD4uMrOxrhtIOTuXqU) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Dream](https://open.spotify.com/album/3Rr00QtKnBESSJttIaw0mk) | 2:30 | 2025-08-01 | 2025-08-29 |
@@ -529,7 +529,7 @@
 | [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 | 2025-04-13 |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |
 | [In motion](https://open.spotify.com/track/55tZAgea8vpky8Dgk5drC9) | [kdj\_77](https://open.spotify.com/artist/0gOMLuuQAYeuZZxFsS6AcO) | [In motion](https://open.spotify.com/album/6sfR2zcbUl3xBriQgY5OMq) | 2:53 | 2025-08-28 | 2025-09-26 |
-| [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 |  |
+| [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 | 2025-10-17 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2021-11-10 | 2022-06-10 |
 | [In Perpetuum](https://open.spotify.com/track/3ImHLPyqf739WgzXKjPqfU) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [In Perpetuum](https://open.spotify.com/album/2dou5NJzqX9nWvR6eoamLM) | 1:52 | 2022-02-18 | 2023-03-18 |
 | [In The Sky](https://open.spotify.com/track/2t8xuOOSyDjt1jDhUjoNGO) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN) | [In The Sky](https://open.spotify.com/album/6KPHCCekZmbCHQihlMB1Pm) | 2:12 | 2022-06-03 | 2023-08-04 |
@@ -678,6 +678,7 @@
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2021-11-10 | 2022-08-19 |
 | [Making Pizza](https://open.spotify.com/track/3v65mSFX4hY7l0JveBQjNa) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Making Pizza](https://open.spotify.com/album/0Td6eNByAw6kBfB47t576G) | 1:51 | 2022-06-24 | 2022-09-03 |
 | [Mallet Dreams](https://open.spotify.com/track/4FyekCqwBwaFRWCLvL4Or4) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [Mallet Dreams](https://open.spotify.com/album/2TluPmCV8AGpmyrg62Rwkb) | 1:42 | 2023-03-16 | 2023-10-06 |
+| [mangoes](https://open.spotify.com/track/2T0NMR5RPcUDsu2tgIVFS4) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [mangoes](https://open.spotify.com/album/5SQ2R6kxVV4luIcytiSMjx) | 2:23 | 2025-10-16 |  |
 | [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 | 2025-07-16 |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2021-11-10 | 2023-03-02 |
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
@@ -692,6 +693,7 @@
 | [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 | 2025-07-16 |
 | [mellow](https://open.spotify.com/track/6NQifrTw9bIazUX9oGfSsa) | [shogani](https://open.spotify.com/artist/0y76RS7R6xSSztxu7QfvN0) | [mellow](https://open.spotify.com/album/5hrFU6NdaH8oCAOZAy7wP0) | 2:07 | 2021-11-10 | 2022-10-29 |
 | [Mellow Moods](https://open.spotify.com/track/1yRN8ZelpRKfhTzzNuandF) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Mellow Moods](https://open.spotify.com/album/17COrJFxElnzKjuEu9S9lH) | 1:59 | 2024-03-22 | 2024-10-17 |
+| [mellow out](https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [mellow out](https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf) | 2:02 | 2025-10-16 |  |
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-02 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2023-09-29 | 2025-07-16 |
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2021-11-10 | 2023-04-12 |

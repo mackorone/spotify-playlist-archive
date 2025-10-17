@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Laraw
+> La scène musicale montréalaise au premier plan\. Photo: Laraw
 
 [Spotify](https://open.spotify.com/user/spotify) - 136,367 likes - 100 songs - 5 hr 20 min
 

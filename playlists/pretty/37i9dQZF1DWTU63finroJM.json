@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Victor Ray",
-  "num_followers": 77603,
+  "num_followers": 77605,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
+        "name": "Devaki",
+        "url": "https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "duration_ms": 257531,
+      "name": "Kisah Tanpa Dirimu",
+      "url": "https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 162857,
       "name": "Sana",
       "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
-        "name": "Devaki",
-        "url": "https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe"
-      },
-      "artists": [
-        {
-          "name": "Anggis Devaki",
-          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
-        }
-      ],
-      "duration_ms": 257531,
-      "name": "Kisah Tanpa Dirimu",
-      "url": "https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd"
     },
     {
       "added_at": "2025-10-01 08:00:31",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
+        "name": "Chronosick",
+        "url": "https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 157414,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
         "name": "Mamulengo",
         "url": "https://open.spotify.com/album/6PCJ0Y9gF37PgbBHFJUK7p"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 121333,
       "name": "Mamulengo",
       "url": "https://open.spotify.com/track/7fInbajkdujX3jNoaRMITl"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
-        "name": "Chronosick",
-        "url": "https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 157414,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7"
     },
     {
       "added_at": "2025-10-01 08:00:31",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
-        "name": "do you guys *still* wanna listen to some electro-pop music?",
-        "url": "https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2"
-      },
-      "artists": [
-        {
-          "name": "White Chorus",
-          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
-        }
-      ],
-      "duration_ms": 186135,
-      "name": "Ingatlah Aku Di Sini",
-      "url": "https://open.spotify.com/track/5PGwDL5zm7JpfM8kfg5ebw"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
         "name": "RICH",
         "url": "https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
+        "name": "do you guys *still* wanna listen to some electro-pop music?",
+        "url": "https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        }
+      ],
+      "duration_ms": 186135,
+      "name": "Ingatlah Aku Di Sini",
+      "url": "https://open.spotify.com/track/5PGwDL5zm7JpfM8kfg5ebw"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
         "name": "Kaisi Ye Aandhi Thee",
         "url": "https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
-        "name": "What Does She Have",
-        "url": "https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "What Does She Have",
-      "url": "https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
         "name": "Hari Ini, Esok & Selamanya",
         "url": "https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 284400,
       "name": "Pengagum",
       "url": "https://open.spotify.com/track/4bDVT4vPR2KM2RdOV4mTJL"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
+        "name": "What Does She Have",
+        "url": "https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "What Does She Have",
+      "url": "https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc"
     },
     {
       "added_at": "2025-10-01 08:00:31",

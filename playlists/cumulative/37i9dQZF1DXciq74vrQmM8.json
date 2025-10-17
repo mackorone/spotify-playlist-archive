@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. alemeda & doechii",
+  "description": "welcome to our universe ft. ashnikko",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Artificial Angels",
+        "url": "https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169477,
+      "name": "Artificial Angels",
+      "url": "https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin"
+    },
+    {
+      "album": {
         "name": "As Alive As You Need Me To Be",
         "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
       },
@@ -1344,6 +1362,24 @@
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153327,
+      "name": "Baby Teeth",
+      "url": "https://open.spotify.com/track/78EsMn9Rlb9si1NkvPPLrQ"
     },
     {
       "album": {
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 167257,
       "name": "Blitz",
       "url": "https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM"
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 187830,
       "name": "BREAK FREE",
       "url": "https://open.spotify.com/track/5gCifD21fmGpnyxkvPtIEI"
@@ -3886,7 +3922,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 196363,
       "name": "CONCRETE",
       "url": "https://open.spotify.com/track/7l2NInPwslS8CaEPQdhKdx"
@@ -6286,7 +6322,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 183062,
       "name": "Evangelic Girl is a Gun",
       "url": "https://open.spotify.com/track/426pPi8cBCE38QO4h6YC6V"
@@ -8102,7 +8138,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 222373,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4cwjsl7zxbj8sCz6rSly3V"
@@ -9424,7 +9460,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 188373,
       "name": "HOLLOWMAN TING",
       "url": "https://open.spotify.com/track/0rCHNHRd93LgnFXNrj1cJ3"
@@ -9590,7 +9626,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 136909,
       "name": "How You Doing?",
       "url": "https://open.spotify.com/track/4oLho63TmMfjZk11mFbqti"
@@ -15396,7 +15432,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 181714,
       "name": "Pain",
       "url": "https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL"
@@ -18141,6 +18177,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165318,
+      "name": "Skin Cleared",
+      "url": "https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER"
+    },
+    {
+      "album": {
         "name": "Skitz",
         "url": "https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd"
       },
@@ -20426,7 +20480,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 230297,
       "name": "TOES!",
       "url": "https://open.spotify.com/track/5xyttaYPcls5oPMqu8ZPMl"
@@ -21234,6 +21288,24 @@
       "duration_ms": 240384,
       "name": "Vigilantes",
       "url": "https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI"
+    },
+    {
+      "album": {
+        "name": "VIOLENCE",
+        "url": "https://open.spotify.com/album/3vQtCzuU1jIbTIo7iZe2Ez"
+      },
+      "artists": [
+        {
+          "name": "Cody Frost",
+          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178159,
+      "name": "VIOLENCE",
+      "url": "https://open.spotify.com/track/21nMuvJmnxxLUY2DZMYoO7"
     },
     {
       "album": {

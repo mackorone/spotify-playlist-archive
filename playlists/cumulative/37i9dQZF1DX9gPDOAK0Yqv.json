@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6dPWbiXDev8kIBHmrqrRkO"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7f2HMR4UT56WcHPtfdrnKv"
+    },
+    {
+      "album": {
         "name": "ENDZ061",
         "url": "https://open.spotify.com/album/66l4BIequxiDPjxXoH900j"
       },
@@ -1282,7 +1304,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 173233,
       "name": "Back To The Sound",
       "url": "https://open.spotify.com/track/54HmVaiLg72bfmQ2lkhljF"
@@ -9867,6 +9889,28 @@
     },
     {
       "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/0r5liOaryIuC0Mq13XBPUs"
+    },
+    {
+      "album": {
         "name": "Nude Remixes",
         "url": "https://open.spotify.com/album/13V7SBTiEGttVK8zwqd2tr"
       },
@@ -10508,7 +10552,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 205833,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
@@ -16315,7 +16359,7 @@
     },
     {
       "album": {
-        "name": "Wait So Long (Agents Of Time Remix)",
+        "name": "Wait So Long (Why Do I Have To) [Agents Of Time Remix]",
         "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
       },
       "artists": [
@@ -16332,7 +16376,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 245538,
-      "name": "Wait So Long - Agents Of Time Remix",
+      "name": "Wait So Long (Why Do I Have To) - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
     },
     {

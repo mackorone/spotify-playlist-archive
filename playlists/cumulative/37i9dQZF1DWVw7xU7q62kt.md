@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-666 songs - 1 day 5 hr 15 min
+667 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [cozed](https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [cozed](https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD) | 1:45 | 2025-10-03 |  |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 | 2025-05-24 |
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
+| [Cruisin'](https://open.spotify.com/track/41LB7SlHIr8A182FGIBo5b) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf), [Luminae](https://open.spotify.com/artist/64GtkR4gBqhZgABLB2p8mX) | [Cruisin'](https://open.spotify.com/album/0bQFTxddnGq6TQxAi83dzV) | 1:53 | 2025-10-10 |  |
 | [Cruising](https://open.spotify.com/track/11bQjIYHyRsmnYLb7VvfHZ) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [SMTHNGOOD](https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf) | [Cruising](https://open.spotify.com/album/7hHG6zYh72UExmjlXmVAHr) | 2:16 | 2025-06-13 | 2025-06-17 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
 | [Cruize](https://open.spotify.com/track/10Ijt9xLWRgYFdaTVRXSxR) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/3bLAV4r4Gye5irDLho7p5y) | 2:40 | 2024-03-20 | 2024-08-25 |
@@ -431,7 +432,7 @@
 | [Palm Tree Bounce](https://open.spotify.com/track/0wrkpCUbuXc8dDaBNe8B0y) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Palm Tree Bounce](https://open.spotify.com/album/33OYw09Ke0H6uncewCuG3T) | 2:24 | 2025-06-20 | 2025-07-19 |
 | [Palmers \- Alfa Mist Remix](https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Palmers / King Cobra \(Alfa Mist Remix, JSPHYNX Remix\)](https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi) | 3:29 | 2023-10-13 | 2024-08-24 |
 | [Panther Attack](https://open.spotify.com/track/0M9JsZCgApoA6GqEIwf6ah) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [George Silva](https://open.spotify.com/artist/7BpMl247jFhdq3CW1AtTsi) | [Panther Attack](https://open.spotify.com/album/1WPXMg2iktNcwH5OUpdy52) | 3:46 | 2024-01-26 | 2024-09-02 |
-| [Paper Planes](https://open.spotify.com/track/1HcbPmeokxD8x87M4Gg23x) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Paper Planes](https://open.spotify.com/album/0yWx9GV1HrXnbZ0x3n5WZw) | 1:50 | 2025-09-26 |  |
+| [Paper Planes](https://open.spotify.com/track/1HcbPmeokxD8x87M4Gg23x) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Paper Planes](https://open.spotify.com/album/0yWx9GV1HrXnbZ0x3n5WZw) | 1:50 | 2025-09-26 | 2025-10-17 |
 | [parandrus](https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [parandrus](https://open.spotify.com/album/5C0MZpkOVSOzVetfNg5WGC) | 2:06 | 2025-05-09 | 2025-06-07 |
 | [Parc Mercier](https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Parc Mercier](https://open.spotify.com/album/0gq5Gp8HA0CkzEFn1w8By5) | 2:13 | 2025-07-18 |  |
 | [Parcels](https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Parcels](https://open.spotify.com/album/60H62b6Ew5algY7SLyOMT9) | 1:46 | 2025-02-14 | 2025-05-28 |

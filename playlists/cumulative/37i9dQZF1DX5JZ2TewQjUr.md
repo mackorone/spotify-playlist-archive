@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Chefwest
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Tr33
 
-1,532 songs - 3 day 14 hr 29 min
+1,535 songs - 3 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Eyes Of Blue](https://open.spotify.com/track/44fhrMUAgaVXfkNNpePQ3u) | [Tsukki Soo](https://open.spotify.com/artist/32SqdbPx6eSzmgkpd6rgYI) | [Eyes Of Blue](https://open.spotify.com/album/4c2LIBqyFxTQMPfiTSrEbu) | 4:08 | 2022-10-13 | 2023-02-03 |
 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [Faded Blue Jeans](https://open.spotify.com/track/5C7Rve2YyqedV0Z8DAHtAK) | [CHARICE](https://open.spotify.com/artist/0tV7fUG9ZTRUs4mUyR3s4C) | [Faded Blue Jeans](https://open.spotify.com/album/5DkApJgKNiIUZGTr3IAteQ) | 3:04 | 2023-08-03 | 2023-11-03 |
+| [fall](https://open.spotify.com/track/37RqaPapwsMhV83X25PbgT) | [norio](https://open.spotify.com/artist/3WWzdMggCvS4H72hLWroiZ) | [fall](https://open.spotify.com/album/6EFi65lXZKER9kUNNh6MSU) | 2:24 | 2025-10-16 |  |
 | [Fall Back to Bed](https://open.spotify.com/track/1BW0b9QJiuT3V2x9J3IytA) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [Fall Back to Bed](https://open.spotify.com/album/5OEo32Wm1ZtWAMuw29R7Ql) | 3:41 | 2022-12-29 | 2023-03-18 |
 | [FALL4U](https://open.spotify.com/track/2J8wZHOeDCvGc3ePzgRCXE) | [HEi\-Z](https://open.spotify.com/artist/2En6rTX3nAc3ZW4VtDAsrX), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [POIZON 777](https://open.spotify.com/album/3GdKZ0H6MdNLNxIn6qdse8) | 3:30 | 2023-08-10 | 2023-12-01 |
 | [FALLEN](https://open.spotify.com/track/5315U2mC8mccmUXJ6ivdqZ) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [FALLEN](https://open.spotify.com/album/528YTSLjZ9z61w2q21zzuo) | 3:29 | 2022-09-15 | 2023-03-18 |
@@ -722,6 +723,7 @@
 | [R.I.P.](https://open.spotify.com/track/6L8viST8TwMy1Dl7SxuxiE) | [Amelie Jat](https://open.spotify.com/artist/0Yg3LURRqPXbag4pG1HInz) | [for the plot](https://open.spotify.com/album/6KsADQyPsGmT6442mACwtR) | 2:44 | 2023-10-19 | 2024-01-05 |
 | [Rain On Me](https://open.spotify.com/track/2Ha5WK1UecSA134oD4itZN) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Rain On Me](https://open.spotify.com/album/3Jvo1WUkRmZTZP0mgsQwbN) | 3:33 | 2022-12-01 | 2023-03-18 |
 | [rain or shine \(相擁的跳\)](https://open.spotify.com/track/56MEd81XhzgsaLrlveom2Q) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX), [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [rain or shine \(相擁的跳\)](https://open.spotify.com/album/3gjapwFDyFU2jFs38DP8rd) | 4:15 | 2023-12-21 | 2024-02-02 |
+| [rainy season](https://open.spotify.com/track/6Vp2t5cU5STwL9WpQyNI9C) | [Kudos Lam](https://open.spotify.com/artist/2HeMjjQtquPvkToAGftuS7) | [rainy season](https://open.spotify.com/album/2yZGoLSHySJWEp5MDAAzC4) | 3:13 | 2025-10-16 |  |
 | [Rari](https://open.spotify.com/track/4Dt9J1ac16L4XV7jRs7E6L) | [Ethan Chu](https://open.spotify.com/artist/4GAxH0WL7ChoWWdpGw6PZq) | [Rari](https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5) | 2:17 | 2022-08-18 | 2022-11-04 |
 | [ratchet ho](https://open.spotify.com/track/4SHAIx3mdIqkDXrqsaV12d) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [GEEK PARK \(爆野公園\)](https://open.spotify.com/album/5JHutuWFcpcPyL4QZsEwYW) | 3:11 | 2025-06-05 |  |
 | [REAL](https://open.spotify.com/track/3X3xIOH6BYOxt6UoZWbuIY) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [REAL](https://open.spotify.com/album/11zwue1tQvvXTkJb9qOzqT) | 3:48 | 2022-06-02 | 2022-09-09 |
@@ -1208,6 +1210,7 @@
 | [屌, MOVE!](https://open.spotify.com/track/0hXs51pV3bN5U9naB6WbEA) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9), [G.I.N](https://open.spotify.com/artist/66a8AfgfuZUBboOEP8kPT4) | [屌, MOVE!](https://open.spotify.com/album/4nSXZ44hMfzfoJYeuwcO1I) | 2:49 | 2023-01-12 | 2023-02-03 |
 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 | 2023-04-20 | 2023-07-14 |
 | [山長水遠](https://open.spotify.com/track/5LtlNjIcPKjXOSO2E45ULu) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [0rganicman](https://open.spotify.com/artist/6JSPhYkty9j06FeFahuhDo), [丸](https://open.spotify.com/artist/5tUbF2wVYoQQAbSyN5iM1n) | [山長水遠](https://open.spotify.com/album/66wKvoCdhUkbnjY09NpRJR) | 5:18 | 2023-12-14 | 2024-05-10 |
+| [屾](https://open.spotify.com/track/4zv1PztCuw24fDuVc2SFUW) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [屾](https://open.spotify.com/album/5h8XmJodg140X05LbLYjZK) | 3:11 | 2025-10-16 |  |
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-13 | 2023-03-18 |
 | [左手鑼 右手gyatt](https://open.spotify.com/track/1TpEnBdOaFRJA4I2tOCkUn) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [新年西格馬 New Year Sigma](https://open.spotify.com/album/5p7Js3uRdFoNYlVniPpVkM) | 1:01 | 2025-01-30 | 2025-03-14 |
 | [已封存對話](https://open.spotify.com/track/7AwSKBeP8umN4F0AiThHYN) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [舒適症候群](https://open.spotify.com/album/3cXyvdNPltrEB40XmJuKTb) | 4:33 | 2024-07-04 | 2024-11-15 |

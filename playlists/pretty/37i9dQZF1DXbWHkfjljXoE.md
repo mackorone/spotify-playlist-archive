@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Melodies of the movement\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,848 likes - 65 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,081 likes - 65 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

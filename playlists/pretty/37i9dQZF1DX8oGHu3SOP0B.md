@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Goy Arachaporn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,505 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,513 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [I Hate Rain](https://open.spotify.com/track/2SeocGytkqW2LWINsGCIcR) | [TananTana](https://open.spotify.com/artist/5iOb46D5AmJwQ7KT9Y9mzp) | [I Hate Rain](https://open.spotify.com/album/25Ko3Gc7tnKezEKiXtGkPn) | 4:07 |
 | 50 | [Yes, I'm fine \(เหงาไม่ตาย\)](https://open.spotify.com/track/1B6wqTgoePaSmib2dl17rS) | [MillieSnow](https://open.spotify.com/artist/2UgcmrWgUDrBdURtLvGSjc) | [Yes, I'm fine \(เหงาไม่ตาย\)](https://open.spotify.com/album/4JAmY7ZuG2H8oLc1zPBcKh) | 3:30 |
 
-Snapshot ID: `AAAAAHg22gn2Ve+jYcLLFG5Qrx6gge/3`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

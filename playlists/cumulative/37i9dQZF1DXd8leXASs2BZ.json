@@ -2251,6 +2251,32 @@
     },
     {
       "album": {
+        "name": "BANKROLL",
+        "url": "https://open.spotify.com/album/2AuU4UI3lJ6rS3SuV3dPiB"
+      },
+      "artists": [
+        {
+          "name": "illrain",
+          "url": "https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS"
+        },
+        {
+          "name": "Yatt",
+          "url": "https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken"
+        },
+        {
+          "name": "JETG",
+          "url": "https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "BANKROLL",
+      "url": "https://open.spotify.com/track/7ho4ye2bcd2pSGBwBeJunT"
+    },
+    {
+      "album": {
         "name": "barbarity (feat. noma)",
         "url": "https://open.spotify.com/album/3Anl6RXhTDp9mcZn4Z1YFO"
       },

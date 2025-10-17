@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,416 likes - 524 songs - 1 day 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,417 likes - 525 songs - 1 day 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -532,5 +532,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 522 | [A Pink Lady Strikes Back](https://open.spotify.com/track/7oC6aniTH48y5rG3QL49k1) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL), [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [Grease: Rise of the Pink Ladies \(A Paramount+ Original Series Score\)](https://open.spotify.com/album/7vdKIcMpLX6vAUKeHGcQI9) | 1:42 |
 | 523 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 524 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
+| 525 | [It Can't Be Christmas](https://open.spotify.com/track/5SxfqYOHg6XaLCBr8N4jFo) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [It Can't Be Christmas](https://open.spotify.com/album/4WDJarpfVVwJlMrd36OyiM) | 3:07 |
 
-Snapshot ID: `Ab+9kAAAAAAKAGecD90ot9RosiHAV/nB`
+Snapshot ID: `Ab/DHAAAAAAGqTeoh4Xz6fcWw4Y5JR5V`

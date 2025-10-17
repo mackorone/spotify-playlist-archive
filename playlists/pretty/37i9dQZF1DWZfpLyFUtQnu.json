@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 106520,
+  "num_followers": 106536,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Sublime & Silence",
-      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Voyou (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 161493,
       "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Sublime & Silence",
+      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Sanson comme ils l'imaginent",
-        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Quelques mots d'amour",
-      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 241346,
       "name": "Parce Qu'On Vient De Loin (Version Acoustique)",
       "url": "https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Sanson comme ils l'imaginent",
+        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Quelques mots d'amour",
+      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
     },
     {
       "added_at": "2024-10-03 14:22:43",

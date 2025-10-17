@@ -1,15 +1,71 @@
 {
-  "description": "Frisse Nederlandse pop. Cover: Froukje & S10",
-  "num_followers": 247293,
+  "description": "Frisse Nederlandse pop. Cover: Russo & Ronnie Flex",
+  "num_followers": 247305,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASGf/STRim8x68uOFNnvNcsV6AB",
+  "snapshot_id": "AAAAANNiA6yU9an17YAL+w7WlnmOQWdi",
   "tracks": [
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 150120,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Wacht Op Mij",
+        "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 186676,
+      "name": "Wacht Op Mij",
+      "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Houden Van Haten",
+        "url": "https://open.spotify.com/album/5pTIrOVqiNEe0pi9pV333j"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 192049,
+      "name": "Houden Van Haten",
+      "url": "https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Frok en Stien",
         "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
@@ -29,23 +85,23 @@
       "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
-        "name": "Wacht Op Mij",
-        "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
+        "name": "Illusionist",
+        "url": "https://open.spotify.com/album/1xUXLVxq8k2xF7Zekii9E6"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
         }
       ],
-      "duration_ms": 186676,
-      "name": "Wacht Op Mij",
-      "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
+      "duration_ms": 219958,
+      "name": "Illusionist",
+      "url": "https://open.spotify.com/track/0nyuMI9Gz3bdPu69fiVhpN"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "GO BESTFRIEND",
         "url": "https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5"
@@ -61,7 +117,23 @@
       "url": "https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Het Komt Allemaal Wel Goed",
+        "url": "https://open.spotify.com/album/4k8tlqTYPSKV2DSB7GQf6L"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "duration_ms": 182908,
+      "name": "Het Komt Allemaal Wel Goed",
+      "url": "https://open.spotify.com/track/5jF44uotGASfqzEVxIhtKN"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "daar ging het jou toch om?",
         "url": "https://open.spotify.com/album/2zzqiICv8bKxEEhVsBztsu"
@@ -77,7 +149,7 @@
       "url": "https://open.spotify.com/track/35ztK9MgbbpFGGSR76OYja"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Alles Wat Ik Weet",
         "url": "https://open.spotify.com/album/6Kn1qGLQ5801Q1AXLEnTqX"
@@ -93,7 +165,23 @@
       "url": "https://open.spotify.com/track/7iBDJR0DF3y3FNY5w1lMtP"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Ik Mis Je Nu Wel Hier",
+        "url": "https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Ik Mis Je Nu Wel Hier",
+      "url": "https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Gedoe",
         "url": "https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R"
@@ -109,23 +197,27 @@
       "url": "https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
-        "name": "Tweedehands",
-        "url": "https://open.spotify.com/album/6kB1Fzxta2yUSkouT9nBwG"
+        "name": "Mijn Meisje",
+        "url": "https://open.spotify.com/album/2fLod11E7pENGi0LPPnP1W"
       },
       "artists": [
         {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "Joshua Nolet",
+          "url": "https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV"
         }
       ],
-      "duration_ms": 139120,
-      "name": "Tweedehands",
-      "url": "https://open.spotify.com/track/6WIDTTNVtn6u93JT6hYBUK"
+      "duration_ms": 178764,
+      "name": "Mijn Meisje",
+      "url": "https://open.spotify.com/track/1nQLXiDKoITyTuMYpRQXcu"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "0612345678",
         "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
@@ -145,7 +237,23 @@
       "url": "https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "WIE?",
+        "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "WIE?",
+      "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Dansen Met De Duivel",
         "url": "https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT"
@@ -161,7 +269,23 @@
       "url": "https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Vanavond Nog Van Mij",
+        "url": "https://open.spotify.com/album/1wqHiVIDtBvhvPGBePTTES"
+      },
+      "artists": [
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "duration_ms": 169981,
+      "name": "Vanavond Nog Van Mij",
+      "url": "https://open.spotify.com/track/3vdaGOh7Nz0s8aW6nLgS6s"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Amour",
         "url": "https://open.spotify.com/album/2IuNeXrj4UdP0UEB8NLtlH"
@@ -177,7 +301,7 @@
       "url": "https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Slapeloze Nachten",
         "url": "https://open.spotify.com/album/2WZEjenVaPw4REvQhMnlLq"
@@ -193,7 +317,23 @@
       "url": "https://open.spotify.com/track/2OxXfXS4gjgWFGGzZAcpm8"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Alles in het klein",
+        "url": "https://open.spotify.com/album/76lz3dHhb8ql486Aa7GNCu"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Alles in het klein",
+      "url": "https://open.spotify.com/track/3GaoCZUwhKDgO7a0kXwqQD"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Beste Zangers 2025 (Aflevering 5 - Acda en de Munnik)",
         "url": "https://open.spotify.com/album/1Cpvv9jivG5mN8ro87NtmM"
@@ -213,7 +353,7 @@
       "url": "https://open.spotify.com/track/2aqotKVn9O0Igy9DJFA5rU"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT"
@@ -229,23 +369,23 @@
       "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
-        "name": "WIE?",
-        "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
+        "name": "Waar Kom Je Vandaan",
+        "url": "https://open.spotify.com/album/4ufnq6QXEpbjjBQh9Ftupt"
       },
       "artists": [
         {
-          "name": "Aaron Blommaert",
-          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7"
         }
       ],
-      "duration_ms": 166840,
-      "name": "WIE?",
-      "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
+      "duration_ms": 151040,
+      "name": "Waar Kom Je Vandaan",
+      "url": "https://open.spotify.com/track/1H1rTqder7ZJhFlrbWcTCV"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Basis",
         "url": "https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R"
@@ -261,7 +401,7 @@
       "url": "https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Beste Zangers 2025 (Bente)",
         "url": "https://open.spotify.com/album/2oR3Tc7y4IwkG7SgymbRUd"
@@ -281,7 +421,7 @@
       "url": "https://open.spotify.com/track/0mtgMC6QSzemU5fTImXU6R"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Noodrem",
         "url": "https://open.spotify.com/album/5wM4vPPqTJ51nUrOH4kLxu"
@@ -297,7 +437,7 @@
       "url": "https://open.spotify.com/track/5NM9cd1PYAg9tmMapkRDuz"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Nog Even Blijven",
         "url": "https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6"
@@ -317,7 +457,23 @@
       "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
+        "name": "Dansen Met M'n Ogen Dicht",
+        "url": "https://open.spotify.com/album/6rpRpa2zMeEiNHkr9Nxq9L"
+      },
+      "artists": [
+        {
+          "name": "Liv Webbers",
+          "url": "https://open.spotify.com/artist/74he4SuOzyeqs99TYxvXcT"
+        }
+      ],
+      "duration_ms": 185524,
+      "name": "Dansen Met M'n Ogen Dicht",
+      "url": "https://open.spotify.com/track/2U8fHUR2BQePgK5lSKCeMF"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Leerde Van Mijn Vader",
         "url": "https://open.spotify.com/album/7xFHKM3KcfOYzNu3kVVWeg"
@@ -333,7 +489,7 @@
       "url": "https://open.spotify.com/track/3Ab4Cwn4aAfhmtVs2JeK56"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Huisje Aan De Zee",
         "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
@@ -349,7 +505,7 @@
       "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Hier Ben Ik Dan",
         "url": "https://open.spotify.com/album/0EBj45M8PyG397BI5bvAZv"
@@ -365,7 +521,7 @@
       "url": "https://open.spotify.com/track/4Q82BzcEpFettefU7VGpJ0"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Gevangen",
         "url": "https://open.spotify.com/album/38osuohq0mcsXeOaJ4Qg0s"
@@ -385,7 +541,7 @@
       "url": "https://open.spotify.com/track/2OznV672GiGwceYdjL9i9E"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Oost West Thuis Best",
         "url": "https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya"
@@ -401,7 +557,7 @@
       "url": "https://open.spotify.com/track/1IKPpNQOoyvgrycSKB3Wy3"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Buurt Boos",
         "url": "https://open.spotify.com/album/1ssuuKdHsOGyigapY4bxDk"
@@ -417,7 +573,7 @@
       "url": "https://open.spotify.com/track/42YlfcOj3nmjYVQ1qEYipz"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
@@ -433,7 +589,7 @@
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Als Ik Haar Mis",
         "url": "https://open.spotify.com/album/2vD1dSxai0zdUQnYNyGEFV"
@@ -449,7 +605,7 @@
       "url": "https://open.spotify.com/track/0bTUv0rDKC8HPvbDXUmCOd"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Hoe Je Naar Me Keek",
         "url": "https://open.spotify.com/album/7Ik6SeYQjwMUlaBwe2op2D"
@@ -465,7 +621,7 @@
       "url": "https://open.spotify.com/track/64QB4SM5uV6FvUTQXoqTdE"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Wonderbaarlijk",
         "url": "https://open.spotify.com/album/1JTwZxRzvDPl5M2Sx5UC1H"
@@ -481,7 +637,7 @@
       "url": "https://open.spotify.com/track/74taNj89bwFHW4Xk8HyKrC"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Voorbestemd",
         "url": "https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK"
@@ -501,7 +657,7 @@
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Geheim",
         "url": "https://open.spotify.com/album/7CzS2ZhIvKkxQG1TKtwoY7"
@@ -517,27 +673,7 @@
       "url": "https://open.spotify.com/track/10sJlrm9sb6WifWpLN6ZcS"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Kan Je Me Zien",
-        "url": "https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 207530,
-      "name": "Kan Je Me Zien",
-      "url": "https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Toveren",
         "url": "https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z"
@@ -557,7 +693,7 @@
       "url": "https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/2DhabauY6zvanAIIsC45w4"
@@ -573,7 +709,7 @@
       "url": "https://open.spotify.com/track/15r38hNLqPpZtGHmMD0gZo"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Bliksem",
         "url": "https://open.spotify.com/album/5aQDXTIBffjggGyXUUeS01"
@@ -589,7 +725,7 @@
       "url": "https://open.spotify.com/track/6YleSlumFybB9EbuNb39LJ"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Vrijplaats II",
         "url": "https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts"
@@ -609,7 +745,7 @@
       "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Ondanks",
         "url": "https://open.spotify.com/album/1DfRilQlAj1pH9RoeQ0y34"
@@ -625,7 +761,7 @@
       "url": "https://open.spotify.com/track/1lHpPbZm4QHh7pjl9lizF8"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Alles Staat Je",
         "url": "https://open.spotify.com/album/49cafK4QUkSTYbpiulbLhL"
@@ -641,23 +777,7 @@
       "url": "https://open.spotify.com/track/1GF5rnU8BgUqXQ6YILOx6V"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Tijd Genoeg",
-        "url": "https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3"
-      },
-      "artists": [
-        {
-          "name": "Gers Pardoel",
-          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
-        }
-      ],
-      "duration_ms": 160692,
-      "name": "Tijd Genoeg",
-      "url": "https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Deze Avond!",
         "url": "https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD"
@@ -673,7 +793,7 @@
       "url": "https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/5nAsQYfwRlGm6wsr83Nkfi"
@@ -689,7 +809,7 @@
       "url": "https://open.spotify.com/track/65y6Ak4YaKtfua7gemQaff"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Soldaat (feat. Tabitha)",
         "url": "https://open.spotify.com/album/1sfKGdwQ4ZVTwzEOtFw9iM"
@@ -709,7 +829,7 @@
       "url": "https://open.spotify.com/track/4FGueWKt0aLl5G2GjjifIO"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Overdosis",
         "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
@@ -725,7 +845,7 @@
       "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Hoe Het Is",
         "url": "https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC"
@@ -749,7 +869,7 @@
       "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Buut Vrij",
         "url": "https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu"
@@ -765,7 +885,7 @@
       "url": "https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Bij Jou Voel Ik Me Thuis",
         "url": "https://open.spotify.com/album/6FkGLWXQjDAbOVWfzDEc9l"
@@ -785,7 +905,7 @@
       "url": "https://open.spotify.com/track/2zpyzN6xxDwgNVFogR0s63"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Blijf Dan Hier (feat. Danique)",
         "url": "https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv"
@@ -805,7 +925,7 @@
       "url": "https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Met Of Zonder Jou",
         "url": "https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5"
@@ -825,7 +945,7 @@
       "url": "https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Zo'n Dag",
         "url": "https://open.spotify.com/album/7zjUYwyA4oF253yFJMmok8"
@@ -841,7 +961,7 @@
       "url": "https://open.spotify.com/track/5DIvlv645skL2pAfZYPfqn"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Wegwerpliefde",
         "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
@@ -857,7 +977,7 @@
       "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Praat Te Veel",
         "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
@@ -873,7 +993,7 @@
       "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Laat Maar",
         "url": "https://open.spotify.com/album/14eIBXhH2yBMmWIf23FqpJ"
@@ -889,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4UrbiBPtaSgFIMz06s5eIO"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Hamer op mijn hart",
         "url": "https://open.spotify.com/album/4HooLHxXVxnri1TcS8jZH2"
@@ -905,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0IH3FMkshOXur7jnTWdbtL"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Even Niemand Zijn",
         "url": "https://open.spotify.com/album/0hwBGKIJrWS6lP1DRN2di5"
@@ -921,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1rs5Yyk8HExjAy0iRfGsLr"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Nooit Genoeg (bla bla bla)",
         "url": "https://open.spotify.com/album/0DntQLCiPu5P9GJQ8gUAxJ"
@@ -937,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1vynTOF2wevlg9eE0Y06W5"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Begin Opnieuw",
         "url": "https://open.spotify.com/album/2JotcPiUL4bSobxOXNJ2xg"
@@ -953,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3Q9ljh3xWnWJpzGYDY0qfP"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Alles Goud",
         "url": "https://open.spotify.com/album/3rtA6PkTnJpvqjowYjmSd4"
@@ -973,7 +1093,7 @@
       "url": "https://open.spotify.com/track/49iEJuWSHsK0O4HENW8qJR"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Wassenaar",
         "url": "https://open.spotify.com/album/2TvKCToGz0NsPLcWH8Hl32"
@@ -993,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3heP3Hxlq68F3H5QoX3Smw"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Je Kan Een Hoop",
         "url": "https://open.spotify.com/album/23rbyKPTBlBY8O5fzqK5dr"
@@ -1009,27 +1129,7 @@
       "url": "https://open.spotify.com/track/6U1qyy4qXzs9VSazl0HAc0"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Hoe hou ik dit vast",
-        "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 218898,
-      "name": "Hoe hou ik dit vast",
-      "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Het Is Nooit Te Laat",
         "url": "https://open.spotify.com/album/3rruebUB1o1crghzP49uas"
@@ -1045,23 +1145,7 @@
       "url": "https://open.spotify.com/track/3fCIivkVKCTdKaGykDMurF"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Gezelligheid (..3,4,5)",
-        "url": "https://open.spotify.com/album/6agf289SMNPxPVmi6fh4UE"
-      },
-      "artists": [
-        {
-          "name": "JASHA",
-          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
-        }
-      ],
-      "duration_ms": 176289,
-      "name": "Gezelligheid (..3,4,5)",
-      "url": "https://open.spotify.com/track/1BGGuweM2uI2Y95yfuvUW7"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Laat Mij Breekbaar Zijn",
         "url": "https://open.spotify.com/album/7sWz38ViZOOAQE9c1UyNpc"
@@ -1077,7 +1161,7 @@
       "url": "https://open.spotify.com/track/18ry46YUhRyFUnxR5oDjwC"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Levenslang",
         "url": "https://open.spotify.com/album/7GkEwAWC4mXglJjTl23wJi"
@@ -1093,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0eoKebZgSvWn9Po7HWDHza"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Niet Perfect",
         "url": "https://open.spotify.com/album/7hgDFCkFzvctUBgqdHmCpL"
@@ -1113,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5r5DltN0XoFobMQaeeenPJ"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Beste Fout",
         "url": "https://open.spotify.com/album/7dAUv80dbGXyDebYTU489n"
@@ -1129,43 +1213,7 @@
       "url": "https://open.spotify.com/track/6vYnml6p32VEStxD8ke7aX"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Alleen Maar Jou",
-        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
-      },
-      "artists": [
-        {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
-        }
-      ],
-      "duration_ms": 193388,
-      "name": "Alleen Maar Jou",
-      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Gin & Tonic",
-        "url": "https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        },
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
-        }
-      ],
-      "duration_ms": 158430,
-      "name": "Gin & Tonic",
-      "url": "https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Paarse Nachten",
         "url": "https://open.spotify.com/album/2pM0zct61wZz5YKGmexfVl"
@@ -1181,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2s1Kn9W1rG2kkIGYFDVcQs"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Friends with Benefits",
         "url": "https://open.spotify.com/album/1oHXfCrq9DJSSJ2diu5XmV"
@@ -1197,7 +1245,7 @@
       "url": "https://open.spotify.com/track/0ewKwagt9AluPszIDEUPNv"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Als jij het wil",
         "url": "https://open.spotify.com/album/08smch6KDBUeSZ0lqU4kfW"
@@ -1213,7 +1261,7 @@
       "url": "https://open.spotify.com/track/5aJgRrGYzBF4YO05IX3S5R"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "LOS",
         "url": "https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5"
@@ -1229,7 +1277,7 @@
       "url": "https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/5HTYaaS1l5AN84J3MN42Oc"
@@ -1245,7 +1293,7 @@
       "url": "https://open.spotify.com/track/1OkFX11LjOELGogZyTHVVa"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Beter Alleen",
         "url": "https://open.spotify.com/album/2rjhBuXvNmxluV5O5qqCHp"
@@ -1261,7 +1309,7 @@
       "url": "https://open.spotify.com/track/2gSiteaLpasfaUCc6sMQQI"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Ben Je Morgen Vrij?",
         "url": "https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD"
@@ -1281,23 +1329,7 @@
       "url": "https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Miljonair",
-        "url": "https://open.spotify.com/album/2jqgoXgJJ1fVsDr1aaGFdE"
-      },
-      "artists": [
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Miljonair",
-      "url": "https://open.spotify.com/track/0SJvHaZlRRWFI4UKikZaZn"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Alleen op de wereld",
         "url": "https://open.spotify.com/album/5MRBUpQbMCON0mx61DzAFL"
@@ -1313,7 +1345,7 @@
       "url": "https://open.spotify.com/track/1jf4FPYzBsk1fVer0iZWab"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Cowboys",
         "url": "https://open.spotify.com/album/5g0Lys0hoQNeHrlEywpTL6"
@@ -1329,43 +1361,7 @@
       "url": "https://open.spotify.com/track/5hiCMgAzZJN30QXGIvRiHb"
     },
     {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Alles Kan Kapot",
-        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 172211,
-      "name": "Alles Kan Kapot",
-      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
-      "album": {
-        "name": "Secret (Geheim)",
-        "url": "https://open.spotify.com/album/3u8GssKZ5oTJuLy5z6zJfi"
-      },
-      "artists": [
-        {
-          "name": "Lisa Rose",
-          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
-        },
-        {
-          "name": "Toby De Leeuw",
-          "url": "https://open.spotify.com/artist/3EJUpTAIxAA9tVmfCvpdFD"
-        }
-      ],
-      "duration_ms": 163166,
-      "name": "Secret (Geheim)",
-      "url": "https://open.spotify.com/track/59TKLZBHtgqBDCDpduFW2P"
-    },
-    {
-      "added_at": "2025-10-09 22:00:32",
+      "added_at": "2025-10-16 22:00:37",
       "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/5VHOkYdgZW38bN4O5k7UgJ"

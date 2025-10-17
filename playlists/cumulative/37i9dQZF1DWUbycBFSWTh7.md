@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-597 songs - 2 day 8 hr 12 min
+598 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Moonlight](https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb), [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Ritmo Freak](https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R) | 4:57 | 2024-06-03 | 2025-02-09 |
 | [More Love \- Edit](https://open.spotify.com/track/4mK4A2x8gT1WPmxZfrFhXD) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/04H1Yn2xEQjaD7sdXJqJlU) | 3:39 | 2022-12-01 | 2023-03-09 |
 | [More Love \- Edit](https://open.spotify.com/track/587merZ6HZx128D6URmP7h) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/2JC0aWxKNGe3pNnEWF8S6R) | 3:39 | 2023-02-27 | 2024-02-01 |
+| [Mother](https://open.spotify.com/track/5BQbR0EiZtA9YvfSsDCOuF) | [Megatronic](https://open.spotify.com/artist/3aU6ncVBmlnA8TtCXDwJKZ), [Chiqo Casidi](https://open.spotify.com/artist/2o1Ee1iifTeGFbOZqqbXgv) | [There's Truth In Gospel](https://open.spotify.com/album/2Xwg8pKhSG1btAogNbX0xU) | 4:50 | 2025-10-16 |  |
 | [Mothercity \- Tom Jarmey Remix](https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn) | [Penner+Muder](https://open.spotify.com/artist/4fpAs40OBZoto9ZtoEdOuE), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Mothercity \(Tom Jarmey Remix\)](https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe) | 5:55 | 2022-09-15 | 2023-01-13 |
 | [Motivation](https://open.spotify.com/track/0mKdGtYU0JJayslN4LTfLw) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Ras Stimulant](https://open.spotify.com/artist/0Qm02Ea6hJiSbV89RACyhg) | [The Intangibles](https://open.spotify.com/album/6dBEXG8Jn4TbR8VS8hna3N) | 7:02 | 2023-04-07 | 2024-02-01 |
 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 | 2023-09-14 | 2024-04-12 |

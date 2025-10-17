@@ -2,9 +2,9 @@
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: L.A.B.
 
-255 songs - 15 hr 38 min
+256 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 | 2025-09-09 |  |
 | [Cool it down](https://open.spotify.com/track/4v2Xrn82mfEgPR7lhwboLt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [COTERIE](https://open.spotify.com/album/3cPGB2HwcV2E8SBvNt3DO6) | 4:28 | 2023-11-28 | 2024-04-19 |
 | [Cool it down](https://open.spotify.com/track/7M6mvvrD10qyRzAEdpSATu) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Cool it down](https://open.spotify.com/album/43zWmYbRkvYr7Izv3XURNV) | 4:28 | 2024-03-21 | 2024-11-08 |
+| [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 | 2025-09-09 |  |
 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 | 2025-09-09 |  |
 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2023-11-28 | 2025-09-10 |
 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 | 2025-09-09 |  |
@@ -260,7 +261,7 @@
 | [Why Oh Why](https://open.spotify.com/track/2Jzb0W1Hl83lPMnRu0ehXR) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Why Oh Why](https://open.spotify.com/album/2B1oZVnpqFf96bIM8mg0cC) | 4:50 | 2024-03-21 | 2025-09-10 |
 | [Working](https://open.spotify.com/track/3WA9SHUrBSnSJdZ6zG1x64) | [Bradamon Band](https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Working](https://open.spotify.com/album/5x2umHD2Cv6xFDhl7o12PY) | 3:28 | 2023-11-28 | 2025-09-10 |
 | [You & Me](https://open.spotify.com/track/6tKOn6rWu84mt7iNXL2ur4) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [You & Me](https://open.spotify.com/album/75NZg8EM5PDCuoidc7F9uH) | 3:45 | 2025-02-13 | 2025-09-23 |
-| [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 | 2025-09-09 |  |
+| [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 | 2025-09-09 | 2025-10-17 |
 | [You To Me Are Everything](https://open.spotify.com/track/005t9swXJ8E2DUm6T2iXeG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [You To Me Are Everything](https://open.spotify.com/album/3aBc1NsKCAWV3HSLdzMoEy) | 3:53 | 2025-05-01 |  |
 | [You've Got A Friend](https://open.spotify.com/track/46eSIuzf3z4gU2MSrCHlyJ) | [U\-Ali](https://open.spotify.com/artist/7azxOsXcDxaDx2XDukzdCo), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [You've Got A Friend](https://open.spotify.com/album/4lr9cWbWcW0fsoY4q4jrrI) | 4:18 | 2024-03-21 | 2025-09-10 |
 

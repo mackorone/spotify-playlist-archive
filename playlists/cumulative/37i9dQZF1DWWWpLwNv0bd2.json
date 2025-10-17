@@ -2995,6 +2995,32 @@
     },
     {
       "album": {
+        "name": "Kannukulla (From \"Dude\")",
+        "url": "https://open.spotify.com/album/0NFGTNng8cOXD2jZvvNiMk"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273793,
+      "name": "Kannukulla - From \"Dude\"",
+      "url": "https://open.spotify.com/track/4pvJRYVfnIhG120GB8nWpp"
+    },
+    {
+      "album": {
         "name": "Kozhipannai Chelladurai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1SVYlCPqrroP2UaZSj91Qm"
       },
@@ -6702,7 +6728,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 219801,
       "name": "Thirudi (From \"Kiss\")",
       "url": "https://open.spotify.com/track/3Th0Gka5la3BLaBqZ8Ttlh"

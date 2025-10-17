@@ -1,6 +1,6 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 3487,
+  "num_followers": 3488,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-02-07 05:00:33",
       "album": {
+        "name": "All The Toppings",
+        "url": "https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC"
+      },
+      "artists": [
+        {
+          "name": "Panucci's Pizza",
+          "url": "https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi"
+        }
+      ],
+      "duration_ms": 111310,
+      "name": "Obligatory Folk Punk Song",
+      "url": "https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
         "name": "Who Killed Amanda Palmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
-    },
-    {
-      "added_at": "2025-02-07 05:00:33",
-      "album": {
-        "name": "All The Toppings",
-        "url": "https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC"
-      },
-      "artists": [
-        {
-          "name": "Panucci's Pizza",
-          "url": "https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi"
-        }
-      ],
-      "duration_ms": 111310,
-      "name": "Obligatory Folk Punk Song",
-      "url": "https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD"
     },
     {
       "added_at": "2025-02-07 05:00:33",

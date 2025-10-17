@@ -2,7 +2,7 @@
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Jazzy
+> Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Felix Cartal
 
 365 songs - 19 hr 6 min
 

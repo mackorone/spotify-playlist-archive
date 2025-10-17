@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 60387,
+  "num_followers": 60413,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "De Raza Campera",
+        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
+      },
+      "artists": [
+        {
+          "name": "Leandro Gutierrez y su Conjunto",
+          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
+        }
+      ],
+      "duration_ms": 138844,
+      "name": "De Raza Campera",
+      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "De Raza Campera",
-        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
-      },
-      "artists": [
-        {
-          "name": "Leandro Gutierrez y su Conjunto",
-          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
-        }
-      ],
-      "duration_ms": 138844,
-      "name": "De Raza Campera",
-      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Con Alma y Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
       },
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
       "artists": [
         {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
         }
       ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1135,22 +1151,6 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1482,15 +1482,11 @@
         {
           "name": "Isaco Abitbol",
           "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        },
-        {
-          "name": "D\u00fao Ubeda / Chavez",
-          "url": "https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8"
         }
       ],
-      "duration_ms": 154893,
-      "name": "Nostalgias Camperas",
-      "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
+      "duration_ms": 171973,
+      "name": "Flor del Litoral",
+      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
     },
     {
       "added_at": "2025-03-31 12:53:49",

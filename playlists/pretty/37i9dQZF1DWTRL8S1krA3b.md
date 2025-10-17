@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,888 likes - 105 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,894 likes - 105 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

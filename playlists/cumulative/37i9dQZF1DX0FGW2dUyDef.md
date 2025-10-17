@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Amo988
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Lvbel C5
 
 210 songs - 10 hr 24 min
 

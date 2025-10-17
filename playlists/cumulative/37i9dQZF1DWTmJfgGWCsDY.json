@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: D Voice",
+  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
   "name": "Singeli Sounds",
   "tracks": [
     {
@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "GUGO",
+        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137806,
+      "name": "GUGO",
+      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
+    },
+    {
+      "album": {
         "name": "Hainaga Ushemeji",
         "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 229944,
       "name": "Jiangalie",
       "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 291980,
       "name": "Kua Uone",
       "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
@@ -2327,6 +2345,36 @@
     },
     {
       "album": {
+        "name": "Rudi Tena",
+        "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
+      },
+      "artists": [
+        {
+          "name": "Ten Ballz",
+          "url": "https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz"
+        },
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        },
+        {
+          "name": "Dj pacheko midundo",
+          "url": "https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU"
+        },
+        {
+          "name": "Banx",
+          "url": "https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226208,
+      "name": "Rudi Tena",
+      "url": "https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1"
+    },
+    {
+      "album": {
         "name": "Rukia",
         "url": "https://open.spotify.com/album/65MyvO0EOIU9RfN6p7HvgA"
       },
@@ -2430,7 +2478,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 195080,
       "name": "Shemeji",
       "url": "https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6"
@@ -2852,6 +2900,24 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+    },
+    {
+      "album": {
+        "name": "Tekenya",
+        "url": "https://open.spotify.com/album/6gGp1a5nNNIKd69GC1Dqri"
+      },
+      "artists": [
+        {
+          "name": "Suma Mnazaleti",
+          "url": "https://open.spotify.com/artist/6Sl6OqPFz3KsevvP0mdh1U"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155427,
+      "name": "Tekenya",
+      "url": "https://open.spotify.com/track/0xkJ1All5gjXD071yRrOQr"
     },
     {
       "album": {

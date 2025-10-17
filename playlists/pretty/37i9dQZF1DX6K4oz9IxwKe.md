@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K4oz9IxwKe.md) - [plain]
 
 > Celebrate the musical and cinematic legacy, and illuminate the Roshans with this playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,675 likes - 86 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,681 likes - 86 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K4oz9IxwKe.md) - [plain]
 | 60 | [Jo Baat Tujh Mein Hai](https://open.spotify.com/track/66mrBHcMh84MYc51a9B0aw) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Taj Mahal](https://open.spotify.com/album/1wBLGZuOt7UJV7Pv9u4cxS) | 3:19 |
 | 61 | [Baharon Ne Mera Chaman Loot Kar](https://open.spotify.com/track/3uuYJaeuRyFGu0j0ZgXH45) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Devar](https://open.spotify.com/album/7ebe3p6Ro13qIeydltKIma) | 3:23 |
 | 62 | [Saanson Ki Mala](https://open.spotify.com/track/4R4qeCzwi3R9FtbQUFr48P) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Koyla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45ZBSYUlEzu9NrpDBeVyWX) | 6:47 |
-| 63 | [Na Tum Jano Na Hum](https://open.spotify.com/track/7s6yy0SWZ4rluoQZsvJa2D) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU) | [Kaho Naa Pyar Hai](https://open.spotify.com/album/264pusO3nFbYtZC63kGoA7) | 6:23 |
+| 63 | [Na Tum Jano Na Hum](https://open.spotify.com/track/7s6yy0SWZ4rluoQZsvJa2D) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU) | [Kaho Naa Pyar Hai](https://open.spotify.com/album/264pusO3nFbYtZC63kGoA7) | 4:59 |
 | 64 | [Mon Amour](https://open.spotify.com/track/0usM95qRBPtRUqQzp6Cx4c) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Rajesh Roshan](https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 4:59 |
 | 65 | [Pyaar Ki Ek Kahani](https://open.spotify.com/track/6mqTUI7ucRJrVvoXLrDNRe) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Krrish](https://open.spotify.com/album/2OzgNbqFCtDThxVwuYuygs) | 6:28 |
 | 66 | [Dekha Tujhe Toh](https://open.spotify.com/track/0Od1uft8BtOTaykj3f1LJV) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Koyla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45ZBSYUlEzu9NrpDBeVyWX) | 7:31 |

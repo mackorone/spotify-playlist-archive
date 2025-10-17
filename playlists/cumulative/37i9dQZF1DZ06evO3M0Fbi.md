@@ -4,7 +4,7 @@
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 55 min
+53 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Drain You](https://open.spotify.com/track/0bTLGlCqwZXwJGWGE2Dywg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:43 | 2024-07-21 |  |
 | [Drain You](https://open.spotify.com/track/5Ddlk6C2JVxb1SReZ6O1wk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:43 | 2025-04-22 | 2025-05-19 |
 | [Dumb](https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 2:31 | 2022-01-11 |  |
+| [Even In His Youth \- B\-Side](https://open.spotify.com/track/3A7yerD72rm4U6m4ZhgfIj) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 3:02 | 2025-10-17 |  |
 | [Floyd The Barber](https://open.spotify.com/track/0aMqNFBj9KtPTD3c3tByRT) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:18 | 2022-01-11 |  |
 | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/06B04lID9HGPwPWwBkTQfU) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 4:10 | 2022-01-11 |  |
 | [Frances Farmer Will Have Her Revenge On Seattle \- Live In Los Angeles, Great Western Forum \- December 30, 1993](https://open.spotify.com/track/1KxYekYpnaLDTMtqOv1xqx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/68uIz7DtgDoPUFTKxdzL9t) | 4:07 | 2023-11-10 | 2023-12-14 |

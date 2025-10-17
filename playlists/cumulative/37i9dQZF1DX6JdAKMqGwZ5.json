@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: TRIST\u00c1N!",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: pablopablo.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 187865,
       "name": "Amor de Contrabando",
       "url": "https://open.spotify.com/track/7IdeMGSB8FtX3q5TE5Pn60"
@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Burdeos",
+        "url": "https://open.spotify.com/album/3StcMkccmvvjx74d8L8ncW"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157058,
+      "name": "Burdeos",
+      "url": "https://open.spotify.com/track/55fbpeGf6l9jcWtwvhdio5"
+    },
+    {
+      "album": {
         "name": "Pensando en Alto",
         "url": "https://open.spotify.com/album/5Mtb8ayemEBnd92OcueROa"
       },
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 140560,
       "name": "Colombia",
       "url": "https://open.spotify.com/track/2fpwLBfS742qVOOMEbXxYt"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 159029,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/59aR96035JfsxzIFpPQCZO"
@@ -1846,6 +1864,24 @@
       "duration_ms": 201386,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/6BRuMsCCWQ0pMqH2LhGJgT"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4Yl8mtPufYDfj9n4FWgN9C"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152530,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7jCKhYFz4NHrbrajity2eA"
     },
     {
       "album": {
@@ -3034,6 +3070,24 @@
       "duration_ms": 206450,
       "name": "El mejor verano de la vida",
       "url": "https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL"
+    },
+    {
+      "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/5wXAKq6tfhiNf4oNBmghcB"
+      },
+      "artists": [
+        {
+          "name": "Volavent",
+          "url": "https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218605,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/0fzIfwwIKrt4LuT3XmwtGv"
     },
     {
       "album": {
@@ -4435,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "Historias de mi madre",
+        "url": "https://open.spotify.com/album/0HVLItjkoFLo6rAIhdPJQU"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259707,
+      "name": "Historias de mi madre",
+      "url": "https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf"
+    },
+    {
+      "album": {
         "name": "Top Hits, Ballads, etc...",
         "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
       },
@@ -5010,7 +5082,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 270250,
       "name": "La Espiral",
       "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
@@ -5068,7 +5140,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 167755,
       "name": "LA LATINA",
       "url": "https://open.spotify.com/track/5N8rFZXLvkCduiLX7qw7Y0"
@@ -7185,6 +7257,24 @@
     },
     {
       "album": {
+        "name": "NO PUEDES ROMPER MI CORAZON",
+        "url": "https://open.spotify.com/album/0snF13OX85Stt0v6FZWoG5"
+      },
+      "artists": [
+        {
+          "name": "Thals",
+          "url": "https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135759,
+      "name": "NO PUEDES ROMPER MI CORAZON",
+      "url": "https://open.spotify.com/track/3jkcXV8iBUfFhLvvHFvpeP"
+    },
+    {
+      "album": {
         "name": "No Puedo M\u00e1s",
         "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
       },
@@ -7988,7 +8078,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 201699,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/522zI9CwtPrLJCZYsJhc7w"
@@ -8096,7 +8186,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 216244,
       "name": "PERDEDOR",
       "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
@@ -8252,6 +8342,24 @@
       "duration_ms": 183200,
       "name": "Plastificar",
       "url": "https://open.spotify.com/track/2CCRJ9I82UJb3LokB5Ewc2"
+    },
+    {
+      "album": {
+        "name": "Renegado",
+        "url": "https://open.spotify.com/album/4ewd1cDJjiHCr7llepLbbl"
+      },
+      "artists": [
+        {
+          "name": "Pokito Paranoiko",
+          "url": "https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Poki",
+      "url": "https://open.spotify.com/track/1rOKNFlPxMF3qr7PYgUGcb"
     },
     {
       "album": {
@@ -10416,6 +10524,24 @@
       "duration_ms": 217333,
       "name": "Un Mill\u00f3n de A\u00f1os",
       "url": "https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey"
+    },
+    {
+      "album": {
+        "name": "Una amapola",
+        "url": "https://open.spotify.com/album/7x9bxnGEaUwGr3Fwp9PHs7"
+      },
+      "artists": [
+        {
+          "name": "McEnroe",
+          "url": "https://open.spotify.com/artist/6t17pv2Q9w9ybTC0Ty5Sq2"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176837,
+      "name": "Una amapola",
+      "url": "https://open.spotify.com/track/1CdigFYqCI6SViiIZdFHAq"
     },
     {
       "album": {

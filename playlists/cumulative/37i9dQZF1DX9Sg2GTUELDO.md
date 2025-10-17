@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Nancy Kwai
+> 感受女聲力量。Cover: JACE
 
-584 songs - 1 day 10 hr 47 min
+588 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [You don’t have to be so strong all the time](https://open.spotify.com/track/70rZ1emui3G6QCUJdmndph) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Writer's Block](https://open.spotify.com/album/4g5Gyh9Mp8sqIFwI8TPj8B) | 3:20 | 2025-08-21 |  |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2024-06-27 | 2025-09-12 |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 | 2025-09-12 |
+| [これも愛](https://open.spotify.com/track/5wnWTGpQZPvvsW8uwxwEqj) | [Day 許軼](https://open.spotify.com/artist/2LjB9YNxEmF9W7o90smtuv) | [これも愛](https://open.spotify.com/album/6ZZcmo96Qtv7ugZ8IOwTrb) | 2:28 | 2025-10-16 |  |
 | [㪐㩿（電影《寄了一整個春天》主題曲）](https://open.spotify.com/track/3f4XfQbyaNY3DfNIMixANQ) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [㪐㩿（電影《寄了一整個春天》主題曲）](https://open.spotify.com/album/6bAd8xJX1Q9hDmnumoQ55Y) | 4:15 | 2024-11-07 | 2025-09-12 |
 | [一二三](https://open.spotify.com/track/7oYw4SLP6EFU05zPRRlzFa) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [一二三](https://open.spotify.com/album/2mbgcQG0D14An1Ibu5ykgO) | 3:55 | 2025-04-17 | 2025-09-12 |
 | [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 | 2024-08-01 | 2025-09-12 |
@@ -229,6 +230,7 @@
 | [不眠遊戲](https://open.spotify.com/track/6PfGFBlK0QaDqKMsKkPu7w) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [不眠遊戲](https://open.spotify.com/album/1enzZ6bT5hAGYKgY8yvalu) | 3:00 | 2024-06-27 | 2025-09-12 |
 | [不羈](https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX), [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [不羈](https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH) | 3:08 | 2024-06-27 | 2025-09-12 |
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2024-06-27 | 2025-09-12 |
+| [世界上最爛的人](https://open.spotify.com/track/59ND4QiEy8N1b6lk7N1UJb) | [潘釗彤 Chiutung](https://open.spotify.com/artist/2Px5jRmWVyVOwuThsEW9DD) | [世界上最爛的人](https://open.spotify.com/album/01cV1F30pN7FEgqIVYhLMG) | 3:39 | 2025-10-16 |  |
 | [世界以痛吻我而我歌唱 \- Blooming Underwater Live 2023](https://open.spotify.com/track/4xppAcBGump7jNZRG9A75C) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Blooming Underwater Live 2023](https://open.spotify.com/album/0BvkIZ2SL9gKirC5oKM1bx) | 4:13 | 2024-06-27 | 2025-09-12 |
 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:21 | 2024-11-28 |  |
 | [世界末日才一起](https://open.spotify.com/track/4vvVnV7qhVi4cOjhcybMXf) | [JESS Law](https://open.spotify.com/artist/2D3dbCltOdivrbUqOayTsw) | [世界末日才一起](https://open.spotify.com/album/65KpxwVtgaeCxn14xAN8wp) | 3:59 | 2025-02-27 | 2025-09-12 |
@@ -395,6 +397,7 @@
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2024-06-27 | 2025-09-12 |
 | [我就像從前 \- \(劇集《夢華錄》主題曲\)](https://open.spotify.com/track/0HJSVO7WLsQ29HZUKEzuds) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [我就像從前 \(劇集《夢華錄》主題曲\)](https://open.spotify.com/album/2OWMf8OpZkI5ldHN8nOFQh) | 2:51 | 2024-06-27 | 2025-09-12 |
 | [我想和你好好的](https://open.spotify.com/track/62XpKzUXVB2MYL2adL4UlE) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [我想和你好好的](https://open.spotify.com/album/03bAX2xfV0l2r8miCIyMAJ) | 4:17 | 2024-06-27 | 2025-09-12 |
+| [我愛你不問歸期（粵語版）](https://open.spotify.com/track/73jVepKE3CndpleVAA8AZe) | [莊心妍](https://open.spotify.com/artist/5xAtVo7xUqTxLxuH7M7ey3) | [我愛你不問歸期（粵語版）](https://open.spotify.com/album/4PcXLDyIdkYy97bHlbVHmr) | 4:12 | 2025-10-16 |  |
 | [我所看見的未來](https://open.spotify.com/track/2wqw7q4VGdzPQtXxhRcipT) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/1PlovqRs1kJG76NhSdkNPU) | 3:42 | 2024-06-27 | 2025-09-12 |
 | [我本人](https://open.spotify.com/track/1phM99AMGMC8DhmCOKFbBa) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/4BKs6hUWu0ALzAzJXmlRCZ) | 4:17 | 2024-06-27 | 2025-09-12 |
 | [我的受保護動物](https://open.spotify.com/track/5YW8XsFfxPJIi5SmMbDVZk) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [我的受保護動物](https://open.spotify.com/album/42oZpxR4YktkYD2j0jkteb) | 3:37 | 2024-06-27 | 2025-09-12 |
@@ -579,6 +582,7 @@
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 | 2025-09-12 |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2024-06-27 | 2025-09-12 |
 | [雲的自述](https://open.spotify.com/track/48tKWIvd2NS92ParNHnZOX) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [TOUCH OF ABSENCE](https://open.spotify.com/album/0EozGBNMRh65VjjfAP6FCL) | 3:02 | 2025-01-23 |  |
+| [零分重作](https://open.spotify.com/track/432bymJGdJmUT4SrdqJtPB) | [洪心怡](https://open.spotify.com/artist/4XZEv4s14DfxSQQDlR7OBN) | [零分重作](https://open.spotify.com/album/5WEhah0BOi9Zj8Oajslzkp) | 3:49 | 2025-10-16 |  |
 | [靈魂奇異點](https://open.spotify.com/track/7hTvTrwnO9JWCFXFUF1Or0) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [靈魂奇異點](https://open.spotify.com/album/3lqBazVg4z4NQoqYreNCbu) | 6:35 | 2024-10-03 | 2025-09-12 |
 | [靈魂有路](https://open.spotify.com/track/6YhyH78Zvda6ynofvJSJB5) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [靈魂有路](https://open.spotify.com/album/0yrJL34mQkRhq8AdSzyN6i) | 3:19 | 2024-06-27 | 2025-09-12 |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2024-06-27 | 2025-09-12 |

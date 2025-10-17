@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,115 likes - 80 songs - 3 hr 55 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,113 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 79 | [So Not Sorry](https://open.spotify.com/track/29wQKVGS415sTQmoeJ4gFg) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [So Not Sorry](https://open.spotify.com/album/0xEPwqGRs2PIxnyVuqgZqQ) | 2:18 |
 | 80 | [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 |
 
-Snapshot ID: `AAAjuo7YMLHfpJEeaQoZehkmIscplbKM`
+Snapshot ID: `AAAjvE3FAL+17BXVF8uhPkegPv87BHIo`

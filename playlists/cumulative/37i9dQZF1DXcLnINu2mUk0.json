@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MUN",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
   "name": "Seda",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 182876,
       "name": "23:40",
       "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 225132,
       "name": "CAR\u00cdSSIMA",
       "url": "https://open.spotify.com/track/5er4sHzf4bV5DUes8WTEhK"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 135319,
       "name": "Fight for Me",
       "url": "https://open.spotify.com/track/4d7LbwagidNq777rgaKh5T"
@@ -6540,6 +6540,24 @@
       "duration_ms": 170857,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/39HNWVLgg7VZky4oJjGzZK"
+    },
+    {
+      "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/77G9r1x1JEgNPdfI6IQoX5"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113829,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC"
     },
     {
       "album": {
@@ -7393,6 +7411,52 @@
     },
     {
       "album": {
+        "name": "Kataleya",
+        "url": "https://open.spotify.com/album/5CXJjjRHTXWCKW5sAV3vis"
+      },
+      "artists": [
+        {
+          "name": "Traficante D'Arte",
+          "url": "https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF"
+        },
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Elji Beatzkilla",
+          "url": "https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ"
+        },
+        {
+          "name": "Pempas",
+          "url": "https://open.spotify.com/artist/6l7kK18m55OXGv2bDbkf7X"
+        },
+        {
+          "name": "Lil Star",
+          "url": "https://open.spotify.com/artist/2SgPIGR7IhSl4nK76cKBAj"
+        },
+        {
+          "name": "Sass\u00e1",
+          "url": "https://open.spotify.com/artist/0338A7A7HSYIKVjAB69LiI"
+        },
+        {
+          "name": "DENNYH",
+          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+        },
+        {
+          "name": "Gang Mka",
+          "url": "https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476337,
+      "name": "Kataleya",
+      "url": "https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI"
+    },
+    {
+      "album": {
         "name": "Lat\u00eancia",
         "url": "https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3"
       },
@@ -7718,7 +7782,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 189170,
       "name": "Liga Quando A Festa Acabar",
       "url": "https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L"
@@ -10641,6 +10705,28 @@
     },
     {
       "album": {
+        "name": "Pa Sempre",
+        "url": "https://open.spotify.com/album/18dGvU6h50URVrpWBrgbkK"
+      },
+      "artists": [
+        {
+          "name": "Ne Jah",
+          "url": "https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL"
+        },
+        {
+          "name": "Rislene",
+          "url": "https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191764,
+      "name": "Pa Sempre",
+      "url": "https://open.spotify.com/track/2Wa6u5amiftMSpAVKDr3Qp"
+    },
+    {
+      "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/2oWBoKpstUUGHQyRZzpAc9"
       },
@@ -12082,7 +12168,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 132736,
       "name": "Responsabilidades",
       "url": "https://open.spotify.com/track/2XSi6JE0ILLgn5rF8WTqWZ"

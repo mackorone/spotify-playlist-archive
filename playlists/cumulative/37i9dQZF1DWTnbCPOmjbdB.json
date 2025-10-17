@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Lanberry",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Sarsa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -421,6 +421,32 @@
     },
     {
       "album": {
+        "name": "AUTOBANA",
+        "url": "https://open.spotify.com/album/02OCl2zABMrk1LPTV5dwAe"
+      },
+      "artists": [
+        {
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156051,
+      "name": "AUTOBANA",
+      "url": "https://open.spotify.com/track/0vXF9MYrwHYCyeuHrSQvs5"
+    },
+    {
+      "album": {
         "name": "Awantury",
         "url": "https://open.spotify.com/album/6nbYHwU7lTDJxnYWVCH6ib"
       },
@@ -711,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Beze mnie",
+        "url": "https://open.spotify.com/album/2X450oRh85j549D67Bz6FT"
+      },
+      "artists": [
+        {
+          "name": "Martyna Wrochna",
+          "url": "https://open.spotify.com/artist/6bDtZgCcEV7naaRe0ynqQ0"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Beze mnie",
+      "url": "https://open.spotify.com/track/5gEfm9EEabiqTP4e7TP79P"
+    },
+    {
+      "album": {
         "name": "Bezsenno\u015b\u0107",
         "url": "https://open.spotify.com/album/65gtLhABYfdIUN7OxaaHMd"
       },
@@ -726,7 +770,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 157859,
       "name": "Bezsenno\u015b\u0107",
       "url": "https://open.spotify.com/track/1NNXRzTQsLMpfkcVoDcaUl"
@@ -956,6 +1000,24 @@
       "duration_ms": 231160,
       "name": "BO\u017bE",
       "url": "https://open.spotify.com/track/4ybFdtL0pGWiWA0Wk46de5"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170947,
+      "name": "Bruce",
+      "url": "https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns"
     },
     {
       "album": {
@@ -2746,7 +2808,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 329177,
       "name": "Dzisiaj przychodzi on",
       "url": "https://open.spotify.com/track/6oxRENLxHBG8wjObGx3YIk"
@@ -2852,6 +2914,28 @@
       "duration_ms": 138409,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
+    },
+    {
+      "album": {
+        "name": "Mia\u0142o by\u0107 jak w filmie",
+        "url": "https://open.spotify.com/album/6X6EgNLNft9IBTdbbNkYAK"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        },
+        {
+          "name": "Kuba Gali\u0144ski",
+          "url": "https://open.spotify.com/artist/2oR9K6tG6QppRoYYkDBpDo"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175574,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1bNKB4loQ8N81IeQBrQoHT"
     },
     {
       "album": {
@@ -3080,7 +3164,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 233636,
       "name": "Firdyga\u0142ki",
       "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
@@ -3550,7 +3634,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 174857,
       "name": "hibernacja",
       "url": "https://open.spotify.com/track/22XLWNDIzzHxYgNgRcbbYg"
@@ -4436,7 +4520,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 138666,
       "name": "KOLORY",
       "url": "https://open.spotify.com/track/6LP40zmPgQsAoRAvEFHcS3"
@@ -5315,6 +5399,28 @@
     },
     {
       "album": {
+        "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
+        "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "MAM TALENT",
+      "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
+    },
+    {
+      "album": {
         "name": "Mam talent",
         "url": "https://open.spotify.com/album/3elZnF5IQwic5oaEoGAP2A"
       },
@@ -5702,6 +5808,24 @@
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
+    },
+    {
+      "album": {
+        "name": "Mimo Wszystko",
+        "url": "https://open.spotify.com/album/2ZujSHZAgibraiMByaQLFT"
+      },
+      "artists": [
+        {
+          "name": "SARGIS",
+          "url": "https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166992,
+      "name": "Mimo Wszystko",
+      "url": "https://open.spotify.com/track/68qiV7ihpsPGQ3zmH1GqjU"
     },
     {
       "album": {
@@ -8084,7 +8208,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 174374,
       "name": "Peligroso",
       "url": "https://open.spotify.com/track/583G0PuXF46ZgIcrsrkfw1"
@@ -8414,7 +8538,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 153720,
       "name": "Po Swoje",
       "url": "https://open.spotify.com/track/24zqgUPkIIEdMk0WDTUbtF"
@@ -9215,6 +9339,28 @@
     },
     {
       "album": {
+        "name": "Remedium (Wsi\u0105\u015b\u0107 do poci\u0105gu)",
+        "url": "https://open.spotify.com/album/5CCQqMLlqI2eXP5o0FAcU3"
+      },
+      "artists": [
+        {
+          "name": "Maryla Rodowicz",
+          "url": "https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6"
+        },
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291067,
+      "name": "Remedium (Wsi\u0105\u015b\u0107 do poci\u0105gu)",
+      "url": "https://open.spotify.com/track/6ZXESlOLiryfEWxqpC37oi"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/0IgMcBbIhcSpKfbDU6ECWI"
       },
@@ -9354,7 +9500,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 176197,
       "name": "SAINT TROPEZ",
       "url": "https://open.spotify.com/track/0wrpmlS9VE426f5dyiITzP"
@@ -9394,7 +9540,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 175381,
       "name": "Sam na sam",
       "url": "https://open.spotify.com/track/4NBaIMhdRd8BkgiTKF6PY8"
@@ -9634,6 +9780,24 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
+    },
+    {
+      "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/3OkjIzRyh2ahjgl8iSkzae"
+      },
+      "artists": [
+        {
+          "name": "Sara Girgis",
+          "url": "https://open.spotify.com/artist/44C4qLyvUVoeivjV3cl3hG"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146590,
+      "name": "Serce",
+      "url": "https://open.spotify.com/track/4sraugoYKif53mYvrE8eE9"
     },
     {
       "album": {
@@ -10310,7 +10474,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 179142,
       "name": "TAK TO LATA (feat. Tuszol)",
       "url": "https://open.spotify.com/track/6dpH1qquecoX7w9gTRkdzz"
@@ -10528,6 +10692,24 @@
       "duration_ms": 174342,
       "name": "Ta\u0144cz Jak Ci Zagram",
       "url": "https://open.spotify.com/track/6ioN1gEkTdYPuCivOoYdaB"
+    },
+    {
+      "album": {
+        "name": "Ta\u0144cz, Mamusiu, Ta\u0144cz",
+        "url": "https://open.spotify.com/album/1XCZRZxwHPojjx8GC0RBsX"
+      },
+      "artists": [
+        {
+          "name": "Pan Savyan",
+          "url": "https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184921,
+      "name": "Ta\u0144cz, Mamusiu, Ta\u0144cz",
+      "url": "https://open.spotify.com/track/4mwiVyAJtYU1qlBq0sP4SZ"
     },
     {
       "album": {
@@ -11769,6 +11951,28 @@
     },
     {
       "album": {
+        "name": "Wszystkie Oczy na Mnie",
+        "url": "https://open.spotify.com/album/0CoEnu6XIRmVAFFENf0Ve1"
+      },
+      "artists": [
+        {
+          "name": "FRIENDZ",
+          "url": "https://open.spotify.com/artist/5X3ccL1CnxYsGjAXD0k7es"
+        },
+        {
+          "name": "Lexy Chaplin",
+          "url": "https://open.spotify.com/artist/6YyBUm2QYlXkJD9Taa6gbk"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Wszystkie Oczy na Mnie",
+      "url": "https://open.spotify.com/track/3txAr9J5hOIW9P0TfUbhLo"
+    },
+    {
+      "album": {
         "name": "Wszystkie Orgazmy Lata",
         "url": "https://open.spotify.com/album/5oeIO11XO0b50ZxVejFBQX"
       },
@@ -12280,6 +12484,24 @@
       "duration_ms": 183000,
       "name": "Zapomniana Twarz",
       "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "album": {
+        "name": "Zapomnij",
+        "url": "https://open.spotify.com/album/7AweuFRX8EboTmCJTdByas"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166096,
+      "name": "Zapomnij",
+      "url": "https://open.spotify.com/track/6Rg5JkY5qavEmahaXVzRdv"
     },
     {
       "album": {
@@ -12962,7 +13184,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 135477,
       "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
       "url": "https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z"

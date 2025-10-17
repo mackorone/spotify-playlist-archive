@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits zouk du moment. Photo : Meryl x Kalipsxau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 187100,
       "name": "A JAMAIS",
       "url": "https://open.spotify.com/track/0CR0htWvqsZTsgWzepdq3Y"
@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/6cpLqqXviRgzUToMr75UnF"
+      },
+      "artists": [
+        {
+          "name": "Sandro Martelly",
+          "url": "https://open.spotify.com/artist/0I6pHt9qiGkXZ25eGkEtsb"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216705,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7yVqWRbbcQroSGpEmoNElI"
+    },
+    {
+      "album": {
         "name": "Ganyen",
         "url": "https://open.spotify.com/album/21zivLkJNcujMDSXbKCYO7"
       },
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 228427,
       "name": "Goumin",
       "url": "https://open.spotify.com/track/6UMDlX8OqZYZduZrGLdcfi"
@@ -4345,6 +4363,28 @@
     },
     {
       "album": {
+        "name": "Perdu dans tes jeux",
+        "url": "https://open.spotify.com/album/7G6465SbMJGkaKe7xYDT3I"
+      },
+      "artists": [
+        {
+          "name": "makita",
+          "url": "https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT"
+        },
+        {
+          "name": "Terence G",
+          "url": "https://open.spotify.com/artist/3QiQ4OVxpefbpoqUSDDrQK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Perdu dans tes jeux",
+      "url": "https://open.spotify.com/track/4g1HfSI1Lb7OfEThLjQrRt"
+    },
+    {
+      "album": {
         "name": "Petit c\u0153ur",
         "url": "https://open.spotify.com/album/2xk6KpXikarOhvLzLpTaOe"
       },
@@ -4682,7 +4722,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 231600,
       "name": "Rien \u00e0 Cacher",
       "url": "https://open.spotify.com/track/7vLStVT8YsoHsDbe90VodP"
@@ -4934,6 +4974,24 @@
       "duration_ms": 134608,
       "name": "Si Seulement - Radio Edit",
       "url": "https://open.spotify.com/track/5LDhw86tEleNLulijDdLRh"
+    },
+    {
+      "album": {
+        "name": "Si tu m'aimes",
+        "url": "https://open.spotify.com/album/3Qf4bPApqplQLooxWZHs44"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lior",
+          "url": "https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213008,
+      "name": "Si tu m'aimes",
+      "url": "https://open.spotify.com/track/2EvZkIqIwJdVDoBXEGLAdp"
     },
     {
       "album": {
@@ -5444,6 +5502,28 @@
       "duration_ms": 191158,
       "name": "T'es pas l\u00e0",
       "url": "https://open.spotify.com/track/3LrnSH9UyQCck3N0zc4hw2"
+    },
+    {
+      "album": {
+        "name": "T'\u00e9teins",
+        "url": "https://open.spotify.com/album/4SSuA22oiHTj6KEnovaPMU"
+      },
+      "artists": [
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        },
+        {
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174852,
+      "name": "T'\u00e9teins",
+      "url": "https://open.spotify.com/track/15BkoI9Hb8HWpCtSZuOIO4"
     },
     {
       "album": {
@@ -5970,7 +6050,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 180000,
       "name": "TROP LOVE",
       "url": "https://open.spotify.com/track/33dJhAnryWez0YcwdwRLIt"

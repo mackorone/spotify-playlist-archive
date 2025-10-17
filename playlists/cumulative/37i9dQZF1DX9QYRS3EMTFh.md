@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G x Maureen
+> Les hits dancehall, shatta & bouyon du moment\. Photo : Jahyanai
 
-686 songs - 1 day 5 hr 39 min
+687 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Ghetto Rèd](https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Ghetto Rèd](https://open.spotify.com/album/6XFbhUBLtF9IfRImw7Wlo4) | 2:36 | 2022-10-27 | 2023-06-23 |
 | [Ghetto Whine](https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Ghetto Whine](https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC) | 2:07 | 2025-02-06 | 2025-02-28 |
 | [Gimme This](https://open.spotify.com/track/2UBhly3ixZDOC8lVohDWnR) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Gimme This](https://open.spotify.com/album/2pzrxgfcQBTteI1blNzrup) | 2:00 | 2025-01-23 | 2025-02-21 |
+| [Gimmi Punani](https://open.spotify.com/track/3aAJKB3ILEsqRj6HIngU2A) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Gimmi Punani](https://open.spotify.com/album/45VHb3LYmYoM4nNhohf1S7) | 1:53 | 2025-10-16 |  |
 | [Gin & Juice](https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Another Style](https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y) | 2:36 | 2024-06-13 | 2024-07-12 |
 | [Ginger](https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Ginger](https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af) | 2:33 | 2025-07-03 | 2025-07-25 |
 | [Girl like you](https://open.spotify.com/track/7bq72dPA7RvpZ2j9mTQ7IA) | [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO), [JD](https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57) | [Breakfast JD](https://open.spotify.com/album/5XOTg4mAGyRhWDIvt6MaPE) | 2:02 | 2025-03-13 | 2025-04-11 |
@@ -496,7 +497,7 @@
 | [Porte pas plainte \- Edit](https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs) | [R2.0](https://open.spotify.com/artist/3XztGWCoVOMyAmXqM1TzKT), [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ) | [Porte pas plainte](https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87) | 3:14 | 2022-01-13 | 2022-05-21 |
 | [Position](https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Position](https://open.spotify.com/album/3hjz0n4uH86XEROsOuuJsC) | 2:20 | 2024-03-28 | 2024-07-05 |
 | [Poukwa](https://open.spotify.com/track/4FJW3Lt5ZquLSWxwCg3Jt9) | [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [Edday](https://open.spotify.com/artist/26O0zfIVt1zpgivRkQbhAZ), [JIXELS](https://open.spotify.com/artist/5iErIKFja1S6AlXKS0Cup7) | [Poukwa](https://open.spotify.com/album/4Y3qyFrQ8qWkLhp2CsZPRu) | 2:30 | 2025-10-09 |  |
-| [Pran On Pyé](https://open.spotify.com/track/0iDP0gAN511CCDafoFf9Ft) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [QWANN](https://open.spotify.com/artist/3e2szSG8XrOQ3wFSMQ5eCh) | [Pran On Pyé](https://open.spotify.com/album/2rXM4BzCVJMZc3HCHLLQQn) | 2:32 | 2025-07-10 |  |
+| [Pran On Pyé](https://open.spotify.com/track/0iDP0gAN511CCDafoFf9Ft) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [QWANN](https://open.spotify.com/artist/3e2szSG8XrOQ3wFSMQ5eCh) | [Pran On Pyé](https://open.spotify.com/album/2rXM4BzCVJMZc3HCHLLQQn) | 2:32 | 2025-07-10 | 2025-10-17 |
 | [Pran'y la](https://open.spotify.com/track/2ebjn2NxBiOQL5DzJtAUSH) | [Guy Al MC](https://open.spotify.com/artist/2ZAaYt8wpxeQ9lrkER3xNn), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Pran'y la](https://open.spotify.com/album/6vp6lKD5UxJTkFeC4XkZuw) | 2:14 | 2025-05-01 | 2025-05-23 |
 | [PRAY FOR DEM](https://open.spotify.com/track/5wNGT40aLwaVd4zLO9xgNQ) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [PRAY FOR DEM](https://open.spotify.com/album/5d3tccxpUk2zItudPGqZZb) | 2:25 | 2024-08-22 | 2024-09-13 |
 | [Pretty Girl](https://open.spotify.com/track/75vTqilpqZ6wi4JJ3hIthr) | [Beach Boii](https://open.spotify.com/artist/5epY4AGRq3ty95XFK3kbC8), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Pretty Girl](https://open.spotify.com/album/6XblstmcRBD1twvqIpM0zY) | 2:15 | 2022-05-26 | 2022-07-01 |

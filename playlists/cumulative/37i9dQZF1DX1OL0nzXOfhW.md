@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 慶祝全球RADAR 藝人突破 1千，回顧前RADAR 藝人歌曲，以及2025新聲！Cover: moon tang
+> 慶祝全球RADAR 藝人突破 1千，回顧前RADAR 藝人歌曲，以及2025新聲！Cover: Michael C
 
 278 songs - 16 hr 11 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, winterburn, Leblanc and more
+> With winterburn, After Cooking, Leblanc and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,132 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,134 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 | 16 | [Dendrometry](https://open.spotify.com/track/7M1n5q7YmHCa3GtvaP3rtY) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Songs to Try](https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX) | 6:54 |
 | 17 | [Ouverture](https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [New Era](https://open.spotify.com/album/0tVYTAD2f4aHk9S1ayjsTi) | 2:22 |
 | 18 | [A Name I Don't Know \- Extended Instrumental Version](https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf) | [A Name I Don't Know](https://open.spotify.com/album/7byiOin8CKEoRc8EubU74Q) | 4:02 |
-| 19 | [Abyss](https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:32 |
+| 19 | [Abyss](https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:32 |
 | 20 | [rise//ruin](https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [rise//ruin](https://open.spotify.com/album/5xYp38Ban4HNY4bHrAMIL0) | 3:11 |
 | 21 | [In Between \(Memories and Dreams\)](https://open.spotify.com/track/5drR4fvdJgyGW6qxvErptp) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [LUCIE](https://open.spotify.com/artist/4pYgti9cm1t0gPHRJ5wtMI) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:37 |
 | 22 | [Nebula](https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm) | [3x3cute](https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP) | [Contagious](https://open.spotify.com/album/6soKatxMxJdAuzC6eOAT7b) | 2:40 |
 | 23 | [Verbier](https://open.spotify.com/track/7f8SsMWNbWM5Fyg9duonkz) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Verbier](https://open.spotify.com/album/0RiI9vfmJmOUBohJ5ueoOO) | 3:26 |
 | 24 | [Tamasuk](https://open.spotify.com/track/2Ht3FbzLZxoZjT7gQRcG6h) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf), [INTI AVINA](https://open.spotify.com/artist/7jzYJ1ZPhvCKKbn9YQ2p73) | [Tamasuk](https://open.spotify.com/album/7ETwuyj6v42cSOopNBVWb3) | 3:47 |
-| 25 | [Rivière](https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Rivière](https://open.spotify.com/album/7fDQYJfUrAif5SSSLbyye0) | 3:23 |
+| 25 | [Rivière](https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Rivière](https://open.spotify.com/album/7fDQYJfUrAif5SSSLbyye0) | 3:23 |
 | 26 | [White Flower](https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Songs to Try](https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX) | 7:09 |
 | 27 | [crush as you burn](https://open.spotify.com/track/5t6uN7HfHFlooRP005c5pi) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [u n k n o w n](https://open.spotify.com/album/2auEr9CC9UHr8FXAa3NblU) | 2:18 |
 | 28 | [Black Hole](https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9) | [Galaxies](https://open.spotify.com/album/3BwffTlR5adgasBxmZVcWs) | 5:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 | 46 | [Fairytale of Berlin](https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Fairytale of Berlin](https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB) | 5:02 |
 | 47 | [The White Duke](https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 6:52 |
 | 48 | [My mind is heavy](https://open.spotify.com/track/256oObpbROJwMUaEN9aqAr) | [Glückskind](https://open.spotify.com/artist/0xNA7naxc98lqPi8SEW5aQ) | [My mind is heavy](https://open.spotify.com/album/6aee9fR64ls093IqpAFkec) | 3:42 |
-| 49 | [20 Meters](https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:12 |
+| 49 | [20 Meters](https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:12 |
 | 50 | [Space Race](https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 4:42 |
 
 Snapshot ID: `AAAAAIV64mCtM3ZGrJsJPTDq6ErEML6C`

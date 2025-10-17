@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Cover: Ele A
 
-313 songs - 16 hr 8 min
+314 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [OUV3RTURE](https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [OUV3RTURE](https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM) | 2:52 | 2022-04-15 |  |
 | [OuverFOURe](https://open.spotify.com/track/60uVxVUQkMccRuTNkcAP0D) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O) | 2:59 | 2024-11-26 | 2025-04-11 |
 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 | 2025-01-10 | 2025-04-11 |
-| [PALAZZINE](https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [PALAZZINE](https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl) | 2:31 | 2025-09-11 |  |
+| [PALAZZINE](https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [PALAZZINE](https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl) | 2:31 | 2025-09-11 | 2025-10-17 |
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |
 | [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 | 2025-04-19 |
 | [PARTICOLARI SPORCHI](https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:47 | 2024-03-15 | 2025-04-11 |
@@ -244,6 +244,7 @@
 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 | 2025-05-16 |  |
 | [Plenilunio](https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Plenilunio](https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy) | 3:31 | 2024-05-23 | 2025-04-11 |
 | [Pochette \(feat\. Noyz Narcos\)](https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 |  |
+| [Polvere Da Sparo](https://open.spotify.com/track/6WKbL69QIF2bc65ZJk31ED) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [Polvere Da Sparo](https://open.spotify.com/album/5OLJtybBFITS3qNCvYL9c1) | 2:18 | 2025-10-16 |  |
 | [PORTA PORTESE \(feat\. Tormento, Tredici Pietro\)](https://open.spotify.com/track/3HVIK2o1Z4XueKYPPOFMrF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LEGGENDARIO RXX Edition](https://open.spotify.com/album/3v4bpfvNG3GzEJLWdojAyr) | 3:07 | 2025-09-11 |  |
 | [PREDE](https://open.spotify.com/track/0wgmMFmkc2ZsxcCoz1op0w) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT), [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi) | [PREDE](https://open.spotify.com/album/1zzdOLQb9Qi4rrzNcVFytf) | 2:22 | 2025-06-05 | 2025-06-27 |
 | [Prefissi](https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:15 | 2023-01-13 |  |

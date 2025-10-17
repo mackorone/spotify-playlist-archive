@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO2SgAAAAABl+EvHEWlN2zW/yuxhi4GG",
+  "snapshot_id": "aO7kAAAAAABJV/U0GeDz5VnbNpa4EPJM",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dive Bar Opera",
+        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Dive Bar Opera",
+      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Just Wanna Be Famous(er)",
         "url": "https://open.spotify.com/album/24AH43eX8jUg0IkwH581wy"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 161060,
       "name": "Girls Just Wanna Be Famous(er)",
       "url": "https://open.spotify.com/track/55fJMUj8cAonidO8dI8fVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dive Bar Opera",
-        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Dive Bar Opera",
-      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
     },
     {
       "added_at": null,
@@ -196,7 +196,7 @@
       "added_at": null,
       "album": {
         "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
+        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
       },
       "artists": [
         {
@@ -206,27 +206,23 @@
       ],
       "duration_ms": 166046,
       "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
       },
       "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Sideways (feat. Meg Smith)",
-      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
     },
     {
       "added_at": null,
@@ -247,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
       },
       "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
+      "duration_ms": 164213,
+      "name": "Sideways (feat. Meg Smith)",
+      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
     },
     {
       "added_at": null,

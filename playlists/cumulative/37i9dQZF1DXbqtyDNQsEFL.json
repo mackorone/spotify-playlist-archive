@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "...waste",
+        "url": "https://open.spotify.com/album/5dkpMJ8T7cfTJyriZ2iFq6"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        },
+        {
+          "name": "Aphile Aphile",
+          "url": "https://open.spotify.com/artist/3XQEI6eAciouatYOCGgVSq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "...waste",
+      "url": "https://open.spotify.com/track/3KON9s3vnXdSlUGPQAxloE"
+    },
+    {
+      "album": {
         "name": "All\u00e9geance",
         "url": "https://open.spotify.com/album/6zlphDHcJp4Qen4eZ8qxHW"
       },
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 158687,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih"
@@ -1570,6 +1592,58 @@
       "duration_ms": 223928,
       "name": "Chante",
       "url": "https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Sings",
+          "url": "https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC"
+        },
+        {
+          "name": "Esther Chungu",
+          "url": "https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm"
+        },
+        {
+          "name": "Purpose Music",
+          "url": "https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200284,
+      "name": "Chimwemwe II",
+      "url": "https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7kRCiDPzgsxkc1TbebR3rB"
+      },
+      "artists": [
+        {
+          "name": "AGBoss",
+          "url": "https://open.spotify.com/artist/4vAC25npjEUBsmeM4bncJq"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "CU3E",
+          "url": "https://open.spotify.com/artist/6wDCqlxiTNXIZDjEdaMbTa"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5JLy3sWl8OzmSlmC4z6oHU"
     },
     {
       "album": {
@@ -3908,7 +3982,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 901815,
       "name": "Hagiazo - Live",
       "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
@@ -4070,7 +4144,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
@@ -5042,6 +5116,28 @@
       "duration_ms": 143651,
       "name": "Imole",
       "url": "https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL"
+    },
+    {
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/18GgBg1cy64vPbAMB074DH"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132134,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/781KXCX8oa31Rldiq8at2l"
     },
     {
       "album": {
@@ -6150,7 +6246,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 368416,
       "name": "Light",
       "url": "https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz"
@@ -6324,7 +6420,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 244986,
       "name": "Maberumo (This Is Morning)",
       "url": "https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa"
@@ -7755,6 +7851,24 @@
     },
     {
       "album": {
+        "name": "Not my own",
+        "url": "https://open.spotify.com/album/3LBwZTHxccCBKPzn4bcZcC"
+      },
+      "artists": [
+        {
+          "name": "Kole Light",
+          "url": "https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "Not my own",
+      "url": "https://open.spotify.com/track/6rmTZDobb0EZa0ewWuU3Ql"
+    },
+    {
+      "album": {
         "name": "Not Over II",
         "url": "https://open.spotify.com/album/4lO7pgCaq2zYNgXNwS4Scz"
       },
@@ -8472,6 +8586,28 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+    },
+    {
+      "album": {
+        "name": "OMG!",
+        "url": "https://open.spotify.com/album/2N9gSQcUyIPZ2sIfmwiPK6"
+      },
+      "artists": [
+        {
+          "name": "Doris Joseph",
+          "url": "https://open.spotify.com/artist/2gIZrTYURG6RxnI3mGFHEt"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166035,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz"
     },
     {
       "album": {
@@ -12854,7 +12990,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 384000,
       "name": "\u00d2GO",
       "url": "https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P"

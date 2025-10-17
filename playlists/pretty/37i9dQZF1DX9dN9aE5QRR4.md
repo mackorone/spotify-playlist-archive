@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de Nouvelle École, dispo sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,918 likes - 58 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,916 likes - 58 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 18 | [Pum Fat](https://open.spotify.com/track/08ckCoQXKD3GbSHGOoQG5J) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [BAD QUEEN](https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90) | 2:20 |
 | 19 | [Urus](https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Urus](https://open.spotify.com/album/2Gf7U6e63AwtWjbG3wVV6P) | 2:27 |
 | 20 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
-| 21 | [Wine \- Nouvelle École](https://open.spotify.com/track/0VOngwxQuO2rOJQ8DtodYm) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:14 |
-| 22 | [Peace \- Nouvelle École](https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:01 |
-| 23 | [Doucement \- Nouvelle École](https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:06 |
-| 24 | [Y'a Plus d'Pardon \- Nouvelle École](https://open.spotify.com/track/1MD5FbaGD4UhdSrOdzgCFX) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:20 |
+| 21 | [Wine \- Nouvelle École](https://open.spotify.com/track/0VOngwxQuO2rOJQ8DtodYm) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:14 |
+| 22 | [Peace \- Nouvelle École](https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:01 |
+| 23 | [Doucement \- Nouvelle École](https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:06 |
+| 24 | [Y'a Plus d'Pardon \- Nouvelle École](https://open.spotify.com/track/1MD5FbaGD4UhdSrOdzgCFX) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:20 |
 | 25 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 |
 | 26 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 |
 | 27 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 |

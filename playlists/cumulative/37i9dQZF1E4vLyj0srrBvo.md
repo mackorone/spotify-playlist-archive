@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Mareux, Phantogram, Cults and more
+> With Pastel Ghost, Cocteau Twins, Sky Ferreira and more
 
 1,825 songs - 4 day 16 hr 26 min
 

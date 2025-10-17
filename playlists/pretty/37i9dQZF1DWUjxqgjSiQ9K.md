@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Frank Miami
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,682 likes - 89 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,764 likes - 89 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Ruta J](https://open.spotify.com/track/6bAOCPzIkYvAQDNLfxJ8HQ) | [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K), [Luis Antonio.w](https://open.spotify.com/artist/53AhAvqZY5C5lpLtUGMQRg), [Jaylan TGR](https://open.spotify.com/artist/7015KHXm6WWNx9nAeJxY9Y), [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Kelmitt](https://open.spotify.com/artist/6tOv5UYDorjmsernjtaHO1), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [La Ruta J](https://open.spotify.com/album/1uodiTAkiUh7SzCiBaxXae) | 3:26 |
 | 2 | [QUIERO A MI PUEBLO \(PR24SIETE\)](https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Genio La Musa](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5) | [PR24SIETE Soy de Aquí](https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz) | 2:44 |
 | 3 | [OMW](https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [OMW](https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B) | 2:44 |
-| 4 | [Todo Y Nada \- Remix](https://open.spotify.com/track/4MS4fooUchcZOTv0YRYPty) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Todo Y Nada \(Remix\)](https://open.spotify.com/album/2oH2mugr9l90aqk554A17V) | 3:01 |
+| 4 | [Todo Y Nada \- Remix](https://open.spotify.com/track/4MS4fooUchcZOTv0YRYPty) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/5XjCoX9HVurvAzUgJsTzCn) | [Todo Y Nada \(Remix\)](https://open.spotify.com/album/2oH2mugr9l90aqk554A17V) | 3:01 |
 | 5 | [Clamé](https://open.spotify.com/track/7cIHhDPOqzyb4ABNF3h5Rz) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Clamé](https://open.spotify.com/album/7vRulXQPkn42HqWTmbutqp) | 4:44 |
 | 6 | [Príncipe de paz](https://open.spotify.com/track/2bQJg9yqWio0X79c6jpCQn) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Gustavo Astellano](https://open.spotify.com/artist/7iBZRN4l1DCqcLJnaPdHMR), [Rodrigo Rocha](https://open.spotify.com/artist/5wCuGKTEYBCW7V29FHz0gz) | [Príncipe de paz](https://open.spotify.com/album/7l71nUBgPIrfg9YPrizJDU) | 8:12 |
 | 7 | [Herencia](https://open.spotify.com/track/1VGlBYgQP4BTDuqtJTFdqC) | [Yadah](https://open.spotify.com/artist/0Mlie91CFtq7dZceNEyZAP), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Herencia](https://open.spotify.com/album/51ZlroscMJpLfa0MRojECm) | 4:23 |

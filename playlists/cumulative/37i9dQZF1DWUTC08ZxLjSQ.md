@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-449 songs - 23 hr 46 min
+450 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 | 2023-03-21 | 2023-04-05 |
 | [Crutches](https://open.spotify.com/track/0OkQtz2Os6iXgEAhOD7ea7) | [Kafv](https://open.spotify.com/artist/6ockHR6Tj6gqR9fx7Uo0vb), [Da Architecht](https://open.spotify.com/artist/2XrCvqyEa877ypi4UwgTkd) | [Crutches](https://open.spotify.com/album/28pjOtvzvniaep1CDAruej) | 3:21 | 2023-07-18 | 2024-02-21 |
 | [DAMEER!](https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [DAMEER!](https://open.spotify.com/album/7KGjRjpARm8HMm87LgdXJ6) | 2:12 | 2024-01-16 | 2024-06-27 |
+| [DARWIN](https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT) | [OSTAR OFFICIAL](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [DARWIN](https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP) | 2:24 | 2025-10-16 |  |
 | [Dayman Faker](https://open.spotify.com/track/3xVm2gJc4IiA9JZ48VWNyp) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [Dayman Faker](https://open.spotify.com/album/0tHDV5WZRAv3Zo4Q0Mbm4m) | 3:11 | 2024-01-31 | 2024-06-27 |
 | [December](https://open.spotify.com/track/0JnCAByIOXF3pmduqQp9Xn) | [REMZI](https://open.spotify.com/artist/4gl3AHK8hqrCabEuPbj1LI) | [December](https://open.spotify.com/album/1m4dJoy1edgAZ1mxxUrDXi) | 4:12 | 2023-01-31 | 2023-04-05 |
 | [Dehka](https://open.spotify.com/track/4pi3cf6iWZmuXW6CoETnfK) | [ZEEGA \- زيجا](https://open.spotify.com/artist/3FOjVDM1qoZ6r0d8xRm9v2), [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Dehka](https://open.spotify.com/album/4OiycRTZtAGUeZpL9SztBp) | 3:23 | 2024-10-01 | 2025-02-18 |
@@ -438,7 +439,7 @@
 | [خصلة](https://open.spotify.com/track/58xuxqwXEEWFpiU6Mju8bQ) | [HIYA](https://open.spotify.com/artist/1FnryusWztu8TJm7fQqOg1) | [خصلة](https://open.spotify.com/album/58D2vS5ynxxr7h22aNoyE2) | 2:57 | 2024-09-11 | 2025-01-23 |
 | [دكتور نفساني](https://open.spotify.com/track/0xqXbsKJs9dRyIJBZRRNhJ) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [دكتور نفساني](https://open.spotify.com/album/1P4Qp6t6v3m7AotVxh5g3E) | 2:59 | 2022-11-15 | 2022-12-14 |
 | [دنیا](https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [دنیا](https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx) | 3:39 | 2022-09-20 | 2023-01-18 |
-| [راجع تاني](https://open.spotify.com/track/5e7Cti5SSEva3BQlpkZPyN) | [Ahmed Alaa](https://open.spotify.com/artist/2sbhLUkAWHoLHm7cdePSJt) | [راجع تاني](https://open.spotify.com/album/69KYXrSwaUKjHQcul5o6nQ) | 4:07 | 2025-05-16 |  |
+| [راجع تاني](https://open.spotify.com/track/5e7Cti5SSEva3BQlpkZPyN) | [Ahmed Alaa](https://open.spotify.com/artist/2sbhLUkAWHoLHm7cdePSJt) | [راجع تاني](https://open.spotify.com/album/69KYXrSwaUKjHQcul5o6nQ) | 4:07 | 2025-05-16 | 2025-10-17 |
 | [سكر](https://open.spotify.com/track/06AmBlF4cSGYkLJvQ5JSSk) | [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv), [Yung DrowN](https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT) | [سكر](https://open.spotify.com/album/6te4W3H4rMPEVj1cgR2ZE5) | 4:22 | 2024-05-14 | 2024-09-12 |
 | [شط جديد \(a new shore\)](https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM) | [BOSA](https://open.spotify.com/artist/5QagSMWCwD4XpeGRRQ7AvG) | [شط جديد \(a new shore\)](https://open.spotify.com/album/3KnGdI9DaPzIOSEVO4xTtL) | 2:58 | 2025-09-24 |  |
 | [طوفان](https://open.spotify.com/track/6DzSH06EC0ZHUnlhNkfzup) | [Nagham Saleh](https://open.spotify.com/artist/0wrEkzmsrMABB9Kd3IBuuL), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [طوفان](https://open.spotify.com/album/5MfAP8f8YEshTl5QHN7H4C) | 3:28 | 2025-02-17 |  |

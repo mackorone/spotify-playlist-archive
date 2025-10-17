@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 盧廣仲 \(Crowd Lu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,155 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,184 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 26 | [你怎麼捨得我難過 \- 滾石撞樂隊2 \(原唱:黃品源\)](https://open.spotify.com/track/1fZhClIljIAn0qC2E0JMAo) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [滾石撞樂隊2 \- 你怎麼捨得我難過](https://open.spotify.com/album/30JaE8G16R1929l9KKnGxG) | 4:11 |
 | 27 | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/track/5HGAEdNPg1y5CesBg6ZNCR) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/album/796MxC3IVgtFKuhrC5Fo0S) | 5:00 |
 | 28 | [爱入青云 \(《入青云》影视剧情入青云曲\)](https://open.spotify.com/track/1gXcblCzNpNi74lOVYhSPN) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [爱入青云 \(《入青云》影视剧情入青云曲\)](https://open.spotify.com/album/3eqW7SXTdOlwHPXpGMQlL9) | 3:44 |
-| 29 | [Emo一整夜只因爲想你](https://open.spotify.com/track/1PRZZMXmOB4Z4P1pcqb7ET) | [GrayGray灰灰](https://open.spotify.com/artist/6vKh7vsClNEdLhzzoN8f5n), [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau), [栗子Liz](https://open.spotify.com/artist/1uENYG7zlDXWUnanMFiewr) | [Emo一整夜只因爲想你](https://open.spotify.com/album/3eN06uu8ZZtTYlRQbcrz1p) | 2:40 |
+| 29 | [Emo一整夜只因爲想你 \(Emo Night\)](https://open.spotify.com/track/1PRZZMXmOB4Z4P1pcqb7ET) | [GrayGray灰灰](https://open.spotify.com/artist/6vKh7vsClNEdLhzzoN8f5n), [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau), [栗子Liz](https://open.spotify.com/artist/1uENYG7zlDXWUnanMFiewr) | [Emo一整夜只因爲想你 \(Emo Night\)](https://open.spotify.com/album/3eN06uu8ZZtTYlRQbcrz1p) | 2:40 |
 | 30 | [躺在你的衣櫃 \- 滾石撞樂隊2 \(原唱:陳綺貞\)](https://open.spotify.com/track/2oCC0Of4Ht5ScmNbFWlSJr) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [滾石撞樂隊2 \- 躺在你的衣櫃](https://open.spotify.com/album/5DydD7ZoJTNZOLb9yccJ72) | 3:48 |
 | 31 | [23/17](https://open.spotify.com/track/6WE1SUfXxG41NqW9jPHfti) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [23/17](https://open.spotify.com/album/0XDi5fRCWYTNZg9H2g1AUD) | 3:33 |
 | 32 | [自己自己](https://open.spotify.com/track/52m8nAPJJlm3z43vSvqSxr) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [自己自己 mi casa su casa](https://open.spotify.com/album/6kj8Ji3HKnRsgyjfujSx6J) | 4:23 |

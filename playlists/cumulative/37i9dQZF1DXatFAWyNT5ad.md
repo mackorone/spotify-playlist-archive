@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-896 songs - 1 day 22 hr 7 min
+898 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Alive](https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Alive](https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv) | 3:12 | 2023-03-17 |  |
 | [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 | 2023-11-17 | 2024-04-19 |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-11-11 | 2022-11-13 |
-| [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-24 |  |
+| [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-24 | 2025-10-17 |
 | [All I Need](https://open.spotify.com/track/20NJF63c7zVC6kf5ViH8VG) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [All I Need](https://open.spotify.com/album/3fmtbVIXRK5M4OSAxllhDb) | 2:26 | 2022-03-17 | 2022-07-08 |
 | [All Is On My Side](https://open.spotify.com/track/3LHcAmB9JJ1pVsfTLersFD) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [All Is On My Side](https://open.spotify.com/album/3kL9oEBXN8ircCGfeczB0t) | 4:33 | 2022-03-24 | 2022-04-13 |
 | [all my friends are pissed off](https://open.spotify.com/track/5FzKa4aYel5Li5IlTdGw7U) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [it's fine](https://open.spotify.com/album/39f8Z7LLJs88JEcgyJFX2T) | 2:37 | 2022-03-24 | 2022-04-18 |
@@ -391,6 +391,7 @@
 | [Hold My Own](https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Something of Wonder](https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV) | 3:03 | 2025-07-18 | 2025-10-12 |
 | [HOLD ON \(with Steve Stevens\)](https://open.spotify.com/track/3JhwL9yDHr4cJSofZMxUiR) | [The Blackmordia](https://open.spotify.com/artist/7swEODLC8v8gg4aKUznOuW), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [HOLD ON \(with Steve Stevens\)](https://open.spotify.com/album/0P0OW9GQNfrPFZSUNCCc5F) | 5:14 | 2025-02-14 | 2025-04-14 |
 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 | 2022-03-24 | 2022-04-17 |
+| [Holy Roller](https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz) | [The Format](https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf) | [Holy Roller](https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg) | 3:55 | 2025-10-17 |  |
 | [Home](https://open.spotify.com/track/08IlNH2lwTCUTROvlZdoPJ) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.1](https://open.spotify.com/album/1Uo3jSUXpBeApSIZU7T1M4) | 2:56 | 2022-03-24 | 2022-04-11 |
 | [Hometown Heroes](https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Hometown Heroes](https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [homewrecker](https://open.spotify.com/track/7gu8Qe3zpwMNczEQG5Kigs) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [I WANT YOU MORE THAN ANYBODY WANTS YOU](https://open.spotify.com/album/3xRV1SJjSfnih2UGMHrvNc) | 2:39 | 2024-08-23 | 2025-02-20 |
@@ -405,7 +406,7 @@
 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 | 2022-06-03 |  |
 | [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [okay\. again?](https://open.spotify.com/album/3X8hQPPIipP1KbYV4ENqVd) | 3:48 | 2025-09-19 |  |
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0gNnngLmd8zSikRqUGt2DU) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/3QDXgEZ8LfC1CxkZpETteX) | 5:31 | 2022-03-24 | 2022-04-17 |
-| [Hurricane](https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Forgiving Spree](https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl) | 3:15 | 2025-02-04 |  |
+| [Hurricane](https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Forgiving Spree](https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl) | 3:15 | 2025-02-04 | 2025-10-17 |
 | [hurt like it should](https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [hurt like it should](https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY) | 3:23 | 2024-04-19 | 2025-05-31 |
 | [Hurts So Bad](https://open.spotify.com/track/2lTSM4v2Xm6lsu4NqyGl9K) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Hurts So Bad](https://open.spotify.com/album/5hYGk2apMXzBI2Wg5T4tlf) | 3:04 | 2022-03-24 | 2022-07-14 |
 | [I Can Hardly Speak](https://open.spotify.com/track/5eMySoI30MSqHDv74PlZ63) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Can Hardly Speak](https://open.spotify.com/album/3HSnfEUIR7zor3xrYQ1TcL) | 3:59 | 2022-03-24 | 2022-04-13 |
@@ -750,6 +751,7 @@
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-08 |  |
 | [Sucker Punch](https://open.spotify.com/track/0y0xWEzCRBY47WRw67r4Ab) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Sucker Punch](https://open.spotify.com/album/1hB7OK8nNlPLslFuHoeC5e) | 2:26 | 2022-04-14 | 2022-04-21 |
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-20 |  |
+| [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [](https://open.spotify.com/album/null) | 3:00 | 2025-10-17 |  |
 | [Summer Is a Curse](https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [State of Mind](https://open.spotify.com/album/0C8bAFI1POhzztBVShuzll) | 3:01 | 2022-03-24 | 2022-04-13 |
 | [Survival in Motion](https://open.spotify.com/track/46tFOsvuIJTXqT0of0ZyTX) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Survival in Motion](https://open.spotify.com/album/7MLciyYz4wb1vQkFdX9MEE) | 2:15 | 2024-08-23 | 2025-07-19 |
 | [Symphony \- Inner City Youth Orchestra of Los Angeles Version](https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Symphony \(Inner City Youth Orchestra of Los Angeles Version\)](https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4) | 3:08 | 2023-06-23 | 2023-11-18 |

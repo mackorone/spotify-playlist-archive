@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema, Anderson M\u00e1rio",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 219710,
       "name": "Bo \u00e9 B\u00fassola",
       "url": "https://open.spotify.com/track/7s03RKJG1XXrwqITY0u81f"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 211584,
       "name": "Buqu\u00ea",
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 238084,
       "name": "Colete",
       "url": "https://open.spotify.com/track/1krMTQdB1x1BG7eXhXh4AO"
@@ -4143,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Forever My Own",
+        "url": "https://open.spotify.com/album/5aGOeueu72qTMNHohwLPyg"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115751,
+      "name": "Forever My Own",
+      "url": "https://open.spotify.com/track/5HpnPSzYPocliLVOQiZrhN"
+    },
+    {
+      "album": {
         "name": "COCKTAIL",
         "url": "https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN"
       },
@@ -4198,6 +4216,28 @@
       "duration_ms": 224347,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/4h2efiSX3jLkhYbDKSnNJF"
+    },
+    {
+      "album": {
+        "name": "GBB",
+        "url": "https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "Zara Williams",
+          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "GBB",
+      "url": "https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A"
     },
     {
       "album": {
@@ -4264,7 +4304,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 184999,
       "name": "Gotham City",
       "url": "https://open.spotify.com/track/0yLF7XRVC0Pafr3Ejgli8P"
@@ -6128,7 +6168,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 216957,
       "name": "MEIA NOITE",
       "url": "https://open.spotify.com/track/63MWRE7Y134ZOr2l6VhgdY"
@@ -6338,7 +6378,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 241678,
       "name": "Milion\u00e1rio",
       "url": "https://open.spotify.com/track/2SkgTFL4pSfG5N5ub9frhb"
@@ -8300,6 +8340,24 @@
     {
       "album": {
         "name": "Ponto Fraco",
+        "url": "https://open.spotify.com/album/36yV217SdLgdCwKvSZLLTb"
+      },
+      "artists": [
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178232,
+      "name": "Ponto Fraco",
+      "url": "https://open.spotify.com/track/3nR6Dqo6GNFU6TFPO2dlHK"
+    },
+    {
+      "album": {
+        "name": "Ponto Fraco",
         "url": "https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y"
       },
       "artists": [
@@ -8754,6 +8812,24 @@
       "duration_ms": 200124,
       "name": "Ra\u00edzes",
       "url": "https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/7B9keWfQNgdNBDWUE5ikLp"
+      },
+      "artists": [
+        {
+          "name": "Skuco",
+          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172737,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/3miYSuwoel07BCfzYuQRQc"
     },
     {
       "album": {

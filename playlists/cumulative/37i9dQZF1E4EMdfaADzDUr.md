@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, winterburn, Leblanc and more
+> With winterburn, After Cooking, Leblanc and more
 
 165 songs - 12 hr 11 min
 
@@ -10,13 +10,13 @@
 |---|---|---|---|---|---|
 | [1968](https://open.spotify.com/track/00rxTXpdxJd0iMnP7ltuya) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [Marius](https://open.spotify.com/album/1SIk51DJvRm5m7auCKrWwO) | 3:53 | 2025-08-12 | 2025-08-13 |
 | [1968](https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [Marius](https://open.spotify.com/album/24eMqW97PMSCAhtfqEpQKf) | 3:53 | 2025-08-24 | 2025-09-01 |
-| [20 Meters](https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:12 | 2025-10-07 |  |
+| [20 Meters](https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:12 | 2025-10-07 |  |
 | [54](https://open.spotify.com/track/716vLwPfdagrP3kGrYPmTh) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [54](https://open.spotify.com/album/0DcplCigDrsu8kct7KEHiZ) | 6:12 | 2025-10-10 |  |
 | [711](https://open.spotify.com/track/5r2Rbf1RxKG5ge8wbzzqOF) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 3:30 | 2025-08-11 | 2025-09-18 |
 | [A Name I Don't Know](https://open.spotify.com/track/7jTuokUoFx6FRojl3twhLc) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf) | [A Name I Don't Know](https://open.spotify.com/album/6EmABfQLdrKwJAL7Eax3sQ) | 2:42 | 2025-08-20 | 2025-09-27 |
 | [A Name I Don't Know \- Extended Instrumental Version](https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf) | [A Name I Don't Know](https://open.spotify.com/album/7byiOin8CKEoRc8EubU74Q) | 4:02 | 2025-07-22 |  |
 | [A Name I Don't Know \- Extended Version](https://open.spotify.com/track/5fyQOrgb0L8AqQPRA4ec3C) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf) | [A Name I Don't Know](https://open.spotify.com/album/7byiOin8CKEoRc8EubU74Q) | 4:02 | 2025-09-03 | 2025-09-04 |
-| [Abyss](https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:32 | 2025-07-22 |  |
+| [Abyss](https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:32 | 2025-07-22 |  |
 | [Adrenogate](https://open.spotify.com/track/0jMjnpl50merLHHWvpvVZi) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Adrenogate](https://open.spotify.com/album/0Q6C5vWMDPPtlhAIvbNfyl) | 4:01 | 2025-07-22 | 2025-09-02 |
 | [Alba](https://open.spotify.com/track/7dZQqNPWP4mBH935sp3Bkw) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alba](https://open.spotify.com/album/1lawEY4GlNceyJ74IbAfYx) | 4:51 | 2025-07-22 | 2025-09-04 |
 | [Alicent](https://open.spotify.com/track/7ze2YRBDO5ayNx7HTOzNTs) | [Diskay](https://open.spotify.com/artist/0jhEMuo7mHO0SS3ikkimR5) | [Fiction d'automne](https://open.spotify.com/album/51S7HiIj8i26Pqx4UOMqa1) | 4:25 | 2025-08-16 | 2025-10-13 |
@@ -121,7 +121,7 @@
 | [Pulsing](https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 3:57 | 2025-07-26 | 2025-10-10 |
 | [Quetzal](https://open.spotify.com/track/5bgSkiClqBmuItDcFADjf6) | [Traf](https://open.spotify.com/artist/3M1kdGJP7DlEBGPb1JtKJX) | [Quetzal](https://open.spotify.com/album/0g0moUCxmSIVazYz8YvDNo) | 6:51 | 2025-08-11 | 2025-10-06 |
 | [rise//ruin](https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [rise//ruin](https://open.spotify.com/album/5xYp38Ban4HNY4bHrAMIL0) | 3:11 | 2025-07-22 |  |
-| [Rivière](https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Rivière](https://open.spotify.com/album/7fDQYJfUrAif5SSSLbyye0) | 3:23 | 2025-07-29 |  |
+| [Rivière](https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Rivière](https://open.spotify.com/album/7fDQYJfUrAif5SSSLbyye0) | 3:23 | 2025-07-29 |  |
 | [Roads \- Original Mix](https://open.spotify.com/track/1CgrZqS3mbUXSo5blucWdq) | [3x3cute](https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP) | [Black Leather](https://open.spotify.com/album/7CQENAxsPRBQIsZq3Imjpb) | 2:21 | 2025-07-22 | 2025-10-08 |
 | [Samothrace](https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Cycle](https://open.spotify.com/album/5GxVG9MEdZnwiYyN2oEIQP) | 4:34 | 2025-07-23 |  |
 | [Samurai \- Hannes Bieger Remix](https://open.spotify.com/track/4zDbnlztm2vtYwUQu2nONL) | [Kadosh](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9) | [Samurai](https://open.spotify.com/album/6lhi5XvMga9b3Xl3Im6aVH) | 6:19 | 2025-10-07 | 2025-10-08 |

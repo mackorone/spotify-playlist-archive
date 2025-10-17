@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "Celebration of IWD with East Africa queens. Cover: Maandy",
+  "description": "Celebration of IWD with East Africa queens. Cover: Hilda Watiri",
   "name": "Malkia",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 224021,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4AtwlEsBRJMf2P7Vu5jyYu"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
@@ -1058,6 +1058,28 @@
       "duration_ms": 213416,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/0LeiaF8Dudetg0XUznifzA"
+    },
+    {
+      "album": {
+        "name": "Kizungu",
+        "url": "https://open.spotify.com/album/3QtoYICiNK1G0wE6SAHOaU"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Ceke",
+          "url": "https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60861,
+      "name": "Kizungu",
+      "url": "https://open.spotify.com/track/6IOwNDCwz8TZ1MUpiI5nr9"
     },
     {
       "album": {
@@ -3170,6 +3192,24 @@
       "duration_ms": 208213,
       "name": "With You",
       "url": "https://open.spotify.com/track/2kmrovjpIxVb59ULNmEaeB"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/17zfYSX417C094hoIwSRM6"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177955,
+      "name": "WOMAN",
+      "url": "https://open.spotify.com/track/3YGR43k3CWKNedoiiPoHmv"
     },
     {
       "album": {

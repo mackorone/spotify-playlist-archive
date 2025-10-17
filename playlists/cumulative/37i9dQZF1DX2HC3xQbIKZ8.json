@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-10",
-  "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Myshaan",
+  "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: L.A.B.",
   "name": "Island Time",
   "tracks": [
     {
@@ -724,6 +724,24 @@
       "duration_ms": 268457,
       "name": "Cool it down",
       "url": "https://open.spotify.com/track/7M6mvvrD10qyRzAEdpSATu"
+    },
+    {
+      "album": {
+        "name": "Cutie Fasho",
+        "url": "https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk"
+      },
+      "artists": [
+        {
+          "name": "Johnny Suite",
+          "url": "https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Cutie Fasho",
+      "url": "https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt"
     },
     {
       "album": {
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186747,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"

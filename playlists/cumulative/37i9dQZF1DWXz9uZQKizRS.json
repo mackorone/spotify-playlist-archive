@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Lordofon",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: ta Ukrainka",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 152730,
       "name": "2k19",
       "url": "https://open.spotify.com/track/5BoX7Iby2WPJvmw4aL0mqY"
@@ -516,10 +516,32 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 211335,
       "name": "Anio\u0142y",
       "url": "https://open.spotify.com/track/1oJFZHJgVU2hFdQmHDRTOr"
+    },
+    {
+      "album": {
+        "name": "Anio\u0142y istniej\u0105",
+        "url": "https://open.spotify.com/album/0GkNgNNK2ZXLv0l2WsoqTa"
+      },
+      "artists": [
+        {
+          "name": "Tw\u00f3j, Dawid",
+          "url": "https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk"
+        },
+        {
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Anio\u0142y istniej\u0105",
+      "url": "https://open.spotify.com/track/1XLNoW6X399Ma3tTYKhkmR"
     },
     {
       "album": {
@@ -788,7 +810,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 229386,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/2DUiRFebJGEXFSQLJsKo2q"
@@ -1932,7 +1954,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 209000,
       "name": "B\u0119d\u0119",
       "url": "https://open.spotify.com/track/284dXgwPonb314FI6MjbeE"
@@ -2800,7 +2822,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 247058,
       "name": "Ciosy proste",
       "url": "https://open.spotify.com/track/3swBcfF8L9D4x8FpRlIIs9"
@@ -6218,7 +6240,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 282069,
       "name": "idealny",
       "url": "https://open.spotify.com/track/24QfHaA4Z7tb550oCGyKah"
@@ -6465,6 +6487,52 @@
     },
     {
       "album": {
+        "name": "JAK CHCESZ.",
+        "url": "https://open.spotify.com/album/3vwa5HP4iyZzeUKLMqxaz5"
+      },
+      "artists": [
+        {
+          "name": "ARS LATRANS Orchestra",
+          "url": "https://open.spotify.com/artist/1LzVOPgsaVzyFmXDqIPOCT"
+        },
+        {
+          "name": "Kuba Folwarczny",
+          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
+        },
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "waterbody",
+          "url": "https://open.spotify.com/artist/3KuudbK2QPuIFChpr6tCGb"
+        },
+        {
+          "name": "tim_badel",
+          "url": "https://open.spotify.com/artist/6bOiXcPbJZM9mBV7o8nM6A"
+        },
+        {
+          "name": "Szymon Paciora",
+          "url": "https://open.spotify.com/artist/59NAlbFgu39Mr337r8ttkx"
+        },
+        {
+          "name": "low lab",
+          "url": "https://open.spotify.com/artist/7nLBtOwJ0hhhO70jIZbGKF"
+        },
+        {
+          "name": "Alina \u0141api\u0144ska",
+          "url": "https://open.spotify.com/artist/6ARISnFdGIlWiX3DFPFuWN"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179972,
+      "name": "JAK CHCESZ.",
+      "url": "https://open.spotify.com/track/2nyNh7qjbClve5QSapF5c2"
+    },
+    {
+      "album": {
         "name": "Jak Jane Birkin",
         "url": "https://open.spotify.com/album/7ImCSFk90kAxxKPvcuxoC8"
       },
@@ -6512,7 +6580,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 201906,
       "name": "Jak mam pomie\u015bci\u0107?",
       "url": "https://open.spotify.com/track/3qS6nHQ8h3IpUCe5hftmU8"
@@ -7246,7 +7314,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 161826,
       "name": "Kalkuta noc\u0105",
       "url": "https://open.spotify.com/track/21YOsLggdh7ea5G6sdZCHC"
@@ -7502,7 +7570,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 189833,
       "name": "Kochany pami\u0119tniku",
       "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
@@ -7941,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "Rzeczy, kt\u00f3re kiedy\u015b Ci opowiem (Deluxe)",
+        "url": "https://open.spotify.com/album/0JtbFypPrx0OBOvhuQ7WiI"
+      },
+      "artists": [
+        {
+          "name": "Jakub Wysmu\u0142ek",
+          "url": "https://open.spotify.com/artist/1iIcrcgUgQwx2yzqwAwAIK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197903,
+      "name": "Kronos",
+      "url": "https://open.spotify.com/track/6bRVt980xGpwr2rEMTa8nc"
+    },
+    {
+      "album": {
         "name": "kropelki",
         "url": "https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI"
       },
@@ -8316,7 +8402,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 185681,
       "name": "La La Love Me",
       "url": "https://open.spotify.com/track/3MfdpLbkgbSi9tfyfcn5m9"
@@ -9642,7 +9728,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 241951,
       "name": "Mikroplastik",
       "url": "https://open.spotify.com/track/2Z27suqTHltarz8CAmxWSq"
@@ -10219,6 +10305,24 @@
     },
     {
       "album": {
+        "name": "Moja krew",
+        "url": "https://open.spotify.com/album/7pwtfU2ktoOwRJLQwckVaI"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237702,
+      "name": "Moja krew",
+      "url": "https://open.spotify.com/track/6Zpw0OlI3rpkPYF8YvW4rH"
+    },
+    {
+      "album": {
         "name": "MOJA WINA",
         "url": "https://open.spotify.com/album/7sVLTQs9bdJEurrnUKYjvY"
       },
@@ -10584,7 +10688,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 207023,
       "name": "Mo\u017cesz by\u0107",
       "url": "https://open.spotify.com/track/0PNcdE53K8g767kS2iIHKc"
@@ -12461,6 +12565,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215297,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/212XnGWShIC0jc80bebffT"
+    },
+    {
+      "album": {
         "name": "Noce",
         "url": "https://open.spotify.com/album/5xi6EE8P8UmeKiLaFv9f48"
       },
@@ -12556,6 +12678,24 @@
       "duration_ms": 142893,
       "name": "Nothing That I Know",
       "url": "https://open.spotify.com/track/5GrAgdFq5IJmOeChSLQTDS"
+    },
+    {
+      "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/2OOquvcIOiN2DNM8FJpBEh"
+      },
+      "artists": [
+        {
+          "name": "Ranko Ukulele",
+          "url": "https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204657,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/3VHvquhSxPAlbsyV65FdmZ"
     },
     {
       "album": {
@@ -13242,7 +13382,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186578,
       "name": "Ostatni s\u0142o\u0144ca blask",
       "url": "https://open.spotify.com/track/4UirBTPG2FuJPAMmLkGsx1"
@@ -13586,6 +13726,28 @@
       "duration_ms": 202666,
       "name": "parasol",
       "url": "https://open.spotify.com/track/6alJAmpYqrl0m6vIIKXwBX"
+    },
+    {
+      "album": {
+        "name": "WIERZBY",
+        "url": "https://open.spotify.com/album/4D2tvBrgjXJIynNgpTBl7h"
+      },
+      "artists": [
+        {
+          "name": "Julia Miku\u0142a",
+          "url": "https://open.spotify.com/artist/34h9tDUEvmwAVRuESr6nlB"
+        },
+        {
+          "name": "fifi kwiat",
+          "url": "https://open.spotify.com/artist/4QmjO6L8YmRq8FCT9EYmCa"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "PARNO",
+      "url": "https://open.spotify.com/track/6M31wBfPqOIYv0aa40KNGr"
     },
     {
       "album": {
@@ -14645,6 +14807,28 @@
     },
     {
       "album": {
+        "name": "Mia\u0142o by\u0107 jak w filmie",
+        "url": "https://open.spotify.com/album/6X6EgNLNft9IBTdbbNkYAK"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        },
+        {
+          "name": "Wiraszko",
+          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187140,
+      "name": "Pozytywka",
+      "url": "https://open.spotify.com/track/35MBLJWF12ds8UfQHdc6VN"
+    },
+    {
+      "album": {
         "name": "Pretty Woman",
         "url": "https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW"
       },
@@ -14882,6 +15066,28 @@
       "duration_ms": 185063,
       "name": "Pr\u00f3ba",
       "url": "https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3buj\u0119 co\u015b zmieni\u0107",
+        "url": "https://open.spotify.com/album/0GHohT2F2wo4nRm2X4sLwS"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        },
+        {
+          "name": "Rye Mann",
+          "url": "https://open.spotify.com/artist/2d5ubSYV0quACFEgd0sDfn"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Pr\u00f3buj\u0119 co\u015b zmieni\u0107",
+      "url": "https://open.spotify.com/track/1Qjf5LR9UyAyKdEpWi3JYJ"
     },
     {
       "album": {
@@ -16485,6 +16691,32 @@
     },
     {
       "album": {
+        "name": "NA KONIEC LATA",
+        "url": "https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "Micha\u0142 Smajdor",
+          "url": "https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180290,
+      "name": "Spadaj\u0105ce gwiazdy",
+      "url": "https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa"
+    },
+    {
+      "album": {
         "name": "Spin the Bottle",
         "url": "https://open.spotify.com/album/3qYEDHjbLOcoJ0856iVBch"
       },
@@ -16732,7 +16964,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 197303,
       "name": "Sta\u0142y l\u0105d",
       "url": "https://open.spotify.com/track/4u3HZaqbIzWxmDXOsiF3rC"
@@ -19029,6 +19261,24 @@
     },
     {
       "album": {
+        "name": "Upaja",
+        "url": "https://open.spotify.com/album/4TZNDbvXFbWCR4jYGJcwOn"
+      },
+      "artists": [
+        {
+          "name": "Karolina Charko",
+          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "Upaja",
+      "url": "https://open.spotify.com/track/1DLCYuW02Bji89Ylslhp83"
+    },
+    {
+      "album": {
         "name": "Upa\u0142",
         "url": "https://open.spotify.com/album/2F3QLjyAxqK3GFdl3t031x"
       },
@@ -19548,6 +19798,24 @@
       "duration_ms": 242142,
       "name": "Wdech",
       "url": "https://open.spotify.com/track/1edq4ksBuvRWn50NzZYriL"
+    },
+    {
+      "album": {
+        "name": "Jazz Report from the Hood",
+        "url": "https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU"
+      },
+      "artists": [
+        {
+          "name": "Omasta",
+          "url": "https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254670,
+      "name": "We Gonna Make It",
+      "url": "https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP"
     },
     {
       "album": {
@@ -20154,6 +20422,24 @@
       "duration_ms": 164233,
       "name": "Wstyd",
       "url": "https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk"
+    },
+    {
+      "album": {
+        "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
+        "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
+      "url": "https://open.spotify.com/track/4TyEvP8OV3egd7nlECbeXk"
     },
     {
       "album": {
@@ -21823,6 +22109,24 @@
     },
     {
       "album": {
+        "name": "zosta\u0144",
+        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
+      },
+      "artists": [
+        {
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138094,
+      "name": "zosta\u0144",
+      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
+    },
+    {
+      "album": {
         "name": "Zosta\u0144my tu",
         "url": "https://open.spotify.com/album/74LI2uRRSZnVgmQcHGO4is"
       },
@@ -22048,7 +22352,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 194581,
       "name": "\u0141adniej b\u0142yszczy dzie\u0144",
       "url": "https://open.spotify.com/track/4jz2aY9gZ2L6UPzAKocsKO"

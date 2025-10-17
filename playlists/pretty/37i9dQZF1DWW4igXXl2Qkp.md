@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2y4kS2ljmS41pNDNA01P2Q">WHATMORE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,397 likes - 105 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,412 likes - 105 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

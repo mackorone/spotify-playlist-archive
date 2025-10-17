@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Tira
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: STATE OFFF
 
-504 songs - 1 day 20 hr 47 min
+506 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Kwandonga Ziyaduma](https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 7:15 | 2023-12-08 |  |
 | [Kwenzakalan](https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Leodaleo](https://open.spotify.com/artist/7bJ9EMwSG96uo9Fl8KuAO5), [Dezzodigo](https://open.spotify.com/artist/4QyvRI7SNA3CSjG9C2wjRY) | [Kwenzakalan](https://open.spotify.com/album/3bMm9uOsgWcgpkMWkqKqk1) | 4:53 | 2023-12-08 | 2025-01-17 |
 | [KZN](https://open.spotify.com/track/1pBuaFqikz74StvxjAtf6f) | [NAKSoul](https://open.spotify.com/artist/0d6Hlgz11lT6BJH1HTXCrT), [Ntwana Mosotho.Kvy](https://open.spotify.com/artist/61YmYH1wHznFt4LcYFinGL), [DJ Seeyah SA](https://open.spotify.com/artist/4ozlyA1sQkRtnDYjqORPUA) | [KZN](https://open.spotify.com/album/7tSIfZ8ER4P3wa3X4RsYIG) | 6:56 | 2025-07-10 | 2025-07-25 |
+| [Last](https://open.spotify.com/track/7dyEXpj9gLJNWt5QCUECAc) | [Samkelo Chiliza](https://open.spotify.com/artist/6OuhacnQJDIe3TK799VJ3U) | [Gqom Mafia](https://open.spotify.com/album/1CtwCXuUdEwSiqqnppEQl7) | 4:51 | 2025-10-17 |  |
 | [Last Dance](https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt) | [Afro Tech Boyz](https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB) | [Last Dance](https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky) | 5:07 | 2025-06-19 |  |
 | [Late Nights](https://open.spotify.com/track/7ASFpfUn1iRSJUQzy36h1M) | [PradamusiQ](https://open.spotify.com/artist/02JARoBhg01itCS2KMOyUp), [Anunnaki & Khukzin](https://open.spotify.com/artist/6qkMkV4bnZCDXQIjAabaej), [DaGold Dust](https://open.spotify.com/artist/0Ot4nuudfDGpthO9tmwdbu) | [Ufos EP](https://open.spotify.com/album/2p73ymWiQjbmH1sMsULnsJ) | 6:02 | 2025-07-24 | 2025-08-09 |
 | [Launch Party](https://open.spotify.com/track/1TBmJ4iUoZWIC6ByJqJ8JC) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:41 | 2025-07-03 | 2025-07-25 |
@@ -427,6 +428,7 @@
 | [Thunderstorm](https://open.spotify.com/track/6t8xc0rGpx11LapBFYU28P) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle) | [Thunderstorm](https://open.spotify.com/album/3HssRiACCnBPuhOBkn8IAe) | 6:04 | 2023-08-24 | 2023-12-15 |
 | [TikTok Trends](https://open.spotify.com/track/4BZhfxaCx4E7hF0tlXzTx1) | [Sva The Dominator](https://open.spotify.com/artist/4JWpvSHnttQ6VNcreD7ZWN), [Nyamza ZA](https://open.spotify.com/artist/3uSTgtdpdgGio6Lpcaga43) | [Hamba Nam Uzobona Act 3](https://open.spotify.com/album/7i0HNUXElJciN830CmjO64) | 6:32 | 2024-12-12 | 2024-12-20 |
 | [Time Splitter](https://open.spotify.com/track/1Hnt3TjNLtFpOv1LqKsbh1) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Woza Spice](https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ) | [Time Splitter](https://open.spotify.com/album/4pm7vPnxkapigLujLVz7sd) | 6:15 | 2022-03-10 | 2023-05-26 |
+| [Toma](https://open.spotify.com/track/3X5SBG6HMawxh1sYdFRqNO) | [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [DJ MORO](https://open.spotify.com/artist/2Rc0ZRgMRCkbwc4Q74QMoE), [K8](https://open.spotify.com/artist/1RiG4vZLW3U86CazTXqmJ4), [Hiro “BINGO” Watanabe](https://open.spotify.com/artist/4gI0STOzZpcEVl4sP2wDaz), [KΣITO](https://open.spotify.com/artist/5kgyjglDiOtJ4CI6vtBYhO) | [Hard Currency](https://open.spotify.com/album/4dL3cNP2eXRuV0IbdCDm9k) | 3:08 | 2025-10-17 |  |
 | [ToningTon](https://open.spotify.com/track/74Iw10rV01I9gKQOvgpYhm) | [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG), [Ntokzeen Da One](https://open.spotify.com/artist/623WzJRqQotEmSJiyMDcpx) | [GQOM IS FOREVER](https://open.spotify.com/album/2EthtjzdePObfsliBhPUy5) | 5:11 | 2025-02-06 | 2025-02-21 |
 | [Too Private](https://open.spotify.com/track/18JoGJhk0HSG6x8oeDf8tv) | [M&W](https://open.spotify.com/artist/2WZyVaje3YupWEsmfLx8P3), [Gino Uzokdlalela](https://open.spotify.com/artist/6WXjpenGz8rKRBcI9fJtyb) | [No Rush No Pressure](https://open.spotify.com/album/3IzVNtia1mqAvLMsZYX4yq) | 4:05 | 2025-02-06 | 2025-02-21 |
 | [Triple X](https://open.spotify.com/track/3wKpTCzEvxUIsex3upHWmy) | [AkiidMusiq](https://open.spotify.com/artist/6hE9NWdMgpcwc3QRWuRaPm) | [Triple X Package](https://open.spotify.com/album/6ayYiIH98TSk6sZOpBwf7k) | 5:41 | 2023-08-24 | 2024-07-19 |

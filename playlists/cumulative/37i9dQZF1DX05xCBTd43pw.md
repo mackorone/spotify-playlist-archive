@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-420 songs - 21 hr 41 min
+421 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-06-27 |  |
 | [Fäderliecht](https://open.spotify.com/track/74yAbSSwPYlbJRoVvkauPz) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Fäderliecht](https://open.spotify.com/album/0cV75qed2Zo9mY4Sr9LM8I) | 3:54 | 2025-04-24 | 2025-05-02 |
 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 | 2024-08-05 | 2025-07-11 |
-| [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 | 2025-07-10 |  |
+| [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 | 2025-07-10 | 2025-10-17 |
 | [Gold Rush](https://open.spotify.com/track/5dCV3T0S8p5O4btsyd6uFb) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Gold Rush](https://open.spotify.com/album/15anfhhRhsAdkmBq9qHOra) | 2:42 | 2025-10-02 |  |
 | [Good](https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Good](https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI) | 3:47 | 2025-08-07 |  |
 | [Good Love](https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Good Love](https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r) | 2:45 | 2024-09-27 | 2024-11-27 |
@@ -195,7 +195,7 @@
 | [i'm sry i love u](https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [i'm sry i love u](https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm) | 3:15 | 2024-07-04 | 2024-08-14 |
 | [I've Got Everything](https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [I've Got Everything](https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F) | 3:01 | 2025-10-02 |  |
 | [If You Call](https://open.spotify.com/track/5tdBQ0p32owQEMryTSaP1w) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [If You Call](https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol) | 2:25 | 2024-06-27 | 2024-07-05 |
-| [If You Don't Know](https://open.spotify.com/track/28ioSzI3RJhjSikfQywNyX) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [If You Don't Know](https://open.spotify.com/album/6d1TpS1Mcy3xNDF8MDS09d) | 3:06 | 2025-09-12 |  |
+| [If You Don't Know](https://open.spotify.com/track/28ioSzI3RJhjSikfQywNyX) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [If You Don't Know](https://open.spotify.com/album/6d1TpS1Mcy3xNDF8MDS09d) | 3:06 | 2025-09-12 | 2025-10-17 |
 | [Ig o](https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Ig o](https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci) | 2:42 | 2024-10-03 | 2024-11-02 |
 | [Ignite](https://open.spotify.com/track/6dbsYY5IKAFKaeDJcVMQ1H) | [Heera](https://open.spotify.com/artist/4Ro4i94o18T58NuWW5lKHq) | [Growth](https://open.spotify.com/album/5no2A5bF1UgWZuVrV1dSEo) | 3:31 | 2025-04-17 | 2025-04-25 |
 | [In Case I Fall for You](https://open.spotify.com/track/2qz7KoWTLGuWuIfwqZmk4y) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [White Creatures](https://open.spotify.com/album/268yXVSyVaHmdualmsd1Ve) | 5:04 | 2025-05-01 |  |
@@ -295,7 +295,7 @@
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 |  |
 | [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 | 2024-09-13 | 2025-09-20 |
 | [Polaroid](https://open.spotify.com/track/40zf2sEQMBu5R7foINartB) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Polaroid](https://open.spotify.com/album/39185Y4s5eLq4KfraysSH4) | 3:26 | 2025-09-12 |  |
-| [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-05-22 | 2025-09-09 |
+| [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-05-22 |  |
 | [Power](https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Power](https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D) | 2:44 | 2025-04-05 |  |
 | [POWERTRIP!](https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [POWERTRIP!](https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf) | 2:52 | 2024-10-18 | 2024-11-18 |
 | [Pretty Girl Thriller](https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Pretty Girl Thriller](https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL) | 2:55 | 2025-05-22 |  |
@@ -376,6 +376,7 @@
 | [Todas Las Flores](https://open.spotify.com/track/3nUMWn4xuHsP3gM23lVvZr) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Las Flores De Mi Barrio](https://open.spotify.com/album/1aXrU0R7Xgf3YYqPNlFx60) | 2:52 | 2025-04-24 | 2025-05-02 |
 | [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 |  |
 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 | 2025-10-05 |
+| [Too Long Ago](https://open.spotify.com/track/0QfqAcgO0LKS3c8eLw9G01) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Too Long Ago](https://open.spotify.com/album/1iisgK1KPYxkG3Oa10R6Zl) | 2:42 | 2025-10-16 |  |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |

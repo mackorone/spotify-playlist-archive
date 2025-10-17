@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,266 songs - 2 day 7 hr 56 min
+1,267 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,6 +1140,7 @@
 | [Timeless](https://open.spotify.com/track/3kUJX976AVhDdzoMTgnpGd) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Timeless](https://open.spotify.com/album/1sONjBoJFgpNAg133F1N90) | 2:28 | 2025-07-18 |  |
 | [To Move Again](https://open.spotify.com/track/16SjfdDm4DGNeSPEGlqoxy) | [Phonez](https://open.spotify.com/artist/5wI5LhXulPIRdGianeW6EU), [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [To Move Again](https://open.spotify.com/album/2ud8zdiICtWtTgI3OhqR5u) | 2:33 | 2024-10-25 | 2025-03-08 |
 | [To The Moon](https://open.spotify.com/track/44BhECgkjGtE6f4PMPefDH) | [Chuksie](https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [To The Moon](https://open.spotify.com/album/5nMyalLlSL9MZXwlF1rOe0) | 2:06 | 2025-04-04 | 2025-07-14 |
+| [Together](https://open.spotify.com/track/6iFJ8KTUKiGFe2XE1GcKBn) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Lyge](https://open.spotify.com/artist/2TFo3t2jsLG5XDT8GD9XKH), [Feel On Eel](https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [Together](https://open.spotify.com/album/1RZpjazILcoF3T6Abfr5Vy) | 2:28 | 2025-10-16 |  |
 | [Together In The Night](https://open.spotify.com/track/7aOeUk9J16jdf5pBpn9mdj) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Together In The Night](https://open.spotify.com/album/0LRD4arfIM8cl2lLgfQDWK) | 2:02 | 2024-10-25 | 2024-11-21 |
 | [Tonight](https://open.spotify.com/track/5HwdWnQ2ygQeYNU28gfE1M) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P) | [Tonight](https://open.spotify.com/album/3dPWEKT50JWqPblmIjePkS) | 3:00 | 2025-03-14 | 2025-04-14 |
 | [Tonight](https://open.spotify.com/track/4rRDtL1KkUSuN5FEzhYj6X) | [JETISOO](https://open.spotify.com/artist/75KoLvLE1GbnaT4vMgAmXr), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Tonight](https://open.spotify.com/album/3WeTMwm5FSFXW5MBDn1hCn) | 2:26 | 2024-07-12 | 2024-08-10 |

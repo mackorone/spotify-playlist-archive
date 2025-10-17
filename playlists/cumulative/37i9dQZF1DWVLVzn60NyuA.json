@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "A Toro Pasao",
+        "url": "https://open.spotify.com/album/3vkguHKm1kGA5CryAk48bi"
+      },
+      "artists": [
+        {
+          "name": "CURRO",
+          "url": "https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "A Toro Pasao",
+      "url": "https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe"
+    },
+    {
+      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 190378,
       "name": "I'll Be Fire",
       "url": "https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He"

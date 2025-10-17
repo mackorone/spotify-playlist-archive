@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4WsiLOvvpCEdV40Wg1kzui">Zuta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,741 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,742 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Do widzenia](https://open.spotify.com/track/6Gc0E4SCfhihOTTi91Q8gV) | [VALENTINA](https://open.spotify.com/artist/0rrqQ8ZyggJDkpyoDmv2uz), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [Do widzenia](https://open.spotify.com/album/1uHO7FjZr0yESy3a7HdHZv) | 2:55 |
 | 50 | [O Mnie](https://open.spotify.com/track/7AI5cbuSwVEuhUQC72gDkb) | [Julia Bojur](https://open.spotify.com/artist/7yI5GTAddn0GBCRnDOpWPK), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [O Mnie](https://open.spotify.com/album/7Hi67vbgfJA1TL1cIPje3u) | 2:34 |
 
-Snapshot ID: `AAAAAA7OJuvna8k7cCr3j0ZNR4E6JOii`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

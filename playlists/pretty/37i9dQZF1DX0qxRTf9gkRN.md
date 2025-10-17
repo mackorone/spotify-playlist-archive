@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,540 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,571 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 65 | [Hold Fast](https://open.spotify.com/track/27adVOST2JyOcKGraInAzx) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:29 |
 | 66 | [Who's Gonna Take the Weight](https://open.spotify.com/track/3VdkcoeVKiWydgnLeZ8BYQ) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Got to Lose Your Way](https://open.spotify.com/album/5Xpbog4TVo7l5MC5kaSsCD) | 5:47 |
 | 67 | [Am I Your Woman? featuring Ria Currie](https://open.spotify.com/track/6NYN6qc0daOZdbPtQ2LUIV) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [Ria Currie](https://open.spotify.com/artist/5MtcVLWEb8v7SSrzpjiVsZ) | [Four Flights Up](https://open.spotify.com/album/2iCCjBP8D7IPuAf0PW2wqy) | 3:12 |
-| 68 | [Say It Again \(featuring CeCe Rogers\)](https://open.spotify.com/track/7fg0osIMedI7iVBZzKeuOk) | [Jestofunk](https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Love in a Black Dimension](https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc) | 5:45 |
+| 68 | [Say It Again](https://open.spotify.com/track/7fg0osIMedI7iVBZzKeuOk) | [Jestofunk](https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA) | [Love in a Black Dimension](https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc) | 5:45 |
 | 69 | [Live Without You](https://open.spotify.com/track/6ALfwwJfZKxnN2kjK3ngU1) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Ray Ray](https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl) | 4:49 |
 | 70 | [MRG](https://open.spotify.com/track/6sh7wSqZL1xDKWvo20qcYl) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Ten Years On](https://open.spotify.com/album/5Ippa7TZRnICT1d1Eewp3d) | 4:17 |
 

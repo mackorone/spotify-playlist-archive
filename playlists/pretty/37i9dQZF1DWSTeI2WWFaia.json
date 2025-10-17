@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1579743,
+  "num_followers": 1579679,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,26 @@
     {
       "added_at": "2025-10-10 04:07:26",
       "album": {
+        "name": "No Blemishes",
+        "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "No Blemishes",
+      "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
+    },
+    {
+      "added_at": "2025-10-10 04:07:26",
+      "album": {
         "name": "MadRaps",
         "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2025-10-10 04:07:26",
       "album": {
-        "name": "DeadStock",
-        "url": "https://open.spotify.com/album/7A2xLZSQRiSZWInw4fUoC0"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        }
-      ],
-      "duration_ms": 167894,
-      "name": "DeadStock",
-      "url": "https://open.spotify.com/track/69xH7PCfjipUSctvJj8c8C"
-    },
-    {
-      "added_at": "2025-10-10 04:07:26",
-      "album": {
         "name": "W!LD",
         "url": "https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV"
       },
@@ -835,22 +835,22 @@
     {
       "added_at": "2025-10-10 04:07:26",
       "album": {
-        "name": "No Blemishes",
-        "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
+        "name": "DeadStock",
+        "url": "https://open.spotify.com/album/7A2xLZSQRiSZWInw4fUoC0"
       },
       "artists": [
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         },
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
         }
       ],
-      "duration_ms": 166956,
-      "name": "No Blemishes",
-      "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
+      "duration_ms": 167894,
+      "name": "DeadStock",
+      "url": "https://open.spotify.com/track/69xH7PCfjipUSctvJj8c8C"
     },
     {
       "added_at": "2025-10-10 04:07:26",

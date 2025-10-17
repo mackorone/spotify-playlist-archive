@@ -11778,7 +11778,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 156069,
       "name": "DOLCE GABBANA",
       "url": "https://open.spotify.com/track/7r0sYhhoM4hjeuCDlbCobZ"
@@ -17113,6 +17113,28 @@
     },
     {
       "album": {
+        "name": "GANGO FREESTYLE",
+        "url": "https://open.spotify.com/album/7sTjFK8YBz5V0FFXUWmsgp"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132933,
+      "name": "GANGO FREESTYLE",
+      "url": "https://open.spotify.com/track/1iTFJX6an3woR8NRDuOBrW"
+    },
+    {
+      "album": {
         "name": "BABYSHARK",
         "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
       },
@@ -21284,7 +21306,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 206500,
       "name": "ISOS",
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
@@ -24196,7 +24218,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -27322,7 +27344,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 171705,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P"
@@ -33284,7 +33306,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 169696,
       "name": "OMERTA",
       "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
@@ -48176,7 +48198,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/3gOXiqKkGCE0TR31c2SONO"
@@ -49566,7 +49588,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

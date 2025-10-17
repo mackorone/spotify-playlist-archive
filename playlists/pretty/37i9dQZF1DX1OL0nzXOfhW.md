@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 慶祝全球RADAR 藝人突破 1千，回顧前RADAR 藝人歌曲，以及2025新聲！Cover: moon tang
+> 慶祝全球RADAR 藝人突破 1千，回顧前RADAR 藝人歌曲，以及2025新聲！Cover: Michael C
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,611 likes - 46 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,612 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 45 | [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 |
 | 46 | [Cardigan](https://open.spotify.com/track/4LsjTHKqcBJOifEcwGGtmA) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Cardigan](https://open.spotify.com/album/0wEn3maDNRTOSrHSKczgIP) | 3:51 |
 
-Snapshot ID: `AAAAANAOJ+uYn4XK7bYnbg//Qk2HydMV`
+Snapshot ID: `AAAAAE+nHOXmOIbvVTFVHY5LNACYJfmc`

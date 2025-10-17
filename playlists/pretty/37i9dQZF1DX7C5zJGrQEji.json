@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 9593,
+  "num_followers": 9620,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -427,30 +427,6 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "LETE AMBO - All We Need (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0OOupp3cXfV1RI6PR7ZFGk"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        },
-        {
-          "name": "JJ PAULO",
-          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "LETE AMBO - All We Need (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1bizefHeXZNNsBv3ucLbQc"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
         "name": "Make a Decision - Vorsen Remix (feat. NATURE)",
         "url": "https://open.spotify.com/album/6QLaFQY8lZx0RUYY15T3YP"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 227747,
       "name": "Make a Decision - Vorsen Remix (feat. NATURE)",
       "url": "https://open.spotify.com/track/14fNrAa0ksi2xBN6hkaFqj"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
+        "name": "LETE AMBO - All We Need (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0OOupp3cXfV1RI6PR7ZFGk"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        },
+        {
+          "name": "JJ PAULO",
+          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "LETE AMBO - All We Need (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1bizefHeXZNNsBv3ucLbQc"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -499,22 +499,26 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4lCf9D3zpFQR1VzOkmA96R"
+        "name": "Pending (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Anne M\u00fcller",
+          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
         }
       ],
-      "duration_ms": 242227,
-      "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0Igvv0J4XBf1v11srSggjI"
+      "duration_ms": 342400,
+      "name": "Pending (feat. NATURE)",
+      "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -543,46 +547,22 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Pending (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
+        "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4lCf9D3zpFQR1VzOkmA96R"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Anne M\u00fcller",
-          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "Pending (feat. NATURE)",
-      "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Bushes & Briars & Birds (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1gomiGaGoQyNBPC499WYHg"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 290677,
-      "name": "Bushes & Briars & Birds (feat. NATURE)",
-      "url": "https://open.spotify.com/track/103Ek8YLz0lq5APcFI3tqG"
+      "duration_ms": 242227,
+      "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0Igvv0J4XBf1v11srSggjI"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -603,6 +583,26 @@
       "duration_ms": 150272,
       "name": "Naima (feat. NATURE)",
       "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
+        "name": "Bushes & Briars & Birds (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1gomiGaGoQyNBPC499WYHg"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 290677,
+      "name": "Bushes & Briars & Birds (feat. NATURE)",
+      "url": "https://open.spotify.com/track/103Ek8YLz0lq5APcFI3tqG"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Lesser Spotted (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 202122,
-      "name": "Lesser Spotted (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
         "name": "Universal (feat. NATURE)",
         "url": "https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 280241,
       "name": "Universal (feat. NATURE)",
       "url": "https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
+        "name": "Lesser Spotted (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 202122,
+      "name": "Lesser Spotted (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -831,6 +831,26 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
+        "name": "Hot Dog on a Stick (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Hot Dog on a Stick (feat. NATURE)",
+      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
         "name": "Loved & Lost Reprise (feat. NATURE)",
         "url": "https://open.spotify.com/album/1MNmWztxAHe91S9W2ocyaL"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 274822,
       "name": "Loved & Lost Reprise (feat. NATURE)",
       "url": "https://open.spotify.com/track/5uold1wGpiF1Fj2monmTVP"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Hot Dog on a Stick (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
-      },
-      "artists": [
-        {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "Hot Dog on a Stick (feat. NATURE)",
-      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
+        "name": "Nightingale (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
+      },
+      "artists": [
+        {
+          "name": "Wildforms",
+          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 163408,
+      "name": "Nightingale (feat. NATURE)",
+      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
         "name": "We Can't Walk Away (feat. NATURE)",
         "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 241846,
       "name": "We Can't Walk Away (feat. NATURE)",
       "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Nightingale (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
-      },
-      "artists": [
-        {
-          "name": "Wildforms",
-          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 163408,
-      "name": "Nightingale (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
     },
     {
       "added_at": "2025-09-24 00:01:01",

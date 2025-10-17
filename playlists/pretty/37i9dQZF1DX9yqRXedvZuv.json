@@ -763,6 +763,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Talk 2 Me",
         "url": "https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 398207,
       "name": "Cartoon",
       "url": "https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "4NEM",
-        "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 248372,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk"
     },
     {
       "added_at": "2022-10-01 17:37:57",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2WEEKS",
+        "url": "https://open.spotify.com/album/4oPjjCabkWha6S9IDo3grt"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "2WEEKS",
+      "url": "https://open.spotify.com/track/4diACBEsDL3AXOeTjncXa8"
+    },
+    {
+      "album": {
         "name": "I'm Back",
         "url": "https://open.spotify.com/album/4kffUglXMYplYAIgeDpkfW"
       },
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 175652,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/0HDb9Qz3dtmHGoDIRtrInH"

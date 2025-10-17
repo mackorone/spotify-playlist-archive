@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Johnny Jane",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 204756,
       "name": "Jour vert",
       "url": "https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 172266,
       "name": "Merde \u00e0 La Mer",
       "url": "https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC"
@@ -4387,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "SANG D'ENCRE",
+        "url": "https://open.spotify.com/album/2BJ32JFsa2gkkoMYFuFo3R"
+      },
+      "artists": [
+        {
+          "name": "Potochkine",
+          "url": "https://open.spotify.com/artist/4g6krvxWpV8Uy11mt1hJnp"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Partir",
+      "url": "https://open.spotify.com/track/57VBmGojxzW7mOWe7IUX6s"
+    },
+    {
+      "album": {
         "name": "Pas Bourr\u00e9",
         "url": "https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97"
       },
@@ -4434,7 +4452,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 157466,
       "name": "PAS SI MAL",
       "url": "https://open.spotify.com/track/69VxTSW7uFiJDHPg01rk73"
@@ -4456,6 +4474,24 @@
       "duration_ms": 142773,
       "name": "PAVILLON NOIR",
       "url": "https://open.spotify.com/track/1pNtWzjaaBtYTcMq1oiwik"
+    },
+    {
+      "album": {
+        "name": "Pavillons r\u00e9sidentiels",
+        "url": "https://open.spotify.com/album/3I6cKDIXLEYPuhOyXKbS9N"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179380,
+      "name": "Pavillons r\u00e9sidentiels",
+      "url": "https://open.spotify.com/track/15z178WCmCpGL5FaSDQokZ"
     },
     {
       "album": {
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 128438,
       "name": "R\u00caVES",
       "url": "https://open.spotify.com/track/0cvQgykWnezK58jPRB8kBe"
@@ -6438,6 +6474,28 @@
       "duration_ms": 223466,
       "name": "Zero Box",
       "url": "https://open.spotify.com/track/7CcnzW8nPLBMg8PuNHdbj8"
+    },
+    {
+      "album": {
+        "name": "ZERO CONCESSIONS",
+        "url": "https://open.spotify.com/album/1zwxAZ1Arsiw91tx8akaC9"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
+        },
+        {
+          "name": "WEB",
+          "url": "https://open.spotify.com/artist/0vpkGPve4zar394BIrZOGh"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "ZERO CONCESSIONS",
+      "url": "https://open.spotify.com/track/43M9GigJSWVshPOKXpUkAZ"
     },
     {
       "album": {

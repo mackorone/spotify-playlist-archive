@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
-  "num_followers": 21816,
+  "num_followers": 21818,
   "original_name": "Top 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MIMQeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MIRfoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "Zub za zub",
         "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "SI JE*LA",
+        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "SI JE*LA",
+      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -53,23 +69,7 @@
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "SI JE*LA",
-        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "SI JE*LA",
-      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "Antarktida",
         "url": "https://open.spotify.com/album/5Lqf0bTrNHE8eayjDEP7EO"
@@ -89,75 +89,7 @@
       "url": "https://open.spotify.com/track/1IeSKALeTrDx7H17xqxlXT"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NEVIEM",
-        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "SpecialBeatz",
-          "url": "https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Nehaj tak",
-      "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NO.1",
-        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
-      },
-      "artists": [
-        {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Be\u0165\u00e1r",
-      "url": "https://open.spotify.com/track/0DsUzxvnlhiRr4c0m8j15P"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        }
-      ],
-      "duration_ms": 135283,
-      "name": "Ups and downs",
-      "url": "https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -177,7 +109,7 @@
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -188,88 +120,48 @@
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "SMART",
-          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
-        },
-        {
-          "name": "Dame",
-          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+          "name": "SpecialBeatz",
+          "url": "https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe"
         }
       ],
-      "duration_ms": 295880,
-      "name": "AENE",
-      "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
+      "duration_ms": 211040,
+      "name": "Nehaj tak",
+      "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
         }
       ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+      "duration_ms": 135283,
+      "name": "Ups and downs",
+      "url": "https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "HAYABUSA",
-        "url": "https://open.spotify.com/album/00s38ogQKB2FM7HhiTQTfz"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "HAYABUSA",
-      "url": "https://open.spotify.com/track/4Es9Odl5pS4pNWLiHyZMyh"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NEVIEM",
-        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Sawsane",
-          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Tras tou",
-      "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -293,10 +185,10 @@
       "url": "https://open.spotify.com/track/2M9vtafpahKq5FxGAFwAzy"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "FLOWDEMORT",
-        "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
       },
       "artists": [
         {
@@ -304,20 +196,108 @@
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "Jerry Lee",
-          "url": "https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg"
-        },
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+          "name": "Sawsane",
+          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
+      "duration_ms": 215013,
+      "name": "Tras tou",
+      "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "duration_ms": 295880,
+      "name": "AENE",
+      "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "In\u00e9 Plemen\u00e1",
+      "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/00s38ogQKB2FM7HhiTQTfz"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "HAYABUSA",
+      "url": "https://open.spotify.com/track/4Es9Odl5pS4pNWLiHyZMyh"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NO.1",
         "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
@@ -328,12 +308,36 @@
           "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
         }
       ],
-      "duration_ms": 193749,
-      "name": "Bubamaro",
-      "url": "https://open.spotify.com/track/0WaXn3usGGXu27SQUncBlZ"
+      "duration_ms": 158117,
+      "name": "Be\u0165\u00e1r",
+      "url": "https://open.spotify.com/track/0DsUzxvnlhiRr4c0m8j15P"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "VOJNA",
+        "url": "https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "NENI STRE$S",
+      "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -361,51 +365,31 @@
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+        "name": "FLOWDEMORT",
+        "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
       },
       "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "In\u00e9 Plemen\u00e1",
-      "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "VOJNA",
-        "url": "https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
         {
           "name": "Separ",
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Jerry Lee",
+          "url": "https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 169811,
-      "name": "NENI STRE$S",
-      "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
+      "duration_ms": 155520,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -421,7 +405,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -441,7 +425,7 @@
       "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -473,95 +457,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NO.1",
-        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
-      },
-      "artists": [
-        {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        }
-      ],
-      "duration_ms": 197553,
-      "name": "Mascarpone",
-      "url": "https://open.spotify.com/track/4j61bGvRw1yrAes95mJOXy"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Matej Turcer",
-          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
-        }
-      ],
-      "duration_ms": 281346,
-      "name": "Cigarety",
-      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NO.1",
-        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
-      },
-      "artists": [
-        {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        }
-      ],
-      "duration_ms": 173584,
-      "name": "X",
-      "url": "https://open.spotify.com/track/3uY48oGY8smkbJRgOy5FB7"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "KARAKORAM",
-        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 190477,
-      "name": "SNAD SE TAM NEBUDE ST\u0158\u00cdLET",
-      "url": "https://open.spotify.com/track/73hzR72ya2MX8cyCX7qMSY"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NO.1",
-        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
-      },
-      "artists": [
-        {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        },
-        {
-          "name": "guapanova",
-          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Nonchalant",
-      "url": "https://open.spotify.com/track/4XU4LU7T0b6hSxqSa2AweW"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -585,7 +481,23 @@
       "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 190477,
+      "name": "SNAD SE TAM NEBUDE ST\u0158\u00cdLET",
+      "url": "https://open.spotify.com/track/73hzR72ya2MX8cyCX7qMSY"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "DOVIDENIA",
         "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
@@ -605,27 +517,27 @@
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Matej Turcer",
+          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
         }
       ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+      "duration_ms": 281346,
+      "name": "Cigarety",
+      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -641,7 +553,7 @@
       "url": "https://open.spotify.com/track/3kGZG7KKmJmJV85JtDAUwn"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -661,27 +573,27 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "NO.1",
-        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/28OcVpm0jAxMVQscCTjNvm"
       },
       "artists": [
         {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+          "name": "Nerie\u0161",
+          "url": "https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN"
         },
         {
-          "name": "Adam Oxx",
-          "url": "https://open.spotify.com/artist/5zaUYb03f7oIDn6iQXrYi1"
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         }
       ],
-      "duration_ms": 255483,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/6mFGZ2mc5BE0ERyLHyCoc9"
+      "duration_ms": 212727,
+      "name": "Viac",
+      "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NO.1",
         "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
@@ -692,12 +604,88 @@
           "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Plug",
-      "url": "https://open.spotify.com/track/45SCTVY34sBolvuqG7u0AP"
+      "duration_ms": 193749,
+      "name": "Bubamaro",
+      "url": "https://open.spotify.com/track/0WaXn3usGGXu27SQUncBlZ"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "10 Min\u00fat",
+        "url": "https://open.spotify.com/album/1ovrFGljkAvRIYRuLjsmlG"
+      },
+      "artists": [
+        {
+          "name": "Nerie\u0161",
+          "url": "https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN"
+        },
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 331849,
+      "name": "10 Min\u00fat",
+      "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 97717,
+      "name": "BIG STEPPER",
+      "url": "https://open.spotify.com/track/6TF0zzItoEon7cjWN9XRhf"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
+      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -725,39 +713,7 @@
       "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "KARAKORAM",
-        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 97717,
-      "name": "BIG STEPPER",
-      "url": "https://open.spotify.com/track/6TF0zzItoEon7cjWN9XRhf"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "NO.1",
-        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
-      },
-      "artists": [
-        {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        }
-      ],
-      "duration_ms": 153090,
-      "name": "Bozk",
-      "url": "https://open.spotify.com/track/4PjnIGvwJ31yRjlmg4aId4"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -773,27 +729,23 @@
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+        "name": "Young Italo",
+        "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
-      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
+      "duration_ms": 142417,
+      "name": "22",
+      "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "TY A JA",
         "url": "https://open.spotify.com/album/379fJvRCADB40d3C7Lcauk"
@@ -817,7 +769,23 @@
       "url": "https://open.spotify.com/track/2xR7lQvCRF53gYz7H8IZfD"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "TINTED WINDOWS",
+      "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NO.1",
         "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
@@ -828,12 +796,12 @@
           "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
         }
       ],
-      "duration_ms": 148571,
-      "name": "S\u00e1m Doma",
-      "url": "https://open.spotify.com/track/404q7HSsCTbq5MMVzXjKzr"
+      "duration_ms": 173584,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3uY48oGY8smkbJRgOy5FB7"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "NO.1",
         "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
@@ -842,54 +810,14 @@
         {
           "name": "13K",
           "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        },
-        {
-          "name": "guapanova",
-          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Yummy Yummy",
-      "url": "https://open.spotify.com/track/0lEYlLjsdgNEzYNkMovTql"
+      "duration_ms": 197553,
+      "name": "Mascarpone",
+      "url": "https://open.spotify.com/track/4j61bGvRw1yrAes95mJOXy"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "GLOBAL",
-        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "NARCOS",
-      "url": "https://open.spotify.com/track/5HVr2Ay42xJgB2VZ7CUJQJ"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
         "name": "D\u017eanes",
         "url": "https://open.spotify.com/album/6ZwgDcwUzY7OH1EI1L1RwI"
@@ -905,84 +833,164 @@
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "NEVIEM",
-        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+        "name": "S l\u00e1skou, Luk\u00e1\u0161.",
+        "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
       },
       "artists": [
         {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
         },
-        {
-          "name": "Ani\u010dka",
-          "url": "https://open.spotify.com/artist/3WP2gRW5lXhZ7MgWl0ENTL"
-        },
-        {
-          "name": "Danvin",
-          "url": "https://open.spotify.com/artist/2uV1gWSIlUijLR26mAu7xn"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Krv neni voda",
-      "url": "https://open.spotify.com/track/1lrKSZBEhQMJeM551eP71g"
-    },
-    {
-      "added_at": "2025-10-15 14:07:26",
-      "album": {
-        "name": "Barvy",
-        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
-      },
-      "artists": [
         {
           "name": "Viktor Sheen",
           "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 211891,
-      "name": "Rozd\u011blen\u00fd sv\u011bty",
-      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
+      "duration_ms": 204600,
+      "name": "Inverzia",
+      "url": "https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+        "name": "F*CK MAKEUP",
+        "url": "https://open.spotify.com/album/4Mssat0xqAYGAZGwy7ws74"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
         },
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
+      "duration_ms": 170361,
+      "name": "bADBADBAD",
+      "url": "https://open.spotify.com/track/1FN6kE42qSzmn0sZ6AcCLL"
     },
     {
-      "added_at": "2025-10-15 14:07:26",
+      "added_at": "2025-10-16 15:15:09",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/28OcVpm0jAxMVQscCTjNvm"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Nerie\u0161",
-          "url": "https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "Ready \u010di ne!?",
+        "url": "https://open.spotify.com/album/2kaERG2KONwoQSwTzbUvlb"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        },
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        }
+      ],
+      "duration_ms": 157947,
+      "name": "Ready \u010di ne!?",
+      "url": "https://open.spotify.com/track/7BYzdtr7IDLBxe81Wwat8n"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "G WAGON",
+      "url": "https://open.spotify.com/track/4Y77GxNpAS16bGOVDwzagb"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "NO.1",
+        "url": "https://open.spotify.com/album/4oETpHKZBHTbZmSUcreNw8"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        },
+        {
+          "name": "guapanova",
+          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/4XU4LU7T0b6hSxqSa2AweW"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "brat",
+        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
         },
         {
           "name": "Separ",
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Viac",
-      "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
+      "duration_ms": 184615,
+      "name": "medelin",
+      "url": "https://open.spotify.com/track/4KmnwhIOSh9zZRzTUJGsY4"
+    },
+    {
+      "added_at": "2025-10-16 15:15:09",
+      "album": {
+        "name": "BENIHANA",
+        "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
+        {
+          "name": "GABRIELL",
+          "url": "https://open.spotify.com/artist/1R9DUv3WqRNJKHrNTs53eM"
+        }
+      ],
+      "duration_ms": 171722,
+      "name": "AM4",
+      "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
     }
   ],
   "unique_name": "Top 50 - Slovakia",

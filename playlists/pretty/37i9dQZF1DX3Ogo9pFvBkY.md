@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,295 likes - 219 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,315 likes - 219 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 218 | [Echoes Divided](https://open.spotify.com/track/14k8ejDpD3MNTzpYhUjKTN) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Echoes Divided](https://open.spotify.com/album/7i5F1CLSgsFpYqEJLQQ4MS) | 2:34 |
 | 219 | [Felt Stillness](https://open.spotify.com/track/0rN82whOfGjF8hXUTqx2f1) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [Felt Stillness](https://open.spotify.com/album/6wBd9SszQxGILvijlFA8Z2) | 2:32 |
 
-Snapshot ID: `AAAAAFMvf2eypTBX8xP8GjYBLxDPmt20`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

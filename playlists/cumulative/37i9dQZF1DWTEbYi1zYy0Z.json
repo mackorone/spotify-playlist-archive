@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 244270,
       "name": "Can You Stand the Rain",
       "url": "https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR"
@@ -5253,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "Live n' Learn (Radio Version)",
+        "url": "https://open.spotify.com/album/7dIZbHJbukXGYrb2Xh3rOn"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225899,
+      "name": "Live n' Learn - Radio Version",
+      "url": "https://open.spotify.com/track/3hUHWDxeEwa80JKIMMVYGZ"
+    },
+    {
+      "album": {
         "name": "Living A Dream",
         "url": "https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km"
       },
@@ -7292,7 +7310,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 227197,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/1fZsFEOuUwJ46AMglQgtF9"
@@ -8894,6 +8912,28 @@
       "duration_ms": 256372,
       "name": "The Bounce",
       "url": "https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02"
+    },
+    {
+      "album": {
+        "name": "The Diamond",
+        "url": "https://open.spotify.com/album/0C3ntqClW5078JX1je6doc"
+      },
+      "artists": [
+        {
+          "name": "Steve Bach",
+          "url": "https://open.spotify.com/artist/3D5yBvdAeYy4tUd7hHXCzS"
+        },
+        {
+          "name": "Alisha Pattillo",
+          "url": "https://open.spotify.com/artist/3gT1IaoSPIqTItiykIp5uU"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222565,
+      "name": "The Diamond",
+      "url": "https://open.spotify.com/track/7fqZbjcr0ZHxckKZNlW76v"
     },
     {
       "album": {

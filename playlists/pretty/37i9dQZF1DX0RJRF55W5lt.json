@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 609734,
+  "num_followers": 609792,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67"
+      },
+      "artists": [
+        {
+          "name": "95 North",
+          "url": "https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV"
+        }
+      ],
+      "duration_ms": 439746,
+      "name": "Let Yourself Go - Capitol Mix",
+      "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Oh Boy",
         "url": "https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Let Yourself Go",
-        "url": "https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67"
+        "name": "Smack Da House Vol.2",
+        "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
       },
       "artists": [
         {
-          "name": "95 North",
-          "url": "https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV"
+          "name": "Janet Rushmore",
+          "url": "https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU"
         }
       ],
-      "duration_ms": 439746,
-      "name": "Let Yourself Go - Capitol Mix",
-      "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
+      "duration_ms": 329866,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1175,22 +1191,6 @@
       "duration_ms": 324096,
       "name": "Jump to It",
       "url": "https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Smack Da House Vol.2",
-        "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
-      },
-      "artists": [
-        {
-          "name": "Janet Rushmore",
-          "url": "https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU"
-        }
-      ],
-      "duration_ms": 329866,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Pure Garage Reload - The Very Best Of Old Skool Garage",
-        "url": "https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN"
       },
       "artists": [
         {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+          "name": "Monsta Boy",
+          "url": "https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE"
         }
       ],
-      "duration_ms": 341413,
-      "name": "Imagine - Asylum Remix",
-      "url": "https://open.spotify.com/track/7cQjdDB3ihCB7awAOZcfuE"
+      "duration_ms": 250160,
+      "name": "Sorry! (Didn't Know) [Original Radio Edit]",
+      "url": "https://open.spotify.com/track/1ElsvWNXbo3jXs4OuakQLn"
     }
   ],
   "unique_name": "UK Garage Classics",

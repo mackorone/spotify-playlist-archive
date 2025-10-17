@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,126 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,128 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 9 | [Còn Thương Rau Đắng Mọc Sau Hè](https://open.spotify.com/track/1BkvNL3TRshjUdIP44ijnH) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:02 |
 | 10 | [Cây Cầu Dừa](https://open.spotify.com/track/7xAaW7s7YL9GkotKdafxSj) | [Mỹ Linh](https://open.spotify.com/artist/7Mu6GaiwzYNogLeASTtMS1) | [Dáng Đứng Bến Tre](https://open.spotify.com/album/6G1D8elaiKqNRD4gU7AG8p) | 5:43 |
 | 11 | [Ngợi Ca Quê Hương](https://open.spotify.com/track/2g9r5sk4BskWYjZGBMnWks) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Hẹn Một Mùa Xuân](https://open.spotify.com/album/3l5r6RHKTImEGEkmSSwLdQ) | 4:07 |
-| 12 | [Rước Tình Về Với Quê Hương](https://open.spotify.com/track/5ylXo4mtv7pXu7I2mHwCaD) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0), [Quốc Đại](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Tuyệt Phẩm Hoàng Thi Thơ](https://open.spotify.com/album/2RlLrRz6I6cwIKKAfdmmeU) | 3:56 |
+| 12 | [Rước Tình Về Với Quê Hương](https://open.spotify.com/track/5ylXo4mtv7pXu7I2mHwCaD) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0) | [Tuyệt Phẩm Hoàng Thi Thơ](https://open.spotify.com/album/2RlLrRz6I6cwIKKAfdmmeU) | 3:56 |
 | 13 | [Đường Về Quê Hương](https://open.spotify.com/track/71kpV242QAZolUIsSTtwx6) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V), [Star Online](https://open.spotify.com/artist/5Qzi0GVschWzBUeMBLaQax), [Huỳnh Thật](https://open.spotify.com/artist/2E7mwvUFOVcLekLQ5pcCtH) | [Đường Về Hai Thôn](https://open.spotify.com/album/4OGX8J9I12cXXwKundHFL2) | 5:09 |
 | 14 | [Tự Tình Quê Hương \(feat\. Hoàng Linh\)](https://open.spotify.com/track/3xTNAlqNRIEhSGFG8LNEVE) | [Mai Trung Hậu](https://open.spotify.com/artist/6wFqZ7cC3c75LZezYnHRfe), [Hoàng Linh](https://open.spotify.com/artist/0Tdqo5pZilxbYW1YstvH3l) | [Ninh Kiều Là Em](https://open.spotify.com/album/7BMbP2pOj5GNfD2gB5oJMt) | 4:43 |
 | 15 | [Phu Thê Vẹn Thề](https://open.spotify.com/track/3xQ9yF3DiKeTmktYVuK0e8) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Phu Thê Vẹn Thề](https://open.spotify.com/album/03Dojiq4xMrBEOx4J1a1Lw) | 3:31 |

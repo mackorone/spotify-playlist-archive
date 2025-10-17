@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 
 > Music from "Ranking of Kings" /「王様ランキング」の楽曲を1つのプレイリストで。© 十日草輔・KADOKAWA刊／アニメ「王様ランキング 勇気の宝箱」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,183 likes - 40 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,189 likes - 40 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con TRISTÁN! en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,159 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,264 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
 | 2 | [Quién Pensaría](https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ) | 3:32 |
-| 3 | [Todo Da Igual](https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DSxBB](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:42 |
+| 3 | [Todo Da Igual](https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DepresionTrickz](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:42 |
 | 4 | [Enhierbado](https://open.spotify.com/track/1WYJ7vr7z2QNjV2dPprnce) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Enhierbado/Estrellas](https://open.spotify.com/album/0PFBqJKm7ZLtryteE0PPxw) | 1:54 |
 | 5 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
 | 6 | [frenas](https://open.spotify.com/track/76lfpkdpqNwLjAsOpzcKKr) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [frenas](https://open.spotify.com/album/6APQW90Wb5DLzX0GdeHI9h) | 2:46 |

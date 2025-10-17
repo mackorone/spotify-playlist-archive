@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tKzjxaqjVq.md) - [plain]
 
 > Enjoy music from "Shangri\-La Frontier"!©硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,543 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,553 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

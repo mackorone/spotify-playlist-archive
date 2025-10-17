@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: CHEEV",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 180895,
       "name": "Bird of Pray - Eurovision 2025",
       "url": "https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn"
@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "GRISANA",
+          "url": "https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "GAZ",
+      "url": "https://open.spotify.com/track/7vAqHxf3p7SC1h3ljtAYWz"
+    },
+    {
+      "album": {
         "name": "Genesis.",
         "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
       },
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 217322,
       "name": "If you know what I mean",
       "url": "https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC"
@@ -2890,6 +2908,24 @@
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
+    },
+    {
+      "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
       "album": {
@@ -4235,6 +4271,28 @@
     },
     {
       "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/6pC6OtjTUkKArTbXve5uls"
+      },
+      "artists": [
+        {
+          "name": "Olya Polyakova",
+          "url": "https://open.spotify.com/artist/5hpfP3fMcBFgQyTEpo19tl"
+        },
+        {
+          "name": "The Fourth Choir",
+          "url": "https://open.spotify.com/artist/5taVVXabvK7X90KZqGA5X5"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208013,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/7l18AWN3ri1RlZAijyZaAu"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -4402,7 +4460,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
@@ -4442,7 +4500,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 221538,
       "name": "ZORYA",
       "url": "https://open.spotify.com/track/1SwKzfF8uLsF9np5YkEouS"
@@ -4548,6 +4606,24 @@
       "duration_ms": 165028,
       "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u"
+    },
+    {
+      "album": {
+        "name": "\u0410\u041b\u041b\u041e, \u041f\u0406\u0414\u0422\u0420\u0418\u041c\u041a\u0410!",
+        "url": "https://open.spotify.com/album/4v1c1k6Bwbi90X7E4Zqlzr"
+      },
+      "artists": [
+        {
+          "name": "KAZKA",
+          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "\u0410\u041b\u041b\u041e, \u041f\u0406\u0414\u0422\u0420\u0418\u041c\u041a\u0410!",
+      "url": "https://open.spotify.com/track/0jxCLaLYe3DhFnunYmI000"
     },
     {
       "album": {
@@ -4982,7 +5058,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 202590,
       "name": "\u0413\u0430\u043b\u0456\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr"
@@ -5022,6 +5098,24 @@
       "duration_ms": 167213,
       "name": "\u0413\u043e\u043b\u0438\u043c\u0438",
       "url": "https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0440\u0430 \u0432 \u0431\u0456\u0441\u0435\u0440",
+        "url": "https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0445\u043e\u0436\u0430",
+          "url": "https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226127,
+      "name": "\u0413\u0440\u0430 \u0432 \u0431\u0456\u0441\u0435\u0440",
+      "url": "https://open.spotify.com/track/2q3eKvb9SfULxe9eUDBU8k"
     },
     {
       "album": {
@@ -5638,7 +5732,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 230082,
       "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
       "url": "https://open.spotify.com/track/0rV1Xyj5FyaGz3HyndDUJe"
@@ -6648,7 +6742,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 161342,
       "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW"
@@ -6732,6 +6826,24 @@
       "duration_ms": 233142,
       "name": "\u041e\u0434\u0456\u0441\u0441\u0435\u044f",
       "url": "https://open.spotify.com/track/2vj3T8bFc0YGgv4Sut9eSS"
+    },
+    {
+      "album": {
+        "name": "\u041e\u043b\u0454\u0433",
+        "url": "https://open.spotify.com/album/03mogkoZptRRxqS2ZM5KUk"
+      },
+      "artists": [
+        {
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216260,
+      "name": "\u041e\u043b\u0454\u0433",
+      "url": "https://open.spotify.com/track/3xu4eTfr6ZQbCtel88ZTT3"
     },
     {
       "album": {
@@ -7554,6 +7666,24 @@
       "duration_ms": 141639,
       "name": "\u0422\u0432\u0456\u0439",
       "url": "https://open.spotify.com/track/1mi9mNkMsFPsxr2tj19mdP"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "CHEEV",
+          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193608,
+      "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
+      "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
     },
     {
       "album": {

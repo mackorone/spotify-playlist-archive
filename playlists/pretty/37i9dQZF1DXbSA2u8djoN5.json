@@ -1,15 +1,15 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Katarina, RAVA",
-  "num_followers": 21961,
+  "num_followers": 21964,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsynFyNLO/C6UPXo4EmjKmPM3pN",
+  "snapshot_id": "AAAAAHoEuL8QrjraxD8oZnQ2IlAMPPfx",
   "tracks": [
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
@@ -29,7 +29,47 @@
       "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Arunca-ma La Lei",
+        "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        }
+      ],
+      "duration_ms": 152144,
+      "name": "Arunca-ma La Lei",
+      "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "G\u00e2ndul",
         "url": "https://open.spotify.com/album/64bxzzhQGgdtT1wlhJqIjg"
@@ -49,7 +89,7 @@
       "url": "https://open.spotify.com/track/1oQeyBWKXUd56oq0nnHTjF"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Contra timp",
         "url": "https://open.spotify.com/album/4rOIsUkbQ8c6AnAZyuCwpb"
@@ -73,47 +113,103 @@
       "url": "https://open.spotify.com/track/0wHZ9isU3z52IdADk0oE1u"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
-        "name": "Arunca-ma La Lei",
-        "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
+        "name": "POR LA PLATA Y POR AMOR",
+        "url": "https://open.spotify.com/album/6lFbYVI9jdwkChJSbezr20"
       },
       "artists": [
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Demonio",
+      "url": "https://open.spotify.com/track/1HRHeBfLF7gVLbwY1wgprT"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Mana sus",
+        "url": "https://open.spotify.com/album/3oX6rRdKN2qgnMoEKPW7vd"
+      },
+      "artists": [
+        {
+          "name": "Mutu",
+          "url": "https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP"
         },
+        {
+          "name": "El Nino",
+          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Mana sus",
+      "url": "https://open.spotify.com/track/6pLmtX4CSfb4UUOnBQcNAB"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Ban pe Ban",
+        "url": "https://open.spotify.com/album/0lv7EdkwtxiIkcfEsC3AqV"
+      },
+      "artists": [
         {
           "name": "Badd G",
           "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
         }
       ],
-      "duration_ms": 152144,
-      "name": "Arunca-ma La Lei",
-      "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
+      "duration_ms": 153750,
+      "name": "Ban pe Ban",
+      "url": "https://open.spotify.com/track/1YEbuT9xk8OFosKMbmydsd"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
-        "name": "Simte",
-        "url": "https://open.spotify.com/album/3e5Wht9D1L5SgXTZQIoD9o"
+        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
+        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
       },
       "artists": [
         {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/7uBIScqbA038YBTjqj6Lj9"
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
         },
         {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         }
       ],
-      "duration_ms": 177391,
-      "name": "Simte",
-      "url": "https://open.spotify.com/track/5qONFl5brhuJH28OSpJvwC"
+      "duration_ms": 193481,
+      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
+      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5WsjGoul8g6JVqxtY6DGvj"
+      },
+      "artists": [
+        {
+          "name": "CRBL",
+          "url": "https://open.spotify.com/artist/6J1tX83VM6Yf5d2Gx79fFP"
+        },
+        {
+          "name": "AMV kids",
+          "url": "https://open.spotify.com/artist/4HfpwI0ZuEcZ6yMFgMNgbA"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Bunny",
+      "url": "https://open.spotify.com/track/12FuS4cKKxAsg6gDCqVNPZ"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
@@ -137,7 +233,7 @@
       "url": "https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/6ly7J4IaZl1bvYRL9htjfz"
@@ -157,87 +253,7 @@
       "url": "https://open.spotify.com/track/5NLfIFyx4csoftlFerjuVr"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Ban pe Ban",
-        "url": "https://open.spotify.com/album/0lv7EdkwtxiIkcfEsC3AqV"
-      },
-      "artists": [
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        },
-        {
-          "name": "VANILLA",
-          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Ban pe Ban",
-      "url": "https://open.spotify.com/track/1YEbuT9xk8OFosKMbmydsd"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
-        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
-      },
-      "artists": [
-        {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 193481,
-      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
-      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/5WsjGoul8g6JVqxtY6DGvj"
-      },
-      "artists": [
-        {
-          "name": "CRBL",
-          "url": "https://open.spotify.com/artist/6J1tX83VM6Yf5d2Gx79fFP"
-        },
-        {
-          "name": "AMV kids",
-          "url": "https://open.spotify.com/artist/4HfpwI0ZuEcZ6yMFgMNgbA"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Bunny",
-      "url": "https://open.spotify.com/track/12FuS4cKKxAsg6gDCqVNPZ"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Hai S\u0103 Recunoa\u0219tem",
-        "url": "https://open.spotify.com/album/1ehTMIKjhF1p4w5V3mfnlF"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        },
-        {
-          "name": "Guess Who",
-          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Hai S\u0103 Recunoa\u0219tem",
-      "url": "https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Sa MM Care Pleaca",
         "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "ultima (noapte)",
         "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "ANGELINA JOLIE",
         "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
@@ -313,43 +329,27 @@
       "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
-        "name": "Indiferent",
-        "url": "https://open.spotify.com/album/3XKeSGuM4gaeGy0quo9kR7"
+        "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
+        "url": "https://open.spotify.com/album/5UR6KeCOEX1cZBegHCdw2Y"
       },
       "artists": [
         {
-          "name": "Cortes",
-          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Indiferent",
-      "url": "https://open.spotify.com/track/0eYFbFU7DnPc3KZBlGwKRB"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "ALTCEVA",
-        "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
-      },
-      "artists": [
-        {
-          "name": "Simiz",
-          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
         },
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Olga Verbitchi",
+          "url": "https://open.spotify.com/artist/6ix59NE6NtKnRyZ45N5RV4"
         }
       ],
-      "duration_ms": 186300,
-      "name": "ALTCEVA",
-      "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
+      "duration_ms": 132858,
+      "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
+      "url": "https://open.spotify.com/track/7G8lU0MR2PW7co59XRC5VB"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Rapper pana gasesc un job serios",
         "url": "https://open.spotify.com/album/5iVZCzBpqzpaXE25k4kLxi"
@@ -369,43 +369,7 @@
       "url": "https://open.spotify.com/track/0KqldOyqf87zR2rail9Yxi"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Trec anotimpuri",
-        "url": "https://open.spotify.com/album/0aKBKQTaeCbJktG2j6TM0E"
-      },
-      "artists": [
-        {
-          "name": "Mutu",
-          "url": "https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP"
-        },
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Trec anotimpuri",
-      "url": "https://open.spotify.com/track/2qmWyEX2XnqbLiQMwgQv5M"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "LOW",
-        "url": "https://open.spotify.com/album/4Yb403Ymz3YVqXzzYFGmQR"
-      },
-      "artists": [
-        {
-          "name": "LENO",
-          "url": "https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "LOW",
-      "url": "https://open.spotify.com/track/5qhFfNMoWGDamD7SPsxqpe"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Voila",
         "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
@@ -425,39 +389,63 @@
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
-        "name": "X6",
-        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+        "name": "LOW",
+        "url": "https://open.spotify.com/album/4Yb403Ymz3YVqXzzYFGmQR"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "LENO",
+          "url": "https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq"
         }
       ],
-      "duration_ms": 149000,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
+      "duration_ms": 172137,
+      "name": "LOW",
+      "url": "https://open.spotify.com/track/5qhFfNMoWGDamD7SPsxqpe"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
-        "name": "Cifre",
-        "url": "https://open.spotify.com/album/1mxnibwrRn1PJnDXBgPN7S"
+        "name": "ALTCEVA",
+        "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
       },
       "artists": [
         {
-          "name": "Cortes",
-          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+          "name": "Simiz",
+          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 170181,
-      "name": "Cifre",
-      "url": "https://open.spotify.com/track/43OpZsxVIEQTrKjjUX3Fn6"
+      "duration_ms": 186300,
+      "name": "ALTCEVA",
+      "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Bani & Pl\u0103ceri",
+        "url": "https://open.spotify.com/album/1o3Q9UEsSCjFn8TDvHfWS7"
+      },
+      "artists": [
+        {
+          "name": "Swisher",
+          "url": "https://open.spotify.com/artist/4rAlBmNtLmd50W0mHbTW9n"
+        },
+        {
+          "name": "SEVEN",
+          "url": "https://open.spotify.com/artist/0gY0xqBydHZ18MMEE4FJ4J"
+        }
+      ],
+      "duration_ms": 178837,
+      "name": "Bani & Pl\u0103ceri",
+      "url": "https://open.spotify.com/track/4OvMCOrWB9vFN6UIGtpoL8"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Antidot",
         "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
@@ -477,27 +465,7 @@
       "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Asta-i \u021aara Mea",
-        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        },
-        {
-          "name": "Vasile Advahov",
-          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
-        }
-      ],
-      "duration_ms": 169711,
-      "name": "Asta-i \u021aara Mea",
-      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "PLAYBOY CITY",
         "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
@@ -517,7 +485,63 @@
       "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "la bine, la greu",
+        "url": "https://open.spotify.com/album/1q4nAgDv7PoQGOzAHTclsr"
+      },
+      "artists": [
+        {
+          "name": "Stefan Costea",
+          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
+        },
+        {
+          "name": "Alex Bittman",
+          "url": "https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "la bine, la greu",
+      "url": "https://open.spotify.com/track/3BIRQdSovHDyMpuvM1O3Zd"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "X6",
+        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Asta-i \u021aara Mea",
+        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Vasile Advahov",
+          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
+        }
+      ],
+      "duration_ms": 169711,
+      "name": "Asta-i \u021aara Mea",
+      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Direct din Tei",
         "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
@@ -533,23 +557,27 @@
       "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
-        "name": "Ofiter la pamant",
-        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Ofiter la pamant",
-      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
@@ -573,7 +601,23 @@
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Ofiter la pamant",
+        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ofiter la pamant",
+      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Corina",
         "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
@@ -593,27 +637,7 @@
       "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "HE$OYAM",
-        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "OCHI ALBA\u0218TRI",
         "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
@@ -633,7 +657,43 @@
       "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "PESTE TOT",
+        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "PESTE TOT",
+      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
+      "album": {
+        "name": "Hai S\u0103 Recunoa\u0219tem",
+        "url": "https://open.spotify.com/album/1ehTMIKjhF1p4w5V3mfnlF"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Hai S\u0103 Recunoa\u0219tem",
+      "url": "https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv"
+    },
+    {
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Twinnin",
         "url": "https://open.spotify.com/album/4Xu6t9blgQ7OT5YNiYAk1W"
@@ -653,7 +713,7 @@
       "url": "https://open.spotify.com/track/1GR0oEHQKR8GcWL3tE1PQ5"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Selfmade",
         "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
@@ -677,7 +737,7 @@
       "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Morgana",
         "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
@@ -693,23 +753,7 @@
       "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "PESTE TOT",
-        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "PESTE TOT",
-      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Lumea toat\u0103",
         "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
@@ -729,7 +773,7 @@
       "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Deliric X Silent Strike III",
         "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
@@ -753,7 +797,7 @@
       "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
@@ -777,7 +821,7 @@
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Toata lumea moare",
         "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
@@ -793,7 +837,7 @@
       "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Copiii Care Am Fost",
         "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
@@ -813,7 +857,7 @@
       "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F"
@@ -837,7 +881,7 @@
       "url": "https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
@@ -873,7 +917,7 @@
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Tu, M\u0103rie!",
         "url": "https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr"
@@ -889,7 +933,7 @@
       "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Grinch",
         "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
@@ -909,7 +953,7 @@
       "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Erupt",
         "url": "https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf"
@@ -929,7 +973,7 @@
       "url": "https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Moldova \u0219i Bucovina",
         "url": "https://open.spotify.com/album/0kaoHTY5ou0c1ik4d5l6bx"
@@ -945,23 +989,7 @@
       "url": "https://open.spotify.com/track/0VbHmj9I3Tweest7BWSOT2"
     },
     {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Neinlocuibila",
-        "url": "https://open.spotify.com/album/1ZtB8vR0jQ7PRSvTMfaV3o"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Neinlocuibila",
-      "url": "https://open.spotify.com/track/5JouYzY9AdUQUHya0CGY0H"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
+      "added_at": "2025-10-16 21:00:29",
       "album": {
         "name": "Ochii",
         "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
@@ -975,26 +1003,6 @@
       "duration_ms": 196000,
       "name": "Ochii",
       "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
-    },
-    {
-      "added_at": "2025-10-09 21:00:31",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
-      },
-      "artists": [
-        {
-          "name": "Endru",
-          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Poate",
-      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
     }
   ],
   "unique_name": "Suflet + Sunet",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Joe L  Barnes and Limboblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,433 likes - 58 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,474 likes - 58 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

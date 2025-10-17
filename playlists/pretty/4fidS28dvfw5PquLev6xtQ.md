@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > YES SUN KIL MOON YESS SUNN KILL MOON ☠️ \(72\-75\)
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 43 likes - 99 songs - 13 hr 0 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 44 likes - 99 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

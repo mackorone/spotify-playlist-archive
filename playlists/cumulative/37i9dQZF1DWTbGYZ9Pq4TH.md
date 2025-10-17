@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-260 songs - 16 hr 43 min
+261 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2021-09-26 |  |
 | [Il coraggio di andare \(feat\. Biagio Antonacci\)](https://open.spotify.com/track/7Imr3iWPjlPs208jw92W5J) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Fatti sentire ancora](https://open.spotify.com/album/79DqfTYT6oweCZwWPOfQOR) | 3:44 | 2021-09-26 | 2022-07-28 |
 | [Il Mestiere Della Vita](https://open.spotify.com/track/5zrpHRrDQXHd9aZIcEvQHQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Il Mestiere Della Vita](https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa) | 3:18 | 2021-09-26 | 2022-07-07 |
-| [Il mio giorno più bello nel mondo](https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Tempo Reale Extra](https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi) | 3:37 | 2021-09-26 |  |
+| [Il mio giorno più bello nel mondo](https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Tempo Reale Extra](https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi) | 3:37 | 2021-09-26 | 2025-10-17 |
 | [Il mondo prima di te](https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bye Bye](https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv) | 3:38 | 2021-09-26 |  |
 | [Il primo amore](https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Il primo amore](https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo) | 3:21 | 2025-01-23 |  |
 | [Il Regalo Più Grande](https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Alla Mia Età](https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj) | 3:48 | 2021-09-26 |  |
@@ -228,6 +228,7 @@
 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 | 2021-09-26 |  |
 | [Sotto Il Segno Dei Pesci](https://open.spotify.com/track/6XLq0b557873yQsYATC0Hz) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Sotto Il Segno Dei Pesci](https://open.spotify.com/album/0iLb2xEPwSGlWnTM8oxcqp) | 6:01 | 2024-02-13 | 2024-04-03 |
 | [Sotto Il Segno Dei Pesci](https://open.spotify.com/track/3IFdrW5sJVJ6FIWzUruQcE) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Sotto Il Segno Dei Pesci](https://open.spotify.com/album/5kAQPhndRL72szACuWp6ic) | 6:03 | 2021-09-26 | 2022-07-22 |
+| [SPERO CHE DIO NON ME LA PORTI VIA](https://open.spotify.com/track/0PQ56MIXWCCtrQNhkSf2ic) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/48XM18Azz6c6afvKV239IW) | 3:01 | 2025-10-16 |  |
 | [Stammi Vicino](https://open.spotify.com/track/1KR1qEkaX8PIHXBYfSOpr1) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vivere O Niente](https://open.spotify.com/album/3lYK5n40cnggTy17jPSW0E) | 5:20 | 2021-09-26 | 2022-07-28 |
 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 | 2021-09-26 |  |
 | [Stringimi Più Forte](https://open.spotify.com/track/3L1uLi5dUwHXyPr1qdFTOS) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Voglio Essere Tua](https://open.spotify.com/album/4gXIRr2yjFbOTUI5LxbOhI) | 3:39 | 2021-09-26 | 2022-07-29 |

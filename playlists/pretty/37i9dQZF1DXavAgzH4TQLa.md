@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,944 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,962 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 59 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 |
 | 60 | [Pero Te Vas a Arrepentir / No Me Lo Creo](https://open.spotify.com/track/1Gq5lomeEE0Ifof2ffW7x8) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 3:26 |
 | 61 | [No Me Dejes Sin Tu Amor / Pienso en Ti](https://open.spotify.com/track/28FX0tx6bxaJTiRmVsw792) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [La Guerra de los Colores](https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh) | 2:42 |
-| 62 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
-| 63 | [Cumbia del Recuerdo \#1: Esa Malvada / Vete de mi lado / Te Amo / Orgullosa / Pideme la Luna / Donde Estara Mi Primavera /Te extraño](https://open.spotify.com/track/0RBACROvc1NCxrjWTNb2En) | [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx) | [Cumbia del Recuerdo \#1: Esa Malvada / Vete de mi lado / Te Amo / Orgullosa / Pideme la Luna / Donde Estara Mi Primavera /Te extraño](https://open.spotify.com/album/5VoTFgh4KvFkALAfhNwW6W) | 18:31 |
+| 62 | [Cumbia del Recuerdo \#1: Esa Malvada / Vete de mi lado / Te Amo / Orgullosa / Pideme la Luna / Donde Estara Mi Primavera /Te extraño](https://open.spotify.com/track/0RBACROvc1NCxrjWTNb2En) | [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx) | [Cumbia del Recuerdo \#1: Esa Malvada / Vete de mi lado / Te Amo / Orgullosa / Pideme la Luna / Donde Estara Mi Primavera /Te extraño](https://open.spotify.com/album/5VoTFgh4KvFkALAfhNwW6W) | 18:31 |
+| 63 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
 | 64 | [Caramelo de Limón](https://open.spotify.com/track/7sSsNAStIdLCZkrLkWIdvb) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Ricky Maravilla](https://open.spotify.com/artist/57zdSImRVdyfT1Ol0mmlWo) | [Caramelo de Limón](https://open.spotify.com/album/7LIgmmIVuNQKqSJrKN6CQY) | 3:40 |
 | 65 | [El Embrujo](https://open.spotify.com/track/27RM8QLM5vDS8iELHMQfO6) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Banda Juarez](https://open.spotify.com/artist/1nxRQ22XbIRuydkNM3SsUv) | [El Embrujo](https://open.spotify.com/album/2xMMH9pTwMb8VJAnYAMdXu) | 4:08 |
 | 66 | [Como la Flor \- 30 Años](https://open.spotify.com/track/61pamwIWaHeLjfF02M1d2Q) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Los Charros 30 Años](https://open.spotify.com/album/7LZhDxQIkPPLWLQ7VGUJXF) | 2:24 |

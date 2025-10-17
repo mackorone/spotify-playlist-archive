@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DIFF, XRS",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Likeboss",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 162206,
       "name": "AOUCH",
       "url": "https://open.spotify.com/track/58GRkw2ZAukdzzCohitqkq"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 180000,
       "name": "BARS ARE BACK",
       "url": "https://open.spotify.com/track/2S4GtshD15cdkk8I1ATdvr"
@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "CAIRO 2",
+        "url": "https://open.spotify.com/album/1M9cJUcjUW63QmG6ZNJrLM"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204318,
+      "name": "CAIRO 2",
+      "url": "https://open.spotify.com/track/3Z2wrkY5yDg9Qx30jnlrpe"
+    },
+    {
+      "album": {
         "name": "CAPO DEI CAPI",
         "url": "https://open.spotify.com/album/2Oz75fOLIhUkl7xySEZk9t"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 111043,
       "name": "Daneika",
       "url": "https://open.spotify.com/track/0LkfKmbinCKEt6SZS38ljj"
@@ -2532,6 +2550,32 @@
       "duration_ms": 206456,
       "name": "Den Nomizw",
       "url": "https://open.spotify.com/track/3cltIF4O67f9bVUVsRCpRz"
+    },
+    {
+      "album": {
+        "name": "DIAKOPES",
+        "url": "https://open.spotify.com/album/6PkHJXugqzQb91xHN9twcJ"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Queen",
+          "url": "https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "DIAKOPES",
+      "url": "https://open.spotify.com/track/0vJgAfZ1UO6H7hNjOA2caB"
     },
     {
       "album": {
@@ -4039,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "GANGO FREESTYLE",
+        "url": "https://open.spotify.com/album/7sTjFK8YBz5V0FFXUWmsgp"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132933,
+      "name": "GANGO FREESTYLE",
+      "url": "https://open.spotify.com/track/1iTFJX6an3woR8NRDuOBrW"
+    },
+    {
+      "album": {
         "name": "GUARANTEE",
         "url": "https://open.spotify.com/album/2nQHKHLCJ7dqjQeld96iFK"
       },
@@ -5314,7 +5380,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 126000,
       "name": "Jet Ski",
       "url": "https://open.spotify.com/track/2YdTzMRtxg6ACr8CdhhHk1"
@@ -6234,7 +6300,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 202507,
       "name": "Makiaveli",
       "url": "https://open.spotify.com/track/27bY6qPRiyLa5QyYfRbMQY"
@@ -6400,7 +6466,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 195000,
       "name": "MANDELA EFFECT",
       "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
@@ -7472,6 +7538,32 @@
       "duration_ms": 165106,
       "name": "NO PAIN NO WIN",
       "url": "https://open.spotify.com/track/5qk4QjlPCZpLmzrvltH6F9"
+    },
+    {
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "MUNEYLXRD",
+          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW"
     },
     {
       "album": {
@@ -8581,6 +8673,28 @@
     },
     {
       "album": {
+        "name": "PISTOLERO",
+        "url": "https://open.spotify.com/album/7dipSRTVdkPA6myKjYOmPy"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117556,
+      "name": "PISTOLERO",
+      "url": "https://open.spotify.com/track/4pZKsvyZmJUXNOzyACE1lV"
+    },
+    {
+      "album": {
         "name": "PLAIN JANE",
         "url": "https://open.spotify.com/album/4SCsSHeYkx46cu5Niyki1a"
       },
@@ -9166,6 +9280,36 @@
       "duration_ms": 137142,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3"
+    },
+    {
+      "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3X8uHLAdvebDF5mdtL0H5Y"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/4T3LCaLsX9m7A0w5crzfD1"
     },
     {
       "album": {
@@ -9982,7 +10126,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 183307,
       "name": "SOS 2",
       "url": "https://open.spotify.com/track/12EQ1xDHqPMmnLtP1z6bi8"
@@ -10000,7 +10144,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
@@ -10751,6 +10895,32 @@
     },
     {
       "album": {
+        "name": "GANG LAND",
+        "url": "https://open.spotify.com/album/1hJsQbtlkPmI3yqr1vXJLZ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "TIFFANY",
+      "url": "https://open.spotify.com/track/1zMpE11xADKpXzvnpkcS7M"
+    },
+    {
+      "album": {
         "name": "TIFFANY",
         "url": "https://open.spotify.com/album/7bZmIoJpx7T24YUWeUoYSz"
       },
@@ -11498,6 +11668,24 @@
       "duration_ms": 153722,
       "name": "VIP",
       "url": "https://open.spotify.com/track/1MzSOhTWEPzy18WT0hzcK9"
+    },
+    {
+      "album": {
+        "name": "VIRAL",
+        "url": "https://open.spotify.com/album/0ZWaa6gJMF0yRpZ9KCW5AL"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110180,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/25eBEudVXVGLMOiH4RzcxN"
     },
     {
       "album": {

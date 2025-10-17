@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 247000,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2"
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 250306,
       "name": "days i've cried this year",
       "url": "https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ"
@@ -10270,7 +10270,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 153306,
       "name": "HOW?!",
       "url": "https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK"
@@ -13857,6 +13857,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG"
+    },
+    {
+      "album": {
         "name": "Magazines",
         "url": "https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2"
       },
@@ -16540,7 +16558,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 189652,
       "name": "PARANOID",
       "url": "https://open.spotify.com/track/6SFKld0gd9xlOm3LRMVr6P"
@@ -19938,7 +19956,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186550,
       "name": "Something",
       "url": "https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf"
@@ -20176,7 +20194,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 213116,
       "name": "Soup",
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
@@ -22030,7 +22048,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 200061,
       "name": "Thank Goodness",
       "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
@@ -22382,7 +22400,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 211816,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk"
@@ -23384,6 +23402,24 @@
       "duration_ms": 217500,
       "name": "Trying to Be Nice",
       "url": "https://open.spotify.com/track/3O3kGmka7Gqpl6qLOtBXeQ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186320,
+      "name": "Tuna in a Can",
+      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
     },
     {
       "album": {
@@ -24818,6 +24854,24 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/30uoDH5SsZa4Z0OuTPLbuD"
+    },
+    {
+      "album": {
+        "name": "Wish Upon a Scar",
+        "url": "https://open.spotify.com/album/2iOZEQi1TQO3cMnAttjeYo"
+      },
+      "artists": [
+        {
+          "name": "Babyteeth",
+          "url": "https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Wish Upon a Scar",
+      "url": "https://open.spotify.com/track/6J686u6DfCyG7dTQsENUHi"
     },
     {
       "album": {

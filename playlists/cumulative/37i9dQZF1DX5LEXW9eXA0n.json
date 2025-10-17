@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: DAVICHI (\ub2e4\ube44\uce58) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -2338,6 +2338,24 @@
       "duration_ms": 222773,
       "name": "Beautiful Days",
       "url": "https://open.spotify.com/track/2QpkJZZRkVkNvbfGNlZgVv"
+    },
+    {
+      "album": {
+        "name": "Beautiful fact",
+        "url": "https://open.spotify.com/album/4uq8r8o4xUy4YrDkD4VJVq"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Beautiful fact",
+      "url": "https://open.spotify.com/track/19KheJUp8m8rTsnfheQ0Zc"
     },
     {
       "album": {
@@ -6924,7 +6942,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 267000,
       "name": "Fleeting: Time That Won\u2019t Return",
       "url": "https://open.spotify.com/track/4xQtEwsRpDt1Hw9Xf3Y6GP"
@@ -22864,7 +22882,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 213183,
       "name": "The Homework of Goodbye",
       "url": "https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr"
@@ -23890,6 +23908,24 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "album": {
+        "name": "TIME CAPSULE",
+        "url": "https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "TIME CAPSULE",
+      "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
     },
     {
       "album": {

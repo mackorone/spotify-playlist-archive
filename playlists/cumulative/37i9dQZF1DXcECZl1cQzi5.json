@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "By the Ocean",
       "url": "https://open.spotify.com/track/3wiPradzeWPto8383InaTd"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 231102,
       "name": "Silent Retreat (Ocean View)",
       "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 174677,
       "name": "Soft Sea Waves",
       "url": "https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO"
@@ -2818,6 +2818,24 @@
       "duration_ms": 136500,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014"
+    },
+    {
+      "album": {
+        "name": "Still Waters, Quiet Mind",
+        "url": "https://open.spotify.com/album/2YQf6IxmD1MzKRoXxIQz09"
+      },
+      "artists": [
+        {
+          "name": "Leo Lindholm",
+          "url": "https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Still Waters, Quiet Mind",
+      "url": "https://open.spotify.com/track/1lUXrJsW48SWLI98Guazol"
     },
     {
       "album": {

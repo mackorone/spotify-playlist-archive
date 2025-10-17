@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26132,
+  "num_followers": 26133,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABkHXTXO2Glp7il8CSurSuR8en+wG5l",
+  "snapshot_id": "AABkH32wH8rTBLMVJ6wJZ2fNCH7ob8J5",
   "tracks": [
     {
       "added_at": "2025-10-10 12:25:06",
@@ -319,6 +319,38 @@
       "duration_ms": 155200,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
+    },
+    {
+      "added_at": "2025-10-16 20:02:52",
+      "album": {
+        "name": "The Human Condition",
+        "url": "https://open.spotify.com/album/25NoywstVKqJKFtKBoJgqN"
+      },
+      "artists": [
+        {
+          "name": "Derriziel Pierce",
+          "url": "https://open.spotify.com/artist/65tTBcMVvMTCdGxh6XBItP"
+        }
+      ],
+      "duration_ms": 184713,
+      "name": "Echoes Of The Human",
+      "url": "https://open.spotify.com/track/2oN9n0GNzGUYAWdSskm98Z"
+    },
+    {
+      "added_at": "2025-10-16 20:02:51",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/5RaxPSpOBDXdF3s0l9imPO"
+      },
+      "artists": [
+        {
+          "name": "Turnin' Heads",
+          "url": "https://open.spotify.com/artist/1LWJrPcq1hv7DGIi5kGsJy"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5MebWjbtRNkxMnPWRyZQDc"
     },
     {
       "added_at": "2025-10-14 20:05:52",

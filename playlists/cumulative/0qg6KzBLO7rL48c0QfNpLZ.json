@@ -24321,6 +24321,36 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1RZpjazILcoF3T6Abfr5Vy"
+      },
+      "artists": [
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "Lyge",
+          "url": "https://open.spotify.com/artist/2TFo3t2jsLG5XDT8GD9XKH"
+        },
+        {
+          "name": "Feel On Eel",
+          "url": "https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6iFJ8KTUKiGFe2XE1GcKBn"
+    },
+    {
+      "album": {
         "name": "Together In The Night",
         "url": "https://open.spotify.com/album/0LRD4arfIM8cl2lLgfQDWK"
       },

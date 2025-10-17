@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Melis Kar",
+  "description": "Pop'un sevilen isimleri. Kapak: Melis Fis",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "Geceleri Ald\u0131m Senden",
       "url": "https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ"
@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Hayran\u0131m",
+        "url": "https://open.spotify.com/album/2y01hNlJgoiRoNNWGou42l"
+      },
+      "artists": [
+        {
+          "name": "Melis Fis",
+          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154874,
+      "name": "Hayran\u0131m",
+      "url": "https://open.spotify.com/track/2gtEcc5Beh1U3E0iQdzlCK"
+    },
+    {
+      "album": {
         "name": "Heba",
         "url": "https://open.spotify.com/album/7FFIUBzawvny6iMmohY7Zo"
       },
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 161854,
       "name": "Hi\u00e7 De \u00d6yle Olmad\u0131",
       "url": "https://open.spotify.com/track/5A6w9QZiCTTyS799dfHDeF"
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 128241,
       "name": "\u0130LLET",
       "url": "https://open.spotify.com/track/7syhC3Xm19FmCvdBn0OhCb"
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 151198,
       "name": "Nanik",
       "url": "https://open.spotify.com/track/6OodgbaFCaBejPQo4RjOtm"
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 153940,
       "name": "Sar Bi \u0130nce",
       "url": "https://open.spotify.com/track/4aObBd0BU5pyHLUTYTYkQ0"
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Silemedim",
       "url": "https://open.spotify.com/track/1GeKbomfwaGCFkh3c0V8iB"
@@ -6482,7 +6500,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 190312,
       "name": "Yan",
       "url": "https://open.spotify.com/track/41c2gJ18n7v8STRgPl19x4"

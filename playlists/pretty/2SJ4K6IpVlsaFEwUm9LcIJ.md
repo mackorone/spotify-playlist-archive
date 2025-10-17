@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,448 likes - 61 songs - 3 hr 27 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,453 likes - 63 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 59 | [Liggers at Your Funeral \- 2006 Remaster](https://open.spotify.com/track/3sOGX9DFkn3HJzpJbFLrGU) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 5:32 |
 | 60 | [Everglade](https://open.spotify.com/track/0RiPfGtEyv3nZVq3lUi7kR) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:21 |
 | 61 | [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 |
+| 62 | [As You Turn to Go](https://open.spotify.com/track/2qmg9WhT7nhPe0OwvPQ9ax) | [The 6ths](https://open.spotify.com/artist/7HzHgQO5cFieqjoINahKkm), [Momus](https://open.spotify.com/artist/0Uuw1MHNH56xL76bTOVJE8) | [Hyacinths and Thistles](https://open.spotify.com/album/0qU0P83XUlRE0KO0DaRhYM) | 1:59 |
+| 63 | [Victor, Fly Me to Stafford](https://open.spotify.com/track/3MNFiVcKOPlcvXcx9EHdpE) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 2:14 |
 
-Snapshot ID: `AAANRjLFmM+IUM82jlNSoKEikgpt0Qzl`
+Snapshot ID: `AAANSEkFDKZljVgyVaQADVjSZZvRTUO1`

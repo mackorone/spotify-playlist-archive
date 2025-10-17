@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-330 songs - 21 hr 57 min
+331 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Midnight/Daylight \(Heth\)](https://open.spotify.com/track/1bBh996mXxkdC57J8oNCjt) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW) | [Midnight/Daylight \(Heth\)](https://open.spotify.com/album/5VuEHLjo0EaPgpzNjTrlHj) | 6:08 | 2025-08-08 | 2025-10-11 |
 | [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 | 2024-07-26 |  |
 | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 | 2025-04-05 | 2025-10-11 |
-| [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-08-08 |  |
+| [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-08-08 | 2025-10-17 |
 | [More Than Enough \- Stripped Down](https://open.spotify.com/track/72eWVAzxNLrduXEThcHS9r) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [More Than Enough \(Stripped Down\)](https://open.spotify.com/album/7wPGyBG4GKS2YfRZd6yMsT) | 2:52 | 2025-10-10 |  |
 | [My Cry](https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm) | [Auraè](https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM) | [My Cry](https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL) | 3:20 | 2025-04-05 | 2025-08-09 |
 | [my refuge](https://open.spotify.com/track/54MQrGFEVRzKxVoxvHkQ4y) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [The Shepherd, a folk\-hop beat tape](https://open.spotify.com/album/6TFgl5OXOPWDrWAxJ63nEy) | 2:05 | 2025-04-05 |  |
@@ -319,6 +319,7 @@
 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 | 2023-02-07 | 2025-04-05 |
 | [Why Should I \(feat\. Quinten Coblentz\)](https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Why Should I \(feat\. Quinten Coblentz\)](https://open.spotify.com/album/0dtKfjyzBU8w3a0Lzzqisb) | 3:47 | 2021-10-31 | 2024-06-23 |
 | [Wildflowers \(Seek Ye First\)](https://open.spotify.com/track/51027qMz6tsxVKiNfObYae) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/2L0thC4nvrQ4yVRLxFzgCG) | 3:39 | 2025-08-08 | 2025-10-11 |
+| [Will You Let Me](https://open.spotify.com/track/78I0X3v4gdZvFxn7hVTFlI) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Will You Let Me](https://open.spotify.com/album/2gtI3hI7XHNxZEw7FcApnA) | 4:41 | 2025-10-10 |  |
 | [Wings](https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [His World](https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq) | 4:27 | 2025-10-10 |  |
 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 | 2021-10-31 | 2024-04-19 |
 | [Wings](https://open.spotify.com/track/6p56fflyWLspRsipBqZabq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx) | 2:48 | 2023-02-07 | 2024-06-23 |

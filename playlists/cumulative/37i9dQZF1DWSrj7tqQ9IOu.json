@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Saint Stacy",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Alice et Moi",
   "name": "Made in France",
   "tracks": [
     {
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 177000,
       "name": "BONHEUR SAMPLER",
       "url": "https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x"
@@ -1866,6 +1866,24 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2lQTVys9eE0m20jZ2ac6wK"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4"
     },
     {
       "album": {
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 185212,
       "name": "essayer",
       "url": "https://open.spotify.com/track/7zPWupz9vVYmNC3ZjBctCs"
@@ -4192,6 +4210,24 @@
       "duration_ms": 173183,
       "name": "Gala",
       "url": "https://open.spotify.com/track/0PvDUG18CCUqrVTyK2aGkw"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "Galaxie",
+      "url": "https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6"
     },
     {
       "album": {
@@ -5156,7 +5192,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 157546,
       "name": "I Love You - Radio Edit",
       "url": "https://open.spotify.com/track/7hIWX9Nl7qMLCvb35lTH9E"
@@ -5297,6 +5333,28 @@
     },
     {
       "album": {
+        "name": "Bolivardisme avec une musique en plus",
+        "url": "https://open.spotify.com/album/1Fs4C4FEPWXpV5Ql2iT7CK"
+      },
+      "artists": [
+        {
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
+        },
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191845,
+      "name": "Illusionnisme",
+      "url": "https://open.spotify.com/track/5tik4fqFEZOQwr8uAF9iOs"
+    },
+    {
+      "album": {
         "name": "Ilya",
         "url": "https://open.spotify.com/album/5QZQhk6woOLUvKbHBxwkgQ"
       },
@@ -5384,7 +5442,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 159078,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
@@ -6980,7 +7038,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 196266,
       "name": "Les hommes tristes",
       "url": "https://open.spotify.com/track/7AC8X6QYgwFc2gu98t5xjR"
@@ -7168,7 +7226,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 150656,
       "name": "Lisbon",
       "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
@@ -8132,6 +8190,28 @@
       "duration_ms": 225365,
       "name": "mots cl\u00e9s",
       "url": "https://open.spotify.com/track/0ak3Rt8IxWVWQENHIrBvfn"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        },
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs"
     },
     {
       "album": {
@@ -12299,6 +12379,28 @@
     },
     {
       "album": {
+        "name": "Toxic Sunny Delight",
+        "url": "https://open.spotify.com/album/5073mQ9KqkmZCp663XcSga"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        },
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226037,
+      "name": "Toxic Sunny Delight",
+      "url": "https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
@@ -12832,6 +12934,24 @@
       "duration_ms": 187655,
       "name": "Vid\u00e9odrome",
       "url": "https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4"
+    },
+    {
+      "album": {
+        "name": "viens on part",
+        "url": "https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp"
+      },
+      "artists": [
+        {
+          "name": "lili",
+          "url": "https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "viens on part",
+      "url": "https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb"
     },
     {
       "album": {

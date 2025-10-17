@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-183 songs - 12 hr 21 min
+184 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Mbube \(Wimoweh\)](https://open.spotify.com/track/42puzIUfTXWBx5CBGIY07j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:01 | 2022-10-01 | 2022-10-28 |
 | [Mhlangidinwa Ngikhathele](https://open.spotify.com/track/3rz3aI4jgUIPhM0Mz1FGr1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:01 | 2025-04-27 | 2025-05-10 |
 | [Mining Song](https://open.spotify.com/track/3daDQZZ0pbqL2UBhirffJs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Music](https://open.spotify.com/album/1RZzCdUCiKDMwJFTl3WmSH) | 5:17 | 2021-12-28 | 2023-02-23 |
-| [Music Knows No Boundaries](https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:03 | 2022-10-28 |  |
+| [Music Knows No Boundaries](https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:03 | 2022-10-28 | 2025-10-17 |
 | [Music Knows No Boundaries](https://open.spotify.com/track/2Qls7UNIdeX6Q8NsVjdRkW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/01mREYanm3BcYGkUlW8CeX) | 3:03 | 2021-12-28 | 2022-10-06 |
 | [Music Knows No Boundaries](https://open.spotify.com/track/3hNFU3wSvNgSENBnsfmp7u) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:03 | 2022-10-05 | 2022-10-21 |
 | [Nansi Imali](https://open.spotify.com/track/3oKXHUuIjXlAzrhmdIibUn) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Indestructible Beat of Soweto \- Volume One](https://open.spotify.com/album/1DIr8JMRBnm1cZMYIGKb8t) | 5:14 | 2022-01-09 | 2022-10-09 |
@@ -135,6 +135,7 @@
 | [Rise Again](https://open.spotify.com/track/4NGzRGPN0ePqxFm5j1csXJ) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Phendula](https://open.spotify.com/album/1M6DsrTxbMkYOv9dEI2X3G) | 4:07 | 2023-03-20 |  |
 | [River Of Dreams](https://open.spotify.com/track/3XCAO6v3Rkz4q2yzyMAauZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:31 | 2021-12-28 | 2022-10-13 |
 | [Run \(Life is a Marathon\)](https://open.spotify.com/track/69rkmTYdCAamIWEzEFfTBt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Ramdaz](https://open.spotify.com/artist/1kGBpsryGngo5XqyDwnQT0), [Stanley Glori](https://open.spotify.com/artist/2PRmMkvKBjmdsI1HQcihVz) | [Run \(Life is a Marathon\)](https://open.spotify.com/album/4HMHFwE9BONH2nKv6kSwH6) | 2:35 | 2023-06-05 | 2023-10-11 |
+| [Selingelethu Sonke](https://open.spotify.com/track/6n5tx2fwJuy9Gooe8BFV1A) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN) | 4:14 | 2025-10-17 |  |
 | [Selingelethu Sonke](https://open.spotify.com/track/0hdzhCgfrfVbLpjbwzrcXh) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 4:15 | 2024-05-03 | 2025-10-15 |
 | [She'd Say \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/1wR7WDJ1Ipy8DxfquRs7ku) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:26 | 2024-07-27 |  |
 | [She'd Say \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/2SPqhlmGmYCM4oU4HGCnsx) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:26 | 2021-12-28 | 2023-12-30 |

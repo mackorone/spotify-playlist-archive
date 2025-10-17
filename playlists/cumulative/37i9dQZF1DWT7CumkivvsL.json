@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "CULPA NUESTRA",
+        "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        },
+        {
+          "name": "STRANGEL0VE",
+          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "CULPA NUESTRA",
+      "url": "https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y"
+    },
+    {
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },

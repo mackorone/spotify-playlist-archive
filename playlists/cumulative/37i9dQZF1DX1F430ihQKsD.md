@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Laraw
+> La scène musicale montréalaise au premier plan\. Photo: Laraw
 
 634 songs - 1 day 12 hr 2 min
 

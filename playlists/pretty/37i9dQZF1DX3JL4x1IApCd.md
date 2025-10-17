@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2023\. Cover: Uncojingjong
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,229 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,234 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 17 | [PUNGUZA EGO](https://open.spotify.com/track/7xv1IfCT79cFHzYYYVoQA6) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [PUNGUZA EGO](https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq) | 3:01 |
 | 18 | [Pesa Ndogo](https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Pesa Ndogo](https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH) | 3:08 |
 | 19 | [Alert](https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Alert](https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4) | 2:00 |
-| 20 | [Fukuru](https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Fukuru](https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp) | 3:51 |
+| 20 | [Fukuru](https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw) | [Mbogi Genje](https://open.spotify.com/artist/4vGP504C4n2tHcSPbXmbt3), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Fukuru](https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp) | 3:51 |
 | 21 | [Ni Wetu](https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ni Wetu](https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o) | 3:01 |
 | 22 | [Weh Decide](https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Weh Decide](https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL) | 2:34 |
 | 23 | [Sipangwingwi](https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Sipangwingwi](https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Naza",
+  "description": "Photo : KeBlack x Franglish",
   "name": "Best Life",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 153736,
       "name": "3XDiamant",
       "url": "https://open.spotify.com/track/38LOYYA3jfIVzIm1e9wcun"
@@ -1073,6 +1073,32 @@
     },
     {
       "album": {
+        "name": "Brouncha",
+        "url": "https://open.spotify.com/album/5grIMR7xl9JBPvcHKruHLF"
+      },
+      "artists": [
+        {
+          "name": "Graya",
+          "url": "https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Brouncha",
+      "url": "https://open.spotify.com/track/7eKCe1BJJneUcu2y0skZV4"
+    },
+    {
+      "album": {
         "name": "Brrr",
         "url": "https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s"
       },
@@ -1916,7 +1942,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 150500,
       "name": "Coup\u00e9 sport",
       "url": "https://open.spotify.com/track/4XuGNgQo4Ztn0BIZuZGAcM"
@@ -2975,6 +3001,28 @@
     },
     {
       "album": {
+        "name": "G\u00e9n\u00e9ration impolie",
+        "url": "https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141389,
+      "name": "G\u00e9n\u00e9ration impolie",
+      "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
+    },
+    {
+      "album": {
         "name": "HASTA LA VISTA",
         "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
       },
@@ -3756,6 +3804,28 @@
       "duration_ms": 181874,
       "name": "LDC",
       "url": "https://open.spotify.com/track/79GsCcSo4Fm4xVwFw7gkgs"
+    },
+    {
+      "album": {
+        "name": "Les Limites",
+        "url": "https://open.spotify.com/album/6hm1vJ1d5B5d3SXFVc63uK"
+      },
+      "artists": [
+        {
+          "name": "Siaka",
+          "url": "https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz"
+        },
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150960,
+      "name": "Les Limites",
+      "url": "https://open.spotify.com/track/1XwMuEs2XEqunpyWZ7APh7"
     },
     {
       "album": {
@@ -6852,7 +6922,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 206837,
       "name": "Si tu pars",
       "url": "https://open.spotify.com/track/1Pl9PEY8RqWA5pOy3mGRIJ"

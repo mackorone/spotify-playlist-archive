@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Robot Swing",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Limi",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -954,6 +954,24 @@
       "duration_ms": 273147,
       "name": "Broken Moon (feat. Rima Zeidan)",
       "url": "https://open.spotify.com/track/3tQRwhKP2oYVMVD09VcpOX"
+    },
+    {
+      "album": {
+        "name": "Broken World (Netflix\u5f71\u96c6\u300a\u56de\u9b42\u8a08\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/6LpR4eq2qWiBP8dPSuWgQh"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152910,
+      "name": "Broken World - Netflix\u5f71\u96c6\u300a\u56de\u9b42\u8a08\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/14F1jiXQWTgDhlA7l8j5mq"
     },
     {
       "album": {
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 208052,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/7jIH2PZdZwPN09sPZ8Zxj6"
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 317007,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/30INDK12JBbNbelrfEILMi"
@@ -4223,6 +4241,28 @@
     },
     {
       "album": {
+        "name": "Milk & Cereal",
+        "url": "https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u"
+      },
+      "artists": [
+        {
+          "name": "Limi",
+          "url": "https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2"
+        },
+        {
+          "name": "\u5c60\u8861",
+          "url": "https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154764,
+      "name": "Milk & Cereal",
+      "url": "https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv"
+    },
+    {
+      "album": {
         "name": "Millions of Years Apart",
         "url": "https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ"
       },
@@ -4376,7 +4416,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 202586,
       "name": "MY MESSAGE (feat. Shing02)",
       "url": "https://open.spotify.com/track/0Ku3K1LUNxdjI1gvDrB9Nt"
@@ -5974,7 +6014,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 172180,
       "name": "Shadowless Dance",
       "url": "https://open.spotify.com/track/5KV9NvMZzZ57pEwSCr4Sm9"
@@ -6124,7 +6164,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 199384,
       "name": "Sleep talking",
       "url": "https://open.spotify.com/track/5d7Yk82HBh9zvkcHAwUUXC"
@@ -8864,7 +8904,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 212571,
       "name": "\u5b89\u5fc3\u611f",
       "url": "https://open.spotify.com/track/70m08rlTetr9oHanlQThW1"
@@ -9024,6 +9064,28 @@
       "duration_ms": 575132,
       "name": "\u5de8\u6728\u66fe\u5728\u7684\u75d5\u8de1 Remains of Ancient Trees",
       "url": "https://open.spotify.com/track/3hkk3Vx4I1sKj2R94ZjYxe"
+    },
+    {
+      "album": {
+        "name": "\u5e7b\u89ba (NRP)",
+        "url": "https://open.spotify.com/album/0WTKA98lJhIQ5W7AeqfLbT"
+      },
+      "artists": [
+        {
+          "name": "PiA\u5433\u84d3\u96c5",
+          "url": "https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD"
+        },
+        {
+          "name": "Levii",
+          "url": "https://open.spotify.com/artist/7tbJBCI0iwZEvOfjp8q1zZ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230958,
+      "name": "\u5e7b\u89ba (NRP)",
+      "url": "https://open.spotify.com/track/6lFMGi9Yo5h6maKTNaDO2N"
     },
     {
       "album": {
@@ -10188,7 +10250,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 234400,
       "name": "\u7a97",
       "url": "https://open.spotify.com/track/2L271GrS9ZknJo31wkWFZ4"
@@ -10426,7 +10488,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 280273,
       "name": "\u8449\u67cf",
       "url": "https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl"

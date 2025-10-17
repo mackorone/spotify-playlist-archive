@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Gigi",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Budi Doremi",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Ada Untukmu",
+        "url": "https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257452,
+      "name": "Ada Untukmu",
+      "url": "https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw"
+    },
+    {
+      "album": {
         "name": "Sebentar, Aku Mau Cerita",
         "url": "https://open.spotify.com/album/2u0Ufuo5CM8qgj56b08Ggj"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 206380,
       "name": "Adilkah",
       "url": "https://open.spotify.com/track/23p4g75mHgBprHF94scJRu"
@@ -734,6 +752,24 @@
       "duration_ms": 270900,
       "name": "Aubade Untuk Ibu",
       "url": "https://open.spotify.com/track/35LKSCKPmEIWSXzOj0J6BR"
+    },
+    {
+      "album": {
+        "name": "Awal Terbaik",
+        "url": "https://open.spotify.com/album/21eLF9yp18ozAeVtIVANWF"
+      },
+      "artists": [
+        {
+          "name": "UN1TY",
+          "url": "https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266599,
+      "name": "Awal Terbaik",
+      "url": "https://open.spotify.com/track/0ACCzlEHrhDadURKUxy5Di"
     },
     {
       "album": {
@@ -1507,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Berselimut Di Batin",
+        "url": "https://open.spotify.com/album/475TaCVDcFIrIVQq0wBLPK"
+      },
+      "artists": [
+        {
+          "name": "Marsha Lavinia",
+          "url": "https://open.spotify.com/artist/5EloJ3GTjmVqRKmdDJUrtk"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Berselimut Di Batin",
+      "url": "https://open.spotify.com/track/4vGdIIsEc8TgMO6gOg8seQ"
+    },
+    {
+      "album": {
         "name": "Bertahan Sendiri",
         "url": "https://open.spotify.com/album/4kIJK4MxZjkgTinHZcvS9f"
       },
@@ -2166,7 +2220,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 235114,
       "name": "Cadanganku",
       "url": "https://open.spotify.com/track/1FWFmljGMELhnV8mJTANWR"
@@ -2264,7 +2318,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 246290,
       "name": "Celaka, Terlanjur Sayang",
       "url": "https://open.spotify.com/track/0hYs0hthOlaG5HC086qN1B"
@@ -2282,7 +2336,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 218458,
       "name": "Celaka, Terlanjur Sayang",
       "url": "https://open.spotify.com/track/3o6z5qpSXX8r0ITMfS9Icg"
@@ -2434,7 +2488,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 234276,
       "name": "Cincin",
       "url": "https://open.spotify.com/track/4GLpdZC3ospV3mbKkZBIRj"
@@ -2572,6 +2626,42 @@
       "duration_ms": 289852,
       "name": "Cinta Sendiri",
       "url": "https://open.spotify.com/track/0bp6FmUsYHCFDGpFw9i1YI"
+    },
+    {
+      "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248832,
+      "name": "Cinta Seperti Aku",
+      "url": "https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG"
+    },
+    {
+      "album": {
+        "name": "Cinta Tak Berbatas (From Novel \"Bukan Sekadar Cinta\")",
+        "url": "https://open.spotify.com/album/0W08j84GtpWZ5qAffRJytQ"
+      },
+      "artists": [
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Cinta Tak Berbatas - From Novel \"Bukan Sekadar Cinta\"",
+      "url": "https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S"
     },
     {
       "album": {
@@ -2818,7 +2908,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 289233,
       "name": "Cuma Kamu",
       "url": "https://open.spotify.com/track/5uoxuvaD0hRLoPpYVNdxh1"
@@ -3114,7 +3204,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 183861,
       "name": "Di Luar Nalar",
       "url": "https://open.spotify.com/track/3urqoUNbUZ9a3ennQi4Pic"
@@ -3378,6 +3468,24 @@
       "duration_ms": 260060,
       "name": "Ego - Live Version",
       "url": "https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X"
+    },
+    {
+      "album": {
+        "name": "Elu-elukan",
+        "url": "https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243614,
+      "name": "Elu-elukan",
+      "url": "https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo"
     },
     {
       "album": {
@@ -5163,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "Kembali Ke Aku",
+        "url": "https://open.spotify.com/album/43uKjfAyF0ZIbEWBeMq54c"
+      },
+      "artists": [
+        {
+          "name": "Prinsa Mandagie",
+          "url": "https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205452,
+      "name": "Kembali Ke Aku",
+      "url": "https://open.spotify.com/track/7w9uXR9ZDOK8afkmhWW4J5"
+    },
+    {
+      "album": {
         "name": "Kembalilah",
         "url": "https://open.spotify.com/album/4NhyRvFyCdaoGba8TEEkma"
       },
@@ -5702,6 +5828,24 @@
       "duration_ms": 227000,
       "name": "Last Right One",
       "url": "https://open.spotify.com/track/6vSBmOCdVhD8gN94ggTDMK"
+    },
+    {
+      "album": {
+        "name": "Layak Sebuah Film",
+        "url": "https://open.spotify.com/album/59H4RKSgITedyiMZuJhg4M"
+      },
+      "artists": [
+        {
+          "name": "Farell Kasela",
+          "url": "https://open.spotify.com/artist/4wykuOBhyVz97sgxBdk8jZ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Layak Sebuah Film",
+      "url": "https://open.spotify.com/track/1U5YpYRJ7aW5bxVynYorm8"
     },
     {
       "album": {
@@ -6708,7 +6852,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 284997,
       "name": "Mengenang Hari Ini",
       "url": "https://open.spotify.com/track/2yqEEXBZiqp6usCyoXHZKC"
@@ -7074,6 +7218,24 @@
       "duration_ms": 233143,
       "name": "Milikku Seutuhnya",
       "url": "https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh"
+    },
+    {
+      "album": {
+        "name": "Momen Terakhir Kita",
+        "url": "https://open.spotify.com/album/3kLv8WANccos7jrXaYIv2Z"
+      },
+      "artists": [
+        {
+          "name": "Deorama",
+          "url": "https://open.spotify.com/artist/26T0jJqSBB1xd23xIuMDXy"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234250,
+      "name": "Momen Terakhir Kita",
+      "url": "https://open.spotify.com/track/3AzQrKA3ob7K2E6T2XOoSd"
     },
     {
       "album": {
@@ -7596,7 +7758,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 245207,
       "name": "Pantang Mundur",
       "url": "https://open.spotify.com/track/4CHcOVLBaEQGnnQalOi3s1"
@@ -8268,7 +8430,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 269339,
       "name": "Pura Pura Bahagia (Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/510uu4XzVglUYK1ORb8iJw"
@@ -8670,7 +8832,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 261333,
       "name": "Rumah Terakhir",
       "url": "https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD"
@@ -10934,7 +11096,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 179000,
       "name": "Tak Harus Menunggu Surga",
       "url": "https://open.spotify.com/track/4ZkhMMBsBHA2HtgYWX1L3c"
@@ -11202,7 +11364,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186100,
       "name": "Tak Semua Dalam Kendalimu",
       "url": "https://open.spotify.com/track/0YL6itujNGGD0tAKvwycsA"
@@ -11238,7 +11400,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 224666,
       "name": "Tanah Nurani",
       "url": "https://open.spotify.com/track/0RbGsjGS1bEzZzLfslXjkR"
@@ -11404,6 +11566,24 @@
       "duration_ms": 238153,
       "name": "Tarik Ulur - Acoustic",
       "url": "https://open.spotify.com/track/0dUESmZHqgUg2r0zI2aFdM"
+    },
+    {
+      "album": {
+        "name": "Tatap Mata",
+        "url": "https://open.spotify.com/album/2Vy7gULsfkdO1EwjfwtyNS"
+      },
+      "artists": [
+        {
+          "name": "Shakirra Vier",
+          "url": "https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201166,
+      "name": "Tatap Mata",
+      "url": "https://open.spotify.com/track/70zHRaP6g351dQktpUq6Bo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Queridos socixs, les dejamos las novedades de esta semana 🤫 Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,924 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067,009 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 27 | [Tuya para Siempre](https://open.spotify.com/track/7iPAUK57qfQu7vARemxLMv) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Tuya para Siempre](https://open.spotify.com/album/3ttJJ86Fom00zn0EZlWdEP) | 3:15 |
 | 28 | [Sol y Arena](https://open.spotify.com/track/3UfFeBvJ4Q69FpmkQFYO9n) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Sol y Arena](https://open.spotify.com/album/5297qnCFS1XQ0gzFAb933d) | 2:51 |
 | 29 | [Tony Montana](https://open.spotify.com/track/0EOeasajM60dpiCx6h2xH2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Tony Montana](https://open.spotify.com/album/1aDCXyqjfceBHeMb8j2z3y) | 3:01 |
-| 30 | [Todo Da Igual](https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DSxBB](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:42 |
+| 30 | [Todo Da Igual](https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DepresionTrickz](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:42 |
 | 31 | [pRiiNcEza 100% OriiGiinaL](https://open.spotify.com/track/2zGUVoPpRrXwRzyhnjXgq0) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [ROMANTIKEO.COM](https://open.spotify.com/album/0oZALNthlH922pMfDt70bN) | 2:25 |
 | 32 | [DESEÁNDOTE](https://open.spotify.com/track/18IlEhJHGSPyjxyZcfFr2s) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [DESEÁNDOTE](https://open.spotify.com/album/6Jq7uWuM5DCMMyKCaW5JVr) | 3:27 |
 | 33 | [Veo Veo](https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Veo Veo](https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G) | 2:51 |

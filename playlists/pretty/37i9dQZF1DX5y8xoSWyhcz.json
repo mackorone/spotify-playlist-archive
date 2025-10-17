@@ -1,13 +1,45 @@
 {
   "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).",
-  "num_followers": 230585,
+  "num_followers": 230568,
   "original_name": "indie pop & chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPABZppqnxEzLrKmgSueAyMviFmv",
+  "snapshot_id": "AAAAAHS5hHK987qDiyXCul8r1qSdny4J",
   "tracks": [
+    {
+      "added_at": "2025-10-17 00:33:45",
+      "album": {
+        "name": "Wish Upon a Scar",
+        "url": "https://open.spotify.com/album/2iOZEQi1TQO3cMnAttjeYo"
+      },
+      "artists": [
+        {
+          "name": "Babyteeth",
+          "url": "https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Wish Upon a Scar",
+      "url": "https://open.spotify.com/track/6J686u6DfCyG7dTQsENUHi"
+    },
+    {
+      "added_at": "2025-10-17 00:33:45",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG"
+    },
     {
       "added_at": "2025-10-09 21:16:38",
       "album": {
@@ -59,6 +91,22 @@
       "duration_ms": 154880,
       "name": "CAT SONG",
       "url": "https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi"
+    },
+    {
+      "added_at": "2025-10-17 00:33:45",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Tuna in a Can",
+      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
     },
     {
       "added_at": "2025-10-09 21:16:38",
@@ -1583,38 +1631,6 @@
     {
       "added_at": "2025-09-19 17:44:46",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 186550,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh"
       },
@@ -1643,106 +1659,6 @@
       "duration_ms": 204651,
       "name": "Husk",
       "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu"
-      },
-      "artists": [
-        {
-          "name": "Maddie Jay",
-          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        },
-        {
-          "name": "Kainalu",
-          "url": "https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc"
-        }
-      ],
-      "duration_ms": 211816,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Thank Goodness",
-        "url": "https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Thank Goodness",
-      "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "HOW?!",
-        "url": "https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e"
-      },
-      "artists": [
-        {
-          "name": "Reu",
-          "url": "https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a"
-        }
-      ],
-      "duration_ms": 153306,
-      "name": "HOW?!",
-      "url": "https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "PARANOID",
-        "url": "https://open.spotify.com/album/0R2a80cHrhulPnJM9m1jXc"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 189652,
-      "name": "PARANOID",
-      "url": "https://open.spotify.com/track/6SFKld0gd9xlOm3LRMVr6P"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "days i've cried this year",
-        "url": "https://open.spotify.com/album/35Tf51SMXwuBH6ruqtLvmj"
-      },
-      "artists": [
-        {
-          "name": "priyana",
-          "url": "https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "days i've cried this year",
-      "url": "https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ"
     },
     {
       "added_at": "2025-09-19 17:44:46",

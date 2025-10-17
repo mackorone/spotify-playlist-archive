@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > hannah frances on the cover 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,102 likes - 141 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,107 likes - 141 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

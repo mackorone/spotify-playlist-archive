@@ -4,12 +4,13 @@
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-262 songs - 13 hr 7 min
+263 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 By 2](https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs) | [Komla MC](https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2) | [2 By 2](https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu) | 2:47 | 2023-03-10 | 2023-03-30 |
 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 | 2023-11-10 |
+| [2WEEKS](https://open.spotify.com/track/4diACBEsDL3AXOeTjncXa8) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [2WEEKS](https://open.spotify.com/album/4oPjjCabkWha6S9IDo3grt) | 2:36 | 2025-10-17 |  |
 | [32](https://open.spotify.com/track/2PiJXFSfjwBxX6AgLwdQvm) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [I'm Back](https://open.spotify.com/album/4kffUglXMYplYAIgeDpkfW) | 4:17 | 2023-11-17 | 2024-05-17 |
 | [6 To 6](https://open.spotify.com/track/4hFEmLwPcr1BAKM2HD9koF) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [6 To 6](https://open.spotify.com/album/6HEB88w0Mfu2fbzMYzf3d5) | 2:26 | 2025-04-18 | 2025-06-10 |
 | [Abasakom](https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc) | [NS Tino](https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI), [Mickey Lux](https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Abasakom](https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r) | 2:59 | 2024-03-15 | 2024-06-21 |
@@ -185,7 +186,7 @@
 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 | 2023-06-22 | 2024-04-19 |
 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 |  |
 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 | 2023-11-10 |  |
-| [OKAY](https://open.spotify.com/track/0HDb9Qz3dtmHGoDIRtrInH) | [Ryderz](https://open.spotify.com/artist/6CUpjrU6f5j0yFoJVVh9c9) | [OKAY](https://open.spotify.com/album/6FThNeQKpHa4tZrNsTaENE) | 2:55 | 2025-09-26 |  |
+| [OKAY](https://open.spotify.com/track/0HDb9Qz3dtmHGoDIRtrInH) | [Ryderz](https://open.spotify.com/artist/6CUpjrU6f5j0yFoJVVh9c9) | [OKAY](https://open.spotify.com/album/6FThNeQKpHa4tZrNsTaENE) | 2:55 | 2025-09-26 | 2025-10-17 |
 | [Okomfo Anokye](https://open.spotify.com/track/26YmQEOPgWdmy7qFCyHkET) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [The Return of Okomfo Anokye](https://open.spotify.com/album/0dOOE0uoxf6XjtIa0DSSTp) | 2:20 | 2025-02-21 | 2025-02-28 |
 | [Oliver Khan](https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Oliver Khan](https://open.spotify.com/album/4z9KOiawTgEyS7JsG6VAn9) | 3:20 | 2023-09-14 | 2024-01-05 |
 | [On God](https://open.spotify.com/track/6fOO1B6FqtPa0HON1uQTyC) | [Eddie Khae](https://open.spotify.com/artist/2pGCVrouJpjRXXfph7O2Lf), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [On God](https://open.spotify.com/album/4G7ZD0J3rDL6MH6PIzYJHq) | 3:03 | 2024-08-30 | 2024-09-13 |

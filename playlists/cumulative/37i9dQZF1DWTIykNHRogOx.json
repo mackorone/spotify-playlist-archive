@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Zaho de Sagazan",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann et Yoa",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
+    {
+      "album": {
+        "name": "Le Disque Bleu",
+        "url": "https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        },
+        {
+          "name": "Nathy Cabrera",
+          "url": "https://open.spotify.com/artist/2JkrRVDBIWv1iKcjKzzSSE"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231080,
+      "name": "15 octobre",
+      "url": "https://open.spotify.com/track/0cCYUTsihAYCk7SnD4XPea"
+    },
     {
       "album": {
         "name": "30 ans",
@@ -1114,7 +1136,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 238013,
       "name": "Grand-m\u00e8re",
       "url": "https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq"
@@ -1334,7 +1356,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 184996,
       "name": "J'ai tent\u00e9 mais",
       "url": "https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB"
@@ -1774,7 +1796,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 192240,
       "name": "LA NUIT",
       "url": "https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd"
@@ -1854,6 +1876,24 @@
       "duration_ms": 196974,
       "name": "La Romance",
       "url": "https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8"
+    },
+    {
+      "album": {
+        "name": "la ros\u00e9e",
+        "url": "https://open.spotify.com/album/3C52FrCkUU0gKLekc9iEUo"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "la ros\u00e9e",
+      "url": "https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU"
     },
     {
       "album": {
@@ -4240,6 +4280,24 @@
       "duration_ms": 213666,
       "name": "\u00e0 l'autre bout du tel",
       "url": "https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA"
+    },
+    {
+      "album": {
+        "name": "\u00e0 l'\u00e9troit dans ma peau",
+        "url": "https://open.spotify.com/album/1D0QZFKupUcaEckobnSHix"
+      },
+      "artists": [
+        {
+          "name": "SLO\u0143",
+          "url": "https://open.spotify.com/artist/2jphCk584Xja5K2n5cmfKy"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "\u00e0 l'\u00e9troit dans ma peau",
+      "url": "https://open.spotify.com/track/0IncMVyy8wiDGCxrTAATH8"
     },
     {
       "album": {

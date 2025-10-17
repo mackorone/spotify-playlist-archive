@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> From Morocco to the world\. Cover: 7ari, Ramoon
+> From Morocco to the world\. Cover: ElGrandeToto
 
 482 songs - 1 day 1 hr 41 min
 

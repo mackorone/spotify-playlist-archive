@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 352888,
+  "num_followers": 352961,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Waiting for You",
+        "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 211470,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Life After Love, Pt. 2",
         "url": "https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 179108,
       "name": "F With U (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2kHdu1N31NkD5roBf1EHh7"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Waiting for You",
-        "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 211470,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
     },
     {
       "added_at": "2024-09-02 12:32:28",

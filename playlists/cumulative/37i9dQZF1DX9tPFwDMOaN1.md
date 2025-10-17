@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: K\-Pop Demon Hunters\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: HUNTR/X\(EJAE, AUDREY NUNA, REI AMI\)\)
 
 742 songs - 1 day 14 hr 31 min
 

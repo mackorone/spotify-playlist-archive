@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Cenobia
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Lucifena
 
 511 songs - 1 day 6 hr 0 min
 

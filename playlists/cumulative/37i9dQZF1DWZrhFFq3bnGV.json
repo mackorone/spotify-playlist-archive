@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: The Skuy",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordan Susanto",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 248088,
       "name": "After All",
       "url": "https://open.spotify.com/track/7tn0pGHHxcR5EVFcGHkhea"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 185142,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 261000,
       "name": "Chroma",
       "url": "https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP"
@@ -1775,6 +1775,36 @@
     },
     {
       "album": {
+        "name": "Fleeting Love (Live at the Jazz Marathon 2025)",
+        "url": "https://open.spotify.com/album/6wNnQiw2o8d3bGFCFrGBP6"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "Nial Djuliarso",
+          "url": "https://open.spotify.com/artist/7xvuA4KIDWeASr76zEvwOw"
+        },
+        {
+          "name": "Joshua Alexander",
+          "url": "https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr"
+        },
+        {
+          "name": "Eliezer Robby",
+          "url": "https://open.spotify.com/artist/4k5MhA8vpfXUCcpRsaiGQj"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349750,
+      "name": "Fleeting Love - Live at the Jazz Marathon 2025",
+      "url": "https://open.spotify.com/track/4nNsggh8grTMfylhkPLHbz"
+    },
+    {
+      "album": {
         "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
         "url": "https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80"
       },
@@ -2326,6 +2356,32 @@
       "duration_ms": 226865,
       "name": "How Much Do You Love Me",
       "url": "https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a"
+    },
+    {
+      "album": {
+        "name": "A SINNER WHO WILL DIE SINGING",
+        "url": "https://open.spotify.com/album/1GADp4d6kTo2dOuuQQnwVY"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        },
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        },
+        {
+          "name": "Grill Dg Lopo",
+          "url": "https://open.spotify.com/artist/0wyjg41UeDkSPH2zPawbNb"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "How Much Love's at Stake?",
+      "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
     },
     {
       "album": {
@@ -3422,7 +3478,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 258762,
       "name": "Malam Yang Berisik Di Kenangan",
       "url": "https://open.spotify.com/track/2QgOQjFtk7PR12Qym1wfER"
@@ -4800,7 +4856,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 173750,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
@@ -5382,7 +5438,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 227698,
       "name": "Wandering - Live Session",
       "url": "https://open.spotify.com/track/5UldVnKxq9ZMcITiRPh2qx"

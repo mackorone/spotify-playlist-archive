@@ -2,12 +2,13 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Zaho de Sagazan
+> Les  meilleures nouveautés de la chanson française avec Solann et Yoa
 
-235 songs - 13 hr 2 min
+238 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [15 octobre](https://open.spotify.com/track/0cCYUTsihAYCk7SnD4XPea) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nathy Cabrera](https://open.spotify.com/artist/2JkrRVDBIWv1iKcjKzzSSE) | [Le Disque Bleu](https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD) | 3:51 | 2025-10-16 |  |
 | [30 ans](https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8) | [SAVANAH](https://open.spotify.com/artist/6aUqiHjCzli8kjq6vb2VdD) | [30 ans](https://open.spotify.com/album/5WmLXhrqUxqE66lP65lUgh) | 4:03 | 2025-04-10 | 2025-09-05 |
 | [Abracadabra](https://open.spotify.com/track/0ft0eRy0NXU4CI5vJIbpyD) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Abracadabra](https://open.spotify.com/album/5aREOKUXQYYfrZmVYxdHvr) | 2:35 | 2024-11-07 | 2025-03-14 |
 | [Adieu Paris](https://open.spotify.com/track/32LDvHPd4N3gMoDMqUNWZy) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Adieu Paris](https://open.spotify.com/album/1Bt7ky5PJL4SnMEtjmmXdT) | 4:03 | 2025-05-15 | 2025-06-20 |
@@ -67,7 +68,7 @@
 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 | 2024-10-18 |
 | [FVL](https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [FVL](https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ) | 3:45 | 2024-06-27 | 2024-10-04 |
 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-04-17 | 2025-09-12 |
-| [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 | 2025-08-07 |  |
+| [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 | 2025-08-07 | 2025-10-17 |
 | [Göttingen](https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Göttingen](https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS) | 3:09 | 2024-06-27 | 2024-11-22 |
 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:49 | 2025-09-11 |  |
 | [Hauteurs](https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0) | [Blondino](https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8) | [Hauteurs](https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq) | 3:20 | 2024-07-18 | 2024-11-15 |
@@ -77,7 +78,7 @@
 | [ils en savent quoi ?](https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [ils en savent quoi ?](https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO) | 3:18 | 2024-09-19 | 2025-01-31 |
 | [Insolation](https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Insolation](https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp) | 2:54 | 2024-06-27 | 2024-11-29 |
 | [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 | 2025-05-29 |  |
-| [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 | 2025-05-22 |  |
+| [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 | 2025-05-22 | 2025-10-17 |
 | [j'aime pas les goodbye](https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [j'aime pas les goodbye](https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs) | 2:03 | 2025-10-02 |  |
 | [J'connais des gens](https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [J'connais des gens](https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ) | 2:15 | 2024-06-27 | 2024-09-20 |
 | [J'sais pas](https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [J'sais pas](https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh) | 3:31 | 2024-06-27 | 2024-12-06 |
@@ -101,11 +102,12 @@
 | [La fresque](https://open.spotify.com/track/2eelhSfH6dy2EpAkidvsmE) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh) | 2:58 | 2025-03-13 | 2025-05-16 |
 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 | 2024-09-26 | 2025-01-10 |
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 | 2025-09-12 |
-| [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 |  |
+| [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 | 2025-10-17 |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
 | [La nuit n'est pas prêteuse](https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [After Summer](https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy) | 3:03 | 2025-09-25 |  |
 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 | 2025-09-20 |
 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 | 2024-07-18 | 2024-11-08 |
+| [la rosée](https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [la rosée](https://open.spotify.com/album/3C52FrCkUU0gKLekc9iEUo) | 2:32 | 2025-10-16 |  |
 | [La route de Vénus](https://open.spotify.com/track/2r8P281AMp4LDUlTESLFsP) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La route de Vénus](https://open.spotify.com/album/3pQIXoxrA4JiucuHUantW7) | 3:10 | 2024-06-27 | 2024-11-08 |
 | [La Rua Madureira](https://open.spotify.com/track/0JodGC4N6E7adLUi3nYf1I) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix](https://open.spotify.com/album/1gqh4vUbdIetgdpWqnaq67) | 3:28 | 2024-08-29 | 2025-01-17 |
 | [La souterraine](https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La souterraine](https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv) | 4:29 | 2024-09-05 | 2025-01-10 |
@@ -235,6 +237,7 @@
 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:18 | 2025-09-11 |  |
 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 | 2025-01-09 | 2025-05-23 |
 | [à l'autre bout du tel](https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [à l'autre bout du tel](https://open.spotify.com/album/0Lg0PUYJtcHY2YQdpPyOum) | 3:33 | 2025-06-05 | 2025-09-27 |
+| [à l'étroit dans ma peau](https://open.spotify.com/track/0IncMVyy8wiDGCxrTAATH8) | [SLOŃ](https://open.spotify.com/artist/2jphCk584Xja5K2n5cmfKy) | [à l'étroit dans ma peau](https://open.spotify.com/album/1D0QZFKupUcaEckobnSHix) | 3:30 | 2025-10-16 |  |
 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 | 2024-08-29 | 2024-11-22 |
 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 | 2025-01-30 | 2025-07-11 |
 | [Ça ne saurait tarder](https://open.spotify.com/track/1aOR6tifyYNqMBFgOljtHv) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ça ne saurait tarder](https://open.spotify.com/album/5nMycdHbuXuCDaPzcq22Tc) | 4:57 | 2025-09-04 |  |

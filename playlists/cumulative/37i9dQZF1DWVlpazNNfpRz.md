@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-123 songs - 7 hr 9 min
+124 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2023-08-11 |  |
 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 | 2023-08-11 |  |
 | [CHINGON](https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [CHINGON](https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe) | 2:14 | 2024-10-10 |  |
+| [CHINGON 2](https://open.spotify.com/track/54gJmxMx9Ea5zRaAKNodqp) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [WORLDWAI](https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg) | 3:00 | 2025-10-17 |  |
 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 | 2024-06-14 |  |
 | [Confieso](https://open.spotify.com/track/3IBXPyDPW905zIz9Ie4xmh) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a) | [Confieso](https://open.spotify.com/album/2JtcpWxHOoNCk1U9sPY37a) | 4:05 | 2023-11-10 |  |
 | [Confieso \(Remix\)](https://open.spotify.com/track/25ZjRLqFdc3u1saH4NNxRZ) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a), [Fainal](https://open.spotify.com/artist/0Q7ezBXgkKjIvdbtDLL3R6) | [Confieso](https://open.spotify.com/album/7HeUwZCMAL3A6lh4KCVkPz) | 3:58 | 2023-08-11 | 2024-04-19 |
@@ -104,7 +105,7 @@
 | [Sax to Me](https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax to Me](https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q) | 6:04 | 2023-08-11 | 2023-11-30 |
 | [Saxofon](https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL) | [Gio Silva](https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm) | [Saxofon](https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm) | 4:37 | 2023-08-11 | 2024-04-19 |
 | [Saxofon \- Original](https://open.spotify.com/track/4GigVheAnNO0acLliRzxnV) | [Gio Silva](https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm) | [Saxofon](https://open.spotify.com/album/1GfVdNqfcpW7Zkr60CZ9cC) | 4:37 | 2023-11-10 |  |
-| [SaxoSuelta Oriente Tribe](https://open.spotify.com/track/4KohhrwZap4UCXBaHTryRG) | [Darek Sotelo](https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H) | [Saxo Suelta](https://open.spotify.com/album/08QGiCrEuY5lUFT3LYsgMC) | 3:49 | 2023-11-10 |  |
+| [SaxoSuelta Oriente Tribe](https://open.spotify.com/track/4KohhrwZap4UCXBaHTryRG) | [Darek Sotelo](https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H) | [Saxo Suelta](https://open.spotify.com/album/08QGiCrEuY5lUFT3LYsgMC) | 3:49 | 2023-11-10 | 2025-10-17 |
 | [SaxoSuelta Oriente Tribe](https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3) | [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd), [Darek Sotelo](https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H) | [SaxoSuelta Oriente Tribe](https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE) | 3:49 | 2023-08-11 | 2024-04-19 |
 | [Se Aloca](https://open.spotify.com/track/1FpYVU1Wer97qxhdkW3plr) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Mr\. Fox](https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Se Aloca](https://open.spotify.com/album/6iBcbYmmuEO4CjS6kH1AZO) | 3:07 | 2023-08-11 |  |
 | [Se Aloca](https://open.spotify.com/track/7DDO9H1FuRnDHhvsTAyWqb) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Mr\. Fox](https://open.spotify.com/artist/2WZcwljb7kYFwzTh2KvGV1), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Se Aloca](https://open.spotify.com/album/6dDtlbg8zpMUnwnrH2Ruq0) | 3:07 | 2023-11-10 | 2024-04-19 |

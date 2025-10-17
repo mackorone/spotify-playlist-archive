@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: אגם בוחבוט
 
-459 songs - 1 day 0 hr 8 min
+461 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-06-27 | 2024-09-13 |
 | [אני לא לבד](https://open.spotify.com/track/3P8aOoAF0yvw0CgoV3WVH4) | [קינצוגי](https://open.spotify.com/artist/3bObsA817ZJmVleSeONvk9), [Guy & Yahel](https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv), [Dan Zeitune](https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8) | [אני לא לבד](https://open.spotify.com/album/12RtFJxOoJ0PLPd6sUhQx1) | 4:33 | 2024-12-12 | 2024-12-20 |
 | [אני מסתובב](https://open.spotify.com/track/7362lWsAM9fv1ZF3tjNG1K) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 2:47 | 2025-07-10 | 2025-09-19 |
+| [אני עוד חי](https://open.spotify.com/track/7v2QFYLlvbkO03W5FncJaw) | [עילי צ'פמן](https://open.spotify.com/artist/5yLzaaXiO1z0d7Wk3BbsVb) | [אני עוד חי](https://open.spotify.com/album/32OIBKbinSNcAmtrdSxUO5) | 2:48 | 2025-10-16 |  |
 | [אנרגיה אבל עם אנה זק בקטע של רמיקס](https://open.spotify.com/track/1nOaHCBIZuzZj4hEpCIYOq) | [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW), [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Shachar Zysman](https://open.spotify.com/artist/1RIc6VDTRRoN9YeA2j2nCs) | [אנרגיה אבל עם אנה זק בקטע של רמיקס](https://open.spotify.com/album/2HYuOfc5ys8OqmEdUqlqvy) | 2:34 | 2025-07-24 | 2025-09-19 |
 | [אנשי הגשם](https://open.spotify.com/track/6N28NuVF5sOwqn4IRROcWq) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [היסטוריה של תאונות](https://open.spotify.com/album/2XtaerAcEYH7PGyglBLVoE) | 4:12 | 2025-02-13 | 2025-03-07 |
 | [אפילו ליום אחד](https://open.spotify.com/track/0d1j4WiSlNkoING6rOmaIa) | [ההרכב של גיל ויין](https://open.spotify.com/artist/3gkIfirLCeqrXJpODHDC82), [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj) | [אפילו ליום אחד](https://open.spotify.com/album/0JQVEIh4iDx2fe8GE4Sf7e) | 3:09 | 2025-05-22 | 2025-08-29 |
@@ -208,6 +209,7 @@
 | [הסיבה שאין בי פחד](https://open.spotify.com/track/0UHE1MUY1JzKzRmmaC2PcL) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הסיבה שאין בי פחד](https://open.spotify.com/album/7djHUmUI5lVrXZ1o528KXc) | 3:27 | 2025-01-16 | 2025-05-09 |
 | [העיניים הכחולות שלך](https://open.spotify.com/track/5HZZsfKZVNYxeRtGUtpRGV) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [העיניים הכחולות שלך](https://open.spotify.com/album/2RvumRZJbbkITIM2Ex1G5k) | 3:36 | 2025-03-20 | 2025-06-06 |
 | [השיבה לאוקטובר](https://open.spotify.com/track/0Tcg2DOTuPJp0m0lVHqyzq) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [השיבה לאוקטובר](https://open.spotify.com/album/4kXVIH5V3l0B1WwJbGJDCL) | 3:55 | 2024-10-10 | 2025-02-07 |
+| [השיבנו](https://open.spotify.com/track/5VksXB2EcN8EQFaM2U3vIR) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [השיבנו](https://open.spotify.com/album/02tTkn5LIZAUxF5L4KvEH4) | 3:56 | 2025-10-16 |  |
 | [ואז הגיעה השבת \(עם מוקי\)](https://open.spotify.com/track/2TVQU1SAdjMYqGUTxRmXg5) | [Elia Rosilio](https://open.spotify.com/artist/0fdJoov5KY8fDtgufXKCi3), [Mooki](https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm) | [ואז הגיעה השבת](https://open.spotify.com/album/0OpioKDmfVBbj3z4PLHGbn) | 2:50 | 2024-09-26 | 2024-10-11 |
 | [וונדרוול](https://open.spotify.com/track/0y7ivwoPptQTZoqSNuLx3j) | [Amir Sade](https://open.spotify.com/artist/0WJRb30AqOO17jmpL3s8NN) | [אמיר שדה](https://open.spotify.com/album/1ZFa2dXBHAlvgzdUvLlY35) | 4:12 | 2024-12-05 | 2024-12-20 |
 | [ויהי אור](https://open.spotify.com/track/2Pl1Sy0hyUnUVCJRI35jBH) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [ויהי אור](https://open.spotify.com/album/4LaJRSSnwugy9sHSCPuphE) | 3:27 | 2025-07-03 | 2025-09-05 |
@@ -405,8 +407,8 @@
 | [פסיכים](https://open.spotify.com/track/3s2IcgTOGFqQTmerRoY3sH) | [Sheer Zuares](https://open.spotify.com/artist/6A7zj7m35jN7X2u49Sy52r) | [פסיכים](https://open.spotify.com/album/4vh3Y9lrJifcgY1EesmO3J) | 3:03 | 2025-03-20 | 2025-06-06 |
 | [פספסתי](https://open.spotify.com/track/3TcrBHCQXYoIdyGky3T2JB) | [Noam Banai](https://open.spotify.com/artist/4M4Pntl0gziiZLbKq3Evoz), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עיניים טובות](https://open.spotify.com/album/2JPVpiH86aH2EU7Dup4KXl) | 3:11 | 2025-01-16 | 2025-02-07 |
 | [פצוע](https://open.spotify.com/track/54cnTAWl7hZQx5AmgV2Wq8) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [ניצחונות קטנים](https://open.spotify.com/album/3HkLSBUqzUdr7S3Aqu6bS3) | 3:16 | 2024-09-26 | 2025-02-28 |
-| [פרח](https://open.spotify.com/track/74jBV9bdyB940ERoxGI08F) | [Nofia](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q) | [פרח](https://open.spotify.com/album/0WCvhoMUphFGF0NMus7J6H) | 2:42 | 2025-08-21 |  |
-| [פרח במדבר](https://open.spotify.com/track/3XU5rHCWO4fRofEKf3qTg2) | [Mika Moshe](https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6) | [פרח במדבר](https://open.spotify.com/album/4rdWI6BjUUt2OHCORXIo9i) | 3:01 | 2025-08-21 |  |
+| [פרח](https://open.spotify.com/track/74jBV9bdyB940ERoxGI08F) | [Nofia](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q) | [פרח](https://open.spotify.com/album/0WCvhoMUphFGF0NMus7J6H) | 2:42 | 2025-08-21 | 2025-10-17 |
+| [פרח במדבר](https://open.spotify.com/track/3XU5rHCWO4fRofEKf3qTg2) | [Mika Moshe](https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6) | [פרח במדבר](https://open.spotify.com/album/4rdWI6BjUUt2OHCORXIo9i) | 3:01 | 2025-08-21 | 2025-10-17 |
 | [פרח קיר](https://open.spotify.com/track/4iYnKk59J637J8muc7Y7RP) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [פרח קיר](https://open.spotify.com/album/5NhGYR440Cc61XycuCJ6R1) | 2:25 | 2024-07-11 | 2024-09-13 |
 | [פרחים](https://open.spotify.com/track/1laJVCysA40K9z3YLEHfQ6) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [פרחים](https://open.spotify.com/album/5fKn580G0PipwcnpAAiNpy) | 2:39 | 2024-07-04 | 2024-07-19 |
 | [פרש בודד](https://open.spotify.com/track/5wLGbj3sG2FZs3IzuumvTG) | [Mercedes Band](https://open.spotify.com/artist/34gCWollNqYlcodydhFabx) | [פרש בודד](https://open.spotify.com/album/7DougP5FGyx4HPTElFmE6H) | 3:50 | 2025-03-27 | 2025-06-06 |

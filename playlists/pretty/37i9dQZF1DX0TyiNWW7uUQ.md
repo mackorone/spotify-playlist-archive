@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,744 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,832 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 38 | [Thodu Vaanam](https://open.spotify.com/track/4HDzsx1dJKbuL0YkffBuBm) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Anegan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23xN4QBDqWomd6xxYXIxJ8) | 5:15 |
 | 39 | [Naan Un](https://open.spotify.com/track/3V2ricb6fi4OCJu2rjhL1A) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [24 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0J18JSXU6DWdqN2ud6sxHA) | 4:48 |
 | 40 | [Mental Manadhil](https://open.spotify.com/track/4mOmWSdTmf6fSAibGWCKp7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mani Ratnam](https://open.spotify.com/artist/4jBJ5ImDZhpeEzBNueAMB1) | [O Kadhal Kanmani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj) | 3:25 |
-| 41 | [Azhage](https://open.spotify.com/track/2Racq7HrXkYvF8w9zXvlTp) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kathakali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jOBwtx1j1Y7E8awY5iom9) | 3:38 |
+| 41 | [Azhage](https://open.spotify.com/track/2Racq7HrXkYvF8w9zXvlTp) | [Hiphop Tamizha Aadhi](https://open.spotify.com/artist/2FgSbyAbw0oYqJYBBmBv1L) | [Kathakali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jOBwtx1j1Y7E8awY5iom9) | 3:38 |
 | 42 | [Kadhale Kadhale](https://open.spotify.com/track/3THVNKs3bdQekA02kK1hWD) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Indru Netru Naalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0D7AwO4x3NHyy5Fy2QVisr) | 3:27 |
 | 43 | [Imaye Imaye](https://open.spotify.com/track/6H1hnJRQOGQ9djPL3jNu9G) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Raja Rani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nOeFhmoJdycHgRtf8KDwA) | 3:28 |
 | 44 | [Senthoora](https://open.spotify.com/track/6LtQGnMSsQ859t930Anbyk) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Luksimi Sivaneswaralingam](https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb) | [Bogan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HELb8dimYZvajrbPJGPXV) | 4:24 |

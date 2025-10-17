@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,799 likes - 99 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,851 likes - 99 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 15 | [origami](https://open.spotify.com/track/1UudxRy5jo7m7LeaNnFWtU) | [Nanggiery](https://open.spotify.com/artist/0y9sL98yIWIQJ6QTUADdol) | [origami](https://open.spotify.com/album/7G7Dcct3u6TmNWhMz6NjR3) | 2:44 |
 | 16 | [abba](https://open.spotify.com/track/1QPFSq9KU9losR7zrN3dgU) | [Pedro Morales](https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR) | [abba](https://open.spotify.com/album/3GpjC5owBxWiou9UJhtNxe) | 3:13 |
 | 17 | [No Sueltas Mi Mano](https://open.spotify.com/track/5J3HZDwWml44qOCW92POjb) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [No Sueltas Mi Mano](https://open.spotify.com/album/4a4f3E2Pd2ydANs5J4W45h) | 3:36 |
-| 18 | [Todo Y Nada \- Remix](https://open.spotify.com/track/4MS4fooUchcZOTv0YRYPty) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Todo Y Nada \(Remix\)](https://open.spotify.com/album/2oH2mugr9l90aqk554A17V) | 3:01 |
+| 18 | [Todo Y Nada \- Remix](https://open.spotify.com/track/4MS4fooUchcZOTv0YRYPty) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/5XjCoX9HVurvAzUgJsTzCn) | [Todo Y Nada \(Remix\)](https://open.spotify.com/album/2oH2mugr9l90aqk554A17V) | 3:01 |
 | 19 | [La Rompiste](https://open.spotify.com/track/0f3niT865vDyiEdup8dHxm) | [Ronald Lugo](https://open.spotify.com/artist/7Igh7ZornNldJvNYAf82rI), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [La Rompiste](https://open.spotify.com/album/60oQMAl0sswpHhyY2db5Eb) | 3:02 |
 | 20 | [Bajo El Sol](https://open.spotify.com/track/5hZKAbaSeG7OO6ZSfHW77S) | [Kernel](https://open.spotify.com/artist/48BShWR9FbNQ359kKYgW3y), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Bajo El Sol](https://open.spotify.com/album/32AZjYNVL2KgbRh0IRKxPM) | 3:23 |
 | 21 | [Enfrenta Este Día](https://open.spotify.com/track/5HFmNd3rAJWWxi8Ldgd9u1) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Jhazi](https://open.spotify.com/artist/4kq48umn4vjcNlABugdDk7) | [Enfrenta Este Día](https://open.spotify.com/album/11Ki4I3Q4PzcOnNbWdmoOy) | 3:19 |

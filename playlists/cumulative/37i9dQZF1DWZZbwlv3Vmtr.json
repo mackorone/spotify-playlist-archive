@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "blizz",
+        "url": "https://open.spotify.com/album/5oNoa4T5aGZYG5cFOYzSrc"
+      },
+      "artists": [
+        {
+          "name": "loutwo",
+          "url": "https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127202,
+      "name": "blizz",
+      "url": "https://open.spotify.com/track/2XdxihbjudHhbB95dgk3On"
+    },
+    {
+      "album": {
         "name": "blossom",
         "url": "https://open.spotify.com/album/0ChbU1iWgoZM4TL1HGvt3g"
       },
@@ -4903,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "Evenkeel",
+        "url": "https://open.spotify.com/album/0jlG6GjC4NlAlOAFSvwpXf"
+      },
+      "artists": [
+        {
+          "name": "Westover Denver",
+          "url": "https://open.spotify.com/artist/4FKBvzCwLOXSdWN6nVAqIs"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115540,
+      "name": "Evenkeel",
+      "url": "https://open.spotify.com/track/4cyXwgOa3xCLYfuYPYEgVa"
+    },
+    {
+      "album": {
         "name": "Everchanging",
         "url": "https://open.spotify.com/album/0OTs4X5EuQOo4F2yzJlF4C"
       },
@@ -5142,7 +5178,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 150480,
       "name": "Fade",
       "url": "https://open.spotify.com/track/4Ufd6IR9Ucbue9ewTtRQ4k"
@@ -5280,6 +5316,24 @@
       "duration_ms": 127640,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R"
+    },
+    {
+      "album": {
+        "name": "far away",
+        "url": "https://open.spotify.com/album/0V9WA2gseFiULcVV56sB08"
+      },
+      "artists": [
+        {
+          "name": "butterfli",
+          "url": "https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124337,
+      "name": "far away",
+      "url": "https://open.spotify.com/track/0GDif8AtYRv3jfjwlzY1Uv"
     },
     {
       "album": {
@@ -5574,6 +5628,24 @@
       "duration_ms": 130588,
       "name": "Float",
       "url": "https://open.spotify.com/track/0XSq6J7KEeR5IH7GjfeDfX"
+    },
+    {
+      "album": {
+        "name": "Floating Memory",
+        "url": "https://open.spotify.com/album/7svZNQhN9BADcgSuJQrwFh"
+      },
+      "artists": [
+        {
+          "name": "Hillways",
+          "url": "https://open.spotify.com/artist/4UHkYUJbceL48XowKrC4Mg"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99200,
+      "name": "Floating Memory",
+      "url": "https://open.spotify.com/track/6lhGZ8H1CKtwfF4eF8CQQQ"
     },
     {
       "album": {
@@ -5880,7 +5952,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 172584,
       "name": "Freudian slippin",
       "url": "https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f"
@@ -6024,7 +6096,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 133953,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z"
@@ -7816,7 +7888,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 132000,
       "name": "In Control",
       "url": "https://open.spotify.com/track/7Kqj0LK21ncarCNLOOPJXN"
@@ -7978,7 +8050,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 115598,
       "name": "Ink of Dawn",
       "url": "https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq"
@@ -8548,7 +8620,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "Kensington Market",
       "url": "https://open.spotify.com/track/5ZfvNz8pTnaN0B5gLtyvFJ"
@@ -8638,7 +8710,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 149333,
       "name": "koko",
       "url": "https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y"
@@ -9246,7 +9318,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 154838,
       "name": "Lights",
       "url": "https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE"
@@ -9612,6 +9684,24 @@
       "duration_ms": 165374,
       "name": "losing time",
       "url": "https://open.spotify.com/track/7y5CnlDjKTRq9D4L97Ag6I"
+    },
+    {
+      "album": {
+        "name": "Loungin",
+        "url": "https://open.spotify.com/album/1w1cBVbZMrFhZERmS5aYNB"
+      },
+      "artists": [
+        {
+          "name": "Nishimura Blaze",
+          "url": "https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138311,
+      "name": "Loungin",
+      "url": "https://open.spotify.com/track/7m94AKjo80jkMtu3F27rYq"
     },
     {
       "album": {
@@ -10528,7 +10618,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 137308,
       "name": "milk.",
       "url": "https://open.spotify.com/track/3uW7iYsXcWtXHMn0SXAJrX"
@@ -13166,7 +13256,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn"
@@ -13748,7 +13838,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 145806,
       "name": "Radiotravel",
       "url": "https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W"
@@ -15439,6 +15529,24 @@
     },
     {
       "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/4qfJbHtAruB1vImMgJEyaG"
+      },
+      "artists": [
+        {
+          "name": "Adam Space",
+          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/3bJzOdQK2t4bY88yCfGduZ"
+    },
+    {
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ"
       },
@@ -16324,7 +16432,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 143866,
       "name": "Spoiler Alert",
       "url": "https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9"
@@ -17942,7 +18050,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 129600,
       "name": "the neighborhood",
       "url": "https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0"
@@ -18220,7 +18328,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 126486,
       "name": "Through The Garden",
       "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
@@ -19117,6 +19225,28 @@
     },
     {
       "album": {
+        "name": "Until Morning Comes",
+        "url": "https://open.spotify.com/album/0DbqxCggCsx7rXA2c1ZLAf"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Until Morning Comes",
+      "url": "https://open.spotify.com/track/13vIPV9gmRakQ0yJk5S81g"
+    },
+    {
+      "album": {
         "name": "unwind rewind",
         "url": "https://open.spotify.com/album/3FEZtS1ZfqgrCaDbsc3Wsi"
       },
@@ -19602,6 +19732,24 @@
       "duration_ms": 140571,
       "name": "Warm Light, Cold Rain",
       "url": "https://open.spotify.com/track/52Bud0dXCjqlbzxp32yjYu"
+    },
+    {
+      "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/2Rz9ET1DHUAOIPrqf0cKAI"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/2qtWHkBQxCcxNgBOzPnAQZ"
     },
     {
       "album": {

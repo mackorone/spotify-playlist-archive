@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 28172,
+  "num_followers": 28185,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO2SgAAAAACnzVDRnkndD+BnnKZO5n1n",
+  "snapshot_id": "aO7kAAAAAAAX6lOX34IwkfcdVwvX2g7z",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill the Power",
-        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
+        "name": "Babylon (U.S. Version)",
+        "url": "https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 271408,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/3xhS0SMz5vn0aLZofbilOE"
+      "duration_ms": 183760,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon (U.S. Version)",
-        "url": "https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4"
+        "name": "Kill the Power",
+        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM"
+      "duration_ms": 271408,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/3xhS0SMz5vn0aLZofbilOE"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
       "duration_ms": 212019,
       "name": "Machine (Ft. Gary Stringer)",
       "url": "https://open.spotify.com/track/0MrL61At3ad6kVdjefaZMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Start First",
+      "url": "https://open.spotify.com/track/0YiMuZ0z4xtfdkdj7wOiIl"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Start First",
-      "url": "https://open.spotify.com/track/0YiMuZ0z4xtfdkdj7wOiIl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Tings",
         "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2BIy81E5iBRqNYkGD61ImF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Union Black",
         "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 251773,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/2OLzB5nuueydMIuLQxhKOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2BIy81E5iBRqNYkGD61ImF"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 241573,
-      "name": "Guntalk",
-      "url": "https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1"
+      "duration_ms": 210973,
+      "name": "Bad Man Ah Bad Man",
+      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Bad Man Ah Bad Man",
-      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+      "duration_ms": 241573,
+      "name": "Guntalk",
+      "url": "https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1"
     },
     {
       "added_at": null,

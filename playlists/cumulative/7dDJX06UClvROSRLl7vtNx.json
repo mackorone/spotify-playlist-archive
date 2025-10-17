@@ -14401,6 +14401,32 @@
     },
     {
       "album": {
+        "name": "Never Felt So Long",
+        "url": "https://open.spotify.com/album/4WVom736tEY5iBHPV2Nvbs"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132075,
+      "name": "Never Felt So Long",
+      "url": "https://open.spotify.com/track/512Ms0exMAqudWE7t4u5A5"
+    },
+    {
+      "album": {
         "name": "Never Found It",
         "url": "https://open.spotify.com/album/6FU7w4Ecf0uA6fQXiDH1B0"
       },

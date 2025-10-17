@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "My Name Is Street",
+        "url": "https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Hukam",
+          "url": "https://open.spotify.com/artist/03OH9jpTJ8nYmuWdGSe5Zr"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ambar Dream",
+      "url": "https://open.spotify.com/track/4AlIzNCUZCI0gyTEZLCDLR"
+    },
+    {
+      "album": {
         "name": "Andaaze",
         "url": "https://open.spotify.com/album/32nIGDQBehbZAM8ocu0qZs"
       },
@@ -1109,6 +1135,28 @@
     },
     {
       "album": {
+        "name": "My Name Is Street",
+        "url": "https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Pawan Dhanda",
+          "url": "https://open.spotify.com/artist/4Hoz7OmMfGJhRUcPCUoJgc"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Bmx",
+      "url": "https://open.spotify.com/track/1Tfgsmpa8fTLcqxlSVNyFk"
+    },
+    {
+      "album": {
         "name": "The Brownprint",
         "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
       },
@@ -1392,7 +1440,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 180880,
       "name": "Clockin",
       "url": "https://open.spotify.com/track/41P540FctQvKXvGLMDQTBd"
@@ -1774,6 +1822,28 @@
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
+    },
+    {
+      "album": {
+        "name": "My Name Is Street",
+        "url": "https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Diff Lane",
+      "url": "https://open.spotify.com/track/30Akbn403opKtvEKfkQ4fs"
     },
     {
       "album": {
@@ -2713,7 +2783,7 @@
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 193124,
+      "duration_ms": 194000,
       "name": "Gunda",
       "url": "https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV"
     },
@@ -4666,7 +4736,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 150750,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/3WPIRfYHtn5REB8Ydp9PhO"
@@ -4948,7 +5018,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 152493,
       "name": "Rajdhani (From \"Rajdhani\")",
       "url": "https://open.spotify.com/track/43jPP7W1IHpXxvRX1C631C"

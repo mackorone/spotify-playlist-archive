@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,842 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,843 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [Sommer](https://open.spotify.com/track/148ipTGpwMc6rqVLKv1Ni5) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Sommer](https://open.spotify.com/album/5eVuUpVYXKvRQHhD2wQlBn) | 2:43 |
 | 16 | [Superpower](https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Superpower](https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n) | 4:44 |
 | 17 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 18 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
-| 19 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
+| 18 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
+| 19 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
 | 20 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
 | 21 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
 | 22 | [1500 km](https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [1500 km](https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds) | 2:06 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
 | 30 | [beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [beine spüren](https://open.spotify.com/album/1u1SE1QyQgbP4A7KhTF1cF) | 2:52 |
 | 31 | [Du kannst nicht gut allein sein](https://open.spotify.com/track/2ZPIyzwaJ1fDdGdlqBq7Cy) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Du kannst nicht gut allein sein](https://open.spotify.com/album/0GdCyhce60HcUmnUugZV6W) | 3:03 |
-| 32 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |
-| 33 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
+| 32 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
+| 33 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |
 | 34 | [Immerx3](https://open.spotify.com/track/3SLrSR2jkWiUWxx1ONzHOI) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Immerx3](https://open.spotify.com/album/6AtltYp1XUC8eKVV1zK5Kb) | 3:28 |
-| 35 | [Glühwürmchen](https://open.spotify.com/track/0bkkcQ3GXWJLAUDnpwEFa2) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Glühwürmchen](https://open.spotify.com/album/3NSxwMjPi3mTANNAJ6IHFx) | 2:52 |
-| 36 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
+| 35 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
+| 36 | [Glühwürmchen](https://open.spotify.com/track/0bkkcQ3GXWJLAUDnpwEFa2) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Glühwürmchen](https://open.spotify.com/album/3NSxwMjPi3mTANNAJ6IHFx) | 2:52 |
 | 37 | [Sun](https://open.spotify.com/track/5pVwBCaSao2mLhthyDVTc1) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Sun](https://open.spotify.com/album/6q9uLcgSr1lF6QVVxHJzaN) | 3:24 |
 | 38 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |
 | 39 | [Immer wenn du trinkst](https://open.spotify.com/track/36FFwVZq24okiqI9py4X8p) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Immer wenn du trinkst / Keine Zeit](https://open.spotify.com/album/1J5GWCG3Lxe4s9oDCpvJo0) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Lost Indieboy](https://open.spotify.com/track/18RDGWmoWjE6VtUT3AB728) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [SNACKS](https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV) | 3:19 |
 | 50 | [berlin night life](https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [berlin night life](https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0) | 3:03 |
 
-Snapshot ID: `AAAAAN72cqeGdoZv5XTsvTBpLToHFob4`
+Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

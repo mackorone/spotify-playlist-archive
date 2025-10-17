@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: MISSION MUSICA
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,960 likes - 75 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,034 likes - 75 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Creo En Ti](https://open.spotify.com/track/5pdW42MXRkX9J2NVT2ujgd) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [Creo En Ti](https://open.spotify.com/album/5oYlcBML4HD9gkrEuJgsCe) | 6:47 |
+| 1 | [Creo En Ti](https://open.spotify.com/track/5pdW42MXRkX9J2NVT2ujgd) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Creo En Ti](https://open.spotify.com/album/5oYlcBML4HD9gkrEuJgsCe) | 6:47 |
 | 2 | [Todo Es Posible \- En Vivo](https://open.spotify.com/track/3UmzPKGN6BRpPtW7M8ynEO) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Todo Es Posible \(En Vivo\)](https://open.spotify.com/album/61c7y8Wv1OLa0gO19ft2pK) | 3:56 |
 | 3 | [Todo Va Estar Bien \- Live In República Dominicana](https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Juan Carlos Rodriguez](https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH) | [Todo Va Estar Bien \(Live In República Dominicana\)](https://open.spotify.com/album/7l5ZeaIwVuaNZ8yvPMVRRv) | 6:42 |
 | 4 | [Que Ruja El León](https://open.spotify.com/track/4M7hm9mlfnZPuXyC1HYMAr) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Que Ruja El León](https://open.spotify.com/album/22QBYTgN3FIcpEGokgllmm) | 11:23 |

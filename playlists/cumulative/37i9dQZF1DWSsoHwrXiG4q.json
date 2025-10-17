@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 356551,
       "name": "But I Found",
       "url": "https://open.spotify.com/track/3yBgSB9KQowEW6EhaoGcu6"
@@ -1766,6 +1766,24 @@
       "duration_ms": 209207,
       "name": "Memories of Us",
       "url": "https://open.spotify.com/track/0IQPNwi9n8DZdCURmokB3F"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7wCLwq55AJvwjddfD0clOU"
+      },
+      "artists": [
+        {
+          "name": "Trail",
+          "url": "https://open.spotify.com/artist/2A83umpkQxHuNcL3ahaAvd"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320429,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6tHbKhREIMjr2D0VU5S8Ib"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Ama Louise
+> Discover your new favourite artists from UK&IE\. Cover: samxemma
 
-333 songs - 17 hr 52 min
+334 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 | 2025-03-21 |  |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2024-12-06 |  |
 | [You Got](https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [You Got](https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r) | 3:26 | 2022-02-18 |  |
+| [YOU KNOW I LOVE YOU](https://open.spotify.com/track/1HKKY18ecG113bvpdnylfP) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [YOU KNOW I LOVE YOU](https://open.spotify.com/album/2OKd0EqIVRjqEPB40FZd79) | 2:19 | 2025-10-16 |  |
 | [You Stayed / To Live](https://open.spotify.com/track/4qrpX30k1mtHBHdTrMySod) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [For Those I Love](https://open.spotify.com/album/3gpVbxElqwLZfc1ZWfiN27) | 5:27 | 2022-02-18 |  |
 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 | 2025-05-01 |  |
 

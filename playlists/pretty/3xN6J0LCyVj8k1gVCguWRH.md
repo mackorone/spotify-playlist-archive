@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,987 likes - 168 songs - 9 hr 56 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,986 likes - 172 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,15 +166,19 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 156 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 157 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 158 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 159 | [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 |
-| 160 | [Drinkin' Again](https://open.spotify.com/track/03IDe9WgzVDzwSMlUvZcPy) | [Reed Foley](https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc) | [Drinkin' Again](https://open.spotify.com/album/2EPCExRYd73PEsoj4ipG7X) | 2:43 |
-| 161 | [Whine for Me Baby](https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ) | [Moneymarkhot](https://open.spotify.com/artist/09LFlcexm5a9KlybGUv1vR), [Eazi Money](https://open.spotify.com/artist/7JxdiR4AQ6TDKzHPRRaEL6) | [Whine for Me Baby](https://open.spotify.com/album/0qzwhEJ8iCDdfjYUfsh8mD) | 2:44 |
-| 162 | [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 |
-| 163 | [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 |
-| 164 | [cud me](https://open.spotify.com/track/2TwznLLXSKMdyXthgZqAyH) | [Sandia](https://open.spotify.com/artist/7pnGQvCihtaDCWHG3bQzIV) | [cud me](https://open.spotify.com/album/5oYfgIUdfiHE4H0l6DrmY8) | 3:04 |
-| 165 | [Kiss Cam Gone Wild](https://open.spotify.com/track/3yoiVlsIs2rgLzQXiCFi0Z) | [Chill in Brazil](https://open.spotify.com/artist/5x4E8m5rKeuj0WTerae8n2) | [Kiss Cam](https://open.spotify.com/album/2p3BKhbApuC0jn1PyWk4np) | 3:29 |
-| 166 | [Best Ride](https://open.spotify.com/track/1rFddXA4UcwLu5g4FdpuvC) | [JAM☆ONE](https://open.spotify.com/artist/02EZvsQ5QfzpqC2poRVRDL) | [JAMONE VOL 3](https://open.spotify.com/album/0A4uZsI19pmluhnQyo7vnu) | 3:07 |
-| 167 | [lost me where you found me](https://open.spotify.com/track/03xdIuR52GK0UQW8KHJhuy) | [Israel Wilson](https://open.spotify.com/artist/4xfk20sRrdkcWDg56jkXnS) | [Too Little Too Late II](https://open.spotify.com/album/2nsqGFWu8hqRlNcFjTVFPd) | 2:13 |
-| 168 | [Through the valley.](https://open.spotify.com/track/1xfzYCEu8nwQfp1Qfpii9U) | [Flyingboy Bobby](https://open.spotify.com/artist/1Elez1wU4It82utXDD9Bkh) | [Through the valley.](https://open.spotify.com/album/1cXWCdk3tNp7zoGpx7Zl4C) | 3:37 |
+| 159 | [always b there](https://open.spotify.com/track/5SfiKFsVQnzFt2kIhkaO3n) | [bbluv](https://open.spotify.com/artist/0hCRS1ioCHeuhDbRBK4ckq), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [JohnMD](https://open.spotify.com/artist/5zqxCFyWIEgVQ6vwXUFuzJ) | [always b there](https://open.spotify.com/album/6zysvQq7dVeSp7eVvKyjuA) | 2:00 |
+| 160 | [Oasis](https://open.spotify.com/track/2BErRZBoWGubwxNzjhy7S3) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Oasis](https://open.spotify.com/album/5lA2i5jeybyU72tr13vsuv) | 3:06 |
+| 161 | [hurt](https://open.spotify.com/track/5N1jyQbx2Yxk3dHKJ0nrpG) | [Mary Ann Wright](https://open.spotify.com/artist/7wv9wEpM5NKI877LAbwWbf) | [enough](https://open.spotify.com/album/0M6gHInXljtImqUGAj6ojb) | 3:34 |
+| 162 | [Don't You Forget About Me](https://open.spotify.com/track/1gUdr56ko9J7fZHHHN6nFh) | [Sara Melson](https://open.spotify.com/artist/1Kytaevw3xfR35imimNkaG) | [Don't You Forget About Me](https://open.spotify.com/album/5j8SuHgWHUHTygLbqVH8Rj) | 3:44 |
+| 163 | [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 |
+| 164 | [Drinkin' Again](https://open.spotify.com/track/03IDe9WgzVDzwSMlUvZcPy) | [Reed Foley](https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc) | [Drinkin' Again](https://open.spotify.com/album/2EPCExRYd73PEsoj4ipG7X) | 2:43 |
+| 165 | [Whine for Me Baby](https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ) | [Moneymarkhot](https://open.spotify.com/artist/09LFlcexm5a9KlybGUv1vR), [Eazi Money](https://open.spotify.com/artist/7JxdiR4AQ6TDKzHPRRaEL6) | [Whine for Me Baby](https://open.spotify.com/album/0qzwhEJ8iCDdfjYUfsh8mD) | 2:44 |
+| 166 | [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 |
+| 167 | [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 |
+| 168 | [cud me](https://open.spotify.com/track/2TwznLLXSKMdyXthgZqAyH) | [Sandia](https://open.spotify.com/artist/7pnGQvCihtaDCWHG3bQzIV) | [cud me](https://open.spotify.com/album/5oYfgIUdfiHE4H0l6DrmY8) | 3:04 |
+| 169 | [Kiss Cam Gone Wild](https://open.spotify.com/track/3yoiVlsIs2rgLzQXiCFi0Z) | [Chill in Brazil](https://open.spotify.com/artist/5x4E8m5rKeuj0WTerae8n2) | [Kiss Cam](https://open.spotify.com/album/2p3BKhbApuC0jn1PyWk4np) | 3:29 |
+| 170 | [Best Ride](https://open.spotify.com/track/1rFddXA4UcwLu5g4FdpuvC) | [JAM☆ONE](https://open.spotify.com/artist/02EZvsQ5QfzpqC2poRVRDL) | [JAMONE VOL 3](https://open.spotify.com/album/0A4uZsI19pmluhnQyo7vnu) | 3:07 |
+| 171 | [lost me where you found me](https://open.spotify.com/track/03xdIuR52GK0UQW8KHJhuy) | [Israel Wilson](https://open.spotify.com/artist/4xfk20sRrdkcWDg56jkXnS) | [Too Little Too Late II](https://open.spotify.com/album/2nsqGFWu8hqRlNcFjTVFPd) | 2:13 |
+| 172 | [Through the valley.](https://open.spotify.com/track/1xfzYCEu8nwQfp1Qfpii9U) | [Flyingboy Bobby](https://open.spotify.com/artist/1Elez1wU4It82utXDD9Bkh) | [Through the valley.](https://open.spotify.com/album/1cXWCdk3tNp7zoGpx7Zl4C) | 3:37 |
 
-Snapshot ID: `AAA08SrdWCGeONoijOEEjphKhr+yUbFg`
+Snapshot ID: `AAA09rQ2JbK8yG9Gv57yYuKFQ6QnrsDU`

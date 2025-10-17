@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 222533,
       "name": "Olin",
       "url": "https://open.spotify.com/track/56VUaKIZPLuHXhWj1B7YHJ"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 235349,
       "name": "Party",
       "url": "https://open.spotify.com/track/2V0D9VEUCZjGu4vsrSJUnJ"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 154511,
       "name": "so pls just come over",
       "url": "https://open.spotify.com/track/4R2m8SLQ79eLf8p7AzNBat"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 170250,
       "name": "\u05d0\u05d3\u05d1\u05e8 \u05d0\u05d9\u05ea\u05da",
       "url": "https://open.spotify.com/track/4PPoJRKqZQdxQzM8VlMmNm"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 211986,
       "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9 \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
       "url": "https://open.spotify.com/track/2CbXd9zc4SJB3GT1lY4sFl"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 180160,
       "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
       "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 185585,
       "name": "\u05d9\u05dc\u05d3\u05d4",
       "url": "https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6"
@@ -5426,7 +5426,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 206233,
       "name": "\u05e2\u05d3 \u05e9\u05d9\u05d1\u05d5\u05d0",
       "url": "https://open.spotify.com/track/7dlt9IeIDoNAJyp59oiBOa"
@@ -6041,6 +6041,24 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05de\u05d7",
+        "url": "https://open.spotify.com/album/1bW9VSdy8xscS5mN2a23Kn"
+      },
+      "artists": [
+        {
+          "name": "IDIOT!",
+          "url": "https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "\u05e9\u05de\u05d7",
+      "url": "https://open.spotify.com/track/3lYw9xJBisd49bydvmlnEq"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05de\u05e2\u05ea\u05d9 \u05e9\u05d7\u05d9\u05db\u05d9\u05ea",
         "url": "https://open.spotify.com/album/39tVAUJZhbTM9FfaURWX4O"
       },
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 263853,
       "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
       "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"

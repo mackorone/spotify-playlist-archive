@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabi Hartmann",
+  "description": "The best jazz new releases. Cover: Flore Benguigui & The Sensible Notes",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -642,6 +642,28 @@
       "duration_ms": 217500,
       "name": "All I Ever Needed",
       "url": "https://open.spotify.com/track/4SayifPw2LFaHxGCzIuJKv"
+    },
+    {
+      "album": {
+        "name": "All I See EP",
+        "url": "https://open.spotify.com/album/5WLziaNaH2Rx0FhCaFMCZp"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        },
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259017,
+      "name": "All I See (feat. CUBE)",
+      "url": "https://open.spotify.com/track/58WKzEfGmL8Sv9inFanVs6"
     },
     {
       "album": {
@@ -7233,6 +7255,28 @@
     },
     {
       "album": {
+        "name": "In The Slow Lane",
+        "url": "https://open.spotify.com/album/78BxuOxltovqhD0qXQhXkK"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287620,
+      "name": "In The Slow Lane",
+      "url": "https://open.spotify.com/track/3WVpOydbLHu7ln6Bk2EQTd"
+    },
+    {
+      "album": {
         "name": "India Song",
         "url": "https://open.spotify.com/album/2wCmaGcKB1qoZXxx0xkjPh"
       },
@@ -8196,7 +8240,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 211623,
       "name": "L'Anguria",
       "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
@@ -8714,7 +8758,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 218069,
       "name": "Let's Pray",
       "url": "https://open.spotify.com/track/6rkvat57oepFyBCp75vDz5"
@@ -8736,6 +8780,24 @@
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/4j01Jt4AEJMFlkJuAj3Mhv"
+      },
+      "artists": [
+        {
+          "name": "Lila-May",
+          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224919,
+      "name": "Letter to My Favorite Boy",
+      "url": "https://open.spotify.com/track/5OGWcAYy3JROjCW9KxBO1H"
     },
     {
       "album": {
@@ -10195,6 +10257,24 @@
     },
     {
       "album": {
+        "name": "More Understanding Than A Man",
+        "url": "https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "More Understanding Than A Man",
+      "url": "https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy"
+    },
+    {
+      "album": {
         "name": "Morning Song",
         "url": "https://open.spotify.com/album/2b50IRXHjpNA23g74a7I3V"
       },
@@ -10430,7 +10510,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 233138,
       "name": "Nach E Vlado",
       "url": "https://open.spotify.com/track/5tOLgmDjvEvUFx8KBCoyeJ"
@@ -11236,7 +11316,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 401851,
       "name": "One Flight Down",
       "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
@@ -11262,6 +11342,24 @@
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/1zdTR2TZsWcMFulVjg5OUu"
+      },
+      "artists": [
+        {
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "One of these nights",
+      "url": "https://open.spotify.com/track/4mwrX6jMDm10eaSj3YbDvC"
     },
     {
       "album": {
@@ -12378,7 +12476,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 219280,
       "name": "Restless",
       "url": "https://open.spotify.com/track/7pwk1KZxLz9GP007XDDtMW"
@@ -14026,7 +14124,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 182039,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0"
@@ -14356,7 +14454,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 258946,
       "name": "Taka",
       "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"
@@ -14716,6 +14814,36 @@
       "duration_ms": 184497,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT"
+    },
+    {
+      "album": {
+        "name": "The Getdown",
+        "url": "https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF"
+      },
+      "artists": [
+        {
+          "name": "The Getdown",
+          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
+        },
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175394,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/5LsONMtTM5mUvPBoo0Ayl0"
     },
     {
       "album": {
@@ -15272,7 +15400,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 234000,
       "name": "The West Coasters",
       "url": "https://open.spotify.com/track/1lk4FDgVD1UZ2DWlThzkj8"
@@ -15408,7 +15536,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 308786,
       "name": "These Simple Things",
       "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
@@ -15825,6 +15953,28 @@
     },
     {
       "album": {
+        "name": "The Return of Slick",
+        "url": "https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199279,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t"
+    },
+    {
+      "album": {
         "name": "Ella At The Hollywood Bowl: The Irving Berlin Songbook (Live)",
         "url": "https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x"
       },
@@ -15840,6 +15990,42 @@
       "duration_ms": 166124,
       "name": "Top Hat, White Tie and Tails - Live",
       "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K"
     },
     {
       "album": {

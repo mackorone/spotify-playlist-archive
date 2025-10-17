@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "It's giving those vibes. Cover: Architrackz",
+  "description": "It's giving those vibes. Cover: OCS",
   "name": "Vibes",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 140142,
       "name": "45 Degrees",
       "url": "https://open.spotify.com/track/1a4X5tScmXNc7lNffSuVnt"
@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Do Na Do",
+        "url": "https://open.spotify.com/album/3NugqkxSLTkDGS8CtO8qlY"
+      },
+      "artists": [
+        {
+          "name": "Gathorose",
+          "url": "https://open.spotify.com/artist/1YE9jrML8L9IhZyPq90uuZ"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130020,
+      "name": "Do Na Do",
+      "url": "https://open.spotify.com/track/1R0grRbhcI2NKUIdR9HQiP"
+    },
+    {
+      "album": {
         "name": "SDL 0.5",
         "url": "https://open.spotify.com/album/7LOn3yOzaj7KZQU70UgxFI"
       },
@@ -744,6 +766,24 @@
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
+    },
+    {
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/6u0FZMIcX4ptK7wEGCyJog"
+      },
+      "artists": [
+        {
+          "name": "Josivnne",
+          "url": "https://open.spotify.com/artist/0Ab2EGJGbzcueKeHr6xV8k"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0pAw3MjPIKGXClESHXwJIW"
     },
     {
       "album": {
@@ -1162,7 +1202,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 216960,
       "name": "Het Spijt Me Dat Ik Niet Perfect Ben",
       "url": "https://open.spotify.com/track/4kJ5Wj9tRQShRGFLVWKtBm"
@@ -1268,7 +1308,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 168072,
       "name": "Igbadun",
       "url": "https://open.spotify.com/track/3qIicNOLn9WhpazwQiazlx"
@@ -1527,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "KILLING ME SOFTLY",
+        "url": "https://open.spotify.com/album/1rLOSP5vlajVaVfcjuAxOP"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134013,
+      "name": "KILLING ME SOFTLY",
+      "url": "https://open.spotify.com/track/78UwH2LoQ09TjzW9P8lLOk"
+    },
+    {
+      "album": {
         "name": "Think Like a Man",
         "url": "https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX"
       },
@@ -1608,7 +1666,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 122220,
       "name": "La Nuit",
       "url": "https://open.spotify.com/track/0IHhTBh6mjTSZgdYBYL9h6"
@@ -2616,6 +2674,24 @@
       "duration_ms": 176388,
       "name": "Spend some time",
       "url": "https://open.spotify.com/track/21RBeGlVeQ06UYqE5ZVKKz"
+    },
+    {
+      "album": {
+        "name": "STILLE WATER",
+        "url": "https://open.spotify.com/album/3jNKDwcc8KWBH5dNtzosAX"
+      },
+      "artists": [
+        {
+          "name": "Kevcody",
+          "url": "https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "STILLE WATER",
+      "url": "https://open.spotify.com/track/4tw1lQOoi6GxGJoKKipPcX"
     },
     {
       "album": {

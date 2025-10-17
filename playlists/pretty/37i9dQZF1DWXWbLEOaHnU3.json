@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 586127,
+  "num_followers": 586206,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Vikings",
         "url": "https://open.spotify.com/album/1cjtiYZGIm7ItJbJMLIjul"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 325962,
       "name": "Vikings",
       "url": "https://open.spotify.com/track/4ZkFgEWxurnQt1IA2nKL8z"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1339,26 +1339,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/5vpolLJLleSrU4fXCzA4V4"
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
       },
       "artists": [
         {
-          "name": "Major7",
-          "url": "https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         },
         {
-          "name": "Eddie Bitar",
-          "url": "https://open.spotify.com/artist/2lYqW6goFxy80hB83z69nT"
-        },
-        {
-          "name": "Jennifer June",
-          "url": "https://open.spotify.com/artist/2cajIeFCEjx5pOI7BgUqND"
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4yCa0360R21JScXkQ5H7aA"
+      "duration_ms": 273375,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1387,26 +1383,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
-        }
-      ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Roshini",
         "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 393590,
       "name": "Roshini",
       "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5vpolLJLleSrU4fXCzA4V4"
+      },
+      "artists": [
+        {
+          "name": "Major7",
+          "url": "https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V"
+        },
+        {
+          "name": "Eddie Bitar",
+          "url": "https://open.spotify.com/artist/2lYqW6goFxy80hB83z69nT"
+        },
+        {
+          "name": "Jennifer June",
+          "url": "https://open.spotify.com/artist/2cajIeFCEjx5pOI7BgUqND"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4yCa0360R21JScXkQ5H7aA"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1551,26 +1551,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Lose My Cool",
-        "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh"
       },
       "artists": [
         {
-          "name": "Johnny Carrera",
-          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
         },
         {
-          "name": "Umali",
-          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+          "name": "Bastize",
+          "url": "https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb"
         },
         {
-          "name": "Djapatox",
-          "url": "https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS"
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
         }
       ],
-      "duration_ms": 236978,
-      "name": "Lose My Cool",
-      "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
+      "duration_ms": 149617,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r"
     }
   ],
   "unique_name": "Psytrance Supernova",

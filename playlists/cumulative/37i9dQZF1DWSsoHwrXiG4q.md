@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-163 songs - 12 hr 30 min
+164 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bloomsbury](https://open.spotify.com/track/4PrBHHTNDYrJU5rf03rg28) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Fragment / 1](https://open.spotify.com/album/1bqWsFFF8vkGArDQ7Ewknr) | 4:30 | 2024-11-13 |  |
 | [Blue Flower](https://open.spotify.com/track/5mwOK9UV5pn7qhKaELc3MF) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Blue Flower](https://open.spotify.com/album/7sfU2fDV5ypnW19PBdvt64) | 3:54 | 2025-04-23 |  |
 | [Bottles](https://open.spotify.com/track/4bqWWzjSKOZoFR5IptMO5v) | [FD](https://open.spotify.com/artist/76KMDlhW2f4qiTlepW5yfy) | [Better Days](https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S) | 5:44 | 2022-11-30 |  |
-| [But I Found](https://open.spotify.com/track/3yBgSB9KQowEW6EhaoGcu6) | [RoyGreen & Protone](https://open.spotify.com/artist/4OPV5x0WuglgLiOiD7up8E), [Robbe](https://open.spotify.com/artist/4TdEVctIWf0ljyQXr6u8NI) | [Ancient Soul EP](https://open.spotify.com/album/43pS2HuH8VI3MC93SwYprw) | 5:56 | 2022-11-30 |  |
+| [But I Found](https://open.spotify.com/track/3yBgSB9KQowEW6EhaoGcu6) | [RoyGreen & Protone](https://open.spotify.com/artist/4OPV5x0WuglgLiOiD7up8E), [Robbe](https://open.spotify.com/artist/4TdEVctIWf0ljyQXr6u8NI) | [Ancient Soul EP](https://open.spotify.com/album/43pS2HuH8VI3MC93SwYprw) | 5:56 | 2022-11-30 | 2025-10-17 |
 | [Candle in the dark](https://open.spotify.com/track/1v17sfEB8xIxfPmen30WVz) | [Quadrant](https://open.spotify.com/artist/2rekrvrzMex0PPBX6zvvfj), [Iris](https://open.spotify.com/artist/5PDWYfx3o05zDhOvruFS6N), [Dummy](https://open.spotify.com/artist/1EjePlzwExisnkgrQ2qRwo) | [Candle in the Dark / The Demon Haunted World](https://open.spotify.com/album/1cF3Ga7t5ZF8BywWvFS82w) | 4:44 | 2023-09-28 | 2024-04-13 |
 | [Cast Away](https://open.spotify.com/track/7Jv6TQSJdOLzpHtsa4X0SE) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Blue Leaves](https://open.spotify.com/album/34u3v2eriI2DfmYb4McJBj) | 4:17 | 2024-09-26 | 2024-11-14 |
 | [Chances](https://open.spotify.com/track/0SO8KuOhgritM574PvniZn) | [A Sides](https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5) | [Chances / Only One Sound](https://open.spotify.com/album/3Yj8LolGED25Oadbvl9Tlz) | 4:57 | 2023-10-05 |  |
@@ -100,6 +100,7 @@
 | [Magnetic](https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2) | [Magnetic](https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq) | 3:46 | 2023-05-19 |  |
 | [Mantra](https://open.spotify.com/track/5QPQdWQgxtcW0i07WM2XRt) | [Celestial Wave](https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ) | [Mantra](https://open.spotify.com/album/5ubNjaBEVJBj4WIU47n0Eu) | 3:02 | 2024-01-24 |  |
 | [Memories of Us](https://open.spotify.com/track/0IQPNwi9n8DZdCURmokB3F) | [Yakkan](https://open.spotify.com/artist/7sC8QEM8NC6XmIC59a5kcz) | [Memories of Us](https://open.spotify.com/album/4CvBSIopVSEkw9SOuLYDNF) | 3:29 | 2023-12-12 |  |
+| [Midnight Sun](https://open.spotify.com/track/6tHbKhREIMjr2D0VU5S8Ib) | [Trail](https://open.spotify.com/artist/2A83umpkQxHuNcL3ahaAvd) | [Midnight Sun](https://open.spotify.com/album/7wCLwq55AJvwjddfD0clOU) | 5:20 | 2025-10-16 |  |
 | [Minimal](https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG) | [Surreal](https://open.spotify.com/artist/5uWvpdaxp81vUjmd1ZyB2q) | [Signal EP](https://open.spotify.com/album/1RC36wrWedNH6KAr8dvTfy) | 4:35 | 2022-11-30 | 2024-01-11 |
 | [Missing U](https://open.spotify.com/track/5MQkBuSB3pr3gFkConb028) | [Cray Barnes](https://open.spotify.com/artist/6fG2Y4YIB6PG8TyPOqOl2b) | [Missing U](https://open.spotify.com/album/1QYF9UxypegfOiap0LJaGC) | 2:41 | 2024-01-24 |  |
 | [Misty](https://open.spotify.com/track/1AFqQtfrQ0VMLeZxrSPrfM) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 4:53 | 2022-11-30 |  |

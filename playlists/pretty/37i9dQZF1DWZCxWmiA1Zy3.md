@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 
 > Pátria Rock apresenta.\. O Melhor do Rock 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,405 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,408 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

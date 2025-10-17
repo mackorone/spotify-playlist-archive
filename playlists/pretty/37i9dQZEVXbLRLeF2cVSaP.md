@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,280 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,289 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Сломана](https://open.spotify.com/track/4OjB6FkYwCeWqsSpTFF7O9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs), [FADE031](https://open.spotify.com/artist/1DaXe7LZEdCrMHQO58vA8V) | [Сломана](https://open.spotify.com/album/4jkCnNwooPoFTUK8TQjZkm) | 2:23 |
 | 50 | [AGENT\-PROVOCATEUR](https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [ENEMY](https://open.spotify.com/album/6Cou92zlMJIMHCInVfrVW4) | 1:42 |
 
-Snapshot ID: `MIMQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MIRfoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

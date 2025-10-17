@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MIKADO
 
-1,129 songs - 2 day 4 hr 18 min
+1,130 songs - 2 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Banger](https://open.spotify.com/track/1yJI2VJhtQhdRci22Po7p0) | [GOUU](https://open.spotify.com/artist/21sZk9baIpQaCtFxFoFg73), [Yusef Imamura](https://open.spotify.com/artist/2zYkpFBLyfskSrJl3zu7ov) | [Banger](https://open.spotify.com/album/2ig6IVs3vbd6GLqnqqhUrQ) | 2:34 | 2025-10-14 |  |
 | [Banger](https://open.spotify.com/track/7tAzsQ45k7r9PaWkxN6EeI) | [Yusef Imamura](https://open.spotify.com/artist/2zYkpFBLyfskSrJl3zu7ov), [SANO](https://open.spotify.com/artist/5gDLxx3soLawxUp60zTwqJ), [D\-mind](https://open.spotify.com/artist/6kILi9WwpdHFHClDfAcZKf) | [Fit! 2](https://open.spotify.com/album/4QIRwPvicRcBgBD2OxSx35) | 3:03 | 2023-12-07 | 2023-12-23 |
 | [Banger \(feat\. Bank.Somsaart\)](https://open.spotify.com/track/5xWYysqcPJilNMEcKHiXZr) | [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Bank.Somsaart](https://open.spotify.com/artist/27EDDxaWCpX0SBLJacciXv) | [Banger \(feat\. Bank.Somsaart\)](https://open.spotify.com/album/2czNGVjRuVfDVpIZj7B0Zi) | 2:46 | 2024-11-19 | 2025-03-05 |
+| [BANKROLL](https://open.spotify.com/track/7ho4ye2bcd2pSGBwBeJunT) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [BANKROLL](https://open.spotify.com/album/2AuU4UI3lJ6rS3SuV3dPiB) | 3:31 | 2025-10-14 |  |
 | [barbarity \(feat\. noma\)](https://open.spotify.com/track/0cnXPhErCz2NEqUsqD3Fbt) | [Shirafu](https://open.spotify.com/artist/2Fsalhr6XcAULzLCt4wpG4), [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [barbarity \(feat\. noma\)](https://open.spotify.com/album/3Anl6RXhTDp9mcZn4Z1YFO) | 2:41 | 2024-12-17 | 2025-02-12 |
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-12-07 | 2024-01-26 |
 | [BEAST MODE](https://open.spotify.com/track/5iMkRc3SbJDb55vhtC8uPP) | [₩](https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF), [TERRA](https://open.spotify.com/artist/4KDpRvmhqbHdv29wDYvTMx) | [Addiction And Abuse](https://open.spotify.com/album/0YqGEdHbkOb0GSd5fkr53x) | 2:24 | 2024-04-24 | 2024-05-15 |

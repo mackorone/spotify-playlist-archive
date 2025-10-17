@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-376 songs - 21 hr 21 min
+377 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [DARLING](https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [DARLING](https://open.spotify.com/album/5gfKoVTEJqa1mTuSczsgdL) | 2:27 | 2021-08-27 | 2022-07-29 |
 | [daydreams](https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [daydreams](https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749) | 2:14 | 2022-09-22 | 2023-01-15 |
 | [Days](https://open.spotify.com/track/6113aOfHIC0vbZVDZ6PpRV) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh) | 4:29 | 2021-02-05 | 2022-07-02 |
+| [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 | 2025-10-16 |  |
 | [delicate creature](https://open.spotify.com/track/5HON29JZvuzaHX2B2oIwr1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/1G8iPiffToCQstIPJJqAAG) | 4:32 | 2021-02-05 | 2022-07-29 |
 | [Dern Kala](https://open.spotify.com/track/47FmTHqPWGWEfbgDpLjvCt) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:39 | 2023-03-01 | 2023-07-14 |
 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 | 2022-07-22 | 2023-07-14 |
@@ -315,7 +316,7 @@
 | [Super Natural](https://open.spotify.com/track/6As34Fmjj7dtReKB51NOVc) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/1KzvEewMA8NX0y3Rtx9vOz) | 4:17 | 2021-02-05 | 2022-07-28 |
 | [Super Natural](https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq) | 4:17 | 2022-07-22 | 2023-01-24 |
 | [Superimposed](https://open.spotify.com/track/1pZc0tmJBL9mx0wq7FE0Gr) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Superimposed](https://open.spotify.com/album/0mnENNrXZOsz277faaVPa1) | 3:15 | 2021-08-27 | 2022-04-21 |
-| [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 | 2023-07-13 |  |
+| [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 | 2023-07-13 | 2025-10-17 |
 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 | 2021-02-05 | 2022-09-03 |
 | [Surfing](https://open.spotify.com/track/299qI1feXBUOAM05oCnizs) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [Surfing](https://open.spotify.com/album/71o0nACWIR21FEiOzUESXl) | 3:35 | 2022-09-02 | 2023-03-02 |
 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 | 2023-07-28 |  |

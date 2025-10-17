@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,367 songs - 3 day 11 hr 34 min
+1,368 songs - 3 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,7 +965,7 @@
 | [Restless Leg Syndrome](https://open.spotify.com/track/1eSB4u3AapjXrO0baGuc6u) | [Evergreen Terrace](https://open.spotify.com/artist/5YQUrpDa5dkmo9Vk8hHQP9) | [Restless Leg Syndrome](https://open.spotify.com/album/7njZ8bWlAeBR8GDNO8Wl9s) | 2:40 | 2025-07-04 | 2025-07-25 |
 | [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 | 2024-11-29 |
 | [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 | 2025-05-02 | 2025-06-11 |
-| [Revenge In Carnage](https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Revenge In Carnage](https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP) | 2:27 | 2025-09-05 |  |
+| [Revenge In Carnage](https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Revenge In Carnage](https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP) | 2:27 | 2025-09-05 | 2025-10-17 |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 |  |
 | [Riot](https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0) | [Neverland In Ashes](https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1) | [Riot](https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n) | 3:23 | 2021-12-17 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Rise](https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj) | 3:50 | 2021-12-17 | 2022-01-15 |
@@ -1291,6 +1291,7 @@
 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 | 2022-07-13 | 2022-07-22 |
 | [Void](https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Happier?](https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo) | 2:43 | 2021-12-17 | 2022-02-18 |
 | [Void Alone](https://open.spotify.com/track/2l65hRPdbffpHAGg4YYhQr) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Void Alone](https://open.spotify.com/album/50aNBLMQu3OsCGeKe0CkEX) | 3:29 | 2025-08-29 |  |
+| [Vultures](https://open.spotify.com/track/6kF4QDEn0r6VmjE92KaC1t) | [Stain The Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Vultures](https://open.spotify.com/album/3TmzpXHB30iWPSrPz5mcZf) | 2:16 | 2025-10-10 |  |
 | [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 | 2023-02-03 | 2023-02-08 |
 | [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 | 2023-02-03 | 2023-05-06 |
 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 | 2023-10-27 | 2024-04-19 |

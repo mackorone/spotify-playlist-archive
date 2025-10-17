@@ -4,7 +4,7 @@
 
 > Celebrate the musical and cinematic legacy, and illuminate the Roshans with this playlist.
 
-86 songs - 7 hr 14 min
+86 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Mon Amour](https://open.spotify.com/track/0usM95qRBPtRUqQzp6Cx4c) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Rajesh Roshan](https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 4:59 | 2025-01-15 |  |
 | [Mujhe Mil Gaya Bahana](https://open.spotify.com/track/5qVCHeSGFBLhteQExSWiHH) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Barsaat Ki Raat](https://open.spotify.com/album/7mEGlrZkLvNrTiyCE8jTdQ) | 3:20 | 2025-01-15 |  |
 | [Na To Caravan Ki Talash Hai](https://open.spotify.com/track/6xoeJQ9iPFPoIARy7wOyOE) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Sudha Malhotra](https://open.spotify.com/artist/6RelN1oVbNS0gOKC4Iht0z), [S\. D\. Batish](https://open.spotify.com/artist/3s73ltz3ZKYnbLBNbjV0HI), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Barsaat Ki Raat](https://open.spotify.com/album/7mEGlrZkLvNrTiyCE8jTdQ) | 11:48 | 2025-01-15 |  |
-| [Na Tum Jano Na Hum](https://open.spotify.com/track/7s6yy0SWZ4rluoQZsvJa2D) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU) | [Kaho Naa Pyar Hai](https://open.spotify.com/album/264pusO3nFbYtZC63kGoA7) | 6:23 | 2025-01-15 |  |
+| [Na Tum Jano Na Hum](https://open.spotify.com/track/7s6yy0SWZ4rluoQZsvJa2D) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU) | [Kaho Naa Pyar Hai](https://open.spotify.com/album/264pusO3nFbYtZC63kGoA7) | 4:59 | 2025-01-15 |  |
 | [Nigahen Milane Ko Jee Chahta Hai](https://open.spotify.com/track/68p0Z1wg4qllOt20jPzuxv) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Dil Hi To Hai](https://open.spotify.com/album/55ku3a3xit0VTNSD6c6ltb) | 6:32 | 2025-01-15 |  |
 | [O Yaara](https://open.spotify.com/track/3FiElaRqQKtWz8kf4ScZES) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Anupama](https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt) | [Kaash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0AVXAfoQYK1bmKmjL1ZQ6o) | 7:08 | 2025-01-15 |  |
 | [Oh Re Taal Mile Nadi Ke Jal Mein](https://open.spotify.com/track/0h1MxYbTADaXOb6JfaXcNq) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Anokhi Raat](https://open.spotify.com/album/1f72vNLqLfiKWAjPgKRTti) | 3:17 | 2025-01-15 |  |

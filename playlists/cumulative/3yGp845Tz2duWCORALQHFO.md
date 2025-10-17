@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,096 songs - 9 day 7 hr 28 min
+4,098 songs - 9 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,6 +981,7 @@
 | [Echoes](https://open.spotify.com/track/5hmUR9fvkr64oDTivOf8Dg) | [TRONIQ](https://open.spotify.com/artist/7xV87aLKIqjESEsoN9xOJE) | [Echoes](https://open.spotify.com/album/193yENwJY2xiuYHPJkNoUn) | 2:27 | 2025-04-11 | 2025-04-19 |
 | [Echoes \- Craig Connelly Remix](https://open.spotify.com/track/5gy0a8KW13qcOYwHLWk9v0) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Roxanne Emery](https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM), [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Echoes \(Craig Connelly Remix\)](https://open.spotify.com/album/7wVlSe368K8R4fWLNUurdp) | 4:15 | 2024-11-24 | 2024-11-30 |
 | [Echoes In Eternity](https://open.spotify.com/track/0UF8oI1CuQ4JdfGHNnkv12) | [Aeon Shift](https://open.spotify.com/artist/5uINAB1y1k8BQomHZZ0RK5) | [Echoes In Eternity](https://open.spotify.com/album/1K5shdZRs5fUkMehTgZyBL) | 4:01 | 2025-04-11 | 2025-04-19 |
+| [Echoes Of The Human](https://open.spotify.com/track/2oN9n0GNzGUYAWdSskm98Z) | [Derriziel Pierce](https://open.spotify.com/artist/65tTBcMVvMTCdGxh6XBItP) | [The Human Condition](https://open.spotify.com/album/25NoywstVKqJKFtKBoJgqN) | 3:04 | 2025-10-16 |  |
 | [Echoes Within](https://open.spotify.com/track/7GsapYEHIAGv30aowyU816) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Echoes Within](https://open.spotify.com/album/1aRKIzTREOUOlCVgBw8t0u) | 3:21 | 2025-03-16 | 2025-03-22 |
 | [Echoscape](https://open.spotify.com/track/3wZf8Lq01UPAMqaFlpBCHd) | [Stoneface & Terminal](https://open.spotify.com/artist/3Mqc1pY8uwTjUiW0womxWk) | [Echoscape](https://open.spotify.com/album/3EPlp71dkJS4jxatZeBdTJ) | 3:48 | 2025-05-02 | 2025-05-10 |
 | [Eclipse The Sun](https://open.spotify.com/track/6816u4cPSksjeoSeO5mo1U) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Eclipse The Sun](https://open.spotify.com/album/0ra1cuwmq46iwF2LVqfDkq) | 4:03 | 2025-10-03 | 2025-10-11 |
@@ -2642,6 +2643,7 @@
 | [Only Who We Are](https://open.spotify.com/track/7Kxz5aflMbpnuXPQAhs649) | [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp), [Carmen](https://open.spotify.com/artist/3OiJi8p7Gc78YY4LUtrAAP) | [Only Who We Are](https://open.spotify.com/album/0dei0xtHpbOdCmuZQQj10I) | 3:25 | 2025-07-04 | 2025-07-12 |
 | [Only You](https://open.spotify.com/track/319z2E4S17l8llbZ0MW2rF) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Only You](https://open.spotify.com/album/6nZ7ri5ZEYPVttOzlqNy1s) | 4:28 | 2024-09-05 | 2024-09-21 |
 | [Only You](https://open.spotify.com/track/3xQLbgSyVAYtQIcS39ecGL) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Collective Ecstasy](https://open.spotify.com/album/4I4YEMHJe3Cw9XgF71bbby) | 2:57 | 2025-07-04 | 2025-07-12 |
+| [Only You](https://open.spotify.com/track/5MebWjbtRNkxMnPWRyZQDc) | [Turnin' Heads](https://open.spotify.com/artist/1LWJrPcq1hv7DGIi5kGsJy) | [Only You](https://open.spotify.com/album/5RaxPSpOBDXdF3s0l9imPO) | 3:52 | 2025-10-16 |  |
 | [Opal](https://open.spotify.com/track/3xuldFVPGSFgU3pyn3vxK9) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Opal](https://open.spotify.com/album/6YsCy3tGnDUUCINt4ZBMTS) | 3:14 | 2025-04-11 | 2025-04-19 |
 | [Open Arms \- Rise Mix](https://open.spotify.com/track/0EbrL9QT0enHM6oHQIloOw) | [SimbaSōl](https://open.spotify.com/artist/3SEr9Sytj074YnBHmoI4Bd) | [Open Arms \(Rise Mix\)](https://open.spotify.com/album/2c0GZPFLgHmNxS9LihRlfF) | 5:33 | 2025-09-19 | 2025-09-28 |
 | [Open Ocean](https://open.spotify.com/track/1uqdJXj0CSp8hCi8HoLC6q) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle), [Emma Gillespie](https://open.spotify.com/artist/51XNkpCEypEY3z4ruyngRc) | [Open Ocean](https://open.spotify.com/album/3r5VMpvU4oGk8KA9NLOqLu) | 3:55 | 2024-10-21 | 2024-10-26 |

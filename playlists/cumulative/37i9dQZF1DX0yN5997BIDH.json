@@ -650,6 +650,24 @@
     {
       "album": {
         "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
+      },
+      "artists": [
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239053,
+      "name": "Burning Bridges (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
+    },
+    {
+      "album": {
+        "name": "Burning Bridges",
         "url": "https://open.spotify.com/album/5uQQRD08v4cRKAXBUBRPK1"
       },
       "artists": [
@@ -664,24 +682,6 @@
       "duration_ms": 239053,
       "name": "Burning Bridges - Acoustic Version",
       "url": "https://open.spotify.com/track/5RsLCQoBZPriFVQ5rkITVt"
-    },
-    {
-      "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
-      },
-      "artists": [
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "date_added": "2022-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239053,
-      "name": "Burning Bridges - Acoustic Version",
-      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
     },
     {
       "album": {

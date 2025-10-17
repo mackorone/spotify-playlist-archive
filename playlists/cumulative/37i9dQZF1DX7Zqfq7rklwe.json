@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa AC/DC.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Sabaton.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -2524,6 +2524,24 @@
       "duration_ms": 219130,
       "name": "I'll Give You Hell",
       "url": "https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255973,
+      "name": "I, Emperor",
+      "url": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM"
     },
     {
       "album": {

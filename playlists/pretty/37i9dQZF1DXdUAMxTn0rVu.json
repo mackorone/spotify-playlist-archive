@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Mos Def",
-  "num_followers": 607269,
+  "num_followers": 607602,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,30 @@
     {
       "added_at": "2025-08-01 03:55:06",
       "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+    },
+    {
+      "added_at": "2025-08-01 03:55:06",
+      "album": {
         "name": "Neighborhood Watch",
         "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 311960,
       "name": "Thieves In The Night",
       "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
-    },
-    {
-      "added_at": "2025-08-01 03:55:06",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 336813,
-      "name": "So Far to Go",
-      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
     },
     {
       "added_at": "2025-08-01 03:55:06",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-08-01 03:55:06",
       "album": {
+        "name": "Murray's Revenge",
+        "url": "https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq"
+      },
+      "artists": [
+        {
+          "name": "Murs",
+          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
+    },
+    {
+      "added_at": "2025-08-01 03:55:06",
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 307133,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
-    },
-    {
-      "added_at": "2025-08-01 03:55:06",
-      "album": {
-        "name": "Murray's Revenge",
-        "url": "https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq"
-      },
-      "artists": [
-        {
-          "name": "Murs",
-          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "L.A.",
-      "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
     }
   ],
   "unique_name": "I Love My Underground Classics",

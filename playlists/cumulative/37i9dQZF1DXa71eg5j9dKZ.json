@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: HAAi",
+  "description": "The home for alternative electronic music. Cover: Lawrence Hart",
   "name": "Altar",
   "tracks": [
     {
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "And You Are?",
+        "url": "https://open.spotify.com/album/0CbygV06Yf7drwuJBQpbt5"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373870,
+      "name": "And You Are?",
+      "url": "https://open.spotify.com/track/77nHBl5zo9J3ArmIifxs7C"
+    },
+    {
+      "album": {
         "name": "Angeles / Build A Man",
         "url": "https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr"
       },
@@ -1212,6 +1230,24 @@
       "duration_ms": 254600,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/3gmmSF7pX9XyjgbjvXwmeq"
+    },
+    {
+      "album": {
+        "name": "Anti Conti",
+        "url": "https://open.spotify.com/album/7n0yY5rgOZnJ6gUEEiEcF3"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Anti Conti",
+      "url": "https://open.spotify.com/track/7mdwXG6DHKiNFMs5YucoWU"
     },
     {
       "album": {
@@ -1404,7 +1440,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 274782,
       "name": "Are You The One",
       "url": "https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA"
@@ -5193,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "UK Minimal Vol 1",
+        "url": "https://open.spotify.com/album/3wX8edIjHRe29gNhQOaPWq"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362465,
+      "name": "Deeper Type of Tech",
+      "url": "https://open.spotify.com/track/6VTVU8vyVG6HXdjguUWAEw"
+    },
+    {
+      "album": {
         "name": "Deewana Deewana",
         "url": "https://open.spotify.com/album/4qULPYu7nqpBLcJMoEUYAY"
       },
@@ -8351,6 +8405,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/2OtkVJa0TqrxTSFRfGapXE"
+    },
+    {
+      "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
@@ -9224,7 +9300,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 223409,
       "name": "Good Shit",
       "url": "https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH"
@@ -13443,6 +13519,28 @@
     },
     {
       "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251575,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
+    },
+    {
+      "album": {
         "name": "Lose Myself",
         "url": "https://open.spotify.com/album/2T5b5FVc1L6uckwkPoQl2b"
       },
@@ -14166,7 +14264,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 171112,
       "name": "Man\u00eda",
       "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
@@ -14224,7 +14322,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 145250,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
@@ -14482,6 +14580,28 @@
       "duration_ms": 264097,
       "name": "Mike (desert island duvet)",
       "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
+    },
+    {
+      "album": {
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/68G2TuOcCbppcvHnltw6Ms"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/0pqghHQoDVBTcsImBKFmHy"
     },
     {
       "album": {
@@ -15018,6 +15138,24 @@
       "duration_ms": 214000,
       "name": "Must Be Right",
       "url": "https://open.spotify.com/track/4W3H4P0nAq92uht2krBYTi"
+    },
+    {
+      "album": {
+        "name": "Mutual Attraction",
+        "url": "https://open.spotify.com/album/5tdHSoNQCmuNgqoRL9Brz9"
+      },
+      "artists": [
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426309,
+      "name": "Mutual Attraction",
+      "url": "https://open.spotify.com/track/0NcXWme3XGFu34aMx0qfL0"
     },
     {
       "album": {
@@ -16436,7 +16574,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 161834,
       "name": "Open",
       "url": "https://open.spotify.com/track/4W4avlhWR1Wr5497wJ7766"
@@ -17486,7 +17624,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 205652,
       "name": "Pollen",
       "url": "https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI"
@@ -18502,7 +18640,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 256920,
       "name": "Romance",
       "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
@@ -20548,7 +20686,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 186232,
       "name": "Sola",
       "url": "https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA"
@@ -22142,6 +22280,28 @@
       "duration_ms": 275741,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt"
+    },
+    {
+      "album": {
+        "name": "The Boy / Moon",
+        "url": "https://open.spotify.com/album/2D6VMDBpN8qEy5ceRKoRZY"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/4sJj3nlx2SO2YJCV13T2CZ"
     },
     {
       "album": {
@@ -23752,7 +23912,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 258954,
       "name": "U Always",
       "url": "https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV"
@@ -23944,7 +24104,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 317962,
       "name": "Unidos",
       "url": "https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0"
@@ -25078,6 +25238,32 @@
       "duration_ms": 203688,
       "name": "What You Say?",
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"
+    },
+    {
+      "album": {
+        "name": "When The Beat Hits",
+        "url": "https://open.spotify.com/album/5I6Hahvg1cp8oLETg6PXOO"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "Nova Newland",
+          "url": "https://open.spotify.com/artist/3COQ9U5yZEFb1qzz3aBw1I"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "When The Beat Hits",
+      "url": "https://open.spotify.com/track/17Pm6SzdMImlixJ9mhcq9n"
     },
     {
       "album": {

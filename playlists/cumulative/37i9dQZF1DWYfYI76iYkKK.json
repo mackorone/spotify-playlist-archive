@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "A-Bei",
+        "url": "https://open.spotify.com/album/7Aoj3fcMQyO88IPN1Az9jw"
+      },
+      "artists": [
+        {
+          "name": "Ruo Xin",
+          "url": "https://open.spotify.com/artist/1m1wnMGm5NUmu6hKPfcdJS"
+        },
+        {
+          "name": "Yo Lee",
+          "url": "https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216041,
+      "name": "A-Bei",
+      "url": "https://open.spotify.com/track/703OIcSezq91FHw9MyFJBL"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5XI8QrO6CatDfP80ColUlg"
       },
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 206896,
       "name": "\u4e00\u76f4\u5230\u73fe\u5728",
       "url": "https://open.spotify.com/track/0dbFniwWOlbS7AzeI4ySLv"
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
@@ -7974,7 +7996,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 189500,
       "name": "\u7a7a\u57ce\u8a18",
       "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
@@ -8472,7 +8494,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-17",
       "duration_ms": 208064,
       "name": "\u807d\u5f97\u5230\u55ce",
       "url": "https://open.spotify.com/track/0rGw63k8A0iQ47JP7PXUGX"
@@ -9596,6 +9618,24 @@
       "duration_ms": 196842,
       "name": "\u90fd\u633a\u597d\u7684 (feat.\u5f35\u9707\u5dbd)",
       "url": "https://open.spotify.com/track/5FO9eEyRRtJu972fstMsfS"
+    },
+    {
+      "album": {
+        "name": "\u9189\u65e5",
+        "url": "https://open.spotify.com/album/4kB8sF8HL0WXkrFetLquSs"
+      },
+      "artists": [
+        {
+          "name": "\u90ed\u771f\u6995",
+          "url": "https://open.spotify.com/artist/6tQ9tgGfydvXjNqnzYJ5lH"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u9189\u65e5",
+      "url": "https://open.spotify.com/track/7lvqSnSRKGZLO7Eyt7mkTe"
     },
     {
       "album": {

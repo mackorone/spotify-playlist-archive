@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171281,
+  "num_followers": 171297,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO2SgAAAAAAME86BiaVqqa2FbX3FXv4Z",
+  "snapshot_id": "aO7kAAAAAAD9j4rsGPOjoFPShaqa5irW",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 291595,
-      "name": "Long Distance Winner",
-      "url": "https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K"
+      "duration_ms": 253207,
+      "name": "Races Are Run",
+      "url": "https://open.spotify.com/track/2K9cZberpaZq0p6ohyxz7U"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 253207,
-      "name": "Races Are Run",
-      "url": "https://open.spotify.com/track/2K9cZberpaZq0p6ohyxz7U"
+      "duration_ms": 291595,
+      "name": "Long Distance Winner",
+      "url": "https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K"
     },
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
-        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
+        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+      "duration_ms": 228546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
     },
     {
       "added_at": null,

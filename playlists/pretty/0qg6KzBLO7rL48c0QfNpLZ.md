@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,623 likes - 94 songs - 4 hr 1 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,617 likes - 95 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 92 | [Back To Life](https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Le Bok](https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY) | [Back To Life](https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk) | 2:43 |
 | 93 | [I Want It That Way](https://open.spotify.com/track/1V13MmE2RHWM0fzFxc7cFX) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [I Want It That Way](https://open.spotify.com/album/3l0GLiC3jNaKW8Uz8H6UcU) | 2:32 |
 | 94 | [Taking My Time](https://open.spotify.com/track/56m2BJy4AD0KFUeZiLWe1m) | [Atlantix](https://open.spotify.com/artist/6SAXEJBlURybBzKlejEU0m), [beinghonest.](https://open.spotify.com/artist/1GnrF1z7ZsNfDgdA58tk87) | [Taking My Time](https://open.spotify.com/album/3KPjCRmT9v95pTPff2Po0v) | 2:55 |
+| 95 | [Together](https://open.spotify.com/track/6iFJ8KTUKiGFe2XE1GcKBn) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Lyge](https://open.spotify.com/artist/2TFo3t2jsLG5XDT8GD9XKH), [Feel On Eel](https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [Together](https://open.spotify.com/album/1RZpjazILcoF3T6Abfr5Vy) | 2:28 |
 
-Snapshot ID: `AAAhrR9S2rlPQsA0rC7MR4tjrDmRY2ol`
+Snapshot ID: `AAAhrvf1jtiqrhR/HKydLuYU++OMceJA`
